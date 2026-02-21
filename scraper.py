@@ -15,7 +15,7 @@ for a_tag in soup.find_all('a'):
     if href and "last_events" in href:
         full_url = BASE_URL + '/' + href
         links.append(full_url)
-links = links[:30] #limit to only 30 links to test
+links = links[:50] #limit to only 30 links to test
 
 
 # first_snapshot_url = links[0]
@@ -59,7 +59,13 @@ for snapshot_url in links:
                 "event_position": all_texts[i+5]
             }
             if all_texts[i] not in all_events:
+                # First time seeing this event — add it with seen_in_dates
+                event["seen_in_dates"] = [snapshot_url] #adding a new field into the event{}
                 all_events[all_texts[i]] = event
+                
+            else:
+                # Already seen — just append this snapshot to seen_in_dates
+                all_events[all_texts[i]]["seen_in_dates"].append(snapshot_url)
 
             i += 6 #Jump forward to the next gev. 
         else:

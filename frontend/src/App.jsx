@@ -13,7 +13,6 @@ const fetchEvents = () => {
   if(startDate && endDate){
     url += `?start_date=${startDate}&end_date=${endDate}`
   }
-  console.log("Fetching URL:", url)
   fetch(url)
     .then(res => res.json())
     .then(data => setEvents(data))
@@ -22,8 +21,6 @@ const fetchEvents = () => {
 useEffect(()=>{
   fetchEvents()
 }, [])
-
-
 
   // useEffect( () =>{ // runs when the page loads
   //   fetch("http://localhost:8000/events") //to call the fastapi backend
@@ -63,7 +60,6 @@ useEffect(()=>{
           ))}
         </tbody>
       </table>
-
     </div>
   )
 }

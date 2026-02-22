@@ -15,7 +15,7 @@ for a_tag in soup.find_all('a'):
     if href and "last_events" in href:
         full_url = BASE_URL + '/' + href
         links.append(full_url)
-links = links[:50] #limit to only 30 links to test
+links = links[:50] #limit to only 50 links to test
 
 
 # first_snapshot_url = links[0]

@@ -17,14 +17,15 @@ def home():
     return{"message:":"Solar events API is running."}
 
 @app.get('/events')
-def get_events(start_date: str = None, end_date: str = None):
+def get_events(start_date: str = None, end_date: str = None, goes_class: str = None):
     with open('events.json', 'r') as f:
         events = json.load(f)
 
     # to check the range of dates where the gev appears. 
-    if start_date and end_date : 
+    if start_date and end_date: 
         events = [e for e in events if start_date.replace('-', '/') <= e['event_start'] <= end_date.replace('-', '/')] # the datepicker in the js is formatted with "-" but the json format is with "/" so we need to replace it
-
+    if goes_class: 
+        events = [e for e in events if e['event_GOES'].startswith(goes_class)]
     return events
 
 @app.get('/events/{event_id}')

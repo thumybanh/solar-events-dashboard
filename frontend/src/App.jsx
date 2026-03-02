@@ -4,6 +4,7 @@ function App(){
   const[events, setEvents] = useState([]) // a state variable (events) and updated it by setEvents
   const[startDate, setStartDate] = useState('')
   const[endDate, setEndDate] = useState('')
+  const[goes_class, setGoesClass] = useState('')
 
 
 const fetchEvents = () => {
@@ -12,6 +13,9 @@ const fetchEvents = () => {
 
   if(startDate && endDate){
     url += `?start_date=${startDate}&end_date=${endDate}`
+  }
+  if(goes_class){
+    url += url.includes('?') ? `&goes_class=${goes_class}` : `?goes_class=${goes_class}`
   }
   fetch(url)
     .then(res => res.json())
@@ -32,9 +36,12 @@ useEffect(()=>{
     <div>
       <h1>Solar Events Dashboard</h1>
       <p>Total unique events: {events.length}</p>
-
+      {/* <label>Start date</label> */}
       <input type="date" onChange={e => setStartDate(e.target.value)} />
+      {/* <label>End date</label> */}
       <input type="date" onChange={e=> setEndDate(e.target.value)} />
+      {/* <label>Search for GOES class</label> */}
+      <input type="search" onChange={e=> setGoesClass(e.target.value)}/>
       <button onClick={fetchEvents}>Filter</button>
       <table>
         <thead>

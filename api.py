@@ -38,3 +38,4 @@ def get_event(event_id: str):
             return event
         
     return {"error": "Event not found"}
+

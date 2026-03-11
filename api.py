@@ -1,6 +1,7 @@
 import json
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import Response
 
 app = FastAPI()
 
@@ -24,6 +25,10 @@ def get_events(start_date: str = None, end_date: str = None, goes_class: str = N
     # to check the range of dates where the gev appears. 
     if start_date and end_date: 
         events = [e for e in events if start_date.replace('-', '/') <= e['event_start'] <= end_date.replace('-', '/')] # the datepicker in the js is formatted with "-" but the json format is with "/" so we need to replace it
+    if start_date: 
+         events = [e for e in events if e['event_start'] >= start_date.replace('-', '/')]
+    if end_date: 
+         events = [e for e in events if e['event_end'] <= end_date.replace('-', '/')]
     if goes_class: 
         events = [e for e in events if e['event_GOES'].startswith(goes_class)]
     return events
@@ -39,3 +44,18 @@ def get_event(event_id: str):
         
     return {"error": "Event not found"}
 
+
+@app.get('/events/download/')
+def get_events(start_date: str = None, end_date: str = None, goes_class: str = None):
+    with open('events.json', 'r') as f:
+            events = json.load(f)
+
+    if start_date and end_date: 
+            events = [e for e in events if start_date.replace('-', '/') <= e['event_start'] <= end_date.replace('-', '/')] # the datepicker in the js is formatted with "-" but the json format is with "/" so we need to replace it
+    if start_date: 
+         events = [e for e in events if e['event_start'] >= start_date.replace('-', '/')]
+    if end_date: 
+         events = [e for e in events if e['event_end'] <= end_date.replace('-', '/')]
+    if goes_class: 
+            events = [e for e in events if e['event_GOES'].startswith(goes_class)]
+    return events

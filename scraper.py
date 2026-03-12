@@ -13,13 +13,29 @@ links = []
 for a_tag in soup.find_all('a'):
     href = a_tag.get('href')
     if href and "last_events" in href:
-        full_url = BASE_URL + '/' + href
-        links.append(full_url)
-links = links[:50] #limit to only 50 links to test
+        last_event_date = href.split('last_events_') # split the string url into two parts: string before 'last_events_' which is [0] and string after which is [1]
+        date = last_event_date[1][:8]
+        
+        if date >= '20150701': # slide method to comapre so that we only accept dates above this starting date
+            full_url = BASE_URL + '/' + href
+            links.append(full_url)
+print(f"Total links to scrape: {len(links)}")
+print(f"First link: {links[-1]}")  # oldest link
+print(f"Last link: {links[0]}")    # newest link
+
 
 
 # first_snapshot_url = links[0]
 all_events = {}
+
+# merge the json list : 
+
+try: 
+    with open('events.json', 'r') as f: 
+        existing = json.load(f)
+    all_events = {e['event_id']: e for e in existing}
+except: 
+    all_events = {}
 
 for snapshot_url in links: 
 
@@ -33,17 +49,15 @@ for snapshot_url in links:
 
     all_tables = snapshot_soup.find_all('table')
 
-
-# from this loop, I found the table we need is table four. 
-# for i, table in enumerate(all_tables):
-#     first_row = table.find('tr')
-#     print(f"Table {i}: {first_row.get_text(strip=True)[:100]}")
-
-# some older snapshot pages might be structure differently (like have fewer tables), therefore we skip those
-    if len(all_tables) < 5:
+# check gev keyword instead so that despite having different HTML structure throughout the year, it still can be find through finding the keyword GEV_
+    events_table = None
+    for table in all_tables: 
+        if 'gev_' in table.get_text(): 
+            events_table = table
+            break
+    if events_table is None: 
         continue
 
-    events_table = all_tables[4]
     all_cells = events_table.find_all('td')
     all_texts = [cell.get_text(strip=True) for cell in all_cells]
 
@@ -74,6 +88,7 @@ for snapshot_url in links:
 print(f"Total unique events: {len(all_events)}")
 for event in all_events.values():
     print(event)
+
 
 with open('events.json', 'w') as f:
     json.dump(list(all_events.values()), f, indent = 2)

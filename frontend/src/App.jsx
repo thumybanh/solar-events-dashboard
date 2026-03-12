@@ -15,6 +15,12 @@ const fetchEvents = () => {
   if(startDate && endDate){
     url += `?start_date=${startDate}&end_date=${endDate}`
   }
+  if(startDate){
+    url += `?start_date=${startDate}`
+  }
+  if(endDate){
+    url += `?end_date=${endDate}`
+  }
   if(goes_class){
     url += url.includes('?') ? `&goes_class=${goes_class}` : `?goes_class=${goes_class}`
   }

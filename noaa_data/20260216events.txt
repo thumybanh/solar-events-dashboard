@@ -1,0 +1,62 @@
+:Product: 20260216events.txt
+:Created: 2026 Feb 19 0357 UT
+:Date: 2026 02 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Feb 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7280       0142   ////      0142  LEA  C   RSP  025-075   III/2                 
+
+7290       0157   0157      0159  LEA  G   RBR  245       130                   
+
+7300       0249   0249      0249  LEA  G   RBR  245       440                   
+
+7310       0301   ////      0321  LEA  C   RSP  025-062   VI/2                  
+7310       0302   0302      0302  LEA  G   RBR  245       650                   
+
+7340 +     0403   0435      0500  G18  5   XRA  1-8A      M2.4    5.2E-02       
+
+7320       0405   0405      0405  LEA  G   RBR  410       120                   
+
+7330       0410   0410      0410  LEA  G   RBR  410       150                   
+
+7340       0412   ////      0445  LEA  3   EPL  ////      0.26                  
+
+7350       0610   0610      0611  SVI  G   RBR  245       150                   
+
+7360       0745   0745      0745  LEA  G   RBR  245       1100                  
+
+7470 +     0924   1114      1120  SVI  G   RNS  245       590                   
+
+7370       1217   1217      1217  SAG  G   RBR  245       130                   
+
+7490       1224   1307      1342  G18  5   XRA  1-8A      C1.0    3.8E-03       
+7490       1243   ////      1537  SVI  C   RSP  075-180   CTM/1                 
+
+7380       1256   1256      1256  SVI  G   RBR  245       120                   
+
+7480       1355   ////      1356  SVI  C   RSP  025-131   III/1                 
+
+7390       1356   ////      1356  SAG  C   RSP  025-180   III/1                 
+
+7400       1536   1536      1543  HOL  3   FLA  N09W18    SF                4374
+
+7410       1751   1759      1804  G19  5   XRA  1-8A      B6.3    4.9E-04       
+
+7420 +     1817   1825      1829  G18  5   XRA  1-8A      B7.2    6.8E-04       
+
+7550       1829   1833      1840  G18  5   XRA  1-8A      B7.3    5.5E-04       
+
+7430       1856   1858      1858  SAG  G   RBR  245       290                   
+
+7440 +     1953   1953      1953  SAG  G   RBR  245       250                   
+
+7450       1959   1959      1959  SAG  G   RBR  245       140                   
+
+7460       2002   2002      2003  SAG  G   RBR  245       370                   

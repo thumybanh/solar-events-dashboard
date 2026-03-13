@@ -123,7 +123,7 @@ useEffect(()=>{
       {/* <label>End date</label> */}
       <input type="date" onChange={e=> setEndDate(e.target.value)} />
       {/* <label>Search for GOES class</label> */}
-      <input type="search" onChange={e=> setGoesClass(e.target.value)}/>
+      <input type="search" className="goes-input" placeholder="Filter by GOES class" onChange={e=> setGoesClass(e.target.value)}/>
       <button onClick={fetchEvents}>Filter</button>
       <button onClick={downloadCSV}>Download CSV</button>
       <button onClick={downloadJSON}>Download JSON</button>
@@ -136,6 +136,7 @@ useEffect(()=>{
             <th>Peak</th>
             <th>GOES class</th>
             <th>Derived Position</th>
+            <th>Quality Flag</th>
           </tr>
         </thead>
         <tbody>
@@ -147,6 +148,7 @@ useEffect(()=>{
               <td>{event.event_peak}</td>
               <td>{event.event_GOES}</td>
               <td>{event.event_position}</td>
+              <td>{event.quality_flag}</td>
             </tr>
           ))}
         </tbody>

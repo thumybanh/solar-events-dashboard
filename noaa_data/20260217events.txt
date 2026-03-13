@@ -1,0 +1,48 @@
+:Product: 20260217events.txt
+:Created: 2026 Feb 20 0357 UT
+:Date: 2026 02 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Feb 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7500 +     0007   0011      0013  LEA  G   RBR  245       1200                  
+
+7510       0017   0017      0018  LEA  G   RBR  245       320                   
+
+7540       0025   0049      0202  LEA  G   RNS  245       290                   
+
+7520       0253   ////      0253  LEA  C   RSP  075-106   III/1                 
+7520       0253   ////      0336  LEA  C   RSP  035-109   VI/1                  
+
+7560       0434   ////      0448  LEA  C   RSP  025-120   VI/2                  
+
+7530 +     0441   0452      0502  G18  5   XRA  1-8A      C1.0    1.0E-03       
+
+7570       0521   ////      0547  LEA  C   RSP  025-140   VI/2                  
+
+7580 +     0651   ////      0657  LEA  C   RSP  025-141   III/2                 
+
+7590 +     0757   ////      0800  LEA  C   RSP  025-067   III/2                 
+
+7600       1024   ////      1025  SVI  U   RSP  025-067   III/1                 
+
+7610       1039   1039      1039  LEA  G   RBR  245       100                   
+
+7620       1445   1445      1445  SAG  G   RBR  245       100                   
+
+7630 +     1547   1556      1604  G18  5   XRA  1-8A      B9.8    8.7E-04   4374
+7630      B1554   1554      1613  HOL  2   FLA  N09W32    SF      ERU       4374
+
+7640       1621   1624      1627  HOL  2   FLA  N09W32    SF                4374
+
+7650       1650   1655      1705  HOL  2   FLA  N09W33    SF                4374
+
+7660 +     1837   1848      1858  G18  5   XRA  1-8A      C1.1    1.4E-03       
+
+7670 +     2307   2323      2331  G18  5   XRA  1-8A      C1.8    1.8E-03   4374

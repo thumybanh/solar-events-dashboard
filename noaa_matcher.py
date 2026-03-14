@@ -82,8 +82,18 @@ with open('events.json', 'w') as f:
      json.dump(LMSAL_list, f, indent=2)
 
 
-                    
+# convert the position into latitude and longitude 
+def convert_position(LMSAL_position):
 
+    lat_dir = LMSAL_position[0]
+    lat_num = LMSAL_position[1:3]
+    lon_dir = LMSAL_position[3]
+    lon_num = LMSAL_position[4:6]
+
+    lat = int(lat_num) if lat_dir == 'N' else -int(lat_num)
+    lon = int(lon_num) if lon_dir == 'W' else -int(lon_num)  
+
+    return lat, lon  
 
 
         

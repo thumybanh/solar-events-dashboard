@@ -50,9 +50,10 @@ const getSourceId = (eventStart) => {
 }
 
 // to reformat the date so that we could call the helioviewer api
-const helioDate = (eventStart) =>{
-    return eventStart.replace(/\//g, '-').replace(' ', 'T') + 'Z'
-}
+// const helioDate = (eventStart) =>{
+//     return eventStart.replace(/\//g, '-').replace(' ', 'T') + 'Z'
+// }
+
 
 // download feature
 const downloadCSV = () => {
@@ -94,14 +95,39 @@ const downloadJSON = () => {
 //   setImageURL(imageURL)
 // }
 
-const imageFetch = async (event) => {
+///////////////// HELIOVIEWER API /////////////////////////
+// const imageFetch = async (event) => {
+//   setSelectedEvent(event)
+//   const date = helioDate(event.event_start)
+
+//   const response = await fetch(`https://api.helioviewer.org/v2/takeScreenshot/?date=${date}&imageScale=5&layers=[SDO,AIA,AIA,171,1,100]&x0=0&y0=0&width=512&height=512`) // [Observatory, Instrument, Detector, Measurement, Visible, Opacity]
+
+//   const data = await response.json()
+//   setImageURL(`https://api.helioviewer.org/v2/downloadScreenshot/?id=${data.id}`)
+// }
+///////////////////////////////////////////////////////////
+
+
+//////// ISWA VERSION ///////////
+const imageFetch = (event) => {
   setSelectedEvent(event)
-  const date = helioDate(event.event_start)
+  const year = event.event_id.substring(4,8)
+  const month = event.event_id.substring(8,10)
+  const hour = event.event_id.substring(13,15)
+  const minute = event.event_id.substring(15,17)
+  const full_date = event.event_id.substring(4,12)
 
-  const response = await fetch(`https://api.helioviewer.org/v2/takeScreenshot/?date=${date}&imageScale=5&layers=[SDO,AIA,AIA,171,1,100]&x0=0&y0=0&width=512&height=512`) // [Observatory, Instrument, Detector, Measurement, Visible, Opacity]
+  const minuteConvert = Math.round(parseInt(minute) / 15) * 15
+  let full_time = ''
+  if (minuteConvert == 60){
+      const addHour = parseInt(hour) + 1
+      full_time = String(addHour).padStart(2,'0') + '00'
+  } 
+  else {
+    full_time = hour + String(minuteConvert).padStart(2,'0')
+  }
 
-  const data = await response.json()
-  setImageURL(`https://api.helioviewer.org/v2/downloadScreenshot/?id=${data.id}`)
+  setImageURL(`https://iswa.ccmc.gsfc.nasa.gov/iswa_data_tree/observation/solar/sdo/hmi-magnetogram_2048x2048/${year}/${month}/${full_date}_${full_time}00_2048_HMIB.jpg`) // [Observatory, Instrument, Detector, Measurement, Visible, Opacity]
 }
 
 useEffect(()=>{
@@ -162,10 +188,26 @@ useEffect(()=>{
           <p>Start: {selectedEvent.event_start}</p>
           <p>GOES class:{selectedEvent.event_GOES} </p>
           <p>Position: {selectedEvent.event_position}</p>
-          {imageURL && <img src={imageURL} style={{width: '100%'}}></img>}
+          {imageURL && 
+          <div style ={{position: 'relative', width : '600px', height: '600px'}}>
+          <img src={imageURL} style={{width: '100%'}} />
+          <div style={{
+            position: 'absolute',
+            left: selectedEvent.pix_x * (600/512),
+            top: selectedEvent.pix_y * (600/512),
+            width : '10px',
+            height: '10px',
+            borderRadius: '50%',
+            backgroundColor: 'red'
+          }}></div>
+
+    </div>}
         </div>
+        
       </div>
     )}
+
+    
 
     </div>
   )

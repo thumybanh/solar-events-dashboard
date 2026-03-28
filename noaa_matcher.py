@@ -38,8 +38,6 @@ for fileName in os.listdir('noaa_data'):
     results = parse_noaa_file(os.path.join('noaa_data', fileName))
     noaa_list.extend(results) # use extend because 'extend' add each item individually -> flat list instead of adds whole list as one item like append
 
-print(f"Total NOAA events: {len(noaa_list)}")
-print(noaa_list[:3])
 
 LMSAL_list = []
 def match_events() : 

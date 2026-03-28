@@ -14,9 +14,9 @@ def convert_hgs_to_pix(x,y):
     hpc_x, hpc_y = convertHCC_HPC(hcc_x, hcc_y)
     
     pix_x = HPCCENTER + (hpc_x/CDELT)
-    pix_y = HPCCENTER - (hpc_y/CDELT)
+    pix_y = HPCCENTER - (hpc_y/CDELT) # flip the minus sign due to the screen coordinate is behaving opposite
     
-    return pix_x/8.0, pix_y/8.0
+    return pix_x/8.0, pix_y/8.0 # pandey's original 4096 x 4096 px image -> resize it to 512 x 512
 
 def convertHG_HCC(hglon_deg, hglat_deg):
     b0_deg = 0

@@ -39,6 +39,53 @@ for fileName in os.listdir('noaa_data'):
     noaa_list.extend(results) # use extend because 'extend' add each item individually -> flat list instead of adds whole list as one item like append
 
 
+
+
+# Optimal window analysis #
+
+windows = [0, 5, 10, 15, 20, 25, 30] 
+prev_matches = 0
+optimal_window = 0
+
+with open('events.json', 'r') as f: 
+    events = json.load(f)
+    
+for window in windows: 
+    matches = 0
+    for event in events: 
+        LMSALdate = event['event_start'].split(' ')[0].replace('/','')
+        LMSALstart = event['event_start'].split(' ')[1].replace(':','')[:4]
+        LMSALpeak = event['event_peak'].replace(':', '')[:4]
+        LMSALend = event['event_stop'].replace(':','')[:4]
+        LMSALGOES = event['event_GOES'] 
+
+        for NOAA_event in noaa_list:
+            if NOAA_event['date'] is not None:
+                    same_date = NOAA_event['date'] == LMSALdate 
+            else: continue
+
+            if NOAA_event['begin'] is not None and NOAA_event['end'] is not None: 
+                time_start_diff = abs(int(NOAA_event['begin']) - int(LMSALstart))
+                time_end_diff = abs(int(NOAA_event['end']) - int(LMSALend))
+            else: continue
+
+            if NOAA_event['goes_class'] is not None: 
+                same_class = NOAA_event['goes_class'] == LMSALGOES
+            else : continue
+
+            if same_date and time_start_diff <= window and time_end_diff <=window  and same_class : 
+                matches += 1 
+                break
+    new_matches = matches - prev_matches
+    print(new_matches)                                             
+    
+                 
+             
+             
+
+
+
+
 LMSAL_list = []
 def match_events() : 
      LMSAL_events = []

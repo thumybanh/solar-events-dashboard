@@ -1,0 +1,29 @@
+:Product: 20220811events.txt
+:Created: 2022 Aug 14 0357 UT
+:Date: 2022 08 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Aug 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2630 +     0035   0051      0114  G16  5   XRA  1-8A      B6.3    1.3E-03       
+
+2640 +     0559   0617      0630  G16  5   XRA  1-8A      C1.1    8.8E-04   3077
+2640      B0609   0617      0629  LEA  3   FLA  S17W30    SF      DSD       3077
+
+2660 +     0630   0658      0719  G16  5   XRA  1-8A      C1.2    3.4E-03   3077
+
+2650 +     0727   ////      0907  LEA  C   RSP  085-180   CTM/1                 
+
+2690 +     1609   1613      1616  G16  5   XRA  1-8A      B4.9    2.0E-04       
+
+2670 +     1616   1624      1628  G16  5   XRA  1-8A      C1.1    6.0E-04   3076
+
+2680 +     1851   ////      1852  PAL  C   RSP  025-075   III/1                 
+
+2700 +     2025   ////      2105  PAL  C   RSP  025-156   VI/2                  

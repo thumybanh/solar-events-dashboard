@@ -1,0 +1,77 @@
+:Product: 20250715events.txt
+:Created: 2025 Jul 18 0357 UT
+:Date: 2025 07 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6980 +     0434   ////      0435  SVI  C   RSP  043-146   III/1                 
+
+6990       0508   0512      0518  SVI  3   FLA  N01E48    SF                4142
+
+7000 +     0600   0611      0621  G18  5   XRA  1-8A      C1.6    2.0E-03   4142
+
+7010 +     0636   ////      0637  SVI  C   RSP  025-062   III/1                 
+
+7020       0716   0716      0722  SVI  3   FLA  N01E47    SF                4142
+
+7030       0930   0932      0932  SVI  3   FLA  N02E45    SF                4142
+
+7040       1006   1008      1018  SVI  3   FLA  N02E44    SF                4142
+
+7050 +     1052   ////      1102  SVI  C   RSP  036-059   II/1    525           
+
+7060       1109   1114      1117  SVI  3   FLA  N02E44    SF                4142
+
+7070 +     1117   1117      1117  SVI  G   RBR  245       110                   
+
+7080       1256   1256      1302  SVI  3   FLA  N01E43    SF                4142
+
+7090 +     1338   ////      1338  SAG  C   RSP  136-180   III/1                 
+
+7100 +     1453   1453      1453  SVI  G   RBR  245       100                   
+
+7110       1454   1458      1507  SVI  3   FLA  N02E42    SF                4142
+7110 +     1504   ////      1505  SAG  C   RSP  025-180   III/1             4142
+
+7120       1524   1524      1524  SAG  U   RBR  245       120                   
+
+7130       1532   1532      1532  SAG  U   RBR  245       100                   
+
+7140       1556   1556      1556  SAG  U   RBR  245       100                   
+
+7150 +     1614   1614      1614  SVI  G   RBR  245       220                   
+
+7160 +     1657   1708      1719  G18  5   XRA  1-8A      C2.4    2.8E-03   4142
+
+7280       1805   1805      1805  SAG  U   RBR  245       130                   
+
+7180 +     1842   1842      1842  SAG  G   RBR  410       180                   
+
+7190       1919   1921      1921  PAL  G   RBR  245       120                   
+
+7280 +     1919   1956      2111  PAL  G   RNS  245       330                   
+
+7200       1934   1934      1934  SAG  U   RBR  245       620                   
+
+7210       1956   1956      1956  SAG  U   RBR  245       220                   
+
+7220       2110   2110      2110  SAG  U   RBR  245       170                   
+
+7230       2119   2119      2119  PAL  G   RBR  8800      100                   
+
+7240 +     2201   2201      2201  PAL  G   RBR  245       150                   
+
+7250       2240   2240      2240  PAL  G   RBR  245       100                   
+
+7260       2247   2247      2247  PAL  G   RBR  245       100                   
+
+7270       2253   2253      2253  PAL  G   RBR  245       130                   
+
+7290       2315   ////      2359  LEA  C   RSP  125-180   CTM/1                 

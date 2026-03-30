@@ -1,0 +1,46 @@
+:Product: 20240915events.txt
+:Created: 2024 Sep 18 0357 UT
+:Date: 2024 09 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Sep 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1910 +     0024   ////      0226  LEA  C   RSP  025-180   VI/2                  
+
+1920       0416   ////      0554  LEA  C   RSP  095-180   CTM/1                 
+
+1930 +     0620   ////      0626  LEA  C   RSP  025-141   III/1                 
+
+1940       0653   ////      0716  SVI  C   RSP  025-082   VI/1                  
+1940       0716   ////      0717  LEA  C   RSP  034-134   III/1                 
+
+1950 +     0749   0755      0803  G16  5   XRA  1-8A      C3.0    2.3E-03   3825
+
+2110       0754   0756      0802  SVI  3   FLA  S05W16    SF                3824
+
+1950       0755   0755      0755  SVI  U   RBR  410       160               3825
+
+1960       0816   ////      0817  SVI  C   RSP  025-084   III/2                 
+
+1980       0840   0904      0935  G16  5   XRA  1-8A      C2.3    6.8E-03   3825
+
+1970       1034   1112      1150  G16  5   XRA  1-8A      C3.7    1.1E-02   3825
+1970 +     1055   ////      1101  SAG  C   RSP  025-159   III/1                 
+
+2000       1356   1356      1356  SVI  U   RBR  410       170                   
+
+2010 +     1523   1528      1534  G16  5   XRA  1-8A      C4.7    2.2E-03   3824
+2010       1525   1527      1536  HOL  3   FLA  S05W16    SF      DSD       3824
+
+2030       1612   ////      1612  SAG  C   RSP  025-048   III/1                 
+
+2040 +     2123   2133      2150  G16  5   XRA  1-8A      C3.9    5.0E-03   3825
+2040       2128   2129      2153  HOL  3   FLA  S13E29    1F      DSD       3825
+
+2050 +     2317   2334      2350  G16  5   XRA  1-8A      C4.9    7.3E-03   3824

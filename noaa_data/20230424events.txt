@@ -1,0 +1,31 @@
+:Product: 20230424events.txt
+:Created: 2023 Apr 27 0357 UT
+:Date: 2023 04 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7160      A0007   ////     A1322  HOL  2   DSF  S43W14    8                     
+
+7130       0030   ////      0439  LEA  3   EPL  ////      0.19    B.5A          
+
+7140 +     1106   1116      1120  G16  5   XRA  1-8A      C2.2    9.2E-04   3282
+7140 +     1108   ////      1115  SVI  C   RSP  075-175   III/1                 
+
+7150 +     1259   1305      1310  G16  5   XRA  1-8A      C2.8    1.2E-03   3283
+
+7190       1611   ////      1816  HOL  3   BSL  ////      0.12                  
+
+7170 +     1614   1622      1629  G16  5   XRA  1-8A      C1.1    9.0E-04   3282
+
+7260      A1615   ////     A0511  SVI  3   DSF  N08E18    10                    
+
+7180 +     1719   1727      1731  G16  5   XRA  1-8A      C1.5    8.4E-04   3285
+
+7200       1807   1808      1810  HOL  3   FLA  N11W72    SF                3282

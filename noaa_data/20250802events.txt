@@ -1,0 +1,93 @@
+:Product: 20250802events.txt
+:Created: 2025 Aug 05 0357 UT
+:Date: 2025 08 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Aug 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 760       0028   0029      0034  HOL  3   FLA  N11W24    SF      DSD       4167
+
+ 750 +     0052   0052      0052  LEA  G   RBR  610       320                   
+
+ 770       0159   0159      0159  PAL  G   RBR  245       100                   
+
+ 780       0201   0201      0201  PAL  G   RBR  245       100                   
+
+ 790       0213   ////      0213  LEA  C   RSP  025-041   III/2                 
+
+ 800       0425   ////      0521  SVI  C   RSP  114-168   CTM/1                 
+
+ 810 +     0614   0617      0620  G18  5   XRA  1-8A      C1.1    4.7E-04   4167
+ 810 +     0615   ////      0723  SVI  C   RSP  118-169   CTM/1                 
+
+ 820       0634   0634      0634  SVI  G   RBR  410       130                   
+
+ 830       0943   ////      0944  SVI  C   RSP  025-083   III/1                 
+
+ 840 +     1059   1109      1119  G18  5   XRA  1-8A      C3.6    3.3E-03   4153
+
+ 850       1212   1220      1223  G18  5   XRA  1-8A      C1.6    1.1E-03   4153
+
+ 860       1331   1335      1338  SVI  3   FLA  N09W32    SF                4167
+
+ 870 +     1449   1500      1510  G18  5   XRA  1-8A      C2.9    3.7E-03   4167
+ 870       1457   1457      1511  HOL  3   FLA  N09W32    SF      DSD       4167
+
+ 920 +     1510   1515      1517  G18  5   XRA  1-8A      C2.7    1.6E-03   4167
+
+ 930       1514   1516      1521  SVI  3   FLA  N05E36    SF                4167
+
+1010       1551   1557      1609  G18  5   XRA  1-8A      C1.4    1.5E-03   4167
+
+ 890 +     1620   1622      1624  HOL  3   FLA  N09W33    SF      DSD       4167
+
+1320      A1704   ////     A0454  SVI  3   DSF  N31E09    14                    
+
+ 900 +     1720   1720      1720  SAG  G   RBR  245       130                   
+
+ 910 +     1726   1740      1748  G18  5   XRA  1-8A      C2.4    2.4E-03   4167
+ 910       1736   1738      1753  HOL  3   FLA  N09W33    SF                4167
+
+ 940       1752   ////      1753  SAG  C   RSP  025-051   III/1                 
+
+ 950 +     1757   1801      1803  G18  5   XRA  1-8A      C3.1    9.4E-04   4168
+ 950       1800   1801      1805  HOL  3   FLA  N05E35    SF      DSD       4168
+ 950 +     1801   1801      1801  SAG  G   RBR  245       110               4168
+
+ 960       1812   1812      1812  PAL  G   RBR  245       830                   
+
+ 970       1815   1815      1815  PAL  G   RBR  245       330                   
+
+1020       1830   1836      1841  G18  5   XRA  1-8A      C1.8    8.1E-04   4167
+
+ 980 +     1834   ////      1837  SAG  C   RSP  046-165   III/1             4167
+ 980 +     1834   1835      1835  SAG  G   RBR  610       280               4167
+ 980       1835   1837      1842  HOL  3   FLA  N11W30    SF                4167
+
+ 990       1845   1845      1846  PAL  U   RBR  245       1800                  
+
+1000 +     1859   1917      1925  G18  5   XRA  1-8A      C3.5    3.9E-03   4167
+1000       1903   1914      1937  HOL  3   FLA  N09W34    SF      ERU       4167
+1000 +     1917   1919      1919  SAG  G   RBR  245       130               4167
+
+1040       1948   ////      2004  SAG  C   RSP  025-055   VI/1                  
+
+1030       2003   2004      2008  HOL  3   FLA  N06E34    SF      DSD       4168
+
+1050       2011   2017      2023  HOL  3   FLA  N09W36    SF                4167
+
+1060       2117   2134      2135  HOL  3   FLA  N09W36    SF                4167
+
+1080       2203   2305      2327  HOL  3   FLA  N09W37    SF      ERU       4167
+
+1070 +     2220   ////      2225  PAL  C   RSP  025-060   III/2                 
+
+1090       2328   2328      2351  HOL  3   FLA  N09W39    SF                4167
+
+1100       2358   ////      2358  LEA  C   RSP  025-046   III/2                 

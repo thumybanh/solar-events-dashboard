@@ -1,0 +1,68 @@
+:Product: 20230430events.txt
+:Created: 2023 May 03 0357 UT
+:Date: 2023 04 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8420       0000   ////      0707  LEA  C   RSP  070-180   CTM/1                 
+
+8370 +     0210   0217      0222  G18  5   XRA  1-8A      C3.9    2.0E-03   3288
+8370       0211   ////      0213  LEA  C   RSP  025-180   V/2                   
+8370       0211   ////      0213  PAL  C   RSP  025-180   III/2                 
+8370       0211   0211      0211  LEA  G   RBR  245       110                   
+
+8380       0312   ////      0349  LEA  C   RSP  025-141   VI/2                  
+8380       0313   0313      0314  LEA  G   RBR  245       150                   
+
+8430       0404   ////      0619  SVI  C   RSP  114-180   CTM/1                 
+
+8390 +     0450   ////      0451  LEA  C   RSP  025-095   III/1                 
+
+8440       0538   ////      0650  SVI  C   RSP  025-180   VI/2                  
+
+8450       0640   ////      0641  LEA  C   RSP  025-136   III/2                 
+
+8470       0810   ////      0840  SVI  C   RSP  025-126   VI/2                  
+
+8460       0814   ////      0821  LEA  C   RSP  025-180   III/1                 
+
+8470       0832   ////      0840  LEA  C   RSP  025-180   III/2                 
+8470 +     0837   0849      0905  G18  5   XRA  1-8A      C7.3    7.9E-03   3288
+
+8480 +     1131   ////      1134  SVI  C   RSP  025-084   III/1                 
+
+8490 +     1402   ////      1403  SVI  C   RSP  025-084   III/1                 
+
+8500 +     1426   1452      1510  G16  5   XRA  1-8A      C3.9    5.3E-03   3288
+8500       1428   1438      1607  HOL  3   FLA  S20W40    SF      DSD       3288
+8500 +     1441   1441      1441  SVI  G   RBR  410       100               3288
+8500       1444   1455      1504  SVI  G   RBR  245       300               3288
+8500       1446   ////      1502  SAG  C   RSP  025-180   VI/1              3288
+8500 +     1502   ////      1827  SAG  C   RSP  025-180   CTM/1             3288
+
+8510       1629   1629      1629  PAL  G   RBR  245       110                   
+
+8520 +     1638   1642      1646  PAL  G   RBR  245       730                   
+8520 +     1638   1642      1644  PAL  G   RBR  410       1900                  
+8520 +     1641   1651      1656  G18  5   XRA  1-8A      C2.6    2.2E-03   3293
+8520 +     1651   1651      1654  HOL  3   FLA  N18W50    SF      YSR           
+8520       1651   ////      1652  PAL  C   RSP  025-060   III/1                 
+
+8530       1743   1746      1749  HOL  3   FLA  N13E79    SF                    
+
+8570       1939   ////      2110  SAG  C   RSP  025-060   VI/1                  
+
+8560 +     1956   2028      2043  G18  5   XRA  1-8A      M2.4    3.8E-02   3293
+
+8550       2005   2012      2017  HOL  3   FLA  N14E81    1F                    
+
+8580       2126   2136      2144  G16  5   XRA  1-8A      C5.0    5.2E-03   3293
+
+8590 +     2239   ////      2241  PAL  C   RSP  025-180   III/2                 

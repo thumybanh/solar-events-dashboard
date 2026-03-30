@@ -1,0 +1,27 @@
+:Product: 20230313events.txt
+:Created: 2023 Mar 16 0357 UT
+:Date: 2023 03 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Mar 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8090       0320   ////      0329  LEA  C   RSP  045-111   II/1    494           
+
+8100       0517   ////      0539  LEA  C   RSP  033-100   VI/1                  
+
+8110 +     0820   ////      0823  SVI  C   RSP  025-180   III/2                 
+
+8130       0946   ////      1052  SVI  3   DSF  N29W06    27                    
+8130       1018   1106      1148  G16  5   XRA  1-8A      C3.1    1.2E-02       
+
+8120       1101   1102      1114  SVI  3   FLA  N25E05    SF      ERU           
+
+8140       1722   1736      1730  HOL  3   FLA  S20W04    SF      ERU       3250
+
+8150       2356   ////      2357  LEA  C   RSP  025-148   III/1                 

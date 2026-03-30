@@ -1,0 +1,89 @@
+:Product: 20230615events.txt
+:Created: 2023 Jun 18 0357 UT
+:Date: 2023 06 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jun 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2000       0010   ////      0014  PAL  U   RSP  025-075   III/1                 
+
+2010 +     0123   0131      0138  G16  5   XRA  1-8A      C2.4    2.0E-03   3335
+2010       0126   0127      0140  LEA  3   FLA  S15E66    SF                3335
+
+2020 +     0313   0317      0326  G16  5   XRA  1-8A      C6.0    3.2E-03   3336
+2020       0324   0324      0324  LEA  G   RBR  245       150                   
+
+2030       0355   0355      0355  LEA  G   RBR  245       100                   
+
+2040       0507   0507      0507  LEA  G   RBR  245       210                   
+
+2050       0508   ////      0513  LEA  C   RSP  025-115   III/1                 
+2050       0508   ////      0520  SVI  C   RSP  025-142   VI/1                  
+
+2060       0519   ////      0520  LEA  C   RSP  050-180   III/1                 
+
+2070       0521   0521      0521  LEA  G   RBR  245       130                   
+
+2080       0523   0523      0523  LEA  G   RBR  245       120                   
+
+2090       0542   0542      0542  LEA  G   RBR  245       130                   
+
+2100       0547   0547      0547  LEA  G   RBR  245       110                   
+
+2110 +     0550   0552      0552  LEA  G   RBR  245       140                   
+
+2120       0556   0556      0556  LEA  G   RBR  245       110                   
+
+2130       0620   0620      0620  LEA  G   RBR  245       120                   
+
+2140 +     0625   ////      0626  LEA  C   RSP  025-180   III/1                 
+2140       0625   0625      0625  LEA  G   RBR  245       100                   
+
+2150       0628   0628      0628  SVI  G   RBR  245       140                   
+
+2160       0650   0650      0650  LEA  G   RBR  245       150                   
+
+2170       0727   0727      0727  LEA  G   RBR  245       100                   
+
+2180       0728   ////      0756  SVI  C   RSP  025-180   VI/1                  
+2180       0732   0732      0732  LEA  G   RBR  245       100                   
+
+2190       1128   ////      1128  SAG  C   RSP  025-047   III/1                 
+
+2200       1233   1255      1350  G16  5   XRA  1-8A      C9.7    3.2E-02   3336
+2200 +     1242   ////      1247  SVI  C   RSP  025-084   III/1             3336
+2200       1242   ////      1333  SAG  C   RSP  025-084   VI/1              3336
+2200 +     1248   1251      1343  HOL  3   FLA  S22E61    SF      DSD       3336
+2200 +     1307   1307      1307  SVI  G   RBR  245       230               3336
+
+2210       1340   1340      1340  SVI  G   RBR  245       110                   
+
+2220       1352   1352      1352  SVI  G   RBR  245       130                   
+
+2230      B1412  U1417     A1419  SVI  3   FLA  S16E57    SF                3335
+
+2270      B1412  U1413     A1419  SVI  3   FLA  S21E63    SF                3336
+
+2240       1556   ////      1730  SAG  C   RSP  025-046   VI/1                  
+
+2250 +     1712   1717      1730  G16  5   XRA  1-8A      C2.8    2.9E-03   3338
+2250       1715   1717      1725  HOL  3   FLA  N13E77    SF      DSD       3338
+
+2260       1733   1741      1749  HOL  3   FLA  N13E76    SF      DSD       3338
+
+2280 +     1840   ////      1844  PAL  C   RSP  025-180   III/2                 
+
+2290       1939   1939      1939  PAL  G   RBR  245       590                   
+2290 +     1939   ////      1939  PAL  C   RSP  108-180   III/2                 
+
+2300 +     2052   ////      2052  PAL  C   RSP  025-087   III/1                 
+
+2310       2133   2134      2136  HOL  3   FLA  N13E72    SF                3338
+
+2320 +     2218   ////      2218  PAL  C   RSP  025-057   III/2                 

@@ -1,0 +1,61 @@
+:Product: 20230816events.txt
+:Created: 2023 Aug 19 0357 UT
+:Date: 2023 08 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Aug 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2950 +     0104   0118      0130  G16  5   XRA  1-8A      C1.9    8.4E-04   3403
+
+2960 +     0132   0143      0154  G16  5   XRA  1-8A      C2.0    6.2E-04   3403
+
+2970 +     0253   0304      0315  G16  5   XRA  1-8A      C1.7    1.9E-03   3403
+
+2990       0446   0446      0446  LEA  G   RNS  245       170                   
+
+3000       0519   ////      1020  SVI  C   RSP  025-180   VI/1                  
+
+3010       0730   ////      0904  LEA  C   RSP  025-180   VI/1                  
+
+2980 +     0736   0747      0756  G16  5   XRA  1-8A      C1.8    2.2E-03   3405
+2980       0741   0745      0751  SVI  3   FLA  N09E60    SF                3405
+
+3060       0758   0801      0813  SVI  3   FLA  N25E01    SF      ERU       3403
+
+3020 +     0941   0949      1003  G16  5   XRA  1-8A      C1.4    6.9E-04   3403
+3020 +     0957   0958      1000  SVI  3   FLA  N25E00    SF                3403
+
+3030 +     1018   1030      1045  G16  5   XRA  1-8A      C1.8    2.6E-03   3403
+3030       1026   1035      1037  SVI  3   FLA  N26W01    SF      ERU       3403
+3030       1044   ////      1844  SAG  C   RSP  025-180   CTM/1             3403
+
+3080       1048   ////      1736  SVI  C   RSP  025-180   CTM/1                 
+
+3070       1250   1250      1250  SVI  G   RBR  245       110                   
+
+3090 +     1337   1357      1421  G16  5   XRA  1-8A      C3.3    6.6E-03   3395
+
+3100 +     1421   ////      1430  SVI  C   RSP  025-080   III/2                 
+
+3110       1513   1513      1513  SVI  G   RBR  245       160                   
+
+3120       1738   ////      1742  SAG  C   RSP  025-052   III/1                 
+
+3130       1923   ////      1945  SAG  C   RSP  025-151   VI/1                  
+
+3140       2047   ////      2052  SAG  C   RSP  025-144   III/1                 
+
+3150       2110   2115      2138  HOL  3   FLA  S05E38    SF      ERU       3404
+
+3160       2151   ////      2155  SAG  C   RSP  025-141   III/1                 
+
+3170       2300   ////      2305  SAG  C   RSP  025-169   III/1                 
+3170       2300   ////      2333  LEA  C   RSP  025-180   VI/2                  
+
+3180       2329   ////      2330  SAG  C   RSP  025-052   III/1                 

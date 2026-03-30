@@ -1,0 +1,28 @@
+:Product: 20231115events.txt
+:Created: 2023 Nov 18 0357 UT
+:Date: 2023 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 650       0110   ////      0113  LEA  C   RSP  025-052   III/1                 
+
+ 660       0314   0320      0326  G18  5   XRA  1-8A      C1.2    6.7E-04       
+
+ 670 +     0338   0351      0355  G16  5   XRA  1-8A      C1.8    1.9E-03       
+ 670       0358   ////      0409  LEA  C   RSP  025-180   VI/2                  
+
+ 680       0421   0432      0439  G18  5   XRA  1-8A      C2.8    2.6E-03       
+
+ 690       0607   0617      0627  G18  5   XRA  1-8A      C1.4    8.8E-04       
+
+ 700 +     0656   ////      0810  LEA  C   RSP  058-164   CTM/1                 
+
+ 710       1205   1212      1218  G18  5   XRA  1-8A      C7.6    3.3E-03   3485
+ 710       1210   ////      1211  SVI  C   RSP  025-081   III/1                 

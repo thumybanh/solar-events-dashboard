@@ -1,0 +1,58 @@
+:Product: 20240227events.txt
+:Created: 2024 Mar 01 0357 UT
+:Date: 2024 02 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Feb 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3010       0036   0036      0036  PAL  G   RBR  245       110                   
+
+3020       0102   0102      0102  PAL  G   RBR  245       140                   
+
+3030       0105   ////      0106  LEA  C   RSP  025-180   III/2                 
+
+3040       0407   ////      0410  PAL  C   RSP  040-180   III/2                 
+3040       0408   ////      0419  LEA  C   RSP  025-180   VI/3                  
+3040       0408   0408      0409  PAL  G   RBR  245       370                   
+
+3050       0515   ////      0529  LEA  C   RSP  025-180   VI/2                  
+
+3060 +     0639   0644      0648  G16  5   XRA  1-8A      C1.2    1.0E-03   3596
+3060       0646   ////      0847  LEA  C   RSP  025-180   VI/1                  
+
+3070       0652   ////      0653  SVI  C   RSP  025-180   III/1                 
+
+3080 +     0714   0742      0817  G16  5   XRA  1-8A      C3.4    1.1E-02   3590
+3080       0716   ////      0716  SVI  C   RSP  025-065   III/1                 
+
+3090      B0837  U0847     A0911  SVI  2   FLA  N20E28    SF                3595
+
+3110      B0842  U0842     A0905  SVI  2   FLA  N19W24    SF      ERU       3590
+
+3120      B0917  U1033     A1105  SVI  3   FLA  N20E27    SF                3595
+
+3100      B0927  U0927     A0932  SVI  3   FLA  S33E32    SF                3591
+
+3120       0947   ////      0947  LEA  C   RSP  025-117   III/1             3595
+
+3130      B1114  U1116     A1122  SVI  3   FLA  S33E32    SF                3591
+
+3140      B1135  U1135     A1139  SVI  3   FLA  N20E27    SF                3595
+
+3150 +     1311   ////      1311  SAG  C   RSP  025-150   III/1                 
+
+3160 +     1420   1435      1454  G16  5   XRA  1-8A      C1.5    2.9E-03   3595
+
+3170       1721   ////      1723  PAL  C   RSP  025-065   III/2                 
+
+3190 +     1951   2000      2011  G16  5   XRA  1-8A      C1.7    2.0E-03   3595
+
+3200       2011   2011      2011  PAL  G   RBR  245       370                   
+
+3210       2056   2056      2056  PAL  G   RBR  245       120                   

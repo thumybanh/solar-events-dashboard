@@ -1,0 +1,31 @@
+:Product: 20220726events.txt
+:Created: 2022 Jul 29 0357 UT
+:Date: 2022 07 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jul 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 790 +     0138   0149      0200  G16  5   XRA  1-8A      B3.8    4.4E-04       
+
+ 800 +     0248   0253      0257  G16  5   XRA  1-8A      B3.9    1.8E-04       
+
+ 810 +     0341   0347      0351  G16  5   XRA  1-8A      B3.2    2.0E-04       
+
+ 820 +     0551   0558      0602  G16  5   XRA  1-8A      B3.6    2.0E-04       
+ 820       0556   0558      0606  LEA  3   FLA  N19E78    SF      DSD           
+
+ 830 +     0959   1006      1012  G16  5   XRA  1-8A      B4.1    2.6E-04   3060
+
+ 840 +     1348   ////      1349  SAG  C   RSP  025-065   III/1                 
+
+ 850 +     1512   1535      1547  G16  5   XRA  1-8A      C8.5    7.9E-03   3060
+
+ 860 +     2207   2211      2216  G16  5   XRA  1-8A      B3.0    1.5E-04       
+
+ 870 +     2222   2231      2236  G16  5   XRA  1-8A      B5.2    3.2E-04       

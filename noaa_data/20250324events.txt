@@ -1,0 +1,34 @@
+:Product: 20250324events.txt
+:Created: 2025 Mar 27 0357 UT
+:Date: 2025 03 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Mar 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1230 +     0027   0034      0046  G16  5   XRA  1-8A      C2.0    2.0E-03       
+
+1240 +     0725   0737      0746  G16  5   XRA  1-8A      C5.2    4.4E-03   4035
+
+1250 +     1326   1336      1346  G16  5   XRA  1-8A      C2.3    2.2E-03   4036
+1250      B1336   1352      1357  HOL  3   FLA  N08W61    SF                4036
+
+1260       1741   1752      1817  HOL  3   FLA  N08W64    SF      DSD       4036
+
+1270 +     1830   1836      1844  G16  5   XRA  1-8A      C1.4    7.1E-04   4036
+1270       1834   1835      1840  HOL  3   FLA  N08W64    SF                4036
+
+1280       1845   1848      1851  HOL  3   FLA  N08W64    SF                4036
+
+1290 +     2042   2049      2054  G16  5   XRA  1-8A      C1.8    1.1E-03       
+
+1300 +     2059   ////      2100  PAL  C   RSP  025-048   III/2                 
+
+1310 +     2309   2318      2333  G16  5   XRA  1-8A      C2.5    2.9E-03   4036
+1310       2314   2318      2323  HOL  2   FLA  N08W66    SF                4036
+1310       2315   ////      2316  PAL  C   RSP  025-054   III/2             4036

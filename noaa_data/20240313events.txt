@@ -1,0 +1,35 @@
+:Product: 20240313events.txt
+:Created: 2024 Mar 16 0357 UT
+:Date: 2024 03 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Mar 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5320 +     0052   0059      0107  G16  5   XRA  1-8A      B8.0    5.9E-04   3607
+
+5330       0549   0558      0605  G18  5   XRA  1-8A      C1.0    9.1E-04   3599
+
+5340       0734   ////      0758  SVI  C   RSP  116-180   VI/1                  
+
+5350 +     0810   0822      0833  G16  5   XRA  1-8A      B8.4    1.0E-03   3610
+
+5360       1200   ////      1200  SVI  C   RSP  115-180   III/1                 
+
+5370       1414   ////      1414  SVI  C   RSP  076-180   III/1                 
+
+5380 +     1626   ////      1626  SAG  C   RSP  060-180   III/1                 
+
+5390       2004   2013      2030  G16  5   XRA  1-8A      B9.0    1.3E-03   3599
+
+5400 +     2151   2205      2234  G16  5   XRA  1-8A      C1.8    8.7E-04   3605
+
+5410       2303   ////      2304  LEA  C   RSP  075-170   III/2                 
+5410       2303   ////      2332  PAL  C   RSP  025-180   VI/2                  
+
+5420 +     2324   2349      0016  G16  5   XRA  1-8A      C6.2    1.4E-02   3599

@@ -1,0 +1,26 @@
+:Product: 20221023events.txt
+:Created: 2022 Oct 26 0357 UT
+:Date: 2022 10 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 240       0519   ////      0519  LEA  C   RSP  025-180   III/1                 
+
+ 250 +     0632   ////      0637  LEA  C   RSP  025-150   III/1                 
+
+ 260 +     0714   0723      0741  G16  5   XRA  1-8A      B3.7    5.6E-04   3130
+
+ 270 +     1552   1626      1638  G16  5   XRA  1-8A      C1.9    3.6E-03   3130
+
+ 280 +     1805   1822      1837  G16  5   XRA  1-8A      C2.5    3.1E-03   3130
+
+ 290 +     2057   2115      2136  G16  5   XRA  1-8A      C1.2    2.3E-03   3130
+
+ 300 +     2348   2354      2358  G16  5   XRA  1-8A      B5.6    3.1E-04   3126

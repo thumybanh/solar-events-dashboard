@@ -1,0 +1,89 @@
+:Product: 20220616events.txt
+:Created: 2022 Jun 19 0357 UT
+:Date: 2022 06 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jun 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 990 +     0000   ////      0936  LEA  C   RSP  089-180   CTM/1                 
+
+1000 +     0116   0121      0127  G16  5   XRA  1-8A      C1.1    6.7E-04   3030
+
+1010 +     0202   0208      0212  G16  5   XRA  1-8A      C1.4    6.3E-04   3031
+
+1020 +     0332   0332      0332  SVI  G   RBR  245       210                   
+
+1030 +     0347   0353      0357  G16  5   XRA  1-8A      M1.6    2.6E-03   3031
+1030 +     0352   0352      0352  SVI  G   RBR  410       560                   
+
+1040       0414   0416      0418  SVI  3   FLA  S30W16    SF      ERU       3031
+
+1050       0418   0418      0418  SVI  G   RBR  245       130                   
+
+1230 +     0510   1511      1711  SVI  G   RNS  245       640                   
+
+1160       0559   ////      1812  SVI  C   RSP  075-180   CTM/1                 
+
+1060 +     0604   ////      0604  LEA  C   RSP  025-180   III/1                 
+
+1070       0839   ////      0840  SVI  C   RSP  025-078   III/1                 
+
+1170       0931   ////      1851  SAG  C   RSP  060-180   CTM/1                 
+
+1080 +     1048   ////      1052  SVI  C   RSP  025-084   III/1                 
+
+1110 +     1222   ////      1241  SVI  C   RSP  025-074   VI/1                  
+
+1090       1232   1233      1235  SVI  3   FLA  S22W25    SF      ERU       3031
+1090 +     1235   1240      1250  G16  5   XRA  1-8A      C1.1    9.8E-04   3031
+
+1100       1237   1239      1241  SVI  3   FLA  S09W76    SF      ERU       3036
+
+1120 +     1335   1344      1348  G16  5   XRA  1-8A      C4.5    1.3E-03   3031
+1120 +     1342   1344      1348  HOL  3   FLA  S28W18    SF      DSD       3031
+
+1130 +     1415   ////      1546  SAG  C   RSP  025-180   VI/2                  
+
+1140       1533   1538      1541  SVI  3   FLA  S25W20    SF      ERU       3031
+1140 +     1536   1540      1544  G16  5   XRA  1-8A      C1.7    7.1E-04   3031
+1140 +     1538   1538      1539  SVI  G   RBR  410       820               3031
+1140       1543   1543      1544  SVI  G   RBR  245       270               3031
+
+1150 +     1544   1544      1544  SVI  G   RBR  410       220                   
+1150       1544   1544      1544  SAG  U   RBR  245       300                   
+
+1310       1603   ////      2359  PAL  C   RSP  141-180   CTM/1                 
+
+1180 +     1620   ////      1700  SVI  C   RSP  025-080   VI/1                  
+
+1190       1707   1709      1712  HOL  3   FLA  S18E35    SF                3035
+
+1200       1730   ////      1731  SAG  C   RSP  025-053   III/1                 
+
+1210 +     1805   ////      1913  SAG  C   RSP  025-180   VI/2                  
+1210       1805   ////      1810  PAL  C   RSP  025-180   III/2                 
+
+1250       1933   ////      2059  SAG  C   RSP  113-180   CTM/1                 
+
+1220 +     1939   1943      1947  G16  5   XRA  1-8A      C1.6    7.1E-04   3031
+
+1240       1952   1952      1952  PAL  G   RBR  245       140                   
+1240 +     2001   ////      2001  PAL  C   RSP  025-061   III/1                 
+
+1290 +     2034   ////      2250  PAL  C   RSP  025-118   VI/2                  
+
+1260 +     2125   2125      2125  PAL  G   RBR  610       140                   
+
+1270       2141   ////      2142  PAL  C   RSP  025-145   III/2                 
+
+1280       2143   2143      2143  PAL  G   RBR  245       260                   
+
+1300       2221   ////      2246  SAG  C   RSP  025-075   VI/1                  
+
+1320       2330   ////      2358  PAL  C   RSP  025-151   VI/1                  

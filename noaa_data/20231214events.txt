@@ -1,0 +1,87 @@
+:Product: 20231214events.txt
+:Created: 2023 Dec 17 0357 UT
+:Date: 2023 12 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Dec 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6570       0018   0018      0018  LEA  G   RBR  245       150                   
+
+6580       0105   ////      0105  LEA  C   RSP  025-062   III/1                 
+
+6590 +     0220   0229      0238  G18  5   XRA  1-8A      C1.9    1.9E-03   3519
+
+6600 +     0402   0409      0413  G18  5   XRA  1-8A      C2.0    1.1E-03   3514
+
+6610 +     0448   0456      0500  G16  5   XRA  1-8A      C3.3    1.5E-03       
+
+6620 +     0547   0549      0553  G16  5   XRA  1-8A      C2.0    7.3E-04       
+
+6630       0600   ////      0634  LEA  2   EPL  ////      0.25    B.9A      3514
+6630       0608   0609      0612  LEA  3   FLA  N06W43    SF                3514
+6630       0616   ////      0616  LEA  C   RSP  025-180   III/1             3514
+6630       0620   0620      0620  LEA  G   RBR  245       610               3514
+6630 +     0622   0627      0631  G16  5   XRA  1-8A      C1.8    9.5E-04   3514
+
+6640 +     0711   0744      0800  G16  5   XRA  1-8A      M5.8    6.6E-02   3514
+6640 +     0727   ////      0947  LEA  C   RSP  025-180   VI/1              3514
+6640       0729   0730      0748  LEA  3   FLA  N04W41    SF                3514
+6640       0735   0735      0739  SVI  G   RBR  4995      120               3514
+6640       0735   0738      0739  SVI  G   RBR  8800      150               3514
+
+6650 +     0749   0750      0750  SVI  G   RBR  410       140                   
+
+6640 +     0752   ////      1513  SVI  C   RSP  025-180   CTM/2             3514
+
+6660       0754   0756      0756  LEA  G   RBR  245       120                   
+
+6640       0758   0758      0758  LEA  G   RBR  245       100               3514
+
+6670 +     0838   0838      0839  SVI  G   RBR  245       120                   
+
+6680       0844   0844      0844  SVI  G   RBR  245       100                   
+6680       0844   0844      0844  SVI  G   RBR  410       340                   
+
+6690       1047   1047      1047  SVI  G   RBR  245       110                   
+
+6700       1218   ////      1402  SAG  C   RSP  054-180   CTM/2                 
+6700 +     1225   1228      1232  G16  5   XRA  1-8A      C1.8    7.3E-04       
+
+6710 +     1329   1348      1408  G16  5   XRA  1-8A      M2.3    3.2E-02   3514
+
+6740       1416   ////      1700  SAG  C   RSP  054-180   CTM/1                 
+
+6720       1439   1446      1511  HOL  2   FLA  N04W51    SF      DSD       3514
+
+6730 +     1647   1702      1712  G16  5   XRA  1-8A      X2.8    1.9E-01   3514
+6730       1700   ////      1708  SAG  C   RSP  025-180   II/2    2118          
+6730       1708   ////      2058  SAG  C   RSP  025-180   IV/2                  
+
+6780       1715   ////      2034  PAL  C   RSP  025-180   IV/2                  
+
+6750      B1716   1718      1836  HOL  2   FLA  N04W51    1B      PRB       3514
+6750       1716   1745      1828  PAL  G   RBR  245       650000  CastelliU 3514
+6750       1718   1735      1825  PAL  G   RBR  610       970000  CastelliU 3514
+6750       1718   1745      1835  PAL  G   RBR  410       990000  CastelliU 3514
+6750       1719   1728      1803  PAL  G   RBR  2695      4800    CastelliU 3514
+6750       1719   1728      1806  PAL  G   RBR  4995      7700    CastelliU 3514
+6750       1720   1728      1802  PAL  G   RBR  8800      4800    CastelliU 3514
+6750       1720   1735      1801  PAL  G   RBR  1415      99000   CastelliU 3514
+
+6760       1845   1845      1845  PAL  G   RBR  245       100                   
+
+6770       1904   1908      1910  PAL  G   RBR  245       140                   
+
+6790       1904   1915      1917  PAL  G   RNS  245       140                   
+
+6800       2216   2220      2225  HOL  3   FLA  N04W55    SF      DSD       3514
+
+6810       2249   ////      2323  PAL  C   RSP  025-180   VI/1                  
+
+6820 +     2331   2345      0002  G16  5   XRA  1-8A      C5.4    8.3E-03   3514

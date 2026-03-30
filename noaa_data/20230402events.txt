@@ -1,0 +1,46 @@
+:Product: 20230402events.txt
+:Created: 2023 Apr 05 0357 UT
+:Date: 2023 04 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1720      A0035   ////     A1335  HOL  3   DSF  S06E26    7                     
+
+1680 +     0756   0826      0905  G16  5   XRA  1-8A      C1.0    3.5E-03       
+
+1670       1334   ////      1448  SAG  C   RSP  025-086   VI/1                  
+
+1660 +     1335   ////      1448  SVI  C   RSP  025-116   VI/1                  
+
+1690       1557   ////      1740  SAG  C   RSP  025-077   VI/1                  
+
+1700       1824   1830      1833  HOL  3   FLA  S22W01    SF      DSD       3270
+1700       1829   ////      1902  SAG  C   RSP  025-095   VI/1              3270
+1700       1829   ////      1829  PAL  C   RSP  025-085   III/1             3270
+
+1710 +     1851   1856      1901  G16  5   XRA  1-8A      B9.7    5.7E-04   3270
+1710       1853   1857      1900  HOL  3   FLA  S23W01    SF      ERU       3270
+
+1740       2009   ////      2058  SAG  C   RSP  025-180   VI/1                  
+
+1730 +     2018   2029      2039  G16  5   XRA  1-8A      C1.8    1.6E-03   3270
+1730       2023   ////      2024  PAL  U   RSP  025-068   III/2             3270
+1730       2033   2034      2040  HOL  3   FLA  S23W02    SF      ERU       3270
+
+1750       2136   2147      2212  HOL  3   FLA  S23W03    SF      ERU       3270
+1750 +     2144   2154      2158  G16  5   XRA  1-8A      C1.3    8.8E-04   3270
+
+1780 +     2158   2203      2212  G16  5   XRA  1-8A      C1.3    1.1E-03   3270
+
+1760       2231   2244      2248  HOL  3   FLA  S23W03    SF      ERU       3270
+
+1770 +     2304   2313      2323  G16  5   XRA  1-8A      C3.4    2.5E-03   3270
+1770       2307   2312      2349  HOL  3   FLA  S22W03    SN      ERU       3270
+1770       2311   ////      2313  LEA  C   RSP  039-162   III/1             3270

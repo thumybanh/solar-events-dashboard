@@ -1,0 +1,80 @@
+:Product: 20250730events.txt
+:Created: 2025 Aug 02 0357 UT
+:Date: 2025 07 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 100 +     0037   ////      0038  LEA  C   RSP  025-155   III/2                 
+
+ 120 +     0049   0055      0109  G18  5   XRA  1-8A      C1.9    2.2E-03   4155
+
+ 130 +     0203   0217      0236  G18  5   XRA  1-8A      C2.9    4.6E-03   4157
+ 130 +     0210   ////      0215  LEA  C   RSP  025-180   III/2                 
+
+ 140 +     0244   ////      0245  LEA  C   RSP  025-098   III/2                 
+
+ 150 +     0258   0306      0309  G18  5   XRA  1-8A      C2.6    1.6E-03       
+
+ 160 +     0322   0330      0332  G18  5   XRA  1-8A      C2.7    1.4E-03   4155
+ 160       0329   0329      0329  PAL  U   RBR  8800      180                   
+
+ 170       0335   0335      0335  PAL  U   RBR  8800      270                   
+
+ 180 +     0338   ////      0338  LEA  C   RSP  025-174   III/2                 
+
+ 190       0500   ////      0519  SVI  C   RSP  025-180   VI/1                  
+ 190       0500   ////      0500  LEA  C   RSP  073-180   III/1                 
+ 190       0517   0524      0526  G19  5   XRA  1-8A      C1.6    9.1E-04   4155
+
+ 200 +     0557   0616      0618  G18  5   XRA  1-8A      C4.7    3.8E-03   4155
+ 200 +     0603   0614      0625  SVI  3   FLA  S10W10    SF      ERU       4155
+ 200 +     0607   ////      0607  SVI  C   RSP  025-082   III/1             4155
+
+ 210       0626   0627      0631  SVI  3   FLA  S09W12    SF      ERU       4155
+
+ 220       0654   0656      0657  SVI  3   FLA  S07W12    SF      ERU       4155
+
+ 230       0659   0704      0719  SVI  3   FLA  S07W12    SF      ERU       4155
+
+ 240 +     0821   0828      0838  G18  5   XRA  1-8A      C1.5    1.4E-03       
+
+ 250 +     0913   ////      0914  SVI  C   RSP  025-081   III/1                 
+
+ 260 +     1025   1032      1034  G18  5   XRA  1-8A      C3.4    1.2E-03   4155
+ 260       1031   1031      1035  SVI  3   FLA  S09W17    SF                4155
+
+ 270 +     1120   1129      1138  G18  5   XRA  1-8A      C2.2    2.1E-03   4155
+ 270 +     1125   ////      1126  SVI  C   RSP  025-180   III/2             4155
+ 270 +     1125   1125      1125  SVI  G   RBR  245       330               4155
+ 270       1126   1139      1142  SVI  3   FLA  S10W14    SF      ERU       4155
+
+ 280 +     1308   ////      1321  SAG  C   RSP  025-086   VI/2                  
+
+ 290 +     1431   ////      1525  SAG  C   RSP  025-084   VI/2                  
+
+ 300 +     1635   ////      1636  SAG  C   RSP  025-086   III/1                 
+
+ 310 +     1705   ////      1705  SAG  C   RSP  025-086   III/1                 
+
+ 320       1728   1736      1741  G18  5   XRA  1-8A      C1.3    9.5E-04   4165
+
+ 330       1923   1943      1952  G18  5   XRA  1-8A      C2.1    3.6E-03   4161
+ 330       1928   1936      1950  HOL  3   FLA  S15E38    SF      DSD       4161
+
+ 340 +     1952   1958      2001  G18  5   XRA  1-8A      C2.1    1.4E-03       
+
+ 350 +     2118   ////      2121  PAL  C   RSP  025-180   III/2                 
+
+ 360       2200   ////      2200  SAG  C   RSP  025-097   III/1                 
+
+ 370       2256   2256      2259  HOL  3   FLA  N23W27    SF      DSD           
+
+ 380       2309   ////      2359  LEA  C   RSP  067-180   CTM/1                 
+ 380       2325   ////      2333  PAL  C   RSP  025-087   III/2                 

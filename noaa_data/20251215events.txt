@@ -1,0 +1,41 @@
+:Product: 20251215events.txt
+:Created: 2025 Dec 18 0357 UT
+:Date: 2025 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4820       0029   ////      0029  LEA  C   RSP  060-144   III/2                 
+
+4830 +     0120   0129      0134  G18  5   XRA  1-8A      C1.9    1.1E-03   4307
+
+4840 +     0140   0148      0156  G18  5   XRA  1-8A      C1.8    1.6E-03   4304
+
+4850 +     0302   0316      0324  G18  5   XRA  1-8A      C1.4    1.8E-03   4307
+
+4860       0346   ////      0346  LEA  C   RSP  025-180   III/2                 
+
+4870 +     0736   ////      0739  LEA  C   RSP  025-088   III/2                 
+
+4880 +     1152   1205      1215  G18  5   XRA  1-8A      C1.3    1.5E-03   4308
+4880       1201   1201      1212  SVI  3   FLA  N06E25    SF                4308
+
+4890 +     1221   1225      1234  G18  5   XRA  1-8A      C2.0    1.4E-03   4304
+
+4900 +     1428   1432      1436  G18  5   XRA  1-8A      B8.3    3.8E-04   4307
+
+4910 +     1720   1728      1749  G18  5   XRA  1-8A      C3.9    5.0E-03   4304
+
+4920       1916   1925      1945  G19  5   XRA  1-8A      B6.5    1.1E-03   4307
+
+4930       2206   2206      2206  PAL  G   RBR  245       130                   
+
+4940       2307   ////      2307  LEA  C   RSP  025-080   III/1                 
+
+4950 +     2323   2336      2343  G18  5   XRA  1-8A      C1.3    1.3E-03   4307

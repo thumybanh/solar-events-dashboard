@@ -1,0 +1,74 @@
+:Product: 20240716events.txt
+:Created: 2024 Jul 19 0357 UT
+:Date: 2024 07 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jul 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1200       0047   0047      0047  LEA  G   RBR  410       110                   
+
+1210 +     0249   0301      0322  G16  5   XRA  1-8A      M1.4    2.0E-02   3744
+1210       0255   0300      0333  LEA  3   FLA  N16E02    1N                3744
+
+1220 +     0503   0505      0508  LEA  3   FLA  N12W25    SF                3753
+
+1230       0532   0545      0631  SVI  3   FLA  N12W25    SF                3753
+
+1260       0651   0708      0727  SVI  3   FLA  S10W19    SF                3743
+
+1240 +     0724   0737      0750  G16  5   XRA  1-8A      M3.6    3.2E-02   3753
+1240 +     0730   0738      0810  SVI  3   FLA  N11W27    1B                3753
+1240       0731   0732      0732  SVI  G   RBR  4995      110               3753
+1240 +     0733   0733      0733  LEA  G   RBR  245       480               3753
+1240 +     0733   ////      0734  LEA  C   RSP  082-180   III/1             3753
+1240       0734   0735      0736  SVI  U   RBR  610       200               3753
+
+1250 +     0842   0850      0901  G16  5   XRA  1-8A      C7.3    7.3E-03   3744
+1250 +     0843   0849      0917  SVI  3   FLA  N15W05    1F                3744
+
+1270       0909   0916      0939  SVI  3   FLA  S09W21    SF                3743
+
+1280 +     1044   1050      1054  G16  5   XRA  1-8A      C4.0    2.1E-03   3750
+1280       1047   1050      1059  SVI  3   FLA  S18E37    SF                3750
+
+1330 +     1257   1306      1311  G16  5   XRA  1-8A      C5.0    1.4E-03   3738
+1330       1303   1303      1303  SVI  G   RBR  15400     160                   
+
+1300 +     1311   1326      1336  G16  5   XRA  1-8A      X1.9    1.4E-01   3738
+1300       1315   1323      1331  SVI  G   RBR  15400     6500    CastelliU 3738
+1300       1317   1323      1330  SVI  G   RBR  8800      5100    CastelliU 3738
+1300 +    B1318   1320      1404  HOL  3   FLA  S06W85    1B      BPT       3738
+1300       1318   1323      1327  SVI  G   RBR  4995      1900    CastelliU 3738
+1300       1318   1320      1326  SVI  G   RBR  2695      550     CastelliU 3738
+1300       1319   1320      1325  SVI  G   RBR  1415      350     CastelliU 3738
+1300       1319   1319      1326  SVI  U   RBR  610       390     CastelliU 3738
+1300       1319   1323      1323  SVI  G   RBR  410       1700    CastelliU 3738
+1300       1320   ////      1321  SVI  C   RSP  145-180   III/1             3738
+1300 +     1321   ////      1355  SVI  C   RSP  025-180   II/3    398       3738
+1300 +     1343   ////      1451  SVI  C   RSP  025-083   IV/2              3738
+
+1320       1603   1603      1612  HOL  3   FLA  S07W26    SF      ERU       3743
+
+1340       2040   2041      2053  HOL  3   FLA  N17W10    SF                3744
+1340       2047   ////      2047  SAG  C   RSP  025-053   III/1             3744
+
+1350 +     2106   2124      2136  G16  5   XRA  1-8A      M1.6    3.3E-03   3753
+1350       2112   2118      2201  HOL  3   FLA  N11W34    1N                3753
+
+1360       2146   2201      2329  HOL  3   FLA  N18W10    1N                3744
+1360 +     2146   2206      2217  G16  5   XRA  1-8A      M1.9    2.5E-02   3744
+1360 +     2150   ////      2153  PAL  C   RSP  025-057   III/2             3744
+1360       2201   2201      2202  PAL  G   RBR  410       160               3744
+1360       2205   2205      2205  PAL  G   RBR  245       170               3744
+1360 +     2208   ////      2234  PAL  C   RSP  044-124   II/2    442       3744
+
+1370 +     2220   ////      2259  SAG  C   RSP  025-075   IV/1                  
+1370       2230   2239      2245  PAL  G   RBR  410       1300                  
+1370       2230   2238      2246  PAL  G   RBR  245       1400                  
+1370       2231   2234      2245  PAL  G   RBR  610       360                   

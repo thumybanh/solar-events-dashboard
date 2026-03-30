@@ -1,0 +1,53 @@
+:Product: 20250301events.txt
+:Created: 2025 Mar 04 0357 UT
+:Date: 2025 03 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Mar 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7400       0056   ////      0056  LEA  C   RSP  025-104   III/2                 
+
+7410       0217   ////      0320  LEA  C   RSP  025-180   VI/2                  
+7410       0310   ////      0319  PAL  C   RSP  043-180   III/1                 
+
+7420       0723   0723      0738  SVI  3   FLA  N16W09    SF                4006
+
+7430 +     0814   ////      0814  LEA  C   RSP  025-162   III/2                 
+
+7440       0820   0830      0836  G16  5   XRA  1-8A      C6.4    3.2E-03   4010
+7440       0830   0830      0837  SVI  3   FLA  N21E27    SF                4010
+
+7450 +     0917   ////      0931  SVI  C   RSP  025-180   VI/2                  
+7450       0923   0931      0935  G16  5   XRA  1-8A      C2.7    1.2E-03   4006
+7450       0932   0935      0940  SVI  G   RBR  245       100                   
+
+7460       1007   1017      1024  G16  5   XRA  1-8A      C2.7    1.9E-03   4009
+
+7470       1043   1057      1105  G16  5   XRA  1-8A      C2.5    2.6E-03   4006
+7470       1053   ////      1053  SVI  C   RSP  039-086   III/1                 
+
+7480 +     1147   ////      1153  SVI  C   RSP  025-180   III/2                 
+
+7490       1312   1323      1328  G16  5   XRA  1-8A      C2.3    8.5E-04   4007
+
+7500 +     1330   ////      1344  SVI  C   RSP  025-180   VI/2                  
+
+7510       1430   1439      1448  G16  5   XRA  1-8A      C2.3    2.1E-03   4009
+7510       1442   ////      1449  SAG  C   RSP  025-077   III/1                 
+
+7570       1449   ////      1857  HOL  3   DSF  S25E05    54                    
+
+7520       1528   ////      1649  SAG  C   RSP  025-072   VI/1                  
+7520       1627   ////      1627  SVI  C   RSP  039-055   III/1                 
+
+7530       2031   ////      2036  PAL  C   RSP  025-075   III/1                 
+
+7540       2141   ////      2254  PAL  C   RSP  025-075   VI/2                  
+
+7550       2244   2301      2317  G16  5   XRA  1-8A      C9.5    1.1E-02       

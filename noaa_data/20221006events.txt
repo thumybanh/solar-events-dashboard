@@ -1,0 +1,43 @@
+:Product: 20221006events.txt
+:Created: 2022 Oct 09 0357 UT
+:Date: 2022 10 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7540 +     0157   0202      0207  G16  5   XRA  1-8A      C1.9    1.1E-03   3112
+7540       0159   0202      0207  LEA  3   FLA  N22E25    SF                3112
+
+7550 +     0541   0546      0551  G16  5   XRA  1-8A      C1.3    7.4E-04       
+
+7560       0828   0835      0844  G16  5   XRA  1-8A      C1.8    1.5E-03   3112
+7560       0833   0834      0841  LEA  3   FLA  N22E25    SF                3112
+
+7570       1044   ////      1044  SVI  C   RSP  029-084   III/1                 
+
+7580       1107   ////      1108  SVI  C   RSP  029-083   III/1                 
+
+7590 +     1305   ////      1305  SVI  C   RSP  029-083   III/1                 
+
+7600 +     1344   ////      1346  SVI  C   RSP  029-083   III/1                 
+
+7610 +     1533   1539      1547  G16  5   XRA  1-8A      C1.7    1.3E-03   3112
+
+7620 +     1824   1832      1841  G16  5   XRA  1-8A      C1.5    1.5E-03       
+
+7630 +     2011   ////      2011  PAL  C   RSP  025-152   III/1                 
+
+7640 +     2046   ////      2110  PAL  C   RSP  025-180   VI/2                  
+
+7650       2228   ////      2228  LEA  C   RSP  025-180   III/1                 
+
+7660 +     2259   2313      2326  G16  5   XRA  1-8A      C2.9    3.6E-03   3116
+7660       2307   2308      2314  HOL  3   FLA  N28E14    SF                3116
+
+7670       2336   ////      2341  PAL  C   RSP  025-180   III/2                 

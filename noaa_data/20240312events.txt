@@ -1,0 +1,54 @@
+:Product: 20240312events.txt
+:Created: 2024 Mar 15 0357 UT
+:Date: 2024 03 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Mar 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5130 +     0244   0251      0302  G16  5   XRA  1-8A      C1.5    1.6E-03   3599
+
+5140 +     0401   0408      0415  G16  5   XRA  1-8A      C2.6    2.5E-03   3599
+
+5150       0448   0453      0459  G18  5   XRA  1-8A      C1.1    7.2E-04   3599
+
+5160 +     0617   ////      0618  SVI  C   RSP  025-180   III/2                 
+
+5170 +     0719   0725      0731  G16  5   XRA  1-8A      C1.1    7.8E-04   3599
+5170       0721   0721      0721  SVI  G   RBR  410       110                   
+
+5180       0818   0818      0822  SVI  3   FLA  S20E55    SF                3607
+
+5190       0825  U0825      0833  SVI  3   FLA  S20E55    SF      DSD       3607
+
+5200       0855   0858      0925  SVI  3   FLA  S20E57    SF      DSD       3607
+
+5210       0936   0948      0957  G16  5   XRA  1-8A      C2.5    6.7E-04   3599
+5210 +     0942   ////      0943  SVI  C   RSP  025-180   III/2                 
+5210       0943   0943      0943  SVI  G   RBR  610       180                   
+
+5220 +     1006   1018      1026  G16  5   XRA  1-8A      C3.3    2.7E-03   3599
+5220       1017   1018      1021  SVI  3   FLA  S11W61    SF                3599
+
+5230 +     1114   1135      1145  G16  5   XRA  1-8A      C3.9    5.6E-03   3599
+5230      B1139  U1140     A1210  SVI  3   FLA  S11W59    SF                3599
+
+5270 +     1145   1149      1154  G16  5   XRA  1-8A      C3.3    2.0E-03   3599
+
+5260 +     1416   1433      1437  G16  5   XRA  1-8A      C1.1    1.5E-03   3599
+
+5280 +     1437   1455      1500  G16  5   XRA  1-8A      C1.4    2.1E-03   3599
+
+5290 +     1500   1509      1511  G16  5   XRA  1-8A      C1.6    1.6E-03       
+
+5300 +     1511   1517      1527  G16  5   XRA  1-8A      C1.6    1.7E-03   3599
+
+5250 +     1735   1815      1837  G16  5   XRA  1-8A      C2.7    8.3E-03   3599
+
+5310 +     2204   2208      2212  G16  5   XRA  1-8A      C1.0    4.3E-04   3607
+5310       2206   2209      2239  HOL  3   FLA  S18E47    SF      DSD       3607

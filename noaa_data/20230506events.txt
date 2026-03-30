@@ -1,0 +1,99 @@
+:Product: 20230506events.txt
+:Created: 2023 May 09 0357 UT
+:Date: 2023 05 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 May 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 130       0000   ////      0944  LEA  C   RSP  025-180   CTM/1                 
+
+  30       0006   ////      0154  LEA  C   RSP  025-180   VII/1                 
+
+  10 +     0011   0031      0036  G16  5   XRA  1-8A      C2.3    3.0E-03   3297
+  10       0017   0020      0040  HOL  3   FLA  N10E40    SF                3297
+
+  40 +     0022   0123      0132  LEA  G   RNS  245       140                   
+
+  10       0027   0027      0027  PAL  G   RBR  245       100               3297
+
+  20 +     0036   0042      0049  G16  5   XRA  1-8A      C2.8    2.2E-03   3297
+
+  10       0042   ////      0056  LEA  C   RSP  025-180   II/2    689       3297
+
+  30       0052   ////      0323  LEA  C   RSP  075-150   IV/1                  
+  30       0100   ////      0255  PAL  C   RSP  025-180   III/2                 
+
+ 270      A0108   ////     A1542  HOL  2   DSF  N35W37    13                    
+
+  60       0249   ////      0256  LEA  C   RSP  025-180   III/2                 
+
+  50 +     0252   0253      0255  LEA  G   RBR  245       170                   
+  50       0253   ////      0255  PAL  C   RSP  025-180   III/2                 
+  50 +     0255   0255      0256  LEA  G   RBR  410       210                   
+
+  70       0300   ////      0334  LEA  C   RSP  025-180   VI/1              3296
+  70       0325   0326      0327  LEA  3   FLA  N15E20    SF                3296
+
+  80       0340   0340      0340  LEA  G   RBR  245       100                   
+
+ 110       0343   0402      0409  G16  5   XRA  1-8A      C5.2    9.8E-03   3296
+
+  90       0358   0358      0358  LEA  G   RBR  245       110                   
+
+ 100       0413   ////      0414  LEA  C   RSP  025-180   III/1                 
+
+ 140       0415   ////      0820  SVI  C   RSP  075-180   CTM/1                 
+
+ 150 +     0527   ////      0824  SVI  C   RSP  025-180   VI/2                  
+
+ 120 +     0642   ////      0645  LEA  C   RSP  025-180   III/2                 
+ 120       0645   0645      0645  LEA  G   RBR  245       100                   
+
+ 160       0718   0726      0734  G18  5   XRA  1-8A      C2.2    1.9E-03   3297
+
+ 170       0824   ////      0824  LEA  C   RSP  025-180   III/1                 
+
+ 180       0900   ////      0901  SVI  C   RSP  025-055   III/1                 
+
+ 220 +     1020   ////      1525  SAG  C   RSP  025-051   VI/1                  
+
+ 190       1146   1146      1146  SVI  G   RBR  245       150                   
+
+ 200       1149   1149      1149  SVI  G   RBR  245       120                   
+ 200       1149   ////      1150  SVI  C   RSP  025-180   III/1                 
+
+ 210       1237   1237      1239  SVI  G   RBR  245       1900                  
+ 210 +     1237   ////      1240  SAG  C   RSP  025-180   III/3                 
+
+ 310       1444   ////      2251  SAG  C   RSP  111-180   CTM/1                 
+
+ 230 +     1450   1459      1503  G16  5   XRA  1-8A      C3.6    1.5E-03   3296
+
+ 240       1518   1518      1520  SVI  G   RBR  245       1900                  
+ 240 +     1518   ////      1521  SAG  C   RSP  025-180   III/2                 
+
+ 250       1611   ////      1648  HOL  2   EPL  ////      0.35                  
+ 250 +     1622   1622      1622  SVI  G   RBR  245       110                   
+ 250       1627   ////      1730  SAG  C   RSP  025-072   VI/1                  
+
+ 260       1658   ////      1740  SVI  C   RSP  119-180   CTM/1             3297
+ 260       1658   ////      1659  SVI  C   RSP  071-087   III/1             3297
+ 260 +     1658   1659      1659  PAL  G   RBR  245       160               3297
+ 260 +     1738   1745      1752  G16  5   XRA  1-8A      C1.8    1.2E-03   3297
+ 260       1741   1741      1804  HOL  3   FLA  N09E25    SF                3297
+
+ 280       1921   1922      1922  PAL  G   RBR  245       250                   
+
+ 320       2016   ////      2359  PAL  C   RSP  060-180   CTM/1                 
+
+ 290 +     2142   2157      2213  G16  5   XRA  1-8A      C4.7    5.5E-03   3299
+ 290       2148   2156      2244  HOL  3   FLA  S08E40    SN      ERU       3299
+
+ 300 +     2256   2257      2259  PAL  G   RBR  245       270                   
+ 300       2257   ////      2359  LEA  C   RSP  050-180   CTM/1                 

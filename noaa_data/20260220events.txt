@@ -1,0 +1,22 @@
+:Product: 20260220events.txt
+:Created: 2026 Feb 23 0357 UT
+:Date: 2026 02 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Feb 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8050 +     0252   0307      0316  G18  5   XRA  1-8A      C2.8    2.8E-03   4377
+8050       0300   0305      0318  LEA  3   FLA  N07E01    SF                4377
+8050       0300   0300      0300  LEA  G   RBR  245       250               4377
+8050       0306   0307      0308  LEA  G   RBR  610       430               4377
+8050       0306   0307      0308  LEA  G   RBR  410       190               4377
+
+8060 +     0554   0558      0610  G18  5   XRA  1-8A      B8.1    7.3E-04   4374
+
+8070 +     1207   1216      1225  G18  5   XRA  1-8A      B6.0    6.3E-04   4374

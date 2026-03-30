@@ -1,0 +1,133 @@
+:Product: 20230218events.txt
+:Created: 2023 Feb 21 0357 UT
+:Date: 2023 02 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Feb 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 650       0000   ////      0420  PAL  C   RSP  025-180   CTM/1                 
+
+ 640 +     0059   ////      0100  LEA  C   RSP  025-180   III/2                 
+
+ 660       0454   ////      0455  LEA  C   RSP  025-180   III/2                 
+
+ 670       0539   0553      0615  LEA  3   FLA  S21W59    SF                3225
+
+ 680      B0652   0710      0716  SVI  3   FLA  S23W63    SF                3225
+
+ 720       0716   0716      0722  SVI  3   FLA  S23W63    SF                3225
+
+ 730       0723   0741      0829  SVI  3   FLA  S23W63    SF                3225
+
+ 740 +     0731   ////      0738  LEA  C   RSP  025-127   III/2                 
+
+ 750       0813   0814      0814  SVI  G   RBR  245       100                   
+
+ 690 +     0816   0825      0829  G16  5   XRA  1-8A      C4.9    3.4E-03   3226
+
+ 760 +     0820   0825      0828  SVI  3   FLA  N16W34    SF                3221
+
+ 690       0821   0825      0830  SVI  3   FLA  N07W13    1F                3226
+ 690 +     0821   0821      0821  SVI  G   RBR  410       150               3226
+ 690 +     0823   0823      0823  SVI  G   RBR  245       220               3226
+
+ 710 +     0829   0842      1033  SVI  G   RNS  245       540                   
+
+ 790       0845   0909      0925  SVI  3   FLA  S22W64    SF                3225
+ 790       0901   ////      0918  SVI  C   RSP  116-180   CTM/1             3225
+
+ 700       0905   0907      0910  SVI  3   FLA  N07W20    SF                3226
+ 700 +     0906   ////      0907  LEA  C   RSP  025-121   III/2             3226
+
+ 770       0923   0923      0925  SVI  3   FLA  N25E60    SF                3229
+
+ 780       0932   0934      0943  SVI  3   FLA  S22W64    SF                3225
+
+ 800       0948   0953      0954  SVI  3   FLA  S22W64    SF                3225
+
+ 810 +     0958   0959      1004  SVI  3   FLA  N25E60    SF                3229
+
+ 820       1023   1031      1035  SVI  3   FLA  S22W65    SF                3225
+
+ 870       1146   ////      1255  SVI  C   RSP  115-180   CTM/1                 
+
+ 830 +     1149   1200      1207  G16  5   XRA  1-8A      C7.7    5.9E-03   3226
+ 830       1153   1156      1210  SVI  3   FLA  N07W31    SF      DSD       3226
+ 830       1157   1157      1157  SAG  U   RBR  410       110               3226
+ 830       1200   1200      1200  SAG  U   RBR  245       200               3226
+ 830       1203   ////      1300  SAG  C   RSP  113-180   CTM/1             3226
+
+ 860       1204   1208      1218  SVI  3   FLA  N16W35    SF      ERU       3221
+
+ 840       1207   1207      1207  SVI  G   RBR  245       200                   
+ 840       1211   1213      1217  SVI  G   RNS  245       160                   
+
+ 850       1249   1249      1253  SVI  3   FLA  N25E60    SF                3229
+
+ 880 +     1331   1332      1332  SVI  G   RBR  245       150                   
+
+1020       1350   ////      2207  SAG  C   RSP  115-180   CTM/1                 
+
+ 890 +     1358   1358      1358  SVI  G   RBR  245       180                   
+
+ 900 +     1404   1404      1404  SVI  G   RBR  245       390                   
+
+ 910       1405   1406      1408  SVI  3   FLA  N24E53    SF                3229
+
+ 920       1409   1409      1414  SVI  3   FLA  N23E52    SF                3229
+
+ 930       1420   1420      1423  SVI  3   FLA  S22W67    SF                3225
+
+ 940       1427  U1428     A1504  SVI  3   FLA  N08W27    SF                3226
+
+1260       1427  U1430     A1505  SVI  3   FLA  S23W69    SF                3225
+
+ 940       1455   ////      1516  SVI  C   RSP  075-180   CTM/1             3226
+
+ 950       1631   1631      1631  SAG  U   RBR  245       160                   
+
+ 960 +     1735   1735      1735  PAL  G   RBR  245       140                   
+
+ 970 +     1831   1836      1841  G16  5   XRA  1-8A      C7.6    3.1E-03   3226
+ 970 +     1834   1834      1837  PAL  G   RBR  245       2600                  
+ 970 +     1834   ////      1838  SAG  C   RSP  025-180   III/2                 
+ 970 +     1834   1834      1834  PAL  G   RBR  410       160                   
+ 970       1837   ////      1837  PAL  U   RSP  109-127   II/2    740           
+
+ 980 +     1924   1924      1924  PAL  G   RBR  245       130                   
+
+ 990 +     1927   1927      1927  PAL  G   RBR  245       110                   
+
+1010       2003   ////      2012  SAG  C   RSP  025-045   III/1                 
+
+1000       2015   2023      2025  HOL  3   FLA  N12W40    SF                3221
+
+1030       2140   2140      2144  HOL  3   FLA  N09W28    SF                3226
+
+1040       2144   2144      2144  PAL  G   RBR  245       130                   
+
+1050 +     2214   2221      2225  G16  5   XRA  1-8A      C2.7    1.5E-03   3226
+1050       2217   2227      2238  HOL  3   FLA  N09W28    SF      DSD       3226
+1050       2219   2219      2219  PAL  G   RBR  245       160               3226
+1050       2219   2219      2219  PAL  G   RBR  410       470               3226
+1050       2219   ////      2219  PAL  C   RSP  025-180   III/2             3226
+
+1110       2227   ////      2359  LEA  C   RSP  065-180   CTM/1                 
+
+1060       2231   2235      2238  HOL  3   FLA  S21W68    SF      DSD       3225
+
+1070       2245   2248      2251  HOL  3   FLA  S20W72    SF      DSD       3225
+
+1080       2255   2256      2300  LEA  G   RBR  245       130                   
+
+1090       2310   2310      2311  LEA  G   RBR  245       110                   
+
+1100       2316   2316      2316  LEA  G   RBR  245       170                   
+
+1120       2334   ////      2335  LEA  C   RSP  039-110   III/1                 

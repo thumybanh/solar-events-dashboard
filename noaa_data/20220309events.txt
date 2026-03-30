@@ -1,0 +1,104 @@
+:Product: 20220309events.txt
+:Created: 2022 Mar 12 0357 UT
+:Date: 2022 03 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Mar 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 450       0000   ////      0420  LEA  C   RSP  110-180   CTM/1                 
+
+ 460       0127   ////      0425  LEA  C   RSP  025-180   VI/2                  
+
+ 470       0530   ////      0530  LEA  C   RSP  025-098   III/2                 
+
+ 510       0624   ////      1033  LEA  C   RSP  035-180   CTM/1                 
+
+ 480 +     0634   0648      0656  G16  5   XRA  1-8A      B6.3    5.8E-04   2964
+ 480 +     0639   0639      0639  LEA  G   RBR  245       190               2964
+
+ 500 +     0656   0702      0710  G16  5   XRA  1-8A      B6.5    5.7E-04   2964
+
+ 480       0702   ////      1111  SVI  C   RSP  115-161   CTM/1                 
+
+ 490 +     0749   0756      0803  G16  5   XRA  1-8A      C1.0    6.5E-04   2965
+
+ 520       0844   0855      0903  G16  5   XRA  1-8A      B7.7    7.5E-04   2965
+
+ 530       0914   0914      0914  LEA  G   RBR  245       160                   
+
+ 540       0917   0917      0917  SVI  G   RBR  245       210                   
+
+ 600       0928   ////      1320  SVI  C   RSP  025-180   VI/1                  
+
+ 550       1014   1014      1014  LEA  G   RBR  245       100                   
+
+ 560       1021   1021      1021  LEA  G   RBR  245       160                   
+ 560       1021   ////      1024  LEA  C   RSP  025-180   III/2                 
+
+ 570       1023   ////      1026  SVI  C   RSP  025-180   III/2                 
+ 570       1023   1023      1023  SVI  G   RBR  245       160                   
+
+ 580       1028   1029      1029  LEA  U   RBR  245       140                   
+
+ 590 +     1124   1133      1139  G16  5   XRA  1-8A      B7.3    6.2E-04   2965
+
+ 610 +     1210   1210      1210  SVI  G   RBR  245       170                   
+
+ 640       1214   ////      1609  SVI  C   RSP  115-152   CTM/1                 
+
+ 620 +     1242   1249      1254  G16  5   XRA  1-8A      C1.0    5.1E-04   2965
+ 620       1251   ////      1320  SAG  C   RSP  025-065   VI/1                  
+
+ 630 +     1427   ////      1428  SAG  C   RSP  025-180   III/2                 
+
+ 650 +     1446   ////      1446  SAG  C   RSP  036-180   III/1                 
+
+ 660 +     1535   ////      1536  SAG  C   RSP  025-180   III/1                 
+
+ 960      A1543   ////     A0720  SVI  3   DSF  S43E62    27                    
+
+ 670 +     1555   ////      1558  SAG  C   RSP  025-180   III/2                 
+ 670 +     1555   1557      1557  SVI  G   RBR  245       940                   
+
+ 680       1627   1627      1627  SAG  U   RBR  245       150                   
+
+ 690       1635   1635      1635  SAG  U   RBR  245       130                   
+
+ 700       1645   1645      1645  SAG  U   RBR  245       170                   
+
+ 710       1749   ////      1750  SAG  C   RSP  025-066   III/1                 
+
+ 720 +     1823   1823      1823  PAL  G   RBR  245       130                   
+
+ 730 +     1824   ////      1825  PAL  C   RSP  025-075   III/1                 
+
+ 740 +     1900   ////      1903  SAG  C   RSP  025-180   III/1                 
+
+ 750       1913   1913      1913  SAG  U   RBR  245       100                   
+
+ 760       1922   1922      1922  SAG  U   RBR  245       110                   
+
+ 770 +     1933   1933      1934  PAL  G   RBR  245       140                   
+
+ 780 +     1948   ////      1950  SAG  C   RSP  025-180   III/1                 
+ 780 +     1949   1949      1950  PAL  G   RBR  245       1200                  
+
+ 790       1956   ////      1957  SAG  C   RSP  025-180   III/1                 
+
+ 800 +     2015   2015      2015  PAL  G   RBR  245       100                   
+
+ 900       2050   2311      2354  PAL  G   RNS  245       380                   
+
+ 810       2050   2050      2050  SAG  U   RBR  245       430                   
+
+ 820       2054   2054      2054  SAG  U   RBR  245       120                   
+
+ 830       2129   2129      2129  SAG  U   RBR  245       100                   
+
+ 840 +     2148   2148      2148  PAL  G   RBR  245       480                   

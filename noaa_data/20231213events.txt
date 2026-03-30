@@ -1,0 +1,50 @@
+:Product: 20231213events.txt
+:Created: 2023 Dec 16 0357 UT
+:Date: 2023 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6380 +     0000   ////      0340  PAL  C   RSP  025-180   CTM/1                 
+6380       0019   0019      0019  LEA  G   RBR  245       120                   
+
+6390       0111   0111      0111  LEA  G   RBR  245       110                   
+
+6400       0117   0117      0118  LEA  G   RBR  245       130                   
+
+6440       0128   0137      0154  LEA  G   RNS  245       150                   
+
+6410       0230   0230      0230  LEA  G   RBR  245       130                   
+
+6420       0238   0238      0238  PAL  G   RBR  245       130                   
+
+6430       0242   0242      0242  LEA  G   RBR  245       100                   
+
+6470       0634   ////      1001  SVI  C   RSP  075-180   CTM/1                 
+
+6450 +     0645   0653      0659  G18  5   XRA  1-8A      C1.2    9.7E-04   3514
+
+6480 +     1123   1131      1139  G18  5   XRA  1-8A      C1.2    1.1E-03   3514
+
+6500 +     1331   ////      1512  SVI  C   RSP  025-180   CTM/2                 
+
+6490       1421   ////      1426  SAG  U   RSP  025-180   V/1                   
+
+6510       1438   ////      1439  SAG  C   RSP  025-071   III/1                 
+
+6520 +     1446   1515      1548  G18  5   XRA  1-8A      C9.3    2.6E-02   3511
+6520       1510   1512      1555  HOL  2   FLA  N06W34    SF                3514
+
+6530 +     1813   1815      1819  G18  5   XRA  1-8A      C1.8    6.3E-04   3513
+
+6540       1917   1920      1930  HOL  3   FLA  S10E40    SF                3519
+
+6550       2006   2007      2010  HOL  3   FLA  N06W36    SF      ERU       3514
+
+6560       2014   2021      2040  HOL  3   FLA  N06W38    SF      ERU       3514

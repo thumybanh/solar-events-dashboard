@@ -1,0 +1,31 @@
+:Product: 20260305events.txt
+:Created: 2026 Mar 08 0357 UT
+:Date: 2026 03 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Mar 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9880       0451   ////      0451  LEA  C   RSP  025-180   III/2                 
+
+9890 +     0703   0712      0716  G18  5   XRA  1-8A      C1.9    1.1E-03   4383
+
+9900       0858   0901      0904  G19  5   XRA  1-8A      C1.3    4.4E-04   4378
+9900 +     0900   0900      0900  SVI  G   RBR  245       120                   
+
+9910       1137   ////      1138  SVI  C   RSP  075-180   III/1                 
+
+9920 +     1346   1353      1359  G18  5   XRA  1-8A      B8.3    6.2E-04       
+
+9940 +     1926   1950      2011  G18  5   XRA  1-8A      C1.8    4.1E-03   4381
+
+9930       1938   1938      1939  SAG  G   RBR  245       740                   
+
+9940       1947   1947      1948  SAG  G   RBR  245       150                   
+
+9950 +     2223   2242      2302  G18  5   XRA  1-8A      C1.9    4.2E-03   4381

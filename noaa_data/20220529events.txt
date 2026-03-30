@@ -1,0 +1,52 @@
+:Product: 20220529events.txt
+:Created: 2022 Jun 01 0357 UT
+:Date: 2022 05 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 May 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8660       0007   ////      0148  PAL  C   RSP  025-072   CTM/1                 
+8660 +     0042   0053      0102  G16  5   XRA  1-8A      B7.4    6.3E-04       
+
+8670       0120   ////      0201  PAL  C   RSP  025-086   VI/1                  
+8670       0124   ////      0125  PAL  C   RSP  025-124   III/1                 
+
+8680       0251   ////      0252  PAL  C   RSP  025-052   III/1                 
+
+8690       0659   ////      0659  SVI  U   RSP  025-042   III/1                 
+
+8710 +     1053   ////      1054  SVI  C   RSP  025-083   III/1                 
+
+8720 +     1252   1252      1252  SVI  G   RBR  245       370                   
+
+8730 +     1256   ////      1259  SAG  C   RSP  025-151   III/1                 
+
+8740       1413   ////      1414  SAG  C   RSP  025-051   III/1                 
+
+8750       1442   ////      1442  SAG  C   RSP  025-052   III/1                 
+
+8760 +     1606   1614      1618  G16  5   XRA  1-8A      B4.2    2.3E-04   3025
+8760       1611   1616      1622  HOL  3   FLA  N27W48    SF                3025
+
+8770 +     1702   1705      1709  G16  5   XRA  1-8A      B7.1    2.2E-04   3025
+8770       1704   1705      1710  HOL  3   FLA  N27W47    SF                3025
+
+8780 +     1739   1748      1752  G16  5   XRA  1-8A      B5.0    3.5E-04   3025
+
+8790 +     1805   1812      1816  G16  5   XRA  1-8A      B5.5    2.9E-04   3025
+8790 +     1807   1808      1810  HOL  3   FLA  N27W48    SF      DSD       3025
+
+8800 +     1937   1947      1952  G16  5   XRA  1-8A      B4.7    3.2E-04   3025
+8800       1945   1946      1950  HOL  3   FLA  N27W49    SF                3025
+
+8810 +     2050   2100      2108  G16  5   XRA  1-8A      B7.2    5.1E-04   3025
+8810       2056   2110      2112  HOL  3   FLA  N27W49    SF                3025
+
+8820       2211   ////      2314  PAL  C   RSP  025-180   VI/2                  
+8820       2230   ////      2230  SAG  C   RSP  025-053   III/1                 

@@ -1,0 +1,64 @@
+:Product: 20221007events.txt
+:Created: 2022 Oct 10 0357 UT
+:Date: 2022 10 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7680 +     0009   ////      0009  LEA  C   RSP  025-115   III/1                 
+
+7860      A0010   ////     A1800  HOL  2   DSF  N31W33    73                    
+
+7690 +     0052   ////      0053  PAL  C   RSP  025-147   III/1                 
+
+7700       0143   ////      0144  LEA  C   RSP  025-151   III/1                 
+
+7710 +     0206   0215      0234  G16  5   XRA  1-8A      C1.2    1.9E-03   3112
+7710       0220   ////      0222  LEA  C   RSP  025-180   III/1                 
+
+7720 +     0314   ////      0315  LEA  C   RSP  025-180   III/2                 
+
+7730 +     0342   0349      0358  G16  5   XRA  1-8A      C1.2    1.1E-03   3116
+
+7740       0406   0406      0406  LEA  U   RBR  245       110                   
+
+7750       0408   0421      0432  G17  5   XRA  1-8A      C1.5    1.9E-03   3112
+
+7760       0646   ////      0647  LEA  C   RSP  025-180   III/1                 
+
+7770       0834   0850      0921  SVI  3   FLA  N20W01    SF      ERU       3112
+
+7780       0947   0949     A0956  LEA  3   FLA  N27E40    SF                3119
+
+7790      B1109  U1142     A1249  SVI  3   FLA  N29E10    SF      ERU       3116
+
+7810      B1111  U1225     A1251  SVI  3   FLA  N28E11    SF      ERU       3112
+
+7790 +     1206   ////      1612  SVI  C   RSP  075-151   CTM/1             3116
+
+7800 +     1219   1231      1242  G16  5   XRA  1-8A      C3.4    4.2E-03   3112
+
+7820 +    B1253  U1432     A1527  SVI  3   FLA  N29E10    1F      ERU       3116
+7820 +     1421   1444      1532  G16  5   XRA  1-8A      M1.0    3.6E-02   3116
+
+7830       1659   ////      1659  SAG  C   RSP  025-046   III/1                 
+
+7840 +     1847   ////      1848  PAL  C   RSP  025-180   III/1                 
+
+7850 +     1849   1859      1909  G16  5   XRA  1-8A      C4.2    3.3E-03   3112
+
+7880       2015   ////      2115  PAL  C   RSP  025-180   VI/1                  
+
+7870 +     2038   2046      2106  G16  5   XRA  1-8A      C1.4    2.1E-03   3112
+
+7890 +     2201   2205      2209  G16  5   XRA  1-8A      C1.5    6.5E-04   3116
+
+7900       2238   2241      2244  LEA  3   FLA  N27E34    SF                3119
+
+7910 +     2310   ////      2314  LEA  C   RSP  025-180   III/2                 

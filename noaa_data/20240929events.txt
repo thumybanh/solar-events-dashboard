@@ -1,0 +1,47 @@
+:Product: 20240929events.txt
+:Created: 2024 Oct 02 0357 UT
+:Date: 2024 09 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Sep 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3850 +     0523   0612      0654  G16  5   XRA  1-8A      C4.9    2.4E-02   3836
+3850      B0551   ////     B1127  SVI  3   BSL  ////      0.16    B.9A          
+
+3860       0914   ////      0915  LEA  C   RSP  025-092   III/1                 
+
+3870      B1105  U1107     A1120  SVI  3   FLA  S12E46    SF                3836
+
+3880 +     1249   1253      1258  G16  5   XRA  1-8A      M1.0    4.9E-03       
+3880       1252  U1254      1306  SVI  3   FLA  S11E25    SF                    
+
+3920       1337  U1348     A1412  SVI  3   FLA  S12E04    SF                3836
+
+3890 +     1409   1424      1431  G16  5   XRA  1-8A      M1.7    2.1E-02   3842
+3890       1421   1422      1452  HOL  3   FLA  S15E51    1F      DSD       3842
+3890       1421   ////      1422  SAG  C   RSP  112-157   III/1             3842
+
+3910 +     1431   1441      1446  G16  5   XRA  1-8A      M1.7    1.6E-02   3842
+
+3900       1455  U1455      1511  SVI  2   FLA  S12E03    SF                3836
+
+3930       2001   2001      2006  HOL  3   FLA  S18E49    SF                3842
+
+3940 +     2048   2053      2057  G16  5   XRA  1-8A      C2.5    1.3E-03   3836
+3940       2051   2052      2058  HOL  3   FLA  S07W03    SF                3836
+
+3950 +     2132   2145      2150  G16  5   XRA  1-8A      C6.4    4.2E-03   3842
+3950       2140   2142      2152  HOL  3   FLA  S10E54    SF                    
+
+3960       2241   ////      2241  LEA  C   RSP  073-141   III/1                 
+
+3970 +     2309   2309      2309  PAL  G   RBR  245       140                   
+3970       2309   ////      2318  LEA  C   RSP  025-180   III/2                 
+
+3980       2309   ////      2314  PAL  C   RSP  025-180   III/2                 

@@ -1,0 +1,37 @@
+:Product: 20250517events.txt
+:Created: 2025 May 20 0357 UT
+:Date: 2025 05 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 May 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4070       0112   ////      0112  LEA  C   RSP  025-099   III/1                 
+
+4080 +     0552   ////      0557  SVI  C   RSP  025-157   III/2                 
+
+4100       0710   ////      0715  SVI  C   RSP  025-066   III/1                 
+
+4110       0759   ////      0902  SVI  C   RSP  025-180   VI/1                  
+
+4120 +     0956   1009      1019  G19  5   XRA  1-8A      B8.5    1.0E-03   4089
+4120 +     1002   ////      1007  SVI  C   RSP  025-180   III/2                 
+4120 +     1004   1004      1004  SVI  G   RBR  245       170                   
+
+4130       1325   ////      1408  SVI  C   RSP  025-180   VI/1                  
+4130 +     1351   1406      1419  G19  5   XRA  1-8A      B9.1    1.3E-03   4089
+
+4200      A1709   ////     A0428  SVI  3   DSF  N31W10    8                     
+
+4140       1712   ////      1716  SVI  C   RSP  046-084   III/1                 
+
+4150 +     1944   2000      2011  G19  5   XRA  1-8A      C2.2    3.1E-03   4088
+
+4170 +     2311   2336      0006  G19  5   XRA  1-8A      B9.6    3.0E-04   4087
+
+4160       2340   ////      2340  PAL  C   RSP  025-150   III/1                 

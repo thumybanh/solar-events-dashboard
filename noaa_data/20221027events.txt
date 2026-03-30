@@ -1,0 +1,49 @@
+:Product: 20221027events.txt
+:Created: 2022 Oct 30 0357 UT
+:Date: 2022 10 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 710       0009   ////      0041  LEA  C   RSP  025-098   VI/1                  
+
+ 720 +     0116   0126      0132  G16  5   XRA  1-8A      C2.3    2.0E-03   3133
+
+ 730 +     0143   0157      0203  G16  5   XRA  1-8A      C2.2    2.2E-03   3133
+ 730       0155   ////      0157  LEA  C   RSP  025-065   III/2                 
+
+ 740       0258   ////      0258  PAL  C   RSP  056-086   III/1                 
+ 740       0258   ////      0325  LEA  C   RSP  025-174   VI/2                  
+
+ 750       0323   ////      0324  PAL  C   RSP  055-086   III/1                 
+
+ 760 +     0432   0439      0455  G16  5   XRA  1-8A      C1.1    1.4E-03   3133
+
+ 770 +     0639   0644      0650  G16  5   XRA  1-8A      C0.9    6.6E-04   3130
+
+ 780       0715   ////      0716  SVI  U   RSP  036-045   III/1                 
+
+ 790 +     0847   0856      0905  G16  5   XRA  1-8A      C1.2    1.1E-03   3130
+
+ 800 +     0932   ////      1011  SVI  C   RSP  025-180   VI/1                  
+
+ 810       1421   ////      1458  SVI  C   RSP  035-133   VI/1                  
+ 810       1444   ////      1620  SAG  C   RSP  113-148   CTM/1                 
+
+ 820 +     1820   ////      1821  PAL  C   RSP  025-067   III/1                 
+
+ 830       1946   ////      1946  PAL  C   RSP  025-068   III/1                 
+
+ 840       2108   ////      2108  PAL  C   RSP  025-157   III/1                 
+
+ 850 +     2227   ////      2228  PAL  C   RSP  025-180   III/1                 
+
+ 870       2232   ////      2259  LEA  3   DSF  S06W41    6                 3132
+
+ 860       2333   ////      2334  PAL  C   RSP  025-085   III/2                 

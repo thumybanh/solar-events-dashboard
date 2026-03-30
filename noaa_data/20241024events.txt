@@ -1,0 +1,86 @@
+:Product: 20241024events.txt
+:Created: 2024 Oct 27 0357 UT
+:Date: 2024 10 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Oct 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1740       0019   ////      0051  LEA  C   RSP  025-180   VI/2                  
+1740       0027   0027      0027  LEA  G   RBR  245       110                   
+1740       0043   ////      0052  PAL  C   RSP  025-062   III/2                 
+
+1750 +     0052   0052      0052  LEA  G   RBR  245       240                   
+
+1760       0152   0152      0152  LEA  G   RBR  245       170                   
+
+1780       0202   ////      0214  LEA  C   RSP  025-180   VI/2                  
+
+1770       0202   ////      0202  PAL  C   RSP  025-180   III/1                 
+
+1790       0248   0248      0248  LEA  G   RBR  245       200                   
+
+1800 +     0259   0259      0259  LEA  G   RBR  245       470                   
+
+1810       0312   ////      0316  LEA  C   RSP  025-137   III/1                 
+
+1820 +     0330   0357      0428  G16  5   XRA  1-8A      X3.3    7.1E-01   3869
+1820       0338   ////      0408  LEA  C   RSP  025-180   VI/3              3869
+1820 +     0338   0344      0350  PAL  G   RBR  2695      5900    CastelliU 3869
+1820 +     0338   0339      0557  LEA  G   RBR  610       1200    CastelliU 3869
+1820 +     0338   0342      0453  LEA  G   RBR  245       1600    CastelliU 3869
+1820 +     0338   0341      0614  LEA  G   RBR  1415      850     CastelliU 3869
+1820 +     0338   0345      0627  LEA  G   RBR  4995      4400    CastelliU 3869
+1820 +     0338   0345      0627  LEA  G   RBR  8800      4100    CastelliU 3869
+1820       0339   0403      0420  LEA  3   FLA  S05E86    SF                3869
+1820 +     0339   0345      0444  LEA  G   RBR  15400     2000    CastelliU 3869
+1820       0339   ////      0340  PAL  C   RSP  045-180   III/2             3869
+1820 +     0339   0341      0557  LEA  G   RBR  410       1500    CastelliU 3869
+1820 +     0346   ////      0351  LEA  C   RSP  041-091   II/1    610       3869
+1820       0346   ////      0419  LEA  C   RSP  025-180   IV/2              3869
+
+1860 +     0619   ////      0659  LEA  C   RSP  025-180   VI/2                  
+
+1840       0635   0635      0635  LEA  G   RBR  245       240                   
+
+1850       0639   0640      0642  SVI  3   FLA  S10W02    SF                3863
+
+1870       0719   0720      0725  SVI  3   FLA  S15E65    SF                3869
+
+1880       0748   ////      0802  LEA  C   RSP  025-099   VI/2              3869
+1880       0750   ////      0751  SVI  C   RSP  025-084   III/2             3869
+1880       0752  U0752      0757  SVI  3   FLA  S12E60    SF                3869
+
+1890 +     0844   ////      0845  LEA  C   RSP  025-113   III/2                 
+
+1900       0917   ////      1222  SVI  C   RSP  025-180   VI/2                  
+1900 +     0919   ////      0919  LEA  C   RSP  025-144   III/2                 
+1900 +     0938   0938      0938  SVI  G   RBR  245       160                   
+1900       0938   0938      0938  LEA  G   RBR  410       100                   
+
+1910 +     1022   1029      1034  G16  5   XRA  1-8A      M1.2    2.8E-03   3869
+1910      B1027  U1027     A1054  SVI  3   FLA  S15E87    SF      DSD       3869
+
+1920       1052   ////      1054  SVI  C   RSP  025-084   III/2                 
+1920       1054   1054      1054  SVI  G   RBR  245       110                   
+
+1930       1200   ////      1222  SAG  C   RSP  025-180   VI/1                  
+
+1940 +     1242   1250      1258  G16  5   XRA  1-8A      C6.4    5.5E-03   3869
+
+1950       1346   ////      1346  SAG  C   RSP  025-046   III/1                 
+
+1960 +     1407   ////      1433  SVI  C   RSP  075-180   VI/2                  
+
+1970 +     1512   ////      1516  SAG  C   RSP  025-150   III/1                 
+
+1990       1751   ////      1950  SAG  C   RSP  025-149   VI/1                  
+
+1980       1828   ////      1932  PAL  C   RSP  025-075   VI/1                  
+
+2000       2109   ////      2109  SAG  C   RSP  025-043   III/1                 

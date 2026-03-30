@@ -1,0 +1,60 @@
+:Product: 20220910events.txt
+:Created: 2022 Sep 13 0357 UT
+:Date: 2022 09 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Sep 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  40       0114   0114      0114  LEA  G   RBR  245       110                   
+
+  50       0115   0115      0115  LEA  G   RBR  410       180                   
+
+  60       0115   ////      0135  PAL  C   RSP  025-180   VI/2                  
+  60       0134   0134      0134  LEA  G   RBR  245       280                   
+
+  70 +     0159   0209      0218  G16  5   XRA  1-8A      C1.0    1.1E-03   3100
+
+  80 +     0400   0407      0418  G16  5   XRA  1-8A      B7.5    7.6E-04   3100
+
+  90 +     0651   0703      0716  G16  5   XRA  1-8A      C1.2    8.8E-04   3098
+  90       0658   0659      0708  SVI  3   FLA  N16E01    SF      ERU       3098
+
+ 100 +     0716   0721      0726  G16  5   XRA  1-8A      C1.1    6.9E-04   3098
+
+  90       0723   0723      0723  LEA  G   RBR  245       320               3098
+
+ 110 +     0739   0746      0753  G16  5   XRA  1-8A      C1.2    9.8E-04   3100
+ 110       0744   0747      0748  SVI  3   FLA  S24E63    SF                3100
+
+ 120 +     0853   0902      0909  G16  5   XRA  1-8A      C1.9    1.6E-03       
+ 120 +     0907   ////      0908  LEA  C   RSP  025-180   III/1                 
+
+ 130       0948   ////      0949  SVI  C   RSP  130-180   III/1                 
+
+ 140       1016   ////      1019  SVI  C   RSP  025-180   III/1                 
+ 140       1016   1017      1017  SVI  G   RBR  245       190                   
+
+ 150 +     1104   1119      1130  G16  5   XRA  1-8A      C2.6    2.6E-03   3100
+ 150       1112   1117      1139  SVI  3   FLA  S23E60    1F      DSD       3100
+
+ 160 +     1210   1210      1210  SVI  G   RBR  245       150                   
+ 160 +     1210   ////      1210  SVI  C   RSP  115-180   III/1                 
+
+ 170 +     1303   1312      1318  G16  5   XRA  1-8A      B9.3    7.4E-04   3097
+
+ 180       1457   1457      1518  SVI  3   FLA  N20W05    SF      ERU       3098
+
+ 190       1916   1925      1937  HOL  3   FLA  S23E55    SF                3100
+ 190 +     1931   1942      1956  G16  5   XRA  1-8A      C2.2    3.1E-03   3100
+
+ 200 +     2103   ////      2106  PAL  C   RSP  025-086   III/1                 
+
+ 210 +     2150   2157      2212  G16  5   XRA  1-8A      C1.6    2.0E-03   3100
+
+ 220 +     2349   0009      0024  G16  5   XRA  1-8A      C2.8    4.1E-03   3100

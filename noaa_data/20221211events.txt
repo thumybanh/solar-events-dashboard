@@ -1,0 +1,96 @@
+:Product: 20221211events.txt
+:Created: 2022 Dec 14 0357 UT
+:Date: 2022 12 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Dec 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8870       0005   0006      0006  PAL  G   RBR  245       150                   
+
+8860       0008   0009      0009  LEA  G   RBR  245       120                   
+
+8880       0023   ////      0023  LEA  C   RSP  025-180   III/1                 
+8880       0023   0023      0024  LEA  G   RBR  245       310                   
+
+8890       0052   0057      0057  LEA  G   RBR  245       240                   
+
+8910 +     0103   0140      0210  LEA  G   RNS  245       180                   
+
+8900       0135   ////      0226  PAL  C   RSP  136-180   CTM/1                 
+8900       0140   0140      0141  LEA  G   RBR  245       180                   
+8900 +     0222   0230      0238  G16  5   XRA  1-8A      C1.1    1.0E-03   3163
+
+8920       0337   0337      0337  PAL  G   RBR  245       160                   
+
+8930 +     0612   0628      0634  G16  5   XRA  1-8A      C1.6    1.7E-03       
+
+8940       0634   0638      0645  G16  5   XRA  1-8A      C1.6    1.2E-03   3163
+
+8950 +     0738   ////      0832  LEA  C   RSP  025-180   VI/2                  
+8950 +     0754   0754      0754  SVI  G   RBR  245       180                   
+
+8960       0910   0912      0918  SVI  3   FLA  N25W31    SF                3161
+
+8990       0911   0912      0914  SVI  3   FLA  N21W77    SF                3158
+
+9010       1114   ////      1202  SVI  C   RSP  025-180   VI/2                  
+
+8970 +     1125   1140      1144  G16  5   XRA  1-8A      C2.9    1.9E-03   3153
+8970      B1130  U1141      1144  SVI  3   FLA  S16W60    SF                3153
+8970 +     1132   1132      1132  SVI  G   RBR  245       170               3153
+
+9000       1139  U1151      1202  SVI  3   FLA  S21E63    SF      ERU       3163
+
+8980       1154   1154      1154  SVI  G   RBR  245       170                   
+
+9020 +     1234   ////      1234  SVI  C   RSP  058-180   III/2                 
+
+9040       1247   1252      1257  SVI  3   FLA  S22E62    SF                3163
+
+9050 +     1333   1334      1335  SVI  G   RBR  245       510                   
+9050 +     1333   ////      1336  SVI  C   RSP  079-180   III/2                 
+
+9060       1338   ////      1339  SVI  C   RSP  062-180   III/2                 
+
+9070 +     1429   ////      1429  SAG  C   RSP  025-180   III/2                 
+9070 +     1429   1429      1429  SVI  G   RBR  245       510                   
+
+9080       1430   1506      1531  HOL  3   FLA  S19E58    SF      ERU       3163
+9080 +     1433   1439      1447  G16  5   XRA  1-8A      C1.2    9.3E-04   3163
+
+9090 +     1459   1508      1523  G16  5   XRA  1-8A      C1.2    1.5E-03   3163
+
+9260       1514   1517      1524  HOL  3   FLA  N25W37    SF      ERU       3161
+
+9100 +     1542   1546      1551  G16  5   XRA  1-8A      C1.2    6.0E-04   3153
+9100       1544   ////      1546  SAG  C   RSP  025-180   III/1             3153
+9100       1544   1544      1544  SAG  U   RBR  245       150               3153
+9100       1546   1547      1548  HOL  3   FLA  S13W62    SF      DSD       3153
+
+9110 +     1735   ////      1811  PAL  C   RSP  045-180   VI/2              3153
+9110       1737   1741      1747  HOL  3   FLA  S14W63    SF      ERU       3153
+
+9270 +     1836   1843      1900  G16  5   XRA  1-8A      C1.7    2.1E-03   3166
+9270       1838   1843      1900  HOL  3   FLA  S07E50    SF      DSD       3166
+9270       1848   ////      1848  PAL  C   RSP  025-143   III/1             3166
+
+9150       1956   ////      2003  PAL  C   RSP  025-180   III/2                 
+
+9120       1958   ////      1958  SAG  C   RSP  025-180   III/1                 
+9120 +     1958   1958      1958  PAL  G   RBR  245       870                   
+
+9150       2000   2000      2000  PAL  G   RBR  245       180                   
+
+9180       2041   ////      2324  PAL  C   RSP  109-180   CTM/1                 
+
+9160       2117   ////      2118  PAL  C   RSP  109-180   III/1                 
+
+9170 +     2147   ////      2156  PAL  C   RSP  025-180   III/1                 
+
+9190 +     2251   ////      2255  LEA  C   RSP  025-180   III/2                 

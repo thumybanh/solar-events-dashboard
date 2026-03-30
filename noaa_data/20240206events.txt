@@ -1,0 +1,85 @@
+:Product: 20240206events.txt
+:Created: 2024 Feb 09 0357 UT
+:Date: 2024 02 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Feb 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8260      A0003   ////     A1543  HOL  3   DSF  N38E10    18                    
+
+8090       0202   ////      0349  LEA  C   RSP  025-180   CTM/2                 
+
+8070       0208   0208      0208  PAL  G   RBR  245       110                   
+
+8080       0213   0219      0233  LEA  G   RBR  1415      370                   
+8080       0213   0219      0233  LEA  G   RBR  2695      470                   
+8080 +     0215   0228      0237  G16  5   XRA  1-8A      M2.2    6.3E-03   3575
+
+8090       0215   0330      0347  PAL  G   RBR  245       3300                  
+8090       0215   ////      0349  LEA  C   RSP  025-180   VII/2                 
+8090       0217   0330      0400  PAL  G   RBR  410       10000                 
+8090       0218   0219      0229  LEA  G   RBR  15400     230                   
+8090       0218   0330      0355  PAL  G   RBR  610       12000                 
+8090 +     0237   0312      0337  G16  5   XRA  1-8A      M4.2    1.3E-01   3575
+
+8080 +     0239   0239      0241  LEA  G   RBR  4995      140                   
+
+8090 +     0253   0332      0343  LEA  G   RBR  4995      290                   
+8090 +     0254   0332      0350  LEA  G   RBR  2695      480                   
+8090 +     0254   0332      0336  LEA  G   RBR  8800      150                   
+8090 +     0255   0331      0350  LEA  G   RBR  1415      13000                 
+
+8080       0310   ////      0314  LEA  C   RSP  025-054   II/2    1063          
+
+8090       0310   ////      0314  PAL  C   RSP  025-052   II/1    431           
+8090       0314   ////      0334  LEA  C   RSP  025-046   IV/2                  
+
+8100       0607   ////      0639  LEA  C   RSP  054-121   VI/1                  
+
+8110 +     0648   ////      0900  SVI  C   RSP  075-180   CTM/1             3576
+8110      B0701  U0702      0704  SVI  3   FLA  S14E61    SF                3576
+
+8120       0913   0914      0916  SVI  3   FLA  S15E57    SF                3576
+
+8210       0951   ////      1317  SVI  C   RSP  075-180   CTM/1                 
+
+8130       1056   1056      1058  SVI  3   FLA  S16E58    1F                3576
+
+8140       1102   1104      1111  SVI  3   FLA  S16E58    SF                3576
+
+8150       1116   1130      1133  SVI  3   FLA  S16E58    SF                3576
+
+8160       1135  U1144      1202  SVI  3   FLA  S16E58    SF                3576
+8160 +     1137   1145      1149  G16  5   XRA  1-8A      C4.5    2.4E-03   3576
+
+8170       1212   1213      1216  SVI  3   FLA  S16E58    SF                3576
+
+8180       1218   1226      1230  SVI  3   FLA  S16E58    SF                3576
+
+8190       1235   1241      1244  SVI  3   FLA  S16E58    SF                3576
+
+8200 +     1248   1258      1306  G16  5   XRA  1-8A      C9.4    8.2E-03   3575
+8200       1250   1257      1316  SVI  3   FLA  S40W68    SF                3575
+
+8220 +     1336   1347      1409  SVI  3   FLA  S16E58    SF                3576
+
+8350       1353   1405      1413  SVI  3   FLA  S05W11    SF                3570
+
+8220       1359   ////      1602  SVI  C   RSP  114-180   CTM/1             3576
+
+8230 +     1547   1614      1626  G16  5   XRA  1-8A      C5.1    8.8E-03   3578
+
+8240 +     1737   1744      1750  G16  5   XRA  1-8A      C3.2    2.3E-03   3575
+
+8250 +     1819   1835      1838  G16  5   XRA  1-8A      C6.2    2.3E-03   3575
+
+8270       1838   1849      1907  G16  5   XRA  1-8A      M1.3    1.9E-02   3575
+8270       1846   1848      1848  PAL  G   RBR  245       110                   
+
+8280       2220   ////      2359  LEA  C   RSP  075-180   CTM/1                 

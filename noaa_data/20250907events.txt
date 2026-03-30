@@ -1,0 +1,100 @@
+:Product: 20250907events.txt
+:Created: 2025 Sep 10 0357 UT
+:Date: 2025 09 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Sep 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 390 +     0000   ////      0000  LEA  C   RSP  025-180   VI/2                  
+
+ 400 +     0038   0047      0050  G18  5   XRA  1-8A      C9.5    3.7E-03   4207
+ 400       0045   0046      0049  LEA  3   FLA  N28W18    SF                4207
+
+ 450       0354   0412      0445  G18  5   XRA  1-8A      C3.3    8.8E-03   4213
+
+ 460       0445   0500      0513  G18  5   XRA  1-8A      C3.0    4.8E-03   4213
+
+ 410 +     0506   ////      0507  LEA  C   RSP  025-114   III/2                 
+
+ 420       0510   0520      0533  G18  5   XRA  1-8A      C6.3    6.9E-03   4207
+ 420       0517   0523      0530  LEA  3   FLA  N28W19    SF      ERU       4207
+
+ 430       0604   ////      0604  SVI  C   RSP  030-102   III/1                 
+
+ 440 +     0643   0655      0720  G18  5   XRA  1-8A      C3.6    7.2E-03   4202
+
+ 470 +     0749   0757      0805  G18  5   XRA  1-8A      C3.3    2.9E-03   4207
+ 470       0754   0754      0802  LEA  3   FLA  N28W20    SF                4207
+
+ 480       0850   ////      0859  LEA  C   RSP  025-180   III/2                 
+ 480       0850   ////      0903  SVI  C   RSP  025-180   VI/2                  
+
+ 490       0925   0940      1004  G19  5   XRA  1-8A      C2.7    5.7E-03   4202
+
+ 500 +     1007   1012      1017  G18  5   XRA  1-8A      C3.6    2.1E-03   4207
+ 500       1008   1011      1017  SVI  3   FLA  N28W21    SF                4207
+
+ 510 +     1039   1050      1115  G18  5   XRA  1-8A      C3.4    6.4E-03   4202
+
+ 520 +     1139   1139      1139  SVI  G   RBR  245       190                   
+
+ 530 +     1155   ////      1223  SVI  C   RSP  025-180   VI/2                  
+
+ 540 +     1233   1244      1251  G18  5   XRA  1-8A      C3.6    3.0E-03   4207
+ 540       1239   1239      1247  SVI  3   FLA  N27W22    SF                4207
+
+ 550 +     1406   ////      1530  SVI  C   RSP  025-167   VI/2                  
+ 550       1428   1501      1529  G18  5   XRA  1-8A      C1.4    5.0E-03   4212
+
+ 590       1431   1453      1515  HOL  3   FLA  S12E21    SF                4213
+
+ 560 +     1449   1501      1502  HOL  3   FLA  N09W29    SF                4212
+
+ 600       1523   1525      1528  HOL  3   FLA  S12E21    SF                4213
+
+ 570       1527   ////      1530  SAG  C   RSP  025-180   III/1             4212
+ 570       1528   1530      1532  HOL  3   FLA  N08W31    SF                4212
+
+ 580       1530   1530      1540  HOL  3   FLA  S12E21    SF      ERU       4213
+
+ 610       1532   1536      1539  HOL  3   FLA  N27W28    SF                4207
+
+ 580       1538   1601      1635  G18  5   XRA  1-8A      C2.5    6.9E-03   4213
+
+ 620       1701   1702      1703  HOL  3   FLA  S15E16    SF      DSD       4213
+
+ 640       1707   ////      1751  SAG  C   RSP  025-122   VI/1              4213
+ 640       1709   ////      1709  PAL  C   RSP  025-051   III/1             4213
+
+ 630       1722   1723      1723  PAL  U   RBR  15400     100                   
+
+ 640       1750   1750      1754  HOL  3   FLA  S14E16    SF                4213
+
+ 650 +     1756   1813      1845  G18  5   XRA  1-8A      C4.0    8.6E-03   4213
+ 650       1802   1828      1850  HOL  3   FLA  S15E17    1N      ERU       4213
+
+ 690       1803   1820      1836  HOL  3   FLA  S15E10    SF                4211
+
+ 660       1805   1820      1837  HOL  3   FLA  N09W30    SF      ERU       4212
+
+ 670       1907   1907      1920  HOL  3   FLA  S12E18    SF      DSD       4213
+
+ 680       1940   1952      2006  HOL  3   FLA  S12E18    SF      DSD       4213
+
+ 700       2000   2002      2012  HOL  3   FLA  N27W30    SF                4207
+
+ 710 +     2043   2050      2056  G18  5   XRA  1-8A      C1.2    9.8E-04   4207
+
+ 740       2045   2049      2056  HOL  3   FLA  N09W32    SF                4212
+
+ 710       2047   2049      2104  HOL  3   FLA  N27W31    SF                4207
+
+ 720       2125   2126      2130  HOL  3   FLA  S14E18    SF                4213
+
+ 730       2218   2218      2220  HOL  3   FLA  N09W32    SF                4212

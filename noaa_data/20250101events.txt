@@ -1,0 +1,73 @@
+:Product: 20250101events.txt
+:Created: 2025 Jan 04 0357 UT
+:Date: 2025 01 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jan 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2000      B0017  U0017      0031  LEA  3   FLA  S15W06    1F                3939
+
+2010       0032   ////      0033  PAL  C   RSP  025-180   III/1                 
+2010       0032   0032      0032  LEA  G   RBR  245       100                   
+
+2020       0032   ////      0033  LEA  C   RSP  025-180   III/2                 
+
+2030 +     0100   0100      0100  LEA  G   RBR  410       180                   
+
+2040       0133   ////      0203  LEA  C   RSP  025-180   VI/2                  
+2040       0153   ////      0153  PAL  C   RSP  120-180   III/1                 
+2040       0153   0153      0153  LEA  G   RBR  245       160                   
+
+2050 +     0303   ////      0305  LEA  C   RSP  025-180   III/2                 
+
+2060 +     0340   0351      0403  G18  5   XRA  1-8A      C8.1    2.0E-03   3936
+
+2070 +     0435   0445      0502  G18  5   XRA  1-8A      M1.1    1.5E-02   3936
+
+2080       0600   0600      0602  LEA  3   FLA  N11W57    SF                3936
+
+2100 +     0810   ////      0812  LEA  C   RSP  025-180   III/2                 
+
+2110 +     1007   1020      1034  G18  5   XRA  1-8A      C7.1    2.2E-03       
+
+2120       1115   ////      1119  SVI  C   RSP  044-171   III/1                 
+
+2130 +     1145   1155      1211  G18  5   XRA  1-8A      C5.8    7.8E-03   3936
+
+2140       1222   1222      1222  SVI  G   RBR  245       120                   
+
+2150 +     1325   1334      1349  G18  5   XRA  1-8A      C5.6    1.8E-03   3943
+2150      B1330  U1339     A1351  SVI  3   FLA  S18E56    SF      ERU       3943
+
+2170 +     1349   1353      1403  G18  5   XRA  1-8A      C5.0    5.4E-03   3945
+2170 +    B1351  U1352     A1357  SVI  3   FLA  S08E64    SF                3945
+
+2180 +     1403   1409      1414  G18  5   XRA  1-8A      C5.5    4.8E-03   3936
+
+2190 +     1414   1419      1425  G18  5   XRA  1-8A      C5.7    2.3E-03       
+
+2160 +     1512   1524      1543  G18  5   XRA  1-8A      M1.0    1.4E-02   3936
+
+2200 +     1805   1817      1828  G18  5   XRA  1-8A      M1.2    1.4E-02   3936
+2200       1810   1812      1844  HOL  3   FLA  N15W83    SF                3936
+
+2210       1853   1854      1859  HOL  3   FLA  S09E62    SF      DSD       3945
+
+2220 +     1937   1948      1958  G18  5   XRA  1-8A      C7.9    8.5E-03   3936
+
+2330       1939   1940      1942  HOL  3   FLA  N15W40    SF      DSD       3938
+
+2230 +     2112   2119      2132  G16  5   XRA  1-8A      C7.2    9.0E-03   3936
+
+2240 +     2132   2141      2146  G18  5   XRA  1-8A      M1.1    7.7E-03   3936
+
+2250 +     2218   2238      2255  G18  5   XRA  1-8A      C7.6    1.5E-02   3936
+2250       2237   ////      2238  LEA  C   RSP  025-093   III/1                 
+
+2260       2345   ////      2350  LEA  C   RSP  025-064   III/1                 

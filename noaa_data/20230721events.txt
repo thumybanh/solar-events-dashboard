@@ -1,0 +1,95 @@
+:Product: 20230721events.txt
+:Created: 2023 Jul 24 0357 UT
+:Date: 2023 07 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jul 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4620       0003   ////      0918  LEA  C   RSP  097-180   CTM/1                 
+
+4580       0004   ////      0505  PAL  C   RSP  025-180   III/1                 
+
+4570 +     0036   ////      0037  LEA  C   RSP  025-180   III/2                 
+4570 +     0036   0036      0037  LEA  G   RBR  245       300                   
+
+4590       0125   ////      0340  LEA  C   RSP  025-180   VI/2                  
+4590       0125   ////      0430  PAL  C   RSP  025-180   III/1                 
+
+4630       0416   ////      0905  SVI  C   RSP  071-180   CTM/1                 
+
+4600       0419   0420      0422  LEA  3   FLA  N21W41    SF                3372
+
+4610 +     0535   ////      0537  LEA  C   RSP  025-180   III/2                 
+4610 +     0536   0536      0537  LEA  G   RBR  245       260                   
+
+4640       0554   0604      0624  SVI  3   FLA  N23W33    SF                3372
+
+4650       0625   0632      0638  SVI  3   FLA  N23W33    SF                3372
+
+4660       0639   0650      0709  SVI  3   FLA  N23W33    SF                3372
+4660 +     0641   ////      0704  LEA  C   RSP  025-101   VI/1              3372
+
+4670       0710   0719      0723  SVI  3   FLA  N26W36    SF                3372
+
+4680       0735   0735      0735  LEA  G   RBR  245       110                   
+
+4690       0759   0759      0759  LEA  G   RBR  245       120                   
+
+4700       0759   ////      0802  SVI  C   RSP  025-082   III/1                 
+4700       0802   ////      0849  LEA  C   RSP  025-123   VI/1                  
+
+4710       0812   0812      0820  SVI  3   FLA  N05W18    SF                3373
+
+4720       0832   ////      0936  SVI  C   RSP  025-079   VI/1                  
+4720 +     0832   0832      0832  LEA  G   RBR  245       140                   
+
+4730 +     0945   0952      0957  G16  5   XRA  1-8A      C1.5    1.1E-03   3373
+4730       0947   0957      1005  SVI  3   FLA  N05W18    SF                3373
+4730       0952   ////      1040  SAG  C   RSP  124-156   CTM/1             3373
+
+4740       1018   ////      1055  SVI  C   RSP  125-180   CTM/1             3373
+4740 +     1044   1054      1103  G16  5   XRA  1-8A      C2.1    1.9E-03   3373
+4740       1047   1055      1125  SVI  3   FLA  N05W19    SF                3373
+
+4750       1116   ////      1116  SVI  C   RSP  025-054   III/1                 
+4750       1116   ////      1635  SAG  C   RSP  025-180   VI/1                  
+
+4760       1137   ////      1352  SVI  C   RSP  025-180   VI/1                  
+
+4770       1328   1328      1328  SVI  G   RBR  245       120                   
+
+4780       1328   ////      1329  SVI  C   RSP  025-077   III/1                 
+
+4830       1351   ////      1734  SAG  C   RSP  113-180   CTM/1                 
+
+4810       1408   ////      1619  SVI  C   RSP  118-180   CTM/1                 
+4810       1428   ////      1615  SVI  C   RSP  025-142   VI/1                  
+
+4790       1436   1436      1436  SVI  G   RBR  245       110                   
+
+4800       1458   1458      1458  SVI  G   RBR  245       110                   
+
+4820       1804   1805      1805  PAL  G   RBR  245       170                   
+
+4840       1856   1856      1856  PAL  G   RBR  245       230                   
+4840 +     1856   ////      1856  SAG  C   RSP  025-180   III/2                 
+
+4880       1920   ////      2354  PAL  C   RSP  025-116   VI/1                  
+
+4850       1927   1928      1937  HOL  3   FLA  N07W24    SF                3373
+
+4860       2107   2112      2120  HOL  3   FLA  N18E07    SF                    
+4860       2117   ////      2332  PAL  C   RSP  110-180   CTM/1                 
+
+4870       2145   2145      2145  PAL  G   RBR  245       140                   
+
+4890       2251   2253      2258  HOL  3   FLA  N05W28    SF                3373
+4890       2255   2255      2255  PAL  G   RBR  245       190               3373
+
+4900       2313   ////      2359  LEA  C   RSP  075-180   III/1                 

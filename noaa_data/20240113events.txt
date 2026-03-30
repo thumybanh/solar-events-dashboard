@@ -1,0 +1,53 @@
+:Product: 20240113events.txt
+:Created: 2024 Jan 16 0357 UT
+:Date: 2024 01 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jan 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2660       0040   ////      0045  LEA  C   RSP  025-086   III/2                 
+2660       0040   ////      0107  LEA  C   RSP  025-180   VI/2                  
+
+2670       0201   ////      0206  LEA  C   RSP  025-180   III/3                 
+
+2680       0339   ////      0344  LEA  C   RSP  025-180   III/1                 
+
+2690 +     0414   0421      0425  G16  5   XRA  1-8A      C2.7    1.5E-03       
+
+2700 +     0719   ////      0719  LEA  C   RSP  025-124   III/2                 
+
+2710 +     0838   ////      0838  LEA  C   RSP  025-144   III/2                 
+
+2720       0922   ////      0922  LEA  C   RSP  025-109   III/1                 
+
+2730       1057   1057      1057  LEA  U   RBR  245       160                   
+
+2740       1202   ////      1207  SVI  C   RSP  033-180   III/2                 
+
+2750       1325   1325      1325  SVI  G   RBR  410       120                   
+2750       1335   1335      1335  SVI  G   RBR  245       100                   
+
+2770       1357   ////      1357  SVI  C   RSP  033-085   III/2                 
+
+2780       1448   ////      1449  SVI  U   RSP  136-161   III/1                 
+
+2790       1452   1452      1452  SVI  G   RBR  245       100                   
+
+2800       1550   ////      1550  SAG  C   RSP  025-180   III/1                 
+
+2810       1721   1721      1738  HOL  3   FLA  S21W31    SF      DSD       3541
+
+2820       1747   1751      1753  HOL  3   FLA  S21W34    SF      DSD       3541
+
+2830       1945   1948      1952  HOL  3   FLA  S21W33    SF      DSD       3541
+
+2840       2049   2050      2053  HOL  3   FLA  S08E19    SF                3545
+
+2850 +     2322   2326      2333  G16  5   XRA  1-8A      C2.3    1.3E-03   3541
+2850       2325   2326      2331  HOL  3   FLA  S21W35    SF      DSD       3541

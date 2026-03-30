@@ -1,0 +1,75 @@
+:Product: 20230505events.txt
+:Created: 2023 May 08 0357 UT
+:Date: 2023 05 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 May 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9790       0034   ////      0035  LEA  C   RSP  025-175   III/3                 
+
+9800 +     0053   0057      0103  G16  5   XRA  1-8A      C2.5    1.3E-03       
+
+9810       0108   ////      0108  LEA  C   RSP  025-096   III/2                 
+
+9820 +     0354   0354      0354  PAL  G   RBR  245       200                   
+
+9830 +     0354   ////      0355  LEA  C   RSP  025-180   III/2                 
+
+9840 +     0356   ////      0717  LEA  C   RSP  088-166   CTM/1                 
+
+9850 +     0514   0533      0544  G16  5   XRA  1-8A      C4.9    6.5E-03       
+9850       0516   ////      0748  SVI  C   RSP  025-180   VI/2                  
+
+9860 +     0652   0706      0716  G16  5   XRA  1-8A      C9.5    7.7E-03   3297
+9860       0657   ////      0746  LEA  C   RSP  025-180   VI/2                  
+9860 +     0706   ////      0719  LEA  C   RSP  030-122   II/2    708           
+
+9870 +     0730   0801      0833  G16  5   XRA  1-8A      M2.1    6.0E-02   3296
+9870 +     0734   0807      0920  SVI  G   RBR  1415      1100                  
+9870 +     0735   0754      0856  SVI  G   RBR  4995      690                   
+9870 +     0735   0755      0858  SVI  G   RBR  2695      550                   
+9870 +     0738   0832      0925  SVI  G   RBR  610       5600                  
+9870       0739   0811      1041  SVI  G   RBR  245       5300                  
+9870       0739   0811      1033  SVI  G   RBR  410       18000                 
+9870 +     0739   ////      1739  SVI  C   RSP  025-180   IV/2                  
+9870 +     0741   0754      0841  SVI  G   RBR  8800      330                   
+9870       0754   0754      0843  SVI  G   RBR  15400     100                   
+9870 +     0754   ////      0804  SVI  C   RSP  025-061   II/2    997           
+
+9940       1002   ////      1742  SAG  U   RSP  025-180   IV/1                  
+
+9910       1137   ////      1739  SVI  C   RSP  025-180   VII/3                 
+9910       1137   ////      2251  SAG  C   RSP  025-180   VI/3                  
+
+9880 +     1518   1531      1539  G16  5   XRA  1-8A      M1.2    6.3E-03   3296
+9880       1523   1529      1615  HOL  3   FLA  N14E27    1N      PRB       3296
+9880 +     1538   1539      1546  SVI  G   RBR  245       340               3296
+
+9890       1543   1545      1545  SVI  G   RBR  410       190                   
+
+9880       1543   ////      1547  SVI  C   RSP  025-180   III/2             3296
+
+9890       1543   1545      1545  SVI  G   RBR  610       140                   
+
+9900       1626   1626      1626  PAL  G   RBR  245       100                   
+
+9920       1658   1658      1659  PAL  G   RBR  245       110                   
+
+9930       1720   1720      1721  SVI  G   RBR  245       150                   
+
+9950       2002   2002      2002  PAL  G   RBR  245       170                   
+
+9960       2119   2119      2133  HOL  3   FLA  N10E40    SF                3297
+
+9970 +     2211   2227      2237  G16  5   XRA  1-8A      C9.7    8.8E-03   3288
+
+9980 +     2243   2245      2250  HOL  3   FLA  N10E40    SF                3297
+
+9990       2256   ////      2359  LEA  C   RSP  025-180   CTM/1                 
+9990       2346   ////      2347  LEA  C   RSP  025-180   III/1                 

@@ -1,0 +1,55 @@
+:Product: 20250418events.txt
+:Created: 2025 Apr 21 0357 UT
+:Date: 2025 04 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Apr 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7460       0038   0038      0038  PAL  G   RBR  245       190                   
+
+7470       0038   0038      0039  LEA  G   RBR  245       220                   
+
+7480 +     0137   ////      0138  LEA  C   RSP  025-124   III/1                 
+
+7490       0228   ////      0228  LEA  C   RSP  025-062   III/1                 
+
+7500       0328   ////      0339  LEA  C   RSP  025-097   VI/1                  
+7500       0329   ////      0329  PAL  C   RSP  025-075   III/1                 
+
+7510 +     0410   0422      0429  G19  5   XRA  1-8A      C2.2    2.7E-03   4060
+
+7520       0457   0457      0458  LEA  G   RBR  245       290                   
+
+7530 +     0551   0601      0614  G19  5   XRA  1-8A      C1.8    2.5E-03   4062
+7530       0554   0556      0608  SVI  3   FLA  N01E35    SF      ERU       4062
+7530 +     0559   ////      0559  SVI  C   RSP  025-082   III/1             4062
+
+7540 +     0721   ////      0744  SVI  C   RSP  025-083   VI/2                  
+
+7550 +     1135   ////      1136  SVI  C   RSP  025-180   III/2                 
+
+7560 +     1203   1212      1220  G19  5   XRA  1-8A      C1.6    1.7E-03   4066
+
+7570 +     1846   ////      1849  PAL  C   RSP  025-084   III/1                 
+
+7580       2008   ////      2020  SAG  C   RSP  025-074   VII/2                 
+
+7590       2111   2117      2124  G19  5   XRA  1-8A      C1.4    6.1E-04   4064
+
+7600 +     2148   2152      2156  G19  5   XRA  1-8A      C2.6    1.3E-03   4064
+
+7610       2239   ////      2240  SAG  C   RSP  025-088   III/2                 
+
+7630 +     2308   2350      0015  G19  5   XRA  1-8A      M4.4    8.8E-02       
+
+7620       2333   2333      2344  LEA  G   RBR  245       570                   
+7620       2333   2339      2342  LEA  G   RBR  410       400                   
+7620       2333   2337      2341  LEA  G   RBR  610       340                   
+
+7630       2345   ////      2352  LEA  C   RSP  096-180   II/1    349           

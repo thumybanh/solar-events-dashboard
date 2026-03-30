@@ -1,0 +1,36 @@
+:Product: 20230310events.txt
+:Created: 2023 Mar 13 0357 UT
+:Date: 2023 03 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Mar 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7720 +     0642   0708      0718  G16  5   XRA  1-8A      C7.1    8.3E-03   3245
+7720       0646   0712      0814  LEA  3   FLA  S24E00    1F      ERU       3245
+
+7750 +    B0937  U1028     A1214  SVI  3   FLA  S25W10    1F      ERU       3245
+7750 +     0956   1006      1016  G16  5   XRA  1-8A      C4.5    2.5E-03   3245
+
+7770       1016   1024      1028  G16  5   XRA  1-8A      C3.9    2.9E-03   3242
+
+7760 +     1128   1134      1149  SVI  3   FLA  N11W23    SF                3242
+
+7780      B1215  U1215     A1220  SVI  3   FLA  S23W07    SF                3245
+
+7790 +     1312   1333      1348  G16  5   XRA  1-8A      C2.5    4.4E-03   3240
+7790       1316  U1324     A1424  SVI  3   FLA  S13W65    SF      ERU       3240
+7790       1316   ////      1318  SAG  C   RSP  025-180   III/1             3240
+7790       1329   ////      1339  SVI  3   EPL  ////      0.17    B.9A      3240
+
+7800 +     1438   1455      1511  G16  5   XRA  1-8A      C3.2    3.4E-03   3245
+7800 +     1516   1526      1550  HOL  3   FLA  S20W09    SF      DSD       3245
+
+7810       1540   1542      1546  HOL  3   FLA  N09W35    SF      DSD       3242
+
+7820       2044   2048      2056  HOL  3   FLA  N24E49    SF                    

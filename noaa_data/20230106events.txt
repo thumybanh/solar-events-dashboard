@@ -1,0 +1,98 @@
+:Product: 20230106events.txt
+:Created: 2023 Jan 09 0357 UT
+:Date: 2023 01 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jan 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6720       0000   ////      0230  PAL  C   RSP  025-180   VI/1                  
+
+6690 +     0043   0057      0107  G16  5   XRA  1-8A      X1.2    6.2E-02   3182
+6690       0047   0056      0151  LEA  3   FLA  S18E68    2B      ERU       3182
+6690 +     0052   ////      0055  LEA  C   RSP  025-180   III/2             3182
+6690 +     0055   0056      0058  LEA  G   RBR  4995      740               3182
+6690 +     0055   0056      0057  LEA  G   RBR  15400     570               3182
+6690 +     0055   0056      0057  LEA  G   RBR  8800      360               3182
+6690 +     0055   0056      0058  LEA  G   RBR  2695      420               3182
+
+6700       0110   0117      0122  LEA  3   FLA  S18W07    SF                3183
+6700       0119   ////      0234  LEA  C   RSP  025-180   VI/2              3183
+
+6710       0123   0132      0152  LEA  3   FLA  S18W07    SF                3183
+
+6730       0306   ////      0353  PAL  C   RSP  025-036   VI/1              3183
+6730 +     0324   0334      0344  G16  5   XRA  1-8A      C3.5    3.0E-03   3183
+6730       0329   0333      0345  LEA  3   FLA  S18W07    SF                3183
+
+6740 +     0356   0402      0412  G16  5   XRA  1-8A      C1.8    1.7E-03   3183
+
+6750       0416   ////      0416  LEA  C   RSP  025-103   III/2                 
+
+6760       0545   ////      0546  LEA  C   RSP  025-180   III/1                 
+
+6770       0634   ////      0634  LEA  C   RSP  070-162   III/1                 
+
+6780       0724   ////      0738  LEA  C   RSP  025-082   VI/2                  
+
+6790 +     0755   ////      0756  SVI  C   RSP  025-180   III/2                 
+
+6800 +     0831   ////      0832  LEA  C   RSP  025-180   III/2                 
+
+6810       1111  U1112     A1116  SVI  3   FLA  S19W12    SF                3183
+
+6880       1112  U1115     A1118  SVI  3   FLA  S29W77    SF                3183
+
+6820 +     1158   1205      1220  G16  5   XRA  1-8A      C1.5    1.9E-03   3182
+
+6890       1202  U1204     A1206  SVI  3   FLA  S19E66    SF                3182
+
+6820      B1210  U1217     A1221  SVI  3   FLA  S30W79    SF                3182
+
+6830 +     1223   1226      1233  G16  5   XRA  1-8A      C1.8    1.0E-03   3183
+6830      B1224  U1226      1233  SVI  3   FLA  S18W13    SF                3183
+
+6840      B1237  U1237     A1244  SVI  3   FLA  S29W75    SF                    
+
+6900      B1307  U1348     A1415  SVI  3   FLA  S29W80    SF                3183
+
+6850      B1310  U1314     A1342  SVI  3   FLA  S18W15    SF      ERU       3183
+
+6860      B1408  U1414     A1425  SVI  3   FLA  S18W16    SF                3183
+
+6870 +     1450   1455      1501  G16  5   XRA  1-8A      C1.7    1.1E-03   3182
+6870       1451   1455      1459  HOL  3   FLA  S17E63    SF                3182
+
+6910 +     1551   1559      1612  G16  5   XRA  1-8A      C1.8    2.1E-03       
+6910       1607   ////      1608  SAG  C   RSP  112-154   III/1                 
+
+6920       1810   1811      1811  PAL  G   RBR  15400     100                   
+
+6930       1820   1821      1824  HOL  3   FLA  S22E13    SF                3181
+
+6940 +     1843   1853      1858  G16  5   XRA  1-8A      C6.2    3.7E-03   3183
+6940       1847   1849      1903  HOL  3   FLA  S16W16    SF      ERU       3183
+
+6950 +     2012   ////      2015  PAL  C   RSP  025-180   III/3                 
+
+6960 +     2021   2027      2031  G16  5   XRA  1-8A      C5.0    2.1E-03   3183
+6960       2023   2027      2034  HOL  3   FLA  S16W18    SF                3183
+
+6970       2157   ////      2200  PAL  C   RSP  025-180   III/2                 
+
+6980       2229   2230      2235  HOL  3   FLA  S17E65    SF      ERU       3182
+
+6990       2240   ////      2301  LEA  C   RSP  025-180   VI/2                  
+
+7000       2303   2303      2303  LEA  G   RBR  245       170                   
+
+7010       2314   2314      2321  HOL  3   FLA  S19E65    SF                3182
+7010 +     2317   2323      2329  G16  5   XRA  1-8A      C2.5    1.6E-03   3182
+
+7020 +     2344   ////      2345  PAL  C   RSP  025-180   III/1                 
+7020       2345   2345      2345  LEA  G   RBR  245       190                   

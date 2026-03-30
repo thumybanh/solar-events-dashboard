@@ -1,0 +1,33 @@
+:Product: 20230827events.txt
+:Created: 2023 Aug 30 0357 UT
+:Date: 2023 08 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Aug 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5150       0000   ////      0104  PAL  C   RSP  025-180   CTM/2                 
+5150 +     0000   ////      0320  PAL  C   RSP  025-180   VI/1                  
+5150       0012   ////      0016  LEA  C   RSP  066-180   III/1                 
+
+5160       0239   0239      0239  PAL  G   RBR  245       100                   
+
+5170       0242   0242      0242  PAL  G   RBR  245       140                   
+
+5180       0256   0256      0256  LEA  G   RBR  245       110                   
+
+5190       0256   0256      0310  PAL  G   RNS  245       110                   
+
+5200       0526   ////      1720  SVI  C   RSP  025-180   VI/2                  
+
+5210       1002   ////      1720  SVI  C   RSP  075-180   CTM/1                 
+5210       1055   ////      1725  SAG  C   RSP  025-075   VI/1                  
+
+5220       1103   ////      2223  SAG  C   RSP  025-180   CTM/1                 
+
+5230       2041   ////      2258  PAL  C   RSP  025-180   CTM/1                 

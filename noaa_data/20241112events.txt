@@ -1,0 +1,59 @@
+:Product: 20241112events.txt
+:Created: 2024 Nov 15 0357 UT
+:Date: 2024 11 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Nov 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8180 +     0117   0125      0138  G16  5   XRA  1-8A      C2.7    1.1E-03   3889
+8180       0123   0124      0133  LEA  3   FLA  S07E09    SF                3889
+
+8190 +     0213   0223      0241  G16  5   XRA  1-8A      C2.5    7.6E-04   3889
+
+8200 +     0430   0437      0453  G16  5   XRA  1-8A      C2.8    3.5E-03   3889
+8200       0433   0433      0445  LEA  3   FLA  S09E11    SF                3889
+
+8210 +     0629   ////      0636  LEA  C   RSP  131-180   III/2                 
+
+8220 +     0740   0758      0815  G16  5   XRA  1-8A      C4.2    7.0E-03   3884
+8220 +     0746   0756      0826  LEA  3   FLA  S04W45    SF                3884
+8220 +     0749   0749      0750  SVI  G   RBR  610       120               3884
+
+8240 +     0905   ////      0914  LEA  C   RSP  043-180   III/1                 
+
+8250 +     0952   ////      0958  LEA  C   RSP  036-180   III/2                 
+8250 +     0952   0952      0953  LEA  G   RBR  245       360                   
+
+8260       0958   0958      0958  LEA  G   RBR  245       270                   
+
+8270 +     1046   1050      1057  G16  5   XRA  1-8A      C2.1    1.3E-03   3889
+8270       1048   1049     A1100  SVI  3   FLA  S09E10    SF                3889
+
+8280 +     1109   1120      1130  G16  5   XRA  1-8A      C4.1    3.9E-03   3889
+8280      B1115  U1120     A1148  SVI  3   FLA  S09E10    SF      ERU       3889
+
+8350       1247   1401      1439  G16  5   XRA  1-8A      C8.2    3.8E-02       
+
+8290       1253   ////      1310  SVI  3   EPL  ////      0.38    B.9A          
+8290 +     1254   ////      1255  SAG  C   RSP  113-180   III/1                 
+8290 +     1301   ////      1356  SVI  C   RSP  056-180   CTM/1                 
+
+8300       1401   1401      1404  SVI  3   FLA  S08E01    SF                3889
+
+8310       1500   ////      1502  SAG  C   RSP  111-180   III/1                 
+
+8320       1633   ////      1633  SAG  C   RSP  111-156   III/1                 
+
+8330       1922   1923      1924  PAL  G   RBR  8800      140                   
+
+8340 +     2112   2119      2123  G16  5   XRA  1-8A      C1.7    1.1E-03   3890
+
+8360       2242   ////      2250  LEA  C   RSP  025-092   III/1                 
+
+8380 +     2355   ////      2357  LEA  C   RSP  068-180   III/2                 

@@ -15,9 +15,14 @@ def run_scraper():
     for a_tag in soup.find_all('a'):
         href = a_tag.get('href')
         if href and "last_events" in href:
-            full_url = BASE_URL + '/' + href
-            links.append(full_url)
-    links = links[:50] #limit to only 50 links to test
+    #         full_url = BASE_URL + '/' + href
+    #         links.append(full_url)
+    # links = links[:50] #limit to only 50 links to test
+
+            date = href.split('last_events_')[1][:8]
+            if date >= '20150701':
+                full_url = BASE_URL + '/' + href
+                links.append(full_url)
 
 
     # first_snapshot_url = links[0]
@@ -37,10 +42,17 @@ def run_scraper():
 
 
     # some older snapshot pages might be structure differently (like have fewer tables), therefore we skip those
-        if len(all_tables) < 5:
-            continue
+        # if len(all_tables) < 5:
+        #     continue
 
-        events_table = all_tables[4]
+        events_table = None
+        for table in all_tables:
+            if 'gev_' in table.get_text():
+                events_table = table
+                break
+        if events_table is None: 
+            continue 
+
         all_cells = events_table.find_all('td')
         all_texts = [cell.get_text(strip=True) for cell in all_cells]
 
@@ -75,6 +87,8 @@ def run_scraper():
     with open('events.json', 'w') as f:
         json.dump(list(all_events.values()), f, indent = 2)
 
-print("saved to events.json")
+    print("saved to events.json")
 
 
+if __name__ == '__main__':
+    run_scraper()

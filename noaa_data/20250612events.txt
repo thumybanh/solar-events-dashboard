@@ -1,0 +1,51 @@
+:Product: 20250612events.txt
+:Created: 2025 Jun 15 0357 UT
+:Date: 2025 06 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jun 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9930 +     0046   ////      0047  LEA  C   RSP  025-097   III/2                 
+
+9940 +     0141   0201      0218  G18  5   XRA  1-8A      C2.9    5.7E-03   4105
+
+9950      B0510   ////     B0559  SVI  3   EPL  ////      0.22    B.9A          
+9950 +     0512   ////      0513  LEA  C   RSP  025-134   III/2                 
+
+9960       0600   ////      0600  SVI  C   RSP  025-062   III/1                 
+
+9970       0737   ////      0738  SVI  C   RSP  025-082   III/1                 
+
+9980       0828   ////      0828  SVI  C   RSP  025-078   III/1                 
+
+9990       0934   ////      0934  SVI  C   RSP  025-153   III/1                 
+
+  10 +     1041   1058      1104  G18  5   XRA  1-8A      C2.8    3.9E-03   4105
+  10       1053   1059      1114  SVI  3   FLA  S18W36    SF      ERU       4105
+
+  20 +     1104   1113      1117  G18  5   XRA  1-8A      C2.8    2.5E-03   4115
+
+  30 +     1244   1247      1250  G18  5   XRA  1-8A      C1.6    6.8E-04   4115
+
+  40 +     1303   ////      1310  SVI  C   RSP  025-151   III/2             4108
+  40       1310   ////      1348  SVI  3   SPY  ////      42      B.9A      4108
+
+  50       1321   ////      1347  HOL  3   SPY  ////      21      B.9A      4108
+
+  60 +     1739   1748      1751  G18  5   XRA  1-8A      C5.8    2.1E-03   4115
+  60       1745   1746      1752  HOL  3   FLA  N21E74    1F                4115
+
+  70       1806   ////      1813  SAG  C   RSP  025-073   III/1                 
+
+  90 +     1910   ////      2203  SAG  C   RSP  025-180   VI/2                  
+
+  80       1953   1953      1953  SAG  U   RBR  245       110                   
+
+ 100 +     2325   2346      0047  G18  5   XRA  1-8A      C3.9    1.6E-02   4105
+ 100       2333   2338      2358  HOL  3   FLA  S14W48    SF                4105

@@ -1,0 +1,51 @@
+:Product: 20221229events.txt
+:Created: 2023 Jan 01 0357 UT
+:Date: 2022 12 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Dec 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4870       0005   0006      0006  LEA  G   RBR  245       130                   
+4870       0005   ////      0006  LEA  C   RSP  025-180   III/2                 
+
+4880 +     0632   0727      0808  G16  5   XRA  1-8A      M1.2    4.4E-02       
+
+4890 +     1027   1037      1048  G16  5   XRA  1-8A      C2.6    2.9E-03       
+
+4900 +     1103   1114      1131  G16  5   XRA  1-8A      C3.9    5.5E-03       
+
+4910       1103   1103      1103  SVI  G   RBR  245       150                   
+
+4900       1123   ////      1520  SVI  C   RSP  115-180   CTM/1                 
+
+4930       1309   ////      2002  SAG  C   RSP  113-180   CTM/1                 
+
+4920 +     1403   1411      1421  G16  5   XRA  1-8A      C2.8    2.9E-03   3172
+
+4940      B1435   1442      1516  HOL  3   FLA  S35W29    SF                3172
+
+4950       1541   1541      1541  SAG  U   RBR  245       110                   
+
+4960       1730   ////      2359  PAL  C   RSP  109-180   CTM/1                 
+
+5090 +     1811   1820      1826  G16  5   XRA  1-8A      M2.1    8.4E-03       
+
+4960 +     1826   1833      1843  G16  5   XRA  1-8A      M2.4    2.3E-02       
+
+4970       2041   ////      2120  PAL  C   RSP  025-180   VI/1              3172
+4970 +     2107   2121      2131  G16  5   XRA  1-8A      C2.8    3.2E-03   3172
+4970       2114   2117      2210  HOL  3   FLA  S35W31    SF                3172
+
+4980       2238   2257      2342  LEA  3   FLA  S35W34    SF                3172
+
+5100       2310   2311      2316  LEA  3   FLA  N18E63    SF                3176
+
+4980       2310   ////      2310  PAL  C   RSP  114-180   III/2             3172
+4980       2310   2310      2310  LEA  G   RBR  410       110               3172
+4980 +     2310   2310      2310  PAL  G   RBR  245       240               3172

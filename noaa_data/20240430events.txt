@@ -1,0 +1,69 @@
+:Product: 20240430events.txt
+:Created: 2024 May 03 0357 UT
+:Date: 2024 04 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Apr 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6890 +     0000   ////      0302  LEA  C   RSP  069-180   CTM/1                 
+
+6870       0015   0015      0018  HOL  3   FLA  S06W49    SF                3654
+
+6880       0042   ////      0142  PAL  C   RSP  025-075   VI/1              3654
+6880 +     0046   0114      0131  G16  5   XRA  1-8A      M1.6    2.6E-02   3654
+6880 +     0054   0055      0106  HOL  3   FLA  S06W50    SF                3654
+
+6900       0412   ////      0625  SVI  C   RSP  109-180   CTM/1                 
+
+6930 +     0545   0545      0613  LEA  G   RNS  245       130                   
+
+6910       0559   ////      0629  LEA  C   RSP  103-180   CTM/1                 
+
+6920       0705   0713      0720  G16  5   XRA  1-8A      C1.4    1.2E-03       
+
+6950       0937   0937      0941  SVI  3   FLA  N23E63    SF                3661
+
+6960 +     0950   1004      1017  G16  5   XRA  1-8A      C2.0    2.9E-03   3654
+6960       1003   1007      1007  SVI  3   FLA  S06W52    SF      ERU       3654
+
+6970       1031   1031      1031  SVI  G   RBR  245       110                   
+
+6990 +     1236   1255      1321  G16  5   XRA  1-8A      C1.8    4.3E-03   3654
+
+6980       1240   1241      1241  SVI  G   RBR  245       210                   
+
+7000       1430   ////      1431  SVI  C   RSP  025-079   III/1                 
+
+7010 +     1450   1511      1526  G16  5   XRA  1-8A      M1.2    1.5E-02   3654
+7010       1500  U1509     A1528  SVI  3   FLA  S07W60    SF      ERU       3654
+7010       1500   1508      1537  HOL  3   FLA  S05W60    SF      ERU       3654
+
+7020 +     1543   ////      1545  SAG  C   RSP  025-085   III/1                 
+
+7030 +     1611   1633      1647  G16  5   XRA  1-8A      M1.3    1.8E-02   3654
+7030       1619   1637      1655  HOL  3   FLA  S05W60    SF      ERU       3654
+7030 +     1626   ////      1629  SVI  C   RSP  025-180   III/1             3654
+7030 +     1630   1630      1630  SVI  G   RBR  245       100               3654
+
+7040       2003   2007      2009  HOL  3   FLA  S05W62    SF                3654
+
+7050       2010   2015      2017  HOL  3   FLA  S06W63    SF                3654
+
+7060       2127   2127      2132  HOL  3   FLA  N27E39    SF                3663
+
+7070 +     2323   2346      2358  G16  5   XRA  1-8A      M9.5    6.9E-02   3654
+7070 +     2327   ////      2329  PAL  C   RSP  025-057   III/2             3654
+
+7090 +     2328   2332      2347  HOL  3   FLA  N23E55    SF                3661
+
+7070 +     2333   2344     A2359  HOL  3   FLA  S05W63    2B      ERU       3654
+7070 +     2342   2343      2346  PAL  G   RBR  4995      330               3654
+7070 +     2342   2343      2345  PAL  G   RBR  2695      270               3654
+7070 +     2342   2343      2346  PAL  G   RBR  8800      370               3654
+7070       2342   2344      2345  LEA  G   RBR  15400     340               3654

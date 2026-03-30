@@ -1,0 +1,84 @@
+:Product: 20230626events.txt
+:Created: 2023 Jun 29 0357 UT
+:Date: 2023 06 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jun 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5190 +     0047   0056      0105  G16  5   XRA  1-8A      C2.1    5.7E-04   3339
+5190 +     0053   0056      0105  HOL  3   FLA  S20W33    SF      BPT       3339
+5190 +     0054   ////      0059  LEA  C   RSP  025-180   III/2             3339
+
+5200 +     0131   0136      0142  G16  5   XRA  1-8A      C2.2    1.2E-03   3340
+5200       0135   0135      0140  LEA  3   FLA  N25W30    SF                3340
+5200       0137   ////      0138  PAL  C   RSP  025-074   III/1             3340
+
+5210 +     0219   0230      0247  G16  5   XRA  1-8A      C2.1    2.9E-03   3340
+5210       0226   0228      0249  LEA  3   FLA  N23W30    SF      ERU       3340
+5210 +     0233   ////      0234  LEA  C   RSP  025-180   III/1             3340
+
+5220 +     0313   ////      0315  LEA  C   RSP  025-180   III/3                 
+
+5230 +     0346   ////      0346  LEA  C   RSP  025-180   III/2                 
+
+5240 +     0349   0402      0426  G16  5   XRA  1-8A      C7.0    1.1E-02   3340
+5240 +     0416   0416     A0419  LEA  3   FLA  N23W31    1F                3340
+
+5250       0437   0438      0442  LEA  3   FLA  S20W37    SF      DSD       3339
+
+5260 +     0458   ////      0459  SVI  C   RSP  025-180   III/2                 
+
+5270 +     0509   0513      0518  G16  5   XRA  1-8A      C1.7    8.5E-04   3341
+5270       0511   0511      0520  LEA  3   FLA  S12W11    SF                3341
+5270 +     0513   ////      0514  LEA  C   RSP  025-114   III/1             3341
+
+5280 +     0535   0630      1317  SVI  3   FLA  N22W34    1F                3340
+5280 +     0622   0632      0640  G16  5   XRA  1-8A      C3.0    5.3E-04   3340
+
+5290 +     0657   ////      0657  LEA  C   RSP  025-114   III/1                 
+
+5300 +     0746   ////      0746  LEA  C   RSP  025-168   III/1                 
+
+5310 +     0823   0830      0837  G16  5   XRA  1-8A      C1.2    9.1E-04       
+
+5360       1011   ////      1256  SVI  C   RSP  025-180   VI/2                  
+
+5320 +     1143   1152      1211  G16  5   XRA  1-8A      C2.9    3.5E-03   3351
+
+5330       1143   ////      1200  SAG  C   RSP  025-180   VI/2                  
+
+5320       1149   1150      1210  SVI  3   FLA  N23E27    SF                3351
+
+5350       1157   1204      1214  SVI  3   FLA  N21W69    SF                3337
+
+5340 +     1213   1225      1231  G16  5   XRA  1-8A      C7.4    5.0E-03   3340
+
+5370       1430   1430      1442  SVI  3   FLA  N23W38    SF                3340
+
+5380 +     1608   1622      1634  G16  5   XRA  1-8A      M1.6    1.2E-02   3340
+5380       1612  U1622     A1641  SVI  3   FLA  N23W38    1N                3340
+
+5390       1721   1726      1736  HOL  3   FLA  N23W39    SF      DSD       3340
+
+5400       1749   1750      1759  HOL  3   FLA  N23W39    SF                3340
+
+5410 +     1946   1956      2000  G16  5   XRA  1-8A      C3.4    2.0E-03   3340
+5410       1947   1956      2012  HOL  3   FLA  N25W40    SF      PRB       3340
+
+5420       2029   2031      2037  HOL  3   FLA  N25W40    SF      DSD       3340
+
+5430 +     2216   2221      2226  G16  5   XRA  1-8A      C2.3    1.2E-03   3340
+5430       2218   2219      2239  HOL  3   FLA  N25W40    SF                3340
+
+5440 +     2312   2320      2325  G16  5   XRA  1-8A      C3.6    9.1E-04       
+
+5450       2335   ////      2336  PAL  C   RSP  025-060   III/1                 
+
+5460       2340   2350     A2359  LEA  3   FLA  N24W43    SF                3340
+5460 +     2340   2346      2350  G16  5   XRA  1-8A      C2.2    1.2E-03   3340

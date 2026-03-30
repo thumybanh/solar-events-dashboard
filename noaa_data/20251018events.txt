@@ -1,0 +1,56 @@
+:Product: 20251018events.txt
+:Created: 2025 Oct 21 0357 UT
+:Date: 2025 10 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Oct 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 120       0011   ////      0214  LEA  C   RSP  025-180   VI/3                  
+
+ 100 +     0023   0040      0049  G18  5   XRA  1-8A      M1.0    1.3E-02   4246
+
+ 110       0105   0105      0105  PAL  G   RBR  245       810                   
+ 110       0105   ////      0106  PAL  C   RSP  025-180   III/2                 
+
+ 130 +     0205   0209      0214  G18  5   XRA  1-8A      C2.9    1.7E-03   4246
+
+ 140       0218   0224      0226  G18  5   XRA  1-8A      C9.5    6.2E-03   4246
+ 140       0223   0223      0223  PAL  G   RBR  245       430                   
+
+ 150 +     0226   0239      0247  G18  5   XRA  1-8A      M1.1    1.4E-02   4246
+
+ 160       0323   ////      0332  LEA  C   RSP  025-180   III/2                 
+
+ 170       0408   ////      0409  LEA  C   RSP  088-137   III/1                 
+
+ 180       0513   ////      0513  LEA  C   RSP  089-145   III/1                 
+
+ 190 +     0543   0605      0619  G18  5   XRA  1-8A      C9.9    1.9E-02   4246
+
+ 200 +     0632   0639      0644  G18  5   XRA  1-8A      M1.2    7.7E-03   4246
+
+ 210 +     0649   0658      0704  G18  5   XRA  1-8A      M1.3    1.1E-02   4246
+
+ 230       0711   ////      0716  LEA  C   RSP  025-180   III/3                 
+
+ 220       0711   ////      0716  SVI  C   RSP  025-180   III/2             4248
+ 220       0712   0714      0717  SVI  3   FLA  N09W62    1F      DSD       4248
+
+ 240 +     0735   0748      0755  G18  5   XRA  1-8A      C6.0    5.8E-03   4246
+ 240       0739   ////      0740  LEA  C   RSP  025-066   III/2                 
+
+ 250 +     0832   ////      0834  LEA  C   RSP  025-131   III/2                 
+
+ 260 +     1037   1051      1059  G18  5   XRA  1-8A      M1.5    1.4E-02   4246
+
+ 270 +     1732   1737      1751  G18  5   XRA  1-8A      C3.0    3.4E-03   4246
+
+ 280 +     2118   2126      2133  G18  5   XRA  1-8A      C3.1    2.7E-03   4246
+
+ 290 +     2140   2154      2201  G18  5   XRA  1-8A      C8.0    6.7E-03   4246

@@ -1,0 +1,111 @@
+:Product: 20230707events.txt
+:Created: 2023 Jul 10 0357 UT
+:Date: 2023 07 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jul 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8120 +     0028   ////      0413  LEA  C   RSP  075-180   CTM/1                 
+
+8380      A0045   ////     A1335  HOL  2   DSF  S23W52    7                     
+
+8110 +     0053   ////      0054  LEA  C   RSP  025-145   III/1                 
+
+8130 +     0133   ////      0136  LEA  C   RSP  025-102   III/2                 
+
+8140 +     0444   ////      0445  LEA  C   RSP  025-180   III/2                 
+
+8150 +     0509   0509      0509  LEA  G   RBR  410       170                   
+8150 +     0509   0509      0509  LEA  G   RBR  245       550                   
+
+8160       0523   0523      0523  LEA  G   RBR  245       180                   
+
+8170       0528   0528      0528  LEA  G   RBR  245       130                   
+
+8180 +     0529   ////      0529  LEA  C   RSP  025-180   III/1                 
+
+8190 +     0541   0557      0614  G16  5   XRA  1-8A      C1.7    1.0E-03   3359
+8190       0601   ////      0602  SVI  C   RSP  025-066   III/1             3359
+
+8200      B0610  U0627     A0801  SVI  3   FLA  S22W15    2B      ERU       3359
+
+8220       0614   ////      0628  LEA  C   RSP  102-180   VI/1                  
+
+8200 +     0617   0629      0638  G16  5   XRA  1-8A      M4.0    2.3E-02   3359
+8200       0626   0627      0628  SVI  G   RBR  4995      250               3359
+8200 +     0627   0627      0627  LEA  G   RBR  245       830               3359
+8200       0627   0627      0628  SVI  G   RBR  2695      190               3359
+8200 +     0627   0627      0627  LEA  G   RBR  410       150               3359
+8200       0627   ////      0628  SVI  C   RSP  135-180   III/1             3359
+
+8230       0701  U0708      0721  SVI  3   FLA  N23E13    SF      DSD       3361
+8230 +     0705   ////      0706  SVI  C   RSP  037-180   III/2             3361
+
+8240 +     0725   0732      0739  G16  5   XRA  1-8A      C4.2    3.3E-03   3359
+
+8250      B0911  U0918     A0931  SVI  3   FLA  N25E14    SF                3361
+
+8260 +     0956   ////      0958  SVI  C   RSP  025-180   III/1                 
+
+8270 +     1001   ////      1024  SVI  C   RSP  025-180   II/1    601           
+
+8320 +     1035   ////      1152  SVI  C   RSP  025-180   VI/2                  
+
+8280      B1048  U1053     A1121  SVI  3   FLA  N25E13    SF                3361
+
+8290       1122   1123      1138  SVI  3   FLA  S11W03    SF                3358
+
+8300       1132   1132      1137  SVI  3   FLA  S15W17    SF                3358
+
+8310       1135   1136      1142  SVI  3   FLA  N25E13    SF                3361
+
+8330       1306   1308      1315  SVI  3   FLA  N25E14    SF      DSD       3361
+
+8410      B1335   1339      1423  HOL  3   FLA  S11W05    SF                3366
+
+8420      B1335   1358      1423  HOL  3   FLA  N23E11    SF      ERU       3361
+
+8340      B1335   1346      1437  HOL  3   FLA  S18E66    SF      ERU       3363
+8340 +     1351   1358      1402  G16  5   XRA  1-8A      C2.3    1.3E-03   3361
+8340       1355   ////      1355  SVI  C   RSP  025-050   III/1             3361
+
+8350 +     1431   ////      1439  SVI  C   RSP  025-083   III/1                 
+
+8390 +     1522   ////      1543  SVI  C   RSP  025-078   VI/1                  
+
+8430       1544   1600      1612  SVI  3   FLA  N24E09    SF                3361
+
+8440       1555   1556      1559  SVI  3   FLA  S21W16    SF                3359
+
+8450       1558   1558      1617  HOL  3   FLA  S10W05    SF      ERU       3366
+
+8460       1600   1602      1611  SVI  3   FLA  S10W05    SF                3366
+
+8470 +     1603   1606      1619  HOL  3   FLA  S21W15    SF                3359
+
+8400 +     1633   1635      1658  HOL  3   FLA  N24W13    SF                3360
+
+8480 +     1732   1736      1742  HOL  3   FLA  S10W06    SF                3366
+
+8490       1736   1736      1742  HOL  3   FLA  N25E11    SF      ERU       3361
+
+8500 +     1816   1819      1823  G16  5   XRA  1-8A      C2.7    1.0E-03   3361
+8500       1818   1821      1826  HOL  3   FLA  N24E06    SF                3361
+
+8510       1840   1844      1846  HOL  3   FLA  S07W60    SF      ERU       3355
+
+8520       1900   1900      1900  HOL  3   FLA  N24E06    SF      ERU       3361
+
+8530       1904   1912      1926  HOL  3   FLA  N24E07    SF      PRB       3361
+
+8540       2118   2123      2130  HOL  3   FLA  S14W23    SF                3358
+
+8560       2151   2209      2256  HOL  3   FLA  N23E05    SF                3361
+
+8550 +     2226   ////      2235  PAL  C   RSP  060-165   II/1    416           

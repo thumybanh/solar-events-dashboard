@@ -5,6 +5,14 @@
 import json
 import os 
 
+def to_minutes(time_str): 
+    try: 
+        hours = int(time_str[:2])
+        minutes = int(time_str[2:])
+        return hours * 60 + minutes
+    except: 
+         return None
+
 noaa_list = [] 
 def parse_noaa_file(fileName):
         noaa_events = [] 
@@ -43,7 +51,7 @@ for fileName in os.listdir('noaa_data'):
 
 # Optimal window analysis #
 
-windows = [0, 5, 10, 15, 20, 25, 30] 
+windows = [0, 5, 10, 15, 20, 25, 30, 35, 40,45,50,55,60] 
 prev_matches = 0
 optimal_window = 0
 
@@ -59,32 +67,38 @@ for window in windows:
         LMSALend = event['event_stop'].replace(':','')[:4]
         LMSALGOES = event['event_GOES'] 
 
+       
+
         for NOAA_event in noaa_list:
+            begin_minutes = to_minutes(NOAA_event['begin'])
+            lmsal_minutes = to_minutes(LMSALstart)
+
             if NOAA_event['date'] is not None:
                     same_date = NOAA_event['date'] == LMSALdate 
             else: continue
 
-            if NOAA_event['begin'] is not None and NOAA_event['end'] is not None: 
-                time_start_diff = abs(int(NOAA_event['begin']) - int(LMSALstart))
-                time_end_diff = abs(int(NOAA_event['end']) - int(LMSALend))
-            else: continue
+            if begin_minutes is None or lmsal_minutes is None: 
+                 continue 
+            time_start_diff = abs(begin_minutes - lmsal_minutes)
 
             if NOAA_event['goes_class'] is not None: 
                 same_class = NOAA_event['goes_class'] == LMSALGOES
             else : continue
 
-            if same_date and time_start_diff <= window and time_end_diff <=window  and same_class : 
+            if same_date and time_start_diff <= window  and same_class : 
                 matches += 1 
                 break
+            
+
     new_matches = matches - prev_matches
-    print(new_matches)                                             
-    
-                 
-             
-             
+    print(f"Window {window} min -> {matches} matches (+{new_matches} new)")
 
-
-
+    if new_matches == 0  and window > 0: 
+        optimal_window = windows[windows.index(window) -1]
+        print(f"Optimal window: {optimal_window} min")                                            
+        break
+    prev_matches = matches
+ 
 
 LMSAL_list = []
 def match_events() : 

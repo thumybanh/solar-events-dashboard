@@ -1,0 +1,72 @@
+:Product: 20230704events.txt
+:Created: 2023 Jul 07 0357 UT
+:Date: 2023 07 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jul 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7390 +     0023   0028      0032  G16  5   XRA  1-8A      C4.2    1.7E-03   3360
+7390 +     0025   ////      0030  LEA  C   RSP  025-180   III/2                 
+7390 +     0028   0029      0029  LEA  G   RBR  245       400                   
+
+7400       0032   ////      0036  PAL  C   RSP  025-180   III/2                 
+
+7410 +     0156   0201      0208  G16  5   XRA  1-8A      C2.7    1.9E-03   3354
+
+7420 +     0222   0227      0231  G16  5   XRA  1-8A      C2.9    1.4E-03   3360
+7420 +     0223   ////      0231  LEA  C   RSP  025-180   III/2                 
+7420 +     0224   0224      0224  LEA  G   RBR  410       200                   
+
+7430 +     0242   ////      0243  LEA  C   RSP  025-180   III/2                 
+7430 +     0243   0243      0243  LEA  G   RBR  245       960                   
+7430 +     0243   0243      0243  LEA  G   RBR  410       180                   
+
+7440       0314   0314      0314  PAL  G   RBR  610       27                    
+7440 +     0314   ////      0316  PAL  C   RSP  025-180   III/2                 
+7440 +     0314   0314      0316  LEA  G   RBR  245       360                   
+7440       0314   0316      0316  PAL  G   RBR  410       78                    
+
+7450 +     0356   ////      0403  LEA  C   RSP  025-180   III/2                 
+7450 +     0400   0400      0400  LEA  G   RBR  245       570                   
+
+7460       0455   0456      0517  SVI  3   FLA  N17W79    SF                3354
+
+7470 +     0636   0641      0645  G16  5   XRA  1-8A      C7.2    1.0E-03   3360
+7470 +     0637   0637      0638  LEA  G   RBR  245       800               3360
+7470 +     0637   ////      0641  LEA  C   RSP  025-180   III/3             3360
+7470       0638   0640      0646  SVI  3   FLA  N24E28    SN      BPT       3360
+7470 +     0640   0640      0640  LEA  G   RBR  410       510               3360
+
+7480 +     0732   ////      0732  LEA  C   RSP  068-141   III/1                 
+
+7490 +     0808   0815      0823  G16  5   XRA  1-8A      C3.0    2.5E-03   3358
+7490       0810   0815      0844  SVI  3   FLA  S13E24    SF      PRB       3358
+
+7500       0947   0948      0949  SVI  3   FLA  S14E29    SF                3358
+
+7510 +     1132   ////      1230  SVI  C   RSP  075-170   CTM/1             3354
+7510 +     1220   1235      1255  G16  5   XRA  1-8A      M1.4    2.1E-02   3354
+7510       1225   1227      1316  SVI  3   FLA  N16W82    SF      ERU       3354
+7510       1225   1225      1225  SVI  G   RBR  8800      120               3354
+
+7520 +     1357   ////      1358  SVI  C   RSP  025-083   III/1                 
+
+7530       1418   1430      1446  HOL  3   FLA  N25E49    SF                3361
+7530 +     1426   ////      1426  SVI  C   RSP  025-080   III/1             3361
+
+7540       1516   1517      1520  SVI  3   FLA  S14E27    SF                3358
+
+7550 +     1908   1928      1945  G16  5   XRA  1-8A      C8.0    1.3E-02   3354
+
+7560 +     2121   2133      2152  G16  5   XRA  1-8A      C5.2    6.5E-03   3359
+
+7570 +     2204   2212      2219  G16  5   XRA  1-8A      C4.8    3.9E-03   3354
+
+7580 +     2327   2339      2354  G16  5   XRA  1-8A      C6.0    7.7E-03   3361
+7580       2344   2345      2347  LEA  2   FLA  N23E47    SF                3361

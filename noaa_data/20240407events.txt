@@ -1,0 +1,24 @@
+:Product: 20240407events.txt
+:Created: 2024 Apr 10 0357 UT
+:Date: 2024 04 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Apr 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 510       1018   ////      1019  SVI  C   RSP  025-180   III/2                 
+
+ 520       1835   ////      1837  SAG  C   RSP  025-054   III/1                 
+ 520       1836   ////      1930  PAL  C   RSP  025-074   VI/1                  
+
+ 530       1911   1926      1941  G16  5   XRA  1-8A      C1.1    1.5E-03   3632
+ 530       1920   1924      1939  HOL  3   FLA  N27E19    SF                3632
+
+ 540       2133   2143      2150  G16  5   XRA  1-8A      B8.9    1.0E-03       
+
+ 550       2150   2200      2212  G16  5   XRA  1-8A      C1.0    1.3E-03       

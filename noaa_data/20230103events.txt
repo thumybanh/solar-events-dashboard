@@ -1,0 +1,53 @@
+:Product: 20230103events.txt
+:Created: 2023 Jan 06 0357 UT
+:Date: 2023 01 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jan 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6160 +     0103   0110      0118  G16  5   XRA  1-8A      C1.1    9.3E-04   3176
+
+6170       0324   0324      0324  LEA  G   RBR  245       140                   
+
+6180 +     0451   0458      0502  G16  5   XRA  1-8A      C2.7    1.0E-03   3177
+6180       0456   0456      0459  LEA  G   RBR  245       910                   
+
+6190       0532   ////      0532  LEA  C   RSP  025-180   III/2                 
+
+6210 +     0620   0646      0705  G16  5   XRA  1-8A      C3.2    6.7E-03       
+
+6200       0626   0627      0630  LEA  G   RBR  2695      230                   
+6200       0626   0626      0627  LEA  G   RBR  4995      210                   
+6200       0626   0626      0626  LEA  G   RBR  410       110                   
+6200       0626   0626      0626  LEA  G   RBR  8800      100                   
+6200       0627   ////      0633  SVI  U   RSP  075-180   III/1                 
+6200       0627   0627      0628  LEA  G   RBR  245       150                   
+
+6230       0742   1036      1233  G16  5   XRA  1-8A      C4.0    5.7E-02       
+
+6220       1157   1157      1157  SVI  G   RBR  410       180                   
+
+6240 +     1340   ////      1340  SVI  C   RSP  030-054   III/1                 
+
+6250 +     1412   ////      1413  SAG  C   RSP  025-180   III/2                 
+6250 +     1412   1412      1412  SVI  G   RBR  245       340                   
+
+6260       1548   ////      1626  SAG  C   RSP  025-180   VI/1                  
+
+6270 +     1922   ////      1928  SAG  C   RSP  025-134   III/2                 
+
+6280       1955   ////      1955  SAG  C   RSP  025-180   III/2                 
+
+6290 +     2242   ////      2242  LEA  C   RSP  025-159   III/2                 
+
+6300       2302   2303      2315  HOL  3   FLA  N20E21    SF                3180
+
+6320 +     2343   ////      0056  G16  5   XRA  1-8A      C2.3    9.0E-03       
+
+6310       2347   ////      2354  LEA  C   RSP  025-135   III/1                 

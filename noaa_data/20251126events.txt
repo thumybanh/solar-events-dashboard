@@ -1,0 +1,55 @@
+:Product: 20251126events.txt
+:Created: 2025 Nov 29 0357 UT
+:Date: 2025 11 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Nov 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8480       0031   ////      0032  LEA  C   RSP  025-066   III/1                 
+
+8490 +     0041   0047      0100  G18  5   XRA  1-8A      B8.7    8.7E-04       
+
+8500 +     0248   0300      0307  G18  5   XRA  1-8A      C2.2    1.6E-03   4290
+8500       0256   0301      0307  LEA  3   FLA  S13E17    SF      DSD       4290
+8500       0259   ////      0300  LEA  C   RSP  025-059   III/2             4290
+
+8510       0419   ////      0419  LEA  C   RSP  043-075   III/2                 
+
+8520 +     0514   0522      0529  G18  5   XRA  1-8A      C1.0    8.4E-04   4291
+8520       0525   0528      0532  LEA  3   FLA  S14E29    SF                4291
+
+8530 +     0547   0556      0605  G18  5   XRA  1-8A      C1.1    1.3E-03   4292
+8530       0553   0553      0605  LEA  3   FLA  S16W33    SF                4292
+
+8580 +     0605   0612      0617  G18  5   XRA  1-8A      C1.2    9.4E-04   4292
+8580       0606   0606      0622  LEA  3   FLA  S16W33    SF                4292
+
+8540       0737   ////      0742  LEA  C   RSP  034-059   III/2                 
+
+8550       0748   0751      0754  G19  5   XRA  1-8A      B7.5    3.1E-04       
+
+8560       0833   0833      0833  LEA  G   RBR  245       110                   
+
+8570 +     1001   ////      1021  SVI  C   RSP  025-180   VI/2                  
+8570 +     1014   1024      1031  G18  5   XRA  1-8A      C1.9    1.4E-03   4291
+
+8590       1329   1334      1351  G18  5   XRA  1-8A      C1.1    1.5E-03   4291
+
+8600       1552   1558      1602  G19  5   XRA  1-8A      B7.1    4.4E-04   4291
+
+8610       2014   2015      2016  HOL  3   FLA  S16W43    SF                4292
+
+8620 +     2038   2042      2046  G18  5   XRA  1-8A      B9.9    5.3E-04       
+
+8630       2123   2124      2129  HOL  3   FLA  S16W43    SF                4292
+8630 +     2129   2135      2142  G18  5   XRA  1-8A      C1.3    1.0E-03   4292
+
+8640 +     2209   ////      2230  LEA  C   RSP  025-091   VI/2                  
+
+8650 +     2326   ////      2359  LEA  C   RSP  025-126   III/2                 

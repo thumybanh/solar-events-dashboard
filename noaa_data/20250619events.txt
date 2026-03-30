@@ -1,0 +1,80 @@
+:Product: 20250619events.txt
+:Created: 2025 Jun 22 0357 UT
+:Date: 2025 06 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jun 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2290       0009   0009      0010  PAL  G   RBR  245       160                   
+
+2300 +     0123   0130      0136  G18  5   XRA  1-8A      C1.7    1.4E-03       
+
+2310 +     0405   0412      0415  G18  5   XRA  1-8A      C4.4    2.0E-03   4117
+2310       0410   0411      0413  LEA  3   FLA  S17E65    SF                4117
+
+2320 +     0639   0651      0654  G18  5   XRA  1-8A      C5.9    3.3E-03   4117
+2320       0643   0648      0656  SVI  3   FLA  S13E63    SF      ERU       4117
+
+2330 +     0713   0727      0751  G18  5   XRA  1-8A      C6.0    1.1E-02   4114
+2330 +     0715   0721      0820  SVI  3   FLA  N17W30    SF      ERU       4114
+
+2340 +     0823   0827      0829  G18  5   XRA  1-8A      C2.3    8.7E-04   4117
+2340       0826   0827      0829  SVI  3   FLA  S15E64    SF                4117
+
+2350 +     0906   0917      0953  G18  5   XRA  1-8A      C7.9    1.6E-02   4114
+2350       0914   0915      1027  SVI  3   FLA  N17W32    1N      ERU       4114
+
+2360       1002   1002      1007  SVI  3   FLA  N13W58    SF                4111
+
+2370 +     1031   1037      1039  G18  5   XRA  1-8A      C1.9    1.0E-03   4117
+2370       1032   1036      1040  SVI  3   FLA  S15E62    SF                4117
+
+2380       1041   1043      1050  SVI  3   FLA  N14W57    SF                4111
+
+2390       1055   1058      1101  SVI  3   FLA  N14W57    SF                4111
+
+2400       1108   1108      1112  SVI  3   FLA  S15E62    SF                4117
+
+2410       1135   1136      1141  SVI  3   FLA  N23W23    SF      ERU       4115
+
+2430 +     1141   ////      1142  SVI  C   RSP  025-081   III/1                 
+
+2420       1150   1151      1153  SVI  3   FLA  S15E61    SF                4117
+
+2440 +     1223   ////      1237  SAG  C   RSP  025-085   VI/1                  
+
+2450 +     1310   ////      1311  SVI  C   RSP  025-147   III/2                 
+2450 +     1310   1310      1310  SVI  G   RBR  245       110                   
+
+2460       1329   1342      1358  SVI  3   FLA  N18W32    SF      ERU       4114
+2460       1355   ////      1539  SAG  C   RSP  025-125   VI/3              4114
+
+2470       1400   ////      1401  SVI  C   RSP  025-082   III/1                 
+
+2480       1430   ////      1531  SVI  C   RSP  025-148   VI/2                  
+
+2490       1621   1640     A1701  SVI  3   FLA  N18W33    SF                4114
+
+2640      A1701   ////     A0450  SVI  3   DSF  S05W69    21                    
+
+2500 +     1915   1929      1935  G18  5   XRA  1-8A      C5.9    4.7E-03   4114
+2500       1922   1930      1939  HOL  3   FLA  N19W35    SF                4114
+
+2510 +     2034   ////      2050  PAL  C   RSP  025-180   VI/2                  
+
+2520 +     2116   2134      2143  G18  5   XRA  1-8A      C4.4    6.3E-03   4116
+
+2530 +     2200   ////      2201  SAG  C   RSP  025-180   III/2                 
+
+2550 +     2337   2350      2354  G18  5   XRA  1-8A      X1.9    6.7E-02   4114
+
+2540 +     2346   2347      2347  PAL  G   RBR  2695      250                   
+2540 +     2346   2346      2347  LEA  G   RBR  4995      240                   
+2540 +     2346   2346      2347  PAL  G   RBR  8800      410                   
+2540 +     2346   2346      2347  PAL  G   RBR  15400     380                   

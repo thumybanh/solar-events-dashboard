@@ -1,0 +1,46 @@
+:Product: 20220729events.txt
+:Created: 2022 Aug 01 0357 UT
+:Date: 2022 07 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jul 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1010      B0259   0305      0320  LEA  2   FLA  S16E57    SF                3068
+1010 +     0305   0312      0316  G17  5   XRA  1-8A      B1.7    1.1E-04   3068
+
+1020       0428   0431      0623  SVI  3   FLA  S16E56    SF      ERU       3068
+1020 +     0429   0433      0438  G17  5   XRA  1-8A      C4.2    1.2E-03   3068
+
+1030 +     0606   0613      0618  G17  5   XRA  1-8A      B2.5    1.5E-04   3068
+
+1040       0709   0728      0738  SVI  3   FLA  S16E56    SF      ERU       3068
+
+1050 +     0740   0751      0758  G17  5   XRA  1-8A      B2.8    2.7E-04   3068
+1050       0741   0844      0956  SVI  3   FLA  S16E53    SF      ERU       3068
+
+1060 +     0834   0848      0853  G17  5   XRA  1-8A      B4.7    3.8E-04   3068
+
+1070 +     1025   1035      1039  G17  5   XRA  1-8A      B4.6    2.3E-04   3068
+1070       1032   1035      1046  SVI  3   FLA  S16E53    SF      ERU       3068
+
+1080       1140   1142      1144  SVI  3   FLA  S16E54    SF      ERU       3068
+
+1090 +     1218   1222      1227  G17  5   XRA  1-8A      B2.4    1.2E-04   3068
+1090       1226   1228      1231  SVI  3   FLA  S17E52    SF      ERU       3068
+
+1100 +     1307   1314      1318  G17  5   XRA  1-8A      B2.0    1.2E-04   3068
+
+1110       1346   1348      1349  SVI  3   FLA  S17E52    SF      ERU       3068
+
+1120 +     1352   1357      1405  G17  5   XRA  1-8A      B2.3    1.6E-04   3067
+
+1130 +     1601   1610      1615  G17  5   XRA  1-8A      B3.0    1.8E-04   3068
+1130       1609   1611      1613  SVI  3   FLA  S16E48    SF      ERU       3068
+
+1140 +     1942   1947      1953  G17  5   XRA  1-8A      B1.6    1.0E-04   3068

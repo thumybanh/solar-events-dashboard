@@ -1,0 +1,52 @@
+:Product: 20250320events.txt
+:Created: 2025 Mar 23 0357 UT
+:Date: 2025 03 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Mar 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 670 +     0319   0319      0319  LEA  G   RBR  245       290                   
+
+ 680       0326   ////      0327  LEA  C   RSP  100-176   III/2                 
+
+ 690 +     0335   0344      0350  G16  5   XRA  1-8A      C5.6    3.8E-03   4031
+
+ 700 +     0716   0727      0738  G16  5   XRA  1-8A      C2.5    3.0E-03   4022
+ 700       0722   0723      0732  SVI  3   FLA  N08W68    SF      ERU       4022
+
+ 710 +     1104   ////      1105  SVI  C   RSP  025-127   III/2                 
+
+ 720 +     1254   ////      1254  SVI  C   RSP  025-083   III/1                 
+
+ 730 +     1345   ////      1346  SAG  C   RSP  025-180   III/2                 
+
+ 740 +     1456   ////      1456  SVI  C   RSP  025-082   III/1                 
+
+ 750 +     1649   1710      1750  G16  5   XRA  1-8A      C4.4    1.2E-02   4025
+ 750 +     1658   1710      1715  HOL  3   FLA  N11W66    SF      PRB       4025
+ 750       1716   ////      1718  SAG  C   RSP  025-093   III/1             4022
+
+ 760 +     1803   ////      1808  SAG  C   RSP  025-180   III/2                 
+ 760 +     1805   1806      1806  PAL  G   RBR  245       360                   
+
+ 780       1823   ////      1824  SAG  C   RSP  025-180   III/2                 
+ 780       1823   ////      1841  PAL  C   RSP  025-084   VI/2                  
+
+ 770 +     1826   1826      1826  PAL  G   RBR  245       190                   
+ 770 +     1826   ////      1827  PAL  C   RSP  025-085   III/2                 
+
+ 800       1915   ////      2010  SAG  C   RSP  025-075   VI/1                  
+
+ 790       1915   ////      1941  PAL  C   RSP  025-075   VI/1                  
+
+ 810       2048   2049      2055  HOL  3   FLA  N14W50    SF      DSD       4031
+
+ 820       2149   ////      2149  SAG  C   RSP  025-058   III/1                 
+
+ 830       2158   ////      2159  PAL  C   RSP  025-075   III/1                 

@@ -1,0 +1,84 @@
+:Product: 20230214events.txt
+:Created: 2023 Feb 17 0357 UT
+:Date: 2023 02 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Feb 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9210       0013   0020      0033  G16  5   XRA  1-8A      C3.0    3.3E-03       
+9210       0029   0029      0029  LEA  G   RBR  245       120                   
+
+9220      B0038   0038      0104  LEA  3   FLA  N10E39    SF                3226
+
+9240       0156   ////      0156  PAL  C   RSP  110-180   III/1                 
+
+9230       0157   0201      0220  LEA  3   FLA  N10E39    1N      BPT       3226
+9230       0157   0203      0207  G16  5   XRA  1-8A      M1.8    5.8E-03   3226
+
+9250       0237   0241      0242  LEA  3   FLA  N24W19    SF                3216
+
+9260       0328   0328      0328  PAL  G   RBR  245       130                   
+
+9270       0340   0341      0344  LEA  3   FLA  N10E39    SF                3226
+
+9280 +     0406   0414      0425  G16  5   XRA  1-8A      C2.7    1.7E-03       
+
+9290       0501   ////      0502  LEA  C   RSP  025-103   III/1                 
+
+9300 +     0508   0517      0526  G16  5   XRA  1-8A      C3.7    2.4E-03   3214
+
+9360       0508   0517      1202  G18  5   XRA  1-8A      C3.7    2.5E-03   3214
+
+9310       0613   0625      0646  G16  5   XRA  1-8A      C9.6    1.4E-02   3226
+9310      B0632  U1120     A1128  SVI  3   FLA  N10E30    SF      ERU       3226
+
+9320       0649   0700      0713  LEA  3   FLA  N10E39    SF                3226
+
+9330 +     0853   ////      0854  LEA  C   RSP  025-144   III/2                 
+
+9340 +     0920   0920      0920  SVI  G   RBR  245       100                   
+9340 +     0920   ////      0921  LEA  C   RSP  111-180   III/1                 
+
+9350       0937   0943      0957  G16  5   XRA  1-8A      C3.0    3.1E-03   3226
+
+9430       1023   1031      1110  SVI  G   RNS  245       290                   
+
+9370       1038   1045      1058  G16  5   XRA  1-8A      C3.5    3.8E-03   3226
+
+9380       1111   1119      1126  G16  5   XRA  1-8A      C5.5    3.1E-03   3226
+
+9390 +     1159   1212      1246  G16  5   XRA  1-8A      M2.6    4.7E-02   3213
+
+9400      B1305  U1306     A1315  SVI  3   FLA  N15E17    SF      ERU       3224
+
+9410 +     1333   1333      1333  SVI  G   RBR  245       320               3224
+9410      B1341  U1346     A1358  SVI  3   FLA  N14E18    SF                3224
+
+9420 +    B1428  U1429     A1436  SVI  3   FLA  N10E28    SF                3226
+
+9440       1453   1503      1523  HOL  3   FLA  N09E27    SF      ERU       3226
+
+9450       1529   1551      1553  HOL  3   FLA  N10E25    SF                3226
+
+9460       1556   1557      1619  HOL  3   FLA  N10E25    SF                3226
+
+9470       1642   1642      1642  SAG  U   RBR  245       410                   
+
+9480       1653   1657      1657  SAG  U   RBR  245       330               3226
+9480       1656   1657      1712  HOL  3   FLA  N09E27    SF      DSD       3226
+
+9490       1705   1705      1705  SAG  U   RBR  245       130                   
+
+9500       1728   1728      1731  HOL  3   FLA  N09E24    SF                3226
+
+9510 +     2027   ////      2027  PAL  C   RSP  025-060   III/1                 
+
+9520       2107   2107      2108  PAL  G   RBR  245       190                   
+
+9530 +     2113   2125      2137  G16  5   XRA  1-8A      C8.9    8.6E-03   3213

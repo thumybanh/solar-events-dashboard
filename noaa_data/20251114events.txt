@@ -1,0 +1,85 @@
+:Product: 20251114events.txt
+:Created: 2025 Nov 17 0357 UT
+:Date: 2025 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6340       0000   ////      0045  LEA  C   RSP  025-133   VI/2                  
+
+6350       0226   0232      0236  G19  5   XRA  1-8A      C1.5    9.2E-04   4274
+
+6360       0347   0351      0353  G19  5   XRA  1-8A      C1.4    6.7E-04       
+
+6370       0404   ////      0404  LEA  C   RSP  025-095   III/2                 
+
+6380       0419   ////      0511  LEA  C   RSP  067-146   CTM/1                 
+
+6390 +     0634   ////      0635  LEA  C   RSP  074-095   III/2                 
+
+6430       0715   ////      0934  SVI  C   RSP  025-180   VI/2                  
+
+6410       0716   ////      0852  LEA  C   RSP  025-180   VI/3              4274
+6410 +     0727   0830      0931  LEA  3   FLA  N22W61    3B      ERU       4274
+
+6400       0733   ////      0734  SVI  C   RSP  025-180   III/2                 
+6400 +     0738   0738      0738  SVI  G   RBR  610       110                   
+6400 +     0744   0830      0840  G18  5   XRA  1-8A      X4.0    3.7E-01   4274
+6400 +     0821   0828      0843  SVI  G   RBR  4995      3100    CastelliU     
+6400 +     0822   0825      0842  SVI  G   RBR  8800      2900    CastelliU     
+6400 +     0822   0825      0841  SVI  G   RBR  2695      1100    CastelliU     
+6400       0823   0825      0839  SVI  G   RBR  1415      690     CastelliU     
+6400 +     0824   0825      0842  SVI  G   RBR  15400     3600    CastelliU     
+6400 +     0824   0828      0834  SVI  G   RBR  245       390     CastelliU     
+6400 +     0824   0825      0835  SVI  G   RBR  410       1500    CastelliU     
+6400 +     0829   ////      0838  LEA  C   RSP  025-143   II/3    1269          
+6400 +     0837   ////      0944  SVI  C   RSP  039-180   IV/2                  
+
+6420       0854   0854      0854  LEA  G   RBR  610       120                   
+
+6620      A0949   ////     A2215  LEA  3   DSF  N32W45    23                    
+
+6440       1038   1038      1039  SVI  G   RBR  410       110                   
+
+6450       1056   ////      1056  SVI  C   RSP  025-054   III/1                 
+
+6460       1114   1114      1119  SVI  3   FLA  N23W74    SF      DSD       4274
+
+6470      B1413   1415      1417  HOL  3   FLA  S14W77    SF                4281
+
+6480 +     1458   1503      1507  G18  5   XRA  1-8A      C3.0    1.4E-03   4274
+
+6490       1604   1610      1614  G19  5   XRA  1-8A      C1.6    1.0E-03   4274
+
+6500 +     1622   1631      1635  G18  5   XRA  1-8A      C2.7    1.8E-03   4274
+
+6510 +     1636   1641      1645  G18  5   XRA  1-8A      C3.2    1.7E-03   4274
+
+6520       1659   1702      1704  G19  5   XRA  1-8A      C2.6    1.0E-03   4274
+
+6530       1708   1716      1723  G19  5   XRA  1-8A      C2.5    2.3E-03   4274
+6530       1709   ////      1709  SAG  C   RSP  025-180   III/1                 
+
+6540 +     1748   1755      1804  G18  5   XRA  1-8A      C3.8    3.6E-03   4274
+6540       1752   1752      1752  PAL  G   RBR  4995      120                   
+6540 +     1752   1752      1752  SAG  G   RBR  8800      120                   
+
+6550 +     1841   1845      1848  G18  5   XRA  1-8A      C2.4    1.1E-03   4274
+
+6560 +     1859   1908      1919  G18  5   XRA  1-8A      C2.3    2.5E-03   4274
+
+6570 +     2004   2012      2016  G18  5   XRA  1-8A      M1.3    5.1E-03   4274
+
+6580 +     2051   2059      2106  G18  5   XRA  1-8A      C4.7    2.8E-03   4281
+
+6590 +     2122   2131      2134  G18  5   XRA  1-8A      M1.3    5.0E-03   4274
+
+6600       2135   ////      2152  HOL  3   EPL  ////      0.15                  
+
+6610       2314   ////      2315  LEA  C   RSP  025-068   III/2                 

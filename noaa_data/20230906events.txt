@@ -1,0 +1,64 @@
+:Product: 20230906events.txt
+:Created: 2023 Sep 09 0357 UT
+:Date: 2023 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6800      B0000   ////      0012  LEA  2   FLA  N15W13    SF                3421
+
+6810 +     0042   0050      0101  G16  5   XRA  1-8A      C4.7    3.0E-03   3421
+6810       0049   0054      0104  LEA  3   FLA  N15W13    1F      UMB       3421
+
+6820       0452   0458      0502  G18  5   XRA  1-8A      C1.1    5.7E-04       
+
+6830 +     0628   0639      0652  G16  5   XRA  1-8A      C1.8    2.0E-03   3417
+6830       0635   0637      0643  LEA  3   FLA  S09W34    SF                3417
+
+6840 +     0750   0756      0800  G16  5   XRA  1-8A      C3.7    1.3E-03   3421
+6840       0755   0755      0804  LEA  3   FLA  N13W22    SF                3421
+
+6850 +     0921   0921      0921  SVI  G   RBR  610       740                   
+
+6860       0922   0927      0932  LEA  3   FLA  N14W20    SF                3421
+
+6920 +     1032   1046      1100  G16  5   XRA  1-8A      C1.8    2.8E-03       
+
+6870       1056   ////      1057  SAG  C   RSP  025-040   III/1                 
+6870 +     1100   1103      1107  G16  5   XRA  1-8A      C1.8    7.6E-04       
+
+6880       1157   ////      1200  SAG  C   RSP  025-049   III/1                 
+
+6890       1258   ////      1259  SAG  C   RSP  025-041   III/1                 
+
+6900 +     1319   1326      1331  G16  5   XRA  1-8A      C2.8    4.4E-04       
+
+6910 +     1342   1345      1349  G16  5   XRA  1-8A      C3.2    9.2E-04       
+6910       1343   1343      1343  SVI  G   RBR  410       120                   
+
+6930       1502   ////      1502  SAG  C   RSP  025-049   III/1                 
+
+6940 +     1654   1657      1701  G16  5   XRA  1-8A      C1.7    5.8E-04       
+
+6950 +     1751   1756      1800  G16  5   XRA  1-8A      C5.3    1.2E-03   3421
+6950       1755   1756      1800  HOL  3   FLA  N13W25    SF                3421
+
+6960 +     1918   1925      1929  G16  5   XRA  1-8A      C1.2    1.1E-03   3421
+6960       1930   1932      1948  HOL  3   FLA  N13W22    SF                3421
+
+6970       1958   2000      2007  HOL  3   FLA  N23E76    SF      DSD       3425
+
+6980 +     2043   2048      2052  G16  5   XRA  1-8A      C3.4    9.1E-04   3421
+6980       2047   2048      2052  HOL  3   FLA  N13W26    SF                3421
+
+6990       2121   2124      2127  HOL  3   FLA  N17E40    SF      DSD       3423
+
+7000       2214   2215      2221  HOL  3   FLA  N22E72    SF      DSD       3425
+
+7010       2339   2341      2342  LEA  3   FLA  N16E40    SF                3423

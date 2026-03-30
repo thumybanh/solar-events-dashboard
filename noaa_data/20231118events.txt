@@ -1,0 +1,30 @@
+:Product: 20231118events.txt
+:Created: 2023 Nov 21 0357 UT
+:Date: 2023 11 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Nov 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 960       0418   0432      0449  G18  5   XRA  1-8A      C2.5    4.1E-03   3489
+
+ 970       0537   0542      0550  G18  5   XRA  1-8A      M1.2    6.1E-03   3490
+
+ 990       1034   1043      1051  G18  5   XRA  1-8A      C4.0    3.0E-03   3490
+
+1000       1116   ////      1116  SVI  C   RSP  025-067   III/1                 
+
+1010 +     1253   ////      1306  SVI  C   RSP  025-050   VI/2                  
+
+1020       1634   1644      1654  G18  5   XRA  1-8A      M1.1    9.3E-03   3490
+
+1030 +     1948   1959      2019  G18  5   XRA  1-8A      C3.3    5.8E-03   3490
+
+1040       2152   2222      2226  G18  5   XRA  1-8A      C8.0    1.2E-02   3490
+
+1100 +     2226   2234      2240  G18  5   XRA  1-8A      M1.0    8.3E-03   3490

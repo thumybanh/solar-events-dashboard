@@ -1,0 +1,93 @@
+:Product: 20220620events.txt
+:Created: 2022 Jun 23 0357 UT
+:Date: 2022 06 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jun 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2120       0000   0408      0506  PAL  G   RNS  245       550                   
+
+2220       0000   ////      0932  LEA  C   RSP  055-180   CTM/2                 
+2220       0000   ////      0932  LEA  C   RSP  025-110   VI/2                  
+
+2030       0016   0016      0016  PAL  G   RBR  245       130                   
+
+2040       0016   ////      0017  PAL  C   RSP  025-180   III/1                 
+
+2050       0055   0116      0248  LEA  3   FLA  N20W55    SF                3030
+2050 +     0100   0134      0200  G16  5   XRA  1-8A      C5.0    1.3E-02   3030
+
+2150       0106   0109      0153  LEA  3   FLA  N17E05    SF                3038
+
+2060       0220   0221      0227  LEA  3   FLA  N17E05    SF                3038
+
+2250       0332   ////      1814  SVI  C   RSP  025-180   CTM/2                 
+2250       0332   ////      1814  SVI  C   RSP  025-180   VI/2                  
+
+2070      B0417   0418      0420  SVI  3   FLA  N15E07    SF      ERU       3038
+
+2080       0421   0423      0428  SVI  3   FLA  N17E02    SF      ERU       3038
+
+2090       0431   0436      0439  SVI  3   FLA  N16E01    SF      ERU       3038
+
+2160       0434   0435      0436  SVI  3   FLA  N19W63    SF      ERU       3030
+
+2100       0451   0452      0453  SVI  3   FLA  N16E01    SF      ERU       3038
+
+2110 +     0458   0506      0525  G16  5   XRA  1-8A      C2.0    3.0E-03   3030
+2110       0505   0505      0514  LEA  3   FLA  N17W63    SF                3030
+
+2170       0508   0509      0516  SVI  3   FLA  N15E05    SF      ERU       3038
+
+2210       0520   0632      0708  SVI  3   FLA  N16E00    SF      ERU       3038
+
+2180 +     0605   0618      0628  G16  5   XRA  1-8A      C5.7    6.1E-03   3038
+
+2190 +     0708   0716      0724  G16  5   XRA  1-8A      C2.4    2.0E-03   3031
+
+2200       0711   0747      0848  SVI  3   FLA  N16W01    SF      ERU       3038
+
+2230       0850   0908      0923  SVI  3   FLA  N16W00    SF      ERU       3038
+2230       0917   ////      2359  SAG  C   RSP  025-180   CTM/2             3038
+
+2240       1016  U1031     A1055  SVI  3   FLA  N17W03    SF      ERU       3038
+
+2260       1130   1134      1200  SVI  3   FLA  N17W03    SF      ERU       3038
+
+2270       1216   1217      1219  SVI  3   FLA  N16W03    SF      ERU       3038
+
+2280       1300   1303      1306  SVI  3   FLA  N16W03    SF      ERU       3038
+
+2290       1323   ////      1324  SAG  C   RSP  025-180   III/1                 
+2290       1323   1323      1323  SAG  U   RBR  245       420                   
+
+2300       1446   1517      1519  G16  5   XRA  1-8A      C3.3    4.6E-03   3030
+2300       1514   1517      1533  SVI  3   FLA  N17W06    SF      ERU       3038
+2300       1519   1526      1539  G16  5   XRA  1-8A      C4.4    5.0E-03   3030
+2300       1520   1523      1527  SVI  3   FLA  N20W72    SF      ERU       3030
+2300       1527   1532      1539  SVI  3   FLA  N20W72    SF      ERU       3030
+
+2310       1542   1556      1559  SVI  3   FLA  N18W05    SF      ERU       3038
+
+2320 +     1605   1610      1617  G16  5   XRA  1-8A      C4.5    2.7E-03   3030
+2320       1607   1610      1615  SVI  3   FLA  N22W74    SF      ERU       3030
+
+2330       1632   1635      1640  SVI  3   FLA  N26W66    SF      ERU       3030
+
+2340 +     2116   2116      2116  PAL  G   RBR  410       100                   
+
+2350 +     2138   2139      2139  PAL  G   RBR  610       220                   
+2350       2139   2139      2139  SAG  U   RBR  410       120                   
+
+2360       2141   ////      2141  SAG  C   RSP  025-180   III/2                 
+
+2370 +     2202   2205      2209  G16  5   XRA  1-8A      C2.1    8.1E-04   3034
+
+2380 +     2341   2355      0003  G16  5   XRA  1-8A      C2.1    2.4E-03   3034
+2380       2341   2347      2353  LEA  3   FLA  S02W25    SF                3034

@@ -1,0 +1,35 @@
+:Product: 20230610events.txt
+:Created: 2023 Jun 13 0357 UT
+:Date: 2023 06 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jun 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 980       0213   0220      0227  G16  5   XRA  1-8A      C1.2    7.0E-04   3323
+
+ 970 +     0227   0233      0238  G16  5   XRA  1-8A      C1.1    8.1E-04   3323
+
+ 990       0324   0332      0346  G16  5   XRA  1-8A      C1.5    1.9E-03   3323
+
+1000 +     1529   1534      1542  G16  5   XRA  1-8A      C1.3    9.4E-04   3327
+1000      B1533  U1535     A1612  SVI  3   FLA  S13W13    SF      ERU       3327
+
+1090      A1657   ////     A1004  SVI  3   DSF  S25E08    11                    
+
+1010 +     1825   1851      1857  G16  5   XRA  1-8A      C4.5    4.1E-03   3327
+1010       1848   1849      1850  PAL  G   RBR  410       930               3327
+1010       1849   1850      1859  HOL  3   FLA  S12W14    SF      DSD       3327
+1010       1849   1850      1850  PAL  G   RBR  610       68                3327
+1010       1849   1850      1850  PAL  G   RBR  1415      120               3327
+1010       1849   1850      1850  PAL  G   RBR  2695      15                3327
+1010       1850   1850      1850  PAL  G   RBR  245       110               3327
+
+1020 +     2059   2106      2111  G16  5   XRA  1-8A      C3.8    1.8E-03   3323
+
+1030       2110   2116      2125  G16  5   XRA  1-8A      C5.7    4.3E-03   3323

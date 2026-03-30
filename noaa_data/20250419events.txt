@@ -1,0 +1,28 @@
+:Product: 20250419events.txt
+:Created: 2025 Apr 22 0357 UT
+:Date: 2025 04 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Apr 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7640       0815   0828      0834  SVI  3   FLA  N04W25    SF      DSD       4063
+
+7650       0945   ////      0946  SVI  C   RSP  025-156   III/1                 
+
+7660 +     1106   1114      1120  G19  5   XRA  1-8A      C1.5    1.2E-03   4060
+7660       1111   1111      1121  SVI  3   FLA  N06W48    SF      ERU       4060
+
+7670 +     1452   ////      1452  SVI  C   RSP  025-083   III/1                 
+
+7680      B1602  U1602      1606  SVI  3   FLA  N08W49    SF      ERU       4060
+
+7690 +     1623   1628      1632  G19  5   XRA  1-8A      C4.3    1.8E-03   4065
+7690       1625   1629     A1650  SVI  3   FLA  S31E45    SF      ERU       4065
+
+7700       1636   1639      1649  SVI  3   FLA  N08W49    SF                4060

@@ -1,0 +1,51 @@
+:Product: 20250814events.txt
+:Created: 2025 Aug 17 0357 UT
+:Date: 2025 08 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Aug 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5410       0102   ////      0151  LEA  C   RSP  085-173   CTM/1                 
+5410 +     0137   0147      0153  G18  5   XRA  1-8A      C1.7    1.4E-03   4172
+
+5420 +     0231   0243      0255  G18  5   XRA  1-8A      C2.9    2.9E-03   4178
+
+5430       0356   0356      0356  LEA  G   RBR  245       210                   
+
+5440 +     0513   0519      0524  G18  5   XRA  1-8A      C1.2    6.8E-04   4178
+
+5450 +     0551   0604      0616  G18  5   XRA  1-8A      C2.9    2.9E-03   4178
+
+5460 +     0903   0911      0917  G18  5   XRA  1-8A      C1.0    8.0E-04   4178
+
+5480 +     1300   1303      1305  G18  5   XRA  1-8A      C1.0    3.9E-04   4172
+5480 +     1302   1302      1302  SVI  G   RBR  245       140                   
+5480 +     1302   ////      1303  SVI  C   RSP  025-180   III/2                 
+
+5500       1426   ////      1439  SAG  C   RSP  025-066   VI/1              4172
+5500 +     1433   1448      1506  G18  5   XRA  1-8A      C1.3    2.2E-03   4172
+5500       1438   ////      1439  SVI  C   RSP  025-083   III/1             4172
+5500       1441   1448      1502  HOL  3   FLA  N07W51    SF                4172
+
+5510       1700   ////      1701  SAG  C   RSP  025-029   III/1                 
+
+5520       1809   1813      1814  HOL  3   FLA  N08W67    SF      DSD       4172
+
+5530       1900   1909      1915  HOL  3   FLA  N07W57    SF                4172
+5530 +     1913   ////      2040  SAG  C   RSP  025-061   VI/1              4172
+
+5540 +     2016   2016      2016  PAL  G   RBR  245       140                   
+
+5550       2046   2108      2157  HOL  3   FLA  N08W58    SF      DSD       4172
+
+5560       2205   2208      2211  HOL  3   FLA  N08W58    SF      DSD       4172
+
+5570       2213   2237      2247  HOL  3   FLA  N08W58    SF                4172
+
+5580       2350   2350      2352  HOL  3   FLA  N09W61    SF      DSD       4172

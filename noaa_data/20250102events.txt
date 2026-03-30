@@ -1,0 +1,58 @@
+:Product: 20250102events.txt
+:Created: 2025 Jan 05 0357 UT
+:Date: 2025 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2270 +     0000   ////      0000  LEA  G   RBR  245       100                   
+
+2280       0051   ////      0051  LEA  C   RSP  047-180   III/1                 
+
+2290       0124   0124      0125  LEA  3   FLA  S10E59    SF                3945
+
+2300       0302   0302      0304  LEA  3   FLA  N11E85    SF                    
+
+2310       0324   0325      0326  LEA  3   FLA  S17W15    SF                3939
+2310       0325   ////      0327  LEA  C   RSP  025-128   III/2             3939
+
+2320 +     0529   0538      0546  G18  5   XRA  1-8A      C5.2    4.6E-03   3947
+2320       0530   0530      0530  LEA  G   RBR  410       730                   
+
+2340       0531   0531      0533  LEA  3   FLA  S17W20    SF                3939
+
+2320 +     0535   0537      0540  LEA  3   FLA  N11E85    SF                    
+
+2350 +     0608   0617      0643  G18  5   XRA  1-8A      C7.5    1.3E-02   3947
+
+2360       0846   ////      0853  SVI  C   RSP  033-180   III/1                 
+2360       0846   ////      0909  LEA  C   RSP  025-180   VI/1                  
+2360 +     0846   0846      0846  SVI  G   RBR  245       150                   
+
+2370       1000   1001      1002  LEA  3   FLA  N11E80    SF                3947
+
+2380 +     1207   1219      1233  G18  5   XRA  1-8A      C6.6    7.7E-03   3947
+2380       1208   ////      1211  SVI  C   RSP  025-180   III/1                 
+
+2390       1410   ////      1547  SAG  C   RSP  114-166   CTM/1                 
+
+2400       1717   1800      1859  HOL  2   FLA  S09W29    1N      DSD       3939
+2400 +     1718   1740      1759  G18  5   XRA  1-8A      M1.1    1.8E-02   3939
+2400       1725   ////      1726  SAG  C   RSP  112-167   III/1             3939
+
+2410 +     1912   1912      1912  PAL  G   RBR  245       160                   
+2410       1912   ////      1915  SAG  C   RSP  025-180   III/2                 
+
+2420       1912   ////      1913  PAL  C   RSP  025-180   III/2                 
+
+2430       1915   1915      1915  PAL  G   RBR  245       210                   
+
+2440 +     1952   ////      1953  PAL  C   RSP  025-180   III/2                 
+
+2450       2236   ////      2237  LEA  C   RSP  025-180   III/1                 

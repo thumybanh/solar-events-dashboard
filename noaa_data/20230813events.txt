@@ -1,0 +1,52 @@
+:Product: 20230813events.txt
+:Created: 2023 Aug 16 0357 UT
+:Date: 2023 08 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Aug 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2390 +     0424   0432      0438  G16  5   XRA  1-8A      C1.3    3.7E-04   3394
+2390       0429   ////      0430  SVI  U   RSP  076-180   III/1                 
+2390       0430   0430      0430  PAL  G   RBR  245       180                   
+
+2400       0439   ////      0900  SVI  C   RSP  064-180   CTM/1             3395
+
+2480       0515   0515      0518  SVI  3   FLA  N16W19    SF                3397
+
+2400       0539   0539      0544  SVI  3   FLA  N14W47    SF                3395
+
+2410       0631   ////      0635  SVI  C   RSP  025-085   III/1                 
+
+2420       0726   0726      0726  LEA  G   RBR  245       100                   
+
+2430       0741   ////      0742  SVI  U   RSP  025-056   III/1                 
+
+2440       0911   0911      0911  LEA  G   RBR  245       130                   
+
+2450       0928   0928      0928  LEA  G   RBR  245       110                   
+
+2460       0933   ////      0933  SVI  C   RSP  025-059   III/1                 
+
+2470 +     0944   0953      1015  G16  5   XRA  1-8A      C2.4    3.5E-03   3395
+2470       0946   0946      0946  LEA  G   RBR  245       150               3395
+2470       0947   0950      1021  SVI  3   FLA  N12W49    SF                3395
+2470       1000   ////      1104  SVI  C   RSP  025-180   VI/2              3395
+
+2490       1023   1023      1031  SVI  3   FLA  N12W49    SF                3395
+
+2500       1035   1041      1047  G16  5   XRA  1-8A      C1.2    8.9E-04   3403
+2500       1036   ////      1039  SAG  C   RSP  025-151   III/1                 
+
+2530       1151   ////      1828  SAG  C   RSP  113-180   CTM/1                 
+
+2510       1151   ////      1525  SVI  C   RSP  120-180   CTM/1                 
+
+2520       1434   ////      1435  SVI  U   RSP  025-057   III/1                 
+
+2540       1707   1818      1945  PAL  G   RNS  245       180                   

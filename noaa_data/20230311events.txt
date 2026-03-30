@@ -1,0 +1,52 @@
+:Product: 20230311events.txt
+:Created: 2023 Mar 14 0357 UT
+:Date: 2023 03 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Mar 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7830       0039   0040      0106  LEA  3   FLA  S25W17    SF                3245
+7830 +     0055   0103      0108  G16  5   XRA  1-8A      C4.9    3.3E-03   3245
+
+7840 +     0121   0121      0121  LEA  G   RBR  245       520                   
+
+7850       0243   0243      0243  LEA  G   RBR  245       100                   
+
+7860       0336   0336      0336  LEA  G   RBR  245       100                   
+
+7870       0530   0535      0547  G18  5   XRA  1-8A      C1.4    1.4E-03   3245
+7870       0532   0533      0547  LEA  3   FLA  S23W20    SF                3245
+
+7880 +     0603   0610      0619  G16  5   XRA  1-8A      C1.3    1.2E-03   3245
+
+7890       0934   0934      0934  SVI  G   RBR  410       180                   
+
+7900 +     1008   1016      1024  G16  5   XRA  1-8A      C1.2    1.1E-03   3245
+7900      B1019  U1036     A1101  SVI  3   FLA  S26W19    SF                3245
+
+7910 +     1029   1038      1045  G16  5   XRA  1-8A      C1.2    1.1E-03   3245
+
+8050      A1113   ////     A0630  SVI  3   DSF  S46W38    28                    
+
+8060      A1113   ////     A0630  SVI  3   DSF  N04E51    9                     
+
+7920       1424   1424      1424  SVI  G   RBR  410       110                   
+
+7930       1435   1438      1644  HOL  3   FLA  S20W21    SF                3245
+
+7960      A1442   ////     A1703  HOL  3   DSF  S45W73    35                    
+
+7930 +     1454   1501      1514  G16  5   XRA  1-8A      C1.6    2.0E-03   3245
+
+7940       1455   1455      1455  SVI  G   RBR  410       140                   
+
+7950       1635   1635      1635  SAG  U   RBR  610       210                   
+
+7970       2338   ////      2359  LEA  C   RSP  025-180   VI/1                  
+7970       2353   ////      2353  PAL  C   RSP  025-180   III/1                 

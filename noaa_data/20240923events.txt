@@ -1,0 +1,33 @@
+:Product: 20240923events.txt
+:Created: 2024 Sep 26 0357 UT
+:Date: 2024 09 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Sep 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2850       0019   0019      0019  LEA  G   RBR  410       200                   
+
+2860 +     0116   ////      0116  LEA  C   RSP  025-097   III/2                 
+
+2870 +     0754   ////      0756  LEA  C   RSP  041-088   III/2                 
+
+2880 +     0927   ////      0927  LEA  C   RSP  025-093   III/1                 
+
+2900 +     0959   1006      1010  G16  5   XRA  1-8A      C4.5    1.9E-03   3825
+
+2920 +     1423   1456      1534  G16  5   XRA  1-8A      M1.3    4.1E-02   3836
+
+2910       1427   1427      1427  SVI  G   RBR  245       220                   
+
+2950       1506   1512      1520  HOL  3   FLA  N22W33    SF                3833
+
+2930 +     1547   ////      1547  SVI  C   RSP  025-079   III/1                 
+
+2940 +     1710   1716      1725  G16  5   XRA  1-8A      C3.3    2.9E-03   3828
+2940       1713   1713      1726  HOL  3   FLA  S10W15    SF                3828

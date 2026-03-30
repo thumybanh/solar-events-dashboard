@@ -1,0 +1,49 @@
+:Product: 20230903events.txt
+:Created: 2023 Sep 06 0357 UT
+:Date: 2023 09 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6230 +     0002   0011      0014  G16  5   XRA  1-8A      C1.3    1.1E-03   3413
+
+6240       0014   0023      0033  G16  5   XRA  1-8A      M1.1    8.5E-03   3413
+6240 +     0016   ////      0029  LEA  C   RSP  025-156   III/2                 
+
+6250 +     0058   0104      0109  G16  5   XRA  1-8A      C1.5    8.9E-04   3413
+
+6260 +     0138   ////      0139  LEA  C   RSP  025-110   III/1                 
+
+6270 +     0225   0232      0238  G16  5   XRA  1-8A      C1.0    7.2E-04   3413
+
+6280 +     0317   ////      0318  LEA  C   RSP  025-145   III/1                 
+
+6290 +     0358   ////      0409  LEA  C   RSP  025-145   III/1                 
+6290 +     0400   0410      0414  G16  5   XRA  1-8A      C1.8    1.1E-03   3413
+6290 +     0408   0408      0408  LEA  G   RBR  245       110                   
+
+6300 +     0517   ////      0608  SVI  C   RSP  025-180   VI/2                  
+6300 +     0518   0623      0712  G16  5   XRA  1-8A      C5.9    3.1E-02   3413
+6300       0526   ////      0615  SVI  C   RSP  025-180   CTM/1                 
+
+6310       0707   0708      0715  SVI  3   FLA  S07E08    SF      ERU       3417
+
+6320 +     0809   0836      0849  G16  5   XRA  1-8A      M6.0    6.4E-02   3413
+6320 +     0854   ////      0903  LEA  C   RSP  025-105   III/1                 
+
+6330 +     1131   1145      1203  G16  5   XRA  1-8A      C5.0    1.3E-03   3413
+
+6340       1203   1228      1252  G16  5   XRA  1-8A      C5.7    1.5E-02   3413
+
+6350       1742   ////      1742  SAG  C   RSP  025-048   III/1                 
+
+6360 +     1842   ////      1930  SAG  C   RSP  025-180   VI/1                  
+6360       1846   1857      1916  HOL  3   FLA  S20E21    SF      DSD           
+
+6370 +     1957   2005      2013  G16  5   XRA  1-8A      C1.1    1.0E-03   3417

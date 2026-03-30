@@ -1,0 +1,51 @@
+:Product: 20221201events.txt
+:Created: 2022 Dec 04 0357 UT
+:Date: 2022 12 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Dec 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6750       0000   ////      0604  LEA  C   RSP  108-180   CTM/1                 
+
+6730 +     0110   0114      0118  G16  5   XRA  1-8A      C1.1    4.4E-04   3153
+6730       0117   0118      0119  PAL  G   RBR  245       700                   
+
+6740 +     0233   0332      0446  LEA  G   RNS  245       210                   
+
+6760 +     0400   0409      0423  G16  5   XRA  1-8A      B8.9    1.1E-03       
+
+6770 +     0511   0516      0521  G17  5   XRA  1-8A      B7.2    4.5E-04   3153
+
+6780       0543   ////      0552  LEA  C   RSP  025-105   III/1                 
+
+6790 +     0704   0721      0736  G16  5   XRA  1-8A      M1.0    1.1E-02   3152
+6790       0710   0719      0808  LEA  3   FLA  N28W34    1N                3152
+6790       0717   ////      0724  SVI  C   RSP  025-180   III/2             3152
+6790       0717   ////      0809  LEA  C   RSP  025-180   VI/2              3152
+6790       0724   ////      0846  SVI  C   RSP  062-157   CTM/1             3152
+
+6800       0757   ////      0808  SVI  C   RSP  025-083   VI/1                  
+
+6810 +     1408   1420      1435  G16  5   XRA  1-8A      C1.3    1.8E-03   3153
+
+6820 +     1522   1527      1534  G16  5   XRA  1-8A      B9.2    6.2E-04   3153
+
+6830       1626   1626      1626  SAG  U   RBR  245       100                   
+
+6840 +     1657   1707      1718  G16  5   XRA  1-8A      C1.3    1.3E-03   3153
+
+6850 +     1727   1731      1736  G16  5   XRA  1-8A      C1.0    5.4E-04   3152
+
+6860 +     1855   1910      1923  G16  5   XRA  1-8A      C2.9    3.2E-03   3153
+
+6870       1949   ////      2359  PAL  C   RSP  045-180   CTM/1                 
+
+6880       2127   2127      2128  PAL  G   RBR  245       210                   
+
+6890       2324   2324      2324  PAL  G   RBR  245       100                   

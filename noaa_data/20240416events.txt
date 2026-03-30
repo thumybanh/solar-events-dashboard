@@ -1,0 +1,47 @@
+:Product: 20240416events.txt
+:Created: 2024 Apr 19 0357 UT
+:Date: 2024 04 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Apr 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2450       0022   ////      0023  LEA  C   RSP  025-159   III/1                 
+
+2460 +     0058   0106      0115  G16  5   XRA  1-8A      C2.7    2.6E-03   3639
+2460       0111   ////      0118  LEA  C   RSP  025-106   III/1                 
+
+2480       0352   ////      0329  LEA  2   SPY  ////      11                    
+
+2470       0416   ////      0422  LEA  C   RSP  025-180   III/2                 
+
+2490       0523   ////      0523  SVI  C   RSP  025-084   III/1                 
+
+2500       0635   ////      0735  SVI  C   RSP  025-180   VI/2                  
+2500 +     0735   ////      0735  LEA  C   RSP  025-180   III/2                 
+
+2510 +     0846   ////      1020  SVI  C   RSP  025-180   VI/2                  
+
+2520 +     1006   1015      1024  G16  5   XRA  1-8A      C3.9    3.6E-03   3643
+
+2530 +     1054   ////      1236  SVI  C   RSP  025-180   VI/2                  
+
+2540 +     1336   ////      1338  SVI  C   RSP  025-056   III/1                 
+
+2550 +     1527   1534      1538  G16  5   XRA  1-8A      C4.8    1.5E-03   3639
+
+2580 +     1718   1729      1749  G16  5   XRA  1-8A      C5.3    1.0E-03   3639
+
+2560       1748   1753      1846  HOL  3   FLA  S10E36    2N                3645
+2560 +     1749   1802      1814  G16  5   XRA  1-8A      M1.1    1.4E-02   3645
+
+2570       1903   ////      1931  PAL  C   RSP  025-075   VI/1                  
+
+2590       2026   ////      2048  PAL  C   RSP  025-180   VI/2                  
+
+2600       2235   2235      2235  PAL  G   RBR  8800      330                   

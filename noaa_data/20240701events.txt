@@ -1,0 +1,58 @@
+:Product: 20240701events.txt
+:Created: 2024 Jul 04 0357 UT
+:Date: 2024 07 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jul 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7010 +     0306   0316      0342  G16  5   XRA  1-8A      C2.1    3.8E-03   3729
+
+7020       0444   0449      0456  SVI  3   FLA  S03E11    SF                3729
+
+7030       0822   0829      0836  SVI  3   FLA  S19W37    SF      DSD       3730
+
+7040       0842   0847      0848  SVI  3   FLA  S19W37    SF      DSD       3730
+
+7050       0937   0941      0948  SVI  3   FLA  S19W37    SF      DSD       3730
+
+7060       0952   0954      1008  SVI  3   FLA  S19W37    SF      DSD       3730
+
+7070       1010   1010      1018  SVI  3   FLA  S19W37    SF                3730
+
+7080 +     1051   1102      1107  G16  5   XRA  1-8A      M2.1    8.0E-03   3730
+7080       1056   1059      1124  SVI  3   FLA  S19W38    1N      ERU       3730
+7080 +     1057   ////      1103  SVI  C   RSP  025-180   III/2             3730
+
+7140       1105   1107      1119  SVI  3   FLA  S06W12    SF      ERU       3730
+
+7090 +     1132   1142      1155  G16  5   XRA  1-8A      C2.8    6.8E-04   3729
+
+7100       1132   ////      1136  SAG  C   RSP  025-037   III/1                 
+
+7090       1133   1141      1209  SVI  3   FLA  S05E07    SF      ERU       3729
+
+7110       1221   1226      1230  SVI  3   FLA  S03E06    SF      ERU       3729
+
+7120 +     1316   ////      1346  SAG  C   RSP  025-093   VI/2              3729
+7120       1330   1330      1336  SVI  3   FLA  S03E05    SF                3729
+
+7150       1338   1338      1354  SVI  3   FLA  S18W40    SF      DSD       3730
+
+7130 +     1525   1528      1534  G16  5   XRA  1-8A      C2.1    1.1E-03   3729
+7130       1529   1529      1533  HOL  3   FLA  S03E07    SF                3729
+
+7160 +     1750   1757      1804  G16  5   XRA  1-8A      C2.0    1.5E-03   3720
+
+7170       2130   2138      2145  G16  5   XRA  1-8A      C1.9    2.0E-03       
+
+7220       2145   2155      2200  G16  5   XRA  1-8A      C2.1    2.5E-03       
+
+7230       2200   2207      2211  G16  5   XRA  1-8A      C2.2    1.2E-03       
+
+7180 +     2227   2233      2239  G16  5   XRA  1-8A      C3.6    2.3E-03       

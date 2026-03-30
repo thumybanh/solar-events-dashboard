@@ -1,0 +1,63 @@
+:Product: 20250406events.txt
+:Created: 2025 Apr 09 0357 UT
+:Date: 2025 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4610 +     0000   ////      0617  LEA  C   RSP  025-180   VI/2                  
+4610 +     0041   ////      0437  PAL  C   RSP  109-180   CTM/2                 
+
+4630       0451   ////      1709  SVI  C   RSP  025-180   CTM/1                 
+4630       0452   ////      1709  SVI  C   RSP  025-180   VI/2                  
+
+4640       0656   ////      1007  LEA  C   RSP  025-180   VI/2                  
+
+4620       0854   0854      0855  LEA  G   RBR  245       130                   
+
+4650       0955   0958      0958  LEA  G   RBR  245       220                   
+
+4660       1031   ////      1213  SAG  C   RSP  025-148   VI/2                  
+4660 +     1035   1041      1043  G16  5   XRA  1-8A      C1.9    1.2E-03   4048
+
+4760       1048   ////      2303  SAG  C   RSP  114-150   CTM/1                 
+
+4670       1305   ////      2303  SAG  C   RSP  025-180   VI/2                  
+4670       1305   ////      1313  SAG  C   RSP  025-075   III/2                 
+
+4680       1510   1510      1510  SAG  U   RBR  245       100                   
+
+4690 +     1546   1553      1605  G16  5   XRA  1-8A      C2.9    3.1E-03   4045
+4690       1551   1552      1553  HOL  3   FLA  S14W53    SF                4045
+
+4730       1556   1559      1600  HOL  3   FLA  S13W53    SF      ERU       4045
+
+4770       1634   ////      2359  PAL  C   RSP  109-180   CTM/1                 
+
+4700       1731   1731      1731  SAG  U   RBR  245       120                   
+
+4710 +     1734   1734      1734  PAL  G   RBR  245       130                   
+
+4780       1735   ////      2359  PAL  C   RSP  025-180   VI/2                  
+
+4750       1740   1750      1750  SAG  U   RNS  245       110                   
+
+4720 +     1741   1744      1747  G16  5   XRA  1-8A      C2.0    8.2E-04   4045
+4720       1743   1743      1746  HOL  3   FLA  S13W55    SF                4045
+
+4740 +     1947   1957      2006  G16  5   XRA  1-8A      C2.3    2.4E-03   4048
+4740       1951   1956      2006  HOL  3   FLA  S17W23    SF      DSD       4048
+
+4790       2051   2051      2051  SAG  U   RBR  245       130                   
+
+4800       2225   2225      2231  HOL  3   FLA  S11W02    SF                4054
+
+4810       2245   ////      2359  LEA  C   RSP  122-180   CTM/1                 
+4810       2253   ////      2359  LEA  C   RSP  025-103   VI/2                  
+4810       2328   2328      2328  PAL  G   RBR  245       130                   

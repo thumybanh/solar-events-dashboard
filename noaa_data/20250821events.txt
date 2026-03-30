@@ -1,0 +1,30 @@
+:Product: 20250821events.txt
+:Created: 2025 Aug 24 0357 UT
+:Date: 2025 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6420 +     0221   0232      0240  G18  5   XRA  1-8A      C1.7    1.9E-03   4188
+6420       0228   ////      0229  LEA  C   RSP  025-043   III/2                 
+
+6430 +     0432   0432      0432  LEA  G   RBR  245       190                   
+
+6450       0807   ////      1255  SVI  C   RSP  025-081   VI/2                  
+
+6440 +     0822   ////      0839  SVI  C   RSP  025-063   II/2    1323          
+6440       0822   ////      0903  LEA  C   RSP  025-064   VI/2                  
+
+6460 +     1245   1255      1303  G18  5   XRA  1-8A      C1.3    1.5E-03   4191
+
+6470 +     1546   1556      1603  G18  5   XRA  1-8A      C2.3    1.7E-03   4191
+
+6480       1711   ////      1711  SVI  C   RSP  025-047   III/1                 
+
+6490 +     1934   1943      2008  G18  5   XRA  1-8A      C1.1    2.3E-03   4191

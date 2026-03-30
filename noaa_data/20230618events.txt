@@ -1,0 +1,69 @@
+:Product: 20230618events.txt
+:Created: 2023 Jun 21 0357 UT
+:Date: 2023 06 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jun 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2720 +     0003   0012      0018  G16  5   XRA  1-8A      C2.0    1.2E-03   3335
+
+2730 +     0025   0031      0040  G16  5   XRA  1-8A      M1.3    7.1E-03   3336
+2730       0030   0030      0030  PAL  G   RBR  4995      130                   
+2730       0030   0030      0030  PAL  G   RBR  8800      100                   
+
+2740 +     0204   0208      0213  G16  5   XRA  1-8A      C1.7    8.8E-04   3340
+
+2750 +     0426   ////      0427  LEA  C   RSP  060-180   III/1                 
+
+2760 +     0450   0505      0515  G16  5   XRA  1-8A      C2.5    3.2E-03   3334
+
+2770       0522   0522      0522  LEA  G   RBR  410       420               3335
+2770 +     0531   0535      0544  G16  5   XRA  1-8A      C2.1    1.5E-03   3335
+2770 +     0533   0534      0544  SVI  3   FLA  S15E18    SF                3335
+
+2780 +     0627   ////      0628  LEA  C   RSP  085-180   III/1                 
+2780       0627   0627      0627  LEA  G   RBR  245       420                   
+
+2790 +     0643   ////      0644  SVI  C   RSP  036-147   III/2                 
+
+2800       0752   ////      0851  SVI  C   RSP  036-161   VI/1                  
+2800       0819   ////      0820  LEA  C   RSP  070-180   III/1                 
+
+2830 +     0937   ////      0938  SVI  C   RSP  138-159   III/1                 
+
+2850       1051   ////      1150  SVI  C   RSP  114-144   CTM/1                 
+
+2840       1122   1123      1125  SVI  3   FLA  S24E23    SF                3336
+
+2850       1130   ////      1130  SVI  C   RSP  025-053   III/1                 
+
+2870       1231   1231      1234  SVI  3   FLA  N22E67    SF                3340
+
+2880 +     1325   1353      1414  G16  5   XRA  1-8A      M2.5    4.8E-02   3336
+
+2900       1329   1330      1336  SVI  3   FLA  S21W40    SF                3335
+
+2890       1331   1331      1358  SVI  3   FLA  S16E16    SF      ERU       3335
+
+2880 +     1331   1349      1517  SVI  3   FLA  S25E22    2N      ERU       3336
+2880 +     1332   ////      1438  SVI  C   RSP  025-180   VI/2              3336
+2880 +     1353   ////      1407  SVI  C   RSP  025-083   II/1    440       3336
+
+2910 +     1544   ////      1544  SVI  C   RSP  025-054   III/1                 
+
+3040      A1655   ////     A0449  SVI  3   DSF  N26W14    20                    
+
+2930 +     1959   ////      2000  SAG  C   RSP  025-180   III/2                 
+
+2940 +     2225   2239      2243  G16  5   XRA  1-8A      C2.7    3.1E-03   3336
+
+2950       2243   2247      2251  G16  5   XRA  1-8A      C3.0    1.5E-03   3336
+
+2960 +     2355   2355      2355  PAL  G   RBR  245       120                   
+2960 +     2355   ////      2355  LEA  C   RSP  081-180   III/1                 

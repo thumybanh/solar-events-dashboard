@@ -1,0 +1,35 @@
+:Product: 20241114events.txt
+:Created: 2024 Nov 17 0357 UT
+:Date: 2024 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8620       0301   ////      0327  LEA  C   RSP  025-180   VI/2                  
+
+8630       0612   ////      0622  LEA  C   RSP  025-089   III/2                 
+
+8640       0724   ////      0725  LEA  C   RSP  025-097   III/2                 
+
+8650 +     0755   0803      0825  G16  5   XRA  1-8A      C1.7    4.7E-04   3889
+
+8660 +     0825   0855      0858  G16  5   XRA  1-8A      C2.0    4.3E-03   3889
+
+8670       0858   0913      0925  G16  5   XRA  1-8A      C2.9    4.3E-03       
+8670       0920   ////      0922  SVI  C   RSP  025-083   III/1                 
+
+8680 +     1145   1153      1158  G16  5   XRA  1-8A      C2.7    7.6E-04   3889
+
+8690 +     1239   1246      1251  G16  5   XRA  1-8A      C2.8    1.6E-03   3891
+8690 +     1240   ////      1244  SVI  C   RSP  025-180   III/2                 
+
+8700 +     1529   1538      1544  G16  5   XRA  1-8A      C2.8    1.7E-03   3889
+8700       1535   1536      1549  HOL  3   FLA  S08W24    SF                3889
+
+8710 +     1935   ////      1935  PAL  C   RSP  025-058   III/1                 

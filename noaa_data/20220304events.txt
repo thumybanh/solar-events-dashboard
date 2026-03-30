@@ -1,0 +1,45 @@
+:Product: 20220304events.txt
+:Created: 2022 Mar 07 0357 UT
+:Date: 2022 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9470 +     0030   0045      0058  G16  5   XRA  1-8A      C1.7    2.4E-03       
+
+9480 +     0242   0246      0253  G16  5   XRA  1-8A      B9.1    5.7E-04       
+
+9490       0257   ////      0259  LEA  C   RSP  025-180   III/1                 
+
+9500       0434   0442      0447  LEA  3   FLA  S21E73    SF                2960
+
+9510 +     0622   0634      0641  G16  5   XRA  1-8A      C1.1    9.4E-04   2960
+9510 +     0636   0641      0652  LEA  3   FLA  S20E71    SF                2960
+
+9520       1205   ////      1206  SVI  C   RSP  025-125   III/1                 
+
+9530 +     1455   1501      1509  G16  5   XRA  1-8A      B7.3    5.8E-04       
+
+9540 +     1800   1811      1815  G17  5   XRA  1-8A      B7.6    6.0E-04       
+9540 +     1806   ////      1806  PAL  C   RSP  025-095   III/1                 
+
+9550       1815   1819      1823  G17  5   XRA  1-8A      B8.3    4.2E-04       
+
+9560 +     1928   1936      1941  G16  5   XRA  1-8A      B7.5    4.9E-04   2960
+9560 +     1930   ////      1934  PAL  C   RSP  025-097   III/1                 
+
+9570 +     1946   1955      2001  G16  5   XRA  1-8A      B8.0    6.4E-04       
+
+9580 +     2114   2121      2130  G16  5   XRA  1-8A      B8.0    7.2E-04   2960
+
+9590 +     2135   2140      2144  G16  5   XRA  1-8A      B9.3    4.5E-04   2957
+
+9600 +     2242   2256      2302  G16  5   XRA  1-8A      B9.7    8.6E-04   2960
+
+9610 +     2311   2315      2326  G16  5   XRA  1-8A      B7.9    7.0E-04   2960

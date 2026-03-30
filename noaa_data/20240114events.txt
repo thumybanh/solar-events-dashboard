@@ -1,0 +1,60 @@
+:Product: 20240114events.txt
+:Created: 2024 Jan 17 0357 UT
+:Date: 2024 01 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jan 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2860 +     0012   0022      0029  G16  5   XRA  1-8A      C4.2    3.2E-03   3539
+2860       0014   ////      0022  LEA  C   RSP  025-160   V/2                   
+
+2870 +     0135   0138      0142  G16  5   XRA  1-8A      C2.0    8.1E-04   3541
+
+2880 +     0249   0256      0308  G16  5   XRA  1-8A      C2.0    8.1E-04   3545
+
+2890 +     0425   0434      0503  G16  5   XRA  1-8A      C1.9    8.4E-04   3545
+
+2900       0624   ////      0625  LEA  C   RSP  025-100   III/1                 
+
+2920 +     0658   0719      0727  G16  5   XRA  1-8A      C2.6    6.4E-04       
+
+2910 +     0727   0730      0735  G16  5   XRA  1-8A      C2.8    1.5E-03   3541
+2910       0729   0730      0733  SVI  3   FLA  S19W42    SF                3541
+
+2930       0934   0934      0935  LEA  G   RBR  245       150                   
+
+2940 +     1109   1119      1130  G16  5   XRA  1-8A      C2.7    5.8E-04   3541
+
+2960 +     1130   1206      1226  G16  5   XRA  1-8A      C9.6    1.2E-03       
+2960       1146   ////      1152  SVI  U   RSP  030-082   II/2    420           
+2960       1210   ////      1214  SVI  C   RSP  030-040   III/1                 
+
+2950 +     1300   1308      1316  G16  5   XRA  1-8A      C7.2    5.3E-03   3549
+
+2970 +     1654   1701      1707  G16  5   XRA  1-8A      C5.8    2.9E-03   3541
+2970       1659   1702      1713  HOL  3   FLA  S22W43    1N                3541
+
+2980 +     1840   1844      1850  G16  5   XRA  1-8A      C3.2    1.8E-03   3549
+
+3030       1858   1902      1951  HOL  3   FLA  S19E43    SF                3549
+
+2990       1905   1906      1907  PAL  G   RBR  245       190               3541
+2990       1906   1907      1911  HOL  3   FLA  S17W48    SF      DSD       3541
+
+3040       1920   1920      1920  PAL  G   RBR  245       120                   
+
+3050       1931   1931      1931  PAL  G   RBR  245       120                   
+
+3020 +     1949   1953      1958  G16  5   XRA  1-8A      C3.0    1.6E-03   3541
+
+3000       2014   2014      2014  PAL  G   RBR  245       120                   
+
+3010       2030   2030      2030  PAL  G   RBR  245       150                   
+
+3060       2340   2340      2340  PAL  G   RBR  245       100                   

@@ -1,0 +1,27 @@
+:Product: 20231028events.txt
+:Created: 2023 Oct 31 0357 UT
+:Date: 2023 10 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7860 +     0525   0535      0553  G16  5   XRA  1-8A      B9.7    3.5E-04   3473
+7860       0540   0542      0551  LEA  2   FLA  N13E57    SF                3473
+
+7870 +     0553   0559      0605  G16  5   XRA  1-8A      C1.2    6.3E-04   3473
+7870       0558   0559      0601  LEA  2   FLA  N13E57    SF                3473
+
+7880 +     0609   0623      0639  G16  5   XRA  1-8A      C1.6    2.6E-03   3473
+
+7890 +     1007   1015      1025  G16  5   XRA  1-8A      B8.1    8.0E-04   3472
+
+7900 +     1350   1357      1404  G16  5   XRA  1-8A      C1.0    7.3E-04   3471
+7900       1355   1356      1406  SVI  3   FLA  S24W54    SF                3471
+
+7910       2155   2156      2158  HOL  3   FLA  S15E25    SF                3474

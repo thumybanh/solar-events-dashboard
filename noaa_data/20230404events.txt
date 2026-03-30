@@ -1,0 +1,45 @@
+:Product: 20230404events.txt
+:Created: 2023 Apr 07 0357 UT
+:Date: 2023 04 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1880       0105   ////      0124  PAL  C   RSP  025-180   VI/1                  
+1880       0115   ////      0120  LEA  C   RSP  025-180   III/1                 
+
+1890       0144   0144      0144  PAL  G   RBR  8800      190                   
+
+1900 +     0228   0249      0303  G16  5   XRA  1-8A      C1.7    1.8E-03   3270
+
+1970 +     0303   0308      0317  G16  5   XRA  1-8A      C2.1    1.6E-03       
+
+1900 +     0317   ////      0318  LEA  C   RSP  025-180   III/2                 
+
+1910       0359   ////      0500  LEA  C   RSP  025-180   VI/1                  
+1910       0444   0444      0444  LEA  G   RBR  245       520                   
+1910 +     0444   ////      0444  LEA  C   RSP  025-180   III/2                 
+
+1920       0547   ////      0548  SVI  C   RSP  025-145   III/1                 
+
+1930 +     0743   ////      0743  SVI  C   RSP  025-084   III/2                 
+
+1940 +     0916   ////      1030  SVI  C   RSP  025-180   VI/2                  
+1940       0928   0928      0928  SVI  G   RBR  245       410                   
+
+1950       1138   ////      1138  SVI  C   RSP  025-082   III/1                 
+1950       1138   ////      1201  SAG  C   RSP  025-074   VI/1                  
+
+1960       1239   1239      1239  SVI  G   RBR  410       1000                  
+
+1980 +     1324   1334      1347  G16  5   XRA  1-8A      B8.4    1.1E-03   3270
+
+1990 +     1528   ////      1528  SVI  C   RSP  025-151   III/1                 
+
+2000 +     1602   ////      1614  SVI  C   RSP  025-083   VI/1                  

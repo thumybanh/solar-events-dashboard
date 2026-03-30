@@ -1,0 +1,47 @@
+:Product: 20250314events.txt
+:Created: 2025 Mar 17 0357 UT
+:Date: 2025 03 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Mar 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9780       0000   ////      0423  LEA  C   RSP  073-132   CTM/2                 
+
+9750       0015   0022      0029  G16  5   XRA  1-8A      C2.2    1.9E-03   4028
+9750       0015   ////      0103  PAL  C   RSP  115-160   CTM/2                 
+
+9760       0059   0122      0128  G16  5   XRA  1-8A      C1.9    3.0E-03   4024
+
+9770       0142   0159      0210  G16  5   XRA  1-8A      C2.3    3.6E-03   4012
+
+9790       0443   ////      0522  LEA  C   RSP  025-136   VI/2                  
+
+9800       0609   ////      0622  LEA  C   RSP  025-092   VI/2                  
+9800       0619   ////      0622  SVI  C   RSP  025-155   III/1                 
+
+9810       0710   0720      0750  G16  5   XRA  1-8A      C3.4    5.8E-03   4012
+
+9830       1042   ////      1338  SVI  C   RSP  060-180   CTM/2                 
+
+9820       1046   1130      1148  G16  5   XRA  1-8A      C3.7    9.6E-03   4028
+9820       1137   ////      1250  SAG  C   RSP  039-180   CTM/1                 
+
+9850       1220   1237      1310  G16  5   XRA  1-8A      C2.4    6.5E-03   4028
+
+9860       1312   1317      1336  G16  5   XRA  1-8A      C1.9    2.6E-03   4025
+
+9840       1322   ////      1322  SVI  C   RSP  025-046   III/1                 
+
+9870       1418   1426      1442  G16  5   XRA  1-8A      C4.4    3.9E-03   4022
+
+9880       1538   1546      1603  G16  5   XRA  1-8A      C2.1    8.5E-04   4025
+
+9900       2218   2221      2232  G16  5   XRA  1-8A      M1.1    7.5E-03   4030
+
+9890       2219   2219      2219  PAL  G   RBR  610       110                   

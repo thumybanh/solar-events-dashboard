@@ -1,0 +1,60 @@
+:Product: 20241219events.txt
+:Created: 2024 Dec 22 0357 UT
+:Date: 2024 12 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Dec 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7980 +     0130   0135      0139  G16  5   XRA  1-8A      C3.1    1.6E-03   3927
+
+7990 +     0236   0248      0256  G16  5   XRA  1-8A      C5.0    4.6E-03   3927
+
+8000       0346   0346      0346  LEA  G   RBR  610       100                   
+
+8010       0426   ////      0447  LEA  3   BSL  ////      0.17              3927
+
+8020       0519   0522      0533  LEA  3   FLA  S14E77    SF                3927
+
+8030       0649   0649      0649  LEA  G   RBR  245       100                   
+
+8040 +     0710   ////      0726  SVI  3   BSL  ////      0.17              3927
+
+8050 +     0730   0737      0748  G16  5   XRA  1-8A      C4.6    4.4E-03   3927
+
+8060 +     0915   0919      0931  G16  5   XRA  1-8A      C5.0    1.6E-03   3927
+8060       0917   0918      0920  SVI  3   FLA  S12E68    SF                3927
+
+8070 +     1021   1038      1057  G16  5   XRA  1-8A      M1.6    1.7E-03   3924
+8070       1030  U1034     A1053  SVI  3   FLA  S19W72    SF      ERU       3924
+
+8080       1200   ////      1200  SVI  C   RSP  025-157   III/2                 
+
+8090 +     1343   1352      1400  G16  5   XRA  1-8A      C7.1    4.8E-03   3928
+
+8100 +     1425   1432      1440  G16  5   XRA  1-8A      C7.6    5.6E-03   3928
+
+8110 +     1503   1507      1511  G16  5   XRA  1-8A      C5.9    2.3E-03   3928
+
+8120 +     1527   1534      1539  G16  5   XRA  1-8A      M3.8    1.2E-02   3928
+
+8130 +     1702   1716      1725  G16  5   XRA  1-8A      C5.9    6.1E-03       
+
+8140 +     1746   1810      1827  G16  5   XRA  1-8A      C7.2    1.4E-02   3924
+
+8150 +     1856   1900      1904  G16  5   XRA  1-8A      M1.7    4.4E-03   3928
+
+8160 +     2114   2123      2125  G16  5   XRA  1-8A      C3.1    1.4E-03   3924
+
+8220 +     2125   2133      2140  G16  5   XRA  1-8A      C3.4    3.2E-03   3924
+
+8170       2249   2249      2250  PAL  G   RBR  245       220                   
+
+8180       2257   2257      2257  PAL  G   RBR  245       320                   
+
+8190       2305   ////      2305  LEA  C   RSP  025-092   III/1                 

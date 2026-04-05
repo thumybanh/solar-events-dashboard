@@ -68,5 +68,8 @@ def download_events(start_date: str = None, end_date: str = None, goes_class: st
 
 @app.get('/scrape')
 def scrape_events(background_tasks: BackgroundTasks):
-    background_tasks.add_task(run_daily_scraper)
-    return{'status:' "success", "message:" "scraper ran successfully"}
+    try:
+        background_tasks.add_task(run_daily_scraper)
+        return {"status": "started", "message": "scraper running in background"}
+    except Exception as e:
+        return {"status": "error", "message": str(e)}

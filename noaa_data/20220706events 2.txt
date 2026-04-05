@@ -1,0 +1,46 @@
+:Product: 20220706events.txt
+:Created: 2022 Jul 09 0357 UT
+:Date: 2022 07 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jul 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5530       0000   ////      0101  PAL  C   RSP  025-152   VI/2                  
+
+5540 +     0245   ////      0246  LEA  C   RSP  025-144   III/1                 
+
+5550 +     0330   0337      0347  G16  5   XRA  1-8A      B7.5    6.8E-04   3050
+5550       0335   0336      0339  LEA  3   FLA  N17E13    SF      DSD       3050
+
+5560 +     0350   0356      0405  G16  5   XRA  1-8A      C1.2    9.2E-04   3053
+
+5570 +     0436   0443      0448  G16  5   XRA  1-8A      C1.1    7.4E-04   3053
+5570       0443   0443      0445  LEA  3   FLA  N14E76    SF      DSD       3053
+
+5580 +     0503   ////      0503  SVI  C   RSP  025-058   III/1                 
+
+5590       0603   ////      0608  SVI  C   RSP  025-080   III/1                 
+
+5620       0636   ////      0940  SVI  C   RSP  025-083   VI/2                  
+
+5600       0639   ////      0642  LEA  C   RSP  025-043   III/2                 
+
+5610       0722   ////      0722  LEA  C   RSP  025-040   III/2                 
+
+5630 +     1112   1117      1125  G16  5   XRA  1-8A      B7.0    5.2E-04       
+
+5640 +     1130   ////      1708  SVI  C   RSP  025-082   VI/1                  
+
+5650       1757   1757      1757  SAG  U   RBR  245       120                   
+
+5660       1801   ////      2232  SAG  C   RSP  025-180   VI/1                  
+5660       1820   ////      2232  PAL  C   RSP  025-075   III/1                 
+
+5670 +     2316   ////      2359  LEA  C   RSP  108-180   CTM/1                 
+5670 +     2358   ////      2359  PAL  C   RSP  025-085   III/2                 

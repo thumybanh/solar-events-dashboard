@@ -1,0 +1,57 @@
+:Product: 20230516events.txt
+:Created: 2023 May 19 0357 UT
+:Date: 2023 05 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 May 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2820 +     0242   ////      0242  PAL  C   RSP  025-049   III/1                 
+
+2830 +     0421   0431      0440  G16  5   XRA  1-8A      C1.3    9.5E-04   3305
+
+2840       0440   0444      0448  G16  5   XRA  1-8A      C1.2    6.5E-04   3305
+
+2850 +     0702   ////      0703  SVI  C   RSP  025-069   III/2                 
+
+2860 +     0718   ////      0720  SVI  C   RSP  025-056   III/1                 
+
+2870 +     0942   0954      1011  G16  5   XRA  1-8A      C2.0    2.7E-03       
+
+2880       1014   ////      1036  SVI  C   RSP  025-082   VI/1                  
+2880 +     1032   ////      1032  SVI  C   RSP  025-053   III/1                 
+
+2890 +     1115   ////      1116  SVI  C   RSP  025-057   III/1                 
+
+2900 +     1151   ////      1204  SVI  C   RSP  025-082   VI/2                  
+2900 +     1200   1214      1234  G16  5   XRA  1-8A      C4.5    6.7E-03       
+
+2910 +     1339   1343      1347  G16  5   XRA  1-8A      C1.5    7.0E-04       
+
+2920 +     1535   1542      1549  G16  5   XRA  1-8A      C1.0    8.6E-04       
+
+3110      A1614   ////     A0829  SVI  3   DSF  S28W09    8                     
+
+2930 +     1631   1643      1651  G16  5   XRA  1-8A      M9.6    5.4E-02       
+
+2950       1731   ////      1744  SAG  C   RSP  025-135   II/1    886           
+2950       1738   ////      1742  PAL  C   RSP  025-065   III/1                 
+
+2940       1738   ////      1746  SAG  C   RSP  025-052   III/2                 
+
+2960       1832   1832      1832  PAL  G   RBR  245       270                   
+
+2980       1926   1936      1946  G16  5   XRA  1-8A      C1.0    1.2E-03   3305
+
+2970       1930   1930      1931  PAL  G   RBR  245       100                   
+
+2990       1958   2010      2028  G16  5   XRA  1-8A      C1.5    2.5E-03   3305
+
+3000       2130   2149      2211  G16  5   XRA  1-8A      C1.9    3.5E-03   3305
+
+3010       2220   2242      2321  G16  5   XRA  1-8A      C2.4    6.8E-03       

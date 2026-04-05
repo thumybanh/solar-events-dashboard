@@ -1,0 +1,45 @@
+:Product: 20220325events.txt
+:Created: 2022 Mar 28 0357 UT
+:Date: 2022 03 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Mar 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2920 +     0227   0245      0259  G16  5   XRA  1-8A      C2.6    2.7E-03       
+2920 +     0238   ////      0240  LEA  C   RSP  025-180   III/2                 
+2920       0239   0239      0239  LEA  G   RBR  245       200                   
+2920       0242   0242      0242  LEA  G   RBR  610       89                    
+2920       0243   0243      0244  LEA  G   RBR  2695      40                    
+2920       0243   0243      0243  LEA  G   RBR  4995      28                    
+2920       0243   0243      0244  LEA  G   RBR  1415      21                    
+
+2930 +     0437   0442      0446  G17  5   XRA  1-8A      B9.0    4.5E-04       
+
+2940       0502   0526      0550  G17  5   XRA  1-8A      M1.4    2.6E-02   2974
+2940 +     0510   0522      0637  LEA  2   FLA  S21E36    1F                2974
+2940 +     0514   ////      0517  LEA  C   RSP  025-180   II/2    959       2974
+2940       0517   ////      0533  LEA  C   RSP  025-180   VI/2              2974
+2940       0517   0518      0520  LEA  G   RBR  610       210               2974
+2940 +     0521   ////      0543  LEA  C   RSP  075-180   IV/2              2974
+2940       0522   ////      0525  SVI  C   RSP  025-082   III/1             2974
+2940 +     0522   0522      0522  LEA  G   RBR  245       100               2974
+
+2950       0618   ////      0636  LEA  U   RSP  071-180   CTM/1                 
+
+2960 +     1025   1041      1104  G16  5   XRA  1-8A      B8.3    1.7E-03       
+2960       1028   ////      1031  SVI  C   RSP  025-081   III/1                 
+
+2970 +     1414   1419      1423  G16  5   XRA  1-8A      B5.8    2.8E-04   2974
+
+2980 +     1545   1553      1558  G16  5   XRA  1-8A      B5.5    3.4E-04   2974
+
+2990 +     1858   1906      1910  G16  5   XRA  1-8A      B8.0    3.7E-04   2976
+2990       1906   1906      1910  HOL  3   FLA  N12E49    SF      DSD       2976
+
+3000       2336   2336      2336  LEA  G   RBR  245       170                   

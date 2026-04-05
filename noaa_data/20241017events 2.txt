@@ -1,0 +1,71 @@
+:Product: 20241017events.txt
+:Created: 2024 Oct 20 0357 UT
+:Date: 2024 10 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Oct 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 570       0114   0114      0114  PAL  G   RBR  245       120                   
+
+ 580 +     0212   0222      0238  G16  5   XRA  1-8A      M1.0    1.0E-02   3856
+ 580       0225   ////      0227  LEA  C   RSP  025-180   III/1                 
+ 580       0226   0226      0226  LEA  G   RBR  245       100                   
+ 580       0227   0227      0227  PAL  G   RBR  410       150                   
+
+ 590       0246   0246      0247  LEA  G   RBR  245       150                   
+
+ 600       0334   ////      0334  LEA  C   RSP  025-136   III/1                 
+
+ 610 +     0453   0505      0513  G16  5   XRA  1-8A      M2.4    1.7E-03   3852
+ 610       0500   0501      0503  LEA  G   RBR  8800      450               3852
+ 610       0501   0505      0515  LEA  3   FLA  S10W53    SF                3852
+ 610       0501   0501      0503  LEA  G   RBR  4995      230               3852
+ 610       0501   0501      0502  LEA  G   RBR  15400     270               3852
+ 610       0501   0501      0502  LEA  G   RBR  1415      130               3852
+ 610       0501   0501      0502  LEA  G   RBR  2695      160               3852
+ 610       0501   0501      0501  LEA  G   RBR  410       100               3852
+
+ 620 +     0540   0546      0600  G16  5   XRA  1-8A      C3.9    4.2E-03   3855
+
+ 630       0612   0614      0614  LEA  G   RBR  245       120                   
+
+ 640 +     0644   ////      0644  LEA  C   RSP  025-180   III/1                 
+
+ 650 +     0727   ////      0728  LEA  C   RSP  025-180   III/2                 
+ 650       0727   0727      0727  LEA  G   RBR  245       140                   
+
+ 660       0729   ////      0730  LEA  C   RSP  025-180   III/2                 
+ 660       0730   0730      0730  LEA  G   RBR  245       140                   
+
+ 670 +     0801   0808      0816  G16  5   XRA  1-8A      C4.0    3.0E-03   3856
+
+ 680 +     1025   1033      1040  G16  5   XRA  1-8A      C2.5    2.0E-03   3852
+ 680       1030   1030      1030  SVI  G   RBR  245       120                   
+
+ 690       1335   1335      1335  SVI  G   RBR  245       110                   
+
+ 700       1344   1344      1345  SVI  G   RBR  610       660                   
+
+ 750 +     1359   ////      1755  SAG  C   RSP  113-180   CTM/1                 
+
+ 710 +     1407   1427      1433  G16  5   XRA  1-8A      C6.6    5.3E-03   3860
+
+ 730 +     1540   1548      1553  G16  5   XRA  1-8A      C2.6    1.9E-03   3856
+
+ 740 +     1623   1632      1636  G16  5   XRA  1-8A      C3.2    1.8E-03   3860
+
+ 760       1841   ////      1900  SAG  C   RSP  124-180   CTM/1                 
+
+ 770       2049   2050      2050  PAL  G   RBR  245       120                   
+
+ 780       2052   ////      2054  PAL  C   RSP  025-063   III/1                 
+
+ 790 +     2102   2112      2118  G16  5   XRA  1-8A      C5.4    3.0E-03   3860
+
+ 800 +     2354   0001      0007  G16  5   XRA  1-8A      C2.1    1.3E-03   3852

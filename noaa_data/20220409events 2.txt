@@ -1,0 +1,25 @@
+:Product: 20220409events.txt
+:Created: 2022 Apr 12 0357 UT
+:Date: 2022 04 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Apr 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6260 +     0607   0617      0630  G16  5   XRA  1-8A      B6.5    8.0E-04   2983
+
+6270 +     0720   0733      0740  G16  5   XRA  1-8A      C1.0    8.9E-04   2978
+
+6280 +     1116   1124      1133  G16  5   XRA  1-8A      C4.7    4.5E-03   2978
+6280 +     1121   ////      1121  SAG  C   RSP  025-053   III/1                 
+
+6290 +     1312   ////      1313  SAG  C   RSP  025-045   III/1                 
+
+6300 +     1440   ////      1440  SAG  C   RSP  025-180   III/2                 
+
+6310 +     1852   1900      1905  G16  5   XRA  1-8A      C1.1    7.0E-04   2978

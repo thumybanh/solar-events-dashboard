@@ -1,0 +1,44 @@
+:Product: 20221116events.txt
+:Created: 2022 Nov 19 0357 UT
+:Date: 2022 11 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4660 +     0328   0333      0337  G16  5   XRA  1-8A      C1.6    9.5E-04       
+
+4670 +     0527   0538      0544  G16  5   XRA  1-8A      C3.4    2.5E-03   3140
+
+4680 +     0648   0701      0717  G16  5   XRA  1-8A      C2.3    2.0E-03   3140
+
+4690      B0808  U0818     A0821  SVI  3   FLA  N23W63    SF                3145
+4690 +     0813   0816      0821  G16  5   XRA  1-8A      C2.8    1.2E-03   3145
+
+4700 +     0835   0842      0850  G16  5   XRA  1-8A      C1.8    1.5E-03   3145
+4700       0842   0843      0900  SVI  3   FLA  N23W63    SF                3145
+
+4830      A0856   ////     A2307  LEA  2   DSF  S29W32    8                     
+
+4710       0901  U0904     A0911  SVI  3   FLA  N23W63    SF                3145
+
+4720      B0959  U1003     A1039  SVI  2   FLA  N24W64    SF                3145
+
+4730 +     1121   1130      1142  G16  5   XRA  1-8A      C2.6    2.8E-03   3145
+
+4740 +     1251   1259      1306  G16  5   XRA  1-8A      C2.0    1.7E-03   3141
+
+4750 +     1308   ////      1308  SAG  C   RSP  025-075   III/1                 
+
+4760       1329   1329      1329  SAG  U   RBR  410       65                    
+
+4770 +     1330   1330      1330  SVI  G   RBR  245       120                   
+
+4780 +     2144   ////      2228  LEA  C   RSP  117-180   CTM/1                 
+
+4790 +     2303   2307      2315  G16  5   XRA  1-8A      C1.8    1.3E-03   3140

@@ -1,0 +1,53 @@
+:Product: 20260103events.txt
+:Created: 2026 Jan 06 0357 UT
+:Date: 2026 01 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jan 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7270 +     0127   0137      0152  G18  5   XRA  1-8A      C2.9    3.6E-03   4324
+7270       0136   0142      0148  LEA  3   FLA  N25W11    SF      ERU       4324
+
+7280 +     0606   0619      0637  G18  5   XRA  1-8A      C2.3    4.2E-03   4324
+
+7300 +     0637   0643      0647  G18  5   XRA  1-8A      C2.5    1.7E-03   4325
+
+7290 +     0741   0749      0755  G18  5   XRA  1-8A      C2.0    1.7E-03   4325
+
+7310 +     0838   ////      0840  SVI  C   RSP  025-180   III/2                 
+
+7320 +     0941   ////      1004  LEA  C   RSP  025-180   VI/2                  
+
+7330       1426   ////      1434  SVI  C   RSP  072-168   III/1                 
+
+7340 +     1451   1458      1507  G18  5   XRA  1-8A      C2.4    2.2E-03   4325
+7340 +     1502   ////      1503  SAG  C   RSP  025-180   III/2                 
+
+7350 +     1723   1729      1732  G18  5   XRA  1-8A      C8.3    2.8E-03   4325
+7350       1726   1727      1737  HOL  3   FLA  S07W41    SN                4325
+7350       1726   ////      1728  SAG  C   RSP  025-180   III/2             4325
+7350       1726   1726      1726  SAG  G   RBR  245       180               4325
+7350       1726   1726      1727  SAG  G   RBR  610       590               4325
+7350       1726   1727      1727  SAG  G   RBR  410       220               4325
+
+7360 +     1856   1909      1919  G18  5   XRA  1-8A      C1.7    2.3E-03   4324
+7360       1901   1901      1904  HOL  3   FLA  N26W22    SF                4324
+
+7370 +     2026   2038      2045  G18  5   XRA  1-8A      C3.5    3.2E-03   4324
+7370 +     2030   2030      2030  SAG  G   RBR  245       150               4324
+7370       2032   2035      2051  HOL  3   FLA  N28W22    SF      ERU       4324
+7370 +     2032   ////      2032  PAL  C   RSP  025-180   III/1             4324
+
+7380       2153   2153      2154  HOL  3   FLA  S13W29    SF                4325
+
+7390 +     2215   2219      2224  G18  5   XRA  1-8A      C1.7    1.0E-03   4325
+
+7400 +     2215   ////      2217  LEA  C   RSP  025-180   III/2                 
+
+7410       2334   ////      2335  LEA  C   RSP  025-154   III/2                 

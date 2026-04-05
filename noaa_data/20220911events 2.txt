@@ -1,0 +1,89 @@
+:Product: 20220911events.txt
+:Created: 2022 Sep 14 0357 UT
+:Date: 2022 09 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Sep 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 220       0003   0005      0014  LEA  3   FLA  S25E55    SF                3100
+
+ 230 +     0142   ////      0147  LEA  C   RSP  025-161   III/1                 
+
+ 240 +     0230   0237      0249  G16  5   XRA  1-8A      C1.0    1.1E-03   3099
+
+ 270       0332   ////      0639  LEA  C   RSP  110-180   CTM/1                 
+
+ 280       0454   ////      0550  SVI  C   RSP  118-152   CTM/1                 
+
+ 250       0517   0527      0535  G17  5   XRA  1-8A      C1.2    1.2E-03   3100
+
+ 260       0552   0553      0610  SVI  3   FLA  S24E51    SF      ERU       3100
+
+ 290       0652   ////      0705  SVI  C   RSP  025-080   VI/1                  
+ 290       0654   ////      0659  LEA  C   RSP  025-096   III/1                 
+
+ 300       0725   0725      0730  SVI  3   FLA  N20W14    SF                3098
+
+ 310       0735   ////      0736  SVI  C   RSP  025-081   III/1             3101
+ 310       0736   0739      0742  SVI  3   FLA  N29W61    SF                3101
+
+ 320       0757   0758      0809  SVI  3   FLA  N29W62    SF      DSD       3101
+
+ 510       0807   0818      0821  SVI  3   FLA  N20W14    SF      ERU       3098
+
+ 330       0834   0840      0847  SVI  3   FLA  N29W62    SF      ERU       3101
+
+ 340       0939   0942      0950  SVI  3   FLA  N29W62    SF      DSD       3101
+
+ 520       1003   1029      1047  SVI  3   FLA  N29W64    SF      ERU       3101
+
+ 350 +     1027   1033      1040  G16  5   XRA  1-8A      C4.7    2.6E-03   3098
+ 350 +     1030   1031      1040  SVI  3   FLA  N21W14    SF      ERU       3098
+
+ 360       1130   ////      1134  SVI  U   RSP  025-075   III/1                 
+
+ 370       1137   1144      1149  SVI  3   FLA  N29W64    SF                3101
+
+ 380       1152   1157      1202  SVI  3   FLA  N30W64    SF      ERU       3101
+
+ 390       1217   ////      1254  SAG  C   RSP  025-067   VI/1              3098
+ 390 +     1226   1233      1237  G16  5   XRA  1-8A      C4.5    2.1E-03   3098
+ 390       1229   1232      1241  SVI  3   FLA  N21W18    SF      ERU       3098
+
+ 420       1238   1238      1315  SVI  3   FLA  N20W24    SF                3094
+
+ 400 +     1257   1300      1304  SVI  3   FLA  N21W18    SF      ERU       3098
+
+ 410 +     1344   1354      1402  G16  5   XRA  1-8A      C3.5    3.1E-03   3098
+ 410 +     1349   ////      1349  SVI  C   RSP  025-082   III/1             3098
+ 410       1351   1354      1403  SVI  3   FLA  N21W18    SF      ERU       3098
+
+ 430 +     1431   1438      1450  G16  5   XRA  1-8A      C5.2    4.4E-03   3098
+ 430       1435   1436      1452  SVI  3   FLA  N20W18    SF      ERU       3098
+
+ 470       1443   1449      1547  SVI  3   FLA  N29W68    SF      ERU       3101
+
+ 440       1456   ////      1456  SVI  C   RSP  025-083   III/1             3098
+ 440       1510   1512      1517  SVI  3   FLA  N20W20    SF                3098
+ 440 +     1535   ////      1553  SVI  C   RSP  025-081   VI/1              3098
+
+ 450 +     1636   ////      1636  SAG  C   RSP  025-067   III/1                 
+
+ 460 +     1639   1650      1700  G16  5   XRA  1-8A      C4.8    4.9E-03   3098
+
+ 480 +     1804   1813      1820  G16  5   XRA  1-8A      C3.5    2.9E-03   3101
+
+ 490 +     1822   1827      1833  G16  5   XRA  1-8A      C4.7    2.7E-03   3098
+
+ 530       2203   2205      2214  HOL  3   FLA  N29W62    SF                3101
+
+ 500 +     2208   2228      2239  G16  5   XRA  1-8A      C6.1    7.1E-03   3098
+ 500       2212   2227      2251  HOL  3   FLA  N19W25    SF      DSD       3098
+
+ 540       2256   2256      2256  LEA  G   RBR  245       120                   

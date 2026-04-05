@@ -1,0 +1,63 @@
+:Product: 20240816events.txt
+:Created: 2024 Aug 19 0357 UT
+:Date: 2024 08 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Aug 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3870      B0000   ////      0041  HOL  3   FLA  N18W23    SF      ERU       3784
+
+3910       0037   0037      0050  HOL  3   FLA  S10W06    SF      ERU       3785
+
+3880 +     0252   0258      0303  G16  5   XRA  1-8A      C4.1    2.5E-03   3790
+
+3930       0402   0427      0501  G16  5   XRA  1-8A      C6.3    1.9E-02   3780
+
+3890 +     0444   ////      0452  LEA  C   RSP  025-159   III/1                 
+
+3900       0503   0510      0523  G18  5   XRA  1-8A      C5.7    6.3E-03   3790
+3900 +     0509   0515      0528  SVI  3   FLA  S11E69    SF                3790
+
+3940       0536   0558      0609  G18  5   XRA  1-8A      C6.2    1.1E-02   3780
+
+3920       0622   0622      0622  LEA  G   RBR  245       100                   
+
+3950 +     0956   1003      1009  G16  5   XRA  1-8A      C6.7    4.4E-03   3790
+3950       1000   1002      1008  SVI  3   FLA  S11E70    SF                3790
+
+3960       1105   1107      1118  SVI  3   FLA  N20W23    SF                3784
+3960 +     1108   ////      1109  SVI  U   RSP  045-065   III/1             3784
+
+3970       1149   1150      1155  SVI  3   FLA  S13W86    SF                3780
+
+3980       1208   1214      1228  SVI  3   FLA  N17W26    SF                3784
+
+3990 +     1257   ////      1305  SVI  C   RSP  025-054   III/1                 
+
+4000 +     1313   1324      1335  G16  5   XRA  1-8A      M1.3    1.4E-02   3780
+4000 +     1317   ////      1321  SAG  C   RSP  025-180   III/2                 
+
+4010 +     1359   1407      1438  HOL  3   FLA  N27E05    SF      PRB       3789
+4010       1403   ////      1433  SVI  C   RSP  025-180   VI/1              3789
+4010 +     1420   ////      1420  SAG  C   RSP  158-180   III/1             3789
+
+4020 +     1426   1427      1433  HOL  3   FLA  S09E64    SF      PRB       3790
+
+4030       1525   1525      1536  HOL  3   FLA  N15W26    SF                3784
+
+4040 +     1537   1539      1555  SVI  3   FLA  S10E67    1F                3790
+4040 +     1537   1541      1549  G16  5   XRA  1-8A      C8.1    4.9E-03   3790
+
+4050       1554   1556      1608  SVI  3   FLA  N19W25    SF                3784
+
+4060 +     1813   1821      1827  G16  5   XRA  1-8A      C4.7    3.0E-03   3786
+
+4070      B2013   2013      2016  HOL  3   FLA  S09E60    SF      ERU       3790
+
+4080 +     2208   2218      2249  G16  5   XRA  1-8A      C8.9    1.7E-02   3790

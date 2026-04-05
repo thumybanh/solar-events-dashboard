@@ -1,0 +1,85 @@
+:Product: 20230628events.txt
+:Created: 2023 Jul 01 0357 UT
+:Date: 2023 06 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jun 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5850 +     0029   0032      0039  G16  5   XRA  1-8A      C1.4    5.0E-04   3354
+
+5860       0039   0039      0039  PAL  G   RBR  245       200                   
+
+5870 +     0203   ////      0318  LEA  C   RSP  025-180   VI/2                  
+5870 +     0214   0223      0233  G16  5   XRA  1-8A      C3.3    6.1E-04       
+5870 +     0223   ////      0232  PAL  C   RSP  076-180   II/1    508           
+
+5880 +     0318   0318      0318  LEA  G   RBR  245       630                   
+5880 +     0318   0318      0318  LEA  G   RBR  410       550                   
+5880 +     0318   ////      0318  LEA  C   RSP  025-180   III/2                 
+
+5890 +     0328   0335      0344  G16  5   XRA  1-8A      C1.3    6.8E-04   3354
+5890       0330   0332      0334  LEA  3   FLA  N14E11    SF                3354
+
+5900 +     0402   0409      0415  G16  5   XRA  1-8A      C1.6    1.1E-03   3354
+
+5930       0402   ////      0816  SVI  C   RSP  115-180   CTM/1                 
+
+5910 +     0421   ////      0425  PAL  C   RSP  025-068   III/2             3354
+5910       0422   0422      0424  LEA  3   FLA  N14E11    SF                3354
+
+5920       0500   0549      0556  SVI  3   FLA  N13E09    SF      ERU       3354
+5920       0555   ////      0605  SVI  C   RSP  025-160   III/2             3354
+
+5940       0602   ////      0603  LEA  C   RSP  025-180   III/2             3354
+5940 +     0603   0603      0613  SVI  3   FLA  N16E03    SF                3354
+5940       0603   0603      0603  LEA  G   RBR  410       150               3354
+5940       0603   0603      0603  LEA  G   RBR  245       180               3354
+
+5950       0623   0635      0638  SVI  3   FLA  N12E11    SF                3354
+
+5960       0647   0648      0702  SVI  3   FLA  N12E11    SF                3354
+
+5970       0821  U0822      0825  SVI  3   FLA  N12E10    SF                3354
+
+5980 +     0826   0844      0859  G16  5   XRA  1-8A      M1.9    2.0E-02   3340
+5980 +     0832  U0840      1030  SVI  3   FLA  N20W62    2N      BPT       3340
+
+5990       0916   0916      0919  SVI  3   FLA  N12E10    SF                3354
+
+6000       0959   1000      1003  SVI  3   FLA  N12E09    SF                3354
+
+6010 +     1331   1332      1338  SVI  3   FLA  N14E05    SF                3354
+
+6020 +     1423   ////      1423  SAG  C   RSP  025-180   III/2                 
+
+6030       1506   1507      1512  SVI  3   FLA  S22W36    SF                3341
+6030 +     1509   ////      1510  SVI  C   RSP  025-083   III/1             3341
+
+6040 +     1532   ////      1534  SAG  C   RSP  025-180   III/2                 
+6040       1533   1534      1534  SVI  G   RBR  245       110                   
+
+6050       1602   ////      1603  SAG  C   RSP  025-076   III/1                 
+
+6060 +     1641   1644      1648  G16  5   XRA  1-8A      C1.8    6.9E-04       
+6060 +     1643   ////      1643  SAG  C   RSP  025-180   III/3                 
+
+6080       1759   ////      1759  SAG  C   RSP  025-060   III/1                 
+
+6070       1822   1839      1904  HOL  3   FLA  N17W02    SN      DSD       3354
+6070 +     1833   1839      1843  G16  5   XRA  1-8A      C5.4    1.5E-03   3354
+
+6090       1846   1853      1904  HOL  3   FLA  S31W12    SF                3348
+6090 +     1854   1858      1903  G16  5   XRA  1-8A      C5.0    2.0E-03   3348
+6090 +     1855   ////      1858  PAL  C   RSP  025-117   III/2             3348
+
+6100 +     1944   1951      2002  G16  5   XRA  1-8A      C1.5    1.6E-03       
+
+6110       2112   2118      2231  HOL  3   FLA  N15W01    SF                3354
+
+6120 +     2302   2312      2324  G16  5   XRA  1-8A      C1.6    2.0E-03       

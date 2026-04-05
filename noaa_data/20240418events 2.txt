@@ -1,0 +1,99 @@
+:Product: 20240418events.txt
+:Created: 2024 Apr 21 0357 UT
+:Date: 2024 04 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Apr 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2980 +     0000   ////      0341  LEA  C   RSP  025-180   VI/3                  
+
+2960       0218   0220      0225  LEA  3   FLA  S12E27    SF                3643
+
+2970 +     0232   0248      0253  G16  5   XRA  1-8A      M2.2    1.4E-02   3638
+2970       0241   0242      0253  LEA  3   FLA  S11E27    SF                3643
+2970       0244   ////      0250  PAL  C   RSP  025-180   V/3               3643
+
+2990       0338   0338      0338  PAL  G   RBR  245       190                   
+
+3000 +     0425   ////      0429  LEA  C   RSP  025-139   III/2                 
+
+3010 +     0459   0504      0508  LEA  3   FLA  S12E25    SF                3643
+3010 +     0501   ////      0551  LEA  C   RSP  025-180   VI/2              3643
+
+3020       0510   0512      0519  SVI  3   FLA  S09E19    SF                3645
+
+3030 +     0555   0609      0620  G16  5   XRA  1-8A      C7.3    9.2E-03   3645
+3030       0602   0608      0630  SVI  3   FLA  S09E19    SF                3645
+
+3050       0606   0612      0621  LEA  3   FLA  S09E20    SF                3645
+
+3070       0634   ////      0847  LEA  C   RSP  025-180   VI/2                  
+
+3040       0641   0641      0642  SVI  G   RBR  245       320                   
+
+3060 +     0717   0737      0809  G16  5   XRA  1-8A      M1.3    2.9E-02   3643
+3060       0733  U0734      0811  SVI  3   FLA  S12E23    SF                3643
+
+3080 +     0924   ////      0929  SVI  C   RSP  025-180   III/2                 
+3080 +     0926   0927      0928  SVI  G   RBR  245       580                   
+
+3090       0945   ////      0955  SVI  C   RSP  025-044   VI/1                  
+
+3100 +     1113   ////      1119  SVI  C   RSP  025-151   III/2                 
+
+3110 +     1144   1151      1156  G16  5   XRA  1-8A      C8.9    5.4E-03   3645
+
+3120 +     1237   ////      1443  SAG  C   RSP  025-180   VI/3                  
+
+3130       1351   ////      1442  SVI  C   RSP  025-180   VI/2                  
+
+3140 +     1529   ////      1535  SAG  C   RSP  025-143   III/2                 
+
+3150 +     1605   ////      1606  SVI  C   RSP  025-081   III/1                 
+
+3160 +     1616   1646      1702  G16  5   XRA  1-8A      C9.8    1.9E-02   3645
+3160       1621   1627      1731  HOL  3   FLA  S10E12    1N      DSD       3645
+3160       1647   ////      1703  SAG  C   RSP  025-180   VI/2              3645
+3160 +     1648   1648      1648  PAL  G   RBR  245       120               3645
+
+3200       1654   1705      1725  HOL  3   FLA  S16E08    SF      DSD       3638
+
+3160 +     1700   ////      1702  PAL  C   RSP  025-180   III/2             3645
+
+3170 +     1806   ////      1925  SAG  C   RSP  025-180   VI/1                  
+
+3180       1917   1921      1936  HOL  3   FLA  S12E17    SF      DSD       3647
+
+3220       1936   1958      2103  HOL  3   FLA  S12E17    1N      ERU       3647
+
+3180       1937   ////      1937  PAL  C   RSP  025-067   III/1             3647
+
+3190       1944   1945      1949  HOL  3   FLA  S07E15    SF      ERU       3645
+
+3210       1951   1953      1955  HOL  3   FLA  S08E16    SF                3645
+
+3220 +     2001   ////      2014  PAL  C   RSP  025-070   VI/1              3647
+
+3180 +     2012   2016      2021  G16  5   XRA  1-8A      M1.6    9.5E-03   3647
+
+3240       2054   ////      2144  SAG  C   RSP  025-180   VI/1                  
+
+3230       2056   ////      2120  PAL  C   RSP  025-152   VI/1                  
+
+3250       2228   ////      2230  SAG  C   RSP  025-180   III/1                 
+
+3260       2247   ////      2258  PAL  C   RSP  025-180   VI/3                  
+3260 +     2254   ////      2258  SAG  C   RSP  025-180   III/2                 
+
+3270       2259   2259      2259  PAL  G   RBR  410       260                   
+
+3280       2331   2331      2331  PAL  G   RBR  245       120                   
+3280       2331   ////      2332  PAL  C   RSP  025-180   III/2                 
+
+3290       2335   ////      2359  PAL  C   RSP  025-180   III/2                 

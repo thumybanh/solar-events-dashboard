@@ -1,0 +1,75 @@
+:Product: 20250906events.txt
+:Created: 2025 Sep 09 0357 UT
+:Date: 2025 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 100 +     0000   ////      0000  LEA  C   RSP  026-078   III/1                 
+
+ 110 +     0039   0046      0048  G18  5   XRA  1-8A      C2.4    1.3E-03       
+
+ 120       0128   ////      0156  LEA  C   RSP  025-180   VI/3                  
+ 120 +     0134   0142      0147  G18  5   XRA  1-8A      C2.3    1.8E-03   4207
+
+ 130 +     0352   0403      0406  G18  5   XRA  1-8A      C2.0    2.1E-03   4207
+
+ 150 +     0406   0414      0418  G18  5   XRA  1-8A      C3.5    2.1E-03   4202
+
+ 130       0408   ////      0408  LEA  C   RSP  025-068   III/1                 
+
+ 140       0444   0452      0458  G18  5   XRA  1-8A      C4.5    2.7E-03   4207
+
+ 160 +     0734   ////      0802  LEA  C   RSP  025-132   VI/1                  
+
+ 170 +     0819   0822      0825  G18  5   XRA  1-8A      C1.8    7.7E-04   4197
+
+ 180       0920   ////      0920  LEA  C   RSP  072-180   III/1                 
+
+ 200       0947   ////      1053  SVI  C   RSP  025-141   VI/2                  
+
+ 190 +     1030   1041      1044  G18  5   XRA  1-8A      C4.9    2.4E-03   4197
+
+ 210 +     1156   ////      1156  SVI  C   RSP  025-180   III/2                 
+
+ 220 +     1350   ////      1406  SVI  C   RSP  025-098   VI/2                  
+
+ 230       1430   1430      1431  HOL  3   FLA  S13E34    SF                4213
+
+ 240 +     1438   1441      1451  HOL  3   FLA  N28W14    SF                4207
+
+ 250       1455   1501      1502  HOL  3   FLA  N27W17    SF      ERU       4207
+ 250 +     1456   ////      1522  SAG  C   RSP  025-180   VI/1              4207
+
+ 260 +     1502   1506      1510  SAG  G   RBR  410       580                   
+
+ 270       1516   1517      1524  HOL  3   FLA  S13E34    SF                4213
+
+ 290       1533   ////      1548  HOL  3   DSF  N26W27    7                 4206
+
+ 300       1623   ////      1627  SAG  C   RSP  025-050   III/1                 
+
+ 280       1640   1641      1645  HOL  3   FLA  N28W15    SF                4207
+
+ 310       1658   1658      1658  PAL  G   RBR  245       110                   
+
+ 320       1703   ////      1703  PAL  C   RSP  125-180   III/1                 
+
+ 330       1738   1738      1738  PAL  G   RBR  610       130                   
+
+ 340       1739   1739      1739  PAL  G   RBR  410       110                   
+
+ 350 +     1849   1854      1856  G18  5   XRA  1-8A      C6.5    3.2E-03   4207
+ 350       1852   1854      1901  HOL  3   FLA  N29W16    SB      BPT       4207
+
+ 360       2023   ////      2023  PAL  C   RSP  025-139   III/1                 
+
+ 370 +     2207   2215      2217  G18  5   XRA  1-8A      M1.2    4.1E-03   4207
+
+ 380       2342   ////      2359  PAL  C   RSP  025-180   VI/2                  

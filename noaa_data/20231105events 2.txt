@@ -1,0 +1,50 @@
+:Product: 20231105events.txt
+:Created: 2023 Nov 08 0357 UT
+:Date: 2023 11 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Nov 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8860       0628   ////      0713  LEA  2   EPL  ////      0.27                  
+
+8870 +     0908   ////      0909  SVI  C   RSP  025-180   III/2                 
+8870       0909   0909      0909  LEA  G   RBR  245       150                   
+
+8880 +     0948   ////      0949  LEA  C   RSP  025-180   III/2                 
+
+8890       1024   1024      1034  SVI  3   FLA  S11E22    SF                3477
+
+8900 +     1045   1053      1058  G16  5   XRA  1-8A      C1.346  1.1E-03   3480
+
+8910 +     1134   1143      1147  G16  5   XRA  1-8A      M1.8    4.9E-03   3480
+8910       1140   1143      1201  SVI  3   FLA  S09E53    1N      BPT       3480
+
+8920 +     1321   1328      1332  G16  5   XRA  1-8A      C2.1    1.3E-03   3472
+8920       1331   1335      1338  SVI  3   FLA  N20W88    SF                3472
+
+8940 +     1346   ////      1444  SAG  C   RSP  112-180   CTM/1                 
+
+8930 +     1424   1432      1436  G16  5   XRA  1-8A      M1.6    4.3E-03   3480
+8930       1431   1431      1431  SVI  G   RBR  2695      140                   
+8930       1431   1431      1431  SVI  G   RBR  4995      110                   
+8930       1431   1431      1431  SVI  G   RBR  8800      100                   
+8930       1431   1431      1431  SVI  G   RBR  15400     100                   
+
+8950 +     1733   1741      1746  G16  5   XRA  1-8A      C4.4    1.8E-03   3480
+
+8980       1942   ////      2018  SAG  C   RSP  113-152   CTM/1                 
+
+8960 +     2003   2010      2015  G16  5   XRA  1-8A      C2.5    1.3E-03   3480
+
+8970       2023   2023      2023  PAL  G   RBR  245       110                   
+
+9000       2107   2117      2120  G16  5   XRA  1-8A      C1.9    1.9E-03   3472
+
+8990       2120   2134      2138  G16  5   XRA  1-8A      C9.3    4.2E-03   3480
+8990       2132   2133      2151  HOL  3   FLA  S08E47    SF                3480

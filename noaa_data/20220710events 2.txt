@@ -1,0 +1,109 @@
+:Product: 20220710events.txt
+:Created: 2022 Jul 13 0357 UT
+:Date: 2022 07 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jul 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6560       0000   ////      0508  PAL  C   RSP  025-059   VI/1                  
+6560       0000   ////      0943  LEA  C   RSP  025-180   CTM/2                 
+
+6530       0030   ////      0031  LEA  C   RSP  025-045   III/2                 
+
+6540       0320   0329      0339  LEA  3   FLA  S16E32    SF                3055
+
+6770       0404   ////      1545  SVI  C   RSP  025-180   CTM/2                 
+
+6550 +     0433   0439      0443  G16  5   XRA  1-8A      C1.6    8.6E-04   3051
+6550 +     0435   0439      0446  SVI  3   FLA  N28W36    SF      ERU           
+
+6570 +     0446   0454      0504  G16  5   XRA  1-8A      C1.6    1.6E-03   3051
+6570 +     0451   0454      0501  SVI  3   FLA  N28W36    SF      ERU           
+
+6580       0740   0740      0740  LEA  G   RBR  245       140                   
+
+6590       0757   0759      0809  SVI  3   FLA  S17E29    SF      ERU       3055
+
+6600       0820   0827      0829  SVI  3   FLA  S17E29    SF      ERU       3055
+
+6620       0913   0914      0918  SVI  3   FLA  S18E28    SF      ERU       3055
+
+6610 +     0916   0924      0928  G16  5   XRA  1-8A      C2.9    1.3E-03   3051
+
+6630       0919   0920      0922  SVI  3   FLA  S18E28    SF      ERU       3055
+
+6610       0922   0925      0934  SVI  3   FLA  N29W39    SF      ERU       3051
+
+6640       0924   0926      0929  SVI  3   FLA  S18E28    SF      ERU       3055
+
+6650       0948   ////      1544  SAG  C   RSP  025-167   CTM/1                 
+
+6660 +     1149   1153      1158  G16  5   XRA  1-8A      C2.5    1.2E-03   3056
+6660       1151   1154      1201  SVI  3   FLA  S19E73    SF      ERU           
+
+6670       1202   1203      1204  SVI  3   FLA  S19E73    SF      ERU           
+
+6680       1206   1253      1311  SVI  3   FLA  S19E73    SF      ERU           
+6680 +     1219   ////      1812  SVI  C   RSP  025-180   VI/1                  
+
+6690 +     1317   1327      1355  SVI  3   FLA  S19E72    1F      ERU           
+6690 +     1318   1329      1335  G16  5   XRA  1-8A      C2.8    2.4E-03   3056
+
+6700 +     1355   1403      1409  G16  5   XRA  1-8A      C4.1    2.7E-03   3056
+6700 +     1356   1402      1433  SVI  3   FLA  S19E70    1F      ERU           
+
+6710       1427   1430      1435  SVI  3   FLA  S18E27    SF      ERU       3055
+
+6720 +     1439   1440      1441  SVI  3   FLA  S19E71    SF      ERU       3056
+
+7010       1440   1441      1444  SVI  3   FLA  S18E27    SF      ERU       3055
+
+7020       1441   1501      1540  SVI  3   FLA  S19E70    SF      ERU       3056
+
+6730 +     1506   1513      1524  G16  5   XRA  1-8A      C2.7    2.6E-03   3056
+
+6740       1530   1531      1537  SVI  3   FLA  S18E26    SF      ERU       3055
+
+6780       1541   1542      1554  SVI  3   FLA  S18E26    SF      ERU       3055
+
+6750       1551   1641      1651  SVI  3   FLA  S19E69    SF      ERU       3056
+
+6760       1602   1603      1604  SVI  3   FLA  N15E20    SF      ERU       3053
+
+6830       1653   1702      1714  SVI  3   FLA  S19E69    SF      ERU       3056
+
+6790       1659   1725      1734  SVI  3   FLA  N15E12    SF      ERU       3053
+
+7030 +     1706   ////      1827  HOL  3   EPL  ////      0.22                  
+
+6800       1716   1740      1747  SVI  3   FLA  S19E68    SF      ERU       3056
+6800 +     1746   1753      1803  G16  5   XRA  1-8A      C2.6    2.4E-03   3056
+
+6810 +     1805   1811      1815  G16  5   XRA  1-8A      C4.2    2.1E-03   3056
+
+6930       1820   ////      2359  PAL  C   RSP  025-180   VI/2                  
+
+6820 +     1921   1930      1937  G16  5   XRA  1-8A      C2.0    1.7E-03   3056
+
+6840 +     2019   2026      2036  G16  5   XRA  1-8A      C2.0    1.9E-03   3056
+
+6850 +     2042   2045      2049  G16  5   XRA  1-8A      C2.2    9.2E-04   3056
+
+6870 +     2105   2113      2119  G16  5   XRA  1-8A      C1.8    1.1E-03   3056
+6870       2109   2109      2109  PAL  G   RBR  2695      170                   
+
+6880       2119   2125      2130  G16  5   XRA  1-8A      C2.0    1.3E-03   3056
+
+6890 +     2158   2202      2208  G16  5   XRA  1-8A      C2.9    1.5E-03   3056
+
+6900 +     2208   2216      2220  G16  5   XRA  1-8A      C3.4    2.0E-03   3056
+
+6940       2315   ////      2359  LEA  C   RSP  055-180   CTM/1                 
+
+6920 +     2330   2343      2352  G16  5   XRA  1-8A      M1.3    8.7E-03   3056

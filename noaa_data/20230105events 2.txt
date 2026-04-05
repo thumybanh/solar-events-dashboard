@@ -1,0 +1,52 @@
+:Product: 20230105events.txt
+:Created: 2023 Jan 08 0357 UT
+:Date: 2023 01 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jan 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6520 +     0000   ////      0028  LEA  C   RSP  025-180   VI/2                  
+
+6530       0118   0121      0123  LEA  3   FLA  S19E27    SF                3181
+
+6540 +     0242   0249      0257  G16  5   XRA  1-8A      C2.6    2.2E-03   3177
+
+6550 +     0343   0352      0400  G16  5   XRA  1-8A      C2.2    1.9E-03   3182
+
+6560       0434   ////      0435  LEA  C   RSP  025-153   III/1                 
+
+6570 +     0506   0513      0521  G16  5   XRA  1-8A      C2.6    2.0E-03   3182
+
+6580       0530   ////      0531  LEA  C   RSP  025-165   III/1                 
+
+6590       0724   ////      0839  SVI  C   RSP  025-074   VI/1              3180
+
+6640       0742   0914      0948  G16  5   XRA  1-8A      C6.8    2.9E-02   3182
+
+6590       0812   0812      0817  SVI  3   FLA  N17E11    SF                3180
+
+6600       1147   1149      1153  SVI  3   FLA  N18W03    SF                3180
+
+6610       1300   1300      1313  SVI  3   FLA  S19E27    SF                3181
+
+6620       1525   1525      1525  SAG  U   RBR  410       160                   
+
+6630       1604   ////      1605  SAG  C   RSP  025-068   III/2                 
+
+6650       1906   1915      1925  G18  5   XRA  1-8A      C1.7    1.9E-03   3182
+
+6660       2052   ////      2052  PAL  C   RSP  025-180   III/1                 
+
+6670       2123   ////      2359  PAL  C   RSP  025-063   VI/1              3181
+6670 +     2208   ////      2212  PAL  C   RSP  025-180   III/2             3181
+6670 +     2211   2222      2232  G16  5   XRA  1-8A      C2.1    2.3E-03   3181
+6670      B2223   2223      2237  HOL  3   FLA  S24E22    SF      ERU       3181
+
+6680 +     2247   2257      2306  G16  5   XRA  1-8A      C2.4    2.3E-03   3183
+6680       2252   2256      2338  LEA  3   FLA  S18W07    SF                3183

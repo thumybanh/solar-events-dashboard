@@ -1,0 +1,50 @@
+:Product: 20250120events.txt
+:Created: 2025 Jan 23 0357 UT
+:Date: 2025 01 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jan 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6760 +     0018   0026      0032  G16  5   XRA  1-8A      C4.3    1.8E-03   3959
+
+6770       0137   ////      0146  PAL  C   RSP  025-180   III/2                 
+
+6780       0733   0733      0733  SVI  G   RBR  245       100                   
+
+6790 +     0829   0837      0842  G16  5   XRA  1-8A      C5.0    3.0E-03   3968
+
+6800       0915   ////      0924  SVI  C   RSP  025-180   III/1                 
+
+6820       1103   ////      1128  SVI  C   RSP  025-180   VI/1                  
+
+6810 +     1114   1119      1123  G16  5   XRA  1-8A      C4.3    1.8E-03   3968
+
+6830 +     1206   1213      1218  G16  5   XRA  1-8A      C2.7    1.2E-03   3968
+
+6840 +     1307   1315      1319  G16  5   XRA  1-8A      C6.3    2.7E-03   3968
+
+6850 +     1451   ////      1454  SVI  C   RSP  116-180   III/1                 
+
+6860       1525   ////      1525  SAG  C   RSP  127-166   III/1                 
+
+6870 +     1623   1627      1633  G16  5   XRA  1-8A      C2.8    1.6E-03   3968
+
+6880       1907   1909      1913  HOL  3   FLA  S18W79    SF                3968
+
+6890       1943   1943      1947  HOL  3   FLA  S17W82    SF                3968
+
+6900       2045   ////      2049  PAL  C   RSP  025-085   III/1                 
+
+6910       2108   2109      2114  HOL  3   FLA  S16W82    SF                3968
+
+6920       2155   2155      2156  PAL  G   RBR  245       150                   
+
+6930       2229   2229      2242  HOL  3   FLA  S07W09    SF      DSD       3961
+
+6940       2353   2353      2353  PAL  G   RBR  245       110                   

@@ -1,0 +1,27 @@
+:Product: 20231203events.txt
+:Created: 2023 Dec 06 0357 UT
+:Date: 2023 12 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Dec 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4280 +     0754   0806      0813  G18  5   XRA  1-8A      C4.0    3.5E-03   3494
+
+4330      A1013   ////     A2214  LEA  3   DSF  S11E09    0                 3505
+
+4290 +     1418   1436      1453  G18  5   XRA  1-8A      C2.8    4.8E-03   3492
+
+4300 +     1948   1955      1959  G18  5   XRA  1-8A      C1.3    6.8E-04   3510
+
+4310       2038   ////      2046  PAL  C   RSP  025-180   III/2                 
+
+4320 +     2227   2237      2242  G18  5   XRA  1-8A      C2.7    1.6E-03   3500
+
+4340       2316   ////      2329  LEA  C   RSP  025-180   VI/2                  
+4340       2317   ////      2329  PAL  C   RSP  025-180   III/2                 

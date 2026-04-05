@@ -1,0 +1,44 @@
+:Product: 20240611events.txt
+:Created: 2024 Jun 14 0357 UT
+:Date: 2024 06 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jun 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 630 +     0306   0329      0351  G16  5   XRA  1-8A      C9.0    1.9E-02   3697
+ 630       0311   ////      0312  LEA  C   RSP  025-115   III/1                 
+ 630       0344   ////      0353  LEA  C   RSP  091-180   CTM/1                 
+
+ 640 +     0429   0443      0459  G16  5   XRA  1-8A      C9.1    1.3E-02   3697
+
+ 650       0537   ////      0610  SVI  C   RSP  075-148   CTM/1                 
+
+ 660 +     0840   ////      0841  SVI  C   RSP  039-150   III/1                 
+
+ 670 +     1303   1303      1305  SVI  3   FLA  S16W02    SF                3707
+
+ 680 +     1351   1416      1424  G16  5   XRA  1-8A      C2.7    6.7E-04   3697
+
+ 730       1424   1440      2145  G16  5   XRA  1-8A      C3.5    8.6E-03   3697
+
+ 690 +     1638   ////      1639  SAG  C   RSP  025-151   III/2                 
+ 690       1638   ////      1639  SVI  C   RSP  025-180   IV/2                  
+
+ 700       1723   ////      1723  SAG  C   RSP  025-039   III/1                 
+
+ 710       1745   1746      1754  HOL  3   FLA  S12E29    SF      DSF       3711
+
+ 720 +     2145   2201      2218  G16  5   XRA  1-8A      C2.7    4.7E-03   3711
+ 720       2151   2157      2221  HOL  3   FLA  S11E27    SF                3711
+
+ 760       2233   ////      2317  PAL  C   RSP  025-074   VI/2                  
+
+ 740 +     2251   ////      2255  PAL  C   RSP  030-055   II/1    528           
+
+ 750       2315   2318      2328  HOL  3   FLA  S15W06    SF      PRB       3707

@@ -1,0 +1,71 @@
+:Product: 20251019events.txt
+:Created: 2025 Oct 22 0357 UT
+:Date: 2025 10 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Oct 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 380       0018   ////      0020  PAL  C   RSP  025-041   III/2                 
+
+ 390       0133   ////      0307  LEA  C   RSP  025-180   VI/2                  
+ 390       0143   ////      0146  PAL  C   RSP  025-180   III/2                 
+
+ 300 +     0146   0156      0204  G18  5   XRA  1-8A      M1.0    8.5E-03   4246
+
+ 400       0423   ////      0901  LEA  C   RSP  025-180   VI/2                  
+
+ 310 +     0428   0434      0439  G18  5   XRA  1-8A      C2.8    2.0E-03   4246
+
+ 410       0600   ////      0902  SVI  C   RSP  025-180   VI/2                  
+
+ 320 +     0749   0802      0815  G18  5   XRA  1-8A      C4.7    6.1E-03   4246
+
+ 420       1018   ////      1033  SVI  C   RSP  025-083   VI/1                  
+
+ 430 +     1119   ////      1144  SVI  C   RSP  025-180   VI/2                  
+
+ 330 +     1226   1242      1304  G18  5   XRA  1-8A      C2.6    5.6E-03   4256
+ 330 +     1232   ////      1235  SVI  C   RSP  025-180   III/2                 
+ 330 +     1234   1234      1234  SVI  G   RBR  245       510                   
+ 330       1256   ////      1327  SVI  C   RSP  025-180   VI/2                  
+
+ 340 +     1334   1342      1346  G18  5   XRA  1-8A      C2.9    2.0E-03   4246
+
+ 440       1402   1402      1402  SAG  G   RBR  245       120                   
+
+ 450       1417   1417      1417  SAG  G   RBR  245       100                   
+
+ 460       1434   1434      1434  SAG  G   RBR  245       110                   
+
+ 470       1446   1446      1447  SAG  G   RBR  245       120                   
+
+ 560 +     1450   1543      1953  SAG  G   RNS  245       400                   
+
+ 480       1451   1451      1453  SVI  G   RBR  245       180                   
+
+ 490       1505   1506      1506  SVI  G   RBR  245       100                   
+
+ 350 +     1608   1613      1619  G18  5   XRA  1-8A      C2.4    1.7E-03   4246
+
+ 500       1732   1732      1732  PAL  G   RBR  245       110                   
+
+ 510 +     1759   ////      1913  SAG  C   RSP  025-180   VI/2                  
+
+ 360 +     1815   1822      1827  G18  5   XRA  1-8A      C3.7    2.7E-03   4246
+ 360 +     1819   1819      1819  SAG  G   RBR  410       140                   
+
+ 370 +     2003   2015      2026  G18  5   XRA  1-8A      M1.8    1.5E-02   4246
+
+ 520       2130   2130      2131  PAL  G   RBR  245       180                   
+
+ 530       2134   2134      2134  PAL  G   RBR  245       110                   
+
+ 540       2145   2145      2145  PAL  G   RBR  245       160                   
+
+ 550 +     2244   2252      2306  G18  5   XRA  1-8A      C3.0    3.9E-03       

@@ -1,0 +1,68 @@
+:Product: 20230929events.txt
+:Created: 2023 Oct 02 0357 UT
+:Date: 2023 09 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3180       0054   ////      0121  LEA  C   RSP  025-093   VI/1                  
+
+3190       0301   ////      0305  LEA  C   RSP  044-166   III/1                 
+
+3200 +     0308   0317      0327  G16  5   XRA  1-8A      C1.7    1.7E-03   3445
+
+3210       0546   0547      0550  LEA  1   FLA  S19E55    SF      UMB       3450
+
+3220       0814   0814      0814  LEA  G   RBR  245       150                   
+
+3240       0833   0833      0841  LEA  G   RNS  245       210                   
+
+3230       1007   1008      1010  SVI  3   FLA  S20E54    SF                3450
+
+3250       1137   1145      1205  G16  5   XRA  1-8A      C1.5    2.4E-03       
+
+3260       1301   1316      1344  G16  5   XRA  1-8A      C1.9    4.4E-03       
+3260 +     1329   ////      1331  SAG  C   RSP  025-180   III/2                 
+
+3270       1448   1449      1453  SVI  3   FLA  S20E52    SF                3450
+
+3280       1523   ////      1530  SAG  C   RSP  025-156   III/1                 
+
+3290       1714   1725      1732  G16  5   XRA  1-8A      C2.3    1.1E-03       
+
+3300       1811   1824      1839  G16  5   XRA  1-8A      C7.5    8.5E-03       
+3300       1824   1825      1900  HOL  3   FLA  N17E79    SF                    
+
+3340       1825   1825      1829  HOL  3   FLA  S13W56    SF      ERU       3445
+
+3310 +     1900   ////      1902  SAG  C   RSP  025-180   III/1                 
+
+3360       1907   ////      2004  SAG  C   RSP  113-152   CTM/1                 
+
+3320       1915   1916      1924  HOL  3   FLA  N15E79    SF                    
+
+3350       1917   1919      1924  HOL  3   FLA  N17E08    SF      DSD       3449
+
+3330       1950   1950      1958  HOL  3   FLA  N15E79    SF                3449
+3330       1958   2008      2022  G16  5   XRA  1-8A      C5.0    5.6E-03   3449
+3330 +     2010   ////      2014  SAG  C   RSP  025-157   III/1             3449
+
+3400       2013   2019      2032  HOL  3   FLA  N14E10    SF      DSD       3449
+
+3370       2045   ////      2045  SAG  C   RSP  025-063   III/1                 
+
+3380 +     2125   ////      2128  PAL  C   RSP  025-180   III/2                 
+
+3390       2149   2158      2205  G16  5   XRA  1-8A      C1.8    1.6E-03       
+
+3410       2217   2228      2238  G16  5   XRA  1-8A      C3.9    3.5E-03   3449
+
+3420       2256   2301      2304  LEA  3   FLA  N15E76    SF                    
+3420       2301   ////      2359  LEA  C   RSP  025-180   VI/2                  
+3420       2303   ////      2312  PAL  C   RSP  025-073   III/1                 

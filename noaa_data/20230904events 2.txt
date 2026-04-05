@@ -1,0 +1,58 @@
+:Product: 20230904events.txt
+:Created: 2023 Sep 07 0357 UT
+:Date: 2023 09 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6380 +     0101   ////      0101  LEA  C   RSP  025-083   III/2                 
+
+6390       0232   0233      0239  LEA  3   FLA  S06W05    SF      DSD       3417
+
+6400 +     0357   0402      0847  G16  5   XRA  1-8A      C1.3    5.9E-04       
+
+6410       0435   0443      0447  G18  5   XRA  1-8A      C2.0    1.1E-03   3421
+6410       0440   0442      0445  LEA  3   FLA  N14E14    SF                3421
+
+6420       0550   ////      0551  SVI  U   RSP  038-084   III/1                 
+
+6430       0656   ////      0657  SVI  U   RSP  039-072   III/1                 
+
+6440       0806   0808      0816  LEA  3   FLA  N17E70    SF                3423
+
+6450       0847   0854      0902  G16  5   XRA  1-8A      C1.5    1.3E-03       
+
+6460 +     0940   0940      0945  SVI  3   FLA  N17E73    SF                3423
+
+6480 +     1031   1106      1139  G16  5   XRA  1-8A      C6.6    1.8E-02   3413
+
+6470       1036   1038      1042  SVI  3   FLA  N15E10    SF                3421
+
+6490 +     1248   1254      1301  G16  5   XRA  1-8A      C1.9    1.4E-03   3421
+6490       1252   1253      1258  SVI  3   FLA  N15E09    SF                3421
+
+6500 +     1334   1349      1404  G16  5   XRA  1-8A      C2.4    3.6E-03       
+
+6510       1403   1408      1424  G16  5   XRA  1-8A      C2.1    2.4E-03   3422
+6510 +     1406   1414      1420  SVI  3   FLA  N16E28    SF                3422
+
+6670      A1600   ////     A0540  SVI  3   DSF  N15E71    19                    
+
+6520       1603   1604      1608  HOL  3   FLA  S09W08    SF      DSD       3417
+
+6530       1704   ////      1705  PAL  C   RSP  025-074   III/1                 
+6530 +     1705   1718      1729  G16  5   XRA  1-8A      C1.4    2.2E-03   3421
+
+6540 +     1729   1737      1749  G16  5   XRA  1-8A      C1.5    1.9E-03       
+
+6550 +     1911   1920      1927  G16  5   XRA  1-8A      C1.3    1.1E-03   3417
+
+6560 +     2039   ////      2039  PAL  C   RSP  025-071   III/1                 
+
+6570       2144   2146      2149  HOL  3   FLA  N24E04    SF                3418

@@ -1,0 +1,40 @@
+:Product: 20220423events.txt
+:Created: 2022 Apr 26 0357 UT
+:Date: 2022 04 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Apr 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8530 +     0232   0240      0247  G16  5   XRA  1-8A      C1.1    9.6E-04   2993
+
+8540 +     0552   0604      0613  G16  5   XRA  1-8A      C1.9    1.8E-03   2993
+8540       0601   0603      0610  LEA  3   FLA  N22W02    SF                2993
+
+8550 +     0658   0707      0715  G16  5   XRA  1-8A      C1.5    1.4E-03   2993
+8550 +     0703   0706      0718  SVI  3   FLA  N16W01    SF      ERU       2993
+
+8560       0800   0804      0808  SVI  3   FLA  N16W01    SF      ERU       2993
+
+8570       0951   0952      0953  SVI  3   FLA  N19W07    SF      ERU       2993
+
+8580 +     1605   1613      1619  G16  5   XRA  1-8A      C1.3    9.8E-04   2994
+
+8590       1627   1627      1627  PAL  G   RBR  245       210                   
+
+8600 +     1918   1942      1953  G16  5   XRA  1-8A      C2.5    4.0E-03   2994
+8600       1924   1924      1924  PAL  G   RBR  8800      180               2994
+8600       1939   1940      1948  HOL  2   FLA  N19W11    SF      ERU       2994
+
+8610       2024   2024      2026  PAL  G   RBR  8800      270                   
+
+8620 +     2045   2053      2101  G16  5   XRA  1-8A      C1.2    1.1E-03   2994
+
+8630 +     2143   2149      2156  G16  5   XRA  1-8A      C1.4    9.9E-04   2993
+
+8640 +     2343   2354      0005  G16  5   XRA  1-8A      C1.5    1.9E-03   2993

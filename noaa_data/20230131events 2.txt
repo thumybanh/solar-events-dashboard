@@ -1,0 +1,44 @@
+:Product: 20230131events.txt
+:Created: 2023 Feb 03 0357 UT
+:Date: 2023 01 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jan 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4940       0345   ////      0354  LEA  C   RSP  025-180   III/2                 
+
+4950 +     0652   0658      0704  G18  5   XRA  1-8A      C1.1    7.7E-04       
+4950       0656   0657      0657  LEA  G   RBR  245       200                   
+4950 +     0657   ////      0657  LEA  C   RSP  025-180   III/1                 
+
+4960       0904   ////      0904  SVI  C   RSP  025-057   III/1                 
+
+4970 +     1046   1100      1107  G18  5   XRA  1-8A      C4.8    3.7E-03   3207
+4970       1053  U1105      1114  SVI  3   FLA  S12E73    SF                3207
+
+4980 +     1255   1303      1312  G18  5   XRA  1-8A      B9.8    6.0E-04   3207
+4980       1301   1302      1314  SVI  3   FLA  S11E68    SF                3207
+
+4990 +     1517   1528      1544  G18  5   XRA  1-8A      C1.3    1.9E-03   3206
+
+5000 +     1612   1616      1629  G18  5   XRA  1-8A      C3.1    2.6E-03   3207
+5000       1613   1624      1649  HOL  3   FLA  S12E70    SF      YSR       3207
+
+5010 +     1814   1820      1824  G18  5   XRA  1-8A      C1.3    7.6E-04   3204
+5010       1816   1817      1823  HOL  3   FLA  N26W71    SF      DSD       3204
+
+5040       1818   1820      1822  HOL  3   FLA  S12E68    SF                3207
+
+5020 +     1921   1930      1936  G18  5   XRA  1-8A      C2.4    1.4E-03   3207
+5020       1928   1928      1938  HOL  3   FLA  S12E67    SF      ERU       3207
+
+5030       1941   1942      1945  HOL  3   FLA  S11E64    SF                3207
+
+5050 +     2205   2210      2215  G18  5   XRA  1-8A      C1.5    7.8E-04   3207
+5050       2207   2208      2211  HOL  3   FLA  S12E62    SF      ERU       3207

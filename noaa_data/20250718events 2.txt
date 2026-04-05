@@ -1,0 +1,59 @@
+:Product: 20250718events.txt
+:Created: 2025 Jul 21 0357 UT
+:Date: 2025 07 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7990       0130   0130      0130  PAL  G   RBR  245       100                   
+
+8000 +     0139   0139      0139  LEA  G   RBR  245       100                   
+
+8020 +     0149   0232      0232  LEA  G   RNS  245       170                   
+
+8010 +     0335   0342      0348  G18  5   XRA  1-8A      C2.2    1.6E-03   4136
+
+8030       0434   ////      0454  SVI  C   RSP  119-154   CTM/1                 
+
+8040       0618   ////      0618  SVI  C   RSP  025-058   III/1                 
+
+8050       0700   0714      0723  G19  5   XRA  1-8A      C2.2    2.9E-03   4136
+
+8060 +     0738   ////      0738  SVI  C   RSP  025-083   III/2                 
+
+8070       0752   0752      0752  LEA  U   RBR  245       220                   
+
+8080 +     0805   0813      0817  G18  5   XRA  1-8A      C3.5    1.9E-03   4136
+8080       0809   0810      0820  SVI  3   FLA  N22W42    SF      ERU       4136
+
+8090 +     0856   0911      0928  G18  5   XRA  1-8A      C2.2    3.9E-03   4136
+
+8100       0940   0942      0943  LEA  G   RBR  245       170                   
+
+8110 +     1242   1251      1258  G18  5   XRA  1-8A      C2.1    2.3E-03   4136
+8110       1247   1250      1252  SVI  3   FLA  N24W40    SF                4136
+
+8120       1254   1256      1259  SVI  3   FLA  N24W41    SF                4136
+
+8130 +     1258   1309      1315  G18  5   XRA  1-8A      C2.4    2.6E-03   4136
+
+8150       1301   1314      1336  SVI  3   FLA  N24W41    SF                4136
+
+8140       1311   1320      1324  HOL  3   FLA  N23W42    SF                4136
+
+8160 +     1625   1639      1659  G18  5   XRA  1-8A      C2.1    4.0E-03   4136
+
+8170       1710   ////      1711  SAG  C   RSP  025-050   III/1                 
+
+8180       1916   ////      1917  PAL  C   RSP  025-180   III/1                 
+8180       1916   ////      1950  SAG  C   RSP  025-165   VI/1                  
+
+8190       1943   1943      1943  SAG  U   RBR  245       100                   
+
+8200       2035   2037      2046  HOL  3   FLA  N24W45    SF      DSD       4136

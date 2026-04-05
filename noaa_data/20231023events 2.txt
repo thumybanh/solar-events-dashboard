@@ -1,0 +1,27 @@
+:Product: 20231023events.txt
+:Created: 2023 Oct 26 0357 UT
+:Date: 2023 10 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7480 +     0658   0709      0722  G16  5   XRA  1-8A      C1.4    1.5E-03   3468
+7480 +     0703   0709      0747  SVI  3   FLA  S10W12    SF      ERU       3468
+
+7490       0922   ////      1007  SVI  3   EPL  ////      0.2     B.9A          
+
+7500       1249  U1249     A1256  SVI  3   FLA  S10W14    SF                3468
+
+7510       1315   1315      1322  SVI  3   FLA  S09W15    SF                3468
+
+7520      B1741   1742      1747  HOL  3   FLA  S08W18    SF                3468
+
+7530       1915   ////      1915  PAL  C   RSP  025-049   III/1                 
+
+7540 +     1947   1958      2005  G16  5   XRA  1-8A      C2.3    1.5E-03   3468

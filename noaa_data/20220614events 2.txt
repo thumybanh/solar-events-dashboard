@@ -1,0 +1,83 @@
+:Product: 20220614events.txt
+:Created: 2022 Jun 17 0357 UT
+:Date: 2022 06 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jun 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 610 +     0337   ////      0359  LEA  C   RSP  025-180   VI/1                  
+ 610 +     0344   0400      0413  G16  5   XRA  1-8A      C3.5    4.5E-03       
+ 610       0358   ////      0358  PAL  C   RSP  025-180   III/2                 
+
+ 620 +    B0440  U0444      0459  SVI  3   FLA  S13W41    SF                3031
+
+ 630       0504   0520      0523  SVI  3   FLA  S14W44    SF                    
+ 630 +     0517   0540      0557  G16  5   XRA  1-8A      C4.8    8.8E-03       
+
+ 640       0648   0649      0653  SVI  3   FLA  N21E31    SF                3032
+
+ 650 +     0840   0841      0843  SVI  3   FLA  N21E31    SF                3032
+ 650 +     0845   0852      0858  G16  5   XRA  1-8A      C1.3    1.1E-03   3032
+
+ 660 +     0920   0921      0936  SVI  3   FLA  S28E07    SF                3031
+ 660 +     0937   0944      0956  G16  5   XRA  1-8A      C1.7    1.0E-03   3031
+
+ 670       1058   1112      1129  G16  5   XRA  1-8A      C2.2    1.9E-03   3030
+ 670       1112   1117      1126  SVI  3   FLA  S14W44    SF                3030
+ 670       1129   1132      1142  G16  5   XRA  1-8A      C2.8    2.1E-03   3030
+ 670       1130   1132      1205  SVI  3   FLA  N20E17    SF                3030
+
+ 680       1148   1149      1152  SVI  3   FLA  S13W48    SF      DSD           
+
+ 690 +     1250   ////      1258  SVI  C   RSP  025-054   III/1                 
+
+ 710       1312   1313      1321  SVI  3   FLA  S13W48    SN      DSD       3036
+
+ 700 +     1319   1326      1332  G16  5   XRA  1-8A      C8.5    4.0E-03   3031
+ 700       1323   1325      1340  SVI  3   FLA  S28E05    SF                3031
+
+ 720 +     1404   ////      1405  SVI  C   RSP  025-082   III/1                 
+
+ 730 +     1411   1420      1426  G16  5   XRA  1-8A      C8.6    5.1E-03   3031
+ 730       1416   1417      1437  SVI  3   FLA  S28E05    SN                3031
+ 730       1417   1417      1417  SVI  G   RBR  8800      140               3031
+ 730       1417   1417      1417  SVI  G   RBR  15400     100               3031
+ 730       1425   1427      1431  HOL  3   FLA  S21W51    SF      ERU       3036
+ 730       1426   1428      1431  SVI  3   FLA  S14W48    SF                3036
+
+ 760       1544   ////      1551  SAG  C   RSP  025-180   III/1                 
+
+ 740       1544   ////      1552  SVI  C   RSP  025-084   III/1                 
+
+ 750 +     1556   1602      1619  G16  5   XRA  1-8A      C1.3    1.8E-03   3036
+ 750       1600   1605      1609  HOL  3   FLA  S20W52    SF      DSD       3036
+
+ 770       1707   1710      1718  SVI  3   FLA  S28E05    SF                3031
+
+ 780 +     1734   1744      1759  G16  5   XRA  1-8A      C3.9    4.2E-03   3033
+ 780       1742   1750      1813  HOL  3   FLA  N13E43    SF      ERU       3033
+
+ 790 +     1827   1842      1853  G16  5   XRA  1-8A      C2.2    3.0E-03   3031
+ 790       1838   ////      1912  SAG  C   RSP  025-066   VI/1                  
+
+ 800       2146   2146      2148  SAG  U   RBR  410       110                   
+
+ 810 +     2204   ////      2213  PAL  C   RSP  025-063   III/1                 
+ 810       2211   2211      2211  PAL  U   RBR  245       100                   
+
+ 820       2244   2244      2244  SAG  U   RBR  245       4200                  
+ 820       2244   2244      2244  SAG  U   RBR  410       7500                  
+ 820       2244   2244      2244  SAG  U   RBR  610       48                    
+ 820       2244   ////      2244  PAL  C   RSP  109-180   III/1                 
+
+ 830 +     2259   ////      2307  SAG  C   RSP  025-066   III/1             3030
+ 830       2307   2311      2317  HOL  3   FLA  N17E11    SF      DSD       3030
+
+ 840 +     2321   2324      2328  G16  5   XRA  1-8A      C2.5    8.6E-04   3036
+ 840       2322   2322      2333  HOL  3   FLA  S19W58    SF      ERU       3036

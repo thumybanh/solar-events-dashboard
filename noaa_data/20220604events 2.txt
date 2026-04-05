@@ -1,0 +1,32 @@
+:Product: 20220604events.txt
+:Created: 2022 Jun 07 0357 UT
+:Date: 2022 06 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jun 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9710 +     0028   0040      0055  G16  5   XRA  1-8A      B4.2    5.7E-04       
+
+9790      A0112   ////     A1249  HOL  2   DSF  N40E28    10                    
+
+9720 +     0115   0126      0140  G16  5   XRA  1-8A      B5.1    6.5E-04       
+
+9730       0202   ////      0202  PAL  C   RSP  025-063   III/1                 
+
+9740       0650   ////      0650  SVI  C   RSP  025-082   III/1                 
+
+9760       1033   ////      1033  SVI  C   RSP  025-079   III/1                 
+
+9770 +     1621   1622      1622  SVI  G   RBR  245       120                   
+
+9780 +     1729   1802      1834  G16  5   XRA  1-8A      B7.0    2.2E-03   3024
+
+9800       2146   2146      2146  PAL  G   RBR  245       110                   
+
+9810 +     2350   0004      0014  G16  5   XRA  1-8A      B3.1    4.1E-04   3028

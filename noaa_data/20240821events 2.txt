@@ -1,0 +1,83 @@
+:Product: 20240821events.txt
+:Created: 2024 Aug 24 0357 UT
+:Date: 2024 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5250 +     0000   ////      0257  LEA  C   RSP  025-180   VI/2                  
+
+5240 +     0037   0043      0047  G16  5   XRA  1-8A      C4.0    2.6E-03   3789
+
+5460      A0045   ////     A1336  HOL  3   DSF  S30E12    27                    
+
+5260 +     0241   0241      0241  LEA  G   RBR  245       240                   
+
+5270       0342   ////      0426  LEA  C   RSP  025-159   VI/2                  
+
+5360       0536   ////      0959  LEA  C   RSP  025-120   VI/2                  
+
+5280 +     0541   0541      0544  LEA  3   FLA  S02E41    SF                3796
+5280 +     0553   0602      0611  G16  5   XRA  1-8A      M1.1    9.7E-03   3796
+5280       0554   ////      1039  SVI  C   RSP  025-180   VI/2              3796
+
+5290       0651   0653      0703  SVI  3   FLA  S03E39    SF                3796
+
+5300 +     0944   0951      0956  G16  5   XRA  1-8A      C4.7    2.9E-03   3784
+
+5320       1022   ////      1039  SAG  C   RSP  025-076   VI/1                  
+
+5490       1120   ////      2323  SAG  C   RSP  025-156   VI/2                  
+
+5340       1126   ////      1127  SVI  C   RSP  025-142   III/1                 
+
+5330      B1136  U1138     A1146  SVI  3   FLA  S10E12    SF      ERU       3790
+
+5350       1201  U1202      1205  SVI  3   FLA  S09E01    SF                3790
+
+5390       1221   ////      1728  SVI  C   RSP  025-180   VI/2                  
+
+5370       1228  U1233      1256  SVI  3   FLA  N22E09    SF      ERU       3793
+
+5420 +     1403   ////      1549  SVI  3   DSF  N09E07    10                    
+
+5380 +     1417   1424      1431  G16  5   XRA  1-8A      C3.8    3.0E-03   3799
+5380       1422   1422      1425  HOL  3   FLA  S10E72    SF                    
+
+5400 +     1524   1527      1528  HOL  3   FLA  S03E37    SF      ERU       3796
+
+5430 +     1608   1632      1746  G16  5   XRA  1-8A      C8.8    4.0E-02   3784
+
+5440       1709   1709      1714  HOL  3   FLA  N20W17    SF      ERU       3794
+
+5410       1727   1727      1727  PAL  G   RBR  245       100                   
+
+5500       1748   ////      2349  PAL  C   RSP  025-180   VI/2                  
+
+5450       1809   1810      1848  HOL  3   FLA  S03E36    SF      ERU       3796
+
+5470       2020   2020      2020  PAL  G   RBR  245       100                   
+
+5480       2032   2034      2035  PAL  G   RBR  15400     1900                  
+
+5570 +     2139   2147      2159  G16  5   XRA  1-8A      C5.3    1.2E-03       
+
+5510       2143   2143      2143  PAL  G   RBR  245       730               3796
+5510       2145   2206      2315  HOL  3   FLA  S03E31    2N      PRB       3796
+5510       2159   2208      2217  G16  5   XRA  1-8A      M5.1    3.3E-02   3796
+5510       2204   2204      2207  PAL  G   RBR  8800      250               3796
+5510       2204   2205      2208  PAL  G   RBR  4995      230               3796
+5510       2205   2207      2210  PAL  G   RBR  1415      920               3796
+
+5520       2237   2237      2238  PAL  G   RBR  245       2900                  
+
+5530       2242   2244      2246  PAL  G   RBR  15400     1800                  
+
+5540 +     2319   2319      2319  PAL  G   RBR  410       160                   
+5540       2319   ////      2359  LEA  C   RSP  025-180   VI/1                  

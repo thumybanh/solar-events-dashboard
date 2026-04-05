@@ -1,0 +1,50 @@
+:Product: 20220303events.txt
+:Created: 2022 Mar 06 0357 UT
+:Date: 2022 03 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Mar 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9300       0000   ////      0045  LEA  C   RSP  127-180   CTM/1                 
+9300       0023   ////      0023  LEA  C   RSP  025-044   III/1                 
+
+9310 +     0325   0333      0337  G16  5   XRA  1-8A      B5.7    3.7E-04   2959
+9310       0328   ////      0329  LEA  C   RSP  075-107   III/1                 
+
+9320 +     0624   0635      0647  G16  5   XRA  1-8A      B6.1    7.8E-04   2960
+
+9330 +     0838   0845      0852  G16  5   XRA  1-8A      B5.6    4.1E-04   2959
+
+9340       0953   ////      0953  LEA  C   RSP  025-100   III/1                 
+
+9350       0955   ////      0955  SVI  C   RSP  025-082   III/1                 
+
+9360       1058   ////      1100  SVI  C   RSP  025-180   III/1                 
+
+9370 +     1248   ////      1249  SVI  C   RSP  025-180   III/2                 
+
+9380 +     1416   1416      1419  SVI  G   RBR  245       470                   
+9380 +     1416   ////      1423  SVI  C   RSP  025-180   III/2                 
+
+9390 +     1616   ////      1617  SAG  C   RSP  025-066   III/2                 
+
+9400 +     1627   1630      1637  G16  5   XRA  1-8A      B7.5    4.0E-04   2960
+
+9410 +     1723   1727      1734  G16  5   XRA  1-8A      B6.6    3.9E-04   2960
+
+9420       2028   2028      2029  HOL  1   FLA  S22E76    SF                2960
+
+9430 +     2039   2048      2102  G16  5   XRA  1-8A      C1.2    6.5E-04       
+
+9440       2102   2108      2113  G16  5   XRA  1-8A      C1.0    7.3E-04   2960
+
+9450 +     2144   2155      2206  G16  5   XRA  1-8A      C3.3    3.4E-03   2958
+9450       2151   ////      2154  PAL  C   RSP  025-180   III/1                 
+
+9460 +     2339   2353      0008  G16  5   XRA  1-8A      B8.4    1.2E-03       

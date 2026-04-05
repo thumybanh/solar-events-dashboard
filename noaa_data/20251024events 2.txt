@@ -1,0 +1,45 @@
+:Product: 20251024events.txt
+:Created: 2025 Oct 27 0357 UT
+:Date: 2025 10 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Oct 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1440 +     0241   0257      0306  G18  5   XRA  1-8A      C2.9    2.8E-03   4256
+1440       0248   ////      0255  LEA  C   RSP  025-180   III/2             4256
+1440       0250   0253      0303  LEA  3   FLA  S17W28    SF      DSD       4256
+
+1450 +     0510   0518      0533  G18  5   XRA  1-8A      C1.0    1.3E-03   4261
+
+1460       0806   ////      0806  LEA  C   RSP  025-180   III/2                 
+
+1470 +     0821   0827      0833  G18  5   XRA  1-8A      C1.1    8.2E-04   4267
+
+1480 +     0851   0856      0859  G18  5   XRA  1-8A      C1.3    5.9E-04   4267
+
+1540       1114   ////      1230  SVI  3   DSF  S10E36    15                    
+
+1490 +     1253   1301      1304  G18  5   XRA  1-8A      C1.5    8.0E-04   4267
+
+1550       1401   ////      1933  HOL  3   DSF  S06W01    24                    
+
+1500       1532   1532      1532  SAG  G   RBR  245       110                   
+
+1510       1756   1759      1803  HOL  3   FLA  N17E33    SF                4266
+
+1520       1833   1840      1850  G19  5   XRA  1-8A      C1.3    1.3E-03   4256
+1520 +     1833   1833      1833  SAG  G   RBR  245       120               4256
+1520       1834   ////      1837  SAG  C   RSP  113-180   III/1             4256
+1520       1838   1840      1848  HOL  3   FLA  S15W35    SF      PRB       4256
+
+1530 +     2000   2004      2009  G18  5   XRA  1-8A      C1.4    7.8E-04   4267
+
+1560 +     2058   ////      2058  PAL  C   RSP  025-080   III/2                 
+
+1570       2303   ////      2304  LEA  C   RSP  025-052   III/2                 

@@ -1,0 +1,79 @@
+:Product: 20250121events.txt
+:Created: 2025 Jan 24 0357 UT
+:Date: 2025 01 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jan 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6950 +     0035   0041      0046  G16  5   XRA  1-8A      C2.2    8.4E-04   3968
+
+6960       0142   0142      0142  PAL  G   RBR  245       240                   
+
+6970 +     0223   0226      0230  G16  5   XRA  1-8A      C3.6    1.3E-03   3968
+
+6980       0349   0349      0349  PAL  G   RBR  245       140                   
+
+6990 +     0351   0358      0403  G16  5   XRA  1-8A      C2.9    1.7E-03   3968
+6990       0352   ////      0352  LEA  C   RSP  025-180   III/2                 
+
+7000       0427   ////      0429  LEA  C   RSP  025-140   III/2                 
+
+7010 +     0518   0520      0524  G16  5   XRA  1-8A      C2.6    9.8E-04   3965
+
+7020 +     0727   ////      0729  LEA  C   RSP  025-180   III/2                 
+7020       0727   0727      0727  SVI  G   RBR  245       170                   
+
+7030 +     0743   ////      0744  SVI  C   RSP  060-180   III/2                 
+
+7040 +     0820   ////      0822  SVI  C   RSP  075-180   III/2                 
+
+7050 +     0917   ////      0945  SVI  C   RSP  025-180   VI/1                  
+
+7060 +     1008   1039      1100  G16  5   XRA  1-8A      M3.3    6.5E-02   3967
+7060      B1015  U1047     A1052  SVI  3   FLA  S19E23    SF      ERU       3967
+7060       1019   ////      1134  SVI  C   RSP  025-180   VI/2              3967
+7060 +     1027   ////      1036  LEA  C   RSP  025-135   II/2    565       3967
+7060       1047   ////      1053  LEA  C   RSP  053-180   III/1             3967
+
+7070       1113   1113      1113  SVI  G   RBR  245       470                   
+
+7080       1129   ////      1131  SVI  C   RSP  038-180   III/3                 
+7080       1130   1130      1131  SVI  G   RBR  245       230                   
+
+7090       1219   ////      1220  SVI  C   RSP  075-180   III/2                 
+
+7100 +     1356   ////      1400  SVI  C   RSP  032-180   III/2                 
+7100       1357   1357      1357  SAG  U   RBR  245       120                   
+
+7110       1400   ////      1400  SAG  C   RSP  160-180   III/1                 
+
+7120       1608   1612      1617  HOL  3   FLA  N16W38    SF                3959
+
+7130       1618   1618      1622  HOL  3   FLA  S11W20    SF      DSD       3961
+
+7140       1627   1627      1633  HOL  3   FLA  S06W18    SF      ERU       3961
+
+7150       1641   ////      1642  SAG  C   RSP  112-180   III/1                 
+
+7160       1712   1712      1714  HOL  3   FLA  N16W39    SF                3959
+
+7170       1722   1722      1722  SAG  U   RBR  245       2500                  
+7170       1722   ////      1723  SAG  C   RSP  060-180   III/2                 
+
+7180       1736   ////      1740  SAG  C   RSP  025-180   III/2             3961
+7180       1736   1737      1740  HOL  3   FLA  S08W25    SF      DSD       3961
+7180 +     1740   1740      1740  PAL  G   RBR  245       210               3961
+
+7200       2023   2023      2023  PAL  G   RBR  410       120                   
+
+7210 +     2024   2024      2024  PAL  G   RBR  245       230                   
+
+7220       2223   2223      2223  PAL  G   RBR  245       190                   
+
+7230       2244   2245      2246  PAL  G   RBR  245       230                   

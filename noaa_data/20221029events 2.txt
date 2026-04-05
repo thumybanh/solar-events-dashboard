@@ -1,0 +1,53 @@
+:Product: 20221029events.txt
+:Created: 2022 Nov 01 0357 UT
+:Date: 2022 10 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1150       0000   ////      0312  PAL  C   RSP  080-180   CTM/1                 
+
+1140       0205   ////      0205  PAL  C   RSP  025-180   III/1                 
+
+1160       0424   0424      0424  LEA  G   RBR  245       110                   
+
+1190       0544   ////      1313  SVI  C   RSP  025-180   CTM/1                 
+
+1170       0637   ////      0637  SVI  C   RSP  025-083   III/1                 
+
+1180       0741   ////      0750  SVI  C   RSP  029-083   III/1                 
+
+1200       0836   ////      0841  SVI  C   RSP  025-083   III/1                 
+
+1210       0939   ////      1021  SVI  C   RSP  025-082   VI/1                  
+1210 +     0949   0956      1003  G16  5   XRA  1-8A      C1.9    1.3E-03   3130
+
+1220 +     1024   1032      1040  G16  5   XRA  1-8A      C1.1    9.5E-04   3135
+
+1260 +     1051   1226      1340  SVI  G   RNS  245       440                   
+
+1230       1139   ////      1353  SAG  C   RSP  025-180   CTM/1                 
+
+1240       1412   ////      1454  SVI  C   RSP  068-180   CTM/1                 
+
+1250 +     1545   1553      1603  G16  5   XRA  1-8A      B9.3    8.9E-04   3130
+
+1280       1729   ////      1931  SAG  C   RSP  113-155   CTM/1                 
+
+1270       1849   1849      1849  SAG  U   RBR  245       100                   
+
+1290       1858   1914      1937  G17  5   XRA  1-8A      C1.1    2.4E-03   3130
+
+1300 +     2153   ////      2311  LEA  C   RSP  100-180   CTM/1                 
+1300       2203   ////      2220  PAL  C   RSP  025-053   VI/1                  
+1300       2203   ////      2220  LEA  C   RSP  025-180   III/1                 
+
+1310 +     2303   ////      2315  LEA  C   RSP  025-180   III/1                 
+
+1320 +     2343   2352      2359  G16  5   XRA  1-8A      B9.7    8.8E-04   3135

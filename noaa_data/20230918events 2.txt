@@ -1,0 +1,70 @@
+:Product: 20230918events.txt
+:Created: 2023 Sep 21 0357 UT
+:Date: 2023 09 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  10       0013   ////      0014  PAL  C   RSP  025-068   III/1                 
+
+  20 +     0056   0104      0109  G16  5   XRA  1-8A      C1.5    1.1E-03   3430
+
+  30       0214   ////      0215  PAL  C   RSP  025-180   III/1                 
+
+  40       0927   0935      0943  G16  5   XRA  1-8A      C1.6    6.5E-04   3425
+
+  50 +     1031   1041      1049  G16  5   XRA  1-8A      C2.6    2.3E-03   3435
+
+ 140       1054   ////      1843  SAG  C   RSP  025-180   CTM/1                 
+
+  60       1116   ////      1208  SAG  C   RSP  025-180   VI/2                  
+
+ 240       1238   ////      2153  SAG  C   RSP  025-180   VI/2                  
+
+  70 +     1251   1259      1321  G16  5   XRA  1-8A      C1.4    2.6E-03   3429
+
+ 200       1320   1338      1359  G18  5   XRA  1-8A      C1.5    3.5E-03       
+
+ 190       1321   1338      1359  G16  5   XRA  1-8A      C1.5    3.3E-03       
+
+  80 +     1444   1452      1501  G16  5   XRA  1-8A      C2.3    2.2E-03   3435
+
+  90       1502   1502      1510  HOL  3   FLA  N15E56    SF                3435
+
+ 100 +     1542   1554      1610  G16  5   XRA  1-8A      C1.8    2.8E-03   3436
+
+ 250       1707   ////      2315  PAL  C   RSP  025-075   VI/1                  
+
+ 110       1725   1725      1734  HOL  3   FLA  N20W33    SF                3436
+
+ 120 +     1735   1743      1753  G16  5   XRA  1-8A      C2.0    1.8E-03   3436
+ 120       1739   1744      1752  HOL  3   FLA  N20W33    SF      DSD       3436
+
+ 130       1756   1759      1805  HOL  3   FLA  N20W33    SF      DSD       3436
+
+ 150 +     1810   1820      1827  G16  5   XRA  1-8A      C1.8    2.2E-03   3436
+
+ 220       1827   1832      1836  G16  5   XRA  1-8A      C1.9    9.3E-04   3436
+
+ 160       1838   ////      1847  PAL  C   RSP  025-075   CTM/1                 
+
+ 170 +     1935   1946      1954  G16  5   XRA  1-8A      C2.4    7.2E-04   3436
+ 170       1940   1953      1955  HOL  3   FLA  N19W36    SF      DSD       3436
+
+ 210 +     2022   2035      2050  G16  5   XRA  1-8A      C3.8    5.1E-03   3436
+ 210       2026   2027      2035  HOL  3   FLA  N19W36    SF                3436
+ 210       2026   ////      2030  SAG  C   RSP  025-180   III/2             3436
+
+ 230       2028   2032      2052  HOL  3   FLA  N09E56    SF                3435
+
+ 180       2028   2028      2028  PAL  G   RBR  245       200                   
+
+ 260 +     2159   2206      2213  G16  5   XRA  1-8A      C3.3    2.3E-03   3436
+
+ 270 +     2320   2325      2329  G16  5   XRA  1-8A      C4.9    2.0E-03   3436

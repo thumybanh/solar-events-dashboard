@@ -1,0 +1,46 @@
+:Product: 20250603events.txt
+:Created: 2025 Jun 06 0357 UT
+:Date: 2025 06 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jun 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8080 +     0000   ////      0216  LEA  C   RSP  067-180   CTM/1                 
+
+8090 +     0158   0209      0236  G18  5   XRA  1-8A      C2.2    6.7E-04   4105
+
+8100 +     0412   0427      0435  G18  5   XRA  1-8A      C2.7    8.7E-04   4105
+
+8110       0506   0506      0506  SVI  G   RBR  410       140                   
+
+8120 +     0548   0557      0614  G18  5   XRA  1-8A      C2.1    3.3E-03   4105
+
+8140       0614   0621      0625  G18  5   XRA  1-8A      C2.3    1.7E-03   4105
+
+8150       0723   0723      0723  SVI  G   RBR  245       170                   
+
+8160       0934  U0936      0949  SVI  3   FLA  N14W28    SF      ERU       4100
+
+8170 +     1129   1136      1149  G18  5   XRA  1-8A      C1.5    1.6E-03   4105
+
+8180 +     1252   1303      1312  G18  5   XRA  1-8A      M1.4    1.2E-02   4105
+8180 +     1310   ////      1312  SAG  C   RSP  025-180   III/2                 
+
+8190       1326   1326      1326  SVI  G   RBR  245       140                   
+
+8200       1509   1510      1512  SVI  3   FLA  N09W42    SF                4100
+8200 +     1510   ////      1510  SAG  C   RSP  025-180   III/1             4100
+
+8210       1603   1604      1604  PAL  G   RBR  245       140                   
+
+8220       1912   1912      1912  SAG  U   RBR  245       360                   
+
+8240       2011   ////      0004  SAG  C   RSP  111-180   CTM/1                 
+
+8230 +     2137   2144      2147  G18  5   XRA  1-8A      C1.9    1.0E-03   4099

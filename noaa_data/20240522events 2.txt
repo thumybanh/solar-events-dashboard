@@ -1,0 +1,96 @@
+:Product: 20240522events.txt
+:Created: 2024 May 25 0357 UT
+:Date: 2024 05 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 May 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5340       0000   ////      0332  PAL  C   RSP  025-059   VI/1                  
+5340 +     0000   ////      0937  LEA  C   RSP  075-180   CTM/1                 
+
+5250       0028   0028      0028  LEA  G   RBR  245       100                   
+
+5260       0038   0039      0046  LEA  3   FLA  S05E12    SF                3686
+
+5310       0114   0114      0114  LEA  G   RBR  245       160                   
+
+5380       0118   0209      0325  LEA  G   RNS  245       280                   
+
+5320       0238   0238      0238  PAL  G   RBR  245       190                   
+
+5330 +     0302   0313      0323  G16  5   XRA  1-8A      M1.5    1.1E-02   3679
+5330       0308   0313      0334  LEA  3   FLA  S06W52    SN                3679
+
+5350 +     0338   0404      0422  G16  5   XRA  1-8A      M2.3    3.9E-02   3683
+5350       0355   ////      1756  SVI  C   RSP  025-180   CTM/1                 
+5350       0419   ////      0440  LEA  C   RSP  025-101   VI/1                  
+
+5360       0435   ////      0435  PAL  C   RSP  025-065   III/1                 
+
+5370       0442   0443      0444  SVI  3   FLA  S06W52    SF                3679
+
+5390       0605   ////      0645  SVI  C   RSP  025-086   VI/1              3682
+5390       0617   0618      0632  SVI  3   FLA  N21W33    SF      ERU       3682
+
+5550       0651   0657      0705  SVI  3   FLA  S08E52    SF                3689
+
+5400 +     0652   0704      0715  G16  5   XRA  1-8A      C3.5    4.5E-03   3679
+5400 +     0656   0702      0718  SVI  3   FLA  S06W55    SF      ERU       3679
+
+5410       0719   ////      1008  SVI  C   RSP  025-180   VI/1                  
+
+5530       0950   ////      2152  SAG  C   RSP  025-180   CTM/1                 
+
+5420       1033  U1034     A1043  SVI  3   FLA  S08W50    SF      ERU       3679
+
+5470 +     1105   ////      2016  SAG  C   RSP  025-160   VI/2                  
+
+5430 +     1130   1137      1140  G16  5   XRA  1-8A      C3.3    2.8E-03   3683
+
+5560       1140   1145      1151  G16  5   XRA  1-8A      C3.6    2.5E-03   3683
+
+5440       1259  U1300     A1311  SVI  3   FLA  N20W37    SF                3682
+
+5450 +     1351   1405      1412  G16  5   XRA  1-8A      M1.2    1.0E-02   3679
+5450 +     1355   1403      1418  HOL  3   FLA  S06W55    SF                3679
+
+5460       1434   1434      1438  HOL  3   FLA  S06W55    SF                3679
+
+5570 +     1434   1455      1517  HOL  3   FLA  S08E10    SF                3685
+5570      B1436  U1454      1543  SVI  3   FLA  S09W01    1F      ERU       3685
+
+5480       1534   ////      1756  SVI  C   RSP  025-150   VI/2              3683
+5480 +     1605   1608      1615  HOL  3   FLA  S18W79    SF                3683
+5480 +     1606   1610      1615  G16  5   XRA  1-8A      C3.1    1.6E-03   3683
+
+5580       1607   1608      1613  SVI  3   FLA  S19W85    SF                3674
+
+5740      B1628   ////     B0434  SVI  3   DSF  S45E25    36                    
+
+5490 +     1743   1744      1749  HOL  3   FLA  S08W04    SF      PRB       3685
+
+5620       1824   ////      2359  PAL  C   RSP  025-180   CTM/1                 
+
+5500       1832   ////      2016  PAL  C   RSP  025-153   VI/1                  
+5500 +     1837   1848      1851  G16  5   XRA  1-8A      C3.5    1.7E-03   3679
+5500       1844   ////      1845  SAG  C   RSP  025-154   III/1                 
+
+5590 +     1851   1857      1906  G16  5   XRA  1-8A      C7.3    5.4E-03   3683
+
+5510 +     1941   1946      1953  HOL  3   FLA  S08W57    SF      DSD       3679
+
+5520       2026   2036      2041  HOL  3   FLA  S08W54    SF                3679
+
+5540       2047   2101      2144  HOL  3   FLA  S09W06    2F      ERU       3685
+5540       2049   ////      2050  PAL  C   RSP  025-071   III/1             3685
+5540       2049   ////      2138  SAG  C   RSP  025-058   VI/1              3685
+
+5600       2114   2117      2121  HOL  3   FLA  S12W57    SF                3679
+
+5610       2220   ////      2222  PAL  C   RSP  025-075   III/2                 

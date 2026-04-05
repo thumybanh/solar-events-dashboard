@@ -1,0 +1,25 @@
+:Product: 20220515events.txt
+:Created: 2022 May 18 0357 UT
+:Date: 2022 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6270       0000   ////      0000  PAL  G   RBR  8800      150                   
+6270       0000   ////      0000  PAL  G   RBR  15400     200                   
+
+6280       0046   ////      0046  PAL  C   RSP  025-061   III/1                 
+
+6290       0413   0414      0421  LEA  3   FLA  S18E51    SF      DSD       3010
+
+6300 +     1210   1217      1223  G16  5   XRA  1-8A      C1.9    1.4E-03       
+
+6310       2023   ////      2027  PAL  C   RSP  025-055   III/1                 
+
+6320 +     2327   2341      2348  G16  5   XRA  1-8A      C2.0    2.2E-03       

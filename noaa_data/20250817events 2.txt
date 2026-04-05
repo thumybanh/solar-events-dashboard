@@ -1,0 +1,52 @@
+:Product: 20250817events.txt
+:Created: 2025 Aug 20 0357 UT
+:Date: 2025 08 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Aug 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5910 +     0111   0126      0144  G18  5   XRA  1-8A      C1.6    3.1E-03   4172
+
+5920 +     0310   0315      0320  G18  5   XRA  1-8A      C2.0    9.5E-04   4172
+
+5930 +     0401   0411      0416  G18  5   XRA  1-8A      C1.8    1.3E-03   4180
+5930       0408   0410      0414  LEA  3   FLA  S03E01    SF                4180
+
+5950       0440   ////      0441  SVI  C   RSP  025-155   III/2                 
+
+5940 +     0440   ////      0441  LEA  C   RSP  025-150   III/2                 
+
+5960 +     0451   0459      0505  G18  5   XRA  1-8A      C3.6    2.0E-03   4172
+
+5970 +     0555   0605      0611  G18  5   XRA  1-8A      C1.0    9.9E-04   4172
+
+5980 +     0610   ////      0611  LEA  C   RSP  025-127   III/2                 
+
+5990 +     0649   0705      0716  G18  5   XRA  1-8A      C1.7    2.3E-03   4172
+
+6000 +     0736   0741      0744  G18  5   XRA  1-8A      C1.4    6.3E-04   4172
+
+6010 +     0801   0806      0809  G18  5   XRA  1-8A      C1.0    5.8E-04   4172
+
+6020       0916   ////      0930  SVI  C   RSP  025-180   VI/2                  
+
+6030 +     1023   ////      1146  SVI  C   RSP  030-180   CTM/1                 
+
+6040 +     1237   ////      1237  SVI  C   RSP  025-127   III/1                 
+
+6110      A1613   ////     A0551  SVI  3   DSF  N41W17    11                    
+
+6050       1757   ////      1758  SAG  C   RSP  025-064   III/1                 
+
+6060 +     1948   1958      2002  G18  5   XRA  1-8A      C3.3    1.5E-03   4180
+6060       1957   1958      2003  HOL  3   FLA  S02W12    SF      DSF       4180
+
+6070 +     2248   ////      2248  SAG  C   RSP  025-180   III/1                 
+
+6080       2338   ////      2338  PAL  C   RSP  025-061   III/1                 

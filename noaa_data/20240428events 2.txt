@@ -1,0 +1,62 @@
+:Product: 20240428events.txt
+:Created: 2024 May 01 0357 UT
+:Date: 2024 04 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Apr 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6320       0706   ////      0730  SVI  C   RSP  025-180   VI/1                  
+6320       0712   ////      0815  LEA  C   RSP  055-174   CTM/1                 
+
+6330       0815   ////      0901  SVI  C   RSP  070-180   CTM/1                 
+
+6340       1111   1113      1119  SVI  3   FLA  S07W25    SF                3654
+
+6350 +     1212   1235      1253  G16  5   XRA  1-8A      C7.8    1.3E-02   3654
+6350 +     1221   1233      1333  SVI  3   FLA  S06W28    SF                3654
+
+6360       1305   1315      1330  HOL  3   FLA  S07W28    SF                3654
+
+6370 +     1349   ////      1352  SVI  C   RSP  025-083   III/2                 
+
+6380       1428   1436      1447  HOL  3   FLA  S11W25    SF      DSD       3654
+
+6390       1541   1541      1542  SVI  G   RBR  245       270               3654
+6390       1541   ////      1542  SAG  C   RSP  025-180   III/1             3654
+6390 +     1542   1601      1618  G16  5   XRA  1-8A      C6.3    1.1E-02   3654
+
+6400       1542   ////      1544  SVI  C   RSP  025-180   III/1                 
+
+6390 +     1554   1556      1607  HOL  3   FLA  S07W32    SF      PRB       3654
+
+6410       1637   ////      1639  SVI  C   RSP  025-150   III/2                 
+
+6420       1827   1827      1834  HOL  3   FLA  S07W31    SF      DSD       3654
+
+6430       1927   1930      1948  HOL  3   FLA  S06W33    SF      DSD       3654
+
+6450 +     2006   2020      2032  G16  5   XRA  1-8A      C8.3    8.7E-03   3654
+6450       2011   2020      2049  HOL  3   FLA  S06W35    SF      PRB       3654
+
+6440       2013   2013      2016  HOL  3   FLA  N10E53    SF                3660
+
+6450 +     2025   ////      2031  PAL  C   RSP  025-075   III/1             3654
+
+6460 +     2112   2120      2126  G16  5   XRA  1-8A      C2.4    7.1E-04   3654
+
+6500       2126   2130      2135  G16  5   XRA  1-8A      C2.5    1.4E-03   3654
+6500       2128   2130      2132  HOL  3   FLA  S06W34    SF                3654
+
+6470 +     2206   2218      2226  G16  5   XRA  1-8A      C2.6    2.8E-03   3658
+6470       2211   2213      2216  HOL  3   FLA  S22W77    SF      DSD       3658
+
+6480       2232   2235      2245  HOL  3   FLA  S07W33    SF                3654
+
+6490 +     2251   2306      2313  G16  5   XRA  1-8A      C7.7    5.5E-03   3654
+6490       2301   2303      2322  HOL  3   FLA  S08W31    SF      PRB       3654

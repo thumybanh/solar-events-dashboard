@@ -1,0 +1,61 @@
+:Product: 20240128events.txt
+:Created: 2024 Jan 31 0357 UT
+:Date: 2024 01 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jan 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5830 +     0036   ////      0040  LEA  C   RSP  025-088   III/1                 
+
+5840       0208   ////      0232  LEA  C   RSP  025-180   VII/3                 
+5840       0228   ////      0250  LEA  C   RSP  025-180   II/2    648           
+5840       0228   ////      0232  PAL  C   RSP  025-180   V/2                   
+5840       0229   0229      0229  PAL  G   RBR  410       13                    
+5840       0229   0229      0229  PAL  G   RBR  610       15                    
+5840       0229   0229      0229  PAL  G   RBR  245       68                    
+
+5850       0500   ////      0500  LEA  C   RSP  025-066   III/1                 
+
+5860       0635   ////      0636  LEA  C   RSP  025-080   III/2                 
+
+5870       0826   ////      0826  LEA  C   RSP  025-062   III/1                 
+
+5880       0904   ////      0907  LEA  C   RSP  050-133   III/1                 
+
+5900       0936   1017      1038  G16  5   XRA  1-8A      C3.3    9.3E-03       
+
+5890       0958   ////      1004  SVI  C   RSP  025-180   III/2                 
+5890       0958   ////      1018  LEA  C   RSP  025-180   VII/2                 
+
+5900       1018   ////      1018  SVI  C   RSP  048-079   III/1                 
+
+5910       1149   1157      1254  SVI  3   FLA  S13W72    SF                3557
+5910       1233   ////      1258  SVI  C   RSP  025-180   VI/2              3557
+5910 +     1237   1246      1255  G16  5   XRA  1-8A      C2.8    9.2E-04   3557
+
+5920       1317  U1317     A1413  SVI  3   FLA  S13W72    SF                3557
+
+5930 +     1518   1529      1538  G16  5   XRA  1-8A      C3.2    2.9E-03   3559
+5930       1522   1529      1548  HOL  3   FLA  N27W59    SF                3559
+
+5940 +     1552   1600      1622  G16  5   XRA  1-8A      C3.0    4.4E-03   3560
+5940       1603   ////      1605  SAG  C   RSP  025-180   III/1                 
+
+5950 +     1859   ////      1859  PAL  C   RSP  025-057   III/1                 
+
+5960       1946   ////      1947  SAG  C   RSP  111-180   III/1                 
+
+5970       2039   ////      2040  SAG  C   RSP  025-047   III/1                 
+5970       2039   ////      2100  PAL  C   RSP  025-150   VI/1                  
+
+5990       2222   ////      2222  LEA  C   RSP  025-160   III/1                 
+
+5980 +     2230   2236      2244  G16  5   XRA  1-8A      C1.5    1.2E-03   3364
+
+6000 +     2322   2334      2343  G16  5   XRA  1-8A      C3.4    3.1E-03       

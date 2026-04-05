@@ -1,0 +1,34 @@
+:Product: 20231219events.txt
+:Created: 2023 Dec 22 0357 UT
+:Date: 2023 12 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Dec 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7680       0242   0252      0256  G16  5   XRA  1-8A      C4.6    3.7E-03   3528
+7680       0245   0251      0327  LEA  3   FLA  N05E11    1N                3528
+
+7670 +     0256   0304      0309  G16  5   XRA  1-8A      C7.3    4.9E-03   3528
+7670       0257   ////      0259  LEA  C   RSP  025-150   III/1                 
+
+7690 +     0620   0638      0647  G16  5   XRA  1-8A      C3.7    4.8E-03   3528
+7690       0625   0631      0654  LEA  3   FLA  N05E09    SF                3528
+
+7700       1009   1009      1014  SVI  3   FLA  N10E09    SF                3528
+
+7710       1046   1048      1115  SVI  3   FLA  N07E06    SF                3528
+
+7720 +     1513   1539      1553  G16  5   XRA  1-8A      C7.1    7.6E-04   3529
+
+7730 +     1735   1739      1744  G16  5   XRA  1-8A      C2.7    1.3E-03   3529
+
+7740 +     2324   ////      2333  LEA  C   RSP  025-091   III/2                 
+
+7750       2341   2342      2347  G16  5   XRA  1-8A      C2.9    1.1E-03   3521
+7750       2341   2342      2347  LEA  3   FLA  N10E21    SF                3521

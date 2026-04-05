@@ -1,0 +1,46 @@
+:Product: 20250302events.txt
+:Created: 2025 Mar 05 0357 UT
+:Date: 2025 03 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Mar 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7560       0054   0102      0110  G16  5   XRA  1-8A      C1.7    1.5E-03   4011
+7560       0056   ////      0057  LEA  C   RSP  025-180   III/1                 
+
+7580       0337   0350      0358  G16  5   XRA  1-8A      C2.4    2.3E-03   4011
+7580       0340   ////      0414  LEA  C   RSP  025-180   VI/2                  
+
+7590       0408   0415      0424  G16  5   XRA  1-8A      C1.8    1.5E-03   4011
+
+7600       0549   ////      0615  LEA  C   RSP  025-180   VI/2                  
+7600       0549   ////      0553  SVI  C   RSP  034-082   III/2                 
+
+7610       0743   0751      0759  G16  5   XRA  1-8A      C1.1    1.0E-03   4011
+7610 +     0747   ////      0800  SVI  C   RSP  025-180   VI/2                  
+
+7620       0926   0938      0949  G16  5   XRA  1-8A      C2.9    2.9E-03   4011
+7620       0930   ////      0942  SVI  C   RSP  025-180   VI/2                  
+
+7630       1036   1036      1036  SVI  G   RBR  410       650                   
+
+7640       1318   1322      1328  G16  5   XRA  1-8A      C1.2    6.7E-04   4007
+
+7650       1420   1418      1427  HOL  3   FLA  S18E53    SF                4011
+
+7660 +     1818   1828      1843  G16  5   XRA  1-8A      C1.1    2.0E-03   4006
+
+7670 +     2037   2037      2037  PAL  G   RBR  245       300                   
+
+7680       2041   2051      2057  G16  5   XRA  1-8A      C1.8    1.7E-03   4006
+
+7690       2049   2108      2132  HOL  3   FLA  S09W27    SF                4007
+7690       2057   2105      2113  G16  5   XRA  1-8A      C2.4    2.1E-03   4007
+
+7700       2330   ////      2338  LEA  C   RSP  025-096   III/1                 

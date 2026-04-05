@@ -1,0 +1,63 @@
+:Product: 20241013events.txt
+:Created: 2024 Oct 16 0357 UT
+:Date: 2024 10 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Oct 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9230       0002   0003      0004  LEA  3   FLA  S07E07    SF                3852
+
+9250       0110   ////      0205  LEA  C   RSP  025-152   VI/1                  
+
+9260 +     0230   0230      0231  LEA  G   RBR  245       540                   
+
+9270 +     0234   0234      0234  LEA  G   RBR  245       100                   
+
+9280 +     0326   0333      0341  G16  5   XRA  1-8A      C3.0    2.5E-03   3849
+9280 +     0329   0329      0329  LEA  G   RBR  245       280                   
+9280 +     0329   ////      0330  LEA  C   RSP  025-180   III/3                 
+
+9290       0417   0418      0418  LEA  G   RBR  245       120                   
+
+9300       0445   0445      0445  LEA  G   RBR  245       100                   
+
+9310 +     0529   ////      0532  LEA  C   RSP  025-180   III/3                 
+
+9320       0600   0600      0600  LEA  G   RBR  245       110                   
+
+9330 +     0641   0657      0710  G16  5   XRA  1-8A      C5.7    7.6E-03   3848
+9330       0646   0647      0711  SVI  3   FLA  N18W63    SF      ERU       3848
+
+9340       0730   0731      0735  SVI  3   FLA  S06E05    SF                3854
+
+9350       0759   ////      0759  LEA  C   RSP  025-164   III/1                 
+9350       0759   ////      0735  SVI  C   RSP  134-180   VI/1                  
+
+9360       0833   ////      0850  LEA  C   RSP  039-180   VI/1                  
+
+9370       0859   0859      0859  SVI  G   RBR  245       120                   
+
+9380       0924   0924      0924  LEA  G   RBR  245       210                   
+
+9390       0925   0925      0938  SVI  3   FLA  S06E05    SF                3854
+
+9400       1436   ////      1436  SAG  C   RSP  025-046   III/1                 
+
+9410 +     1504   1516      1523  G16  5   XRA  1-8A      C2.8    2.6E-03   3849
+
+9420       1715   1715      1715  PAL  G   RBR  245       100                   
+
+9450 +     1723   1729      1749  HOL  3   FLA  S05W01    SF                3854
+
+9460       1842   1846      1852  HOL  3   FLA  N16W32    SF                3855
+
+9430 +     1929   ////      1931  PAL  C   RSP  025-074   III/2                 
+
+9440 +     2012   ////      2014  PAL  C   RSP  025-180   III/2                 
+9440       2012   2012      2013  PAL  G   RBR  245       130                   

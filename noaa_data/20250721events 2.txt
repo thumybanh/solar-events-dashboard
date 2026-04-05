@@ -1,0 +1,32 @@
+:Product: 20250721events.txt
+:Created: 2025 Jul 24 0357 UT
+:Date: 2025 07 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8480 +     0002   0009      0011  G18  5   XRA  1-8A      C5.1    2.3E-03   4143
+8480       0006   0007      0011  HOL  3   FLA  N27W61    SF      DSD       4143
+
+8490       0419   0419      0419  PAL  G   RBR  245       110                   
+
+8500       0922   0924      0925  SVI  3   FLA  N20W80    SF      DSD       4136
+
+8530       0954   ////      1341  SAG  C   RSP  025-180   VI/1                  
+8530       1041   ////      1417  SVI  C   RSP  114-180   CTM/1                 
+
+8540       1055   ////      1426  SAG  C   RSP  039-180   CTM/1                 
+
+8510       1208   1208      1208  SAG  U   RBR  245       100                   
+
+8520       1226   ////      1300  SVI  C   RSP  025-071   VI/1                  
+
+8550       1435   ////      1436  SAG  C   RSP  025-067   III/1                 
+
+8560       1733   1734      1734  PAL  G   RBR  245       150                   

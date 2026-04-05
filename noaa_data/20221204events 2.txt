@@ -1,0 +1,64 @@
+:Product: 20221204events.txt
+:Created: 2022 Dec 07 0357 UT
+:Date: 2022 12 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Dec 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7330       0000   ////      0338  PAL  C   RSP  135-180   CTM/1                 
+
+7300       0031   ////      0031  PAL  C   RSP  115-180   III/1                 
+7300       0031   0031      0031  PAL  G   RBR  245       100                   
+
+7310       0158   0158      0158  LEA  G   RBR  245       140                   
+
+7340 +     0208   0218      0244  G16  5   XRA  1-8A      C1.3    2.5E-03   3156
+
+7320       0215   0215      0215  LEA  G   RBR  245       110                   
+
+7350       0649   ////      0649  LEA  C   RSP  025-074   III/1                 
+
+7360       0656   0701      0719  LEA  3   FLA  S17E44    SF                3153
+
+7390       0810   ////      0951  SVI  C   RSP  117-180   CTM/1                 
+
+7370       0830   0830      0830  LEA  G   RBR  245       110                   
+
+7380       0844   0844      0844  LEA  G   RBR  245       190                   
+
+7390       0846   ////      0850  LEA  C   RSP  025-063   III/1                 
+7390       0907   0919      0925  G17  5   XRA  1-8A      B8.1    7.2E-04       
+
+7430       0925   0933      0938  G17  5   XRA  1-8A      B9.1    7.2E-04       
+
+7390       0934   0934      0934  LEA  G   RBR  245       300                   
+
+7400       1013   1013      1013  SVI  G   RBR  245       230                   
+
+7410      B1037  U1038     A1050  SVI  3   FLA  S15E45    SF                3153
+
+7420 +     1230   1240      1302  G16  5   XRA  1-8A      C2.0    3.2E-03   3153
+7420       1235  U1239      1244  SVI  3   FLA  S19E42    SF      ERU       3153
+7420 +     1240   ////      1405  SAG  C   RSP  113-180   CTM/1             3153
+
+7440 +     1614   1624      1637  G16  5   XRA  1-8A      C1.4    1.7E-03   3155
+
+7450 +     1653   ////      1925  SAG  C   RSP  122-180   CTM/1                 
+
+7460 +     1808   1816      1824  G16  5   XRA  1-8A      C1.5    8.5E-04   3155
+
+7480       1824   1827      1833  G16  5   XRA  1-8A      C1.7    9.2E-04   3155
+
+7470 +     1939   1939      1939  PAL  G   RBR  245       100                   
+
+7490 +     2150   2159      2204  G16  5   XRA  1-8A      C1.6    1.1E-03   3155
+7490       2153   ////      2311  LEA  C   RSP  076-180   III/1                 
+7490       2154   ////      2310  PAL  C   RSP  119-180   CTM/1                 
+
+7500       2240   ////      2240  LEA  C   RSP  069-180   III/1                 

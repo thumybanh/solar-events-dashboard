@@ -1,0 +1,104 @@
+:Product: 20241001events.txt
+:Created: 2024 Oct 04 0357 UT
+:Date: 2024 10 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Oct 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4300 +     0105   ////      0230  LEA  C   RSP  025-136   VI/2                  
+
+4350       0428   0432      0436  G18  5   XRA  1-8A      C6.7    2.8E-03   3842
+4350       0431   0434      0441  LEA  3   FLA  S15E33    SF                3842
+
+4360       0635   0640      0651  SVI  3   FLA  S13W05    SF                3843
+
+4370 +     0653   0700      0702  G16  5   XRA  1-8A      C3.9    3.3E-03   3843
+4370       0658   0712      0726  SVI  3   FLA  S13W05    SF                3843
+
+4380 +     0702   0707      0710  G16  5   XRA  1-8A      C4.3    3.8E-03   3841
+4380       0704   0706      0716  SVI  3   FLA  N14E18    SF                3841
+
+4390 +     0710   0718      0722  G16  5   XRA  1-8A      C5.2    3.4E-03   3839
+
+4400 +     0711   ////      0715  LEA  C   RSP  025-180   III/2                 
+
+4390       0715   0716      0720  SVI  3   FLA  S14E14    SF                3839
+
+4410 +     0825   ////      0828  LEA  C   RSP  025-180   III/1                 
+
+4420       1016   ////      1145  SVI  C   RSP  025-180   CTM/1                 
+
+4430       1217   1225      1233  SVI  3   FLA  S09W07    SF                3843
+
+4440 +     1250   ////      1251  SAG  C   RSP  025-046   III/1                 
+
+4450       1311   1312      1320  SVI  3   FLA  S10W52    SF                    
+
+4460 +     1322   1329      1333  G16  5   XRA  1-8A      C4.9    3.0E-03   3844
+4460       1325   1325      1335  SVI  3   FLA  S17E06    SF                3844
+
+4640       1328   1329      1333  SVI  3   FLA  S16E28    SF                3842
+
+4650       1426  U1512     A1556  SVI  3   FLA  S16E28    SF                3842
+
+4470 +     1436   ////      1436  SVI  C   RSP  125-180   III/1             3843
+4470 +     1441   1452      1456  G16  5   XRA  1-8A      M1.0    8.6E-03   3843
+4470 +     1448   1453      1504  SVI  3   FLA  S12W09    1N                3843
+
+4660       1448   1507      1547  HOL  3   FLA  S15E20    SF      DSD       3842
+4660 +     1456   1517      1526  G16  5   XRA  1-8A      C8.4    1.5E-02   3842
+
+4480       1656   1657      1702  HOL  3   FLA  S09W09    SF                3843
+
+4490 +     1746   1753      1757  G16  5   XRA  1-8A      C8.1    4.0E-03   3843
+4490       1749   1752      1759  HOL  3   FLA  S08W09    SF                3843
+
+4500       1840   1842      1849  HOL  3   FLA  S27W44    SF                3835
+
+4670       1845   1907      2016  HOL  3   FLA  S18E19    SF      DSD       3842
+
+4510 +     1852   1917      1937  G16  5   XRA  1-8A      M1.5    3.3E-02   3842
+4510       1857   1858      1858  PAL  G   RBR  245       470               3842
+
+4680       1858   1900      1907  HOL  3   FLA  S17E09    SF      DSD       3839
+
+4520       1939   1940      1940  PAL  G   RBR  245       520                   
+
+4530       2015   2016      2029  HOL  1   FLA  S18E18    SF                3842
+
+4690 +     2117   2131      2158  G16  5   XRA  1-8A      C8.7    1.7E-03   3842
+4690       2123   2125      2137  HOL  3   FLA  S18E16    SF                3842
+
+4540 +     2158   2220      2229  G16  5   XRA  1-8A      X7.1    5.2E-01   3842
+4540       2206   2220      2344  HOL  3   FLA  S16E17    2B      BPT       3842
+4540 +     2209   2214      2219  PAL  G   RBR  4995      1600    CastelliU 3842
+4540 +     2209   2214      2227  PAL  G   RBR  8800      2800    CastelliU 3842
+4540 +     2209   2214      2259  PAL  G   RBR  15400     3200    CastelliU 3842
+4540 +     2209   2213      2218  PAL  G   RBR  610       1500    CastelliU 3842
+4540 +     2209   2214      2219  PAL  G   RBR  2695      810     CastelliU 3842
+4540 +     2210   2214      2218  PAL  G   RBR  1415      650     CastelliU 3842
+4540 +     2210   2213      2216  PAL  G   RBR  410       1600    CastelliU 3842
+
+4700       2211   2213      2216  HOL  3   FLA  S16E07    SF                3839
+
+4710       2211   2214      2218  HOL  3   FLA  N11E84    SF                3848
+
+4540 +     2213   2214      2214  PAL  G   RBR  245       830     CastelliU 3842
+4540 +     2217   ////      2237  PAL  C   RSP  025-180   II/3    1246      3842
+
+4720       2220   2221      2229  HOL  3   FLA  S21W52    SF                3835
+
+4580       2235   ////      2359  LEA  C   RSP  082-180   CTM/1                 
+
+4550 +     2243   2243      2244  LEA  G   RBR  245       220                   
+
+4560 +     2305   ////      2307  PAL  C   RSP  025-180   III/2             3839
+4560       2307   2309      2312  HOL  3   FLA  S15E06    SF      DSD       3839
+
+4590 +     2337   ////      2346  LEA  C   RSP  025-180   III/2                 

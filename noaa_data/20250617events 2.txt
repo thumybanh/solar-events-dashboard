@@ -1,0 +1,87 @@
+:Product: 20250617events.txt
+:Created: 2025 Jun 20 0357 UT
+:Date: 2025 06 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jun 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1500 +     0046   ////      0046  PAL  C   RSP  025-054   III/2                 
+1500 +     0049   0053      0056  G18  5   XRA  1-8A      C4.1    2.2E-03   4113
+
+1510 +     0115   0126      0133  G18  5   XRA  1-8A      C6.8    6.6E-03   4114
+1510       0122   0127      0132  LEA  3   FLA  N18E01    SF                4114
+
+1520       0429   ////      0430  PAL  C   RSP  025-054   III/1                 
+
+1530       0441   ////      0531  SVI  C   RSP  025-075   VI/1                  
+
+1540      B0600  U0601     A0613  SVI  3   FLA  N18W04    SF      ERU       4114
+
+1600 +     0614   0621      0627  G18  5   XRA  1-8A      C9.9    5.8E-03       
+
+1550 +     0626   ////      0626  LEA  C   RSP  025-135   III/1                 
+
+1560      B0640  U0645      0659  SVI  3   FLA  N23E05    SF                4115
+
+1570       0714   0714      0714  LEA  G   RBR  245       110                   
+
+1580       0721   0724      0725  LEA  G   RBR  610       140                   
+1580       0722   0724      0727  LEA  G   RBR  245       200                   
+
+1590       0738   ////      0749  SVI  C   RSP  025-082   VI/1                  
+1590       0744   0744      0744  LEA  G   RBR  245       130                   
+1590       0745   ////      0834  SVI  C   RSP  129-180   CTM/1                 
+
+1690 +     0806   0813      0816  G18  5   XRA  1-8A      C5.5    3.4E-03       
+
+1610       0930   ////      0951  SVI  C   RSP  025-180   VI/1                  
+1610       0951   ////      0951  SAG  C   RSP  112-180   III/1                 
+
+1620       1032  U1035      1043  SVI  3   FLA  N17W06    SF                4114
+
+1630       1054  U1105      1157  SVI  3   FLA  N17W06    SF                4114
+1630 +     1056   ////      1057  SVI  C   RSP  025-155   III/2             4114
+
+1640 +     1155   ////      1155  SVI  C   RSP  067-083   III/1                 
+
+1650 +     1240   1242      1259  SVI  3   FLA  N19W05    SF                4114
+
+1660 +     1309   ////      1309  SAG  C   RSP  025-145   III/1                 
+
+1670       1313   1314      1318  SVI  3   FLA  S14E83    SF                    
+
+1680       1342   1344      1349  SVI  3   FLA  S14E83    SF                    
+
+1700 +     1401   ////      1402  SVI  C   RSP  113-155   III/1             4114
+1700       1402   1404      1427  SVI  3   FLA  N18W05    SF                4114
+
+1710       1403   1404      1422  HOL  3   FLA  N19W05    SF                4114
+
+1720 +     1549   ////      1549  SAG  C   RSP  025-050   III/1                 
+
+1730       1639   ////      1640  SAG  C   RSP  025-050   III/1                 
+
+1740       1733   ////      1800  SAG  C   RSP  025-049   VI/1              4115
+1740       1757   1759      1801  HOL  3   FLA  N21W02    SF                4115
+
+1750 +     2034   2038      2042  G18  5   XRA  1-8A      C2.3    1.2E-03   4114
+
+1760 +     2048   2059      2111  G18  5   XRA  1-8A      C3.4    3.9E-03       
+
+1770 +     2138   2149      2154  G18  5   XRA  1-8A      X1.2    5.1E-02   4114
+1770       2139   2147      2252  HOL  3   FLA  N18W12    2B      DSD       4114
+1770       2145   2147      2149  PAL  G   RBR  8800      460               4114
+1770       2146   2147      2148  PAL  G   RBR  4995      680               4114
+1770       2146   2147      2147  PAL  G   RBR  2695      200               4114
+
+1780       2203   2205      2213  HOL  3   FLA  N21E05    SF      DSD       4115
+
+1790 +     2251   ////      2254  PAL  C   RSP  025-169   III/2                 
+
+1800 +     2344   ////      0015  G18  5   XRA  1-8A      M1.5    1.9E-02   4117

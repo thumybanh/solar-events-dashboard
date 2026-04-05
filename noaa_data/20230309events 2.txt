@@ -1,0 +1,61 @@
+:Product: 20230309events.txt
+:Created: 2023 Mar 12 0357 UT
+:Date: 2023 03 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Mar 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7520 +     0044   0054      0107  G16  5   XRA  1-8A      C4.2    3.9E-03   3242
+7520       0050   0054      0104  LEA  3   FLA  N11W10    SF                3242
+
+7530 +     0114   0119      0127  G16  5   XRA  1-8A      C3.9    2.7E-03       
+
+7540       0235   0237      0243  LEA  3   FLA  S24E14    SF                3245
+
+7550 +     0624   0631      0637  G16  5   XRA  1-8A      C1.4    1.0E-03   3242
+7550 +     0630   0633      0635  LEA  3   FLA  N11W10    SF                3242
+
+7560       0830   0904      0919  G16  5   XRA  1-8A      C3.1    7.5E-03   3245
+
+7570 +     1003   1011      1026  G16  5   XRA  1-8A      C1.8    2.3E-03       
+
+7580      B1100  U1101     A1115  SVI  3   FLA  S23E07    SF                3245
+
+7590       1224  U1244      1250  SVI  3   FLA  N13W11    SF      ERU       3242
+
+7600       1251   1252      1306  SVI  3   FLA  N08W22    SF                3242
+
+7610 +     1338   1353      1402  G16  5   XRA  1-8A      C3.0    2.7E-03   3242
+7610       1343   1349      1523  SVI  3   FLA  N12W11    1F      ERU       3242
+
+7730       1402   1414      1430  G16  5   XRA  1-8A      C3.5    5.7E-03       
+
+7620       1444  U1456     A1538  SVI  3   FLA  S22E05    SF                3245
+7620 +     1450   1458      1507  G16  5   XRA  1-8A      C3.7    3.6E-03   3245
+
+7640 +     1637   1637      1637  SVI  G   RBR  610       140                   
+7640       1637   1637      1637  SAG  U   RBR  410       68                    
+
+7650       1744   1744      1755  HOL  3   FLA  S23E03    SF                3245
+
+7660 +     1810   1816      1823  G16  5   XRA  1-8A      C2.4    1.6E-03   3250
+
+7670 +     1824   1830      1836  G16  5   XRA  1-8A      C2.6    1.7E-03   3245
+
+7680 +     1959   2011      2017  G16  5   XRA  1-8A      C3.1    2.2E-03   3245
+
+7740 +     2017   2024      2032  G16  5   XRA  1-8A      C6.2    4.4E-03   3245
+
+7690 +     2056   2109      2125  G16  5   XRA  1-8A      C2.9    4.6E-03   3250
+
+7700       2250   2250      2251  LEA  G   RBR  245       190                   
+
+7710 +     2321   2331      2342  G16  5   XRA  1-8A      C3.4    3.4E-03   3252
+7710       2326   ////      2334  PAL  C   RSP  025-180   III/2                 
+7710       2330   2330      2330  LEA  G   RBR  245       110                   

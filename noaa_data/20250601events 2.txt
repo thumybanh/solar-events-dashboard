@@ -1,0 +1,72 @@
+:Product: 20250601events.txt
+:Created: 2025 Jun 04 0357 UT
+:Date: 2025 06 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jun 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7680 +     0000   ////      0002  SAG  C   RSP  036-180   CTM/1                 
+
+7690 +     0012   0018      0021  G18  5   XRA  1-8A      C4.0    1.5E-03   4099
+
+7700 +     0029   0035      0041  G18  5   XRA  1-8A      C1.7    1.2E-03   4099
+
+7710 +     0119   0125      0129  G18  5   XRA  1-8A      C1.6    9.8E-04   4099
+
+7720 +     0256   0304      0306  G18  5   XRA  1-8A      C1.5    6.4E-04   4099
+
+7820       0347   ////      1804  SVI  C   RSP  025-180   CTM/2                 
+
+7730 +     0408   ////      0409  SVI  C   RSP  025-180   III/2                 
+
+7740 +     0419   0430      0437  G18  5   XRA  1-8A      C1.8    6.0E-04   4100
+7740 +     0425   0425      0430  SVI  3   FLA  N10W08    SF                4100
+
+7750       0540   0545      0547  G18  5   XRA  1-8A      C1.8    8.7E-04   4100
+
+7760       0633   ////      0633  SVI  C   RSP  025-084   III/2                 
+
+7770       0717   0725      0728  G19  5   XRA  1-8A      C1.3    8.7E-04   4100
+
+7780       1128   ////      1134  SAG  C   RSP  045-135   II/1    840           
+
+7790       1240   1242      1247  SVI  3   FLA  N05W08    SF                4100
+
+7800 +     1434   1443      1449  G18  5   XRA  1-8A      C8.9    4.9E-03   4100
+7800 +     1438   1441      1500  HOL  3   FLA  N10W15    1B      BPT       4100
+7800 +     1439   ////      1440  SAG  C   RSP  025-180   III/2             4100
+7800 +     1440   1440      1441  SAG  U   RBR  4995      140               4100
+7800 +     1440   1440      1441  SVI  G   RBR  8800      130               4100
+7800 +     1441   1442      1442  SAG  G   RBR  410       5000              4100
+
+7810 +     1613   1622      1626  G18  5   XRA  1-8A      C3.8    1.6E-03   4100
+7810       1619   ////      1620  SAG  C   RSP  025-073   III/1             4100
+7810 +     1620   1622      1630  HOL  3   FLA  N10W14    SN      ERU       4100
+
+7910       1721   ////      2359  PAL  C   RSP  025-180   CTM/2                 
+
+7830       1731   1731      1731  SAG  U   RBR  245       110                   
+
+7840       1738   ////      1738  SAG  C   RSP  025-069   III/1                 
+
+7850       1750   1750      1750  SAG  U   RBR  245       180                   
+
+7860       1755   1755      1755  SAG  U   RBR  245       120                   
+
+7870       1758   ////      1800  PAL  C   RSP  109-180   III/1                 
+7870 +     1759   1759      1759  PAL  G   RBR  245       110                   
+
+7880 +     2053   2053      2053  PAL  G   RBR  245       100                   
+
+7890 +     2111   ////      2111  PAL  C   RSP  025-066   III/2                 
+
+7900 +     2321   2327      2330  G18  5   XRA  1-8A      C1.1    6.3E-04   4100
+7900 +     2325   2325      2326  PAL  G   RBR  245       1500              4100
+7900 +     2325   ////      2326  PAL  C   RSP  025-180   III/3             4100
+7900       2326   2326      2329  HOL  3   FLA  N09W20    SF                4100

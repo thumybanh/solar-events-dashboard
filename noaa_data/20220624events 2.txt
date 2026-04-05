@@ -1,0 +1,47 @@
+:Product: 20220624events.txt
+:Created: 2022 Jun 27 0357 UT
+:Date: 2022 06 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jun 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3100       0000   ////      0204  PAL  C   RSP  025-180   VI/2              3038
+3100       0000   ////      0248  PAL  C   RSP  025-044   CTM/2             3038
+3100 +     0009   0015      0019  G16  5   XRA  1-8A      B9.1    4.6E-04   3038
+3100       0015   0018      0041  LEA  3   FLA  N18W50    SF      DSD       3038
+
+3110 +     0457   0506      0519  G16  5   XRA  1-8A      B6.3    8.0E-04   3038
+3110       0501   0504      0519  LEA  3   FLA  N16W53    SF      DSD       3038
+
+3120       0736   ////      0737  SVI  C   RSP  025-053   III/1                 
+
+3130 +     0849   0858      0913  G16  5   XRA  1-8A      C1.5    1.6E-03   3038
+3130 +     0854   0856      0914  SVI  3   FLA  N16W57    SF      ERU       3038
+
+3140       0929   ////      0931  SVI  C   RSP  025-180   V/2                   
+3140       0929   ////      0948  SAG  C   RSP  025-150   VI/1                  
+
+3150       0938   ////      1019  SVI  C   RSP  025-055   VI/1                  
+
+3160 +     1249   1256      1300  G16  5   XRA  1-8A      B7.8    4.0E-04   3038
+3160       1252   1257      1303  HOL  3   FLA  N16W59    SF      ERU       3038
+
+3170 +     1345   ////      1420  SVI  C   RSP  025-081   VI/1                  
+
+3180 +     1627   ////      1644  SVI  C   RSP  025-083   VI/1                  
+
+3190       1830   ////      1833  SAG  C   RSP  025-047   III/1                 
+
+3200 +     1837   1844      1851  G16  5   XRA  1-8A      C1.1    8.4E-04   3035
+
+3220 +     1941   ////      2001  SAG  C   RSP  025-073   VI/1                  
+3220       2035   ////      2202  SAG  C   RSP  025-057   III/1                 
+
+3230       2201   ////      2223  PAL  C   RSP  025-051   VI/1              3035
+3230       2202   2202      2206  HOL  3   FLA  S17W84    SF                3035

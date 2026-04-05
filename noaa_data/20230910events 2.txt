@@ -1,0 +1,70 @@
+:Product: 20230910events.txt
+:Created: 2023 Sep 13 0357 UT
+:Date: 2023 09 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7940 +     0002   ////      0014  LEA  C   RSP  111-180   VI/1                  
+
+7950 +     0054   0107      0119  G16  5   XRA  1-8A      C4.7    4.7E-03   3425
+7950       0059   0103      0127  LEA  3   FLA  N27E39    SF                3425
+
+7960       0121   ////      0124  LEA  C   RSP  049-180   III/1                 
+
+7970 +     0141   0155      0210  G16  5   XRA  1-8A      C8.3    9.5E-03   3423
+7970       0147   0151      0236  LEA  3   FLA  N15W04    SF                3423
+
+7980       0242   0245      0246  LEA  3   FLA  N21W66    SF                3418
+
+7990       0300   0301      0306  LEA  3   FLA  N21W66    SF                3418
+
+8000       0419   0435      0503  G18  5   XRA  1-8A      C3.6    7.8E-03   3423
+8000 +     0425   0430      0500  LEA  3   FLA  N15W06    SF                3423
+
+8050       0427   0427      0431  LEA  3   FLA  N14W70    SF                3421
+
+8010 +     0558   0559      0603  SVI  3   FLA  N13W73    SF                3421
+
+8020 +     0609   0610      0613  SVI  3   FLA  N25E26    SF                3425
+
+8030 +     0632   0635      0642  SVI  3   FLA  N13W73    SF                3421
+
+8040       0648   0650      0657  SVI  3   FLA  N19E05    SF                3423
+
+8060       0746   0746      0752  SVI  3   FLA  N14W73    SF                3421
+
+8070       0811   0814      0820  SVI  3   FLA  N16W09    SF                3423
+
+8080       0906   0913      0920  G16  5   XRA  1-8A      C1.5    1.2E-03   3423
+8080       0910   0911      0919  SVI  3   FLA  N16W08    SF                3423
+
+8090       0956   1002      1006  SVI  3   FLA  N24E24    SF                3425
+8090       0956   ////      0958  SVI  C   RSP  025-180   III/1             3425
+8090       0957   0957      0958  LEA  G   RBR  245       280               3425
+
+8100 +     1140   1151      1202  G16  5   XRA  1-8A      C2.2    8.5E-04   3423
+
+8140       1146   1146      1150  SVI  3   FLA  N16W10    SF                3423
+
+8100       1159   1159      1203  SVI  3   FLA  N16W10    SF                3423
+
+8110       1209   ////      1209  SVI  C   RSP  155-180   III/1                 
+
+8120 +     1320   1330      1335  G16  5   XRA  1-8A      C2.2    1.7E-03   3418
+8120       1326   1329      1336  SVI  3   FLA  N18W72    SF                3418
+
+8130       1508   1516      1531  SVI  3   FLA  N26E23    SF                3425
+
+8150       1519   1521      1532  SVI  3   FLA  N16W10    SF                3423
+
+8160 +     2125   2138      2147  G16  5   XRA  1-8A      C4.0    1.3E-03   3431
+
+8170 +     2215   2226      2243  G16  5   XRA  1-8A      C3.1    4.8E-03   3423
+8170       2216   2221      2301  HOL  3   FLA  N16W16    SF      ERU       3423

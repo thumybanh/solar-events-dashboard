@@ -1,0 +1,46 @@
+:Product: 20230824events.txt
+:Created: 2023 Aug 27 0357 UT
+:Date: 2023 08 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Aug 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4630       0000   ////      0959  LEA  C   RSP  045-180   CTM/2                 
+
+4580       0004   0005      0010  LEA  3   FLA  N13E45    SF                3413
+
+4640       0435   ////      1725  SVI  C   RSP  025-180   CTM/2                 
+
+4600       0456   ////      0502  SVI  C   RSP  025-084   III/1                 
+
+4610 +     0615   ////      0749  LEA  C   RSP  025-145   VI/1              3413
+4610 +     0638   0645      0654  G16  5   XRA  1-8A      C1.4    1.1E-03   3413
+4610 +     0641   0643      0707  SVI  3   FLA  N13E41    SF                3413
+
+4710       1011   ////      2319  SAG  C   RSP  114-180   CTM/1                 
+4710       1110   ////      2319  SAG  C   RSP  025-180   VI/1                  
+
+4650       1111   ////      1544  SVI  C   RSP  025-180   VI/2                  
+
+4660       1213   1216      1228  SVI  3   FLA  N13E39    SF                3413
+
+4670 +     1551   1554      1559  G16  5   XRA  1-8A      C1.0    5.4E-04       
+
+4680 +     1756   1804      1808  G16  5   XRA  1-8A      C1.4    8.4E-04   3405
+4680       1803   1803      1805  HOL  3   FLA  N09W59    SF                3405
+
+4730       1830   ////      2359  PAL  C   RSP  025-180   VI/2                  
+
+4690 +     1940   2041      2141  G16  5   XRA  1-8A      C3.0    2.0E-02   3403
+
+4700       2150   2214      2231  G16  5   XRA  1-8A      C4.1    8.9E-03   3405
+4700       2153   ////      2359  PAL  C   RSP  025-180   CTM/1             3405
+4700       2157   2212      2252  HOL  3   FLA  N10W54    SF      DSD       3405
+
+4720       2216   2216      2306  PAL  G   RNS  245       130                   

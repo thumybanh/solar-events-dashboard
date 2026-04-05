@@ -1,0 +1,52 @@
+:Product: 20221103events.txt
+:Created: 2022 Nov 06 0357 UT
+:Date: 2022 11 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1700 +     0009   0024      0044  G16  5   XRA  1-8A      B9.2    1.8E-03   3131
+1700       0014   0014      0024  LEA  3   FLA  N24W46    SF                3131
+
+1710 +     0217   0226      0233  G16  5   XRA  1-8A      C1.0    8.3E-04   3136
+1710       0224   0226      0229  LEA  3   FLA  S06E24    SF      DSD       3136
+
+1720       0302   0307      0309  LEA  3   FLA  N24W46    SF                3131
+
+1730       0338   0340      0345  LEA  3   FLA  N25W49    SF                3131
+
+1740       0545   ////      0545  LEA  C   RSP  025-090   III/1                 
+
+1750 +     0637   0644      0651  G16  5   XRA  1-8A      B9.0    7.0E-04   3136
+
+1760       0657   0723      0752  G16  5   XRA  1-8A      C1.3    3.8E-03   3136
+1760 +     0712   0726      0744  LEA  3   FLA  S08E20    SF      ERU       3136
+
+1770       0750   0753      0805  SVI  3   FLA  N26W53    SF                3131
+
+1790 +     0751   ////      1028  SVI  3   DSF  N34W19    9                     
+
+1780 +     0836   ////      0912  LEA  C   RSP  025-117   VI/2                  
+
+1800 +     1442   1447      1451  G16  5   XRA  1-8A      B8.1    3.7E-04   3131
+
+1810       1532   ////      1532  SAG  C   RSP  025-066   III/1                 
+
+1820       1621   ////      1622  SAG  C   RSP  025-162   III/1                 
+
+1830 +     1643   1653      1703  G16  5   XRA  1-8A      B8.0    8.8E-04   3139
+
+1840 +     1719   1727      1732  G16  5   XRA  1-8A      B9.7    6.4E-04   3137
+1840       1724   ////      1724  SAG  C   RSP  025-045   III/1                 
+
+1850       2031   ////      2032  SAG  C   RSP  025-069   III/1                 
+
+1860       2111   ////      2205  HOL  3   EPL  ////      0.31                  
+
+1870       2250   2250      2252  LEA  3   FLA  S08E12    SF                3136

@@ -1,0 +1,49 @@
+:Product: 20231202events.txt
+:Created: 2023 Dec 05 0357 UT
+:Date: 2023 12 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Dec 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4100 +     0000   ////      0104  PAL  C   RSP  025-180   VI/2                  
+
+4110 +     0140   0147      0157  G18  5   XRA  1-8A      C2.7    2.7E-03   3492
+
+4120 +     0219   0225      0236  G18  5   XRA  1-8A      C2.2    2.2E-03   3492
+
+4130       0237   ////      0238  LEA  C   RSP  025-062   V/2                   
+
+4150 +     0334   0351      0401  G18  5   XRA  1-8A      C3.1    9.2E-04   3500
+4150       0338   ////      0339  LEA  C   RSP  025-180   III/3                 
+4150       0338   0338      0338  LEA  G   RBR  245       600                   
+
+4160 +     0435   0445      0502  G18  5   XRA  1-8A      C2.2    3.2E-03   3492
+
+4170       0653   0702      0717  G18  5   XRA  1-8A      C2.0    6.6E-04   3509
+
+4230 +     0717   0735      0742  G18  5   XRA  1-8A      C2.9    3.7E-03   3492
+
+4180 +     0800   ////      0801  LEA  C   RSP  025-130   III/2                 
+
+4190 +     0928   0935      0946  G18  5   XRA  1-8A      C1.7    1.7E-03   3500
+
+4200       1309   ////      1310  SVI  C   RSP  054-145   III/1                 
+
+4210 +     1621   1626      1638  G18  5   XRA  1-8A      C1.9    1.7E-03   3493
+
+4220 +     1659   ////      1740  SAG  C   RSP  025-144   VI/1                  
+
+4250       2045   ////      2045  PAL  C   RSP  042-060   III/1                 
+
+4240       2048   2049      2051  HOL  3   FLA  S21W54    SF                3500
+
+4260 +     2112   2120      2124  G18  5   XRA  1-8A      C2.6    9.6E-04   3503
+4260       2120   2121      2123  HOL  3   FLA  N23W33    SF                3503
+
+4270       2135   2135      2141  HOL  3   FLA  S18W52    SF                3500

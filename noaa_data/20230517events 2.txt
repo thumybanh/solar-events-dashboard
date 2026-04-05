@@ -1,0 +1,60 @@
+:Product: 20230517events.txt
+:Created: 2023 May 20 0357 UT
+:Date: 2023 05 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 May 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3050       0135   ////      0322  LEA  C   RSP  072-180   VI/1                  
+
+3020       0148   0148      0148  LEA  G   RBR  245       260                   
+
+3030 +     0150   0156      0202  G16  5   XRA  1-8A      C1.7    1.1E-03   3305
+3030       0153   0154      0200  LEA  3   FLA  N11W13    SF                3305
+
+3040       0203   0203      0203  LEA  G   RBR  245       160                   
+
+3060 +     0336   0348      0354  G16  5   XRA  1-8A      C2.9    2.0E-03   3310
+
+3070       0513   ////      0525  SVI  C   RSP  025-180   VI/1                  
+3070       0520   ////      0525  LEA  C   RSP  070-175   III/2                 
+
+3080 +     0714   ////      0714  SVI  C   RSP  060-180   III/2                 
+3080 +     0714   0714      0715  LEA  G   RBR  245       260                   
+
+3090 +     0752   0758      0802  G16  5   XRA  1-8A      C2.1    1.0E-03   3310
+
+3100 +     0823   0828      0832  G16  5   XRA  1-8A      C2.3    8.8E-04   3310
+
+3120 +     1208   ////      1301  SVI  C   RSP  025-180   VI/1                  
+
+3130       1403   ////      1434  SVI  C   RSP  025-180   VI/1                  
+3130 +     1430   1443      1458  G16  5   XRA  1-8A      C6.4    6.8E-03       
+
+3140       1507   ////      1511  SVI  C   RSP  025-180   III/2             3309
+3140       1508   ////      1511  SAG  C   RSP  025-180   V/2               3309
+
+3150       1510  U1522     A1606  SVI  3   FLA  S18W45    SF      ERU       3309
+3150       1519   1530      1553  G16  5   XRA  1-8A      C4.3    7.2E-03   3309
+3150 +     1522   ////      1532  SAG  C   RSP  025-071   II/2    343       3309
+3150 +     1535   ////      1606  SAG  C   RSP  025-180   VI/1              3309
+
+3160 +     1614   1628      1646  G16  5   XRA  1-8A      C7.4    1.1E-02       
+
+3300      A1635   ////     A0446  SVI  3   DSF  N44E20    12                    
+
+3170 +     1834   1844      1854  G16  5   XRA  1-8A      C6.2    4.6E-03       
+
+3180 +     1902   ////      1932  SAG  C   RSP  025-180   VI/1                  
+3180 +     1924   1938      1958  G16  5   XRA  1-8A      C5.0    7.2E-03       
+
+3190 +     2024   ////      2026  PAL  C   RSP  054-180   III/1                 
+
+3200 +     2138   2148      2201  G16  5   XRA  1-8A      C9.5    8.5E-03       
+3200 +     2141   ////      2141  PAL  C   RSP  025-087   III/2                 

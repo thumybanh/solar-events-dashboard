@@ -1,0 +1,22 @@
+:Product: 20220605events.txt
+:Created: 2022 Jun 08 0357 UT
+:Date: 2022 06 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jun 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9860      A0153   ////     A1649  HOL  3   DSF  S28W44    7                     
+
+9840       0946   ////      1303  SVI  3   DSF  S27W57    18                    
+
+9820 +     1132   1200      1205  G16  5   XRA  1-8A      C1.3    1.5E-03   3029
+
+9870       1205   1225      1234  G16  5   XRA  1-8A      C1.7    2.9E-03   3029
+
+9830       1323   1323      1323  SAG  U   RBR  245       110                   

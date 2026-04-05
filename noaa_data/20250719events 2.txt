@@ -1,0 +1,41 @@
+:Product: 20250719events.txt
+:Created: 2025 Jul 22 0357 UT
+:Date: 2025 07 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8210       0449   0450      0454  SVI  3   FLA  N18E88    SF                    
+
+8220       0654   0657      0718  SVI  3   FLA  N24W52    SF                4136
+
+8230 +     0856   0907      0913  G18  5   XRA  1-8A      C3.3    2.9E-03   4135
+
+8240       1200   ////      1200  SVI  C   RSP  074-180   III/1                 
+8240 +     1200   1200      1200  SVI  G   RBR  245       180                   
+
+8250 +     1417   ////      1417  SVI  C   RSP  025-084   III/1                 
+
+8260       1536   1536      1536  SAG  U   RBR  245       130                   
+
+8270 +     1616   1616      1616  SAG  U   RBR  245       100                   
+
+8280       2036   2036      2039  HOL  3   FLA  N24W47    SF      DSD       4143
+
+8290       2112   2113      2115  HOL  3   FLA  N24W56    SF      DSD       4143
+
+8330 +     2157   ////      2359  PAL  C   RSP  108-180   CTM/1                 
+
+8300 +     2215   2220      2223  G18  5   XRA  1-8A      C4.1    1.5E-03   4143
+8300       2216   2227      2232  HOL  3   FLA  N24W47    SN      PRB       4143
+
+8310       2238   2241      2244  HOL  3   FLA  N24W47    SF                4143
+
+8320 +     2253   2311      2331  G18  5   XRA  1-8A      C4.4    8.0E-03   4143
+8320       2304   2308      2316  HOL  3   FLA  N26W58    SF      DSD       4143

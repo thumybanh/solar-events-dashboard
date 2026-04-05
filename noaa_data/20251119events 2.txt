@@ -1,0 +1,40 @@
+:Product: 20251119events.txt
+:Created: 2025 Nov 22 0357 UT
+:Date: 2025 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7400       0046   ////      0232  LEA  C   RSP  025-105   VI/2                  
+
+7390 +     0049   0055      0103  G18  5   XRA  1-8A      B9.3    7.7E-04   4282
+
+7410 +     0516   0520      0523  G18  5   XRA  1-8A      B9.5    4.1E-04   4282
+
+7420       0530   ////      0538  LEA  C   RSP  076-166   III/1                 
+
+7430 +     0626   0631      0635  G18  5   XRA  1-8A      B8.2    4.6E-04       
+
+7440       0713   ////      0752  LEA  C   RSP  025-062   VI/1                  
+
+7450 +     0929   0953      1012  G18  5   XRA  1-8A      C9.9    1.6E-02       
+7450 +     0943   0943      0943  SVI  G   RBR  410       100                   
+
+7460 +     1242   ////      1243  SVI  C   RSP  025-180   III/1                 
+
+7470 +     1503   1513      1519  G18  5   XRA  1-8A      C1.2    1.2E-03   4284
+
+7480 +     1544   1548      1552  G18  5   XRA  1-8A      B8.0    4.4E-04       
+
+7490       1806   ////      1843  SAG  C   RSP  025-065   VI/1                  
+
+7500 +     2207   2215      2221  G18  5   XRA  1-8A      B9.0    7.3E-04       
+7500 +     2215   ////      2221  LEA  C   RSP  075-180   II/3    695           
+
+7510 +     2304   2314      2324  G18  5   XRA  1-8A      C1.0    1.1E-03       

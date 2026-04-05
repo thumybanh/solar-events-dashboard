@@ -1,0 +1,41 @@
+:Product: 20240828events.txt
+:Created: 2024 Aug 31 0357 UT
+:Date: 2024 08 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Aug 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7510       0021   0021      0021  LEA  G   RBR  245       300                   
+
+7520       0052   ////      0053  LEA  C   RSP  077-174   III/2                 
+
+7530 +     0124   0133      0151  G16  5   XRA  1-8A      C3.8    5.4E-03   3796
+
+7540       0249   0249      0249  PAL  G   RBR  245       160                   
+
+7550 +     0309   0309      0309  LEA  G   RBR  245       200                   
+7550 +     0309   ////      0310  LEA  C   RSP  075-180   III/1                 
+
+7560       0343   ////      0358  LEA  C   RSP  075-172   VI/1                  
+
+7570       0430   ////      0431  PAL  C   RSP  025-065   III/1                 
+
+7580       0857   ////      0905  LEA  C   RSP  025-147   III/2                 
+
+7590 +     1450   1458      1502  G16  5   XRA  1-8A      C5.0    3.0E-03   3806
+
+7600 +     1754   1804      1809  G16  5   XRA  1-8A      C6.9    4.3E-03   3806
+
+7610       1837   ////      1837  PAL  C   RSP  025-075   III/1                 
+
+7620 +     1852   1900      1908  G16  5   XRA  1-8A      C5.3    4.6E-03   3806
+
+7640 +     1951   ////      2031  PAL  C   RSP  025-180   VI/2                  
+
+7630 +     2032   2038      2042  G16  5   XRA  1-8A      C7.0    2.8E-03   3801

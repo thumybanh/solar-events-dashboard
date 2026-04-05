@@ -1,0 +1,44 @@
+:Product: 20250325events.txt
+:Created: 2025 Mar 28 0357 UT
+:Date: 2025 03 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Mar 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1320 +     0036   0040      0046  G16  5   XRA  1-8A      C3.4    1.6E-03   4036
+1320       0038   0042      0046  HOL  2   FLA  N08W66    SF                4036
+
+1330 +     0148   0154      0201  G16  5   XRA  1-8A      C1.7    1.2E-03   4036
+
+1340 +     0350   0355      0406  G16  5   XRA  1-8A      C1.6    1.4E-03       
+
+1350 +     0811   0819      0829  G16  5   XRA  1-8A      C2.6    6.5E-04   4030
+1350 +     0818   0818      0818  SVI  G   RBR  245       150                   
+
+1360       0842   0858      0928  G16  5   XRA  1-8A      C3.1    7.2E-03   4036
+
+1370 +     0937   ////      0945  SVI  C   RSP  025-180   III/2                 
+1370       0942   0949      1001  G16  5   XRA  1-8A      C4.4    8.5E-04   4030
+
+1380       1035   ////      1106  SVI  C   RSP  025-159   VI/2                  
+
+1390       1211   ////      1226  SVI  C   RSP  040-180   VI/1                  
+1390 +     1216   1229      1244  G16  5   XRA  1-8A      C9.5    9.0E-03   4030
+1390       1224   ////      1226  SAG  C   RSP  114-148   III/1                 
+1390 +     1236   ////      1258  SVI  C   RSP  033-084   II/2    516           
+
+1400       1447   ////      1449  SVI  C   RSP  042-170   III/1                 
+
+1410       1757   1804      1810  HOL  3   FLA  S10W59    SF      DSD       4034
+1410       1757   1804      1809  G18  5   XRA  1-8A      C2.5    1.5E-03   4034
+
+1420       1930   1936      1947  HOL  3   FLA  N14E60    SF                4043
+
+1430 +     2039   2047      2053  G16  5   XRA  1-8A      C2.5    1.7E-03   4043
+1430       2045   2045      2055  HOL  3   FLA  N13E59    SF                4043

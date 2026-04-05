@@ -1,0 +1,55 @@
+:Product: 20220926events.txt
+:Created: 2022 Sep 29 0357 UT
+:Date: 2022 09 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Sep 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4990       0000   ////      0004  PAL  C   RSP  025-180   VI/1                  
+4990       0000   ////      0004  LEA  C   RSP  025-180   III/1                 
+
+5150      A0012   ////     A1425  HOL  3   DSF  N29E07    15                    
+
+5020       0224   ////      0948  LEA  C   RSP  130-180   CTM/1                 
+
+5040       0600   ////      1630  SVI  C   RSP  025-180   VI/2                  
+
+5030       0600   ////      0912  LEA  C   RSP  025-180   VI/1                  
+
+5050       0708   ////      1321  SVI  C   RSP  025-180   CTM/1                 
+
+5010       0848   0911      0936  G16  5   XRA  1-8A      C4.7    9.4E-03   3107
+5010       0856   0902      0954  LEA  3   FLA  S25E16    1F                3107
+
+5060       1130   ////      2148  SAG  C   RSP  035-180   CTM/1                 
+5060       1212   ////      1213  SAG  C   RSP  025-180   III/1                 
+
+5070 +     1239   1251      1309  G16  5   XRA  1-8A      C2.1    3.5E-03       
+5070       1243   ////      1243  SAG  C   RSP  025-052   III/1                 
+
+5080       1336   ////      1759  SAG  C   RSP  025-180   VI/2                  
+5080       1433   ////      1630  SVI  C   RSP  116-180   CTM/1                 
+
+5090 +     1537   1545      1550  G16  5   XRA  1-8A      C2.9    1.4E-03   3107
+5090       1543   1543      1551  HOL  3   FLA  S23E06    SF      ERU       3107
+5090       1545   1545      1548  HOL  3   FLA  N19E42    SF      DSD       3110
+
+5100       1727   ////      2359  PAL  C   RSP  116-180   CTM/1                 
+5100       1742   ////      1759  PAL  C   RSP  025-180   VI/2                  
+5100 +     1757   1807      1825  G16  5   XRA  1-8A      C1.8    2.6E-03       
+
+5110       1842   ////      1949  SAG  C   RSP  025-148   VI/2                  
+
+5120 +     2027   ////      2028  PAL  C   RSP  025-059   III/1                 
+
+5130 +     2044   2114      2132  G16  5   XRA  1-8A      C3.6    7.0E-03   3107
+5130 +     2107   ////      2359  PAL  C   RSP  025-180   VI/2                  
+
+5140       2309   ////      2310  LEA  C   RSP  025-180   III/2                 
+5140       2309   2309      2310  LEA  G   RBR  245       430                   

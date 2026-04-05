@@ -1,0 +1,56 @@
+:Product: 20250520events.txt
+:Created: 2025 May 23 0357 UT
+:Date: 2025 05 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 May 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4450       0000   ////      0000  LEA  G   RBR  245       200                   
+
+4470 +     0116   0126      0132  G18  5   XRA  1-8A      C1.3    1.1E-03   4093
+
+4480 +     0534   0538      0542  G18  5   XRA  1-8A      C1.0    4.7E-04   4093
+
+4490 +     0545   0554      0600  G18  5   XRA  1-8A      C5.3    3.2E-03   4093
+
+4500 +     0747   0754      0756  G18  5   XRA  1-8A      B9.3    7.6E-04   4093
+
+4510 +     1007   1021      1034  G18  5   XRA  1-8A      C2.7    8.5E-04   4093
+4510 +     1035   ////      1035  SVI  C   RSP  025-152   III/2                 
+
+4530 +     1054   1059      1108  G18  5   XRA  1-8A      C2.5    2.0E-03   4093
+
+4540 +     1202   ////      1205  SVI  C   RSP  025-157   III/2                 
+
+4550 +     1300   1310      1314  G18  5   XRA  1-8A      C2.9    1.4E-03   4093
+
+4560 +     1645   1653      1655  G18  5   XRA  1-8A      B7.4    4.7E-04   4093
+
+4570       1659   ////      1659  SAG  C   RSP  025-047   III/1                 
+
+4580       1803   ////      1804  SAG  C   RSP  025-043   III/1                 
+
+4590 +     2024   2032      2037  G18  5   XRA  1-8A      C1.2    4.5E-04   4093
+4590 +     2030   ////      2030  PAL  C   RSP  025-180   III/2                 
+4590 +     2030   2030      2030  PAL  G   RBR  410       110                   
+
+4600       2041   ////      2043  SAG  C   RSP  025-152   III/1                 
+
+4610 +     2120   2130      2134  G18  5   XRA  1-8A      C2.1    1.1E-03   4087
+4610       2128   2130      2134  HOL  3   FLA  N18W20    SF                4087
+
+4620 +     2218   2225      2228  G18  5   XRA  1-8A      C5.3    2.0E-03   4087
+4620       2221   2226      2232  HOL  3   FLA  N17W20    SF                4087
+
+4640 +     2239   2247      2251  G18  5   XRA  1-8A      C1.6    4.3E-04   4093
+4640 +     2239   ////      2240  PAL  C   RSP  025-069   III/2                 
+4640       2239   2239      2243  PAL  G   RBR  2695      190                   
+4640       2240   2240      2240  PAL  G   RBR  245       140                   
+
+4650       2349   2359      0001  G18  5   XRA  1-8A      C1.6    1.6E-03   4087

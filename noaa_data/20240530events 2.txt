@@ -1,0 +1,35 @@
+:Product: 20240530events.txt
+:Created: 2024 Jun 02 0357 UT
+:Date: 2024 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7610 +     0315   0336      0416  G16  5   XRA  1-8A      C4.9    1.5E-02   3697
+
+7630 +     0649   0713      0746  G16  5   XRA  1-8A      M1.0    2.6E-02   3691
+
+7650       0655  U0657      0811  SVI  3   FLA  N28E21    SF                3695
+
+7630       0657  U0702      0811  SVI  3   FLA  N28E07    1F                3691
+
+7620 +     0720   ////      0720  LEA  C   RSP  025-115   III/2                 
+
+7640       0755   ////      0756  SVI  C   RSP  025-056   III/1                 
+
+7670 +     1036   ////      1114  SVI  C   RSP  025-180   VI/1                  
+
+7660      B1044  U1044      1055  SVI  3   FLA  N09W13    SF                3693
+
+7680       1700   ////      1701  SAG  C   RSP  025-046   III/1                 
+
+7690 +     1837   1846      1854  G16  5   XRA  1-8A      C6.8    4.7E-03   3697
+7690       1843   1852      1855  HOL  3   FLA  S17E53    SF      DSD       3697
+
+7700       2325   2325      2331  HOL  3   FLA  N28W01    SF      DSD       3691

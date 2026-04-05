@@ -1,0 +1,44 @@
+:Product: 20220629events.txt
+:Created: 2022 Jul 02 0357 UT
+:Date: 2022 06 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jun 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4290       0044   ////      0044  PAL  C   RSP  025-049   III/2                 
+
+4300       0120   ////      0306  PAL  C   RSP  025-050   VI/1              3048
+4300       0204   0208      0214  G16  5   XRA  1-8A      B3.8    1.5E-04   3048
+4300       0207   0219      0226  LEA  3   FLA  S14W20    SF                3048
+4300       0214   0219      0223  G16  5   XRA  1-8A      B6.6    2.9E-04   3048
+
+4310       0612   ////      0613  SVI  C   RSP  043-082   III/1                 
+
+4320 +     1111   1118      1124  G16  5   XRA  1-8A      B2.1    1.5E-04       
+
+4330 +     1223   1227      1234  G16  5   XRA  1-8A      B2.3    1.4E-04       
+
+4340 +     1411   1419      1426  G16  5   XRA  1-8A      B2.3    1.9E-04       
+4340       1413   ////      1416  SVI  C   RSP  025-082   III/1                 
+
+4350 +     1556   ////      1602  SVI  C   RSP  025-081   III/1                 
+
+4360       1742   1747      1751  G17  5   XRA  1-8A      B2.4    1.3E-04       
+
+4370       1753   ////      1754  SAG  C   RSP  025-048   III/1                 
+
+4380       1830   1837      1841  G17  5   XRA  1-8A      B2.1    1.3E-04       
+4380       1839   ////      1839  SAG  C   RSP  025-072   III/1                 
+4380       1841   1850      1857  G17  5   XRA  1-8A      B2.7    2.5E-04       
+
+4390 +     2021   ////      2112  PAL  C   RSP  025-180   VI/1                  
+
+4400 +     2250   ////      2311  PAL  C   RSP  025-171   VI/2                  
+4400 +     2300   2313      2320  G16  5   XRA  1-8A      C1.4    8.9E-04       
+4400       2308   ////      2309  SAG  C   RSP  025-076   III/1                 

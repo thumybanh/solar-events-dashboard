@@ -1,0 +1,67 @@
+:Product: 20240914events.txt
+:Created: 2024 Sep 17 0357 UT
+:Date: 2024 09 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Sep 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1820      A0015   ////     A1409  HOL  3   DSF  S07E20    8                     
+
+1690 +     0048   0058      0107  G16  5   XRA  1-8A      C4.5    4.6E-03   3813
+
+1700       0310   0431      0722  G18  5   XRA  1-8A      M1.0    1.1E-01   3825
+
+1710       0622   0626      0632  SVI  3   FLA  S15E59    SF                3825
+
+1720 +     0726   0741      0753  G16  5   XRA  1-8A      M3.0    3.0E-02   3825
+
+1740       0803   ////      0803  LEA  C   RSP  039-124   III/1                 
+
+1750       0937   ////      1003  SVI  C   RSP  025-051   VI/1                  
+
+1760 +     1207   ////      1209  SVI  C   RSP  025-156   III/2                 
+
+1770 +     1246   ////      1258  SAG  C   RSP  025-085   VI/2                  
+
+1780 +     1407   1408      1413  HOL  3   FLA  S27W12    SF                3826
+
+1790 +     1414   ////      1414  SAG  C   RSP  025-180   III/2                 
+
+1800 +     1417   1428      1441  G16  5   XRA  1-8A      C5.4    8.0E-03   3825
+1800 +     1420   1420      1429  HOL  3   FLA  S15E56    SF      ERU       3825
+
+1830 +     1513   1529      1547  G16  5   XRA  1-8A      X4.5    5.8E-01   3825
+1830 +     1516   1523      1700  HOL  3   FLA  S15E56    2B      ERU       3825
+1830       1516   1522      1608  SVI  G   RBR  8800      8800              3825
+1830       1517   1526      1546  SVI  G   RBR  4995      2000              3825
+1830       1517   1521      1553  SVI  G   RBR  15400     8900              3825
+1830       1517   1532      1555  SVI  G   RBR  2695      1000              3825
+1830       1518   1522      1551  SVI  G   RBR  1415      490               3825
+
+1810 +     1518   ////      1554  SAG  C   RSP  025-180   VI/3              3825
+1810       1518   ////      1527  SVI  C   RSP  025-180   III/3             3825
+1810       1519   1520      1523  SVI  3   FLA  S28W12    SF                3826
+1810       1521   1521      1605  SVI  G   RBR  245       520               3825
+1810       1521   1523      1607  SVI  G   RBR  410       390               3825
+1810       1524   1554      1555  SVI  G   RBR  610       650               3825
+1810       1526   ////      1532  HOL  3   SPY  ////      30                3825
+
+1850 +     1609   ////      1908  SAG  C   RSP  113-172   CTM/1                 
+
+1840       1614   1615      1616  SVI  G   RBR  410       230                   
+
+1860       1703   1706      1707  HOL  3   FLA  S17E52    SF                3825
+
+1870       1846   1848      1850  HOL  3   FLA  S25W13    SF                3826
+
+1880 +     2349   2351      2355  G16  5   XRA  1-8A      C2.9    9.5E-04   3825
+
+1900       2355   ////      2357  LEA  C   RSP  025-180   V/2                   
+
+1890       2355   ////      2357  PAL  C   RSP  025-180   V/2                   

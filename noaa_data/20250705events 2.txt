@@ -1,0 +1,44 @@
+:Product: 20250705events.txt
+:Created: 2025 Jul 08 0357 UT
+:Date: 2025 07 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5010 +     0459   ////      0501  SVI  C   RSP  025-180   III/2                 
+5010 +     0500   0500      0500  LEA  G   RBR  245       300                   
+
+5020       0920   ////      0921  SVI  C   RSP  025-083   III/1                 
+
+5030      B0953   ////     B1013  SVI  3   DSF  S27W17    20                    
+
+5040 +     1210   1218      1228  G18  5   XRA  1-8A      C1.5    1.4E-03   4130
+5040       1215   1216      1224  SVI  3   FLA  S11E11    SF      ERU       4130
+
+5050 +     1327   1342      1352  G18  5   XRA  1-8A      C1.3    1.7E-03   4130
+5050 +     1335   1346      1352  HOL  3   FLA  S11E09    SF      DSF       4130
+
+5060       1525   1526      1528  SVI  3   FLA  S11E11    SF      ERU       4130
+
+5070       1706   1707      1707  PAL  G   RBR  245       700                   
+
+5080       1709   ////      1739  SAG  C   RSP  025-180   VI/2                  
+5080 +     1709   ////      1713  PAL  C   RSP  025-180   III/2                 
+5080       1715   1715      1715  PAL  G   RBR  245       1300                  
+
+5090 +     1939   ////      1948  SAG  C   RSP  025-148   III/2                 
+
+5100       2038   ////      2038  SAG  C   RSP  025-049   III/1                 
+
+5110 +     2119   2125      2134  G18  5   XRA  1-8A      B7.0    6.5E-04   4127
+5110 +     2120   ////      2123  PAL  C   RSP  025-180   III/2                 
+5110 +     2122   2122      2124  PAL  G   RBR  245       170                   
+5110 +     2128   ////      2155  SAG  C   RSP  025-180   VI/1                  
+
+5120       2324   ////      2325  PAL  C   RSP  025-059   III/1                 

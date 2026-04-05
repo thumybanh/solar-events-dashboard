@@ -1,0 +1,58 @@
+:Product: 20230427events.txt
+:Created: 2023 Apr 30 0357 UT
+:Date: 2023 04 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7510       0002   0003      0032  HOL  3   FLA  S23E12    SF                3288
+
+7520 +     0041   0059      0109  G16  5   XRA  1-8A      C3.0    3.4E-03   3289
+7520 +     0046   ////      0102  LEA  C   RSP  025-132   VI/1                  
+
+7610      A0110   ////     A1255  HOL  3   DSD  ////      17                    
+
+7530       0202   ////      0202  LEA  C   RSP  041-148   III/1                 
+
+7540 +     0228   0249      0341  G16  5   XRA  1-8A      C2.5    1.0E-02   3289
+
+7560       0812   0818      0824  G16  5   XRA  1-8A      B8.4    5.6E-04   3288
+
+7570 +     0842   0853      0904  G16  5   XRA  1-8A      C1.1    1.2E-03   3288
+
+7580 +     0914   0921      0937  G16  5   XRA  1-8A      C1.0    5.9E-04   3288
+
+7590       1029   1031      1034  SVI  3   FLA  S23E04    SF                3288
+7590 +     1030   1032      1036  G16  5   XRA  1-8A      C1.3    4.5E-04   3288
+
+7600 +     1104   1114      1123  G16  5   XRA  1-8A      M1.8    8.7E-03   3288
+7600 +     1112   1113      1152  SVI  3   FLA  S23E04    SN                3288
+
+7620 +     1602   1616      1627  G16  5   XRA  1-8A      C1.7    2.0E-03   3288
+
+7720       1603  U1611     A1613  SVI  3   FLA  N23E57    SF                3289
+
+7620 +    B1613  U1616     A1620  SVI  3   FLA  S23E01    SF                3288
+
+7630       1651   1657      1709  HOL  3   FLA  N20E53    SF                3289
+
+7640 +     1827   1834      1838  G16  5   XRA  1-8A      C1.0    5.6E-04   3288
+7640       1831   1834      1847  HOL  3   FLA  S23E02    SF                3288
+
+7650 +     1913   1922      1925  G16  5   XRA  1-8A      B8.9    6.0E-04   3289
+7650       1926   1927      1951  HOL  3   FLA  N20E52    SF                3289
+7650 +     1926   ////      1928  PAL  C   RSP  025-075   III/2             3289
+
+7730 +     1943   1948      1959  G16  5   XRA  1-8A      C2.4    2.0E-03   3288
+
+7660 +     2019   ////      2113  SAG  C   RSP  025-075   VI/1                  
+
+7670 +     2234   2244      2255  G16  5   XRA  1-8A      C1.0    1.1E-03   3288
+
+7680 +     2311   2326      2340  G16  5   XRA  1-8A      C2.4    2.9E-03   3288

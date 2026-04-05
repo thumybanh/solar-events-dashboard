@@ -1,0 +1,60 @@
+:Product: 20260105events.txt
+:Created: 2026 Jan 08 0357 UT
+:Date: 2026 01 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jan 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7600       0029   ////      0052  LEA  C   RSP  025-132   VI/2                  
+
+7610 +     0109   0126      0148  G18  5   XRA  1-8A      C1.7    3.7E-03   4336
+7610       0138   ////      0138  LEA  C   RSP  025-098   III/2                 
+
+7620       0211   ////      0241  LEA  C   RSP  025-152   VI/2                  
+
+7630       0310   ////      0310  LEA  C   RSP  025-056   III/2                 
+
+7640       0350   ////      0352  LEA  C   RSP  025-105   III/2                 
+
+7650       0504   ////      0531  LEA  C   RSP  075-180   VI/1                  
+7650       0521   0521      0522  LEA  G   RBR  245       150                   
+
+7660 +     0651   ////      0704  SVI  C   RSP  025-180   VI/2                  
+
+7670 +     0744   0744      0744  SVI  G   RBR  245       770                   
+7670 +     0744   ////      0745  SVI  C   RSP  114-180   III/1                 
+
+7680       0758   ////      1100  LEA  C   RSP  025-180   VI/2                  
+
+7730       0906   ////      1136  SVI  C   RSP  025-148   VI/2                  
+
+7690 +     0911   0920      0924  G18  5   XRA  1-8A      C3.0    2.1E-03   4334
+
+7700 +     1012   1016      1018  G18  5   XRA  1-8A      C2.8    1.0E-03   4324
+7700       1015   1015      1020  LEA  G   RBR  610       440                   
+
+7710       1024   1024      1024  LEA  G   RBR  610       110                   
+
+7720       1033   1033      1033  LEA  G   RBR  610       130                   
+
+7740 +     1237   1248      1255  G18  5   XRA  1-8A      C2.1    2.2E-03   4323
+
+7750       1322   1322      1322  SAG  G   RBR  245       180                   
+
+7760       1355   ////      1358  SAG  C   RSP  025-156   III/1                 
+
+7770       1429   ////      1429  SAG  C   RSP  025-063   III/1                 
+
+7780       1601   ////      1610  SAG  C   RSP  025-180   III/1                 
+7780       1601   1601      1602  SAG  G   RBR  245       110                   
+
+7790 +     1818   1842      1906  G18  5   XRA  1-8A      C3.3    8.0E-03   4330
+7790 +    B1844   1847      1907  HOL  2   FLA  S15W39    SF                4330
+
+7800 +     2032   2038      2044  G18  5   XRA  1-8A      C2.3    1.7E-03   4336

@@ -1,0 +1,32 @@
+:Product: 20220808events.txt
+:Created: 2022 Aug 11 0357 UT
+:Date: 2022 08 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Aug 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2450 +     0017   ////      0017  PAL  C   RSP  025-087   III/2                 
+
+2460 +     0049   ////      0050  PAL  C   RSP  025-086   III/1                 
+
+2520      A0106   ////     A1319  HOL  3   DSF  N42E01    59                    
+
+2470 +     0140   ////      0152  LEA  C   RSP  025-143   VI/1                  
+
+2480 +     1159   ////      1202  SAG  C   RSP  025-065   III/1                 
+
+2490 +     1254   ////      1255  SVI  C   RSP  025-180   III/2                 
+
+2500 +     1352   1359      1404  G16  5   XRA  1-8A      B7.9    4.7E-04   3074
+2500       1358   1359      1404  HOL  3   FLA  S15E40    SF      ERU       3074
+
+2510       1507   ////      1508  SAG  C   RSP  025-052   III/1                 
+
+2530 +     2150   ////      2200  PAL  C   RSP  025-121   III/2                 
+2530 +     2153   2200      2205  G16  5   XRA  1-8A      B6.8    4.1E-04   3074

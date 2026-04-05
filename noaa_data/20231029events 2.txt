@@ -1,0 +1,39 @@
+:Product: 20231029events.txt
+:Created: 2023 Nov 01 0357 UT
+:Date: 2023 10 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7920 +     0243   0250      0257  G16  5   XRA  1-8A      B9.4    7.1E-04   3474
+
+7930 +     0734   0746      0755  G16  5   XRA  1-8A      C4.3    3.2E-03   3474
+
+7940 +     0850   0855      0857  G16  5   XRA  1-8A      C1.8    1.3E-03   3474
+7940 +     0852   0852      0852  SVI  G   RBR  245       140                   
+
+7960 +     0857   0902      0906  G16  5   XRA  1-8A      C2.4    1.1E-03   3474
+
+7950 +     0947   0949      0953  G16  5   XRA  1-8A      C2.5    5.3E-04   3474
+7950       0949   0950      0958  SVI  3   FLA  S17E23    SF                3474
+
+7970 +     1130   1143      1152  G16  5   XRA  1-8A      C6.6    4.8E-03   3474
+7970       1136   1146      1221  SVI  3   FLA  S18E20    SF                3474
+
+7980 +     1300   1309      1313  G16  5   XRA  1-8A      C7.8    6.4E-04   3474
+7980       1304   1310      1319  SVI  3   FLA  S19E22    SF                3474
+7980       1311   1312      1312  SVI  G   RBR  410       240               3474
+
+7990 +     1350   1358      1407  G16  5   XRA  1-8A      C2.0    1.7E-03   3474
+7990 +     1358   1359      1424  HOL  3   FLA  S17E18    SF      ERU       3474
+
+8000 +     1754   1804      1811  G16  5   XRA  1-8A      B9.4    8.6E-04   3474
+
+8010 +     1904   1925      1945  G16  5   XRA  1-8A      C2.6    5.3E-03   3474
+8010       1905   1931      2005  HOL  3   FLA  S17E16    SF      ERU       3474

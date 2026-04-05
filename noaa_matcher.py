@@ -5,14 +5,6 @@
 import json
 import os 
 
-def to_minutes(time_str): 
-    try: 
-        hours = int(time_str[:2])
-        minutes = int(time_str[2:])
-        return hours * 60 + minutes
-    except: 
-         return None
-
 noaa_list = [] 
 def parse_noaa_file(fileName):
         noaa_events = [] 
@@ -47,59 +39,6 @@ for fileName in os.listdir('noaa_data'):
     noaa_list.extend(results) # use extend because 'extend' add each item individually -> flat list instead of adds whole list as one item like append
 
 
-
-
-# Optimal window analysis #
-
-windows = [0, 5, 10, 15, 20, 25, 30, 35, 40,45,50,55,60] 
-prev_matches = 0
-optimal_window = 0
-
-with open('events.json', 'r') as f: 
-    events = json.load(f)
-    
-for window in windows: 
-    matches = 0
-    for event in events: 
-        LMSALdate = event['event_start'].split(' ')[0].replace('/','')
-        LMSALstart = event['event_start'].split(' ')[1].replace(':','')[:4]
-        LMSALpeak = event['event_peak'].replace(':', '')[:4]
-        LMSALend = event['event_stop'].replace(':','')[:4]
-        LMSALGOES = event['event_GOES'] 
-
-       
-
-        for NOAA_event in noaa_list:
-            begin_minutes = to_minutes(NOAA_event['begin'])
-            lmsal_minutes = to_minutes(LMSALstart)
-
-            if NOAA_event['date'] is not None:
-                    same_date = NOAA_event['date'] == LMSALdate 
-            else: continue
-
-            if begin_minutes is None or lmsal_minutes is None: 
-                 continue 
-            time_start_diff = abs(begin_minutes - lmsal_minutes)
-
-            if NOAA_event['goes_class'] is not None: 
-                same_class = NOAA_event['goes_class'] == LMSALGOES
-            else : continue
-
-            if same_date and time_start_diff <= window  and same_class : 
-                matches += 1 
-                break
-            
-
-    new_matches = matches - prev_matches
-    print(f"Window {window} min -> {matches} matches (+{new_matches} new)")
-
-    if new_matches == 0  and window > 0: 
-        optimal_window = windows[windows.index(window) -1]
-        print(f"Optimal window: {optimal_window} min")                                            
-        break
-    prev_matches = matches
- 
-
 LMSAL_list = []
 def match_events() : 
      LMSAL_events = []
@@ -120,8 +59,8 @@ def match_events() :
                     else: continue
 
                     if NOAA_event['begin'] is not None and NOAA_event['end'] is not None: 
-                        time_start_diff = abs(int(NOAA_event['begin']) - int(LMSALstart))
-                        time_end_diff = abs(int(NOAA_event['end']) - int(LMSALend))
+                       time_start_diff = abs(int(''.join(filter(str.isdigit, NOAA_event['begin']))) - int(LMSALstart))
+                       time_end_diff = abs(int(''.join(filter(str.isdigit, NOAA_event['end']))) - int(LMSALstart))
                     else: continue
 
                     if NOAA_event['goes_class'] is not None: 
@@ -141,18 +80,8 @@ with open('events.json', 'w') as f:
      json.dump(LMSAL_list, f, indent=2)
 
 
-# convert the position into latitude and longitude 
-def convert_position(LMSAL_position):
+                    
 
-    lat_dir = LMSAL_position[0]
-    lat_num = LMSAL_position[1:3]
-    lon_dir = LMSAL_position[3]
-    lon_num = LMSAL_position[4:6]
-
-    lat = int(lat_num) if lat_dir == 'N' else -int(lat_num)
-    lon = int(lon_num) if lon_dir == 'W' else -int(lon_num)  
-
-    return lat, lon  
 
 
         

@@ -1,0 +1,30 @@
+:Product: 20241121events.txt
+:Created: 2024 Nov 24 0357 UT
+:Date: 2024 11 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Nov 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 350       0147   ////      0150  LEA  C   RSP  025-114   III/1                 
+
+ 390       0552   0606      0623  G16  5   XRA  1-8A      C2.9    5.4E-03       
+
+ 360 +     1245   1307      1324  G16  5   XRA  1-8A      C3.4    8.0E-03   3901
+
+ 370       1324   1352      1415  G16  5   XRA  1-8A      C5.4    1.3E-02   3901
+
+ 380       1450   1457      1510  G16  5   XRA  1-8A      C4.7    5.1E-03   3905
+
+ 400 +     1752   1807      1828  G16  5   XRA  1-8A      C5.9    1.0E-02   3901
+ 400 +     1759   1801      1802  SAG  G   RBR  410       5900              3901
+ 400 +     1759   1805      1808  PAL  G   RBR  245       38000             3901
+ 400      B1800   1802      1842  HOL  3   FLA  S08E31    SF      ERU       3901
+ 400 +     1800   ////      1811  SAG  C   RSP  025-180   III/1             3901
+
+ 410       2116   2116      2116  PAL  G   RBR  245       150                   

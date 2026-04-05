@@ -1,0 +1,47 @@
+:Product: 20231112events.txt
+:Created: 2023 Nov 15 0357 UT
+:Date: 2023 11 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Nov 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9990 +     0427   0441      0448  G16  5   XRA  1-8A      C8.4    5.3E-03   3484
+
+  10       0437   0440      0454  LEA  3   FLA  S15W61    SF                3477
+
+9990 +     0440   0440      0443  LEA  3   FLA  S15W52    SF                3484
+
+  20       0440   0440      0444  LEA  3   FLA  S10W44    SF                3480
+
+  30       0444   0445      0448  LEA  3   FLA  S14W52    SF                3484
+
+  40 +     0930   0950      1005  G16  5   XRA  1-8A      C2.4    4.1E-03   3484
+
+  50       1122   ////      1123  SVI  C   RSP  025-084   III/1                 
+
+  60 +     1325   ////      1326  SVI  C   RSP  025-050   III/1                 
+
+  70 +     1417   ////      1417  SVI  C   RSP  075-166   III/2                 
+  70       1417   1417      1417  SVI  G   RBR  245       110                   
+
+  80 +     1441   ////      1443  SAG  C   RSP  025-180   III/2                 
+
+  90 +     1455   1502      1506  G16  5   XRA  1-8A      C1.6    9.3E-04   3486
+
+ 100       1543   ////      1544  SAG  C   RSP  112-172   III/1                 
+
+ 110       1633   ////      1633  SAG  C   RSP  130-150   III/1                 
+
+ 120       1734   ////      1734  PAL  C   RSP  025-180   III/1                 
+
+ 130       1734   ////      1735  SAG  C   RSP  025-148   III/1                 
+
+ 140 +     2146   ////      2200  PAL  C   RSP  025-180   III/2                 
+ 140 +     2158   2159      2159  PAL  G   RBR  410       170                   
+ 140 +     2159   2159      2159  PAL  G   RBR  245       110                   

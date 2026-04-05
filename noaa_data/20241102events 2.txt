@@ -1,0 +1,100 @@
+:Product: 20241102events.txt
+:Created: 2024 Nov 05 0357 UT
+:Date: 2024 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4420       0015   0015      0016  PAL  G   RBR  610       100                   
+
+4430 +     0055   0055      0055  LEA  G   RBR  410       330                   
+
+4440       0110   ////      0110  LEA  C   RSP  025-085   III/1                 
+
+4450       0114   0114      0115  LEA  3   FLA  S18W56    SF                3869
+
+4460       0141   0142      0147  LEA  3   FLA  S08W62    SF                3876
+
+4470       0151   0151      0153  LEA  3   FLA  S08W64    SF                3876
+4470 +     0151   0151      0152  LEA  G   RBR  410       420               3876
+
+4480       0203   0204      0209  LEA  3   FLA  S15W51    SF                3869
+
+4490       0210   0213      0213  PAL  G   RBR  15400     1200                  
+
+4500 +     0217   0217      0217  LEA  G   RBR  410       870                   
+
+4510       0229   0229      0231  LEA  3   FLA  S08W64    SF                3876
+
+4520 +     0247   0248      0248  LEA  G   RBR  245       260                   
+4520 +     0247   0247      0248  LEA  G   RBR  410       230                   
+
+4530       0248   ////      0248  LEA  C   RSP  025-180   III/1                 
+
+4540       0250   0250      0252  LEA  3   FLA  S08W64    SF                3876
+
+4550       0335   0335      0335  LEA  G   RBR  245       110                   
+
+4560       0335   ////      0336  LEA  C   RSP  073-106   III/1                 
+
+4570       0337   0337      0341  LEA  3   FLA  S08W64    SF                3876
+
+4580       0402   0402      0402  LEA  G   RBR  245       110                   
+
+4590       0409   0409      0409  LEA  G   RBR  610       150                   
+
+4600       0454   ////      0455  LEA  C   RSP  025-180   III/1                 
+
+4610       0522   ////      0635  LEA  C   RSP  025-180   VI/2                  
+4610       0613   ////      0617  SVI  C   RSP  113-180   III/1                 
+
+4620 +     0727   0738      0753  G16  5   XRA  1-8A      M1.0    1.3E-02   3869
+4620 +     0729   0731      0817  SVI  3   FLA  S20W50    SN      ERU       3869
+4620 +     0730   0730      0732  LEA  G   RBR  4995      240               3869
+4620 +     0730   0730      0731  LEA  G   RBR  8800      140               3869
+4620 +     0730   0730      0731  LEA  G   RBR  2695      120               3869
+
+4650       0733   0748      0759  SVI  3   FLA  N15E10    SF      ERU       3878
+
+4640 +     0813   0831      0845  G16  5   XRA  1-8A      M1.2    1.9E-02   3876
+4640 +     0822   0834      0900  SVI  3   FLA  S14W62    SF      ERU       3876
+4640 +     0824   ////      0829  LEA  C   RSP  025-153   III/1             3876
+4640 +     0842   ////      1447  SVI  C   RSP  047-180   CTM/2             3876
+
+4660       0902   0902      0907  SVI  3   FLA  S09E22    SF                3881
+
+4670 +     0924   ////      0945  LEA  C   RSP  025-180   VI/2              3881
+4670       0928   0937      0940  SVI  3   FLA  S09E21    SF                3881
+4670       0942   0942      0942  LEA  G   RBR  245       520               3881
+4670 +     0942   0942      0942  SVI  G   RBR  245       170                   
+4670 +     0942   ////      0942  LEA  C   RSP  025-084   III/1             3881
+
+4690       1028   1030      1039  SVI  3   FLA  S06E68    SF      ERU           
+
+4720       1215   ////      1437  SAG  C   RSP  025-180   CTM/1                 
+
+4700       1222  U1226      1309  SVI  3   FLA  N16E06    SF                3878
+
+4710       1434   1434      1442  SVI  3   FLA  S09W69    SF                3876
+
+4730       1452   1452      1455  SVI  3   FLA  S10W66    SF                3876
+
+4740       1457  U1501     A1510  SVI  3   FLA  S18W50    SF                3869
+4740       1458   1501      1505  HOL  3   FLA  S16W51    SF                3872
+
+4760 +     1909   1916      1922  G16  5   XRA  1-8A      C5.1    3.2E-03   3878
+4760       1915   1915      1928  HOL  3   FLA  N16E04    SF                3878
+
+4770       2134   ////      2215  PAL  C   RSP  025-180   VI/1                  
+4770       2142   2142      2142  PAL  G   RBR  245       230                   
+
+4780       2324   2324      2329  LEA  3   FLA  N29W69    SF                3875
+4780       2328   ////      2329  LEA  C   RSP  025-109   III/1             3875
+
+4790       2334   2334      2340  LEA  3   FLA  N29W66    SF                3875

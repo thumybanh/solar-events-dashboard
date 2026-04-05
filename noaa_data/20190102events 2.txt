@@ -1,0 +1,27 @@
+:Product: 20190102events.txt
+:Created: 2019 Jan 05 0357 UT
+:Date: 2019 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2019 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7650 +     0144   0150      0155  G15  5   XRA  1-8A      B2.8    1.2E-04   2732
+7650       0146   0147      0157  LEA  3   FLA  N10W21    SF                2732
+7650       0146   ////      0146  LEA  C   RSP  025-091   III/1             2732
+7650       0146   0146      0146  LEA  G   RBR  245       170               2732
+
+7660       0623   ////      0629  LEA  C   RSP  025-180   III/2                 
+
+7680      A1021   ////     A2228  LEA  3   DSF  S22E22    42                    
+
+7710 +    A1344   ////     A1215  SVI  3   DSF  S55W13    51                    
+
+7690      B1721   ////     B1940  HOL  2   DSF  S71W49    43                    
+
+7670       1832   1838      1844  G15  5   XRA  1-8A      B1.2    6.3E-05       

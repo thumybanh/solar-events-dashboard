@@ -1,0 +1,44 @@
+:Product: 20221208events.txt
+:Created: 2022 Dec 11 0357 UT
+:Date: 2022 12 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Dec 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8190       0000   ////      1008  LEA  C   RSP  075-180   CTM/1                 
+
+8200       0154   ////      0212  LEA  C   RSP  025-153   VI/2                  
+
+8210       0442   ////      0956  LEA  C   RSP  025-180   VI/1                  
+8210 +     0530   0537      0544  G16  5   XRA  1-8A      B7.4    5.8E-04       
+
+8220 +     0554   0603      0612  G16  5   XRA  1-8A      C1.3    1.0E-03   3157
+8220      B0601   0604      0606  LEA  3   FLA  N17E16    SF      DSD       3157
+
+8230       0638   ////      1227  SVI  C   RSP  116-180   CTM/1                 
+8230 +     0736   0741      0749  G16  5   XRA  1-8A      B8.7    6.4E-04       
+8230 +     0738   0738      0738  SVI  G   RBR  410       100                   
+
+8240       0854   0854      0854  SVI  G   RBR  245       110                   
+
+8250       0856   0856      0856  LEA  G   RBR  245       100                   
+
+8260 +     0913   ////      0913  SVI  C   RSP  025-180   III/2                 
+8260 +     0913   0913      0913  SVI  G   RBR  245       690                   
+
+8270 +     0929   0929      0929  SVI  G   RBR  245       270                   
+8270 +     0929   ////      0930  SVI  C   RSP  025-180   III/2                 
+
+8280       1232   1234      1237  SVI  3   FLA  N15E19    SF      DSD       3157
+
+8290       1516   ////      1516  SAG  C   RSP  025-042   III/1                 
+
+8300       1922   ////      1922  SAG  C   RSP  025-046   III/1                 
+
+8310 +     2052   2109      2135  G16  5   XRA  1-8A      C1.4    3.1E-03   3153

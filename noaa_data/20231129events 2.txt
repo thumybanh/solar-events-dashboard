@@ -1,0 +1,87 @@
+:Product: 20231129events.txt
+:Created: 2023 Dec 02 0357 UT
+:Date: 2023 11 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Nov 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3450 +     0000   ////      1041  LEA  C   RSP  025-180   CTM/2                 
+
+3530 +     0135   0724      0808  LEA  G   RNS  245       440                   
+
+3460       0205   0207      0209  PAL  G   RBR  245       200                   
+
+3470 +     0229   ////      0230  LEA  C   RSP  025-180   III/2                 
+3470       0229   0229      0229  LEA  G   RBR  245       530                   
+
+3480 +     0432   0447      0459  G18  5   XRA  1-8A      C2.8    3.9E-03   3502
+
+3490       0548   0548      0548  LEA  G   RBR  245       1100                  
+
+3580       0605   ////      1513  SVI  C   RSP  025-180   CTM/2                 
+
+3500 +     0724   ////      0725  LEA  C   RSP  025-180   III/3                 
+3500 +     0724   0724      0724  LEA  G   RBR  245       2000                  
+
+3510 +     0750   0803      0814  G18  5   XRA  1-8A      C6.4    6.8E-03   3502
+3510 +     0808   ////      0808  LEA  C   RSP  025-180   III/3                 
+3510       0808   0808      0808  SVI  G   RBR  245       160                   
+
+3520 +     0903   ////      0907  SVI  C   RSP  025-180   III/2                 
+
+3540 +     1126   1133      1139  G18  5   XRA  1-8A      C2.0    8.4E-04   3500
+3540       1129   1129      1129  SVI  G   RBR  245       320                   
+
+3590       1225   ////      2100  SAG  C   RSP  112-180   CTM/1                 
+
+3550 +     1314   1325      1336  G18  5   XRA  1-8A      C2.1    2.4E-03   3499
+3550 +     1331   ////      1332  SAG  C   RSP  025-180   III/1                 
+3550       1332   1332      1332  SVI  G   RBR  245       970                   
+
+3560       1338   1338      1338  SVI  G   RBR  410       200                   
+
+3570 +     1427   1435      1443  G18  5   XRA  1-8A      C3.8    2.8E-03   3500
+
+3600 +     1512   1534      1554  G18  5   XRA  1-8A      C3.1    9.2E-04   3500
+
+3670 +     1554   1601      1609  G18  5   XRA  1-8A      C2.7    2.9E-03   3507
+
+3680 +     1609   1613      1618  G18  5   XRA  1-8A      C2.8    1.7E-03   3500
+
+3600       1610   1605      1635  HOL  3   FLA  S15W13    SF      PRB       3500
+
+3610       1754   1754      1754  PAL  G   RBR  245       100                   
+
+3620       1755   1755      1801  HOL  3   FLA  S19W08    SF      PRB       3500
+
+3630       1815   ////      1817  SAG  C   RSP  025-074   III/1                 
+
+3710       1855   ////      2032  PAL  C   RSP  025-180   CTM/1                 
+
+3640       1857   ////      1857  SAG  C   RSP  025-048   III/1                 
+
+3650       1929   ////      1929  SAG  C   RSP  025-075   III/1                 
+3650       1929   ////      1947  PAL  C   RSP  025-142   VI/1                  
+
+3660       2034   2037      2058  HOL  3   FLA  S16W15    SF                3500
+3660       2053   ////      2054  PAL  C   RSP  025-123   III/2             3500
+
+3700       2054   2055      2057  HOL  3   FLA  N20W71    SF                3490
+
+3720       2103   2103      2108  HOL  3   FLA  S19W11    SF                3500
+3720 +     2108   2112      2120  G18  5   XRA  1-8A      C1.9    1.3E-03   3500
+
+3730       2124   ////      2124  PAL  C   RSP  025-044   III/1                 
+
+3740       2158   2158      2158  LEA  G   RBR  245       120                   
+
+3750 +     2222   ////      2222  PAL  C   RSP  025-054   III/2                 
+
+3760 +     2235   2241      2248  G18  5   XRA  1-8A      C2.4    1.4E-03   3500
+3760 +     2239   2239      2245  LEA  3   FLA  S18W14    SF                3500

@@ -1,0 +1,90 @@
+:Product: 20230915events.txt
+:Created: 2023 Sep 18 0357 UT
+:Date: 2023 09 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9330       0000   ////      0329  PAL  C   RSP  025-180   CTM/1                 
+
+9280       0029   0030      0032  HOL  3   FLA  N12E03    SF                3429
+
+9530      A0038   ////     A1346  HOL  3   DSF  S06E04    11                    
+
+9290 +     0040   0046      0050  G16  5   XRA  1-8A      C7.4    2.7E-03   3429
+
+9310       0049   ////      0132  PAL  C   RSP  025-180   VI/1                  
+
+9300       0050   0057      0102  G16  5   XRA  1-8A      C6.9    5.0E-03   3429
+
+9380       0240   0250      0255  G16  5   XRA  1-8A      C2.3    2.4E-03   3429
+
+9320 +     0255   0309      0317  G16  5   XRA  1-8A      C7.4    8.1E-04   3429
+9320       0310   0310      0310  PAL  G   RBR  245       230                   
+
+9340       0334   0335      0335  PAL  G   RBR  410       880                   
+
+9350       0409   0409      0409  PAL  G   RBR  410       200                   
+
+9390       0459   ////      0919  SVI  C   RSP  050-180   CTM/1                 
+
+9360       0511   ////      0520  SVI  C   RSP  025-180   III/2                 
+
+9370 +     0550   0604      0611  G16  5   XRA  1-8A      C7.0    5.0E-03   3429
+9370       0552   ////      0559  SVI  C   RSP  025-180   III/1                 
+
+9400       0724   ////      0725  SVI  C   RSP  025-180   III/1                 
+
+9410       0759   0802      0806  SVI  3   FLA  N14E03    SF                3429
+
+9420       0840   ////      0840  SVI  C   RSP  025-084   III/1                 
+
+9430       0852   0859      0905  G16  5   XRA  1-8A      C1.9    6.0E-04   3429
+9430       0855   0902      0911  SVI  3   FLA  N14E03    SF                3429
+9430       0856   ////      0859  SVI  C   RSP  025-180   III/3             3429
+9430       0857   0857      0857  SVI  G   RBR  245       690               3429
+9430       0858   0858      0858  SVI  G   RBR  410       130               3429
+
+9440       0929   0931      0932  SVI  3   FLA  N12E01    SF                3429
+
+9450       0933   0934      0936  SVI  3   FLA  N12E01    SF                3429
+
+9460       0937   0938      0949  SVI  3   FLA  N12E01    SF                3429
+
+9470 +     1000   1018      1021  SVI  3   FLA  N11W00    SF                3429
+9470 +     1009   1017      1025  G16  5   XRA  1-8A      C2.2    2.3E-03   3429
+9470 +     1026   ////      1027  SVI  C   RSP  025-180   III/2             3429
+9470       1027   1027      1027  SVI  G   RBR  245       300               3429
+
+9480       1045   ////      1227  SVI  C   RSP  025-180   VI/1                  
+9480 +     1108   ////      1109  SVI  C   RSP  025-180   III/2                 
+9480       1108   1108      1108  SVI  G   RBR  245       310                   
+9480       1128   ////      1441  SVI  C   RSP  073-180   CTM/1                 
+
+9490       1209   ////      1401  SAG  C   RSP  115-180   CTM/1             3429
+9490 +     1309   1317      1322  G16  5   XRA  1-8A      C2.1    1.2E-03   3429
+9490       1313   1316      1331  SVI  3   FLA  N11W02    SF                3429
+
+9680      A1436   ////     A0716  SVI  3   DSF  N14W15    25                    
+
+9500       1449   1454      1459  HOL  3   FLA  N12W05    SF      ERU       3429
+
+9510 +     1544   ////      1544  SVI  C   RSP  050-155   III/2                 
+
+9520 +     1838   ////      1908  HOL  3   BSL  ////      0.27                  
+
+9540       1954   1956      2001  HOL  3   FLA  N24W49    SF                3425
+
+9550       2114   2116      2119  HOL  3   FLA  N12W07    SF      PRB       3429
+
+9560 +     2219   2229      2234  G16  5   XRA  1-8A      M1.7    6.1E-03   3429
+9560       2224   2229      2312  HOL  3   FLA  N12W08    1F      DSD       3429
+
+9570 +     2335   2342      2347  G16  5   XRA  1-8A      C2.0    1.4E-03   3429
+9570       2341   ////      2341  LEA  C   RSP  025-150   III/2                 

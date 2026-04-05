@@ -1,0 +1,67 @@
+:Product: 20221122events.txt
+:Created: 2022 Nov 25 0357 UT
+:Date: 2022 11 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5660 +     0659   0727      0742  G16  5   XRA  1-8A      C7.0    1.2E-02   3151
+5660       0708   0729      0752  LEA  3   FLA  S15E22    SF                3151
+
+5670 +     1027   1047      1052  G16  5   XRA  1-8A      C1.2    1.5E-03       
+
+5680       1052   1104      1127  G16  5   XRA  1-8A      C1.9    3.5E-03   3151
+
+5690 +     1214   1224      1229  G16  5   XRA  1-8A      C2.6    1.3E-03   3151
+5690       1224   ////      1416  SVI  C   RSP  025-180   VI/2                  
+5690       1226   ////      1234  SAG  C   RSP  025-180   III/2                 
+
+5700       1230   1231      1231  SAG  U   RBR  245       130                   
+
+5710 +     1247   1253      1258  G16  5   XRA  1-8A      C1.6    9.4E-04   3151
+5710       1248   ////      1257  SAG  C   RSP  025-180   III/1                 
+
+5890       1304   1327      1347  G16  5   XRA  1-8A      C1.7    2.5E-03       
+
+5720 +     1347   1354      1358  G16  5   XRA  1-8A      C2.7    1.5E-03   3151
+5720       1354   ////      1416  SAG  C   RSP  025-180   VI/1                  
+
+5730       1503   1512      1515  HOL  3   FLA  S13E09    SF                3151
+
+5740       1648   ////      1656  SAG  C   RSP  025-180   III/2                 
+5740       1648   1649      1649  SAG  U   RBR  245       460                   
+
+5750       1701   1701      1708  HOL  3   FLA  S13E13    SF      ERU       3151
+5750 +     1704   1704      1704  SAG  U   RBR  245       190               3151
+5750       1706   1706      1706  SAG  U   RBR  410       230               3151
+5750       1706   1706      1706  SAG  U   RBR  610       69                3151
+
+5760       1714   1718      1719  HOL  3   FLA  S13E12    SF      ERU       3151
+
+5770 +     1803   ////      1809  SAG  C   RSP  025-180   III/1                 
+
+5780 +     1849   1908      1916  G16  5   XRA  1-8A      C4.8    4.1E-03   3151
+5780       1852   1917      2053  HOL  3   FLA  S13E12    SF      DSD       3151
+5780 +     1857   ////      1905  PAL  C   RSP  025-180   III/2             3151
+5780       1900   1900      1900  SAG  U   RBR  245       100               3151
+5780       1909   ////      2038  PAL  C   RSP  025-180   VI/1              3151
+
+5790       1923   ////      1923  SAG  C   RSP  025-041   III/1                 
+
+5830 +     2001   2027      2102  G16  5   XRA  1-8A      C1.7    2.1E-03   3151
+5830 +     2007   2007      2007  PAL  G   RBR  245       120                   
+5830 +     2054   2054      2054  PAL  G   RBR  410       1000                  
+
+5900 +     2102   2118      2124  G16  5   XRA  1-8A      C1.7    2.2E-03   3151
+5900       2109   ////      2113  PAL  C   RSP  025-180   III/1                 
+
+5840       2149   2149      2149  PAL  G   RBR  245       250                   
+
+5850 +     2322   2324      2325  PAL  G   RBR  410       1200                  
+5850 +     2324   2324      2324  PAL  G   RBR  610       190                   

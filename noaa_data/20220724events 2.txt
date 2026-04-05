@@ -1,0 +1,53 @@
+:Product: 20220724events.txt
+:Created: 2022 Jul 27 0357 UT
+:Date: 2022 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 540 +     0235   0251      0300  G16  5   XRA  1-8A      B6.7    9.3E-04   3060
+
+ 550 +     0342   ////      0343  LEA  C   RSP  025-180   III/2                 
+
+ 560       0445   0448      0517  SVI  3   FLA  N11W50    SF                3060
+ 560 +     0501   ////      0501  LEA  C   RSP  025-090   III/1             3060
+
+ 570       0601   0602      0607  SVI  3   FLA  N11W51    SF                3058
+
+ 580       0619   0619      0620  LEA  G   RBR  2695      100                   
+
+ 590 +     0625   0731      0813  G16  5   XRA  1-8A      C2.6    1.2E-02   3057
+ 590 +     0711   ////      0713  LEA  C   RSP  025-159   III/2                 
+
+ 600       0836   ////      0836  SVI  C   RSP  025-079   III/1                 
+
+ 610 +     1011   1024      1035  G16  5   XRA  1-8A      C1.8    1.9E-03   3063
+ 610       1017   1027      1041  SVI  3   FLA  N13W41    SF      ERU       3063
+
+ 620 +     1119   ////      1119  SAG  C   RSP  025-083   III/1                 
+
+ 690       1141   ////      1206  SVI  3   DSF  S39E63    7                     
+
+ 630       1155   1211      1224  G17  5   XRA  1-8A      B8.6    1.4E-03   3060
+ 630       1159   1201      1205  SVI  3   FLA  N11W54    SF                3060
+
+ 640 +     1228   ////      1228  SVI  C   RSP  025-180   III/1                 
+
+ 650 +     1312   ////      1314  SAG  C   RSP  025-144   III/1                 
+
+ 660 +     1457   1502      1506  G16  5   XRA  1-8A      B4.9    2.4E-04   3060
+
+ 670 +     1520   1520      1520  SVI  G   RBR  410       120                   
+
+ 710      A1831   ////     A1852  HOL  2   DSF  S26E17    18      B.9A      3062
+
+ 700 +     1832   1904      1936  G16  5   XRA  1-8A      B9.2    2.8E-03   3062
+ 700 +     1912   ////      2105  PAL  C   RSP  035-066   VI/1                  
+
+ 720 +     1946   ////      2139  PAL  C   RSP  030-074   CTM/1                 

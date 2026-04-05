@@ -1,0 +1,63 @@
+:Product: 20250404events.txt
+:Created: 2025 Apr 07 0357 UT
+:Date: 2025 04 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Apr 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4030 +     0000   ////      0930  LEA  C   RSP  025-180   VI/2                  
+4030 +     0000   ////      1000  LEA  C   RSP  066-180   CTM/1                 
+4030 +     0041   0041      0042  LEA  G   RBR  245       310                   
+
+4070 +     0044   0044      0044  LEA  G   RNS  245       120                   
+
+4040       0113   ////      0320  PAL  C   RSP  025-180   VI/2                  
+
+4080       0450   ////      1707  SVI  C   RSP  025-180   CTM/2                 
+
+4050       0521   ////      0930  SVI  C   RSP  025-180   VI/1                  
+
+4060 +     0727   0734      0737  G16  5   XRA  1-8A      C1.8    1.0E-03   4048
+
+4090 +     1007   1024      1049  G16  5   XRA  1-8A      C3.3    7.2E-03   4043
+4090       1043   ////      2301  SAG  C   RSP  113-180   CTM/1                 
+
+4100 +     1056   ////      1707  SVI  C   RSP  025-180   VI/2                  
+
+4110 +     1324   1328      1332  G16  5   XRA  1-8A      C2.2    1.0E-03   4043
+
+4120       1411   1411      1416  SVI  3   FLA  S22W28    SF                    
+
+4130 +     1434   1446      1453  G16  5   XRA  1-8A      C4.4    3.7E-03   4052
+4130       1439   1442      1502  SVI  3   FLA  S23W28    SF                    
+
+4140 +     1540   1541      1541  SVI  G   RBR  245       150                   
+
+4150       1545   1545      1547  HOL  3   FLA  S13W03    SF      DSD       4048
+
+4160 +     1635   1636      1636  PAL  G   RBR  245       140                   
+
+4170 +     1747   1748      1748  PAL  G   RBR  245       190                   
+
+4180       1837   1837      1837  SAG  U   RBR  245       150                   
+
+4190       1916   1916      1916  SAG  U   RBR  245       130                   
+
+4200       1948   1948      1948  SAG  U   RBR  245       190                   
+
+4210       2119   2119      2119  PAL  G   RBR  245       300                   
+
+4220       2126   2126      2126  SAG  U   RBR  245       130                   
+
+4230       2134   2134      2134  PAL  G   RBR  245       160                   
+
+4240 +     2207   ////      2214  PAL  C   RSP  025-075   III/2                 
+
+4250 +     2324   2338      2354  G16  5   XRA  1-8A      C5.7    7.8E-03   4043
+4250       2333   ////      2339  PAL  C   RSP  025-057   III/1                 

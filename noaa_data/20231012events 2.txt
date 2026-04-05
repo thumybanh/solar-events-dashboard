@@ -1,0 +1,44 @@
+:Product: 20231012events.txt
+:Created: 2023 Oct 15 0357 UT
+:Date: 2023 10 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6470       0025   ////      0025  LEA  C   RSP  025-100   III/1                 
+
+6480 +     0307   0347      0640  G16  5   XRA  1-8A      C9.7    2.8E-02   3460
+6480 +     0353   0353      0354  LEA  G   RBR  410       240                   
+6480       0353   0354      0354  LEA  G   RBR  610       230                   
+6480       0403   ////      0404  LEA  C   RSP  074-135   III/1                 
+
+6490       0450   0458      0505  G18  5   XRA  1-8A      M1.1    7.7E-03   3451
+
+6500       0552   0606      0609  SVI  3   FLA  S12W73    SF      DSD       3454
+
+6540       0556   0559      0612  SVI  3   FLA  N06E45    SF                3464
+
+6510 +     0640   0647      0653  G16  5   XRA  1-8A      C2.2    1.6E-03       
+
+6520       0743   0743      0755  LEA  3   FLA  S11W79    SF                3454
+
+6530       0838   0838      0842  LEA  3   FLA  S11W79    SF                3454
+
+6550       1016   1016      1023  SVI  3   FLA  N05E43    SF                3464
+
+6560       1153   1154      1154  SVI  G   RBR  410       700                   
+
+6570       1159   1159      1159  SVI  G   RBR  410       280                   
+
+6580       1207   1207      1213  SVI  3   FLA  N05E42    SF                3464
+
+6590       1218   1219      1241  SVI  3   FLA  N06E41    SF                3464
+
+6600 +     1746   1752      1759  G16  5   XRA  1-8A      C2.3    1.5E-03   3464
+6600       1750   1812      1823  HOL  2   FLA  N08E38    SF                3464

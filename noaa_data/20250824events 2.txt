@@ -1,0 +1,58 @@
+:Product: 20250824events.txt
+:Created: 2025 Aug 27 0357 UT
+:Date: 2025 08 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Aug 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6840 +     0050   0054      0100  G18  5   XRA  1-8A      C4.8    3.1E-03   4191
+
+6850       0126   ////      0126  LEA  C   RSP  025-160   III/2                 
+
+6860 +     0523   0532      0551  G18  5   XRA  1-8A      C2.9    4.7E-03       
+
+6870 +     0655   0705      0717  G18  5   XRA  1-8A      C5.7    5.8E-03       
+
+6880 +     0734   0742      0751  G18  5   XRA  1-8A      C4.9    5.3E-03       
+
+6900 +     0751   0756      0758  G18  5   XRA  1-8A      C4.1    2.4E-03       
+
+6890 +     0815   0823      0826  G18  5   XRA  1-8A      C4.4    4.0E-03       
+
+6910 +     0826   0836      0842  G18  5   XRA  1-8A      M1.3    9.3E-03       
+
+6920 +     1026   ////      1034  SVI  C   RSP  025-180   III/2                 
+
+6930       1236   1237      1254  SVI  3   FLA  N02E20    SF                4194
+6930 +     1247   ////      1247  SAG  C   RSP  025-055   III/1             4194
+
+6940       1329   1329      1329  SAG  G   RBR  245       170                   
+
+6950       1329   ////      1329  SAG  C   RSP  025-151   III/1                 
+
+6970       1538   ////      1605  SAG  C   RSP  025-180   VI/1                  
+
+6960       1546   1546      1546  SAG  G   RBR  245       250                   
+
+6970 +     1601   ////      1602  SVI  C   RSP  114-180   III/1                 
+6970       1601   1601      1601  SAG  G   RBR  245       160                   
+
+6980       1859   1859      1859  PAL  G   RBR  245       100                   
+6980       1859   ////      1859  PAL  C   RSP  025-161   III/1                 
+
+6990       1902   ////      2023  SAG  C   RSP  025-180   VI/2                  
+
+7000 +     2122   ////      2122  SAG  C   RSP  025-140   III/2                 
+
+7010 +     2217   ////      2218  PAL  C   RSP  109-180   III/2                 
+7010       2217   2217      2218  PAL  G   RBR  245       100                   
+
+7020 +     2225   2234      2242  G18  5   XRA  1-8A      C4.0    4.0E-03   4187
+
+7030 +     2302   ////      2306  LEA  C   RSP  025-180   III/2                 

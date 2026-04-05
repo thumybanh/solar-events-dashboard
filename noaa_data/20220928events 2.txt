@@ -1,0 +1,79 @@
+:Product: 20220928events.txt
+:Created: 2022 Oct 01 0357 UT
+:Date: 2022 09 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Sep 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5400 +     0000   ////      0225  LEA  C   RSP  025-180   CTM/1             3107
+5400       0000   ////      0110  LEA  C   RSP  025-180   VI/1              3107
+5400       0004   0016      0037  LEA  3   FLA  S25W10    SF                3107
+5400 +     0011   0020      0033  G16  5   XRA  1-8A      C1.7    2.2E-03   3107
+
+5410 +     0041   0047      0051  G16  5   XRA  1-8A      C3.4    1.6E-03   3107
+5410       0044   0045      0052  LEA  3   FLA  S25W10    SF                3107
+
+5420 +     0147   ////      0311  LEA  C   RSP  025-180   VI/1                  
+
+5430 +     0253   0257      0301  G16  5   XRA  1-8A      C1.9    6.3E-04   3107
+
+5440       0408   ////      0428  LEA  C   RSP  025-180   VI/2                  
+
+5500 +     0433   ////      1008  LEA  C   RSP  025-180   CTM/2                 
+
+5450       0524   0524      0524  LEA  G   RBR  245       290                   
+
+5460       0612   0620      0623  SVI  3   FLA  S24W18    SF      ERU       3107
+
+5470 +     0746   0753      0757  G16  5   XRA  1-8A      C1.7    9.0E-04   3107
+5470       0750   0753      0757  SVI  3   FLA  S25W19    SF      ERU       3107
+
+5510       0759   ////      1056  SVI  C   RSP  025-070   VI/1                  
+
+5480       0839   0846      0850  G16  5   XRA  1-8A      C1.3    8.1E-04   3107
+5480       0845   0845      0848  SVI  3   FLA  S25W20    SF                3107
+
+5520       1049   ////      2147  SAG  C   RSP  025-180   CTM/2                 
+5520       1107   ////      1142  SAG  C   RSP  025-048   VI/1                  
+5520 +     1108   1115      1128  G16  5   XRA  1-8A      C1.1    6.3E-04   3107
+
+5530       1144   1144      1144  SAG  U   RBR  245       100                   
+
+5540 +     1313   ////      1329  SVI  C   RSP  025-083   VI/1                  
+5540 +     1318   1318      1318  SVI  G   RBR  245       120                   
+
+5550 +     1432   1432      1432  SVI  G   RBR  245       100                   
+
+5560       1440   ////      1440  SVI  C   RSP  025-062   III/1                 
+
+5570       1457   1457      1457  SVI  G   RBR  245       200                   
+
+5580       1540   ////      1615  SAG  C   RSP  025-047   VI/1                  
+5580 +     1604   1604      1604  SVI  G   RBR  245       100                   
+
+5590       1626   1626      1626  SAG  U   RBR  245       100                   
+
+5600       1640   ////      2359  PAL  C   RSP  025-180   CTM/2                 
+5600 +     1648   1648      1648  SAG  U   RBR  245       120                   
+
+5610       1814   ////      1823  PAL  C   RSP  025-180   III/2                 
+5610       1821   1821      1822  SAG  U   RBR  245       480                   
+
+5620       1826   1826      1826  SAG  U   RBR  245       160                   
+
+5630 +     1852   1900      1906  G16  5   XRA  1-8A      C2.6    1.9E-03   3107
+
+5640       2004   ////      2053  PAL  C   RSP  025-061   VI/1                  
+5640 +     2022   2024      2024  SAG  U   RBR  245       160                   
+5640       2052   ////      2053  SAG  C   RSP  025-052   III/1                 
+
+5650       2133   ////      2359  PAL  C   RSP  025-075   VI/2                  
+
+5660 +     2340   2345      2349  G16  5   XRA  1-8A      C1.6    7.4E-04   3107
+5660       2344   2344      2348  LEA  3   FLA  S23W27    SF      DSD       3107

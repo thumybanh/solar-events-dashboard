@@ -1,0 +1,46 @@
+:Product: 20240321events.txt
+:Created: 2024 Mar 24 0357 UT
+:Date: 2024 03 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Mar 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6490       0002   0006      0011  G16  5   XRA  1-8A      C3.7    1.9E-03   3615
+
+6500       0049   ////      0335  LEA  C   RSP  080-160   CTM/1                 
+6500       0141   ////      0141  LEA  C   RSP  025-180   III/1                 
+
+6510       0436   ////      0456  LEA  C   RSP  025-180   III/1                 
+
+6620 +    A0948   ////     A2356  LEA  3   DSF  S29W59    17                    
+
+6610 +    A0951   ////     A2356  LEA  3   DSF  N29E30    20                3614
+
+6520       1009   1010      1014  SVI  3   FLA  S15E36    SF                3615
+
+6530 +     1102   1102      1102  SVI  G   RBR  245       160                   
+
+6540       1124   1124      1124  SVI  G   RBR  245       110                   
+
+6550       1125   1132      1137  G16  5   XRA  1-8A      C8.7    3.7E-03   3615
+6550       1127   1130      1147  SVI  3   FLA  S16E37    SN                3615
+6550       1134   1136      1136  SVI  G   RBR  245       130               3615
+
+6560       1141   ////      1141  SVI  C   RSP  077-167   III/1                 
+
+6570       1155   1155      1155  SVI  G   RBR  245       130                   
+
+6580       1239   ////      1239  SVI  C   RSP  113-180   III/1                 
+
+6590 +     1546   1546      1553  HOL  3   FLA  S14E30    SF                3615
+
+6600       1802   1819      1839  G16  5   XRA  1-8A      C5.8    1.2E-02   3614
+6600       1806   1812      1813  HOL  3   FLA  N23E25    SF      DSF       3614
+
+6630       2210   ////      2210  PAL  C   RSP  025-063   III/2                 

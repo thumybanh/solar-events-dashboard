@@ -1,0 +1,55 @@
+:Product: 20240103events.txt
+:Created: 2024 Jan 06 0357 UT
+:Date: 2024 01 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jan 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 400       0048   ////      0048  LEA  C   RSP  025-137   III/1                 
+
+ 410       0147   ////      0147  LEA  C   RSP  025-110   III/1                 
+
+ 420 +     0254   0259      0305  G16  5   XRA  1-8A      C1.2    6.6E-04   3536
+ 420       0258   0259      0301  LEA  3   FLA  N05E49    SF                3536
+
+ 430       0323   ////      0328  LEA  C   RSP  025-142   III/1                 
+
+ 440       0425   0425      0426  LEA  G   RBR  245       220                   
+
+ 450       0738   ////      0738  LEA  C   RSP  025-107   III/1                 
+
+ 460       0841   ////      0841  SVI  C   RSP  132-157   III/1                 
+
+ 470 +     1000   1010      1014  G16  5   XRA  1-8A      C1.8    7.2E-04   3536
+
+ 490 +     1014   1018      1024  G16  5   XRA  1-8A      C3.0    1.6E-03   3536
+ 490       1015   1017      1033  LEA  3   FLA  N05E49    SF                3536
+
+ 500       1035   ////      1035  SVI  C   RSP  025-143   III/1                 
+
+ 510 +     1329   1334      1344  G16  5   XRA  1-8A      C1.3    6.2E-04   3536
+
+ 520 +     1442   1457      1515  G16  5   XRA  1-8A      C1.8    3.1E-03   3537
+
+ 530 +     1613   1621      1628  G16  5   XRA  1-8A      C1.3    1.1E-03   3538
+
+ 540 +     1649   1656      1708  G16  5   XRA  1-8A      C1.5    1.5E-03   3538
+
+ 550 +     1938   1958      2011  G16  5   XRA  1-8A      C2.6    3.9E-03   3536
+ 550       1943   1958      2019  HOL  3   FLA  N06E39    SF                3536
+
+ 560       2106   2118      2132  HOL  3   FLA  S16W37    SF      DSD       3534
+
+ 570       2209   ////      2210  LEA  C   RSP  025-180   III/1                 
+
+ 580       2245   ////      2245  LEA  C   RSP  090-180   III/1                 
+
+ 590 +     2246   2253      2257  G16  5   XRA  1-8A      C1.1    6.6E-04   3538
+
+ 650       2359   0010      0013  G16  5   XRA  1-8A      C1.4    5.6E-04   3536

@@ -1,0 +1,54 @@
+:Product: 20230102events.txt
+:Created: 2023 Jan 05 0357 UT
+:Date: 2023 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6000       0000   ////      0350  PAL  C   RSP  109-180   CTM/1                 
+
+5990       0043   ////      0047  LEA  C   RSP  025-142   III/2                 
+
+6010       0333   ////      0341  LEA  C   RSP  025-109   III/2                 
+
+6020 +     0522   0529      0537  G16  5   XRA  1-8A      C1.6    1.1E-03   3180
+6020       0527   0528      0532  LEA  3   FLA  N20E40    SF                3180
+
+6030 +     0609   0621      0626  G16  5   XRA  1-8A      C9.4    4.8E-03   3176
+6030       0616   0622      0630  LEA  3   FLA  N20W28    1F                3176
+
+6040       0644   ////      0833  SVI  C   RSP  025-180   CTM/1                 
+
+6050 +     0944   0956      1007  G16  5   XRA  1-8A      C2.8    2.6E-03   3180
+6050 +     0951   0952     A1004  LEA  3   FLA  N20E37    SF                3180
+
+6060       1056   1057      1100  SVI  3   FLA  N19E41    SF                3180
+
+6070 +     1130   1139      1141  G16  5   XRA  1-8A      C2.3    1.2E-03   3180
+6070       1135   1145      1212  SVI  3   FLA  N21E42    SF                3180
+
+6080       1141   1152      1208  G16  5   XRA  1-8A      C3.0    4.6E-03   3180
+
+6090 +     1602   1608      1614  G16  5   XRA  1-8A      C1.1    7.4E-04   3180
+
+6100       1807   ////      1808  SAG  C   RSP  025-070   III/1                 
+
+6110       1840   ////      1841  SAG  C   RSP  025-055   III/1                 
+
+6120 +     2137   2143      2147  G16  5   XRA  1-8A      C1.8    9.2E-04   3180
+6120      B2142   2142      2149  HOL  3   FLA  N20E32    SF      ERU       3180
+6120       2145   ////      2146  PAL  C   RSP  025-180   III/2             3180
+
+6130 +     2210   2216      2220  G16  5   XRA  1-8A      C2.0    9.4E-04   3180
+6130       2213   2217      2227  HOL  3   FLA  N20E31    SF      YSR       3180
+
+6140       2252   ////      2252  LEA  C   RSP  025-145   III/2                 
+
+6150 +     2257   2311      2332  G16  5   XRA  1-8A      C3.2    5.3E-03   3180
+6150       2302   2303      2337  HOL  3   FLA  N18E33    SF      ERU       3180

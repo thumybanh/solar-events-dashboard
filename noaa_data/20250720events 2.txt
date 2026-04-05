@@ -1,0 +1,48 @@
+:Product: 20250720events.txt
+:Created: 2025 Jul 23 0357 UT
+:Date: 2025 07 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8350       0000   ////      0302  PAL  C   RSP  108-180   CTM/1                 
+
+8340 +     0030   0035      0039  G18  5   XRA  1-8A      C3.2    1.8E-03   4149
+
+8360       0342   0342      0342  PAL  U   RBR  8800      140                   
+
+8370 +     0531   0537      0549  G18  5   XRA  1-8A      C1.6    1.8E-03   4136
+
+8380 +     0708   0721      0729  G18  5   XRA  1-8A      C2.8    3.5E-03   4136
+8380       0717   ////      0718  SVI  C   RSP  025-142   III/1             4136
+
+8390 +     0729   0741      0752  G18  5   XRA  1-8A      C7.6    7.7E-03   4136
+
+8380 +     0738   0742      0754  SVI  3   FLA  N24W63    SF                4136
+
+8400 +     0941   0951      1004  G18  5   XRA  1-8A      C1.9    2.7E-03   4149
+8400       0946   0956      1004  SVI  3   FLA  N20E66    SF                4149
+8400       0951   ////      0952  SVI  C   RSP  025-083   III/1             4149
+
+8450       1004   1008      1030  SVI  3   FLA  N20E66    SF                4149
+
+8410       1032   1032      1034  SVI  3   FLA  N20E66    SF                4149
+
+8420 +     1143   1157      1204  G18  5   XRA  1-8A      C2.9    4.3E-03   4136
+8420       1149   1153      1202  SVI  3   FLA  N27W66    SF                4136
+
+8440 +     1204   1213      1225  G18  5   XRA  1-8A      C2.8    3.8E-03   4136
+
+8430       1246   1246      1248  SVI  3   FLA  N21E63    SF                4149
+
+8460 +     1447   1454      1500  G18  5   XRA  1-8A      C2.5    1.7E-03   4136
+8460 +     1451   1454      1459  SVI  3   FLA  N25W66    SF                4136
+
+8470 +     1528   1537      1552  G18  5   XRA  1-8A      C6.5    6.9E-03   4136
+8470 +     1530   1534      1605  SVI  3   FLA  N22W68    1F      DSD       4136

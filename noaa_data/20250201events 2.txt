@@ -1,0 +1,84 @@
+:Product: 20250201events.txt
+:Created: 2025 Feb 04 0357 UT
+:Date: 2025 02 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Feb 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  70       0051   ////      0104  LEA  C   RSP  025-180   VI/2                  
+
+  50       0132   0132      0132  PAL  G   RBR  245       490                   
+
+  60 +     0140   0148      0155  G16  5   XRA  1-8A      C7.1    4.5E-03   3977
+  60       0152   ////      0154  LEA  C   RSP  025-113   III/2                 
+
+  80 +     0231   0241      0250  G16  5   XRA  1-8A      C2.6    1.2E-03   3976
+
+  90       0414   ////      0414  LEA  C   RSP  025-180   III/1             3976
+
+ 100       0505   ////      0636  LEA  C   RSP  025-130   VI/2              3976
+ 100 +     0541   0552      0558  G16  5   XRA  1-8A      C3.1    2.8E-03   3977
+
+ 110       0629   ////      0636  SVI  C   RSP  025-080   III/1             3977
+
+ 120       0734   ////      0736  SVI  C   RSP  025-083   III/1             3977
+ 120       0735   ////      0755  LEA  C   RSP  025-100   VI/2              3977
+
+ 130 +     0839   0856      0903  G16  5   XRA  1-8A      C6.0    9.8E-04   3976
+
+ 140       0927   ////      0928  SVI  C   RSP  025-060   III/2             3976
+
+ 150       0928   ////      0929  LEA  C   RSP  025-065   III/2             3976
+
+ 160 +     0956   1002      1006  G16  5   XRA  1-8A      C2.4    1.2E-03   3977
+ 160 +     1001   ////      1008  LEA  C   RSP  025-180   III/2             3977
+
+ 180       1048   ////      1059  SVI  C   RSP  025-180   VI/2                  
+
+ 170       1049   ////      1050  LEA  C   RSP  025-097   III/1                 
+
+ 190 +     1125   1132      1137  G16  5   XRA  1-8A      C4.0    5.2E-04   3978
+ 190       1133   ////      1152  SVI  C   RSP  043-084   VI/2                  
+
+ 200       1145   ////      1147  SVI  C   RSP  025-180   III/3                 
+ 200       1145   1145      1145  SVI  G   RBR  245       1200                  
+
+ 210       1229   ////      1229  SVI  C   RSP  059-160   III/1                 
+
+ 220 +     1314   1319      1323  G16  5   XRA  1-8A      M2.4    7.9E-03   3977
+ 220 +     1315   ////      1319  SVI  C   RSP  025-180   III/2                 
+ 220 +     1315   1316      1316  SVI  G   RBR  410       1000                  
+ 220 +     1315   1315      1317  SVI  G   RBR  245       10000                 
+ 220 +     1316   1316      1317  SVI  G   RBR  8800      400                   
+ 220 +     1316   1316      1317  SVI  G   RBR  4995      190                   
+ 220 +     1316   1316      1317  SVI  G   RBR  15400     220                   
+ 220 +     1316   1316      1316  SVI  G   RBR  2695      110                   
+
+ 230       1327   ////      1328  SAG  C   RSP  025-180   III/1                 
+ 230 +     1327   ////      1330  SVI  C   RSP  070-165   II/2    261           
+
+ 240 +     1407   ////      1422  SVI  C   RSP  038-123   VI/2                  
+
+ 250       1542   ////      1606  SAG  C   RSP  025-163   VI/1                  
+ 250       1546   ////      1546  SVI  C   RSP  025-040   III/1                 
+
+ 260       1646   ////      1705  SAG  C   RSP  025-085   VI/2                  
+
+ 270       1806   ////      1807  PAL  C   RSP  025-066   III/2                 
+
+ 280 +     1851   ////      1912  SAG  C   RSP  025-180   VI/2                  
+ 280       1912   1912      1912  SAG  U   RBR  245       850                   
+
+ 290 +     1951   1958      2005  G16  5   XRA  1-8A      C1.9    1.5E-03   3977
+
+ 300       2132   ////      2137  SAG  C   RSP  025-180   III/1                 
+
+ 310 +     2253   2301      2311  G16  5   XRA  1-8A      C1.8    1.8E-03   3976
+ 310 +     2305   ////      2306  LEA  C   RSP  025-180   III/3                 
+ 310 +     2305   2305      2305  PAL  G   RBR  245       780                   

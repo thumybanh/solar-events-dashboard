@@ -1,0 +1,64 @@
+:Product: 20231108events.txt
+:Created: 2023 Nov 11 0357 UT
+:Date: 2023 11 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Nov 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9310       0042   0042      0046  LEA  3   FLA  N22W56    SF                3479
+
+9320 +     0050   0100      0106  G16  5   XRA  1-8A      C2.3    7.5E-04   3483
+
+9330       0244   ////      0244  LEA  C   RSP  025-096   III/1                 
+
+9340 +     0300   0309      0315  G16  5   XRA  1-8A      C4.7    3.1E-03   3483
+9340       0306   0311      0317  LEA  3   FLA  N09E03    SF                3483
+
+9350       0352   0352      0356  LEA  3   FLA  N09E03    SF                3483
+
+9360       0414   ////      0414  LEA  C   RSP  025-065   III/1                 
+
+9370       0458   0508      0518  G18  5   XRA  1-8A      C1.9    6.2E-04   3483
+9370 +     0504   0504      0507  LEA  3   FLA  N08E03    SF                3483
+9370       0507   ////      0507  LEA  C   RSP  096-180   III/1             3483
+9370       0507   0507      0507  LEA  G   RBR  245       110               3483
+
+9380       0605   ////      0605  LEA  C   RSP  025-119   III/3                 
+
+9390       0609   0617      0628  G18  5   XRA  1-8A      C1.5    1.5E-03   3483
+
+9400       0700   ////      0721  LEA  2   EPL  ////      0.4                   
+
+9410       0737   ////      0737  LEA  C   RSP  025-125   III/1                 
+
+9420       0839   0848      0856  G18  5   XRA  1-8A      C6.8    4.2E-03   3483
+9420       0845   0847      0854  LEA  3   FLA  N08W00    SF                3483
+
+9430       1109   ////      1110  SVI  C   RSP  113-180   III/1                 
+
+9440       1144   ////      1152  SVI  C   RSP  025-165   III/1                 
+
+9450      B1411  U1412     A1415  SVI  3   FLA  N09W06    SF                3483
+
+9460      B1429  U1447     A1453  SVI  3   FLA  N09W06    SF                3483
+
+9500      B1430  U1432     A1453  SVI  3   FLA  N19W65    SF                3479
+
+9460 +     1439   1447      1452  G16  5   XRA  1-8A      C1.2    8.7E-04   3483
+
+9470      B1523   1529      1534  HOL  2   FLA  N19W66    SF                3479
+
+9480       1603   1603      1616  HOL  3   FLA  N19W66    SF                3479
+
+9490       1708   1710      1713  HOL  3   FLA  N19W67    SF                3479
+
+9510       2005   2013      2019  G16  5   XRA  1-8A      C4.2    1.4E-03   3483
+9510       2009   2011      2041  HOL  3   FLA  N09W08    SF      ERU       3483
+
+9520       2019   2029      2035  G16  5   XRA  1-8A      C3.4    3.4E-03   3483

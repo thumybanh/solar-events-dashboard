@@ -1,0 +1,47 @@
+:Product: 20230426events.txt
+:Created: 2023 Apr 29 0357 UT
+:Date: 2023 04 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7400      A0045   ////     A1325  HOL  3   DSD  ////      17                    
+
+7380      B0530   ////     B0745  LEA  1   EPL  ////      0.16                  
+
+7390      B0745   ////     B0938  LEA  2   EPL  ////      0.23    B.6A          
+
+7360      B0813  U0815     A0846  SVI  3   FLA  S24E35    SF                3288
+
+7410      B1259  U1259     A1304  SVI  3   FLA  N22E70    SF                3289
+
+7420       1309  U1312      1318  SVI  3   FLA  N23E73    SF                3289
+
+7430       1410   1423      1431  G16  5   XRA  1-8A      C2.5    2.3E-03   3289
+7430 +     1419   1426      1453  SVI  3   FLA  N22E68    SF                3289
+
+7440       1623   1623      1625  SVI  3   FLA  S23E17    SF                3288
+
+7450       1632   1639      1642  SVI  3   FLA  S23E16    SF                3288
+
+7550      A1701   ////     A0515  SVI  3   DSF  N01E55    10                    
+7550      A1701   ////     A0515  SVI  3   DSF  N01E55    10                    
+
+7460       1825   ////      1604  SAG  C   RSP  025-053   VI/1                  
+7460       1904   ////      1904  PAL  U   RSP  025-062   III/1                 
+
+7470       2004   2018      2031  HOL  3   FLA  N20E65    SF                3289
+
+7480       2127   2128      2134  HOL  3   FLA  N20E65    SF                3289
+
+7490       2230   2232      2234  HOL  3   FLA  N20E65    SF      DSD       3289
+
+7500       2339   2340      2343  HOL  3   FLA  N20E65    SF                3289
+
+7510 +     2357   0004      0009  G16  5   XRA  1-8A      C2.7    1.1E-03   3288

@@ -61,7 +61,6 @@ def convertHCC_HPC(x, y):
     return hpcx, hpcy
 
 
-
 with open('events.json', 'r') as f: 
     events = json.load(f)
 

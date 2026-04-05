@@ -1,0 +1,51 @@
+:Product: 20250414events.txt
+:Created: 2025 Apr 17 0357 UT
+:Date: 2025 04 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Apr 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6790       0000   ////      0440  PAL  C   RSP  128-180   CTM/2                 
+6790 +     0014   0020      0030  G19  5   XRA  1-8A      C6.4    1.2E-03   4055
+
+6800       0039   0039      0039  LEA  U   RBR  245       130                   
+
+6810       0054   0054      0054  LEA  U   RBR  245       290                   
+
+6820 +     0438   0449      0456  G19  5   XRA  1-8A      C5.0    5.0E-03   4055
+
+6830       0535   0535      0535  LEA  G   RBR  245       290                   
+
+6840 +     0600   0605      0611  G19  5   XRA  1-8A      M1.4    8.8E-03   4055
+
+6850 +     0636   0650      0658  G19  5   XRA  1-8A      M4.2    1.7E-03   4055
+6850       0648   0649      0656  LEA  1   FLA  N06W82    SF                4055
+6850       0648   0648      0648  LEA  G   RBR  15400     110               4055
+
+6860 +     0741   0748      0753  G19  5   XRA  1-8A      C3.9    2.8E-03       
+
+6870       0915   0917      0917  LEA  G   RBR  245       180                   
+
+6880 +     1220   1232      1241  G19  5   XRA  1-8A      C5.5    1.3E-03   4055
+
+6890 +     1309   ////      1506  SVI  C   RSP  123-180   CTM/1                 
+
+6900 +     1443   1450      1459  G19  5   XRA  1-8A      C3.2    2.7E-03   4055
+
+6910 +     1530   1540      1544  G19  5   XRA  1-8A      C4.9    3.0E-03   4055
+
+6920 +     1833   1842      1848  G19  5   XRA  1-8A      C6.2    4.1E-03   4055
+
+6930       1913   ////      1919  SAG  C   RSP  025-094   III/1                 
+
+6940 +     1944   2000      2015  G19  5   XRA  1-8A      C6.8    1.2E-03   4055
+
+6950       2102   ////      2102  SAG  C   RSP  025-072   III/1                 
+
+6960 +     2232   2240      2245  G19  5   XRA  1-8A      C2.7    2.1E-03   4055

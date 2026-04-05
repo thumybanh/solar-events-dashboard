@@ -9,7 +9,7 @@ app = FastAPI()
 # allows react to talk to this api layer since they both have different port
 app.add_middleware(
     CORSMiddleware, 
-    allow_origins = ['http://localhost:5173'], # trust this origin
+    allow_origins = ['http://localhost:5173',  'https://solar-events-dashboard-production.up.railway.app'], # trust this origin
     allow_methods = ['*'], #allow all requests from this 5173 port (GET,POST,ETC)
     allow_headers = ['*'], #allow all headers
 )
@@ -29,7 +29,7 @@ def get_events(start_date: str = None, end_date: str = None, goes_class: str = N
     if start_date: 
          events = [e for e in events if e['event_start'] >= start_date.replace('-', '/')]
     if end_date: 
-        events = [e for e in events if e['even_start'] <= end_date.replace('-', '/')]
+        events = [e for e in events if e['event_start'] <= end_date.replace('-', '/')]
     if goes_class: 
         events = [e for e in events if e['event_GOES'].startswith(goes_class)]
     return events
@@ -68,4 +68,4 @@ def download_events(start_date: str = None, end_date: str = None, goes_class: st
 @app.get('/scrape')
 def scrape_events():
     run_daily_scraper()
-    return('status:' "success", "message:" "scraper ran successfully")
+    return{'status:' "success", "message:" "scraper ran successfully"}

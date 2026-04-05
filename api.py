@@ -15,9 +15,15 @@ app.add_middleware(
     allow_headers = ['*'], #allow all headers
 )
 
+# @app.get('/')
+# def home():
+#     return{"message:":"Solar events API is running."}
+
 @app.get('/')
 def home():
-    return{"message:":"Solar events API is running."}
+    import os
+    files = os.listdir('.')
+    return {"message": "Solar events API is running.", "files": files}
 
 @app.get('/events')
 def get_events(start_date: str = None, end_date: str = None, goes_class: str = None):

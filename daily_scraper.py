@@ -1,38 +1,38 @@
+from datetime import datetime, timedelta
 import httpx
 from bs4 import BeautifulSoup
 import json
 
-
 BASE_URL = "https://www.lmsal.com/solarsoft"
 INDEX_URL = "https://www.lmsal.com/solarsoft/latest_events_archive.html"
 
-def run_scraper(): 
+def run_daily_scraper(): 
+    today = datetime.now().strftime('%Y%m%d')
+    yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y%m%d")
+
     try: 
         with open('events.json', 'r') as f: 
             existing = json.load(f)
         all_events = {e['event_id']: e for e in existing}
     except: 
         all_events = {}
-    # this is from the main website, where they have links for each snapshot per day. 
+
     response = httpx.get(INDEX_URL, timeout=10)
     soup = BeautifulSoup(response.text, 'html.parser')
 
     links = []
+
     for a_tag in soup.find_all('a'):
         href = a_tag.get('href')
-        if href and "last_events" in href:
-    #         full_url = BASE_URL + '/' + href
-    #         links.append(full_url)
-    # links = links[:50] #limit to only 50 links to test
-
+        if href and "last_events_" in href: 
             date = href.split('last_events_')[1][:8]
-            if date >= '20150701':
+            if date == today or date == yesterday:
                 full_url = BASE_URL + '/' + href
                 links.append(full_url)
 
     for snapshot_url in links: 
 
-    # this is within each day snapshot, where there will be links of gev names. 
+# this is within each day snapshot, where there will be links of gev names. 
         try: 
             snapshot_response = httpx.get(snapshot_url, timeout=10)
         except Exception as e:
@@ -87,8 +87,6 @@ def run_scraper():
     with open('events.json', 'w') as f:
         json.dump(list(all_events.values()), f, indent = 2)
 
-    print("saved to events.json")
-
 
 if __name__ == '__main__':
-    run_scraper()
+    run_daily_scraper()

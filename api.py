@@ -3,6 +3,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
 from daily_scraper import run_daily_scraper
+from fastapi import BackgroundTasks
 
 app = FastAPI()
 
@@ -66,6 +67,6 @@ def download_events(start_date: str = None, end_date: str = None, goes_class: st
 
 
 @app.get('/scrape')
-def scrape_events():
-    run_daily_scraper()
+def scrape_events(background_tasks: BackgroundTasks):
+    background_tasks.add_task(run_daily_scraper)
     return{'status:' "success", "message:" "scraper ran successfully"}

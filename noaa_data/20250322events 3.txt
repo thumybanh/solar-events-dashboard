@@ -1,0 +1,33 @@
+:Product: 20250322events.txt
+:Created: 2025 Mar 25 0357 UT
+:Date: 2025 03 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Mar 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 970       0024   0025      0025  PAL  G   RBR  245       710                   
+
+1060      A0030   ////     A1349  HOL  3   DSF  N11E58    8                     
+
+ 980 +     0215   0215      0215  LEA  G   RBR  245       140                   
+
+1000 +     0615   0615      0615  LEA  G   RBR  245       320                   
+
+1010 +     1246   ////      1246  SVI  C   RSP  025-173   III/2                 
+
+1020      B1347   1401      1429  HOL  3   FLA  N08W33    SF      ERU       4036
+
+1030       1431   1433      1442  HOL  3   FLA  N09W33    SF      ERU       4036
+
+1040       1445   1449      1600  HOL  3   FLA  N08W35    SF      ERU       4036
+
+1050 +     1710   1717      1727  HOL  3   FLA  N14E13    SF      ERU       4035
+1050       1711   1727      1741  G16  5   XRA  1-8A      C5.0    4.7E-03   4035
+
+1080       2001   ////      2105  PAL  C   RSP  025-073   CTM/1                 

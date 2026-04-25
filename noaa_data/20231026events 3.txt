@@ -1,0 +1,48 @@
+:Product: 20231026events.txt
+:Created: 2023 Oct 29 0357 UT
+:Date: 2023 10 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7700 +     0137   0149      0158  G16  5   XRA  1-8A      C1.0    6.6E-04       
+
+7710       0353   0353      0353  LEA  G   RBR  610       110                   
+
+7720       0413   0413      0413  LEA  U   RBR  610       120                   
+
+7730 +     0433   0444      0453  G16  5   XRA  1-8A      C1.7    3.6E-04       
+
+7740 +     0609   0617      0622  G16  5   XRA  1-8A      B9.5    6.6E-04       
+
+7750       0824   ////      0825  LEA  C   RSP  086-180   III/1                 
+
+7760 +     1213   1223      1237  G16  5   XRA  1-8A      C1.7    1.9E-03   3473
+
+7770 +     1317   1326      1331  G16  5   XRA  1-8A      C4.2    1.7E-03       
+7770      B1325  U1328     A1338  SVI  3   FLA  S20W38    SF      ERU           
+7770       1327   1327      1327  SVI  G   RBR  245       460                   
+7770 +     1327   ////      1330  SAG  C   RSP  112-180   III/1                 
+
+7780 +     1624   1639      1706  G16  5   XRA  1-8A      C2.4    4.5E-03   3471
+7780       1629   1635      1716  HOL  3   FLA  S22W27    SF                3471
+
+7790 +     1831   1840      1847  G16  5   XRA  1-8A      C1.6    1.1E-03   3471
+
+7800 +     1918   1928      1937  G16  5   XRA  1-8A      C1.2    1.1E-03   3473
+
+7810 +     1949   1958      2005  G16  5   XRA  1-8A      C1.4    1.2E-03   3473
+
+7820 +     2153   2203      2221  G16  5   XRA  1-8A      C1.5    1.9E-03       
+7820       2200   2203      2210  HOL  3   FLA  N17E30    SF                    
+
+7830       2234   ////      2334  HOL  2   EPL  ////      0.23    B.8A          
+7830 +     2247   2324      0020  G16  5   XRA  1-8A      M1.4    5.3E-02       
+7830       2302   ////      2310  LEA  C   RSP  069-180   III/1                 
+7830       2318   ////      2333  LEA  C   RSP  025-063   II/2    961           

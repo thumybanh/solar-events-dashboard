@@ -1,0 +1,46 @@
+:Product: 20231019events.txt
+:Created: 2023 Oct 22 0357 UT
+:Date: 2023 10 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7150 +     0127   0133      0137  G16  5   XRA  1-8A      B9.5    5.0E-04       
+
+7160 +     0145   0152      0159  G16  5   XRA  1-8A      C1.5    2.5E-04       
+
+7170       0235   ////      0242  PAL  C   RSP  041-180   III/1                 
+
+7180       0442   ////      0444  LEA  C   RSP  025-180   III/2                 
+
+7190       0558   ////      0558  SVI  C   RSP  076-180   III/1                 
+
+7200 +     0824   0828      0832  G16  5   XRA  1-8A      B7.8    3.7E-04       
+
+7210 +     0839   0846      0855  G16  5   XRA  1-8A      C1.2    9.3E-04       
+
+7330      A0927   ////     A2248  LEA  2   DSF  S16E67    10                    
+
+7220 +     0944   0952      0955  G16  5   XRA  1-8A      C1.4    5.4E-04   3463
+
+7250 +     0955   1000      1005  G16  5   XRA  1-8A      C1.7    4.1E-04       
+
+7230 +     1202   1211      1216  G16  5   XRA  1-8A      C1.4    8.5E-04   3463
+
+7240 +     1338   1345      1352  G16  5   XRA  1-8A      B7.3    3.0E-04       
+7240       1348   ////      1348  SAG  C   RSP  025-054   III/1                 
+
+7260 +     1352   1400      1412  G16  5   XRA  1-8A      C2.7    2.4E-03       
+
+7270       1440   ////      1440  SAG  C   RSP  025-063   III/1                 
+
+7280 +     1752   1803      1809  G16  5   XRA  1-8A      C1.1    8.5E-04   3465
+7280       1759   1801      1806  HOL  3   FLA  N13W30    SF      PRB       3465
+
+7290 +     2047   2106      2130  G16  5   XRA  1-8A      C1.4    3.3E-03       

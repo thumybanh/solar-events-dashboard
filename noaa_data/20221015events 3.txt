@@ -1,0 +1,26 @@
+:Product: 20221015events.txt
+:Created: 2022 Oct 18 0357 UT
+:Date: 2022 10 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9190       0246   ////      0247  LEA  C   RSP  025-180   III/1                 
+
+9200       0510   0522      0535  G16  5   XRA  1-8A      C1.0    1.3E-03   3112
+
+9210 +     0725   0736      0750  G16  5   XRA  1-8A      B7.9    1.1E-03   3112
+
+9220 +     0942   0944      0954  SVI  3   FLA  N26W61    SF                3119
+
+9230 +     1407   1432      1501  G16  5   XRA  1-8A      C6.1    1.3E-02   3112
+
+9270       1424   1426      1431  SVI  3   FLA  N25W22    SF                3122
+
+9240 +     1756   1811      1830  G16  5   XRA  1-8A      B9.5    1.8E-03   3112

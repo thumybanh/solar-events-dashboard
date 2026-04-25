@@ -1,0 +1,82 @@
+:Product: 20220627events.txt
+:Created: 2022 Jun 30 0357 UT
+:Date: 2022 06 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jun 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3840 +     0000   ////      0000  PAL  C   RSP  025-180   III/1                 
+
+3850       0031   0031      0031  PAL  G   RBR  245       120                   
+
+3860       0039   0039      0039  PAL  G   RBR  245       120                   
+
+3870 +     0203   0207      0211  G16  5   XRA  1-8A      B5.3    2.1E-04   3040
+3870       0203   0206      0206  PAL  G   RBR  245       2600                  
+3870 +     0203   ////      0206  PAL  C   RSP  025-180   III/3                 
+3870       0205   0206      0206  PAL  G   RBR  410       2400                  
+
+3880 +     0738   ////      0740  LEA  C   RSP  025-098   III/1                 
+
+3900 +     0821   ////      0825  LEA  C   RSP  025-104   III/1                 
+
+3890       0835   0842      0848  G17  5   XRA  1-8A      B3.6    2.7E-04   3041
+
+3910       0953   ////      0953  SVI  C   RSP  025-080   III/1                 
+
+3920 +     1049   ////      1056  SVI  C   RSP  025-180   III/2                 
+3920 +     1051   1051      1051  SVI  G   RBR  245       390                   
+3920       1051   1051      1051  SAG  U   RBR  410       49                    
+
+3930 +     1103   ////      1104  SVI  C   RSP  025-081   III/1                 
+
+3940 +     1205   ////      1212  SVI  C   RSP  025-180   III/2                 
+3940       1205   1209      1210  SAG  U   RBR  410       86                    
+3940 +     1206   1206      1210  SVI  G   RBR  245       190                   
+
+3950 +     1251   ////      1253  SVI  C   RSP  025-180   III/2                 
+3950 +     1251   1251      1253  SVI  G   RBR  245       120                   
+
+3960 +     1309   ////      1311  SVI  C   RSP  025-180   III/2                 
+
+3970 +     1402   ////      1410  SVI  C   RSP  025-180   III/2                 
+3970       1409   1410      1412  SVI  G   RBR  245       530                   
+
+3980       1420   1424      1430  SVI  G   RBR  245       350                   
+
+3990       1445   1447      1447  SVI  G   RBR  245       230                   
+3990       1447   ////      1447  SVI  C   RSP  025-180   III/1                 
+3990       1447   ////      1516  SAG  C   RSP  025-174   VI/1                  
+
+4000       1501   ////      1501  SVI  C   RSP  025-083   III/1                 
+
+4010 +     1515   1516      1516  SVI  G   RBR  245       270                   
+
+4020 +     1555   ////      1601  SVI  C   RSP  025-081   III/1                 
+
+4050 +     1557   ////      1814  SVI  C   RSP  075-180   CTM/1                 
+
+4030       1609   1616      1621  G17  5   XRA  1-8A      B4.0    2.7E-04   3040
+4030       1614   1616      1621  SVI  3   FLA  S10W06    SF      ERU       3040
+
+4050       1653   ////      1851  SAG  C   RSP  025-180   VI/2                  
+4050       1657   ////      1657  SVI  C   RSP  025-180   III/1                 
+
+4060 +     1720   1734      1752  G16  5   XRA  1-8A      B8.7    1.2E-03   3038
+4060 +     1732   ////      2359  PAL  C   RSP  025-180   VI/1                  
+
+4070 +     1824   1843      1852  G16  5   XRA  1-8A      C1.4    1.6E-03   3040
+4070       1832   1842      1914  HOL  3   FLA  S17W08    SF      DSD       3040
+
+4080       1934   ////      2023  SAG  C   RSP  025-180   VI/2                  
+
+4090       2059   ////      2135  SAG  C   RSP  025-163   VI/1                  
+
+4100       2217   ////      2304  SAG  C   RSP  025-180   VI/1                  
+4100 +     2240   2243      2247  G16  5   XRA  1-8A      B2.9    1.2E-04   3040

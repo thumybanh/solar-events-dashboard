@@ -1,0 +1,58 @@
+:Product: 20250923events.txt
+:Created: 2025 Sep 26 0357 UT
+:Date: 2025 09 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Sep 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3130       0448   0448      0448  LEA  G   RBR  245       150                   
+
+3140       0617   0617      0618  LEA  G   RBR  245       180                   
+
+3150       0635   0636      0636  LEA  G   RBR  245       110                   
+
+3160       0811   0811      0811  LEA  G   RBR  245       260                   
+
+3170       0907   0920      0934  G19  5   XRA  1-8A      C2.5    3.8E-03   4228
+
+3180 +     1024   1034      1038  G18  5   XRA  1-8A      M1.0    4.1E-03   4217
+3180       1031   1031      1032  SVI  G   RBR  245       540               4217
+3180       1031   ////      1033  SVI  C   RSP  025-180   III/2             4217
+3180 +     1037   1038      1042  SVI  3   FLA  S14W42    SF                4217
+
+3190 +     1042   ////      1052  SVI  C   RSP  025-083   II/2    835           
+3190       1042   1042      1042  SVI  G   RBR  410       210                   
+
+3210 +     1357   ////      1358  SAG  C   RSP  025-120   III/2                 
+
+3220 +     1446   ////      1446  SVI  C   RSP  025-081   III/1                 
+
+3230       1740   1740      1740  PAL  G   RBR  410       200                   
+
+3240       1814   1814      1814  PAL  G   RBR  245       120                   
+
+3250 +     1817   1825      1841  G18  5   XRA  1-8A      C1.9    2.6E-03   4230
+
+3260       2018   2018      2018  PAL  G   RBR  245       100                   
+
+3300 +     2018   2036      2326  PAL  G   RNS  245       300                   
+
+3270       2029   2030      2032  PAL  G   RBR  245       170                   
+
+3280 +     2044   ////      2044  SAG  C   RSP  025-053   III/1                 
+
+3310 +     2234   2243      2254  G18  5   XRA  1-8A      C2.0    2.3E-03   4224
+
+3290       2237   ////      2237  LEA  C   RSP  025-180   III/2                 
+3290       2237   2237      2237  LEA  G   RBR  245       210                   
+3290       2237   ////      2254  PAL  C   RSP  025-180   VI/2                  
+
+3310       2248   ////      2255  LEA  C   RSP  025-180   III/2                 
+
+3320       2340   2340      2340  LEA  G   RBR  245       120                   

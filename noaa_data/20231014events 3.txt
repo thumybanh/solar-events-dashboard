@@ -1,0 +1,32 @@
+:Product: 20231014events.txt
+:Created: 2023 Oct 17 0357 UT
+:Date: 2023 10 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6780       0503   0515      0527  G18  5   XRA  1-8A      C9.8    9.4E-03   3460
+6780       0506   0510      0553  LEA  3   FLA  S11W44    SN      UMB       3460
+6780       0515   ////      0612  LEA  C   RSP  047-180   CTM/1             3460
+
+6790       0659   0659      0707  SVI  3   FLA  N12E43    SF                3465
+
+6860      A0933   ////     A2312  LEA  3   DSF  S52W14    11                    
+
+6800       0955   0955      0955  LEA  G   RBR  245       110                   
+
+6810       1206   1207      1207  SVI  G   RBR  245       140                   
+
+6900      A1401   ////     A0609  SVI  3   DSF  S55W17    16                    
+
+6820 +     1604   1632      1637  G16  5   XRA  1-8A      C3.5    2.7E-03   3467
+
+6840       1854   1854      1854  PAL  G   RBR  245       110                   
+
+6850       2224   2224      2224  LEA  G   RBR  245       170                   

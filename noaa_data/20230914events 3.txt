@@ -1,0 +1,47 @@
+:Product: 20230914events.txt
+:Created: 2023 Sep 17 0357 UT
+:Date: 2023 09 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9160 +     0548   0600      0611  G16  5   XRA  1-8A      C1.5    6.8E-04   3429
+
+9170 +     0640   0745      0839  G16  5   XRA  1-8A      M1.4    6.5E-02   3429
+9170       0710   ////      0713  SVI  C   RSP  025-180   III/2                 
+
+9180       1232   1233      1244  SVI  3   FLA  N11E13    SF                3429
+
+9190 +     1517   1531      1541  G16  5   XRA  1-8A      C4.6    4.8E-03   3429
+
+9200 +     1552   ////      1651  SVI  C   RSP  129-180   CTM/1                 
+9200       1626   ////      1638  SAG  C   RSP  025-048   VI/1                  
+
+9210       1656   1656      1656  PAL  G   RBR  245       170                   
+9210 +     1656   ////      1657  SAG  C   RSP  025-180   III/2                 
+
+9220       1808   ////      1828  SAG  C   RSP  025-073   VI/1                  
+
+9230      B1837   1837      1847  HOL  3   FLA  N24W35    SF      ERU       3425
+9230 +     1840   1845      1850  G16  5   XRA  1-8A      C2.9    1.6E-03   3425
+
+9240 +     1908   1913      1917  G16  5   XRA  1-8A      C2.0    1.0E-03   3429
+
+9250 +     1923   1931      1940  G16  5   XRA  1-8A      M1.9    1.1E-02   3429
+9250      B1928   1930      1958  HOL  3   FLA  N12E09    SN      PRB       3429
+9250 +     1931   ////      1932  PAL  C   RSP  025-180   III/2             3429
+9250       1931   1931      1931  PAL  G   RBR  245       460               3429
+
+9260 +     2117   2126      2132  G16  5   XRA  1-8A      M2.5    1.3E-02   3429
+9260       2118   ////      2249  PAL  C   RSP  108-180   VI/1              3429
+9260       2119   2125      2141  HOL  3   FLA  N12E08    SN      PRB       3429
+9260       2124   2125      2125  PAL  G   RBR  410       740               3429
+9260       2125   2125      2125  PAL  G   RBR  610       250               3429
+
+9270       2200   2200      2315  PAL  G   RNS  410       1000                  

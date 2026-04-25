@@ -1,0 +1,48 @@
+:Product: 20221025events.txt
+:Created: 2022 Oct 28 0357 UT
+:Date: 2022 10 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 440 +     0015   ////      0105  LEA  C   RSP  025-060   VI/1                  
+
+ 450       0231   ////      0236  LEA  C   RSP  041-152   III/2                 
+
+ 460       0337   ////      0406  LEA  C   RSP  030-180   VI/1                  
+ 460       0338   ////      0339  PAL  C   RSP  025-180   III/1                 
+
+ 470       0419   0419      0421  LEA  G   RBR  2695      180                   
+
+ 480       0425   0425      0425  LEA  G   RBR  2695      100                   
+
+ 490 +     0506   0521      0543  G16  5   XRA  1-8A      B9.1    1.6E-03       
+ 490       0512   ////      0514  LEA  C   RSP  045-160   III/1                 
+
+ 500 +     0720   ////      0800  LEA  C   RSP  039-175   VI/2                  
+ 500 +     0759   0759      0759  LEA  G   RBR  245       130                   
+
+ 510 +     1217   1230      1235  G16  5   XRA  1-8A      B6.8    6.0E-04       
+ 510       1230   ////      1230  SVI  C   RSP  068-083   III/1                 
+
+ 520 +     1319   ////      1350  SVI  C   RSP  029-082   VI/1                  
+
+ 530       1440   ////      1442  SVI  C   RSP  034-082   III/1                 
+
+ 540 +     1504   1519      1525  G16  5   XRA  1-8A      C3.3    2.3E-03   3133
+
+ 560       1846   ////      1853  PAL  C   RSP  025-044   III/1                 
+
+ 550 +     1852   1903      1911  G16  5   XRA  1-8A      C4.9    2.6E-03   3133
+ 550 +     1858   ////      1902  PAL  C   RSP  025-180   V/2               3133
+ 550       1900   1900      1902  HOL  3   FLA  N27E78    SF                3133
+ 550       1902   ////      1911  HOL  3   BSL  ////      0.1               3133
+
+ 570       2140   ////      2321  PAL  C   RSP  025-045   VI/1                  
+ 570 +     2149   2156      2209  G16  5   XRA  1-8A      B6.1    6.8E-04   3126

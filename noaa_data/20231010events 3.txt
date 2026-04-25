@@ -1,0 +1,56 @@
+:Product: 20231010events.txt
+:Created: 2023 Oct 13 0357 UT
+:Date: 2023 10 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6170 +     0136   0142      0145  G16  5   XRA  1-8A      C4.1    1.5E-03   3460
+
+6180 +     0145   0151      0155  G16  5   XRA  1-8A      C4.6    1.4E-03   3451
+
+6160 +     0155   0209      0222  G16  5   XRA  1-8A      M1.6    1.8E-02   3451
+
+6190       0523   0523      0523  LEA  G   RBR  610       120                   
+
+6200       0537   0537      0537  SVI  G   RBR  2695      150                   
+
+6210 +     0632   0639      0647  G16  5   XRA  1-8A      C2.0    1.7E-03   3451
+6210       0637   0639      0656  SVI  3   FLA  N16W64    SF      ERU       3451
+
+6230 +     1032   1045      1051  G16  5   XRA  1-8A      C2.7    2.6E-03       
+
+6240 +     1148   1200      1208  G16  5   XRA  1-8A      C6.0    5.4E-03   3451
+6240 +    B1200  U1200      1252  SVI  3   FLA  N13W66    SF      ERU       3451
+
+6260 +     1208   1217      1229  G16  5   XRA  1-8A      M2.3    2.0E-02   3451
+6260      B1209  U1229      1243  SVI  3   FLA  N09W69    SF                3452
+
+6250       1246   1246      1246  SVI  G   RBR  410       550                   
+
+6270       1320   1320      1330  SVI  3   FLA  N20E46    SF                3462
+
+6280 +     1344   1354      1402  G16  5   XRA  1-8A      C3.4    2.9E-03   3464
+
+6290 +     1543   1554      1601  G16  5   XRA  1-8A      C2.9    2.5E-03   3464
+6290       1549   1551      1616  HOL  3   FLA  N05E71    1N      DSD       3464
+
+6310       1621   1631      1645  HOL  3   FLA  N05E71    SF                3464
+
+6300 +     1643   1653      1700  G16  5   XRA  1-8A      C2.4    2.1E-03   3464
+6300       1648   1653      1701  HOL  3   FLA  N04E71    SF                3464
+
+6320       1751   1808      1815  HOL  3   FLA  N05E68    SF                3464
+
+6330 +     2028   ////      2035  PAL  C   RSP  025-180   III/1             3460
+6330 +     2028   ////      2058  PAL  C   RSP  025-180   VI/1              3460
+6330       2034   2034      2038  HOL  3   FLA  S09W08    SF      DSD       3460
+6330       2034   2034      2034  PAL  G   RBR  245       410               3460
+
+6340       2111   2117      2208  HOL  3   FLA  S11W05    SF                3460

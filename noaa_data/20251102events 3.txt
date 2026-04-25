@@ -1,0 +1,45 @@
+:Product: 20251102events.txt
+:Created: 2025 Nov 05 0357 UT
+:Date: 2025 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2150       0003   ////      0012  LEA  C   RSP  025-180   III/2                 
+
+2160       0012   ////      0012  PAL  C   RSP  025-139   III/2                 
+
+2170 +     0013   0026      0037  G18  5   XRA  1-8A      M1.0    9.9E-03       
+
+2180 +     0054   0054      0054  LEA  G   RBR  245       130                   
+
+2190       0115   ////      0115  LEA  C   RSP  025-133   III/2                 
+
+2200       0456   0458      0458  LEA  G   RBR  245       120                   
+
+2240       0549   ////      1258  SVI  C   RSP  054-180   CTM/1                 
+
+2220       0610   ////      1024  LEA  C   RSP  067-180   CTM/1                 
+
+2210       0741   ////      0741  SVI  C   RSP  025-047   III/1                 
+
+2230 +     0826   ////      0849  SVI  C   RSP  025-180   VI/2                  
+2230       0845   0845      0846  LEA  G   RBR  610       100                   
+
+2250 +     1233   1246      1256  G18  5   XRA  1-8A      C8.2    9.9E-03   4267
+2250 +     1236   ////      1242  SVI  C   RSP  025-180   III/3             4267
+2250 +     1237   1237      1237  SVI  G   RBR  245       490               4267
+2250       1237   1238      1250  SVI  3   FLA  N00W61    SF      ERU       4267
+
+2260 +     2108   2119      2126  G18  5   XRA  1-8A      C3.7    2.7E-03   4272
+2260       2116   2118      2124  HOL  3   FLA  N25E76    SF                    
+
+2270 +     2229   2235      2238  G18  5   XRA  1-8A      C2.8    1.1E-03   4274
+
+2280 +     2353   0003      0007  G18  5   XRA  1-8A      C4.5    2.4E-03   4274

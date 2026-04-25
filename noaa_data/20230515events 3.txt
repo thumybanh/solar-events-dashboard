@@ -1,0 +1,46 @@
+:Product: 20230515events.txt
+:Created: 2023 May 18 0357 UT
+:Date: 2023 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2660 +     0018   ////      0019  LEA  C   RSP  025-088   III/1                 
+
+2670       0027   0027      0027  LEA  G   RBR  410       150                   
+
+2680 +     0046   0051      0055  G16  5   XRA  1-8A      C3.4    1.4E-03   3306
+
+2690       0641   0641      0641  LEA  G   RBR  410       230                   
+
+2700       0654   ////      0654  SVI  C   RSP  025-041   III/1                 
+
+2710 +     0726   0726      0727  LEA  G   RBR  245       170                   
+2710 +     0730   0810      0933  G16  5   XRA  1-8A      C2.9    6.9E-03       
+2710       0827   ////      0827  SVI  C   RSP  025-051   III/1                 
+
+2720       0839   ////      0841  SVI  C   RSP  025-054   III/1                 
+
+2730 +     0933   0938      0943  G16  5   XRA  1-8A      C2.3    1.6E-03   3305
+
+2740       1004   ////      1004  SVI  C   RSP  025-054   III/1                 
+
+2750 +     1200   ////      1201  SVI  C   RSP  025-082   III/1                 
+
+2760 +     1253   ////      1256  SVI  C   RSP  025-083   III/1                 
+
+2770 +     1438   ////      1447  SVI  C   RSP  025-049   III/1                 
+
+2780       1804   ////      1804  SAG  C   RSP  025-048   III/1                 
+
+2790       1859   ////      1904  PAL  C   RSP  025-075   III/1                 
+
+2800       1938   ////      1938  PAL  C   RSP  025-096   III/1                 
+
+2810       2209   ////      2228  PAL  C   RSP  025-043   VI/1                  

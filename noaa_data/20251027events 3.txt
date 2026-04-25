@@ -1,0 +1,28 @@
+:Product: 20251027events.txt
+:Created: 2025 Oct 30 0357 UT
+:Date: 2025 10 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Oct 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1710 +     0130   0141      0151  G18  5   XRA  1-8A      C1.0    1.1E-03   4262
+
+1720 +     0207   0212      0218  G18  5   XRA  1-8A      B9.2    6.2E-04   4266
+
+1730 +     1003   1021      1035  G18  5   XRA  1-8A      C1.7    2.6E-03   4262
+1730 +     1016   1016      1016  SVI  G   RBR  245       770                   
+1730       1017   1017      1017  SVI  G   RBR  410       120                   
+
+1740 +     1243   ////      1303  SVI  C   RSP  025-180   VI/2                  
+
+1750 +     1414   1421      1431  G18  5   XRA  1-8A      B6.8    6.8E-04   4256
+
+1760 +     1437   ////      1437  SAG  C   RSP  025-048   III/1                 
+
+1780      A1455   ////     A0617  SVI  3   DSF  N16E34    25                    

@@ -1,0 +1,69 @@
+:Product: 20230825events.txt
+:Created: 2023 Aug 28 0357 UT
+:Date: 2023 08 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Aug 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4740       0000   ////      0110  PAL  C   RSP  025-068   VI/1              3415
+
+4760 +     0000   ////      0403  PAL  C   RSP  025-180   CTM/1                 
+
+4740 +     0056   0109      0126  G16  5   XRA  1-8A      M1.4    6.2E-04   3415
+4740       0102   ////      0106  PAL  C   RSP  025-180   III/1             3415
+4740       0103   0106      0144  LEA  3   FLA  S12E50    1N      UMB       3415
+
+4750 +     0321   0329      0333  G16  5   XRA  1-8A      C1.4    9.0E-04   3405
+4750       0323   ////      0325  PAL  C   RSP  025-180   III/2             3405
+4750       0323   ////      0325  LEA  C   RSP  025-180   V/3               3405
+4750 +     0324   0324      0324  LEA  G   RBR  410       170               3405
+4750       0324   0324      0324  PAL  G   RBR  1415      130               3405
+4750       0327   0330      0331  LEA  3   FLA  N08W64    SF      UMB       3405
+4750 +     0329   0329      0329  LEA  G   RBR  245       230               3405
+
+4770 +     0444   ////      0445  LEA  C   RSP  025-180   III/2                 
+
+4780       0908   0908      0908  LEA  G   RBR  610       170                   
+
+4790 +     0910   0917      0921  G16  5   XRA  1-8A      C1.2    5.6E-04   3405
+4790       0916   0916      0916  LEA  G   RBR  245       190                   
+
+4800 +     1018   1022      1029  G16  5   XRA  1-8A      B8.1    3.1E-04   3405
+4800       1019   ////      2318  SAG  C   RSP  025-180   VI/1                  
+4800       1027   ////      1224  SAG  C   RSP  047-180   CTM/1                 
+
+4860       1052   ////      1614  SVI  C   RSP  025-180   VI/2                  
+
+4820       1056   ////      1410  SVI  C   RSP  047-180   CTM/1                 
+
+4810       1106   1108      1127  SVI  3   FLA  N06W41    SF                3405
+4810 +     1111   1117      1124  G16  5   XRA  1-8A      C1.2    7.3E-04   3405
+
+4830 +     1439   1443      1447  G16  5   XRA  1-8A      B7.9    3.2E-04   3405
+
+4840       1515   1519      1527  SVI  3   FLA  N13E22    SF                3413
+
+4850 +     1535   1536      1539  SVI  3   FLA  N09W70    SF                3405
+4850 +     1540   1549      1553  G16  5   XRA  1-8A      C5.0    3.2E-04   3405
+
+4870 +     1613   1620      1624  G16  5   XRA  1-8A      C1.1    5.8E-04   3416
+
+4880       1659   ////      1659  SVI  C   RSP  075-180   III/1                 
+
+4890       1742   ////      1751  PAL  C   RSP  025-180   III/2                 
+
+4910       1752   ////      2049  PAL  C   RSP  025-180   CTM/1                 
+
+4930       1901   ////      2359  PAL  C   RSP  025-180   VI/2                  
+
+4900       1950   1950      1950  PAL  G   RBR  245       130                   
+
+4920       2141   2145      2149  G16  5   XRA  1-8A      B6.7    3.0E-04       
+
+4940       2242   ////      2359  PAL  C   RSP  040-180   CTM/1                 

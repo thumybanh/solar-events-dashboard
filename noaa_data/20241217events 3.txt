@@ -1,0 +1,56 @@
+:Product: 20241217events.txt
+:Created: 2024 Dec 20 0357 UT
+:Date: 2024 12 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Dec 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7700       0003   0005      0006  LEA  3   FLA  S19W09    SF                3922
+
+7710 +     0122   0130      0135  G16  5   XRA  1-8A      C4.5    2.1E-03   3917
+
+7720 +     0401   0412      0432  G16  5   XRA  1-8A      C3.6    5.4E-03   3917
+7720       0428   0428      0428  LEA  G   RBR  245       150                   
+
+7730 +     0446   0452      0456  G16  5   XRA  1-8A      C4.0    2.0E-03   3917
+
+7740       0640   ////      0757  LEA  3   EPL  ////      0.26                  
+
+7750 +     0744   0752      0759  G16  5   XRA  1-8A      C2.2    1.8E-03   3925
+7750       0749   0752      0756  SVI  3   FLA  N10E17    SF                3925
+
+7760       0814   0814      0814  LEA  G   RBR  245       120                   
+
+7770       0825   ////      0825  SVI  C   RSP  075-180   III/1                 
+
+7780       0829   0831      0831  LEA  G   RBR  245       190                   
+
+7790 +     1329   1329      1329  SVI  G   RBR  245       100                   
+
+7840       1341   ////      1728  SAG  C   RSP  110-180   CTM/1                 
+
+7830       1342   ////      1514  SVI  C   RSP  120-180   CTM/1                 
+
+7800 +     1346   1346      1347  SVI  G   RBR  245       190                   
+
+7810       1348   1348      1350  SVI  3   FLA  S18W44    SF                3924
+
+7820 +     1353   1353      1353  SVI  G   RNS  245       110                   
+
+7910      A1453   ////     A0653  SVI  3   DSF  S54W11    14                    
+
+7850 +     1804   1812      1825  G16  5   XRA  1-8A      C2.6    2.7E-03   3920
+7850       1811   1814      1826  HOL  3   FLA  N21W66    SF                3920
+
+7860 +     2016   2021      2025  G16  5   XRA  1-8A      C2.1    1.0E-03   3922
+
+7870 +     2134   2146      2156  G16  5   XRA  1-8A      C5.9    5.1E-03   3927
+7870       2135   ////      2135  PAL  C   RSP  025-070   III/1                 
+
+7880       2300   2301      2312  HOL  3   FLA  S20W28    SF                3922

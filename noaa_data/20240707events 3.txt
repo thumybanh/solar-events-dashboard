@@ -1,0 +1,102 @@
+:Product: 20240707events.txt
+:Created: 2024 Jul 10 0357 UT
+:Date: 2024 07 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jul 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8240       0018   ////      0018  LEA  C   RSP  025-058   III/1                 
+
+8250       0147   ////      0149  LEA  C   RSP  025-149   III/1                 
+
+8260 +     0156   0159      0203  G16  5   XRA  1-8A      C7.2    2.3E-03   3729
+
+8270       0215   0216      0216  PAL  G   RBR  245       160                   
+
+8280 +     0219   0229      0239  G16  5   XRA  1-8A      C3.8    9.1E-04   3738
+
+8370 +     0239   0248      0252  G16  5   XRA  1-8A      C4.9    3.5E-03   3738
+
+8290       0253   ////      0255  LEA  C   RSP  074-180   III/1                 
+8290       0254   0254      0254  PAL  G   RBR  245       130                   
+
+8300       0307   ////      0514  LEA  C   RSP  071-180   CTM/1                 
+8300       0354   0354      0354  PAL  G   RBR  245       130                   
+
+8310       0451   0520      0626  SVI  3   FLA  S09E55    SF                3738
+8310 +     0525   0546      0558  G16  5   XRA  1-8A      C8.2    1.5E-02   3738
+
+8320       0628   ////      0629  SVI  C   RSP  025-050   III/1                 
+
+8330       0639   0652      0653  SVI  3   FLA  S09E55    SF                3738
+
+8340 +     0700   0705      0712  G16  5   XRA  1-8A      C4.7    3.1E-03   3738
+8340       0701   0704      0802  SVI  3   FLA  S09E55    SF                3738
+
+8350       0936   0939      0942  SVI  3   FLA  S09E55    SF                3738
+
+8360       0949   0950      0953  SVI  3   FLA  S09E55    SF                3738
+
+8380      B1039  U1039     A1042  SVI  3   FLA  S09E55    SF                3738
+
+8390      B1115  U1115     A1118  SVI  3   FLA  S10E51    SF      ERU       3738
+
+8400       1125   1126      1128  SVI  3   FLA  S10E51    SF                3738
+
+8410 +     1301   1325      1350  HOL  3   FLA  S09E50    SF      DSD       3738
+
+8420      B1406  U1408     A1432  SVI  3   FLA  S09E51    SF                3738
+
+8430 +     1457   1507      1525  G16  5   XRA  1-8A      C4.5    1.1E-03   3738
+8430 +     1503   1507      1512  HOL  3   FLA  S09E48    SF      DSD       3738
+8430 +     1509   ////      1510  SAG  C   RSP  025-180   III/2             3738
+8430       1509   1509      1509  SVI  G   RBR  410       140               3738
+8430       1510   1510      1510  SVI  G   RBR  245       240               3738
+
+8440 +     1543   1545     A1547  SVI  3   FLA  S10E50    SF                3738
+8440 +     1548   1550      1554  G16  5   XRA  1-8A      C4.5    1.5E-03   3738
+
+8450 +     1610   1613      1616  SVI  3   FLA  S10E49    SF                3738
+
+8460       1616   ////      1645  SVI  C   RSP  025-180   VI/1                  
+8460       1616   ////      1617  SAG  C   RSP  025-061   III/1                 
+
+8470       1622   1622      1625  SVI  3   FLA  S09E50    SF                3738
+
+8490 +     1632   ////      1711  SAG  C   RSP  025-180   VI/1                  
+
+8480       1646   1647      1650  HOL  3   FLA  S09E49    SF      DSD       3738
+
+8500 +     1736   1749      1759  G16  5   XRA  1-8A      C5.4    6.3E-03   3738
+8500       1743   1746      1750  HOL  3   FLA  S09E47    SF                3738
+
+8510       1828   1829      1837  HOL  3   FLA  S09E46    SF      DSD       3738
+
+8520 +     1926   ////      1926  PAL  C   RSP  025-060   III/1                 
+
+8530 +     1938   1956      2010  G16  5   XRA  1-8A      M1.0    1.4E-02       
+
+8540 +     2042   ////      2043  SAG  C   RSP  025-063   III/1                 
+8540       2042   ////      2359  PAL  C   RSP  025-180   VI/2                  
+
+8550       2114   2127      2142  G16  5   XRA  1-8A      M1.3    3.9E-03       
+8550       2119   ////      2120  SAG  C   RSP  025-091   III/1                 
+
+8580       2119   ////      2120  SAG  C   RSP  025-091   III/1                 
+
+8570 +     2142   2151      2154  G16  5   XRA  1-8A      M1.1    1.2E-02       
+
+8560 +     2154   2159      2204  G16  5   XRA  1-8A      M1.4    8.8E-03       
+
+8700       2204   2230      2245  G16  5   XRA  1-8A      M2.4    5.2E-02       
+
+8590       2214   ////      2248  SAG  C   RSP  025-180   VI/1                  
+
+8600 +     2315   2321      2357  HOL  3   FLA  S09E44    SF      DSD       3738
+8600       2327   ////      2347  LEA  C   RSP  025-180   VI/1              3738

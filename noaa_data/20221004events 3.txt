@@ -1,0 +1,65 @@
+:Product: 20221004events.txt
+:Created: 2022 Oct 07 0357 UT
+:Date: 2022 10 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7250 +     0037   0043      0056  G16  5   XRA  1-8A      C4.4    3.9E-03   3112
+7250       0041   0042      0108  LEA  3   FLA  N23E55    SF                3112
+
+7260       0100   ////      0100  PAL  C   RSP  025-068   III/1                 
+
+7270       0421   0427      0431  G17  5   XRA  1-8A      C2.1    1.2E-03   3112
+7270       0424   0427      0430  LEA  3   FLA  N23E55    SF                3112
+
+7280       0524   0532      0539  G17  5   XRA  1-8A      C1.6    1.3E-03   3112
+7280       0531   0532      0534  LEA  3   FLA  N23E55    SF                3112
+
+7290      B0545  U0555      0639  SVI  3   FLA  N19W66    SF                3110
+7290       0548   0550      0555  LEA  3   FLA  N20W66    SF                3110
+7290       0628   0641      0656  SVI  3   FLA  N25E50    SF                3112
+
+7300       0640   0647      0711  SVI  3   FLA  N19W66    SF                3110
+7300       0647   0647      0654  LEA  3   FLA  N20W66    SF                3110
+
+7310       0712   0727      0823  LEA  3   FLA  N20W66    SF                3110
+7310       0724   0727      0746  SVI  3   FLA  N18W69    SF                3110
+7310       0750   0751      0753  SVI  3   FLA  N18W69    SF                3110
+
+7320       0826   0836      0837  LEA  3   FLA  N20W66    SF                3110
+
+7330       0853   0945      0956  LEA  3   FLA  N20W66    SF                3110
+7330       0905   0908      0907  LEA  3   FLA  N23E55    SF                3112
+
+7340       1015   1025      1039  SVI  3   FLA  N27E45    SF      ERU       3112
+
+7350       1225   1244      1248  G16  5   XRA  1-8A      C2.5    2.7E-03   3110
+7350       1240   1308      1451  SVI  3   FLA  N17W66    SN      DSD       3110
+7350       1248   1315      1351  G16  5   XRA  1-8A      M1.6    3.9E-02   3110
+7350 +     1306   1310      1324  SVI  G   RBR  245       2200              3110
+7350       1306   1320      1325  SAG  U   RBR  610       36                3110
+7350 +     1307   ////      1434  SVI  C   RSP  025-180   IV/2              3110
+7350 +     1308   1311      1315  SVI  G   RBR  410       140               3110
+7350 +     1319   1321      1322  SVI  G   RBR  1415      140               3110
+7350 +     1319   1320      1322  SVI  G   RBR  4995      160               3110
+7350 +     1319   1320      1320  SVI  G   RBR  8800      110               3110
+7350 +     1319   ////      1416  SVI  C   RSP  025-180   VI/2              3110
+
+7360       1438   1438      1441  SVI  3   FLA  N22E47    SF                3112
+
+7370 +     1509   1510      1520  SVI  3   FLA  N18W75    SF                3110
+
+7380 +     1926   1937      2003  G16  5   XRA  1-8A      C1.5    3.1E-03   3110
+
+7390 +     2213   ////      2219  PAL  C   RSP  025-180   III/2                 
+
+7400 +     2247   2256      2312  G16  5   XRA  1-8A      C1.4    2.0E-03   3112
+
+7410       2323   2323      2325  LEA  3   FLA  N24E43    SF                3112

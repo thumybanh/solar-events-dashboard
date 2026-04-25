@@ -1,0 +1,68 @@
+:Product: 20221118events.txt
+:Created: 2022 Nov 21 0357 UT
+:Date: 2022 11 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4990       0249   ////      0250  PAL  C   RSP  025-156   III/1                 
+
+5000       0254   ////      0255  LEA  C   RSP  025-165   III/1                 
+
+5010       0502   ////      0509  LEA  C   RSP  034-180   III/1                 
+
+5020 +     0655   ////      0656  LEA  C   RSP  025-100   III/2                 
+
+5030 +     0729   ////      0730  LEA  C   RSP  025-137   III/2                 
+
+5040 +     0825   0830      0835  G16  5   XRA  1-8A      C1.1    5.7E-04       
+
+5050 +     0857   0914      0931  G16  5   XRA  1-8A      C5.5    7.5E-03       
+
+5060       0932   0932      0933  SVI  G   RBR  410       260                   
+
+5070       1014   ////      1014  SVI  C   RSP  025-083   III/1                 
+
+5080 +     1027   1041      1054  G16  5   XRA  1-8A      C4.4    5.5E-03       
+
+5090 +     1123   1128      1133  G16  5   XRA  1-8A      C5.1    2.0E-03   3150
+5090       1125   ////      1126  SVI  C   RSP  025-152   III/2                 
+5090       1126   1126      1126  SVI  G   RBR  610       630                   
+5090       1126   1126      1126  SVI  G   RBR  245       110                   
+5090       1131   1131      1132  SVI  G   RBR  410       180                   
+
+5100      B1309  U1311     A1345  SVI  3   FLA  N21W36    SF                3148
+
+5110       1345  U1355      1400  SVI  3   FLA  S33E37    SF      DSD       3148
+5110 +     1350   1355      1359  G16  5   XRA  1-8A      C1.1    5.7E-04   3148
+5110       1358   ////      1359  SAG  C   RSP  025-043   III/1             3148
+
+5300      A1409   ////     A1027  SVI  2   DSF  N11W09    15                    
+
+5120 +     1457   1512      1542  G16  5   XRA  1-8A      C1.5    3.6E-03   3150
+5120 +     1509   1509      1509  SVI  G   RBR  610       100                   
+
+5140      B1635   1638      1657  HOL  2   FLA  N18W38    SF                    
+
+5150       1706   1723      1801  HOL  3   FLA  N18W38    SF                    
+
+5160       1818   1828      1905  HOL  3   FLA  N18W39    SF                    
+5160 +     1844   1905      1917  G16  5   XRA  1-8A      C4.6    6.5E-03   3150
+5160 +     1852   1853      1854  PAL  G   RBR  610       650                   
+5160       1853   1853      1854  PAL  G   RBR  1415      120                   
+5160 +     1853   1853      1853  PAL  G   RBR  410       110                   
+
+5170       1945   2014      2017  HOL  3   FLA  N18W39    SF                    
+
+5180 +     2159   2204      2208  G16  5   XRA  1-8A      C1.8    6.3E-04   3147
+5180       2203   2205      2210  HOL  3   FLA  S15E47    SF      DSD       3147
+
+5190       2251   2251      2305  HOL  3   FLA  N18W41    SF                    
+
+5200 +     2352   0001      0006  G16  5   XRA  1-8A      C2.0    1.2E-03   3148

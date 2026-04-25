@@ -1,0 +1,41 @@
+:Product: 20231006events.txt
+:Created: 2023 Oct 09 0357 UT
+:Date: 2023 10 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5290      B0000   ////      0005  HOL  3   FLA  N18W04    SF                3451
+
+5390 +    A0011   ////     A1405  HOL  3   DSF  S07E18    8                     
+
+5310 +     0027   ////      0028  LEA  C   RSP  025-180   III/2                 
+
+5320       0822   ////      0822  SVI  C   RSP  025-041   III/1                 
+
+5340       0849   ////      0942  LEA  C   RSP  062-180   VI/1                  
+
+5330       0900   ////      0901  SVI  C   RSP  115-180   III/1                 
+
+5350 +     1048   1103      1122  G16  5   XRA  1-8A      C3.4    5.9E-03       
+5350       1056   ////      1056  SVI  C   RSP  048-082   III/1                 
+
+5360      B1326  U1328     A1332  SVI  3   FLA  N11W14    SF                3452
+
+5370      B1352  U1354     A1356  SVI  3   FLA  S11E07    SF                3454
+
+5380 +     1536   1543      1548  G16  5   XRA  1-8A      C1.4    9.4E-04   3452
+5380       1540   1543      1548  HOL  3   FLA  N11W16    SF      DSD       3452
+
+5400 +     1706   1713      1717  G16  5   XRA  1-8A      C1.5    9.0E-04   3450
+
+5410 +     1743   1753      1801  G16  5   XRA  1-8A      C4.0    2.5E-03       
+5410       1749   ////      1749  SAG  C   RSP  025-044   III/1                 
+
+5420 +     1808   1817      1822  G16  5   XRA  1-8A      C4.2    2.4E-03       

@@ -1,0 +1,45 @@
+:Product: 20230901events.txt
+:Created: 2023 Sep 04 0357 UT
+:Date: 2023 09 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5940       0203   0215      0220  G16  5   XRA  1-8A      C1.1    1.4E-03   3413
+
+5930 +     0236   ////      0236  LEA  C   RSP  025-137   III/2                 
+
+5950 +     0254   0351      0447  G16  5   XRA  1-8A      M1.2    6.7E-02   3413
+5950 +     0303   ////      0408  LEA  C   RSP  025-180   IV/2              3413
+5950 +     0304   ////      0810  LEA  C   RSP  025-180   VI/1              3413
+5950 +     0307   0311      0319  PAL  G   RBR  2695      190               3413
+5950 +     0307   0311      0317  LEA  G   RBR  4995      150               3413
+5950 +     0308   0311      0317  LEA  G   RBR  1415      830               3413
+5950 +     0308   ////      0313  LEA  C   RSP  030-048   II/2    743       3413
+5950 +     0311   0311      0312  LEA  G   RBR  8800      100               3413
+
+5960       0545   ////      0548  SVI  C   RSP  025-180   III/2                 
+
+6020       0552   0638      0646  SVI  3   FLA  N09W21    SF                3413
+
+5970       0622   0626      0657  SVI  3   FLA  S08W55    SF                3415
+5970       0629   ////      0630  SVI  C   RSP  025-083   III/1             3415
+
+5980       0656   ////      0754  SVI  C   RSP  025-180   VI/2                  
+
+5990 +     1507   1514      1519  G16  5   XRA  1-8A      B9.9    6.1E-04       
+
+6000 +     2019   2027      2035  G16  5   XRA  1-8A      C1.0    1.0E-03       
+
+6030       2035   2038      2042  G16  5   XRA  1-8A      B9.3    4.6E-04       
+
+6010 +     2148   2224      2233  G16  5   XRA  1-8A      C7.3    7.6E-03       
+6010       2219   ////      2224  SAG  C   RSP  025-180   III/2                 
+
+6040       2313   ////      2359  LEA  C   RSP  025-180   VI/1                  

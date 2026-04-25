@@ -1,0 +1,46 @@
+:Product: 20220603events.txt
+:Created: 2022 Jun 06 0357 UT
+:Date: 2022 06 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jun 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9570 +     0243   0248      0252  G16  5   XRA  1-8A      B8.1    2.7E-04   3024
+9570 +     0245   ////      0251  LEA  C   RSP  025-180   III/3                 
+9570 +     0246   0246      0246  LEA  G   RBR  245       390                   
+9570 +     0246   0246      0246  LEA  G   RBR  410       160                   
+
+9580 +     0711   0720      0725  G16  5   XRA  1-8A      B6.7    3.4E-04   3024
+9580 +     0714   ////      0715  LEA  C   RSP  025-180   III/2                 
+
+9590 +     0747   0747      0747  SVI  G   RBR  245       110                   
+
+9600 +     0823   ////      0823  LEA  C   RSP  025-180   III/1                 
+
+9610       0905   0905      0905  LEA  G   RBR  245       100                   
+9610 +     0905   ////      0906  SVI  C   RSP  025-180   III/2                 
+
+9630       0931   0931      0931  LEA  G   RBR  245       160                   
+
+9640 +     0954   ////      1002  SVI  C   RSP  025-083   III/2                 
+
+9750      A1700   ////     A0501  SVI  3   DSF  N34E26    10                    
+
+9650 +     2001   ////      2001  PAL  C   RSP  025-078   III/2                 
+
+9660       2122   2122      2122  SAG  U   RBR  245       100                   
+
+9670       2123   ////      2126  SAG  C   RSP  025-061   III/1                 
+9670       2123   ////      2216  PAL  C   RSP  025-073   VI/1                  
+
+9680 +     2127   2127      2128  PAL  G   RBR  245       160                   
+
+9690       2157   ////      2158  SAG  C   RSP  025-051   III/1                 
+
+9700       2254   ////      2255  PAL  C   RSP  025-180   III/1                 

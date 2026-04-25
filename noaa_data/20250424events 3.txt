@@ -1,0 +1,43 @@
+:Product: 20250424events.txt
+:Created: 2025 Apr 27 0357 UT
+:Date: 2025 04 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Apr 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8310 +     0020   0028      0034  G19  5   XRA  1-8A      C3.8    1.2E-03   4064
+8310       0024   0024      0041  HOL  3   FLA  N15W12    SN      ERU       4064
+8310 +     0024   0024      0024  LEA  G   RBR  610       390               4064
+8310 +     0024   0024      0024  LEA  G   RBR  2695      120               4064
+8310 +     0024   0024      0024  LEA  G   RBR  410       120               4064
+
+8320       0037   0037      0044  HOL  3   FLA  S01W16    SF      ERU       4067
+
+8330       0048   0050      0053  HOL  3   FLA  S01W15    SF                4067
+
+8340 +     0136   0144      0151  G19  5   XRA  1-8A      C3.0    2.5E-03   4070
+
+8350 +     0231   0237      0239  G19  5   XRA  1-8A      C3.0    1.3E-03   4067
+
+8360       0605   0620      0646  SVI  3   FLA  S13E22    SF                4070
+8360 +     0619   ////      0650  SVI  3   EPL  ////      0.27    B.9A      4070
+
+8450       1418   1434      1456  G19  5   XRA  1-8A      C2.4    4.9E-03   4064
+
+8370 +     1421   ////      1423  SVI  C   RSP  025-083   III/1                 
+
+8460       1532   1541      1544  G19  5   XRA  1-8A      C2.0    1.4E-03   4064
+
+8400       1532   ////      1533  SAG  C   RSP  025-064   III/1                 
+
+8410 +     1909   1909      1909  PAL  G   RBR  245       140                   
+
+8420       2029   ////      2029  SAG  C   RSP  025-066   III/1                 
+
+8430       2125   ////      2125  SAG  C   RSP  025-092   III/1                 

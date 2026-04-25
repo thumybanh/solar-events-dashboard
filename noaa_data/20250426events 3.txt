@@ -1,0 +1,41 @@
+:Product: 20250426events.txt
+:Created: 2025 Apr 29 0357 UT
+:Date: 2025 04 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Apr 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8560 +     0718   ////      0718  LEA  C   RSP  039-095   III/1                 
+
+8570 +     0733   0742      0747  G19  5   XRA  1-8A      C1.3    1.3E-03   4064
+
+8590       0747   0754      0757  G19  5   XRA  1-8A      C1.3    6.2E-04   4064
+
+8580 +     0858   ////      0902  LEA  C   RSP  025-180   III/2                 
+
+8610 +     0952   ////      1155  SVI  C   RSP  025-180   VI/2                  
+
+8600 +     0955   1007      1026  G19  5   XRA  1-8A      C1.6    2.7E-03   4072
+
+8620 +     1056   1122      1134  G19  5   XRA  1-8A      C1.7    3.7E-03   4064
+
+8630 +     1400   ////      1429  SAG  C   RSP  025-180   VI/2                  
+
+8640 +     1733   1733      1733  PAL  G   RBR  245       260                   
+
+8650 +     1736   1736      1736  PAL  G   RBR  245       120                   
+
+8660       1815   ////      1816  SAG  C   RSP  025-065   III/1                 
+
+8670 +     2120   ////      2122  PAL  C   RSP  025-148   III/2             4070
+8670       2122   2123      2127  HOL  3   FLA  S15W14    SF      YSR       4070
+
+8680       2322   ////      2323  LEA  C   RSP  025-180   III/1                 
+
+8690 +     2347   ////      2354  LEA  C   RSP  025-180   III/2                 

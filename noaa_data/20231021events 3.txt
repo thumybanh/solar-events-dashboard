@@ -1,0 +1,22 @@
+:Product: 20231021events.txt
+:Created: 2023 Oct 24 0357 UT
+:Date: 2023 10 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7420 +     0000   0030      0059  G16  5   XRA  1-8A      C2.8    7.3E-03   3467
+
+7430 +     1202   1210      1217  G16  5   XRA  1-8A      C1.5    8.6E-04   3464
+
+7440       1807   1817      1825  G16  5   XRA  1-8A      B7.0    7.0E-04   3464
+
+7450       1937   ////      1938  SAG  C   RSP  025-055   III/1                 
+
+7460       2244   ////      2245  LEA  C   RSP  025-104   III/1                 

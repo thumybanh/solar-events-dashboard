@@ -1,0 +1,85 @@
+:Product: 20221221events.txt
+:Created: 2022 Dec 24 0357 UT
+:Date: 2022 12 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Dec 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2690       0000   ////      0153  PAL  C   RSP  025-180   VI/2              3169
+2690       0000   ////      0343  PAL  C   RSP  110-180   CTM/1             3169
+
+2790       0000   ////      1054  LEA  C   RSP  025-180   CTM/2                 
+2790       0000   ////      1054  LEA  C   RSP  025-180   VI/3                  
+
+2780 +     0007   0015      0019  G16  5   XRA  1-8A      C2.2    1.4E-03       
+
+2690       0012   0014      0017  LEA  3   FLA  N20E33    SF                3169
+
+2700 +     0036   ////      0036  LEA  C   RSP  025-180   III/3                 
+2700 +     0036   0036      0036  LEA  G   RBR  245       810                   
+
+2710       0147   0148      0151  LEA  3   FLA  N20E33    SF                3169
+
+2720 +     0200   0201      0201  LEA  G   RBR  245       3000                  
+
+2730       0254   0254      0254  LEA  G   RBR  245       1300                  
+
+2740       0258   ////      0300  LEA  C   RSP  025-180   III/2                 
+2740       0258   0258      0258  LEA  G   RBR  245       1000                  
+2740       0258   ////      0343  PAL  C   RSP  025-180   VI/1                  
+
+2750       0301   0301      0301  LEA  G   RBR  245       1000                  
+
+2760       0451   ////      0504  LEA  C   RSP  042-097   II/2    369           
+
+2770 +     0513   0518      0522  G16  5   XRA  1-8A      C6.9    2.1E-03   3169
+2770       0514   0514      0514  LEA  G   RBR  410       210               3169
+2770       0515   0517      0527  LEA  3   FLA  N20E33    1F                3169
+
+2800 +     0557   0621      0640  G16  5   XRA  1-8A      C7.6    1.3E-02   3169
+2800       0624   ////      1515  SVI  C   RSP  025-180   CTM/1                 
+2800       0631   ////      1515  SVI  C   RSP  025-180   VI/2                  
+
+2810 +     0855   0901      0906  G16  5   XRA  1-8A      C1.8    1.2E-03   3170
+
+2890       0911   0946      1153  SVI  G   RNS  245       220                   
+
+2820       0955   0955      0956  LEA  G   RBR  245       120                   
+
+2830       0959   0959      0959  LEA  G   RBR  245       190                   
+
+2840       1018   1018      1018  LEA  G   RBR  245       190                   
+
+2850       1041   1041      1041  LEA  G   RBR  245       150                   
+
+2860 +     1204   1208      1212  G16  5   XRA  1-8A      C3.2    1.2E-03   3169
+2860       1207   1207      1214  SVI  3   FLA  N22E34    SF                3169
+
+2900       1224   ////      2003  SAG  C   RSP  112-180   CTM/1                 
+
+2870       1244   1245      1247  SVI  3   FLA  S19W75    SF                3163
+
+2940       1725   ////      2359  PAL  C   RSP  108-180   CTM/2                 
+
+2880 +     1834   1834      1834  PAL  G   RBR  245       130                   
+2880 +     1834   ////      1838  SAG  C   RSP  025-180   III/2                 
+
+2920       1949   ////      2229  PAL  C   RSP  025-048   VI/1              3169
+2920       2025   2045      2149  HOL  3   FLA  N22E28    1N      ERU       3169
+
+2910 +     2037   2053      2055  G16  5   XRA  1-8A      C4.8    4.2E-03       
+2910       2044   2044      2045  PAL  G   RBR  2695      110                   
+
+2930 +     2204   2219      2226  G16  5   XRA  1-8A      C5.1    3.7E-03   3169
+
+2950 +     2210   2211      2327  HOL  3   FLA  N22E28    1N      ERU       3169
+
+2930       2213   ////      2244  LEA  C   RSP  025-137   VI/1                  
+
+2970       2340   ////      2359  PAL  C   RSP  025-050   VI/1                  

@@ -1,0 +1,89 @@
+:Product: 20221212events.txt
+:Created: 2022 Dec 15 0357 UT
+:Date: 2022 12 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Dec 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9200       0000   ////      0109  LEA  C   RSP  107-180   CTM/1                 
+9200 +     0006   0035      0053  G16  5   XRA  1-8A      C3.4    3.4E-03   3156
+9200       0010   ////      0010  LEA  C   RSP  031-074   III/1                 
+9200 +     0024   0025      0025  LEA  G   RBR  245       230                   
+9200       0044   ////      0102  LEA  C   RSP  025-180   VI/2                  
+
+9280       0052   ////      0055  PAL  C   RSP  074-180   III/1                 
+9280       0052   0053      0053  LEA  G   RBR  245       770                   
+9280       0053   0056      0100  G16  5   XRA  1-8A      C3.2    1.3E-03   3153
+
+9210       0102   ////      0102  PAL  C   RSP  109-180   III/1                 
+
+9220       0322   ////      0331  PAL  C   RSP  025-180   III/1                 
+
+9230 +     0347   0353      0407  G16  5   XRA  1-8A      C1.7    1.8E-03   3156
+
+9240       0427   0427      0427  LEA  G   RBR  245       100                   
+
+9340       0508   ////      1020  LEA  C   RSP  065-180   CTM/1                 
+
+9250       0508   ////      0510  LEA  C   RSP  025-180   III/1                 
+
+9460       0647   ////      1512  SVI  C   RSP  062-180   CTM/1                 
+
+9290 +     0650   ////      0650  LEA  C   RSP  025-180   III/1                 
+
+9300       0709   0709      0709  LEA  G   RBR  245       110                   
+
+9310 +     0720   ////      0819  SVI  C   RSP  025-180   VI/2                  
+9310       0720   ////      0723  LEA  C   RSP  025-180   III/1                 
+
+9330 +     0730   0730      0829  LEA  G   RNS  245       160                   
+
+9310 +     0811   0811      0811  SVI  G   RBR  245       410                   
+
+9320 +     0921   0926      0931  G16  5   XRA  1-8A      C2.1    9.7E-04   3156
+
+9350 +     1001   ////      1001  LEA  C   RSP  038-136   III/2                 
+
+9360       1045   1045      1045  LEA  U   RBR  245       110                   
+
+9380       1135   ////      1144  SVI  C   RSP  025-180   III/1                 
+
+9370       1155   1156      1157  SVI  G   RBR  245       300                   
+
+9390       1210   1210      1210  SVI  G   RBR  245       220                   
+
+9400       1213   1214      1215  SVI  G   RBR  245       260                   
+
+9410       1221   1221      1223  SVI  G   RBR  245       1200                  
+
+9420       1229   1229      1231  SVI  G   RBR  245       490                   
+
+9430       1254   ////      1255  SVI  C   RSP  025-180   III/1                 
+
+9440       1327   ////      1328  SAG  C   RSP  125-145   III/1                 
+
+9450 +     1413   ////      1414  SVI  C   RSP  025-180   III/1                 
+
+9510       1422   ////      2003  SAG  C   RSP  113-180   CTM/1                 
+
+9470       1453   ////      1454  SAG  C   RSP  025-156   III/1                 
+
+9480 +     1457   1509      1528  G16  5   XRA  1-8A      C3.0    4.0E-03   3166
+9480       1526   ////      1527  SAG  C   RSP  025-043   III/1                 
+
+9520       1717   ////      1901  SAG  C   RSP  025-180   VI/1                  
+
+9490       1724   ////      1733  PAL  C   RSP  025-180   III/2                 
+
+9500 +     1931   1940      1945  G16  5   XRA  1-8A      B9.8    7.8E-04   3153
+
+9530       2217   2217      2217  PAL  G   RBR  245       100                   
+9530       2217   2217      2217  PAL  G   RBR  245       100                   
+
+9540       2243   2243      2243  PAL  G   RBR  245       100                   

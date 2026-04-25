@@ -1,0 +1,71 @@
+:Product: 20221119events.txt
+:Created: 2022 Nov 22 0357 UT
+:Date: 2022 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5200       0000   0002      0018  LEA  3   FLA  S32E35    SF                3148
+
+5210 +     0104   0118      0128  G16  5   XRA  1-8A      C1.4    1.3E-03       
+
+5220       0128   0137      0144  G16  5   XRA  1-8A      C2.7    2.0E-03   3148
+5220       0132   0138      0151  LEA  3   FLA  S32E35    SF                3148
+
+5230 +     0251   0301      0308  G16  5   XRA  1-8A      C1.5    1.2E-03   3148
+5230       0300   0301      0302  LEA  3   FLA  S32E35    SF                3148
+
+5240       0355   0355      0355  LEA  G   RBR  245       200                   
+
+5250 +     0605   0623      0638  G16  5   XRA  1-8A      C8.3    9.4E-03   3150
+5250       0615   0625      0629  LEA  3   FLA  N21W42    SF                3150
+5250 +     0623   0627      0628  LEA  G   RBR  410       170               3150
+5250 +     0623   0628      0630  LEA  G   RBR  245       660               3150
+5250 +     0623   0623      0623  LEA  G   RBR  1415      130               3150
+5250       0626   ////      0713  SVI  C   RSP  075-180   CTM/1             3150
+5250 +     0627   0628      0628  LEA  G   RBR  610       120               3150
+
+5260       0642   0643      0643  SVI  U   RBR  610       130                   
+
+5270       0649   0650      0650  SVI  U   RBR  610       180                   
+5270 +     0650   0650      0650  LEA  G   RBR  410       110                   
+
+5280 +     0750   0756      0806  G16  5   XRA  1-8A      C1.2    9.5E-04   3150
+
+5310       1235   1239      1242  G16  5   XRA  1-8A      C1.2    5.4E-04   3150
+
+5290 +     1242   1256      1311  G16  5   XRA  1-8A      M1.6    1.7E-02   3150
+5290 +     1250   ////      1256  SVI  C   RSP  025-180   III/2                 
+5290 +     1250   1251      1257  SVI  G   RBR  245       410                   
+5290 +     1251   1251      1257  SVI  G   RBR  610       360                   
+5290       1251   1255      1257  SVI  G   RBR  1415      250                   
+5290 +     1251   1253      1257  SVI  G   RBR  410       330                   
+5290 +     1254   ////      1624  SAG  C   RSP  025-180   IV/1                  
+5290 +     1301   ////      1314  SAG  C   RSP  025-180   II/1    930           
+
+5320 +     1330   1333      1343  SVI  G   RBR  410       4700                  
+5320 +     1330   1340      1343  SVI  G   RBR  610       39000                 
+5320 +     1331   1332      1340  SVI  G   RBR  245       210                   
+5320       1331   1332      1333  SVI  G   RBR  1415      190                   
+
+5330 +     1410   ////      1410  SVI  C   RSP  062-124   III/2                 
+
+5340       1632   1635      1657  HOL  3   FLA  N17W52    SF                3150
+
+5350 +     1703   1711      1717  G16  5   XRA  1-8A      C1.2    9.0E-04   3150
+
+5380       1704   1708      1724  HOL  3   FLA  N23E41    SF      ERU       3149
+
+5350       1704   1716      1725  HOL  3   FLA  N17W52    SF                3150
+
+5360       1728   1735      1737  HOL  3   FLA  N17W52    SF                3150
+
+5370       1747   1751      1757  HOL  3   FLA  N17W52    SF                3150
+
+5390 +     1920   1933      1949  G16  5   XRA  1-8A      B9.7    1.5E-03       

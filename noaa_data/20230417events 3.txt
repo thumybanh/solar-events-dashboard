@@ -1,0 +1,97 @@
+:Product: 20230417events.txt
+:Created: 2023 Apr 20 0357 UT
+:Date: 2023 04 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4970       0000   0014      0015  HOL  3   FLA  S06W69    SF                3280
+
+5010      B0000   ////      0022  LEA  3   FLA  S11W33    SF                3280
+
+4970       0000   ////      0958  LEA  C   RSP  113-180   CTM/1             3280
+4970 +     0004   ////      0010  PAL  C   RSP  025-180   III/1             3280
+
+4980       0034   0034      0037  LEA  3   FLA  S11W33    SF                3280
+
+5020       0040   0043      0044  LEA  3   FLA  S10W70    SF                3280
+
+5030 +     0053   0059      0103  G16  5   XRA  1-8A      C2.2    1.2E-03   3282
+5030       0058   0059      0102  LEA  3   FLA  N10E18    SF                3282
+
+5040       0110   ////      0144  LEA  C   RSP  025-180   VI/1                  
+
+5060       0224   ////      0224  LEA  C   RSP  025-180   III/1                 
+
+5050       0234   0234      0236  LEA  3   FLA  S10W70    SF                3280
+
+5070 +     0321   0331      0340  G16  5   XRA  1-8A      C2.2    2.2E-03   3281
+5070 +     0325   ////      0329  LEA  C   RSP  025-180   III/1                 
+
+5080       0345   0345      0345  PAL  G   RBR  245       110                   
+
+5090 +     0408   0416      0429  G16  5   XRA  1-8A      C4.1    3.9E-03   3280
+5090       0415   0418      0425  LEA  3   FLA  S10W70    SF                3280
+
+5100       0505   0506      0506  SVI  G   RBR  245       110                   
+
+5170       0526   ////      0833  SVI  C   RSP  116-180   CTM/1                 
+
+5110 +     0621   0633      0639  G16  5   XRA  1-8A      C7.0    4.1E-03   3281
+5110 +     0626   ////      0635  LEA  C   RSP  025-180   III/2                 
+5110 +     0630   0632      0633  LEA  G   RBR  410       630                   
+5110 +     0632   0632      0633  LEA  G   RBR  4995      130                   
+5110 +     0632   0632      0633  LEA  G   RBR  8800      120                   
+
+5120 +     0659   ////      0700  SVI  C   RSP  025-079   III/2                 
+
+5130       0714   0714      0714  LEA  G   RBR  410       110                   
+
+5140 +     0731   0740      0750  G16  5   XRA  1-8A      C2.1    2.1E-03   3279
+
+5150       0751   0751      0751  LEA  G   RBR  410       110                   
+
+5160 +     0828   0837      0847  G16  5   XRA  1-8A      C2.3    2.2E-03   3280
+5160 +     0844   ////      0952  SVI  C   RSP  025-151   VI/1                  
+
+5180       1049   ////      1049  SAG  C   RSP  025-047   III/1                 
+
+5190 +     1112   ////      2315  SAG  C   RSP  025-180   CTM/1                 
+
+5200 +     1221   ////      1226  SVI  C   RSP  025-180   III/2                 
+
+5210 +     1318   ////      1321  SVI  C   RSP  025-180   III/1                 
+
+5220 +     1417   1431      1440  G16  5   XRA  1-8A      C6.9    5.5E-03   3282
+5220 +     1421   1422      1426  HOL  3   FLA  N13E17    SF                3282
+5220       1427   ////      1434  SAG  C   RSP  025-180   III/2             3282
+5220       1427   ////      1459  SVI  C   RSP  025-180   VI/2              3282
+5220       1428   1429      1429  SVI  G   RBR  2695      150               3282
+
+5230       1531   1532      1534  HOL  3   FLA  S08W71    SF                3280
+
+5240       1548   1548      1552  HOL  3   FLA  S17W01    SF      DSD       3279
+
+5250 +     1615   ////      1623  SAG  C   RSP  025-180   III/2                 
+
+5260       1624   ////      1720  SVI  C   RSP  132-180   CTM/1             3282
+5260       1631   1632      1632  PAL  G   RBR  245       140               3282
+5260       1645   1645      1644  HOL  3   FLA  N13E14    SF      ERU       3282
+
+5270 +     1755   ////      1756  SAG  C   RSP  025-180   III/2                 
+
+5280       1825   1841      1841  HOL  3   FLA  N13E14    SF      ERU       3282
+
+5290       1914   1917      1926  HOL  3   FLA  N13E14    SF      DSD       3282
+
+5300 +     1957   ////      1958  PAL  C   RSP  025-085   III/2                 
+
+5320       2249   ////      2359  LEA  C   RSP  075-180   CTM/1                 
+
+5310 +     2348   ////      2348  PAL  C   RSP  025-085   III/1                 

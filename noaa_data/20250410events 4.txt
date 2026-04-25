@@ -1,0 +1,44 @@
+:Product: 20250410events.txt
+:Created: 2025 Apr 13 0357 UT
+:Date: 2025 04 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Apr 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5570 +     0059   ////      0059  LEA  C   RSP  025-062   III/1                 
+
+5580       0446   0450      0454  G18  5   XRA  1-8A      C2.3    1.1E-03   4060
+
+5590 +     0624   0628      0632  G19  5   XRA  1-8A      C3.2    7.6E-04   4055
+5590 +     0627   0627      0632  LEA  3   FLA  N07W26    SF                4055
+
+5600 +     0638   0643      0648  G19  5   XRA  1-8A      C3.1    1.9E-03   4055
+5600       0642   0642      0649  LEA  3   FLA  N07W26    SF      ERU       4055
+
+5610 +     0741   0752      0802  G19  5   XRA  1-8A      C5.3    7.8E-04   4060
+
+5620 +     0810   ////      0811  LEA  C   RSP  025-126   III/2                 
+
+5630 +     0814   0818      0822  G19  5   XRA  1-8A      C2.7    1.3E-03   4055
+5630       0817   0818      0821  LEA  3   FLA  N07W24    SF                4055
+
+5640 +     1022   1029      1046  G19  5   XRA  1-8A      C1.5    2.3E-03       
+
+5650       1447   1448      1500  SVI  3   FLA  N06W31    SF                4055
+5650       1453   ////      1453  SAG  C   RSP  025-052   III/1             4055
+
+5660 +     1517   ////      1519  SVI  C   RSP  025-084   III/1                 
+
+5670 +     1638   1651      1708  G19  5   XRA  1-8A      C3.7    5.4E-03   4045
+
+5680       1935   1940      2021  HOL  3   FLA  N08W33    SF      ERU       4055
+
+5690       2022   2025      2028  HOL  3   FLA  N08W36    SF      ERU       4055
+
+5700       2209   ////      2209  PAL  C   RSP  025-065   III/1                 

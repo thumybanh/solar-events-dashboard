@@ -1,0 +1,52 @@
+:Product: 20250626events.txt
+:Created: 2025 Jun 29 0357 UT
+:Date: 2025 06 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jun 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3830 +     0033   0040      0049  G18  5   XRA  1-8A      C1.0    9.4E-04   4120
+
+3850 +     0050   ////      0250  LEA  C   RSP  025-162   VI/2                  
+
+3860       0303   0309      0313  LEA  3   FLA  N13E58    SF                4122
+
+3870       0322   0323      0328  LEA  3   FLA  N12E54    SF                4122
+
+3880       0425   ////      0426  LEA  C   RSP  072-180   III/2                 
+
+3900 +     0504   ////      0753  LEA  C   RSP  025-180   VI/2                  
+
+3890 +     0509   0514      0517  G18  5   XRA  1-8A      B7.2    3.5E-04   4117
+3890 +     0514   0514      0516  LEA  3   FLA  S13W35    SF                4117
+
+3910       0635   0647      0656  SVI  3   FLA  N15E54    SF                4122
+
+3920       0832   0855      0950  G18  5   XRA  1-8A      C1.3    4.4E-03   4117
+3920       0843   0854      0913  SVI  3   FLA  S16W29    SF                4117
+
+3930       1059   ////      1100  SVI  C   RSP  025-047   III/1                 
+
+3940 +     1216   1222      1228  G18  5   XRA  1-8A      B7.7    5.2E-04       
+3940 +     1221   ////      1225  SVI  C   RSP  025-084   III/1                 
+
+3950 +     1315   ////      1317  SVI  C   RSP  025-120   III/2                 
+
+3960       1357   ////      1422  SAG  C   RSP  025-072   VI/1                  
+
+3970 +     1506   ////      1506  SVI  C   RSP  025-060   III/1                 
+
+3980       1711   ////      1712  SVI  C   RSP  025-049   III/1                 
+
+3990 +     1812   1823      1831  G18  5   XRA  1-8A      B9.2    9.9E-04   4122
+3990       1818   1819      1824  HOL  3   FLA  N13E48    SF                4122
+
+4000       2009   2017      2027  G19  5   XRA  1-8A      B7.5    8.0E-04   4122
+
+4010 +     2031   2041      2048  G18  5   XRA  1-8A      C1.3    1.2E-03   4122

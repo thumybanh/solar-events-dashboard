@@ -1,0 +1,60 @@
+:Product: 20230926events.txt
+:Created: 2023 Sep 29 0357 UT
+:Date: 2023 09 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2510       0026   0026      0026  LEA  G   RBR  245       110                   
+
+2520       0358   0358      0359  PAL  G   RBR  245       620                   
+
+2530       0422   0428      0441  G18  5   XRA  1-8A      C5.7    4.8E-03   3445
+2530       0425   0426      0431  LEA  3   FLA  S18W11    SF                3445
+
+2540       0634   ////      0634  SVI  C   RSP  025-180   III/1                 
+2540 +     0634   0634      0634  LEA  G   RBR  245       170                   
+2540 +     0634   0634      0634  LEA  G   RBR  410       120                   
+
+2550       0723   ////      0724  SVI  C   RSP  025-064   III/1                 
+
+2560       0815   0819      0830  SVI  3   FLA  N11W50    SF      ERU       3438
+
+2570       0830   ////      0835  SVI  C   RSP  025-083   III/2                 
+
+2580       0839   0841      0844  SVI  3   FLA  S11E01    SF                3445
+
+2590       0850   ////      0921  SVI  C   RSP  025-168   VI/1              3445
+2590 +     0910   0912      0914  LEA  3   FLA  S17W15    SF                3445
+
+2600 +     0937   0941      0945  G16  5   XRA  1-8A      C2.5    1.3E-03       
+
+2610       1023   ////      1024  SVI  C   RSP  025-166   III/1                 
+
+2630       1111   ////      1113  SVI  C   RSP  025-144   III/1                 
+
+2640       1234   ////      1234  SVI  C   RSP  025-117   III/1                 
+
+2650 +     1355   1416      1420  G16  5   XRA  1-8A      C4.3    3.7E-03   3445
+2650       1401   ////      1402  SVI  C   RSP  025-063   III/1             3445
+2650 +    B1415   1415      1432  HOL  3   FLA  S17W13    SN                3445
+
+2670       1442   1456      1507  HOL  3   FLA  N17E50    SF                    
+
+2660       1444   1446      1450  SVI  3   FLA  S15W16    SF                3445
+
+2670       1451   ////      1451  SVI  C   RSP  025-180   III/1                 
+
+2680 +     1615   1618      1623  G16  5   XRA  1-8A      C4.3    2.6E-03   3445
+
+2700 +     1623   1629      1635  G16  5   XRA  1-8A      C3.2    2.5E-03   3445
+
+2690       1715   ////      1715  SAG  C   RSP  025-180   III/2                 
+
+2720 +     2319   2330      2337  G16  5   XRA  1-8A      C2.2    2.0E-03   3435

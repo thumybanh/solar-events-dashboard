@@ -1,0 +1,46 @@
+:Product: 20231229events.txt
+:Created: 2024 Jan 01 0357 UT
+:Date: 2023 12 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Dec 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9560 +     0023   0033      0041  G16  5   XRA  1-8A      C2.5    2.5E-03   3528
+
+9580 +     0041   0047      0054  G16  5   XRA  1-8A      C2.6    2.0E-03   3528
+
+9570 +     0136   0140      0145  G16  5   XRA  1-8A      C1.5    7.4E-04   3528
+
+9590 +     0213   0221      0242  G16  5   XRA  1-8A      C1.3    2.1E-03   3533
+
+9600 +     0336   0340      0346  G16  5   XRA  1-8A      C1.3    7.8E-04   3533
+
+9610 +     0426   0434      0445  G16  5   XRA  1-8A      C1.2    5.7E-04   3533
+
+9620 +     0714   0724      0735  G16  5   XRA  1-8A      C1.4    3.6E-04   3533
+
+9630       0746   ////      0747  SVI  C   RSP  025-047   III/1             3533
+9630 +     0749   0754      0803  G16  5   XRA  1-8A      C9.8    5.0E-03   3533
+9630       0752   0753      0801  LEA  3   FLA  N15W38    SF                3533
+
+9640       0916   0916      0916  LEA  G   RBR  245       270                   
+
+9710      A1040   ////     A2241  LEA  3   DSF  N27W43    20                    
+
+9650       1101   ////      1112  SVI  C   RSP  115-180   VI/1                  
+
+9660 +     1131   1145      1153  G16  5   XRA  1-8A      C1.8    6.5E-04   3530
+
+9670 +     1205   1223      1257  G16  5   XRA  1-8A      C2.5    6.6E-03   3530
+
+9680 +     1319   ////      1520  SVI  C   RSP  075-180   CTM/1                 
+
+9690       1652   ////      1835  SAG  C   RSP  112-157   CTM/1                 
+
+9700 +     2007   2017      2024  G16  5   XRA  1-8A      C6.6    3.8E-03   3530

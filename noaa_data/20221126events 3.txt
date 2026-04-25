@@ -1,0 +1,32 @@
+:Product: 20221126events.txt
+:Created: 2022 Nov 29 0357 UT
+:Date: 2022 11 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6150 +     0025   0033      0054  G16  5   XRA  1-8A      B5.6    8.9E-04   3151
+
+6160 +     0203   0214      0227  G16  5   XRA  1-8A      B9.0    1.0E-03   3148
+
+6170       0319   ////      0320  LEA  C   RSP  025-146   III/1                 
+
+6180 +     0430   0434      0443  G16  5   XRA  1-8A      B6.4    4.1E-04   3152
+
+6190 +     0630   0636      0640  G16  5   XRA  1-8A      B6.0    2.7E-04   3152
+
+6200 +     0821   0831      0856  G16  5   XRA  1-8A      B5.0    3.6E-04   3152
+
+6210       0856   0907      0912  G16  5   XRA  1-8A      B4.3    4.4E-04   3148
+
+6220 +     1040   1049      1056  G16  5   XRA  1-8A      B6.9    5.7E-04   3149
+
+6230       1211   1211      1212  SAG  U   RBR  245       210                   
+
+6240       1529   1529      1529  SAG  U   RBR  245       120                   

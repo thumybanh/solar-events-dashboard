@@ -1,0 +1,47 @@
+:Product: 20231013events.txt
+:Created: 2023 Oct 16 0357 UT
+:Date: 2023 10 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6610 +     0540   0541      0543  LEA  3   FLA  S09W30    SF                3460
+
+6620       0544   ////      0545  SVI  C   RSP  075-083   III/1                 
+
+6630 +     0552   0603      0615  G16  5   XRA  1-8A      C1.5    1.9E-03   3460
+
+6650       0621   ////      0622  SVI  C   RSP  065-083   III/1                 
+
+6660 +     0829   0829      0831  SVI  3   FLA  N06E30    SF                3464
+
+6670       0902   0909      0918  G16  5   XRA  1-8A      C1.2    1.1E-03   3465
+6670 +     0908   0909      0911  LEA  3   FLA  N08E49    SF                3465
+
+6680       0956   0957      1000  SVI  3   FLA  N10W11    SF                3466
+
+6690       1018   ////      1042  SVI  C   RSP  025-180   VI/2              3466
+6690       1019   1020      1030  SVI  3   FLA  N10W12    SF                3466
+
+6700       1242   1243      1247  SVI  3   FLA  S12W38    SF                3460
+
+6710       1435   1440      1446  SVI  3   FLA  S12W39    SF                3460
+
+6720       1521   1522      1527  SVI  3   FLA  S12W39    SF                3460
+
+6730 +     1547   1555      1600  G16  5   XRA  1-8A      C1.7    1.8E-03   3467
+
+6740 +     1600   1609      1613  G16  5   XRA  1-8A      C1.7    1.4E-03   3467
+
+6750       1709   1713      1717  HOL  3   FLA  S11W42    SF                3460
+
+6760       1907   1909      1911  HOL  3   FLA  N11W18    SF      DSD       3466
+
+6770 +     1925   1934      1942  G16  5   XRA  1-8A      C1.4    1.3E-03   3465
+6770       1930   1932      1950  HOL  3   FLA  N09E45    SF                3465

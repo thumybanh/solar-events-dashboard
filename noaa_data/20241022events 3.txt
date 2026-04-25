@@ -1,0 +1,33 @@
+:Product: 20241022events.txt
+:Created: 2024 Oct 25 0357 UT
+:Date: 2024 10 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Oct 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1450       0426   0426      0426  LEA  G   RBR  245       160                   
+
+1460 +     1204   1211      1219  G16  5   XRA  1-8A      C5.1    3.5E-03   3863
+1460 +     1209   1210      1220  SVI  3   FLA  S11E25    SF                3863
+1460       1209   1209      1209  SVI  G   RBR  1415      120               3863
+
+1570      A1446   ////     A0735  SVI  3   DSF  S04W57    11                    
+
+1470 +     1448   1455      1505  G16  5   XRA  1-8A      C3.7    3.6E-03   3860
+1470       1450   1457      1509  HOL  3   FLA  S07W52    SF                3860
+1470 +     1451   ////      1452  SVI  C   RSP  075-180   III/2             3860
+1470       1451   1451      1452  SVI  G   RBR  245       800               3860
+
+1480 +     1653   1700      1710  G16  5   XRA  1-8A      C4.2    3.5E-03       
+1480       1656   1658      1659  PAL  G   RBR  610       310                   
+1480       1701   ////      1726  HOL  3   SPY  ////      22      B.7A          
+1480       1703   1703      1703  PAL  U   RBR  245       130                   
+1480       1704   ////      1709  SAG  C   RSP  113-180   III/1                 
+
+1490       2058   2101      2106  HOL  3   FLA  S11E47    SF      ERU       3866

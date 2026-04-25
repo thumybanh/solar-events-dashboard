@@ -1,0 +1,51 @@
+:Product: 20221117events.txt
+:Created: 2022 Nov 20 0357 UT
+:Date: 2022 11 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4800       0125   0126      0127  LEA  G   RBR  245       160                   
+
+4810       0129   0129      0129  PAL  G   RBR  245       120                   
+
+4820 +     0726   0734      0741  G16  5   XRA  1-8A      C1.6    1.0E-03   3147
+4820       0730   0731      0745  SVI  3   FLA  S08E56    SF                3147
+
+4840       0838   0838      0844  SVI  3   FLA  N24W64    SF                3145
+
+4850 +     0908   0928      0953  G16  5   XRA  1-8A      C6.1    1.2E-02       
+
+4860       1121   1122      1124  SVI  3   FLA  S08E56    SF                3147
+
+4870 +     1214   1224      1234  G16  5   XRA  1-8A      C2.8    1.7E-03       
+
+4880       1349   ////      1401  SAG  C   RSP  025-045   VI/1                  
+
+4890       1438   ////      1506  SAG  C   RSP  025-046   VI/1                  
+
+4900 +     1517   1524      1535  G16  5   XRA  1-8A      C1.5    1.5E-03       
+
+4910 +     1632   1638      1643  G16  5   XRA  1-8A      C2.1    1.3E-03   3149
+4910       1635   1638      1651  HOL  3   FLA  N22E68    SF      DSD       3149
+
+4920 +     1726   1733      1739  G16  5   XRA  1-8A      C1.5    1.2E-03       
+
+4930       1742   1744      1747  HOL  3   FLA  S33E52    SF                3148
+
+4940       1947   ////      1947  SAG  C   RSP  025-045   III/1                 
+
+4950 +     2125   2135      2148  G16  5   XRA  1-8A      C1.8    2.1E-03   3149
+4950       2131   2131      2141  HOL  3   FLA  N21E66    SF      ERU       3149
+
+4960       2242   2247      2251  HOL  3   FLA  S10E48    SF      ERU       3147
+
+4970       2308   2310      2312  HOL  3   FLA  S34E50    SF                3148
+
+4980 +     2336   ////      0016  G16  5   XRA  1-8A      C5.4    9.3E-03       

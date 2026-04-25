@@ -1,0 +1,51 @@
+:Product: 20230330events.txt
+:Created: 2023 Apr 02 0357 UT
+:Date: 2023 03 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Mar 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1280      B0000   ////      0015  LEA  3   FLA  S23W73    1N      DSD       3256
+1280       0011   ////      0106  LEA  C   RSP  025-097   VI/1              3256
+
+1290       0219   ////      0219  LEA  C   RSP  025-180   III/1                 
+
+1300       0259   ////      0327  LEA  C   RSP  025-111   VI/1                  
+
+1310 +     0409   ////      0410  LEA  C   RSP  025-180   III/2                 
+
+1340       0624   ////      0737  SVI  C   RSP  025-180   VI/2                  
+
+1320       0708   ////      0709  LEA  C   RSP  025-180   III/2                 
+
+1330 +     0724   0737      0743  G16  5   XRA  1-8A      M5.4    2.6E-02   3256
+1330       0731   0732      0746  SVI  3   FLA  S22W81    1F      ERU       3256
+1330       0732   0733      0733  LEA  G   RBR  2695      120               3256
+1330       0732   0732      0732  LEA  G   RBR  410       1400              3256
+1330       0734   ////      0735  LEA  C   RSP  025-154   V/1               3256
+1330       0734   ////      0735  SVI  C   RSP  025-144   III/2             3256
+1330 +     0736   ////      0740  LEA  C   RSP  025-180   II/2    279       3256
+1330 +     0738   0740      0742  SVI  G   RBR  245       590               3256
+1330 +     0740   ////      0809  SVI  C   RSP  054-180   IV/2              3256
+
+1350 +     0818   ////      0824  LEA  C   RSP  025-180   III/1                 
+
+1360       0846   0848      0852  LEA  3   FLA  S23W73    SF                3256
+
+1370 +     0902   ////      0911  LEA  C   RSP  025-180   III/1                 
+
+1380       1104   ////      1104  SVI  C   RSP  052-153   III/1                 
+
+1390       1416   1424      1430  G16  5   XRA  1-8A      C1.3    1.0E-03       
+
+1400       1923   1944      2029  HOL  3   FLA  S21W29    1F      DSF       3262
+1400 +     1939   1948      1955  G16  5   XRA  1-8A      C2.8    2.4E-03   3262
+
+1410 +     2308   2326      2344  G16  5   XRA  1-8A      C1.9    3.6E-03   3265
+1410       2321   2321      2340  HOL  3   FLA  N18W60    SF                3265

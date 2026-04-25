@@ -1,0 +1,38 @@
+:Product: 20250918events.txt
+:Created: 2025 Sep 21 0357 UT
+:Date: 2025 09 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Sep 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2130 +     0134   0138      0140  G18  5   XRA  1-8A      C1.7    7.4E-04   4220
+2130       0137   0138      0139  LEA  3   FLA  S18W00    SF                4220
+
+2140       0200   ////      0200  LEA  C   RSP  025-112   III/1                 
+
+2180      A1435   ////     A1605  HOL  3   DSF  N21E56    10                4225
+
+2150 +     1439   1447      1457  G18  5   XRA  1-8A      C1.8    1.9E-03   4020
+
+2160 +     1534   1541      1546  G18  5   XRA  1-8A      C3.6    1.8E-03   4220
+2160       1539   1541      1550  SVI  3   FLA  S19W08    SF                4220
+
+2170       1616   1619      1713  HOL  3   FLA  N15E49    SF                4225
+2170       1631   ////      1753  SAG  C   RSP  111-180   CTM/1             4225
+2170       1638   ////      1640  SAG  C   RSP  025-146   III/1             4225
+
+2190       1809   ////      1810  SAG  C   RSP  025-052   III/1                 
+
+2200 +     2009   ////      2009  SAG  C   RSP  025-089   III/1                 
+
+2210 +     2108   2114      2118  G18  5   XRA  1-8A      C1.4    8.8E-04   4220
+
+2220 +     2203   2210      2213  G18  5   XRA  1-8A      C2.0    1.0E-03   4220
+
+2230 +     2228   2241      2256  G18  5   XRA  1-8A      C2.9    4.0E-03   4223

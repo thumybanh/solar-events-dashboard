@@ -1,0 +1,51 @@
+:Product: 20221120events.txt
+:Created: 2022 Nov 23 0357 UT
+:Date: 2022 11 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5400 +     0314   0330      0337  G16  5   XRA  1-8A      B9.9    1.1E-03   3150
+
+5410 +     0551   0609      0626  G16  5   XRA  1-8A      C3.3    5.3E-03   3150
+5410 +     0607   0607      0608  LEA  G   RBR  410       530                   
+5410       0616   0616      0616  LEA  G   RBR  245       100                   
+
+5420 +     0755   0804      0814  G16  5   XRA  1-8A      B8.1    8.5E-04   3150
+
+5430 +     0947   0956      1008  G16  5   XRA  1-8A      B7.2    7.9E-04   3150
+
+5440 +     1202   1210      1218  G16  5   XRA  1-8A      B8.2    7.2E-04   3148
+
+5450       1621   1622      1625  HOL  3   FLA  N23E31    SF                3149
+
+5460 +     1726   1734      1737  G16  5   XRA  1-8A      B7.3    4.5E-04   3149
+
+5520       1737   1743      1747  G16  5   XRA  1-8A      B7.3    4.7E-04   3149
+
+5470       1752   1801      1804  HOL  3   FLA  N24E28    SF      ERU       3149
+
+5480 +     1817   1823      1829  G16  5   XRA  1-8A      B8.4    5.6E-04   3149
+5480       1820   1823      1833  HOL  3   FLA  N24E28    SF      ERU       3149
+
+5490       1942   1957      1959  HOL  3   FLA  N24E26    SF      DSD       3149
+
+5500       2030   2031      2035  HOL  3   FLA  N25E26    SF      DSD       3149
+
+5510       2037   2043      2053  HOL  3   FLA  N24E27    SF      DSD       3149
+
+5560       2053   2100      2103  HOL  3   FLA  N24E26    SF      ERU       3149
+
+5530       2127   2127      2133  HOL  3   FLA  N24E26    SF      DSD       3149
+
+5540       2151   2202      2206  HOL  3   FLA  N24E24    SF      ERU       3149
+
+5550       2217   2220      2223  HOL  3   FLA  N25E25    SF      DSD       3149
+
+5570 +     2355   0010      0019  G16  5   XRA  1-8A      B9.1    1.1E-03   3149

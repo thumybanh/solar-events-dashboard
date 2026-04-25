@@ -1,0 +1,32 @@
+:Product: 20220820events.txt
+:Created: 2022 Aug 23 0357 UT
+:Date: 2022 08 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Aug 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5190 +     0227   0233      0237  G16  5   XRA  1-8A      B7.2    3.4E-04   3078
+5190       0232   0233      0234  LEA  3   FLA  S24W58    SF                3078
+
+5200 +     0330   0343      0353  G16  5   XRA  1-8A      B6.4    7.7E-04   3081
+
+5210 +     0816   0823      0829  G16  5   XRA  1-8A      B5.3    3.8E-04   3078
+
+5230       1341   ////      1515  SAG  C   RSP  129-180   CTM/1                 
+
+5220 +     1405   1412      1416  G16  5   XRA  1-8A      B4.5    2.4E-04   3084
+5220      B1412  U1412     A1425  SVI  3   FLA  S09W03    SF                3084
+
+5240 +     1616   1621      1625  G16  5   XRA  1-8A      B4.2    2.1E-04   3078
+
+5300      A1624   ////     A0543  SVI  3   DSF  N07W73    14                    
+
+5250 +     1752   1802      1808  G16  5   XRA  1-8A      B4.9    4.3E-04   3078
+
+5260 +     2129   2138      2150  G16  5   XRA  1-8A      B9.1    9.5E-04   3078

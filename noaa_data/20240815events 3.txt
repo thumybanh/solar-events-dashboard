@@ -1,0 +1,72 @@
+:Product: 20240815events.txt
+:Created: 2024 Aug 18 0357 UT
+:Date: 2024 08 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Aug 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3620       0020   0020      0030  HOL  3   FLA  N13W05    SF                3784
+
+3630 +     0119   0124      0131  G16  5   XRA  1-8A      C6.9    2.1E-03   3784
+3630       0123   0126      0132  LEA  3   FLA  N14W08    SF                3784
+
+3640 +     0200   0209      0217  G16  5   XRA  1-8A      C6.8    5.3E-03   3784
+3640       0209   0209      0220  LEA  3   FLA  N11W07    SF                3784
+
+3650 +     0333   ////      0334  LEA  C   RSP  025-180   III/2                 
+
+3660 +     0335   0348      0356  G16  5   XRA  1-8A      M1.1    9.7E-03   3780
+3660       0339   0348      0406  LEA  3   FLA  S10W62    SF      ERU       3780
+
+3670       0419   0420      0429  LEA  3   FLA  S11W63    SF                3780
+
+3680      B0510  U0523     A0625  SVI  3   FLA  N13W08    SF                3784
+3680 +     0522   0524      0528  G16  5   XRA  1-8A      C5.6    2.7E-03   3784
+
+3730       0524   0525      0539  SVI  3   FLA  S23W40    SF                3786
+
+3690 +     0547   0554      0600  G16  5   XRA  1-8A      C5.8    4.3E-03   3784
+3690       0552   0552      0554  LEA  3   FLA  N15W10    SF                3784
+
+3740       0616   0618      0620  SVI  3   FLA  S10E07    SF                3785
+
+3700 +     0619   ////      0622  LEA  C   RSP  025-180   III/2             3786
+3700       0620  U0622     A0625  SVI  3   FLA  S23W40    SF                3786
+
+3720       0622   0622      0624  LEA  3   FLA  S22W43    SF                3786
+
+3710       0622   0622      0625  SVI  3   FLA  S10E07    SF                3785
+
+3750       0856   0856      0900  LEA  3   FLA  N16W13    SF                3784
+
+3760 +     0906   0911      0916  G16  5   XRA  1-8A      C5.7    2.9E-03   3786
+3760       0909   0910      0923  LEA  3   FLA  S22W43    SF      DSD       3786
+
+3770       1057   1059      1118  SVI  3   FLA  N11W11    SF                3784
+
+3780 +     1144   1150      1155  G16  5   XRA  1-8A      C7.7    3.9E-03   3786
+3780       1149   1150      1154  SVI  3   FLA  S24W44    SF                3786
+3780 +     1149   ////      1150  SAG  C   RSP  025-091   III/1             3786
+
+3790       1306   1308      1324  SVI  3   FLA  N15W16    SF                3784
+
+3800 +     1347   1348      1358  HOL  3   FLA  S23W44    SF                3786
+
+3810 +     1400   1407      1414  G16  5   XRA  1-8A      C5.5    4.1E-03   3786
+3810 +     1404   1406      1408  HOL  3   FLA  S24W45    SF                3786
+
+3820       1550   1553      1603  HOL  3   FLA  N12W15    SF                3784
+
+3830       2110   2110      2113  HOL  3   FLA  N15W16    2F      ERU       3784
+
+3840      B2139   2136      2149  HOL  3   FLA  N13W17    SF      ERU       3784
+
+3850       2153   2153      2153  PAL  U   RBR  15400     110                   
+
+3860       2348   2348     A2359  HOL  3   FLA  N13W17    SF                3784

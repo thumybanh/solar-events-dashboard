@@ -1,0 +1,38 @@
+:Product: 20251230events.txt
+:Created: 2026 Jan 02 0357 UT
+:Date: 2025 12 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Dec 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6630 +     0014   0027      0033  G18  5   XRA  1-8A      C4.9    4.1E-03   4325
+6630       0026   0031      0031  LEA  3   FLA  S09E38    SF                4325
+6630       0028   0028      0028  LEA  G   RBR  610       250               4325
+
+6650 +     0058   0103      0105  G18  5   XRA  1-8A      C2.9    1.4E-03   4325
+6650       0102   0103      0104  LEA  3   FLA  S09E39    SF                4325
+
+6660 +     0638   0645      0647  G18  5   XRA  1-8A      C5.0    2.9E-03   4324
+
+6680       0645   0645      0646  LEA  3   FLA  S09E39    SF                4325
+
+6670 +     0836   0843      0849  G18  5   XRA  1-8A      C4.6    3.6E-03   4321
+
+6690 +     1416   1423      1432  G18  5   XRA  1-8A      C2.2    2.2E-03   4325
+
+6700 +     1456   1456      1456  SAG  G   RBR  245       250                   
+
+6710 +     1551   1555      1600  G18  5   XRA  1-8A      C4.9    2.4E-03   4325
+
+6720 +     1742   1803      1816  G18  5   XRA  1-8A      C4.1    6.7E-03   4330
+6720       1751   1751      1812  HOL  3   FLA  S18E46    SF      ERU       4330
+
+6730 +     2243   2248      2253  G18  5   XRA  1-8A      C2.2    1.4E-03   4325
+
+6740 +     2336   2340      2342  G18  5   XRA  1-8A      C2.8    1.1E-03   4325

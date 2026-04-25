@@ -1,0 +1,83 @@
+:Product: 20240911events.txt
+:Created: 2024 Sep 14 0357 UT
+:Date: 2024 09 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Sep 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 660       0051   0058      0158  PAL  G   RNS  245       240                   
+ 660       0051   0051      0051  LEA  G   RBR  245       160                   
+
+ 680 +     0055   ////      0427  PAL  C   RSP  036-180   CTM/1                 
+
+ 620 +     0056   0056      0056  LEA  G   RBR  410       130                   
+
+ 630       0057   0100      0102  LEA  G   RBR  245       130                   
+
+ 640       0258   ////      0300  LEA  C   RSP  025-180   III/1                 
+
+ 650 +     0348   0348      0348  LEA  G   RBR  245       290                   
+
+ 690       0416   ////      0447  LEA  C   RSP  025-180   VI/1                  
+ 690       0447   ////      0448  SVI  C   RSP  113-180   III/1                 
+
+ 700 +     0628   0634      0641  G16  5   XRA  1-8A      C5.6    3.9E-03   3823
+
+ 710       0822   0829      0837  G16  5   XRA  1-8A      C4.5    3.7E-03       
+
+ 720       0923   ////      0923  SVI  C   RSP  125-180   III/1                 
+
+ 730       0930   0945      0951  G16  5   XRA  1-8A      C4.5    1.4E-03   3823
+ 730       0939   0944      0951  SVI  3   FLA  S19W53    SF                3823
+
+ 750       0951   0953      1009  SVI  3   FLA  N12W06    SF      ERU       3814
+ 750 +     0951   0958      1005  G16  5   XRA  1-8A      C5.9    4.7E-03   3814
+
+ 740 +     1106   1117      1126  G16  5   XRA  1-8A      C4.6    4.7E-03       
+
+ 760       1155   1158      1205  SVI  3   FLA  N12W06    SF                3814
+
+ 770       1215   1217      1221  SVI  3   FLA  N15W08    SF                3814
+
+ 780 +     1227   1236      1247  G16  5   XRA  1-8A      M1.8    1.6E-03   3814
+ 780       1231   1234      1254  SVI  3   FLA  N16W07    2N      ERU       3814
+ 780       1233   1233      1233  SVI  G   RBR  8800      130               3814
+
+ 790       1256   1304      1328  SVI  3   FLA  N12W08    SF                3814
+
+ 800 +     1336   ////      1337  SVI  C   RSP  025-180   III/2                 
+ 800       1336   1336      1336  SVI  G   RBR  245       270                   
+
+ 810 +     1509   1518      1524  G16  5   XRA  1-8A      M1.4    3.4E-03   3811
+ 810 +     1512   1512      1518  HOL  3   FLA  S14W75    SF                3811
+
+ 960 +     1524   1530      1716  G16  5   XRA  1-8A      M1.8    2.6E-03       
+
+ 820 +     1542   1544      1551  SVI  3   FLA  S05E37    SF                3824
+
+ 830 +     1716   1726      1732  G16  5   XRA  1-8A      M1.6    2.7E-03   3811
+
+ 840 +     1744   1752      1800  G16  5   XRA  1-8A      M2.0    1.4E-02   3814
+ 840       1746   1750      1839  HOL  3   FLA  N14W12    1F      PRB       3814
+ 840       1748   1748      1748  PAL  G   RBR  2695      110               3814
+ 840       1748   1748      1748  PAL  G   RBR  4995      110               3814
+
+ 850       1814   1826      1840  HOL  3   FLA  S04E35    SF                3824
+ 850       1839   ////      1840  SAG  C   RSP  025-049   III/1             3824
+
+ 860       1849   1849      1849  PAL  G   RBR  245       240                   
+
+ 870 +     1942   1949      1953  G16  5   XRA  1-8A      C6.7    3.9E-03   3824
+ 870       1948   1950      1953  HOL  3   FLA  S04E35    SF                3824
+
+ 880       2049   2127      2137  HOL  3   FLA  S16W72    SF      DSD       3811
+
+ 890 +     2349   0012      0032  G16  5   XRA  1-8A      M5.0    7.3E-02   3811
+
+ 980       2356   2356     A2359  LEA  3   FLA  N13W01    SF                3814

@@ -1,0 +1,80 @@
+:Product: 20230607events.txt
+:Created: 2023 Jun 10 0357 UT
+:Date: 2023 06 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jun 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 380       0028   0028      0028  LEA  G   RBR  245       160                   
+
+ 390       0049   0049      0049  LEA  G   RBR  245       190                   
+
+ 400       0326   0326      0328  PAL  G   RBR  245       970                   
+ 400 +     0326   ////      0328  LEA  C   RSP  025-180   III/2                 
+ 400       0326   ////      0341  LEA  C   RSP  025-180   VI/2                  
+
+ 410 +     0332   0340      0344  G16  5   XRA  1-8A      C1.9    1.2E-03       
+ 410       0337   ////      0338  PAL  C   RSP  131-151   III/1                 
+ 410 +     0337   0338      0338  SVI  G   RBR  245       490                   
+
+ 420 +     0415   0415      0415  SVI  G   RBR  245       120                   
+
+ 430       0537   ////      0537  LEA  C   RSP  064-180   III/1                 
+ 430       0537   ////      0648  SVI  C   RSP  025-180   VI/2                  
+
+ 440 +     0616   0645      0709  G16  5   XRA  1-8A      C7.1    1.6E-02   3327
+ 440       0626   0645      0715  LEA  3   FLA  S17E42    SF                3327
+ 440       0637   ////      0642  LEA  C   RSP  025-089   III/1             3327
+
+ 450 +     0901   0913      0937  G16  5   XRA  1-8A      C2.7    5.6E-03   3327
+ 450 +     0908   ////      0909  LEA  C   RSP  025-180   III/2                 
+ 450 +     0911   0911      0911  SVI  G   RBR  245       1100                  
+
+ 460 +     1118   1146      1159  G16  5   XRA  1-8A      M4.7    5.9E-02   3327
+ 460 +     1136   ////      1136  SVI  C   RSP  025-180   III/1                 
+ 460       1136   1136      1138  SVI  G   RBR  4995      220                   
+ 460       1136   1136      1137  SVI  G   RBR  8800      340                   
+ 460       1137   1137      1137  SVI  G   RBR  2695      100                   
+ 460       1142   1143      1143  SVI  G   RBR  410       190                   
+ 460       1142   1143      1143  SVI  G   RBR  610       200                   
+
+ 470       1213   ////      1213  SAG  C   RSP  025-152   III/1                 
+
+ 480       1259   1311      1314  HOL  3   FLA  S15E37    SF                3327
+
+ 490      B1315  U1316     A1323  SVI  3   FLA  S18E37    SF                3327
+ 490       1315   1341      1402  HOL  3   FLA  S15E37    SF                3327
+
+ 500 +     1354   ////      1355  SVI  C   RSP  025-180   III/1                 
+
+ 510       1414   1419      1432  HOL  3   FLA  S15E37    SF                3327
+
+ 520       1442   1443      1448  HOL  3   FLA  S17E37    SF                3327
+
+ 530 +     1504   ////      1505  SVI  C   RSP  025-080   III/1                 
+
+ 540       1523   1524      1532  HOL  3   FLA  S09W12    SF                3323
+
+ 550 +     1548   1555      1602  G16  5   XRA  1-8A      C2.1    1.6E-03       
+ 550 +     1600   ////      1608  SVI  C   RSP  025-180   III/2                 
+
+ 560       1751   1755      1759  HOL  3   FLA  S17E34    SF      DSD       3327
+
+ 570 +     1825   1829      1846  G16  5   XRA  1-8A      C8.7    2.6E-03   3327
+ 570       1827   1828      1914  HOL  3   FLA  S17E34    1N      DSD       3327
+ 570       1827   1828      1828  PAL  G   RBR  8800      120               3327
+
+ 580       1827   1828      1828  PAL  G   RBR  8800      120                   
+ 580       1828   1828      1828  PAL  G   RBR  4995      120                   
+
+ 570       1828   1828      1828  PAL  G   RBR  4995      120               3327
+
+ 590       1943   ////      2004  HOL  3   EPL  ////      0.16                  
+
+ 600       2018   ////      2018  PAL  C   RSP  025-063   III/1                 

@@ -1,0 +1,47 @@
+:Product: 20230423events.txt
+:Created: 2023 Apr 26 0357 UT
+:Date: 2023 04 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6980       0000   ////      0121  PAL  C   RSP  120-180   III/1                 
+
+6940       0003   0004      0015  LEA  G   RBR  245       200                   
+6940       0015   ////      0121  LEA  C   RSP  116-180   CTM/1                 
+
+6960 +     0023   0030      0051  LEA  G   RNS  245       200                   
+
+6950       0120   ////      0120  LEA  C   RSP  064-136   III/1                 
+
+6990       0233   0247      0258  G16  5   XRA  1-8A      C1.1    1.5E-03       
+
+7000 +     0451   0457      0501  G16  5   XRA  1-8A      B9.8    5.3E-04   3279
+7000       0456   0457      0504  LEA  3   FLA  S21W53    SF                3279
+
+7010       0504   0504      0504  LEA  G   RBR  245       260                   
+
+7020       0520   0520      0520  LEA  G   RBR  410       100                   
+
+7030 +     0524   0525      0528  LEA  3   FLA  S21W48    SF                3281
+
+7060 +     0633   0640      0644  G16  5   XRA  1-8A      C2.2    8.6E-04   3279
+7060 +     0639   0640      0649  LEA  3   FLA  S21W53    SF                3279
+
+7070       1620   ////      1623  SVI  C   RSP  025-083   III/1                 
+
+7080       1635   ////      1644  SVI  C   RSP  025-083   III/1                 
+
+7090 +     1706   1711      1715  G16  5   XRA  1-8A      C1.1    5.3E-04   3282
+
+7100 +     2033   2038      2043  G16  5   XRA  1-8A      C1.0    5.5E-04   3282
+
+7110       2231   2231      2231  PAL  G   RBR  410       150                   
+
+7120       2305   ////      2306  LEA  C   RSP  114-146   III/1                 

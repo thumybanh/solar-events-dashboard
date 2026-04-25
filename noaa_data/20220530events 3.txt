@@ -1,0 +1,57 @@
+:Product: 20220530events.txt
+:Created: 2022 Jun 02 0357 UT
+:Date: 2022 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8860       0012   ////      0223  PAL  C   RSP  025-071   VI/1                  
+
+8830 +     0015   0023      0029  G16  5   XRA  1-8A      B3.4    2.4E-04   3025
+
+8840 +     0050   0054      0058  G16  5   XRA  1-8A      B6.1    2.3E-04   3021
+
+8850 +     0204   0227      0238  G16  5   XRA  1-8A      C1.5    1.6E-03   3019
+
+8870       0204   0226      0328  G17  5   XRA  1-8A      C1.5    6.0E-03   3019
+
+8880      B0543   0545      0546  SVI  3   FLA  S16E10    SF      ERU       3023
+
+8890 +    B0645   0646      0647  SVI  3   FLA  N28W57    SF      ERU       3025
+
+8900 +     0749   ////      0751  SVI  C   RSP  025-180   III/2                 
+
+8910       0952   ////      0952  SVI  C   RSP  025-045   III/1                 
+
+8920 +     1134   ////      1242  SAG  C   RSP  025-163   VI/1                  
+
+8930       1343   ////      1344  SAG  C   RSP  025-066   III/1                 
+8930       1343   ////      1532  SVI  C   RSP  025-180   VI/1                  
+
+8940       1450   ////      1451  SAG  C   RSP  025-162   III/1                 
+
+8950 +     1501   1509      1517  G16  5   XRA  1-8A      B6.3    4.9E-04   3024
+8950 +     1503   ////      1507  SAG  C   RSP  025-180   III/2             3024
+8950 +     1503   1503      1504  SVI  G   RBR  245       170               3024
+8950 +     1504   1505      1524  SVI  3   FLA  S31E10    SF      ERU       3024
+8950       1511   ////      1540  SAG  C   RSP  025-153   VI/1              3024
+
+8960 +     1615   1626      1640  G17  5   XRA  1-8A      B2.7    2.2E-04   3025
+8960       1632   ////      1728  SAG  C   RSP  025-050   VI/1                  
+
+8970 +     1803   ////      1804  PAL  C   RSP  025-075   III/1                 
+
+8980 +     1809   1813      1817  G16  5   XRA  1-8A      B2.9    1.3E-04   3023
+
+8990 +     1931   ////      1935  PAL  C   RSP  025-127   III/2                 
+
+9000 +     2029   2034      2042  G16  5   XRA  1-8A      B2.5    1.9E-04   3025
+9000       2032   ////      2032  SAG  C   RSP  025-050   III/1                 
+
+9010       2046   ////      2046  PAL  C   RSP  025-053   III/1                 

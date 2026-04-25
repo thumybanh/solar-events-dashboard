@@ -1,0 +1,58 @@
+:Product: 20220521events.txt
+:Created: 2022 May 24 0357 UT
+:Date: 2022 05 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 May 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7420 +     0008   0013      0023  G16  5   XRA  1-8A      C3.5    2.6E-03   3011
+7420 +     0009   ////      0012  LEA  C   RSP  025-180   III/2                 
+7420       0010   0011      0026  HOL  3   FLA  N20W27    SF                    
+
+7430 +     0326   ////      0326  LEA  C   RSP  025-180   III/1                 
+
+7450       0347   ////      0354  LEA  C   RSP  025-180   III/3                 
+
+7440 +     0349   ////      0351  SVI  C   RSP  025-180   III/2                 
+
+7460       0456   ////      0458  SVI  U   RSP  025-083   III/1                 
+
+7470       0543   0548      0558  LEA  3   FLA  S21E64    SF                    
+
+7480 +     0628   ////      0711  LEA  C   RSP  025-165   VI/1                  
+7480 +     0632   0643      0700  G16  5   XRA  1-8A      C2.3    3.5E-03   3014
+
+7490 +     1130   ////      1155  SAG  C   RSP  025-180   VI/1                  
+
+7500 +     1306   ////      1500  SAG  C   RSP  025-180   VI/2              3010
+7500 +     1329   1337      1343  G16  5   XRA  1-8A      C3.4    2.7E-03   3010
+7500 +     1333   1335      1345  HOL  3   FLA  S16W39    SF      ERU       3010
+
+7510       1411   ////      1506  SVI  C   RSP  025-180   VI/2              3011
+7510 +     1427   1435      1440  G16  5   XRA  1-8A      C2.7    1.8E-03   3011
+7510 +     1429   ////      1436  SAG  C   RSP  025-180   III/3             3011
+7510 +     1432   1437      1442  HOL  3   FLA  N16W27    SF      ERU       3011
+7510       1432   1432      1432  SAG  U   RBR  245       120               3011
+
+7520 +     1527   1539      1548  G16  5   XRA  1-8A      C2.5    2.9E-03   3014
+7520 +     1531   1541      1557  SVI  3   FLA  N21W20    SF                3014
+
+7530       1636   ////      1636  SVI  C   RSP  025-057   III/1                 
+7530       1636   ////      1658  SAG  C   RSP  025-051   VI/1                  
+
+7540       1655   ////      1658  SVI  C   RSP  025-082   III/1                 
+
+7550 +     1859   1906      1913  G16  5   XRA  1-8A      C1.9    1.5E-03   3010
+
+7560 +     1922   ////      1928  PAL  C   RSP  025-067   III/1                 
+
+7570 +     2201   ////      2230  PAL  C   RSP  025-162   VI/2                  
+
+7580 +     2337   2338      2338  PAL  G   RBR  245       100                   
+7580 +     2337   ////      2339  PAL  C   RSP  025-180   III/3                 

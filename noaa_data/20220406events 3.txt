@@ -1,0 +1,34 @@
+:Product: 20220406events.txt
+:Created: 2022 Apr 09 0357 UT
+:Date: 2022 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5920       0003   0004      0007  LEA  3   FLA  S17W21    SF                2982
+
+5930       0407   0409      0414  LEA  3   FLA  S24W39    SF                2981
+
+5940 +     0415   0420      0425  G16  5   XRA  1-8A      C1.3    7.7E-04   2978
+
+5950 +     0706   ////      0706  LEA  C   RSP  059-082   III/1                 
+
+5960       0836   ////      0836  SVI  C   RSP  025-043   III/1                 
+
+5970 +     0956   1023      1114  G16  5   XRA  1-8A      C3.1    1.1E-02       
+
+5980 +     1114   ////      1114  SAG  C   RSP  025-047   III/1                 
+
+5990       1124   ////      1125  SVI  C   RSP  025-044   III/1                 
+
+6060      A1222   ////     A0611  SVI  3   DSF  S41E27    27                    
+
+6070      A1222   ////     A0611  SVI  3   DSF  N28E01    9                     
+
+6000 +     1434   ////      1447  SVI  C   RSP  025-057   VI/1                  

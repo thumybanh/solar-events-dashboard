@@ -1,0 +1,58 @@
+:Product: 20250815events.txt
+:Created: 2025 Aug 18 0357 UT
+:Date: 2025 08 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Aug 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5590 +     0256   0306      0324  G18  5   XRA  1-8A      C1.3    2.1E-03   4180
+
+5600 +     0601   0606      0612  G18  5   XRA  1-8A      C1.3    1.0E-03   4172
+5600       0605   0608      0613  LEA  3   FLA  N09W65    SF      ERU       4172
+
+5610 +     0612   0616      0618  G18  5   XRA  1-8A      C1.2    6.4E-04   4172
+
+5620 +     0852   0901      0914  G18  5   XRA  1-8A      C1.6    1.7E-03   4172
+5620      B0900  U0902     A0910  SVI  3   FLA  N09W64    SF      ERU       4172
+
+5630 +     0931   0941      0947  G18  5   XRA  1-8A      C1.8    1.3E-03   4172
+
+5640 +     1021   1037      1050  G18  5   XRA  1-8A      C6.8    7.0E-03   4172
+
+5650      B1021  U1021     A1024  SVI  3   FLA  N09W64    SF                4172
+
+5660 +     1135   1145      1149  G18  5   XRA  1-8A      C2.2    1.4E-03   4172
+
+5670 +     1237   1245      1248  G18  5   XRA  1-8A      C2.1    8.9E-04   4172
+
+5680       1502   1510      1520  G19  5   XRA  1-8A      B8.6    8.8E-04       
+5680       1515   ////      1516  SAG  C   RSP  025-043   III/1                 
+
+5690 +     1622   ////      1624  SVI  U   RSP  025-066   III/1                 
+
+5700       1639   1644      1649  G19  5   XRA  1-8A      B7.9    5.0E-04   4172
+
+5710       1814   ////      1815  SAG  C   RSP  025-052   III/1                 
+
+5720 +     1843   1857      1922  G18  5   XRA  1-8A      C1.6    3.2E-03   4172
+
+5730       1927   ////      1927  SAG  C   RSP  025-053   III/1                 
+
+5740       1942   1943      1943  SAG  G   RBR  245       170                   
+
+5750 +     1950   1954      1956  G18  5   XRA  1-8A      C1.0    4.6E-04   4179
+
+5760       2002   ////      2003  SAG  C   RSP  025-063   III/1                 
+
+5770 +     2040   2046      2053  G18  5   XRA  1-8A      C1.1    8.8E-04   4178
+
+5780 +     2111   2122      2126  G18  5   XRA  1-8A      C7.7    3.8E-03   4172
+5780       2211   2213      2219  HOL  3   FLA  N06W72    SF                4172
+
+5800       2338   ////      2339  LEA  C   RSP  066-180   III/1                 

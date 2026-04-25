@@ -1,6 +1,3 @@
-Readme · MD
-Copy
-
 # Solar Events Dashboard
  
 A full-stack web application for exploring, filtering, and visualizing solar flare events from LMSAL (Lockheed Martin Solar and Astrophysics Laboratory) with quality comparison against NOAA/GOES data and solar image visualization.

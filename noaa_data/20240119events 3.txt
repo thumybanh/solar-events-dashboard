@@ -1,0 +1,26 @@
+:Product: 20240119events.txt
+:Created: 2024 Jan 22 0357 UT
+:Date: 2024 01 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jan 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3860       0008   ////      0110  LEA  C   RSP  025-151   VI/1                  
+
+3870 +     0146   0153      0158  G16  5   XRA  1-8A      C1.8    9.7E-04       
+
+3880       0318   0318      0318  PAL  G   RBR  245       140                   
+
+3890       0354   0354      0354  PAL  G   RBR  245       110                   
+
+3900       0928   ////      0929  LEA  C   RSP  025-095   III/1                 
+
+3910 +     1409   ////      1541  SVI  C   RSP  075-180   CTM/1                 
+
+3920       2323   ////      2324  LEA  C   RSP  025-140   III/2                 

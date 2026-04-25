@@ -1,0 +1,71 @@
+:Product: 20230518events.txt
+:Created: 2023 May 21 0357 UT
+:Date: 2023 05 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 May 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3210       0237   ////      0238  LEA  C   RSP  075-166   III/1                 
+
+3220       0253   ////      0316  LEA  3   EPL  ////      0.07                  
+3220 +     0303   0321      0339  G16  5   XRA  1-8A      C8.6    1.2E-02       
+
+3230 +     0342   ////      0348  LEA  C   RSP  042-180   III/2                 
+
+3240 +     0407   0412      0416  G16  5   XRA  1-8A      C3.8    1.9E-03       
+
+3250 +     0451   0457      0501  G16  5   XRA  1-8A      C2.2    1.2E-03       
+
+3260       0546   ////      0546  SVI  C   RSP  033-071   III/1                 
+
+3270 +     0613   0626      0638  G16  5   XRA  1-8A      M1.0    8.6E-03   3311
+
+3280       0643   0643      0645  LEA  3   FLA  S18E72    SF                3310
+
+3290 +     0648   0655      0702  G16  5   XRA  1-8A      M1.2    7.2E-03   3311
+
+3310       0825   0825      0827  LEA  3   FLA  S17E67    SF                3310
+3310 +     0825   ////      0826  LEA  C   RSP  025-180   III/1             3310
+
+3470      A0909   ////     A2331  LEA  2   DSF  N43E32    10                    
+
+3320 +     0947   1011      1013  G16  5   XRA  1-8A      C5.2    6.2E-03   3311
+
+3330       0947   0947      0947  SVI  U   RBR  410       330                   
+
+3340 +     1055   1105      1119  G16  5   XRA  1-8A      C4.2    2.6E-03   3311
+
+3350 +     1132   1147      1200  G16  5   XRA  1-8A      M2.2    1.4E-02   3311
+
+3360 +     1239   1249      1256  G16  5   XRA  1-8A      M1.6    1.6E-02   3311
+3360 +     1248   ////      1249  SVI  C   RSP  119-180   III/1                 
+
+3370      B1331  U1347      1349  SVI  3   FLA  N11W39    SF                3305
+
+3380 +     1358   ////      1405  SVI  C   RSP  042-180   III/2                 
+
+3390 +     1450   ////      1451  SVI  C   RSP  072-180   III/1                 
+3390       1450   1450      1451  SVI  G   RBR  245       110                   
+
+3410 +     1543   1555      1603  G16  5   XRA  1-8A      C4.0    4.3E-03   3311
+3410 +     1559   ////      1603  SAG  C   RSP  025-155   III/1                 
+
+3420       1649   ////      1717  SAG  C   RSP  025-180   VI/1                  
+3420       1649   ////      1650  SVI  C   RSP  132-180   III/1                 
+
+3430 +     1732   1751      1801  G16  5   XRA  1-8A      M1.1    1.2E-02   3311
+
+3440 +     1909   ////      1934  SAG  C   RSP  025-180   VI/2                  
+
+3450 +     2012   2023      2051  G16  5   XRA  1-8A      M3.8    1.2E-02   3311
+3450       2039   ////      2058  SAG  C   RSP  025-180   VI/2                  
+
+3760       2051   2105      2116  G16  5   XRA  1-8A      M4.5    5.7E-02   3311
+
+3460       2142   ////      2252  SAG  C   RSP  025-174   VI/2                  

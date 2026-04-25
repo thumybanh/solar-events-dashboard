@@ -1,0 +1,81 @@
+:Product: 20230907events.txt
+:Created: 2023 Sep 10 0357 UT
+:Date: 2023 09 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7020 +     0038   0047      0051  G16  5   XRA  1-8A      C1.1    6.8E-04   3417
+7020       0044   0047      0048  LEA  3   FLA  S07W43    SF                3417
+
+7030       0107   ////      0112  LEA  C   RSP  025-115   III/2                 
+
+7040       0115   0118      0119  LEA  3   FLA  N22E73    SF                3425
+
+7050       0122   0123      0124  LEA  3   FLA  N22E73    SF                3425
+
+7060 +     0146   0154      0204  G16  5   XRA  1-8A      C1.7    4.3E-04   3425
+7060       0152   0152      0159  LEA  3   FLA  N22E73    SF                3425
+
+7070 +     0236   0242      0246  G16  5   XRA  1-8A      C2.3    9.8E-04   3425
+7070       0240   0242      0245  LEA  3   FLA  N24E75    SF                3425
+
+7080 +     0327   0328      0329  LEA  3   FLA  N18W26    SF                3421
+
+7090       0505   0524      0538  G18  5   XRA  1-8A      C3.3    4.5E-03   3423
+7090 +     0505   ////      0511  LEA  C   RSP  025-180   III/2             3423
+7090 +     0532   0532      0534  LEA  3   FLA  N15E34    SF                3423
+
+7100       0800   0805      0806  LEA  3   FLA  N23E69    SF                3425
+
+7110       0812   ////      0812  SVI  C   RSP  110-165   III/1                 
+
+7120 +     1026   1031      1035  G16  5   XRA  1-8A      C3.4    1.4E-03   3421
+7120       1028   1028      1028  SVI  G   RBR  410       370                   
+
+7130      B1038  U1038     A1054  SVI  2   FLA  N15E30    SF                3423
+
+7140      B1059  U1116     A1122  SVI  2   FLA  N16E33    SF                3423
+7140 +     1107   ////      1107  SVI  C   RSP  025-180   III/1             3423
+7140       1107   1107      1107  SVI  G   RBR  245       100               3423
+
+7150      B1139  U1140     A1142  SVI  2   FLA  N15E30    SF                3423
+7150 +     1141   1147      1151  G16  5   XRA  1-8A      C3.0    1.5E-03   3423
+
+7160 +     1206   ////      1207  SVI  C   RSP  025-180   III/1                 
+
+7220 +     1307   ////      1550  SVI  C   RSP  060-180   CTM/1                 
+
+7170       1408  U1409      1437  SVI  3   FLA  N15W36    SF                3421
+
+7180       1451   1452      1454  SVI  3   FLA  N15E29    SF                3423
+
+7190       1456   1456      1509  SVI  3   FLA  N15E29    SF                3423
+
+7200       1538   1547      1559  G16  5   XRA  1-8A      C1.3    4.0E-04   3422
+7200       1543   1545      1556  HOL  3   FLA  N14W13    SF      PRB       3422
+
+7230       1550   ////      1558  SAG  C   RSP  025-041   III/1                 
+
+7210 +     1559   1603      1607  G16  5   XRA  1-8A      C1.3    7.1E-04   3422
+
+7240       1829   ////      1842  SAG  C   RSP  025-180   VI/2                  
+7240       1829   ////      1839  PAL  C   RSP  025-180   III/2                 
+
+7250 +     1858   1909      1924  G16  5   XRA  1-8A      M2.1    2.2E-02   3425
+7250       1901   1901      1952  HOL  3   FLA  N22E56    1B      ERU       3425
+7250       1901   ////      1907  SAG  C   RSP  025-180   III/1             3425
+7250       1901   1901      1901  PAL  G   RBR  4995      110               3425
+7250       1902   1902      1902  PAL  G   RBR  1415      110               3425
+7250       1903   1905      1906  PAL  G   RBR  245       28000             3425
+7250 +     1903   ////      1918  PAL  C   RSP  025-180   II/2    1238      3425
+
+7260       2012   ////      2142  SAG  C   RSP  143-170   CTM/1                 
+
+7270       2117   ////      2132  PAL  C   RSP  025-125   VI/1                  

@@ -1,0 +1,43 @@
+:Product: 20221129events.txt
+:Created: 2022 Dec 02 0357 UT
+:Date: 2022 11 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6380       0101   ////      0101  PAL  C   RSP  025-075   III/1                 
+
+6390 +     0216   0220      0224  G16  5   XRA  1-8A      C1.0    3.8E-04   3152
+
+6400 +     0524   0531      0535  G16  5   XRA  1-8A      B9.3    4.7E-04       
+
+6410 +     0629   0637      0655  G16  5   XRA  1-8A      C1.1    1.6E-03       
+
+6420 +     0800   ////      0800  SVI  C   RSP  113-144   III/1                 
+
+6430 +     0935   0942      0951  G16  5   XRA  1-8A      B9.0    7.5E-04       
+
+6450       1312   1358      1437  G16  5   XRA  1-8A      C4.2    1.5E-02   3151
+
+6440       1651   1652      1656  HOL  3   FLA  S16W83    SF                3151
+
+6460       2122   2123      2125  HOL  3   FLA  S17W82    SF                3151
+
+6470       2126   2127      2130  HOL  3   FLA  S17W82    SF                3151
+
+6480       2131   2133      2138  HOL  3   FLA  S17W82    SF                3151
+
+6490       2152   2153      2155  HOL  3   FLA  S17W82    SF                3151
+
+6500       2226   ////      2227  PAL  C   RSP  025-180   III/2                 
+
+6510 +     2235   2239      2245  HOL  3   FLA  S17W82    SN                3151
+
+6520       2246   2247      2248  HOL  3   FLA  S17W82    SF                3151
+6520       2248   ////      2257  HOL  3   SPY  ////      15                3151

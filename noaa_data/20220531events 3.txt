@@ -1,0 +1,41 @@
+:Product: 20220531events.txt
+:Created: 2022 Jun 03 0357 UT
+:Date: 2022 05 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 May 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9020 +     0120   ////      0120  PAL  C   RSP  025-180   III/1                 
+
+9030       0727   ////      0727  SVI  C   RSP  025-057   III/1                 
+
+9040 +     0801   ////      0803  LEA  C   RSP  025-102   III/1                 
+
+9050       0913   ////      0913  SVI  C   RSP  025-055   III/1                 
+
+9060 +     0942   ////      0942  SVI  C   RSP  025-173   III/1                 
+
+9070 +     1041   ////      1042  SVI  C   RSP  025-060   III/1                 
+
+9080 +     1150   ////      1150  SVI  C   RSP  025-055   III/1                 
+
+9090 +     1227   ////      1228  SVI  C   RSP  025-081   III/1                 
+
+9100 +     1313   ////      1315  SVI  C   RSP  025-082   III/1                 
+
+9110 +     1447   ////      1447  SVI  C   RSP  025-080   III/1                 
+
+9120 +     1453   1508      1521  G16  5   XRA  1-8A      B6.1    8.3E-04   3025
+
+9130 +     1826   ////      1847  SAG  C   RSP  025-053   VI/1                  
+
+9140 +     2208   ////      2208  PAL  C   RSP  025-075   III/2                 
+
+9150       2245   ////      2255  PAL  C   RSP  025-053   VI/2                  
+9150       2246   ////      2246  SAG  C   RSP  025-048   III/1                 

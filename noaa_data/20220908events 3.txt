@@ -1,0 +1,39 @@
+:Product: 20220908events.txt
+:Created: 2022 Sep 11 0357 UT
+:Date: 2022 09 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Sep 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9740      B0633  U0709     A0722  SVI  3   FLA  N22E16    SF      ERU       3094
+
+9750 +     0838   ////      0841  LEA  C   RSP  037-160   III/1                 
+
+9760 +     0938   0947      0955  G16  5   XRA  1-8A      C1.3    1.0E-03   3098
+9760      B0944  U0946     A1003  SVI  3   FLA  N16E28    SF                    
+
+9770 +     1310   1319      1326  G16  5   XRA  1-8A      C1.1    9.8E-04   3098
+9770      B1317  U1319     A1332  SVI  3   FLA  N16E27    SF                3098
+
+9780 +     1352   ////      1353  SVI  C   RSP  025-148   III/1                 
+
+9790 +     1547   1553      1600  G16  5   XRA  1-8A      C1.0    7.3E-04   3098
+9790       1550   1551      1602  HOL  3   FLA  N18E24    SF                3098
+
+9800 +     1652   1655      1657  G16  5   XRA  1-8A      B9.0    3.3E-04       
+
+9850       1657   1710      1722  G16  5   XRA  1-8A      C2.1    2.5E-03       
+
+9810 +     1745   1754      1810  G16  5   XRA  1-8A      C1.1    1.5E-03       
+
+9820       1956   1956      2001  HOL  3   FLA  N18E22    SF                3098
+
+9830       2328   2328      2328  LEA  G   RBR  245       120                   
+
+9840 +     2329   ////      2329  LEA  C   RSP  025-180   III/1                 

@@ -1,0 +1,55 @@
+:Product: 20240924events.txt
+:Created: 2024 Sep 27 0357 UT
+:Date: 2024 09 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Sep 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3030      A0026   ////     A1344  HOL  3   DSF  N31W49    18                    
+
+2960       0305   ////      0305  LEA  C   RSP  025-108   III/2                 
+
+2970 +     0333   0351      0626  G16  5   XRA  1-8A      C6.5    9.0E-04   3835
+2970 +     0340   ////      0346  LEA  C   RSP  025-180   III/2             3835
+2970       0346   0347      0356  LEA  3   FLA  S25E51    SF                3835
+
+2980       0522   0529      0534  G18  5   XRA  1-8A      C2.4    1.6E-03   3833
+
+2990 +     0626   0633      0645  G16  5   XRA  1-8A      C2.1    2.3E-03   3835
+
+3000 +     0803   0809      0814  G16  5   XRA  1-8A      C2.2    1.3E-03   3836
+
+3010       0926   0934      0939  G16  5   XRA  1-8A      C3.3    2.0E-03   3833
+
+3040       1117   ////      1400  SVI  C   RSP  025-180   VI/1                  
+3040       1117   ////      1623  SAG  C   RSP  111-180   CTM/1                 
+
+3020 +     1129   1146      1201  G16  5   XRA  1-8A      C6.9    8.1E-03   3828
+3020 +     1135   ////      1136  SVI  C   RSP  025-083   III/1                 
+3020       1140   1140      1140  SVI  G   RBR  245       120                   
+
+3070       1237   ////      1633  SVI  C   RSP  122-180   CTM/1                 
+
+3050       1416   1416      1420  HOL  3   FLA  S23E46    SF      ERU       3835
+
+3060      B1502  U1502      1507  SVI  3   FLA  S23E44    SF                3835
+
+3090       1554   ////      1613  SAG  C   RSP  025-145   VI/1                  
+
+3080       1555   ////      1555  SVI  C   RSP  025-083   III/1                 
+
+3100 +     1921   1928      1935  G16  5   XRA  1-8A      C2.8    2.0E-03   3833
+3100       1925   1927      1939  HOL  3   FLA  N21W49    SF      DSD       3833
+
+3110       2027   2027      2027  PAL  G   RBR  245       110                   
+
+3120       2140   2140      2144  HOL  3   FLA  S13E59    SF                3836
+
+3130       2338   ////      2359  LEA  C   RSP  025-160   VI/2                  
+3130       2348   ////      2349  PAL  C   RSP  025-065   III/2                 

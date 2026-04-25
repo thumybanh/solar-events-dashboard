@@ -1,0 +1,68 @@
+:Product: 20230318events.txt
+:Created: 2023 Mar 21 0357 UT
+:Date: 2023 03 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Mar 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8710      B0000   ////     B0419  LEA  2   EPL  ////      0.27                  
+
+8690       0021   ////      0041  LEA  C   RSP  025-180   VI/2              3256
+8690 +     0027   0037      0042  G16  5   XRA  1-8A      C3.8    2.4E-03   3256
+8690       0033   0036      0046  LEA  3   FLA  S24E79    SF                3256
+
+8700       0234   ////      0246  LEA  C   RSP  025-180   VI/2                  
+
+8720       0412   ////      0414  PAL  C   RSP  025-143   III/1                 
+8720       0412   ////      0435  LEA  C   RSP  025-165   VI/2                  
+
+8730       0554   0554      0554  LEA  G   RBR  245       110                   
+8730 +     0554   ////      0556  LEA  C   RSP  025-180   III/1                 
+
+8750 +     0647   ////      1025  LEA  C   RSP  025-180   VI/3                  
+
+8740 +     0710   0716      0720  G16  5   XRA  1-8A      C9.4    3.3E-03   3256
+8740       0711   ////      0716  SVI  C   RSP  025-180   III/2             3256
+8740 +     0711   ////      0719  LEA  C   RSP  025-180   V/3               3256
+8740 +     0711   0712      0716  LEA  G   RBR  245       4100              3256
+8740 +     0712   0712      0714  LEA  G   RBR  410       2800              3256
+8740 +     0712   0716      0723  LEA  3   FLA  S22E72    1N      DSD       3256
+8740 +     0712   0712      0713  LEA  G   RBR  610       480               3256
+8740       0712   0713      0713  SVI  G   RBR  4995      160               3256
+8740       0713   0713      0713  SVI  G   RBR  8800      110               3256
+
+8750       0722   ////      0755  LEA  C   RSP  025-152   III/1                 
+8750       0722   ////      0755  SVI  C   RSP  025-151   IV/1                  
+
+8760       1009   1009      1011  SVI  3   FLA  S19E67    SF                3256
+8760       1009   1009      1009  LEA  G   RBR  245       120               3256
+
+8770 +     1049   ////      1049  SVI  C   RSP  042-083   III/1                 
+
+8790 +     1123   ////      1202  SVI  C   RSP  025-180   VI/1                  
+
+8780       1136   1136      1137  SVI  G   RBR  245       1200                  
+8780 +     1136   ////      1137  SVI  C   RSP  025-180   III/2                 
+8780       1137   1137      1137  SVI  G   RBR  410       100                   
+
+8800 +     1312   ////      1350  SVI  C   RSP  025-180   VI/1                  
+
+8810 +     1422   ////      1432  SAG  C   RSP  025-075   III/1                 
+
+8820 +     1516   ////      1516  SAG  C   RSP  025-152   III/1                 
+
+8830       1743   ////      1744  PAL  C   RSP  025-180   III/1                 
+
+8850       1822   ////      1906  SAG  C   RSP  025-180   VI/1                  
+
+8840       1906   1906      1906  SAG  U   RBR  610       140                   
+
+8860 +     2050   ////      2055  PAL  C   RSP  025-138   III/2                 
+
+8870       2355   ////      2355  LEA  C   RSP  032-145   III/1                 

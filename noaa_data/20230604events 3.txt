@@ -1,0 +1,106 @@
+:Product: 20230604events.txt
+:Created: 2023 Jun 07 0357 UT
+:Date: 2023 06 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jun 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9580 +     0008   0015      0019  G16  5   XRA  1-8A      C3.2    1.8E-03   3319
+
+9590 +     0108   0118      0126  G16  5   XRA  1-8A      C2.8    2.6E-03   3327
+
+9600       0127   0127      0127  LEA  G   RBR  245       100                   
+
+9610 +     0154   0201      0214  G16  5   XRA  1-8A      C3.0    3.1E-03   3327
+
+9620 +     0230   ////      0239  LEA  C   RSP  025-180   III/1                 
+
+9630 +     0332   0345      0359  G16  5   XRA  1-8A      C8.8    1.0E-02   3323
+
+9640 +     0419   0423      0427  G16  5   XRA  1-8A      C4.0    1.8E-03   3323
+
+9650       0608   ////      0608  LEA  C   RSP  070-180   III/1                 
+9650       0608   ////      0729  SVI  C   RSP  025-180   VI/1                  
+
+9660       0644   ////      0645  LEA  C   RSP  121-180   III/1                 
+
+9670       0716   ////      0717  LEA  C   RSP  115-180   III/1                 
+
+9680       0729   0730      0733  SVI  3   FLA  S08E33    SF                3323
+
+9690 +     0815   ////      0824  SVI  C   RSP  025-180   III/2                 
+
+9700 +     0849   0859      0909  G16  5   XRA  1-8A      C3.5    3.4E-03   3323
+9700       0852  U0853      0915  SVI  3   FLA  S10E33    SF                3323
+
+9710       0854  U0855      0916  SVI  3   FLA  N29E08    SF                3323
+
+9700 +     0854   ////      0857  SVI  C   RSP  025-180   III/2             3323
+
+9720 +     0940   0949      0956  G16  5   XRA  1-8A      C3.4    2.5E-03   3327
+
+9730       0958   ////      0959  SAG  C   RSP  025-118   III/1                 
+
+9740       0959   ////      0959  SVI  C   RSP  025-083   III/1                 
+
+9750 +     1035   ////      1113  SVI  C   RSP  025-180   VI/2                  
+
+9760       1120   1121      1126  SVI  3   FLA  N10W23    SF                3325
+
+9770 +     1156   1206      1214  G16  5   XRA  1-8A      C4.5    3.4E-03   3323
+9770       1202  U1203     A1227  SVI  3   FLA  S10E30    SF                3323
+
+9780 +     1232   ////      1238  SAG  C   RSP  025-150   III/1                 
+
+9790 +     1310   ////      1311  SAG  C   RSP  025-152   III/1                 
+
+9800       1331   1331      1337  SVI  3   FLA  S17E75    SF                3327
+
+9810 +     1348   ////      1353  SVI  C   RSP  076-180   III/1                 
+
+9820 +     1425   1430      1446  G16  5   XRA  1-8A      C5.7    5.5E-03   3327
+9820 +     1428   1440      1513  HOL  3   FLA  S17E75    1N      DSD       3327
+
+9830       1519   1521      1526  HOL  3   FLA  S15E79    SF                3327
+
+9840 +     1552   ////      1806  SVI  C   RSP  025-180   VI/1                  
+
+9850 +     1655   1702      1708  G16  5   XRA  1-8A      C3.6    2.7E-03   3323
+
+9860       1727   1737      1737  HOL  3   FLA  S15E79    SF                3327
+
+9870       1738   1752      1749  HOL  3   FLA  S15E79    SF                3327
+
+9880 +     1813   1817      1818  HOL  3   FLA  S15E79    SF      DSD       3327
+
+9890       1821   1822      1829  HOL  3   FLA  S15E79    SF                3327
+
+9900       1835   1848      1840  HOL  3   FLA  S08E26    SF                3323
+
+9910 +     1857   ////      1858  SAG  C   RSP  025-143   III/1                 
+
+9920       1925   1927      1933  HOL  3   FLA  S07E28    SF                3323
+
+9930       1934   1935      1942  HOL  3   FLA  S07E28    SF                3323
+
+9940       1945   1945      1948  HOL  3   FLA  N30E01    SF      DSD           
+
+9950       2003   2003      2003  PAL  G   RBR  245       450                   
+9950       2003   ////      2003  PAL  C   RSP  025-180   III/1                 
+9950       2003   ////      2038  SAG  C   RSP  025-180   VI/1                  
+
+9970       2007   ////      2308  PAL  C   RSP  025-180   VI/1                  
+
+9960       2009   2010      2013  HOL  3   FLA  N30E01    SF      YSR           
+
+9980       2158   ////      2158  SAG  C   RSP  025-070   III/1                 
+
+9990 +     2352   ////      2352  LEA  C   RSP  025-115   III/2                 
+
+  10 +     2359   0017      0032  G16  5   XRA  1-8A      C4.9    8.6E-03   3320

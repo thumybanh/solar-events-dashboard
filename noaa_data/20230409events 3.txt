@@ -1,0 +1,67 @@
+:Product: 20230409events.txt
+:Created: 2023 Apr 12 0357 UT
+:Date: 2023 04 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2700 +     0125   0136      0151  G16  5   XRA  1-8A      C1.4    1.9E-03   3272
+
+2710 +     0214   0229      0254  G16  5   XRA  1-8A      C1.8    1.7E-03   3272
+
+2730 +     0254   0304      0315  G16  5   XRA  1-8A      C1.6    2.1E-03   3272
+
+2720       0533   0533      0533  LEA  G   RBR  245       170                   
+
+2740 +     0551   0608      0624  G16  5   XRA  1-8A      C9.0    1.2E-02   3272
+2740       0600   0600      0609  LEA  3   FLA  S18E47    SF                3272
+
+2750 +     0733   0738      0753  G16  5   XRA  1-8A      C1.7    7.8E-04       
+
+2760 +     0753   0756      0800  G16  5   XRA  1-8A      C1.6    7.4E-04       
+
+2770 +     0931   0931      0932  SVI  G   RBR  245       170                   
+2770 +     0931   ////      0932  SVI  C   RSP  077-180   III/1                 
+
+2780       1112   ////      1331  SAG  C   RSP  116-166   CTM/1                 
+
+2790 +     1445   1453      1501  G16  5   XRA  1-8A      C3.2    2.6E-03   3272
+2790       1453   1453      1500  HOL  3   FLA  S19E42    SF      BPT       3272
+
+2800       1507   1508      1518  HOL  3   FLA  S20E47    SF      ERU       3272
+
+2810       1540   ////      1541  SAG  C   RSP  025-065   III/1                 
+
+2820 +     1614   1628      1632  G16  5   XRA  1-8A      C2.4    2.2E-03   3273
+2820       1622   1628      1632  HOL  3   FLA  N10E31    SF      ERU           
+
+2850 +     1632   1635      1639  G16  5   XRA  1-8A      C2.8    1.2E-03       
+
+2830 +     1813   1827      1836  G16  5   XRA  1-8A      C3.5    2.5E-03   3272
+2830 +     1822   1829      1827  HOL  3   FLA  S22E42    SF      ERU       3272
+
+2840       1829   1838      1903  HOL  3   FLA  S22E42    SF      ERU       3272
+2840 +     1836   1841      1846  G16  5   XRA  1-8A      C3.7    2.3E-03   3272
+
+2870       1850   ////      1952  HOL  3   DSF  S34W36    9                     
+
+2860 +     1916   1923      1929  G16  5   XRA  1-8A      C2.0    1.3E-03   3273
+2860       1918   ////      1919  PAL  C   RSP  025-076   III/1             3273
+2860       1919   1926      1932  HOL  3   FLA  N10E30    SF      ERU       3273
+
+2910 +     2018   ////      2359  PAL  C   RSP  080-180   CTM/1                 
+
+2880 +     2032   2039      2052  G16  5   XRA  1-8A      C1.5    1.7E-03   3272
+2880       2038   2038      2042  HOL  3   FLA  S25E42    SF      ERU       3272
+
+2890 +     2101   2119      2128  G16  5   XRA  1-8A      C2.7    2.8E-03       
+
+2900 +     2128   2134      2138  G16  5   XRA  1-8A      C2.4    1.5E-03       
+
+2920       2246   ////      2359  LEA  C   RSP  076-180   CTM/1                 

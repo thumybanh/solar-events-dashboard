@@ -1,0 +1,93 @@
+:Product: 20250711events.txt
+:Created: 2025 Jul 14 0357 UT
+:Date: 2025 07 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5990      A0009   ////     A1359  HOL  3   DSF  N20W21    11                    
+
+5790 +     0137   0144      0150  G18  5   XRA  1-8A      C1.3    1.0E-03   4140
+
+5810      B0542  U0544     A0613  SVI  3   FLA  N28W04    SF                    
+5810 +     0608   0609      0609  LEA  G   RBR  410       150                   
+
+5820      B0722  U0722     A0728  SVI  3   FLA  N28W05    SF                    
+
+5830       0910   0911      0917  SVI  3   FLA  N21E33    SF                    
+
+5840 +     0923   0930      0932  G18  5   XRA  1-8A      C1.7    8.4E-04   4127
+5840       0929   0930      0932  SVI  3   FLA  S15W61    SF                    
+
+5850 +     0951   0958      1004  G18  5   XRA  1-8A      C1.2    1.0E-03   4139
+5850       0954   0956      1004  SVI  3   FLA  N22E32    SF                    
+
+5860       1008   1009      1011  SVI  3   FLA  N22E30    SF                    
+
+5930       1115   1117      1121  SVI  3   FLA  N28W07    SF                4138
+
+5870 +     1115   1122      1127  G18  5   XRA  1-8A      C2.0    1.3E-03   4139
+5870       1121   1122      1126  SVI  3   FLA  N22E29    SF                4139
+
+5880 +     1151   1155      1200  G18  5   XRA  1-8A      C1.7    8.8E-04   4140
+
+5940       1157   1159      1201  SVI  3   FLA  N27W07    SF                4138
+
+5890       1201   ////      1201  SAG  C   RSP  025-052   III/1                 
+
+5900       1254   1255      1256  SVI  3   FLA  S15W63    SF                    
+
+5910 +     1308   1314      1319  G18  5   XRA  1-8A      C2.2    1.4E-03   4140
+
+5920 +     1336   1348      1358  SVI  3   FLA  N27W08    SF                4138
+
+5950 +     1410   1420      1430  G18  5   XRA  1-8A      C5.2    4.4E-03   4140
+5950       1418   1419      1421  SVI  3   FLA  S13E84    SF                4140
+
+6020       1424   1424      1433  HOL  3   FLA  N28W08    SF                4138
+
+6000       1509   1517      1526  HOL  2   FLA  N28W08    SF                4138
+
+5960 +     1509   1513      1521  G18  5   XRA  1-8A      C3.5    2.5E-03   4140
+
+6010       1513   1517      1525  SVI  3   FLA  N27W08    SF                4138
+
+5970       1535   1537      1537  HOL  2   FLA  N28W08    SF                4138
+
+5980 +     1619   1619      1625  SVI  3   FLA  S15E86    SF                4140
+5980 +     1620   1620      1620  SAG  G   RBR  410       840               4140
+
+6030 +     1701   1709      1711  G18  5   XRA  1-8A      C8.0    2.6E-03   4138
+6030 +     1709   1711      1713  SVI  3   FLA  N28W09    SF                4138
+
+6040 +     1720   1722      1728  SVI  3   FLA  S15E82    SF                4140
+
+6050       1727   1728      1731  SVI  3   FLA  N28W09    SF                4138
+
+6060       1734   1739      1740  HOL  3   FLA  N28W09    SF      ERU       4138
+
+6290      A1739   ////     A0436  SVI  3   DSF  N24E24    10                    
+
+6070       1806   1818      1841  HOL  3   FLA  N28W09    SF      ERU       4138
+
+6080 +     1859   1859      1859  SAG  G   RBR  410       950                   
+6080 +     1859   1859      1859  SAG  U   RBR  610       350                   
+
+6090       1916   1916      1916  SAG  U   RBR  245       100                   
+
+6100       1932   1932      1932  SAG  U   RBR  245       170                   
+
+6110       1952   1952      1954  HOL  3   FLA  N17E36    SF                4136
+
+6120       2055   2055      2055  PAL  U   RBR  610       140                   
+
+6130 +     2110   2122      2132  G18  5   XRA  1-8A      C1.7    2.1E-03   4138
+6130       2115   2119      2222  HOL  3   FLA  N27W12    1F                4138
+
+6140 +     2350   0002      0005  G18  5   XRA  1-8A      C2.2    1.5E-03       

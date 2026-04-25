@@ -1,0 +1,41 @@
+:Product: 20220318events.txt
+:Created: 2022 Mar 21 0357 UT
+:Date: 2022 03 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Mar 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2160       0121   ////      0121  LEA  C   RSP  025-058   III/1                 
+2160       0121   ////      0136  PAL  C   RSP  025-047   VI/1                  
+
+2170       0135   ////      0136  LEA  C   RSP  025-056   III/1                 
+
+2180 +     0634   ////      0634  LEA  C   RSP  025-130   III/1                 
+
+2190       1027   ////      1036  SVI  C   RSP  025-170   III/1                 
+
+2200       1215   ////      1215  SVI  C   RSP  025-137   III/1                 
+
+2210 +     1514   ////      1515  SVI  C   RSP  025-152   III/1                 
+
+2220 +     1622   1628      1632  G16  5   XRA  1-8A      B2.9    1.6E-04   2965
+
+2230 +     1632   ////      1632  SVI  C   RSP  025-083   III/1                 
+
+2240 +     1837   ////      1837  SAG  C   RSP  025-075   III/2                 
+
+2250 +     1956   2003      2010  G16  5   XRA  1-8A      B3.3    2.6E-04   2965
+
+2260 +     2121   ////      2121  PAL  C   RSP  025-063   III/1                 
+
+2270 +     2213   ////      2213  PAL  C   RSP  025-150   III/2                 
+
+2280       2316   ////      2334  PAL  C   RSP  025-092   VI/2                  
+2280       2321   2328      2329  LEA  G   RBR  245       100                   
+2280 +     2333   2348      0008  G16  5   XRA  1-8A      B7.1    1.2E-03   2965

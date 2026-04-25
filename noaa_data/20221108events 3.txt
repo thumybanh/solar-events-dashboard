@@ -1,0 +1,28 @@
+:Product: 20221108events.txt
+:Created: 2022 Nov 11 0357 UT
+:Date: 2022 11 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2700 +     0302   0302      0324  LEA  G   RNS  245       210                   
+
+2710 +     0305   0311      0315  G16  5   XRA  1-8A      B8.2    4.2E-04   3141
+
+2720       1417   ////      1432  SAG  C   RSP  025-045   VI/1                  
+
+2730 +     1643   1702      1729  G16  5   XRA  1-8A      C1.2    3.2E-03   3141
+
+2740       1753   1753      1753  SAG  U   RBR  245       110                   
+
+2750       1829   1829      1829  SAG  U   RBR  245       170                   
+
+2760       1906   1906      1913  HOL  3   FLA  N14E29    SF                3141
+
+2770       2247   2249      2257  HOL  3   FLA  N12E28    SF                3141

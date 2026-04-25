@@ -1,0 +1,59 @@
+:Product: 20240605events.txt
+:Created: 2024 Jun 08 0357 UT
+:Date: 2024 06 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jun 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9220       0059   ////      0100  LEA  C   RSP  048-112   III/1                 
+
+9230 +     0313   0326      0345  G16  5   XRA  1-8A      C6.0    1.4E-03       
+
+9240 +     0520   0530      0542  G16  5   XRA  1-8A      C3.3    3.9E-03   3701
+
+9250 +     0611   0618      0621  G16  5   XRA  1-8A      C3.0    2.4E-03   3697
+
+9260       0621   0626      0635  G16  5   XRA  1-8A      C3.1    2.7E-03       
+
+9270 +     0832   0856      0914  G16  5   XRA  1-8A      M3.4    4.6E-02   3697
+9270 +     0839   0855     A0924  LEA  3   FLA  S21W25    1F                3697
+
+9280 +     0914   ////      0916  SVI  C   RSP  025-134   III/2                 
+
+9290      B0926   0934      0939  SVI  2   FLA  S21W25    1F      ERU       3697
+
+9300      B0951  U1010      1037  SVI  3   FLA  S21W25    1N      ERU       3697
+9300 +     0952   1007      1017  G16  5   XRA  1-8A      M2.6    2.9E-02   3697
+
+9310      B0956  U0956     A1009  SVI  2   FLA  S08W01    SF                3703
+
+9320       1051   1052      1110  SVI  3   FLA  S08W02    SF                3703
+
+9330 +     1127   1133      1139  G16  5   XRA  1-8A      C3.9    2.7E-03   3703
+9330       1129   1130      1147  SVI  3   FLA  S07W02    1F      ERU       3703
+
+9340 +     1154   1204      1213  G16  5   XRA  1-8A      C4.7    4.7E-03   3698
+9340 +     1157  U1211     A1218  SVI  3   FLA  N22W35    SF                3698
+
+9350 +     1237   1238      1251  HOL  3   FLA  N22W35    SF      PRB       3698
+
+9360 +     1258   1258      1303  SVI  3   FLA  S21W19    SF                3697
+
+9370 +     1432   1432      1439  HOL  3   FLA  S07W02    SF                3703
+
+9380       1459   1501      1511  SVI  3   FLA  S08W04    SF                3703
+
+9390       1611   1615      1617  SVI  3   FLA  S18W20    SF      ERU       3697
+
+9400       1618   1629      1638  SVI  3   FLA  S18W20    SF      ERU       3697
+9400       1633   ////      1636  SVI  C   RSP  025-086   III/1             3697
+
+9410 +     1859   1910      1918  G16  5   XRA  1-8A      C6.8    7.0E-03       
+
+9420       2310   ////      2359  LEA  C   RSP  060-180   CTM/1                 

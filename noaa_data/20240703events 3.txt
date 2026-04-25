@@ -1,0 +1,57 @@
+:Product: 20240703events.txt
+:Created: 2024 Jul 06 0357 UT
+:Date: 2024 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7380 +     0321   0332      0343  G16  5   XRA  1-8A      C2.5    3.0E-03   3729
+
+7430      B0427  U0452     A0541  SVI  3   FLA  S03W10    SF                3729
+
+7500      B0452  U0501     A0524  SVI  3   FLA  S19W62    SF                3730
+
+7440      B0706  U0707     A0708  SVI  3   FLA  S03W10    SF                3729
+
+7390 +     0729   0741      0755  G16  5   XRA  1-8A      M1.5    1.3E-02   3729
+7390       0735   ////      0738  SVI  C   RSP  025-080   III/1             3729
+
+7510       0736   0737      0806  SVI  3   FLA  S20W62    1N      BPT       3730
+
+7390       0736   ////      0757  LEA  C   RSP  025-118   VI/2              3729
+7390 +     0742   ////      0804  LEA  C   RSP  025-115   II/3    1254      3729
+7390       0745   0750      0828  SVI  3   FLA  S03W10    1F                3729
+
+7450       0801   0802      0826  SVI  3   FLA  N10E27    SF                3734
+
+7460       0900   0901      0903  SVI  3   FLA  S05W13    SF                3729
+
+7400 +     0938   0946      1009  G16  5   XRA  1-8A      C2.2    5.4E-04   3736
+
+7420 +     1009   1012      1016  G16  5   XRA  1-8A      C1.8    8.6E-04   3736
+
+7410 +     1052   1101      1109  G16  5   XRA  1-8A      C2.5    2.3E-03   3730
+7410       1054   ////      1056  SVI  C   RSP  025-059   III/2             3730
+7410       1054  U1055     A1112  SVI  3   FLA  S20W66    SF      DSD       3730
+7410      B1107   ////     B1113  SVI  3   BSL  ////      0.2     B.9A      3730
+
+7470       1201   1213      1222  SVI  3   FLA  S05W16    SF                3729
+7470 +     1206   1211      1218  G16  5   XRA  1-8A      C2.5    1.6E-03   3729
+
+7480       1419   ////      1426  SVI  C   RSP  025-085   III/1                 
+
+7490 +     1619   ////      1621  SAG  C   RSP  025-180   V/1                   
+
+7520       1820   ////      1820  SAG  C   RSP  025-053   III/1                 
+
+7530       1826   ////      1826  PAL  C   RSP  025-051   III/1                 
+
+7540 +     1918   1926      1937  G16  5   XRA  1-8A      C2.5    2.4E-03   3729
+
+7550       2038   ////      2043  PAL  C   RSP  025-075   III/1                 

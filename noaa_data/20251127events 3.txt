@@ -1,0 +1,43 @@
+:Product: 20251127events.txt
+:Created: 2025 Nov 30 0357 UT
+:Date: 2025 11 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Nov 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8660 +     0035   0047      0058  G18  5   XRA  1-8A      C2.7    2.7E-03   4291
+8660       0042   0043      0105  LEA  3   FLA  S15E14    SF                4291
+
+8670       0108   ////      0120  LEA  C   RSP  025-144   VI/2                  
+8670       0108   ////      0109  PAL  C   RSP  025-072   III/1                 
+
+8680 +     0136   0143      0148  G18  5   XRA  1-8A      C1.1    7.8E-04   4292
+
+8690       0151   ////      0152  LEA  C   RSP  025-098   III/2                 
+
+8700       0226   ////      0227  LEA  C   RSP  040-053   III/2                 
+
+8710       0258   ////      0258  LEA  C   RSP  025-115   III/2                 
+
+8720       0343   ////      0353  LEA  C   RSP  025-062   VI/2                  
+
+8730       0422   0430      0438  G19  5   XRA  1-8A      C1.0    1.2E-03   4291
+8730       0422   0428      0429  LEA  3   FLA  S14E12    SF                4291
+
+8740       0438   0444      0447  G19  5   XRA  1-8A      C1.0    6.6E-04   4291
+8740       0442   0444      0445  LEA  3   FLA  S14E12    SF                4291
+8740       0444   ////      0446  LEA  C   RSP  025-047   III/2             4291
+
+8760 +     1307   1321      1339  G18  5   XRA  1-8A      C1.8    3.2E-03       
+
+8770       1612   1622      1639  G19  5   XRA  1-8A      C1.3    2.0E-03       
+
+8780 +     2140   2150      2205  G18  5   XRA  1-8A      C3.0    3.6E-03       
+
+8880       2206   ////      2207  LEA  C   RSP  025-046   III/2                 

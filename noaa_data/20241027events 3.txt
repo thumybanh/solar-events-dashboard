@@ -1,0 +1,82 @@
+:Product: 20241027events.txt
+:Created: 2024 Oct 30 0357 UT
+:Date: 2024 10 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Oct 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2590       0000   ////      0010  LEA  C   RSP  025-180   VI/2                  
+
+2570       0000   ////      0000  PAL  C   RSP  025-048   III/1                 
+
+2600       0044   ////      0252  LEA  C   RSP  025-035   VI/2                  
+
+2610 +     0316   0324      0333  G16  5   XRA  1-8A      C8.3    6.6E-03   3869
+2610       0321   0324      0333  LEA  3   FLA  N15E26    SF                3869
+
+2680       0347   ////      0414  LEA  C   RSP  025-143   VI/2                  
+
+2620       0421   0421      0421  LEA  G   RBR  245       150                   
+
+2630       0428   0430      0430  LEA  G   RBR  245       150                   
+
+2640       0513   0513      0514  LEA  G   RBR  245       330                   
+2640       0513   ////      0513  LEA  C   RSP  025-180   III/3                 
+
+2650 +     0518   0532      0549  G16  5   XRA  1-8A      C7.6    1.2E-02   3872
+2650       0519   ////      0529  LEA  C   RSP  025-180   III/2                 
+2650       0528   0530      0530  LEA  G   RBR  245       570                   
+
+2660 +     0625   ////      0626  LEA  C   RSP  025-149   III/3                 
+2660 +     0626   0626      0626  LEA  G   RBR  245       580                   
+
+2670 +     0830   ////      0831  LEA  C   RSP  025-132   III/2                 
+
+2690       1004  U1009      1052  SVI  3   FLA  S05E17    SF      ERU       3876
+2690       1042   ////      1046  SVI  C   RSP  025-180   III/1             3876
+
+2710       1106   ////      1209  SVI  C   RSP  025-180   VI/1                  
+
+2700 +     1125   1132      1138  G16  5   XRA  1-8A      C4.3    3.1E-03       
+2700       1126  U1129      1136  SVI  3   FLA  N13E86    SF                    
+2700       1127   ////      1213  SAG  C   RSP  025-121   VI/1                  
+
+2720 +     1232   1242      1257  G16  5   XRA  1-8A      C7.9    8.9E-03   3876
+2720 +     1232   ////      1233  SAG  C   RSP  110-180   III/1             3876
+2720 +     1239   1241      1249  SVI  3   FLA  N15E85    SF      DSD       3876
+
+2740       1303   1325      1406  SVI  3   FLA  S16E22    1N      ERU       3869
+2740 +     1306   1315      1323  G16  5   XRA  1-8A      C7.1    1.9E-03   3869
+
+2760 +     1323   1326      1331  G16  5   XRA  1-8A      C9.8    4.3E-03   3878
+2760       1327   ////      1509  SAG  C   RSP  025-073   VI/1                  
+
+2750       1338   1341      1344  SVI  3   FLA  N15E85    SF                    
+
+2770       1357   1358      1400  SVI  3   FLA  S06E17    SF                3876
+
+2780       1521   1534      1608  HOL  3   FLA  N24W03    SF                3874
+2780 +     1523   1535      1542  G16  5   XRA  1-8A      C7.4    7.4E-03   3874
+
+2790       1937   1950      1959  HOL  3   FLA  N24W03    SF                3874
+2790 +     1950   ////      2025  PAL  C   RSP  025-180   VI/2              3874
+
+2800 +     2008   2018      2029  G16  5   XRA  1-8A      C4.9    5.3E-03   3878
+2800       2014   2014      2023  HOL  3   FLA  N16E83    SF                    
+
+2810       2214   ////      2214  LEA  C   RSP  025-152   III/2                 
+
+2820 +     2305   2324      2344  G16  5   XRA  1-8A      M2.8    3.9E-02   3878
+2820       2311   2322      2346  PAL  G   RBR  8800      35                    
+2820       2313   ////      2359  LEA  C   RSP  025-151   VI/2                  
+2820       2313   2322      2346  PAL  G   RBR  4995      40                    
+2820       2315   2315      2342  PAL  G   RBR  2695      25                    
+2820       2320   2323      2344  PAL  G   RBR  245       29                    
+2820       2323   2323      2323  PAL  G   RBR  410       12                    
+2820       2323   ////      2323  PAL  C   RSP  025-180   III/1                 

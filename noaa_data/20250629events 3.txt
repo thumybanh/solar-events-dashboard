@@ -1,0 +1,30 @@
+:Product: 20250629events.txt
+:Created: 2025 Jul 02 0357 UT
+:Date: 2025 06 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jun 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4290       0611   ////      0619  SVI  C   RSP  025-084   III/1                 
+
+4340       0815   0837      0845  G18  5   XRA  1-8A      C1.2    2.1E-03       
+
+4300 +     1100   ////      1101  SVI  C   RSP  025-039   III/1                 
+
+4350       1238   1245      1252  G18  5   XRA  1-8A      C1.0    8.9E-04       
+
+4360 +     1334   ////      1742  HOL  3   EPL  ////      0.22    B.9A          
+
+4370 +     1444   ////      1739  HOL  3   EPL  ////      0.5     B.7A          
+
+4330 +     1558   ////      1559  SVI  C   RSP  040-180   III/1                 
+
+4380 +     1741   ////      1742  PAL  C   RSP  109-140   III/2                 
+
+4390       1859   ////      1859  SAG  C   RSP  025-072   III/1                 

@@ -1,0 +1,78 @@
+:Product: 20251005events.txt
+:Created: 2025 Oct 08 0357 UT
+:Date: 2025 10 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Oct 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7040       0000   ////      0405  PAL  C   RSP  109-180   CTM/2                 
+
+7120       0000   ////      1012  LEA  C   RSP  077-180   CTM/1                 
+
+7000       0000   ////      0000  LEA  C   RSP  025-056   III/1                 
+
+7040       0034   ////      0847  LEA  C   RSP  025-105   VI/1                  
+
+7010       0132   0133      0133  PAL  U   RBR  245       140                   
+
+7020       0219   0219      0219  PAL  U   RBR  245       130                   
+
+7050       0309   0309      0309  PAL  U   RBR  245       200                   
+
+7030 +     0316   0329      0329  LEA  G   RNS  245       260                   
+
+7060       0437   0437      0437  LEA  G   RBR  410       100                   
+
+7130       0511   ////      1615  SVI  C   RSP  025-180   CTM/2                 
+
+7070       0530   0530      0530  LEA  G   RBR  245       170                   
+
+7080       0536   ////      0537  SVI  U   RSP  044-069   III/1                 
+
+7090       0544   0544      0544  LEA  G   RBR  245       140                   
+
+7100       0700   0700      0701  LEA  G   RBR  245       180                   
+
+7110       0712   0712      0712  SVI  G   RBR  245       120                   
+
+7250       1115   ////      2122  SAG  C   RSP  112-180   CTM/1                 
+
+7140 +     1222   1223      1224  SVI  G   RBR  245       340                   
+
+7150       1226   1226      1227  SAG  G   RBR  245       100                   
+
+7160       1249   ////      1250  SVI  C   RSP  025-037   III/1                 
+
+7170 +     1357   ////      1520  SAG  C   RSP  025-180   VI/1                  
+
+7180       1601   1601      1601  SAG  G   RBR  245       110                   
+
+7190       1609   1609      1609  SAG  G   RBR  245       220                   
+
+7200       1638   ////      1912  PAL  C   RSP  109-180   CTM/1                 
+
+7210 +     1813   1813      1813  SAG  G   RBR  245       160                   
+
+7220       1817   ////      1832  PAL  C   RSP  025-075   VI/1                  
+7220       1826   1826      1826  SAG  G   RBR  245       130                   
+
+7240       2053   ////      2121  PAL  C   RSP  025-048   VI/1                  
+7240       2121   ////      2359  PAL  C   RSP  109-138   CTM/2                 
+
+7230       2134   2134      2137  PAL  U   RBR  245       720                   
+
+7260       2159   2159      2159  PAL  U   RBR  245       210                   
+
+7270       2206   ////      2208  PAL  C   RSP  025-067   III/1                 
+
+7280       2212   ////      2359  LEA  C   RSP  107-148   CTM/1                 
+7280       2243   ////      2328  LEA  C   RSP  025-114   VI/2                  
+7280       2243   ////      2252  PAL  C   RSP  025-055   III/1                 
+
+7290 +     2337   2342      2345  G18  5   XRA  1-8A      C3.4    1.8E-03   4236

@@ -1,0 +1,119 @@
+:Product: 20240514events.txt
+:Created: 2024 May 17 0357 UT
+:Date: 2024 05 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 May 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2890      B0000   ////     B0608  LEA  2   LPS  ////      0.14              3664
+
+2870       0140   ////      0147  LEA  C   RSP  025-118   III/2                 
+
+2900 +     0202   ////      0334  LEA  C   RSP  025-180   VI/3                  
+
+2870 +     0203   0209      0219  G16  5   XRA  1-8A      X1.7    1.1E-01   3664
+
+2880       0204   0205      0207  LEA  G   RBR  4995      460     CastelliU     
+
+2870       0204   0205      0207  PAL  G   RBR  4995      440     CastelliU     
+2870       0205   0205      0206  PAL  G   RBR  245       35000   CastelliU     
+
+2880       0205   0205      0207  LEA  G   RBR  245       63000   CastelliU     
+2880       0205   0205      0206  LEA  G   RBR  410       4800    CastelliU     
+
+2870       0205   0205      0206  PAL  G   RBR  410       4300    CastelliU     
+2870       0205   0205      0207  PAL  G   RBR  2695      250     CastelliU     
+
+2880       0205   0205      0206  LEA  G   RBR  2695      220     CastelliU     
+2880       0205   0205      0205  LEA  G   RBR  610       100     CastelliU     
+
+2870       0205   0205      0205  PAL  G   RBR  610       85      CastelliU     
+2870       0205   0206      0206  PAL  G   RBR  1415      110     CastelliU     
+
+2880       0205   0206      0206  LEA  G   RBR  1415      120     CastelliU     
+
+2870       0207   ////      0219  LEA  C   RSP  063-180   II/2    447           
+2870 +     0213   0214      0215  LEA  G   RBR  15400     180                   
+2870 +     0214   0214      0215  LEA  G   RBR  8800      130                   
+
+2910 +     0220   ////      0251  LEA  C   RSP  075-105   IV/2                  
+
+2920       0422   ////      1015  SVI  C   RSP  025-180   VI/1                  
+2920 +     0422   ////      0424  LEA  C   RSP  025-114   III/2                 
+
+2930       0453   ////      0454  LEA  C   RSP  025-075   III/1                 
+
+2940       0631   ////      0632  LEA  U   RSP  025-083   III/1                 
+
+2950       0906   ////      0907  LEA  C   RSP  025-098   III/1                 
+
+2960       1145   ////      1145  SAG  C   RSP  025-053   III/2                 
+2960       1145   ////      1749  SVI  C   RSP  025-083   VI/2                  
+
+3000       1201   ////      1849  SAG  C   RSP  025-180   VI/2                  
+
+2970 +     1240   1255      1305  G16  5   XRA  1-8A      X1.2    1.0E-01   3664
+2970       1242   ////      1243  SVI  C   RSP  025-180   III/1                 
+2970       1242   1246      1303  SVI  G   RBR  15400     4200                  
+2970       1245   1246      1302  SVI  G   RBR  8800      1000                  
+2970 +     1245   ////      1304  SAG  C   RSP  025-180   II/2    1040          
+2970       1245   1246      1250  SVI  G   RBR  4995      210                   
+2970       1246   1247      1250  SVI  G   RBR  2695      160                   
+2970       1250   1250      1250  SVI  G   RBR  245       420                   
+
+3080       1404   ////      2346  SAG  C   RSP  025-180   CTM/1                 
+
+2980 +     1436   ////      1437  SVI  C   RSP  025-180   III/1                 
+2980       1436   1436      1437  SVI  G   RBR  8800      130                   
+2980       1436   1436      1437  SVI  G   RBR  15400     170                   
+
+2990 +     1516   1528      1540  G16  5   XRA  1-8A      C9.6    1.2E-02   3664
+2990       1536   ////      1647  SVI  C   RSP  075-180   CTM/1                 
+
+3010 +     1646   1651      1702  G16  5   XRA  1-8A      X8.7    5.6E-01   3664
+3010       1646   1647      1652  SVI  G   RBR  15400     12000   CastelliU     
+3010 +     1646   1647      1652  PAL  G   RBR  8800      5900    CastelliU     
+
+3020 +     1646   ////      1655  SAG  C   RSP  025-180   III/3                 
+3020 +     1646   1647      1652  PAL  G   RBR  4995      2500    CastelliU     
+3020 +     1646   1648      1655  PAL  G   RBR  245       7500    CastelliU     
+3020 +     1646   1650      1650  PAL  G   RBR  410       270     CastelliU     
+3020 +     1646   1647      1653  PAL  G   RBR  2695      1100    CastelliU     
+
+3010 +     1647   1647      1651  PAL  G   RBR  1415      390     CastelliU     
+3010 +     1647   1648      1650  PAL  G   RBR  610       160     CastelliU     
+3010 +     1647   ////      1718  SAG  C   RSP  025-180   IV/1                  
+3010 +     1650   ////      1715  SVI  C   RSP  025-052   II/2    279           
+
+3030 +     1704   ////      1710  SAG  C   RSP  025-089   III/2                 
+3030 +     1706   1709      1711  PAL  G   RBR  410       480                   
+3030 +     1706   1709      1710  PAL  G   RBR  245       150                   
+
+3040 +     1725   1738      1818  G16  5   XRA  1-8A      M4.4    1.2E-01   3682
+3040       1729   1745      1857  HOL  3   FLA  N19E72    2N      PRB       3682
+3040 +     1730   ////      1800  SAG  C   RSP  025-180   II/2    610       3682
+3040 +     1742   1749      1753  PAL  G   RBR  2695      150               3682
+3040       1805   1806      1806  PAL  G   RBR  8800      720               3682
+3040 +     1805   ////      1806  SAG  C   RSP  025-180   III/2             3682
+3040       1805   1805      1806  PAL  G   RBR  245       6500              3682
+3040       1805   1805      1806  PAL  G   RBR  410       630               3682
+3040       1805   1805      1806  PAL  G   RBR  4995      170               3682
+
+3050       1953   1956      2019  HOL  3   FLA  S11E52    SF                3679
+3050       1955   ////      2252  SAG  C   RSP  025-092   VI/1              3679
+3050       1955   ////      1957  PAL  C   RSP  025-067   III/1             3679
+
+3060       2113   2113      2113  PAL  G   RBR  245       130                   
+
+3070       2126   2127      2140  HOL  3   FLA  S11E47    SF                3679
+
+3090 +     2302   2314      2339  G16  5   XRA  1-8A      C7.2    1.5E-02   3679
+3090       2316   2317      2320  HOL  3   FLA  S12E48    SF                3679
+3090 +     2322   ////      2359  PAL  C   RSP  127-180   CTM/2             3679
+3090       2337   ////      2337  PAL  C   RSP  025-065   III/2             3679

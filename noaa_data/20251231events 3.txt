@@ -1,0 +1,66 @@
+:Product: 20251231events.txt
+:Created: 2026 Jan 03 0357 UT
+:Date: 2025 12 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Dec 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6750 +     0023   0027      0030  G18  5   XRA  1-8A      C1.8    8.5E-04   4325
+
+6760 +     0123   0132      0135  G18  5   XRA  1-8A      C5.9    2.5E-03   4325
+
+6770       0537   0537      0537  LEA  G   RBR  245       150                   
+
+6780 +     0626   0635      0648  G18  5   XRA  1-8A      C2.1    2.7E-03   4324
+6780       0643   0643      0643  LEA  G   RBR  610       120                   
+
+6790 +     0738   0738      0738  SVI  G   RBR  245       210                   
+6790       0738   ////      0738  SVI  C   RSP  145-180   III/1                 
+
+6800 +     0942   0952      1003  G18  5   XRA  1-8A      C3.6    4.1E-03   4324
+6800       0951  U0951     A0957  SVI  3   FLA  N26E21    SF                4324
+
+6830 +     1003   1012      1016  G18  5   XRA  1-8A      C3.8    3.0E-03   4324
+6830 +     1014   1014      1014  SVI  G   RBR  245       350                   
+
+6810       1023   1023      1023  LEA  G   RBR  245       2100                  
+
+6820 +     1030   1031      1031  SVI  G   RBR  245       1100                  
+6820       1030   ////      1031  SVI  C   RSP  150-180   III/1                 
+
+6840       1220   1220      1220  SVI  G   RBR  245       190                   
+
+6850       1237   1244      1254  G19  5   XRA  1-8A      C1.9    1.9E-03   4324
+
+6870 +     1312   1351      1411  G18  5   XRA  1-8A      M7.1    1.2E-01   4324
+6870 +     1316   1317      1317  SVI  G   RBR  245       2300                  
+6870 +     1317   1317      1317  SVI  G   RBR  410       100                   
+6870       1331   1348      1353  SVI  G   RBR  2695      550                   
+6870       1331   1348      1401  SVI  G   RBR  1415      370                   
+6870 +     1331   1344      1402  SAG  G   RBR  610       2800                  
+6870 +     1331   1350      1406  SAG  G   RBR  245       2600                  
+6870 +     1333   1350      1407  SAG  G   RBR  410       1700                  
+6870 +     1333   ////      1358  SAG  C   RSP  025-180   II/1    893           
+6870 +     1342   ////      1446  SVI  C   RSP  025-180   IV/2                  
+6870       1346   1348      1357  SVI  G   RBR  8800      330                   
+6870       1347   1348      1350  SVI  G   RBR  4995      160                   
+6870       1347   1349      1354  SVI  G   RBR  15400     160                   
+6870 +     1349   ////      1356  SVI  C   RSP  025-046   III/2                 
+
+6880 +     1411   1414      1438  SAG  G   RBR  410       710                   
+6880       1411   1425      1442  SVI  G   RBR  1415      1800                  
+6880 +     1412   1420      1432  SAG  G   RBR  245       310                   
+6880 +     1412   1428      1439  SAG  G   RBR  610       1600                  
+6880       1424   1428      1445  SVI  G   RBR  2695      340                   
+
+6890       1747   1747      1747  SAG  G   RBR  245       390                   
+
+6900       2249   ////      2249  LEA  C   RSP  071-180   III/1                 
+
+6910       2303   2303      2304  LEA  G   RBR  245       400                   

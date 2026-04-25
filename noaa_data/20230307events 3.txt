@@ -1,0 +1,48 @@
+:Product: 20230307events.txt
+:Created: 2023 Mar 10 0357 UT
+:Date: 2023 03 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Mar 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7200       0000   ////      0810  LEA  C   RSP  076-180   CTM/1                 
+7200       0014   ////      0106  LEA  C   RSP  025-180   VI/1                  
+
+7210       0106   0107      0111  LEA  3   FLA  N08E05    SF      DSD       3242
+
+7220 +     0123   0123      0123  LEA  G   RBR  245       140                   
+7220       0123   0123      0123  LEA  G   RBR  410       110                   
+
+7230       0123   ////      0126  PAL  C   RSP  114-180   III/1                 
+
+7240       0204   0204      0204  LEA  G   RBR  245       120                   
+
+7250 +     0223   0239      0314  G16  5   XRA  1-8A      C4.0    9.9E-03   3245
+7250       0228   0242      0306  LEA  3   FLA  S26E40    SF                3245
+
+7260 +     0333   ////      0333  LEA  C   RSP  025-180   III/2                 
+
+7270 +     0358   0405      0412  G16  5   XRA  1-8A      C4.7    3.0E-03   3243
+
+7280       0515   0515      0515  LEA  G   RBR  245       180                   
+
+7290       0529   0529      0529  LEA  G   RBR  245       180                   
+
+7300       0535   ////      0842  SVI  C   RSP  114-180   CTM/1                 
+7300       0609   0609      0609  LEA  G   RBR  245       360                   
+
+7310 +     0811   0820      0828  G16  5   XRA  1-8A      C3.0    2.5E-03   3243
+
+7340 +     1026   1037      1049  G16  5   XRA  1-8A      C1.8    2.3E-03   3245
+
+7350 +     1244   1250      1254  G16  5   XRA  1-8A      C1.6    8.9E-04   3242
+
+7360 +     1733   1749      1824  G16  5   XRA  1-8A      C2.6    6.5E-03   3245
+
+7370       2000   ////      2000  PAL  C   RSP  025-085   III/2                 

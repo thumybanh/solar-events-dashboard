@@ -1,0 +1,56 @@
+:Product: 20231207events.txt
+:Created: 2023 Dec 10 0357 UT
+:Date: 2023 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5100       0300   ////      0300  LEA  C   RSP  074-180   III/1                 
+
+5110 +     0342   0351      0353  G18  5   XRA  1-8A      C1.9    8.3E-04   3513
+
+5230 +     0353   0358      0402  G18  5   XRA  1-8A      C2.0    4.2E-04       
+
+5120       0425   ////      0426  LEA  C   RSP  132-180   III/1                 
+
+5130       0532   0532      0536  LEA  G   RBR  245       530                   
+
+5140 +     0612   0619      0625  G18  5   XRA  1-8A      C7.6    3.9E-03   3513
+5140       0616   0619      0623  LEA  3   FLA  N20E51    SF      UMB       3513
+
+5150       0949   ////      1004  LEA  C   RSP  041-167   VI/2                  
+
+5160 +     1031   1044      1052  G18  5   XRA  1-8A      C1.7    4.8E-04   3511
+
+5170 +     1115   1122      1128  G18  5   XRA  1-8A      C1.4    1.0E-03   3511
+
+5180      B1131   ////     B1218  SVI  3   BSL  ////      0.2                   
+5180 +     1205   1212      1218  G18  5   XRA  1-8A      C1.9    1.1E-03   3511
+
+5190 +     1235   1241      1251  G18  5   XRA  1-8A      C1.3    1.2E-03   3511
+
+5200       1328   ////      1330  SAG  C   RSP  025-180   III/2                 
+
+5210       1357   ////      1358  SVI  U   RSP  025-080   III/1                 
+
+5220 +     1802   1812      1816  G18  5   XRA  1-8A      C4.1    2.0E-03   3513
+5220       1806   1812      1820  HOL  3   FLA  N21E46    SF      ERU       3513
+5220 +     1815   ////      1816  SAG  C   RSP  025-140   III/2             3513
+
+5240       1926   ////      2023  HOL  3   EPL  ////      0.41    B.8A          
+
+5250 +     2046   2057      2101  G18  5   XRA  1-8A      C8.1    2.8E-03   3513
+5250       2053   2053      2053  PAL  G   RBR  610       130               3513
+5250       2054   2054      2103  HOL  3   FLA  N21E44    SF                3513
+
+5260 +     2221   2226      2230  G18  5   XRA  1-8A      C4.3    1.7E-03   3513
+5260       2221   2225      2234  HOL  3   FLA  N21E44    SF      DSD       3513
+5260       2224   2224      2225  LEA  G   RBR  410       3300              3513
+5260       2224   2224      2224  LEA  G   RBR  245       1700              3513
+5260       2224   2224      2225  LEA  G   RBR  610       760               3513

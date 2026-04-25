@@ -1,0 +1,48 @@
+:Product: 20230513events.txt
+:Created: 2023 May 16 0357 UT
+:Date: 2023 05 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 May 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2380 +     0009   ////      0033  PAL  C   RSP  025-180   VI/2                  
+2380 +     0022   ////      0024  LEA  C   RSP  025-180   III/2                 
+
+2400       0209   ////      0210  LEA  C   RSP  025-037   III/1                 
+
+2410       0213   0213      0213  LEA  G   RBR  245       150                   
+
+2420       0443   0443      0443  LEA  G   RBR  410       160                   
+
+2430 +     0545   ////      0546  SVI  C   RSP  025-077   III/1                 
+
+2440       0829   ////      0829  SVI  C   RSP  025-059   III/1                 
+
+2450 +     1016   1027      1031  G16  5   XRA  1-8A      C4.9    2.3E-03   3296
+2450       1018   ////      1018  SAG  C   RSP  126-145   III/1                 
+
+2460       1341   1351      1402  G16  5   XRA  1-8A      C2.1    2.2E-03   3305
+
+2470 +     1448   1453      1457  G16  5   XRA  1-8A      C2.0    1.0E-03   3297
+2470       1452   ////      1452  SAG  C   RSP  136-180   III/1                 
+
+2480 +     1628   1635      1644  G16  5   XRA  1-8A      C1.6    1.4E-03   3296
+
+2490       1835   1847      1900  G16  5   XRA  1-8A      C4.3    4.3E-03   3296
+
+2500       1940   1940      1940  PAL  G   RBR  245       28                    
+2500       1940   1940      1940  PAL  G   RBR  410       190                   
+
+2510       2047   2055      2100  G16  5   XRA  1-8A      C4.4    2.2E-03   3305
+
+2520       2126   2131      2139  G16  5   XRA  1-8A      C2.3    1.7E-03   3297
+
+2530       2223   2233      2246  G16  5   XRA  1-8A      C2.4    2.9E-03   3301
+
+2540       2336   2343      2350  G16  5   XRA  1-8A      C3.4    2.1E-03   3296

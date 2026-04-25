@@ -1,0 +1,46 @@
+:Product: 20220906events.txt
+:Created: 2022 Sep 09 0357 UT
+:Date: 2022 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9460 +     0056   0103      0111  G16  5   XRA  1-8A      C1.6    1.1E-03       
+
+9470       0116   0116      0116  LEA  U   RBR  245       120                   
+
+9480 +     0134   0142      0151  G16  5   XRA  1-8A      C1.8    1.5E-03       
+
+9490 +     0321   0328      0333  G16  5   XRA  1-8A      C1.4    8.9E-04   3089
+
+9500 +     0442   0442      0442  LEA  G   RBR  410       120                   
+9500 +     0442   0442      0442  SVI  G   RBR  245       240                   
+
+9510       0502   ////      0502  SVI  C   RSP  033-083   III/1                 
+
+9530       0955   ////      0956  SVI  C   RSP  025-082   III/1                 
+
+9540 +     1052   ////      1052  SVI  C   RSP  025-082   III/2                 
+
+9550 +     1119   1129      1133  G16  5   XRA  1-8A      C2.3    1.2E-03   3089
+9550 +     1123   1123      1123  SVI  G   RBR  245       130                   
+
+9560       1146   ////      1147  SVI  C   RSP  025-033   III/1                 
+
+9570 +     1523   1530      1546  G16  5   XRA  1-8A      C1.1    1.5E-03   3089
+
+9580 +     1648   1656      1705  G16  5   XRA  1-8A      C1.2    1.1E-03   3089
+
+9590 +     1821   1833      1842  G16  5   XRA  1-8A      C3.2    2.6E-03   3089
+
+9600       2007   ////      2007  PAL  C   RSP  025-063   III/1                 
+
+9610       2041   ////      2042  PAL  C   RSP  025-070   III/1                 
+
+9620       2122   2131      2152  G16  5   XRA  1-8A      C1.1    1.8E-03   3089

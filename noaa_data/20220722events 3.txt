@@ -1,0 +1,64 @@
+:Product: 20220722events.txt
+:Created: 2022 Jul 25 0357 UT
+:Date: 2022 07 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jul 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  80       0000   ////      0335  PAL  C   RSP  025-180   VI/2                  
+
+  50 +     0056   0100      0104  G16  5   XRA  1-8A      B9.7    3.9E-04   3057
+  50       0058   0059      0103  LEA  3   FLA  N18W63    SF                3057
+
+  60       0152   ////      0155  PAL  C   RSP  025-180   III/2                 
+  60       0152   ////      0308  LEA  C   RSP  025-180   VI/2                  
+
+  70       0247   0247      0247  LEA  G   RBR  245       300                   
+
+  90 +     0307   0316      0324  G16  5   XRA  1-8A      C1.5    1.3E-03   3064
+  90       0312   0314      0323  LEA  3   FLA  N11E18    SF                3064
+
+ 100 +     0409   0420      0429  G16  5   XRA  1-8A      B9.1    1.0E-03   3057
+
+ 110 +     0704   ////      0705  SVI  C   RSP  025-075   III/1                 
+
+ 120 +     0745   0801      0819  G16  5   XRA  1-8A      C1.1    2.0E-03   3056
+
+ 130 +     0844   ////      0846  LEA  C   RSP  025-180   III/1                 
+
+ 140 +     1144   1151      1158  G16  5   XRA  1-8A      C1.0    7.1E-04   3064
+ 140 +     1156   ////      1621  SVI  C   RSP  025-180   VI/2                  
+
+ 150 +     1257   1304      1308  G16  5   XRA  1-8A      B8.8    4.6E-04   3064
+
+ 200       1308   1314      1318  G16  5   XRA  1-8A      B9.0    5.3E-04   3056
+
+ 160 +     1348   1356      1405  G16  5   XRA  1-8A      B9.0    7.6E-04   3065
+ 160       1353   1355      1405  SVI  3   FLA  S18E07    SF      ERU       3065
+
+ 170 +     1445   1454      1459  G16  5   XRA  1-8A      B7.4    4.9E-04   3056
+
+ 210 +     1459   1516      1521  G16  5   XRA  1-8A      B8.1    1.0E-03   3058
+
+ 180       1547   1547      1559  SVI  3   FLA  N16W36    SF      ERU       3058
+ 180       1555   ////      1640  SAG  C   RSP  025-074   VI/1              3058
+
+ 190       1612   1614      1619  SVI  3   FLA  N15W35    SF      ERU       3058
+
+ 230       1801   ////      1825  SAG  C   RSP  025-151   VI/2                  
+
+ 220       1801   ////      1821  PAL  C   RSP  025-135   VI/2                  
+
+ 240       1901   ////      1902  SAG  C   RSP  025-039   III/1                 
+
+ 250 +     1947   ////      1947  PAL  C   RSP  025-060   III/2                 
+
+ 260 +     2125   2135      2142  G16  5   XRA  1-8A      B9.8    9.0E-04   3064
+
+ 270       2213   ////      2312  PAL  C   RSP  025-076   VI/1                  

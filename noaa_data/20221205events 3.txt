@@ -1,0 +1,80 @@
+:Product: 20221205events.txt
+:Created: 2022 Dec 08 0357 UT
+:Date: 2022 12 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Dec 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7510 +     0028   ////      0029  LEA  C   RSP  110-180   III/1                 
+
+7520       0059   0059      0059  LEA  G   RBR  245       240                   
+
+7530 +     0140   0151      0201  G16  5   XRA  1-8A      C1.9    1.9E-03   3156
+7530       0146   0147      0157  LEA  3   FLA  N24E39    SF      DSD       3156
+
+7540       0312   ////      0656  LEA  C   RSP  080-180   III/1                 
+7540       0318   0318      0318  PAL  G   RBR  245       100                   
+
+7550       0412   0412      0412  LEA  G   RBR  245       170                   
+
+7560 +     0518   0530      0540  G16  5   XRA  1-8A      C2.7    2.4E-03   3158
+7560       0522   0522      0522  LEA  G   RBR  245       130               3158
+7560       0524   0536      0547  LEA  3   FLA  N23E04    SF      DSD       3158
+
+7570       0610   0611      0616  LEA  G   RBR  410       36                    
+7570       0611   0611      0611  LEA  G   RBR  245       100                   
+
+7580 +     0632   0642      0651  G16  5   XRA  1-8A      C1.3    1.3E-03   3153
+7580 +     0634   0634      0635  LEA  G   RBR  245       1000              3153
+7580 +     0634   ////      0635  LEA  C   RSP  104-180   III/2             3153
+7580       0636   0640      0700  LEA  3   FLA  S17E30    SF                3153
+
+7590       0720   0721      0723  LEA  3   FLA  S17E30    SF                3153
+
+7600 +     0806   0806      0812  SVI  3   FLA  S19E42    SF                3153
+
+7610       0820   0820      0820  LEA  G   RBR  245       130                   
+
+7620 +     0904   0911      0917  G16  5   XRA  1-8A      C0.9    6.9E-04   3153
+7620 +     0910   0949      1014  SVI  3   FLA  S16E30    SF      ERU       3153
+
+7630 +     0937   ////      0937  LEA  C   RSP  088-180   III/1                 
+
+7640 +     1010   1018      1025  G16  5   XRA  1-8A      C1.1    8.7E-04   3158
+7640 +     1015   1016      1031  SVI  3   FLA  N24E01    SF                3158
+
+7650 +     1038   1047      1052  G16  5   XRA  1-8A      C1.4    9.1E-04   3158
+7650       1047  U1047     A1105  SVI  3   FLA  N24E00    SF                3158
+
+7660 +     1208  U1210      1212  SVI  3   FLA  N24E00    SF                3158
+
+7670       1254   1254      1254  SVI  G   RBR  245       100                   
+
+7680       1254   1254      1254  SAG  U   RBR  245       110                   
+
+7690       1300   1300      1300  SAG  U   RBR  245       100                   
+
+7800      A1336   ////     A0729  SVI  3   DSF  N32E13    9                     
+
+7700 +     1357   1357      1357  SVI  G   RBR  245       210                   
+
+7710 +     1408   1408      1408  SVI  G   RBR  245       380                   
+
+7720       1448   1459      1541  HOL  3   FLA  S15E26    SF                3153
+7720 +     1508   1516      1524  G16  5   XRA  1-8A      C1.4    1.3E-03   3153
+
+7730 +     1550   1559      1607  G16  5   XRA  1-8A      C1.4    1.4E-03       
+
+7740       1650   1650      1712  HOL  3   FLA  N24W02    SF                3158
+7740 +     1656   1701      1712  G16  5   XRA  1-8A      C2.0    1.9E-03   3158
+
+7750 +     2044   2057      2107  G16  5   XRA  1-8A      C1.6    1.8E-03   3158
+7750      B2056   2057      2105  HOL  3   FLA  N24W05    SF      ERU       3158
+
+7760       2155   ////      2359  LEA  C   RSP  114-180   CTM/1                 

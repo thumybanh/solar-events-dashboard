@@ -1,0 +1,59 @@
+:Product: 20250308events.txt
+:Created: 2025 Mar 11 0357 UT
+:Date: 2025 03 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Mar 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8580 +     0000   ////      0428  PAL  C   RSP  138-180   CTM/2                 
+8580 +     0000   ////      0614  LEA  C   RSP  025-180   VI/3                  
+
+8590       0237   0237      0237  LEA  G   RBR  245       130                   
+
+8670       0537   ////      1639  SVI  C   RSP  025-180   CTM/2                 
+
+8600       0803   0814      0834  G16  5   XRA  1-8A      C1.8    5.9E-04   4012
+
+8610       0853   0858      0904  G16  5   XRA  1-8A      C2.1    1.2E-03   4012
+8610 +     0903   ////      0903  SVI  C   RSP  025-180   III/2                 
+
+8620 +     0943   ////      0945  SVI  C   RSP  025-180   III/2                 
+8620 +     0943   0945      0945  SVI  G   RBR  245       220                   
+
+8630       1026   ////      1026  SVI  C   RSP  025-042   III/2                 
+
+8640       1201   ////      1202  SVI  C   RSP  025-084   III/1                 
+
+8650       1219   1225      1241  G16  5   XRA  1-8A      C1.9    2.2E-03   4012
+
+8660 +     1252   1252      1252  SVI  G   RBR  245       110                   
+
+8680       1403   1417      1437  G16  5   XRA  1-8A      C2.5    4.7E-03       
+
+8690       1448   ////      1530  SVI  C   RSP  025-180   VI/2              4011
+8690 +     1508   1510      1518  HOL  3   FLA  S16W28    SF      ERU       4011
+
+8700       1722   1727      1731  G16  5   XRA  1-8A      C1.2    6.1E-04   4011
+8700       1726   ////      1750  PAL  C   RSP  025-180   VI/1                  
+
+8710       1738   1825      1900  G16  5   XRA  1-8A      C3.9    1.4E-02       
+8710       1805   ////      1830  HOL  3   EPL  ////      0.15                  
+8710       1834   ////      1930  PAL  C   RSP  025-180   VI/2                  
+
+8720       2007   ////      2009  PAL  C   RSP  025-180   III/2                 
+
+8750       2023   ////      2359  PAL  C   RSP  129-180   CTM/2                 
+
+8730       2049   2052      2057  G16  5   XRA  1-8A      C1.9    9.1E-04   4012
+
+8760       2235   ////      2359  LEA  C   RSP  079-180   CTM/1                 
+
+8740       2237   ////      2306  PAL  C   RSP  025-180   VI/2                  
+8740 +     2300   ////      2303  PAL  C   RSP  025-180   III/2                 
+8740 +     2300   2300      2300  PAL  G   RBR  245       840                   

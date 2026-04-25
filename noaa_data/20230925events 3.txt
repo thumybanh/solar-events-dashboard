@@ -1,0 +1,98 @@
+:Product: 20230925events.txt
+:Created: 2023 Sep 28 0357 UT
+:Date: 2023 09 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2160 +     0115   0115      0115  LEA  G   RBR  245       330                   
+
+2170 +     0159   0159      0200  LEA  G   RBR  245       3500                  
+2170       0159   ////      0159  PAL  C   RSP  025-180   III/1                 
+
+2180       0206   ////      0206  PAL  C   RSP  025-180   III/1                 
+
+2190       0257   0257      0257  PAL  G   RBR  245       350                   
+2190       0257   ////      0300  PAL  C   RSP  025-180   III/1                 
+
+2200 +     0346   0350      0354  G16  5   XRA  1-8A      C3.4    1.6E-03   3443
+2200       0348   0348      0348  LEA  G   RBR  410       160                   
+
+2340       0511   ////      1310  SVI  C   RSP  025-180   CTM/1                 
+
+2210       0549   ////      0636  SVI  C   RSP  025-180   VI/1                  
+
+2230       0715   0813      0824  G16  5   XRA  1-8A      C9.9    2.2E-02   3445
+
+2220       0718   ////      0723  SVI  C   RSP  025-083   III/2                 
+
+2230 +     0745   0802      0838  SVI  3   FLA  S16E01    SF      ERU       3445
+2230 +     0811   0811      0811  SVI  G   RBR  245       290               3445
+
+2350       0817   ////      1406  SVI  C   RSP  025-180   VI/2                  
+
+2240       0846   0846      0846  SVI  G   RBR  410       490                   
+
+2250       0927  U0928      0931  SVI  3   FLA  S18E01    SF                3445
+2250       0929   ////      0929  LEA  C   RSP  025-180   III/1             3445
+
+2260 +     0942   0944      0946  SVI  3   FLA  S11E01    SF                3445
+
+2270       0957  U1012      1013  SVI  3   FLA  S22E17    SF                3447
+
+2280       1022   1030      1032  SVI  3   FLA  S22E17    SF                3447
+
+2290       1040   1041      1048  SVI  3   FLA  N19W03    SF                3440
+
+2450       1115   ////      2053  SAG  C   RSP  025-180   VI/2                  
+
+2300       1145   1146      1149  SVI  3   FLA  S22E17    SF                3447
+
+2310       1221  U1242      1256  SVI  3   FLA  S22E17    SF                3447
+2310 +     1236   ////      1236  SVI  C   RSP  025-180   III/2             3447
+2310 +     1236   1236      1236  SVI  G   RBR  245       100               3447
+
+2320       1300   1300      1303  SVI  3   FLA  N26W72    SF                3443
+2320       1301   1301      1301  SVI  G   RBR  410       490               3443
+
+2330       1305   1305      1305  SVI  G   RBR  245       100                   
+
+2360 +     1359   ////      1405  SAG  C   RSP  025-180   III/2                 
+2360       1401   1401      1402  SVI  G   RBR  245       190                   
+
+2370 +     1430   1437      1441  G16  5   XRA  1-8A      C2.5    1.6E-03   3448
+
+2620      A1503   ////     A0601  SVI  3   DSF  N18W66    16                    
+
+2380       1521   ////      1523  SVI  C   RSP  025-180   III/1                 
+
+2390       1531   ////      1532  SVI  C   RSP  075-180   III/2                 
+
+2400       1602   ////      1632  SVI  C   RSP  025-180   VI/1                  
+
+2460       1655   ////      2250  PAL  C   RSP  025-180   VI/2                  
+
+2430       1812   ////      1815  PAL  C   RSP  025-180   III/2                 
+
+2410 +     1856   1901      1909  G16  5   XRA  1-8A      C4.3    2.7E-03   3445
+
+2440       1920   ////      1926  PAL  C   RSP  025-180   III/2                 
+
+2420       1921   ////      1926  SAG  C   RSP  025-180   III/2             3435
+2420       1923   1923      1932  HOL  3   FLA  N09W31    SF                3435
+2420       1923   1923      1923  PAL  G   RBR  245       160               3435
+2420       1923   1923      1923  PAL  G   RBR  410       110               3435
+
+2470 +     2049   2104      2125  G16  5   XRA  1-8A      C2.8    1.1E-03       
+
+2480 +     2208   2223      2227  G16  5   XRA  1-8A      C3.0    9.6E-04       
+
+2500 +     2227   2231      2235  G16  5   XRA  1-8A      C3.3    7.4E-04       
+
+2490 +     2358   0004      0009  G16  5   XRA  1-8A      C2.6    1.6E-03       

@@ -1,0 +1,47 @@
+:Product: 20250706events.txt
+:Created: 2025 Jul 09 0357 UT
+:Date: 2025 07 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5130 +     0122   0129      0132  G18  5   XRA  1-8A      C1.3    5.7E-04   4127
+
+5140       0122   ////      0139  LEA  C   RSP  025-180   VI/2                  
+
+5130       0127   ////      0129  PAL  C   RSP  025-155   III/2             4127
+5130       0128   0129      0134  HOL  3   FLA  S19W53    SF                4127
+
+5150       0702   0709      0715  SVI  3   FLA  S20W53    SF                4127
+
+5160       0801   ////      0801  SVI  C   RSP  075-180   III/1                 
+
+5170       0847   0847      0854  SVI  3   FLA  S20W54    SF                4124
+
+5180       0944   ////      0944  SVI  C   RSP  025-058   III/1                 
+
+5190 +     1041   1053      1106  G18  5   XRA  1-8A      C1.4    1.9E-03   4134
+5190       1045   1055      1114  SVI  3   FLA  S17W02    SF      DSD       4134
+
+5200       1047   1047      1059  SVI  3   FLA  S13W04    SF                4130
+
+5210       1229   1230      1233  SVI  3   FLA  S21W56    SF                4127
+
+5220 +     1629   1629      1629  SAG  U   RBR  610       560                   
+
+5230 +     1629   1629      1629  SAG  G   RBR  410       170                   
+
+5240       1855   1857      1859  G18  5   XRA  1-8A      C1.2    3.4E-04   4127
+
+5250 +     1936   ////      1937  SAG  C   RSP  025-052   III/1                 
+
+5260 +     2157   ////      2157  SAG  C   RSP  025-089   III/1                 
+
+5270 +     2219   2219      2219  PAL  G   RBR  245       280                   
+5270 +     2219   2219      2219  PAL  G   RBR  410       290                   

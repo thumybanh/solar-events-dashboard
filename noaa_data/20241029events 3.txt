@@ -1,0 +1,25 @@
+:Product: 20241029events.txt
+:Created: 2024 Nov 01 0357 UT
+:Date: 2024 10 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Oct 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3140 +     0926   0939      0952  G16  5   XRA  1-8A      C3.9    1.1E-03   3878
+
+3160 +     0952   0957      1001  G16  5   XRA  1-8A      C3.6    2.1E-03   3878
+
+3150 +     1158   1204      1210  G16  5   XRA  1-8A      C4.0    2.4E-03   3878
+
+3170 +     1258   1302      1309  G16  5   XRA  1-8A      C2.8    1.8E-03   3878
+
+3180       1435   1437      1447  HOL  3   FLA  N16E56    SF      PRB       3878
+
+3190 +     1621   1633      1641  G16  5   XRA  1-8A      M1.1    1.1E-02   3873
+3190       1626   1629      1652  HOL  3   FLA  S09E09    1F      PRB       3873

@@ -1,0 +1,23 @@
+:Product: 20251026events.txt
+:Created: 2025 Oct 29 0357 UT
+:Date: 2025 10 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Oct 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1660 +     0004   0013      0018  G18  5   XRA  1-8A      C1.2    8.8E-04   4256
+1660       0010   ////      0011  PAL  C   RSP  025-150   III/1                 
+
+1670 +     0124   0134      0142  G18  5   XRA  1-8A      C1.4    1.4E-03   4256
+
+1680 +     0522   0529      0534  G18  5   XRA  1-8A      B9.4    6.5E-04   4256
+
+1690       0644   ////      0645  LEA  C   RSP  025-079   III/2                 
+
+1700 +     2137   2144      2147  G18  5   XRA  1-8A      B7.9    4.2E-04   4256

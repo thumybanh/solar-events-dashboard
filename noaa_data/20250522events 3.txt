@@ -1,0 +1,56 @@
+:Product: 20250522events.txt
+:Created: 2025 May 25 0357 UT
+:Date: 2025 05 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 May 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4790 +     0038   0047      0106  G18  5   XRA  1-8A      B7.4    1.2E-03   4095
+
+4800       0052   0052      0053  LEA  3   FLA  N20W37    SF                4087
+
+4790       0102   0102      0102  PAL  G   RBR  245       100                   
+
+4810 +     0330   0337      0342  G18  5   XRA  1-8A      B7.9    5.7E-04   4095
+
+4820       0656   ////      0656  SVI  C   RSP  025-061   III/1                 
+
+4830 +     0759   ////      0803  SVI  C   RSP  025-170   III/1                 
+
+4840       0849   0849      0849  LEA  G   RBR  410       110                   
+
+4850 +     1158   1221      1251  G18  5   XRA  1-8A      C1.4    3.7E-03   4095
+4850 +     1218   1218      1226  SVI  3   FLA  S13E71    SF                    
+
+4860       1454   1505      1525  G19  5   XRA  1-8A      B8.8    1.6E-03   4095
+4860 +     1522   ////      1756  SVI  C   RSP  025-180   CTM/2                 
+
+4870 +     1548   1548      1548  SVI  G   RBR  245       200                   
+
+4880       1553   1553      1554  SVI  G   RBR  245       280                   
+
+4890       1720   1722      1726  HOL  3   FLA  S15E61    SF      DSD           
+4890       1720   1726      1728  G18  5   XRA  1-8A      C1.3    5.3E-04   4095
+
+4900       1915   1915      1916  SAG  U   RBR  245       220                   
+
+4910 +     1923   1929      1946  G18  5   XRA  1-8A      C1.2    1.7E-03   4095
+
+4920 +     1959   1959      1959  PAL  G   RBR  245       320                   
+
+4970       2100   ////      2354  SAG  C   RSP  112-180   CTM/1                 
+
+4930       2204   2221      2225  HOL  3   FLA  S13E60    SF                4097
+
+4940 +     2232   2241      2248  G18  5   XRA  1-8A      C2.5    1.6E-03   4095
+4940       2238   2239      2244  HOL  3   FLA  S07W73    SF                4095
+
+4950       2302   2304      2314  HOL  3   FLA  S13E60    SF                4097
+
+4960 +     2314   ////      2315  PAL  C   RSP  025-059   III/1                 

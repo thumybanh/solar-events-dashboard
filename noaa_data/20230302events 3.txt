@@ -1,0 +1,106 @@
+:Product: 20230302events.txt
+:Created: 2023 Mar 05 0357 UT
+:Date: 2023 03 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Mar 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5220 +     0000   ////      0425  PAL  C   RSP  025-180   CTM/1                 
+
+5200       0004   0006      0009  LEA  G   RBR  245       1500                  
+
+5210       0059   0101      0102  LEA  G   RBR  245       1200                  
+
+5230       0102   ////      0123  LEA  C   RSP  040-112   VI/1                  
+
+5240       0258   ////      0302  LEA  C   RSP  035-180   III/1                 
+5240       0259   0259      0259  LEA  G   RBR  245       1700                  
+
+5250 +     0346   0354      0358  G16  5   XRA  1-8A      C4.1    1.8E-03       
+5250       0352   0355      0402  LEA  3   FLA  N08E79    SF                    
+
+5260 +     0423   0435      0439  G16  5   XRA  1-8A      C2.2    1.9E-03   3236
+5260 +     0433   0435      0437  LEA  3   FLA  S25W60    SF      DSD       3236
+5260       0443   0443      0443  LEA  G   RBR  610       110               3236
+
+5450 +     0547   1148      1420  SVI  G   RNS  245       870                   
+
+5340       0609   ////      0911  SVI  C   RSP  076-180   CTM/1                 
+
+5270       0630   0630      0630  LEA  G   RBR  245       1000                  
+5270 +     0630   ////      0635  LEA  C   RSP  025-180   III/1                 
+
+5280       0642   0644      0648  SVI  3   FLA  N09E84    SF                    
+
+5290       0654   0705      0713  SVI  3   FLA  N09E84    SF                    
+5290       0657   ////      0704  SVI  C   RSP  025-180   III/1                 
+5290       0657   ////      0711  LEA  C   RSP  025-180   VI/1                  
+5290 +     0702   0702      0702  LEA  G   RBR  245       730                   
+
+5300 +     0756   0802      0806  G16  5   XRA  1-8A      C2.8    1.5E-03   3234
+5300       0801   0801      0804  SVI  3   FLA  N20W55    SF                3234
+
+5310       0828   0828      0828  LEA  G   RBR  245       510                   
+
+5320      B0830  U0830     A0833  SVI  3   FLA  N20W55    SF                3234
+
+5330 +     0838   0838      0839  SVI  G   RBR  245       1000                  
+
+5350      B0936  U0936     A0947  SVI  3   FLA  S27W62    SF                3236
+
+5360      B1003  U1003     A1012  SVI  3   FLA  N26W51    SF      ERU       3234
+5360       1005   1005      1006  LEA  G   RBR  245       1600              3234
+
+5370 +     1026   1029      1033  G16  5   XRA  1-8A      C3.1    1.1E-03   3234
+5370      B1028  U1029     A1038  SVI  3   FLA  N20W57    SF                3234
+5370 +     1029   1029      1030  SVI  G   RBR  610       220               3234
+
+5380 +     1036   1041      1046  G16  5   XRA  1-8A      C3.2    1.8E-03       
+
+5390 +     1135   1146      1157  G16  5   XRA  1-8A      C3.7    4.0E-03       
+5390       1142   1142      1142  SAG  U   RBR  245       140                   
+5390      B1143  U1145     A1223  SVI  3   FLA  N09E84    SF      ERU           
+
+5400 +     1204   1210      1215  G16  5   XRA  1-8A      C6.5    3.1E-03       
+
+5410      B1228  U1228     A1240  SVI  3   FLA  N09E84    SF      ERU           
+
+5420      B1245  U1245     A1249  SVI  3   FLA  N09E84    SF      ERU       3234
+
+5520      B1245  U1247     A1252  SVI  3   FLA  N20W57    SF                3234
+
+5430 +     1329   ////      1435  SAG  C   RSP  035-180   CTM/1                 
+5430 +     1335   1335      1339  SVI  3   FLA  N09E78    SF                    
+
+5440       1441   1443      1501  SVI  3   FLA  N09E78    SF      ERU       3234
+
+5530       1451   1452      1503  SVI  3   FLA  N20W57    SF                3234
+
+5460      B1543  U1547     A1606  SVI  3   FLA  N21W59    SF      ERU       3234
+
+5760      A1604   ////     A0626  SVI  3   DSF  S21E64    26                    
+
+5550       1734   ////      2359  PAL  C   RSP  120-180   CTM/1                 
+
+5470       1740   ////      1952  SAG  C   RSP  121-180   CTM/1                 
+
+5480       1918   ////      1919  SAG  C   RSP  025-076   III/1                 
+
+5540       2105   2116      2125  G16  5   XRA  1-8A      M3.8    3.0E-02   3234
+
+5490 +     2107   ////      2111  PAL  C   RSP  025-180   III/1             3234
+5490       2109   2117      2218  HOL  3   FLA  N20W65    1N      DSD       3234
+5490       2111   2113      2114  PAL  G   RBR  4995      130               3234
+5490       2111   2113      2114  PAL  G   RBR  8800      160               3234
+
+5500       2113   2113      2113  PAL  G   RBR  15400     100                   
+
+5510       2121   ////      2222  SAG  C   RSP  112-180   CTM/1                 
+
+5560       2232   ////      2359  LEA  C   RSP  064-180   CTM/2                 

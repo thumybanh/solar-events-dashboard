@@ -1,0 +1,72 @@
+:Product: 20241122events.txt
+:Created: 2024 Nov 25 0357 UT
+:Date: 2024 11 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Nov 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 420       0012   ////      0012  PAL  C   RSP  025-180   III/2                 
+
+ 430 +     0323   0344      0409  G16  5   XRA  1-8A      C9.0    1.9E-02   3901
+ 430       0401   ////      0404  LEA  C   RSP  025-055   III/2                 
+
+ 440       0414   0414      0414  LEA  G   RBR  245       150                   
+
+ 450       0418   0419      0419  LEA  G   RBR  245       140                   
+
+ 460       0422   0423      0424  LEA  G   RBR  245       150                   
+
+ 470       0432   0432      0432  LEA  G   RBR  245       100                   
+
+ 520       0514   0543      0613  G16  5   XRA  1-8A      C3.0    9.7E-03       
+
+ 480       0520   ////      0522  LEA  C   RSP  025-180   III/2                 
+ 480       0520   0520      0520  LEA  G   RBR  245       200                   
+
+ 490       0613   ////      0614  LEA  C   RSP  025-180   III/2                 
+ 490       0614   0614      0614  LEA  G   RBR  245       130                   
+
+ 500       0805   ////      0815  LEA  C   RSP  025-139   VI/1                  
+ 500       0805   0813      0824  G16  5   XRA  1-8A      C3.2    3.5E-03       
+
+ 510       0919   ////      0919  LEA  C   RSP  025-115   III/2                 
+
+ 530       1539   1545      1603  HOL  3   FLA  S08E73    1N      DSD       3905
+ 530 +     1542   1546      1551  G16  5   XRA  1-8A      M1.6    5.6E-03   3905
+
+ 540       1605   ////      1605  SAG  C   RSP  113-180   III/1                 
+
+ 550       1624   1624      1640  HOL  3   FLA  S05E17    SF                3901
+
+ 560       1655   1707      1715  G16  5   XRA  1-8A      C4.1    5.4E-03   3901
+ 560       1659   1704      1726  HOL  3   FLA  S05E16    SF                3901
+
+ 570       1748   1756      1800  HOL  3   FLA  S07E70    SF      DSD       3905
+ 570       1748   1757      1800  G16  5   XRA  1-8A      C2.8    2.2E-03   3905
+
+ 580 +     1817   1826      1830  G16  5   XRA  1-8A      C5.0    2.8E-03   3905
+
+ 590 +     1951   1956      2005  G16  5   XRA  1-8A      C4.8    3.5E-03   3905
+ 590       1951   1957      2005  HOL  3   FLA  S08E70    SF      DSD       3905
+
+ 600       2054   2054      2101  HOL  3   FLA  S16W76    SF      DSD       3904
+
+ 610 +     2106   2116      2126  G16  5   XRA  1-8A      C3.9    5.0E-03   3906
+
+ 640       2126   2215      2233  G16  5   XRA  1-8A      M1.0    3.1E-02   3906
+
+ 620       2140   ////      2142  PAL  C   RSP  049-180   III/2                 
+ 620       2140   2141      2142  PAL  G   RBR  245       2200                  
+
+ 610       2144   2219      2300  HOL  3   FLA  S18E68    SF                3906
+
+ 630       2146   2147      2157  HOL  3   FLA  S08E68    SF      DSD       3905
+
+ 610 +     2203   ////      2223  PAL  C   RSP  025-180   VI/1              3906
+ 610       2221   ////      2359  LEA  C   RSP  035-128   CTM/1             3906

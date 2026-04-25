@@ -1,0 +1,43 @@
+:Product: 20230205events.txt
+:Created: 2023 Feb 08 0357 UT
+:Date: 2023 02 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Feb 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5450       0000   ////      0003  LEA  C   RSP  070-180   III/1                 
+
+5460       0006   0006      0011  HOL  3   FLA  S12E07    SF      ERU       3207
+
+5570      A0011   ////     A1446  HOL  3   DSF  S12E37    7                     
+
+5470       0116   ////      0116  LEA  C   RSP  025-171   III/1                 
+
+5480 +     0245   0250      0257  G16  5   XRA  1-8A      C1.0    6.8E-04       
+
+5490 +     0316   0326      0331  G16  5   XRA  1-8A      C6.6    2.6E-03       
+5490       0325   ////      0349  LEA  C   RSP  025-180   VI/2                  
+5490       0327   ////      0335  PAL  C   RSP  025-180   III/2                 
+
+5500 +     0849   ////      0850  SVI  C   RSP  025-180   III/2                 
+
+5510       1013   1013      1013  LEA  G   RBR  245       160                   
+
+5520 +     1037   1051      1058  G16  5   XRA  1-8A      C6.4    4.3E-03   3211
+5520 +     1045   ////      1049  SVI  C   RSP  025-180   III/2                 
+
+5530       1227   1227      1227  SAG  U   RBR  245       250                   
+
+5540       1309   ////      1309  SVI  U   RSP  025-084   III/1                 
+
+5550       1729   1730      1732  HOL  3   FLA  S17W54    SF                3212
+
+5560       1738   1738      1742  HOL  3   FLA  S17W38    SF                3211
+
+5580       1940   1941      1953  HOL  3   FLA  N15E06    SF      ERU       3208

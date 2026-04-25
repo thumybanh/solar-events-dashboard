@@ -1,0 +1,61 @@
+:Product: 20221228events.txt
+:Created: 2022 Dec 31 0357 UT
+:Date: 2022 12 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Dec 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4620 +     0211   0237      0241  G16  5   XRA  1-8A      C5.0    7.0E-03       
+4620       0221   ////      0223  LEA  C   RSP  025-070   III/2                 
+
+4700       0414   0418      0420  LEA  3   FLA  S35W13    SF                3172
+
+4710       0414   0417      0420  LEA  3   FLA  S19E31    SF                3175
+
+4720       0414   0416      0420  LEA  3   FLA  N23W43    1F                3169
+
+4730       0414   0418      0421  LEA  3   FLA  N23W38    SF                3171
+
+4630       0415   0418      0419  LEA  3   FLA  N25E13    SF                3173
+
+4640       0420   ////      0420  LEA  C   RSP  025-180   III/1                 
+
+4650       0421   0421      0421  LEA  G   RBR  2695      110                   
+
+4660       0511   0511      0511  LEA  U   RBR  410       100                   
+
+4670       0526   0526      0526  LEA  U   RBR  410       1700                  
+
+4740 +     0700   ////      0701  LEA  C   RSP  025-180   III/2                 
+
+4750       0822   ////      0824  SVI  C   RSP  063-161   III/1                 
+
+4760 +     0844   0851      0857  G16  5   XRA  1-8A      C1.7    1.2E-03       
+
+4770 +     0913   ////      0918  LEA  C   RSP  025-180   III/3                 
+4770 +     0915   0918      0918  SVI  G   RBR  245       330                   
+4770 +     0918   0918      0918  SVI  G   RBR  410       150                   
+
+4780       1043   1044      1044  SVI  G   RBR  245       130                   
+
+4790 +     1409   1416      1421  G16  5   XRA  1-8A      C1.8    1.1E-03   3169
+
+4800 +     1440   1443      1448  G16  5   XRA  1-8A      C1.6    7.7E-04   3169
+
+4810 +     1649   1657      1704  G16  5   XRA  1-8A      C2.2    1.9E-03   3169
+
+4820 +     2005   2011      2015  G16  5   XRA  1-8A      C2.1    1.0E-03   3177
+
+4830       2046   ////      2046  PAL  C   RSP  025-180   III/1                 
+
+4840       2248   ////      2303  LEA  C   RSP  025-180   VI/1                  
+
+4850       2343   2343      2343  LEA  G   RBR  245       110                   
+
+4860       2343   ////      2344  LEA  C   RSP  025-180   III/1                 

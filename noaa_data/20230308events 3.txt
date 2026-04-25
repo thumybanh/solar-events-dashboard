@@ -1,0 +1,47 @@
+:Product: 20230308events.txt
+:Created: 2023 Mar 11 0357 UT
+:Date: 2023 03 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Mar 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7380 +     0240   0247      0253  G16  5   XRA  1-8A      C1.8    1.3E-03   3244
+7380       0245   0247      0249  LEA  3   FLA  S22W75    SF      DSD       3244
+
+7390       0519   0525      0529  G18  5   XRA  1-8A      C1.7    9.6E-04   3248
+7390       0524   0525      0528  LEA  3   FLA  N15W57    SF                3248
+
+7400       0527   0539      0542  LEA  3   FLA  S24E27    SF                3245
+
+7410       0736   0748      0758  LEA  3   FLA  S24E27    SF                3245
+
+7420       0811   0811      0811  LEA  G   RBR  245       100                   
+
+7430 +     0953   1012      1046  G16  5   XRA  1-8A      M1.1    2.6E-02   3242
+
+7440 +     1141   1142      1142  SVI  G   RBR  245       2400                  
+7440 +     1141   ////      1142  SAG  C   RSP  122-180   III/1                 
+
+7450 +     1335   1341      1355  G16  5   XRA  1-8A      C3.3    3.2E-03   3242
+
+7460 +     1357   1415      1419  HOL  3   FLA  N10W05    SF      ERU       3242
+
+7480       1517   1517      1521  HOL  3   FLA  N10W05    SF      ERU       3242
+
+7470 +     1621   1635      1653  G16  5   XRA  1-8A      C2.0    3.5E-03       
+7470 +     1626   ////      1626  SVI  C   RSP  025-081   III/1                 
+
+7490 +     1927   1944      2011  G16  5   XRA  1-8A      C3.7    7.7E-03   3245
+7490 +     1952   1953      1956  HOL  2   FLA  S23E16    SF                3245
+
+7500 +     2235   2244      2252  G16  5   XRA  1-8A      M1.3    7.0E-03   3245
+7500       2244   2244      2304  HOL  2   FLA  S24E14    1N      YSR       3245
+7500       2251   2251      2251  LEA  G   RBR  245       110               3245
+
+7510 +     2357   0007      0022  G16  5   XRA  1-8A      C1.8    2.5E-03   3248

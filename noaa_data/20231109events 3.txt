@@ -1,0 +1,37 @@
+:Product: 20231109events.txt
+:Created: 2023 Nov 12 0357 UT
+:Date: 2023 11 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Nov 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9530       0113   0113      0113  PAL  G   RBR  245       110                   
+
+9540       0116   0116      0116  PAL  G   RBR  410       280                   
+9540       0116   0116      0116  PAL  G   RBR  245       100                   
+
+9550 +     0811   ////      0812  SVI  C   RSP  025-180   III/1                 
+9550       0812   0812      0812  LEA  G   RBR  245       170                   
+
+9560 +     1041   1050      1053  G16  5   XRA  1-8A      C1.2    6.9E-04   3481
+9560       1051   ////      1058  SVI  C   RSP  045-118   III/1                 
+
+9610 +     1053   1118      1201  G16  5   XRA  1-8A      C2.6    8.5E-03   3480
+
+9620       1113   1121      1130  SVI  3   FLA  S16W19    SF                3484
+
+9610       1115   1115      1136  SVI  3   FLA  S11W05    SF                3480
+
+9580       1426   1426      1426  SVI  G   RBR  245       120                   
+
+9590       1427   ////      1427  SVI  C   RSP  123-157   III/1                 
+
+9600       1837   1837      1859  PAL  G   RNS  245       130                   
+
+9630       2358   ////      2358  PAL  C   RSP  075-180   III/1                 

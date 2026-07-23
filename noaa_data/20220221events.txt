@@ -1,0 +1,20 @@
+:Product: 20220221events.txt
+:Created: 2022 Feb 24 0357 UT
+:Date: 2022 02 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Feb 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8460       0227   ////      0228  PAL  C   RSP  025-179   III/1                 
+
+8470       1625   1630      1636  G17  5   XRA  1-8A      B2.5    1.6E-04       
+
+8480       1834   1841      1843  G16  5   XRA  1-8A      B2.5    1.4E-04       
+8480       1843   1900      1929  G16  5   XRA  1-8A      C3.1    2.0E-03   2955
+8480       1929   1936      1940  G16  5   XRA  1-8A      C2.3    1.5E-03   2954

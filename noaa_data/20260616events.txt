@@ -1,0 +1,52 @@
+:Product: 20260616events.txt
+:Created: 2026 Jun 19 0357 UT
+:Date: 2026 06 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jun 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 320       0000   ////      0105  PAL  C   RSP  025-060   VI/2                  
+ 320       0000   ////      0505  PAL  C   RSP  025-066   CTM/1                 
+
+ 300 +     0043   0048      0050  G18  5   XRA  1-8A      C1.5    7.3E-04   4470
+
+ 330 +     0503   0509      0518  G18  5   XRA  1-8A      B7.0    6.3E-04   4470
+
+ 340       0534   ////      0614  SVI  C   RSP  025-078   VI/1                  
+ 340       0603   ////      0805  SVI  C   RSP  025-057   CTM/1                 
+
+ 350       0627   0628      0628  LEA  G   RBR  245       170                   
+
+ 360       0742   ////      0748  SVI  C   RSP  025-180   III/1                 
+
+ 370 +     1121   ////      1121  SAG  C   RSP  025-101   III/1                 
+
+ 380 +     1158   ////      1219  SAG  C   RSP  025-087   VI/1                  
+
+ 390 +     1312   ////      1315  SAG  C   RSP  025-180   V/3                   
+
+ 410 +     1529   1532      1534  G18  5   XRA  1-8A      C1.0    4.0E-04   4464
+ 410 +     1530   ////      1533  SAG  C   RSP  025-180   III/2                 
+
+ 420 +     1652   ////      1653  SVI  C   RSP  025-180   III/2                 
+ 420       1652   ////      1653  SAG  C   RSP  025-180   V/3                   
+
+ 430 +     1747   1753      1800  G18  5   XRA  1-8A      B8.4    6.2E-04   4464
+
+ 440       2020   2020      2021  SAG  G   RBR  245       150                   
+
+ 460       2039   ////      2119  SAG  C   RSP  025-091   VI/2                  
+ 460       2051   ////      2053  PAL  C   RSP  025-067   III/2                 
+
+ 450 +     2110   2118      2120  G18  5   XRA  1-8A      B8.6    4.5E-04   4464
+
+ 470 +     2245   2252      2257  G18  5   XRA  1-8A      B6.7    4.7E-04       
+ 470       2250   2251      2259  HOL  3   FLA  N17E42    SF                    
+
+ 480 +     2351   2356      2358  G18  5   XRA  1-8A      B7.6    3.4E-04   4465

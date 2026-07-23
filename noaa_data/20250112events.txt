@@ -1,0 +1,46 @@
+:Product: 20250112events.txt
+:Created: 2025 Jan 15 0357 UT
+:Date: 2025 01 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jan 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4410       0000   ////      0024  PAL  U   RSP  112-180   CTM/2                 
+4410 +     0017   ////      0018  LEA  C   RSP  025-089   III/2                 
+
+4420       0049   0049      0049  PAL  G   RBR  245       120                   
+
+4430       0104   0104      0105  LEA  G   RBR  245       100                   
+
+4440 +     0218   ////      0218  LEA  C   RSP  025-087   III/2                 
+
+4450       0237   ////      0306  LEA  C   RSP  118-180   CTM/1                 
+
+4480       0310   ////      1037  LEA  3   LPS  ////      0.06                  
+
+4460       0316   ////      0316  LEA  C   RSP  025-047   III/1                 
+
+4490       0422   ////      0703  LEA  C   RSP  102-180   CTM/1                 
+
+4470       0541   0541      0541  LEA  G   RBR  245       160                   
+
+4500       0638   ////      0739  SVI  C   RSP  119-180   CTM/1                 
+
+4510       0808   ////      0859  LEA  C   RSP  025-103   VI/1                  
+4510       0828   ////      0829  SVI  C   RSP  025-051   III/1                 
+
+4520 +     1200   1205      1216  G16  5   XRA  1-8A      C1.9    1.8E-03   3951
+
+4530       1601   1601      1601  SAG  U   RBR  245       140                   
+
+4540       1618   1618      1619  SAG  U   RBR  245       400                   
+
+4550 +     1730   1739      1752  G16  5   XRA  1-8A      C1.6    2.0E-03       
+
+4560 +     2203   2208      2216  G16  5   XRA  1-8A      C4.3    2.3E-03   3960

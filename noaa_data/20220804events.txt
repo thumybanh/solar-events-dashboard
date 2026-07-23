@@ -1,0 +1,49 @@
+:Product: 20220804events.txt
+:Created: 2022 Aug 07 0357 UT
+:Date: 2022 08 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Aug 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1720       0242   0248      0255  LEA  3   FLA  N16E21    SF      DSD       3070
+
+1730 +     0317   ////      0324  LEA  C   RSP  025-180   III/1                 
+1730       0317   0317      0317  LEA  G   RBR  245       220                   
+
+1780       0401   ////      0515  LEA  C   RSP  025-180   VI/1                  
+
+1740       0402   ////      0404  PAL  C   RSP  025-074   III/1                 
+
+1750 +     0413   0413      0413  LEA  G   RBR  245       260                   
+
+1760       0442   0442      0442  SVI  G   RBR  245       110                   
+
+1770       0446   0446      0446  LEA  G   RBR  245       120                   
+
+1790 +     0700   0707      0712  G16  5   XRA  1-8A      B3.9    2.7E-04   3068
+
+1800 +     1145   1150      1155  G16  5   XRA  1-8A      B5.7    3.1E-04   3068
+
+1820       1308   ////      1314  SAG  C   RSP  025-054   III/1                 
+
+1810       1311   ////      1312  SVI  C   RSP  025-055   III/1                 
+
+1830 +     1444   1451      1500  G16  5   XRA  1-8A      B7.3    6.2E-04       
+
+1840 +     1713   1713      1714  SVI  G   RBR  245       120                   
+
+1850       1802   1802      1802  SAG  U   RBR  245       110                   
+
+1860       1937   1937      1937  SAG  U   RBR  245       220                   
+
+1870       2102   2102      2102  SAG  U   RBR  245       200                   
+
+1880 +     2105   ////      2106  PAL  C   RSP  025-180   III/2                 
+
+1890       2140   2140      2140  SAG  U   RBR  245       120                   

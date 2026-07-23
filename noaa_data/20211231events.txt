@@ -1,0 +1,62 @@
+:Product: 20211231events.txt
+:Created: 2022 Jan 03 0357 UT
+:Date: 2021 12 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2021 Dec 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9870       0000   ////      0001  PAL  C   RSP  025-180   VI/1                  
+9870       0001   ////      0001  LEA  C   RSP  025-180   III/1                 
+9870       0001   0001      0001  PAL  U   RBR  245       100                   
+
+9880       0216   ////      0216  LEA  C   RSP  025-176   III/2                 
+
+9890 +     0309   0316      0322  G16  5   XRA  1-8A      B4.7    3.1E-04       
+9890       0318   ////      0327  LEA  C   RSP  025-180   V/2                   
+
+9900       0405   ////      0505  LEA  C   RSP  025-180   VI/2                  
+9900 +     0444   0454      0507  G16  5   XRA  1-8A      C1.9    1.6E-03   2918
+
+9910 +     0626   0641      0646  G16  5   XRA  1-8A      C4.5    2.4E-03   2918
+9910 +     0635   ////      0636  LEA  C   RSP  035-180   III/1             2918
+
+  50       0640   0653      0707  LEA  3   FLA  N21W62    SF                2918
+  50 +     0646   0656      0706  G16  5   XRA  1-8A      C9.8    9.2E-03   2918
+
+9920 +     0708   ////      0709  SVI  C   RSP  063-180   III/1                 
+
+9940 +     1001   ////      1006  LEA  C   RSP  025-180   III/3             2916
+9940 +     1002   1005      1010  G16  5   XRA  1-8A      B4.6    2.0E-04   2916
+9940 +     1003   1005      1005  SVI  G   RBR  245       240               2916
+9940       1004   1007      1010  SVI  3   FLA  S15W34    SF      ERU       2916
+9940 +     1004   1004      1004  SVI  G   RBR  410       120               2916
+
+9950 +     1107   1114      1126  G16  5   XRA  1-8A      B4.4    4.7E-04       
+
+9960       1218   ////      1221  SVI  C   RSP  025-180   III/1                 
+9960       1219   1220      1220  SVI  G   RBR  245       180                   
+
+9970 +     1227   ////      1232  SVI  C   RSP  025-180   III/2                 
+9970 +     1228   1228      1228  SVI  G   RBR  245       150                   
+9970 +     1231   1237      1243  G16  5   XRA  1-8A      B4.5    2.9E-04   2916
+
+9980 +     1249   ////      1249  SVI  C   RSP  025-045   III/1                 
+
+9990 +     1456   ////      1500  SAG  C   RSP  025-180   III/2                 
+9990 +     1458   1458      1458  SVI  G   RBR  245       220                   
+
+  10 +     1558   1611      1622  G16  5   XRA  1-8A      B7.8    9.3E-04   2916
+
+  20 +     1711   1725      1740  G16  5   XRA  1-8A      C1.2    1.9E-03       
+
+  30       1833   ////      1834  SAG  C   RSP  025-151   III/1                 
+
+  40 +     1932   1946      2002  G16  5   XRA  1-8A      C8.1    7.8E-03   2918
+
+  60 +     2232   2237      2243  G16  5   XRA  1-8A      B6.2    3.6E-04   2918

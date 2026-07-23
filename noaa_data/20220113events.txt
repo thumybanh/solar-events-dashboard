@@ -1,0 +1,60 @@
+:Product: 20220113events.txt
+:Created: 2022 Jan 16 0357 UT
+:Date: 2022 01 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jan 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1600 +     0151   0212      0236  G16  5   XRA  1-8A      C1.8    3.6E-03       
+
+1610 +     0758   0806      0810  G16  5   XRA  1-8A      B5.2    3.0E-04       
+1610 +     0808   ////      0809  LEA  C   RSP  025-136   III/1                 
+
+1620       0859   ////      0859  SVI  C   RSP  067-153   III/1                 
+
+1630       0901   ////      0901  LEA  C   RSP  065-180   III/1                 
+
+1640       1010   ////      1011  SVI  C   RSP  045-136   III/1                 
+
+1650       1012   ////      1012  LEA  C   RSP  025-180   III/1                 
+
+1660       1030   ////      1039  SVI  C   RSP  025-156   III/2                 
+
+1670 +     1118   1142      1153  G16  5   XRA  1-8A      C2.9    3.3E-03       
+1670       1133   ////      1134  SVI  C   RSP  025-152   III/2                 
+1670       1134   1134      1134  SVI  G   RBR  245       130                   
+
+1680       1220   ////      1223  SVI  C   RSP  025-171   III/1                 
+
+1690       1246   ////      1247  SVI  C   RSP  025-141   III/1                 
+
+1700       1253   1253      1253  SVI  G   RBR  245       100                   
+
+1710 +     1257   ////      1302  SVI  C   RSP  025-180   III/2                 
+1710       1259   1259      1259  SAG  U   RBR  610       37                    
+1710 +     1259   1259      1259  SVI  G   RBR  245       590                   
+1710 +     1259   1259      1259  SVI  G   RBR  410       160                   
+
+1720 +     1323   1330      1336  G16  5   XRA  1-8A      B5.3    3.7E-04   2926
+
+1730 +     1400   1403      1407  G16  5   XRA  1-8A      B7.4    2.7E-04   2924
+1730 +     1401   ////      1403  SAG  C   RSP  025-180   III/1             2924
+1730       1401   1402      1402  SAG  U   RBR  245       93                2924
+1730 +     1402   1402      1402  SVI  G   RBR  410       360               2924
+1730       1402   1403      1406  SVI  3   FLA  S26W64    SF      ERU       2924
+
+1740 +     1709   1713      1717  G16  5   XRA  1-8A      B7.5    3.1E-04   2924
+1740       1709   1710      1710  SAG  U   RBR  245       160                   
+
+1750       1709   ////      1710  SAG  C   RSP  025-180   III/1                 
+1750       1709   1710      1712  SAG  U   RBR  410       240                   
+
+1760       2024   2033      2038  G17  5   XRA  1-8A      C1.3    6.2E-04       
+
+1770       2354   0006      0012  G16  5   XRA  1-8A      B7.0    6.2E-04       

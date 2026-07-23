@@ -1,0 +1,70 @@
+:Product: 20231005events.txt
+:Created: 2023 Oct 08 0357 UT
+:Date: 2023 10 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Oct 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5070       0510   0510      0510  SVI  G   RBR  245       100                   
+
+5080       0510   ////      0511  SVI  C   RSP  025-180   III/1                 
+5080       0511   ////      0511  LEA  C   RSP  025-180   VI/2                  
+
+5090 +     0541   ////      0549  LEA  C   RSP  025-167   III/2                 
+
+5100 +     0651   0700      0705  G16  5   XRA  1-8A      C3.7    1.8E-03   3451
+
+5110 +     0713   ////      0714  LEA  C   RSP  025-108   III/2                 
+
+5120 +     0804   ////      0810  LEA  C   RSP  025-067   III/2                 
+
+5130       0816   0816      0816  SVI  G   RBR  2695      110                   
+
+5140 +     0912   ////      0917  LEA  C   RSP  025-083   III/2             3457
+5140       0916   0917      0923  SVI  3   FLA  S10E58    SF                3457
+
+5150 +     1221   1231      1242  G16  5   XRA  1-8A      C1.3    5.8E-04   3452
+
+5160       1255   1255      1255  SVI  G   RBR  410       350                   
+
+5170 +     1320   1328      1340  G16  5   XRA  1-8A      C1.3    1.5E-03   3451
+
+5180       1409   1409      1412  SVI  3   FLA  N17E02    SF                3451
+
+5190 +     1436   ////      1437  SVI  C   RSP  025-180   III/2                 
+
+5200       1521   ////      1523  SVI  C   RSP  113-180   III/1             3451
+5200 +     1523   1532      1539  G16  5   XRA  1-8A      C1.6    1.4E-03   3451
+5200       1529   1529      1540  HOL  3   FLA  N18W01    SF                3451
+
+5210       1550   1551      1557  HOL  3   FLA  N17E01    SF                3451
+
+5220       1616   1627      1657  HOL  3   FLA  N17W01    SN      DSD       3451
+5220 +     1622   1630      1637  G16  5   XRA  1-8A      C3.5    2.2E-03   3451
+
+5230 +     1747   1754      1800  G16  5   XRA  1-8A      C1.5    1.0E-03   3451
+5230       1753   1753      1801  HOL  3   FLA  N17W05    SF                3451
+
+5260       1806   ////      1936  PAL  C   RSP  025-180   VI/1                  
+
+5240       1806   ////      1901  SAG  C   RSP  025-180   VI/1                  
+5240       1846   ////      1911  HOL  3   EPL  ////      0.15                  
+
+5250 +     1903   1913      1919  G16  5   XRA  1-8A      C4.7    2.4E-03   3451
+5250       1910   1924      1920  HOL  3   FLA  N18W02    SN      ERU       3451
+
+5270 +     2106   2115      2122  G16  5   XRA  1-8A      C4.0    6.7E-04   3457
+5270       2111   2112      2125  HOL  3   FLA  S08E51    SN                3457
+
+5300       2126   ////      2211  HOL  3   DSF  S08E20    10                3454
+
+5280 +     2200   2207      2215  G16  5   XRA  1-8A      C2.1    1.7E-03   3451
+5280       2203   2207      2219  HOL  3   FLA  N17W05    SF      ERU       3451
+
+5290 +     2346   2355      0003  G16  5   XRA  1-8A      C2.4    1.9E-03   3451

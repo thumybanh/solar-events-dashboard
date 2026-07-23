@@ -1,0 +1,55 @@
+:Product: 20251115events.txt
+:Created: 2025 Nov 18 0357 UT
+:Date: 2025 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6630 +     0131   0137      0140  G18  5   XRA  1-8A      C2.0    1.0E-03   4274
+
+6640 +     0241   0249      0252  G18  5   XRA  1-8A      C4.7    2.2E-03   4274
+
+6650       0419   ////      0420  LEA  C   RSP  025-180   III/2                 
+
+6660 +     0524   0528      0531  G18  5   XRA  1-8A      C6.2    2.5E-03   4274
+6660       0527   0528      0529  LEA  3   FLA  N25W78    SF      ERU       4274
+
+6670 +     0833   ////      0840  SVI  C   RSP  025-180   III/2                 
+
+6680 +     1252   1257      1303  G18  5   XRA  1-8A      C2.1    1.5E-03   4274
+6680       1258   ////      1343  SVI  C   RSP  025-160   VI/2                  
+
+6690 +     1315   1321      1324  G18  5   XRA  1-8A      C2.2    1.1E-03   4274
+6690       1318   ////      1343  SAG  C   RSP  025-180   VI/1                  
+
+6700 +     1410   1424      1429  G18  5   XRA  1-8A      C2.2    2.2E-03   4274
+
+6710 +     1509   1517      1526  G18  5   XRA  1-8A      C1.6    1.7E-03   4274
+
+6720 +     1715   1721      1725  G18  5   XRA  1-8A      C1.8    1.1E-03   4274
+
+6730 +     1857   1902      1904  G18  5   XRA  1-8A      C1.7    7.7E-04   4274
+
+6740 +     2020   2038      2050  G18  5   XRA  1-8A      C2.4    4.3E-03   4274
+
+6750 +     2050   2114      2128  G18  5   XRA  1-8A      C3.5    6.9E-03   4274
+
+6780       2232   ////      2232  LEA  C   RSP  053-093   III/1                 
+
+6760 +     2242   2251      2255  G18  5   XRA  1-8A      C8.7    3.7E-03   4274
+
+6770 +     2306   2309      2312  G18  5   XRA  1-8A      C3.7    1.4E-03   4274
+
+6790       2306   ////      2308  LEA  C   RSP  025-132   III/2                 
+
+6770       2307   ////      2308  PAL  C   RSP  025-069   III/1                 
+
+6800 +     2324   2329      2334  G18  5   XRA  1-8A      C2.8    1.5E-03   4274
+
+6810       2343   ////      2343  LEA  C   RSP  025-096   III/2                 

@@ -1,0 +1,51 @@
+:Product: 20220830events.txt
+:Created: 2022 Sep 02 0357 UT
+:Date: 2022 08 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Aug 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8240       0101   ////      0118  PAL  C   RSP  025-076   VI/1                  
+8240       0113   ////      0118  LEA  C   RSP  025-150   III/1                 
+
+8250 +     0158   0213      0224  G17  5   XRA  1-8A      M1.5    2.3E-02   3088
+
+8260 +     0225   ////      0225  LEA  C   RSP  025-180   III/1                 
+
+8270 +     0437   ////      0437  LEA  C   RSP  025-146   III/1                 
+
+8280       0444   0457      0510  G17  5   XRA  1-8A      C7.6    7.8E-03   3088
+
+8290       0801   ////      0822  SVI  C   RSP  025-080   VI/1              3089
+8290       0819   0832      0849  G17  5   XRA  1-8A      C2.4    3.6E-03   3089
+8290       0846   0848      0850  SVI  3   FLA  S22W01    SF      ERU       3089
+
+8300       1043   1059      1102  G17  5   XRA  1-8A      C1.6    1.7E-03   3088
+8300 +     1048   ////      1049  SAG  C   RSP  025-047   III/1                 
+8300       1102   1143      1200  G17  5   XRA  1-8A      C3.0    8.1E-03       
+
+8310       1257   1259      1314  SVI  3   FLA  S20W00    SF      ERU       3089
+8310 +     1310   ////      1311  SAG  C   RSP  025-066   III/1             3089
+
+8320       1410   1413      1420  G17  5   XRA  1-8A      C1.1    6.2E-04   3089
+8320       1412   1414      1420  SVI  3   FLA  S20W02    SF      ERU       3089
+
+8330       1556   1558      1602  SVI  3   FLA  S20W03    SF      ERU       3089
+
+8340       1634   1647      1648  G17  5   XRA  1-8A      C2.1    1.5E-03       
+8340       1648   1720      1735  G17  5   XRA  1-8A      C5.4    8.4E-03       
+8340 +     1712   ////      1753  SAG  C   RSP  025-180   II/1    332           
+8340       1735   1749      1756  G17  5   XRA  1-8A      C7.1    8.2E-03       
+8340       1751   1751      1751  SAG  U   RBR  610       100                   
+
+8350       1757   1758      1758  PAL  G   RBR  2695      120                   
+
+8370       1804   1929      2123  G17  5   XRA  1-8A      M2.1    1.9E-01   3088
+
+8360       1817   1817      1817  SAG  U   RBR  410       110                   

@@ -1,0 +1,45 @@
+:Product: 20240925events.txt
+:Created: 2024 Sep 28 0357 UT
+:Date: 2024 09 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Sep 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3140       0000   ////      0039  LEA  C   RSP  025-115   VI/1                  
+3140       0019   ////      0019  PAL  C   RSP  025-075   III/1                 
+
+3150       0048   ////      0346  LEA  C   RSP  080-117   CTM/1                 
+
+3160       0234   ////      0234  LEA  C   RSP  025-161   III/1                 
+
+3170       0438   ////      0504  LEA  C   RSP  025-116   VI/1                  
+
+3180       0655   ////      0655  SVI  C   RSP  025-077   III/1                 
+
+3190       0757   ////      0758  SVI  C   RSP  025-057   III/1                 
+
+3200       0851   ////      1033  SVI  C   RSP  025-180   VI/1                  
+
+3210 +     1224   ////      1224  SAG  C   RSP  025-085   III/1                 
+
+3220 +     1416   ////      1422  SAG  C   RSP  025-180   III/1                 
+
+3230 +     1441   1555      1641  G16  5   XRA  1-8A      C9.6    5.5E-02   3836
+3230       1519   1528      1541  HOL  3   FLA  S11E58    SF      ERU       3836
+3230       1558   ////      1558  SAG  C   RSP  025-047   III/1             3836
+
+3240       1655   1656      1703  HOL  3   FLA  S15E48    SF                3836
+
+3250 +     1829   ////      1831  PAL  C   RSP  025-071   III/1                 
+
+3260       2009   2039      2110  G16  5   XRA  1-8A      C4.4    1.3E-02   3836
+
+3270 +     2257   2312      2323  G16  5   XRA  1-8A      M1.3    1.2E-02   3828
+3270       2313   2313      2322  LEA  3   FLA  S12W46    1F                3828
+3270       2315   ////      2327  LEA  3   EPL  ////      0.11              3828

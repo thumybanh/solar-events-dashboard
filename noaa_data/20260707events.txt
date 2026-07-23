@@ -1,0 +1,50 @@
+:Product: 20260707events.txt
+:Created: 2026 Jul 10 0357 UT
+:Date: 2026 07 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jul 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6370       0131   ////      0207  PAL  C   RSP  025-075   VI/2                  
+
+6380 +     0332   0340      0346  G18  5   XRA  1-8A      C1.8    1.5E-03   4478
+
+6390       0844   0844      0844  LEA  G   RBR  245       120                   
+
+6400       1043   ////      1050  SAG  C   RSP  025-050   III/1                 
+
+6450       1131   ////      2156  SAG  C   RSP  025-075   VII/2                 
+
+6410 +     1202   1212      1217  G18  5   XRA  1-8A      C1.6    1.4E-03       
+
+6420       1220   ////      1220  SAG  C   RSP  025-180   III/1                 
+
+6430 +     1409   1419      1422  G18  5   XRA  1-8A      M4.0    1.0E-02   4482
+6430       1416   1419      1441  HOL  3   FLA  S11E53    1B      DSD       4482
+6430       1420   ////      1430  SAG  C   RSP  025-180   II/1    593       4482
+6430       1435   ////      1617  SAG  C   RSP  025-128   IV/1              4482
+
+6440       1445   ////      1521  HOL  3   SPY  ////      20                4482
+
+6460       2009   ////      2210  PAL  C   RSP  025-085   VI/1                  
+6460       2100   ////      2359  PAL  C   RSP  025-180   CTM/1                 
+
+6470       2116   ////      2214  HOL  2   EPL  ////      0.31                  
+6470       2136   2137      2138  PAL  U   RBR  245       160                   
+
+6480 +     2240   2249      2253  G18  5   XRA  1-8A      C1.8    1.0E-03   4485
+
+6490       2253   ////      2255  PAL  C   RSP  025-075   III/3                 
+6490       2254   ////      2304  SAG  C   RSP  025-064   II/2    877           
+
+6500       2256   ////      2304  PAL  C   RSP  025-062   II/2    1441          
+
+6510       2318   2318      2318  LEA  G   RBR  245       100                   
+
+6520       2324   2324      2325  PAL  U   RBR  245       310                   

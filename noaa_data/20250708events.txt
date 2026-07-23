@@ -1,0 +1,29 @@
+:Product: 20250708events.txt
+:Created: 2025 Jul 11 0357 UT
+:Date: 2025 07 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5400 +     0010   0018      0025  G18  5   XRA  1-8A      C1.9    1.4E-03   4136
+
+5410 +     0148   0156      0201  G18  5   XRA  1-8A      C1.9    1.5E-03   4136
+
+5430 +     0342   0417      0437  G18  5   XRA  1-8A      M2.4    4.7E-02   4136
+
+5440 +     0600   0609      0614  G18  5   XRA  1-8A      C1.5    1.2E-03   4136
+
+5450       0752   ////      0827  SVI  C   RSP  025-084   VI/1                  
+
+5460       1253   ////      1314  SAG  C   RSP  025-072   VI/1                  
+5460       1311   ////      1314  SVI  C   RSP  025-084   III/2                 
+
+5470 +     1636   1644      1649  G18  5   XRA  1-8A      B9.8    7.8E-04   4136
+
+5480 +     2027   2040      2045  G18  5   XRA  1-8A      C1.6    1.7E-03   4136

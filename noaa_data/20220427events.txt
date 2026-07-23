@@ -1,0 +1,81 @@
+:Product: 20220427events.txt
+:Created: 2022 Apr 30 0357 UT
+:Date: 2022 04 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Apr 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9150       0028   ////      0037  PAL  C   RSP  025-180   III/2                 
+9150       0028   ////      0055  LEA  C   RSP  025-180   VI/2                  
+
+9170       0132   ////      0229  LEA  C   RSP  025-180   VI/2                  
+
+9160       0228   ////      0229  PAL  C   RSP  025-096   III/1                 
+
+9180 +     0320   ////      0321  LEA  C   RSP  025-180   III/1                 
+9180 +     0321   0321      0321  LEA  G   RBR  245       140                   
+
+9190 +     0332   0332      0332  LEA  G   RBR  245       180                   
+9190 +     0332   ////      0333  LEA  C   RSP  025-180   III/2                 
+
+9210 +     0338   ////      0433  LEA  C   RSP  025-180   CTM/1                 
+
+9200 +     0359   0405      0427  G16  5   XRA  1-8A      C1.3    7.0E-04   2994
+9200 +     0416   ////      0417  SVI  C   RSP  025-180   III/1                 
+
+9210       0416   ////      0417  LEA  C   RSP  025-180   III/2                 
+
+9220 +     0608   ////      0617  LEA  C   RSP  025-180   III/3                 
+
+9230 +     0743   ////      0743  SVI  C   RSP  025-081   III/1                 
+
+9240 +     0817   0840      0857  G16  5   XRA  1-8A      C3.3    6.7E-03   2996
+9240 +     0820   ////      0825  LEA  C   RSP  025-180   III/1             2996
+9240       0821   0824      0907  SVI  3   FLA  N28W11    SF      ERU       2996
+
+9250       0901   0906      0910  SVI  3   FLA  N13W56    SF      ERU       2994
+
+9260       1046   1048      1112  SVI  3   FLA  S29E73    SF      ERU       3001
+9260 +     1048   1054      1059  G16  5   XRA  1-8A      C2.0    1.4E-03   3001
+
+9280       1109   ////      1113  SVI  C   RSP  025-180   III/1                 
+
+9270       1110   ////      1111  SAG  C   RSP  025-180   III/1                 
+
+9290 +     1118   ////      1119  SVI  C   RSP  025-180   III/1                 
+
+9300 +     1204   ////      1212  SVI  C   RSP  025-180   III/1                 
+
+9310 +     1230   ////      1301  SAG  C   RSP  025-145   VI/1                  
+
+9320       1349   1352      1354  SVI  3   FLA  S24E37    SF      ERU       2999
+
+9330       1354   ////      1355  SVI  C   RSP  025-180   III/2                 
+
+9340       1408   ////      1531  SVI  C   RSP  025-180   VI/1              2996
+9340 +     1414   1454      0127  G16  5   XRA  1-8A      C7.6    1.2E-02   2996
+9340 +     1420   1441      1611  SVI  3   FLA  N26W16    1F      ERU       2996
+
+9350       1533   1533      1536  HOL  2   FLA  N22W17    SF      ERU       2996
+
+9360       1537   1539      1544  HOL  2   FLA  N22W17    SF      ERU       2996
+
+9370       1614   1614      1617  SVI  3   FLA  N26E03    SF      ERU           
+
+9380 +     1626   1626      1626  SVI  G   RBR  245       110                   
+
+9390 +     1642   ////      1642  SAG  C   RSP  025-155   III/1                 
+
+9400       1652   1652      1652  PAL  G   RBR  2695      280                   
+
+9410       1705   ////      1706  SAG  C   RSP  025-044   III/1                 
+
+9420       1729   ////      1811  HOL  2   BSL  ////      0.15                  
+
+9430 +     1911   ////      1912  SAG  C   RSP  025-146   III/1                 

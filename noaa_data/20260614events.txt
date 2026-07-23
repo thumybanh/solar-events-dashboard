@@ -1,0 +1,66 @@
+:Product: 20260614events.txt
+:Created: 2026 Jun 17 0357 UT
+:Date: 2026 06 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jun 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9870       0218   ////      0239  LEA  3   DSF  S05W40    8                     
+
+9800       0221   ////      0221  PAL  C   RSP  025-075   III/1                 
+
+9820       0258   ////      0504  PAL  C   RSP  025-075   VI/2                  
+
+9860       0317   0327      0348  LEA  U   RNS  245       220                   
+
+9820 +     0344   ////      0619  SVI  C   RSP  025-180   CTM/2                 
+
+9830       0635   ////      0727  SVI  C   RSP  025-180   VI/2                  
+
+9840 +     0848   0855      0905  G18  5   XRA  1-8A      C1.5    1.1E-03   4466
+
+9880       0944   ////      1445  SVI  C   RSP  025-180   VI/2                  
+
+9850       1038   ////      1111  SAG  C   RSP  025-180   VI/3              4465
+9850 +     1040   1051      1059  G18  5   XRA  1-8A      B9.1    1.0E-03   4465
+9850       1041   ////      1047  SVI  C   RSP  025-180   III/3             4465
+9850       1043   1044      1044  SVI  G   RBR  245       710               4465
+9850       1046   1046      1050  SVI  3   FLA  N05W04    SF                4465
+
+9980 +     1214   1222      1231  G18  5   XRA  1-8A      B9.9    1.1E-03   4456
+
+9890       1231   1236      1239  G18  5   XRA  1-8A      C1.0    6.1E-04   4456
+
+9900 +     1251   1302      1308  G18  5   XRA  1-8A      C1.2    1.1E-03   4464
+9900       1254   1300      1317  SVI  3   FLA  S14W51    SF                4464
+9900       1305   ////      1458  SAG  C   RSP  025-180   VI/2              4464
+
+9910       1318   ////      1318  SVI  C   RSP  025-180   III/2                 
+9910       1318   1318      1318  SVI  G   RBR  245       110                   
+
+9920       1329   1329      1330  SVI  G   RBR  245       110                   
+
+9930       1449   ////      1812  SVI  C   RSP  025-180   CTM/2                 
+9930       1546   1546      1546  SAG  G   RBR  245       100                   
+
+9940 +     1554   ////      1600  SAG  C   RSP  025-180   III/2                 
+9940       1556   1556      1556  SVI  G   RBR  245       110                   
+
+9950       1659   ////      1659  SAG  C   RSP  025-049   III/1                 
+
+9960 +     1728   ////      1732  SAG  C   RSP  025-180   III/2                 
+
+9970 +     1843   ////      1845  SAG  C   RSP  025-075   III/2                 
+
+9990       2016   ////      2016  PAL  C   RSP  025-046   III/1                 
+9990       2016   ////      2118  SAG  C   RSP  025-055   VI/1                  
+
+  10 +     2212   ////      2213  SAG  C   RSP  025-075   III/2                 
+
+  20 +     2313   ////      2313  SAG  C   RSP  025-075   III/2                 

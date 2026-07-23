@@ -1,0 +1,46 @@
+:Product: 20220108events.txt
+:Created: 2022 Jan 11 0357 UT
+:Date: 2022 01 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jan 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 830 +     0057   0103      0112  G16  5   XRA  1-8A      B8.5    7.0E-04   2924
+
+ 840 +     0206   0214      0220  G16  5   XRA  1-8A      B7.0    5.4E-04   2924
+
+ 890       0657   ////      1150  SVI  C   RSP  121-180   CTM/1                 
+
+ 850       1018   1018      1018  LEA  G   RBR  610       100               2924
+
+ 860       1035   1036      1036  LEA  G   RBR  610       390               2924
+
+ 870       1052   1053      1054  LEA  G   RBR  610       130               2924
+
+ 880       1114   1114      1114  SVI  G   RBR  245       130               2924
+
+ 900 +     1226   1226      1226  SVI  G   RBR  245       140                   
+
+ 910 +     1227   1227      1227  SVI  G   RBR  1415      120                   
+
+ 920       1323   ////      1439  SVI  C   RSP  119-180   CTM/1                 
+
+ 930       1846   ////      1846  SAG  C   RSP  025-069   III/2                 
+
+ 940       2304   ////      2304  LEA  C   RSP  025-180   III/2                 
+
+ 950       2328   2328      2328  PAL  G   RBR  245       100                   
+
+ 960       2335   2335      2335  LEA  G   RBR  245       140                   
+
+ 970       2343   2344      2344  PAL  G   RBR  245       110                   
+
+ 980 +     2349   2358      0002  G16  5   XRA  1-8A      B6.2    3.0E-04   2924
+ 980 +     2355   2355      2355  PAL  G   RBR  245       140               2924
+ 980       2356   2357      0000  LEA  3   FLA  S37E02    SF      DSD       2924

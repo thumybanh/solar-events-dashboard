@@ -1,0 +1,65 @@
+:Product: 20230412events.txt
+:Created: 2023 Apr 15 0357 UT
+:Date: 2023 04 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3420       0000   ////      0024  LEA  C   RSP  025-180   VI/1                  
+
+3430 +     0105   ////      0107  PAL  C   RSP  025-180   III/2                 
+
+3440       0114   0114      0114  LEA  G   RBR  245       100                   
+
+3450       0325   ////      0325  LEA  C   RSP  075-180   III/1                 
+
+3460       0410   ////      0410  LEA  C   RSP  034-090   III/1                 
+
+3470       0450   0502      0510  G18  5   XRA  1-8A      C2.8    2.2E-03   3276
+
+3480       0526   ////      0730  SVI  C   RSP  075-180   CTM/1                 
+
+3500 +     0836   0842      0848  G16  5   XRA  1-8A      C3.4    1.9E-03   3279
+3500 +     0839   0847     A0850  SVI  3   FLA  S19E69    SF                3276
+
+3510 +     1133   1153      1204  G16  5   XRA  1-8A      C6.1    6.5E-03   3279
+3510       1138  U1152      1216  SVI  3   FLA  S20E70    SF      ERU       3276
+
+3520       1334   1336      1343  HOL  3   FLA  N00E00    SF                    
+
+3530       1358   1408      1438  SVI  3   FLA  S22E78    SF                    
+
+3540       1450   1509      1545  SVI  3   FLA  S22E79    SF      DSD       3272
+
+3580 +     1459   1502      1508  HOL  3   FLA  S18E01    SF                3272
+
+3540 +     1538   1544      1548  G16  5   XRA  1-8A      C5.2    1.8E-03   3272
+
+3550 +     1553   1602      1630  HOL  3   FLA  N00E00    SF                3279
+
+3560       1713   1726      1734  HOL  3   FLA  N00E00    SF                    
+
+3570       1746   1801      1817  HOL  3   FLA  N00E00    SF                    
+
+3590       1925   1928      1931  HOL  3   FLA  S22E03    SF      ERU       3272
+
+3600       2103   2119      2116  HOL  3   FLA  S24E87    SF                    
+
+3610 +     2222   2229      2233  G16  5   XRA  1-8A      C1.9    1.1E-03   3279
+3610       2228   2229      2236  HOL  3   FLA  S20E62    SF                3279
+
+3620 +     2254   2303      2306  G16  5   XRA  1-8A      C1.8    1.2E-03   3279
+3620       2258   2303      2316  HOL  3   FLA  S21E64    SF      ERU       3279
+
+3630       2317   2318      2319  LEA  3   FLA  S19E62    SF                3279
+
+3640 +     2326   2335      2349  G16  5   XRA  1-8A      C4.8    4.9E-03   3279
+3640       2331   2336      2358  HOL  3   FLA  S21E64    SF      ERU       3279
+
+3850       2332   2337      2348  LEA  3   FLA  S19E62    SF                3279

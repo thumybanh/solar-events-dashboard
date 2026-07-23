@@ -1,0 +1,46 @@
+:Product: 20220110events.txt
+:Created: 2022 Jan 13 0357 UT
+:Date: 2022 01 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jan 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1160       0000   ////      0433  LEA  C   RSP  075-180   IV/1                  
+
+1170       0533   ////      1032  LEA  C   RSP  075-180   CTM/1                 
+
+1210       0640   ////      1128  SVI  C   RSP  075-180   CTM/1                 
+
+1180 +     0656   ////      0659  LEA  C   RSP  025-155   III/2                 
+
+1190       0858   0858      0858  SVI  G   RBR  245       180                   
+
+1200 +     0927   1021      1146  SVI  G   RNS  245       380                   
+
+1220 +     1253   ////      1444  SVI  C   RSP  114-180   CTM/1                 
+
+1230       1550   1550      1550  SAG  U   RBR  245       100                   
+
+1240       1636   ////      1636  SAG  C   RSP  025-086   III/1                 
+
+1250       1823   ////      1823  SAG  C   RSP  025-071   III/1                 
+
+1260 +     1826   1827      1827  PAL  G   RBR  245       130                   
+
+1270       1848   ////      1854  SAG  C   RSP  025-180   III/2                 
+
+1280       1934   ////      1937  SAG  C   RSP  112-151   III/1                 
+
+1290       1944   ////      1944  SAG  C   RSP  025-043   III/1                 
+
+1300       2304   2304      2304  PAL  U   RBR  245       210                   
+
+1310       2308   2308      2309  PAL  U   RBR  245       240                   
+
+1320       2333   2333      2335  PAL  U   RBR  245       260                   

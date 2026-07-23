@@ -1,0 +1,65 @@
+:Product: 20221008events.txt
+:Created: 2022 Oct 11 0357 UT
+:Date: 2022 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7920 +     0027   0040      0048  G16  5   XRA  1-8A      C6.6    4.6E-03   3112
+7920       0034   0038      0052  LEA  3   FLA  N24E01    SF                3112
+
+7930 +     0051   ////      0051  LEA  C   RSP  025-120   III/2                 
+
+7940 +     0155   ////      0248  LEA  C   RSP  025-180   VI/2                  
+
+7950       0324   0325      0328  LEA  3   FLA  N07E49    SF                3118
+
+7960       0351   ////      0418  LEA  C   RSP  025-180   VI/3                  
+
+7970       0500   ////      0502  LEA  C   RSP  025-180   III/2                 
+
+7980 +     0535   ////      0543  LEA  C   RSP  025-180   III/3                 
+
+7990       0612   0621      0641  G17  5   XRA  1-8A      C1.0    1.7E-03   3119
+7990 +     0615   ////      0616  LEA  C   RSP  025-144   III/2                 
+
+8000 +     0653   ////      0716  LEA  C   RSP  025-100   VI/2                  
+
+8010 +     0901   ////      0913  LEA  C   RSP  025-155   VI/2              3119
+8010       0914   0921      0923  SVI  3   FLA  N29E30    SF      ERU       3119
+
+8020 +     0929   0938      0945  G16  5   XRA  1-8A      C2.9    2.0E-03   3112
+8020       0931   0940      0956  SVI  3   FLA  N24W03    SF      ERU       3112
+
+8030 +     1140   1148      1200  G16  5   XRA  1-8A      C1.7    2.0E-03   3118
+8030       1146  U1148      1155  SVI  3   FLA  N09E44    SF                3118
+
+8040       1232   1238      1243  SVI  3   FLA  N24W05    SF                3112
+
+8050       1318   1319      1323  SVI  3   FLA  N24W06    SF      ERU       3112
+
+8060       1324   ////      1327  SAG  C   RSP  025-043   III/1                 
+
+8070       1358   1401      1410  SVI  3   FLA  N24W06    SF                3112
+
+8080       1420  U1422     A1433  SVI  3   FLA  N24W06    SF                3112
+
+8090 +     1614   1629      1635  G16  5   XRA  1-8A      C1.7    1.9E-03   3112
+
+8100 +     1846   1853      1900  G16  5   XRA  1-8A      C1.3    9.5E-04   3116
+
+8110       1949   1956      2004  G16  5   XRA  1-8A      C1.1    9.8E-04   3116
+
+8120       2045   ////      2046  PAL  C   RSP  025-058   III/1                 
+
+8130 +     2128   2137      2146  G16  5   XRA  1-8A      C1.7    1.5E-03   3116
+
+8140       2240   2248      2253  LEA  3   FLA  S20W65    SF                3115
+
+8150 +     2358   ////      2359  LEA  C   RSP  025-110   III/2                 

@@ -1,0 +1,53 @@
+:Product: 20220922events.txt
+:Created: 2022 Sep 25 0357 UT
+:Date: 2022 09 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Sep 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3570 +     0123   0136      0152  G16  5   XRA  1-8A      C3.6    4.4E-03   3105
+3570       0131   0136      0144  LEA  3   FLA  S18E45    SF                3105
+
+3580 +     0252   ////      0253  LEA  C   RSP  025-114   III/1                 
+
+3590 +     0352   0356      0402  G16  5   XRA  1-8A      C1.6    9.3E-04   3109
+3590       0355   0400      0401  LEA  3   FLA  N11W00    SF      DSD           
+
+3600       0426   0437      0449  G17  5   XRA  1-8A      C1.7    2.1E-03   3107
+
+3610       0510   0517      0522  LEA  3   FLA  N11W00    SF                3109
+
+3620       0707  U0714      0724  SVI  3   FLA  N11W02    SF      DSD       3109
+3620       0717   ////      0717  SVI  C   RSP  038-057   III/1             3109
+
+3630       0833   0850      0906  SVI  3   FLA  N10W03    SF      DSD       3109
+3630       0840   0847      0858  G16  5   XRA  1-8A      C1.7    1.7E-03   3109
+
+3640 +     0942   0951      0958  G16  5   XRA  1-8A      C1.6    1.4E-03   3105
+3640 +     0948   0948      0951  SVI  3   FLA  S18E42    SF      ERU       3105
+
+3650 +     1033   1036      1040  G16  5   XRA  1-8A      C1.8    8.6E-04   3107
+
+3660 +     1123   1134      1139  G16  5   XRA  1-8A      C7.8    4.0E-03   3105
+3660 +     1130  U1134      1153  SVI  3   FLA  S16E43    1F      ERU       3105
+
+3670       1309   1311      1316  SVI  3   FLA  S16E39    SF                3105
+
+3680 +     1421   1443      1459  G16  5   XRA  1-8A      C3.6    6.9E-03   3107
+3680       1440   ////      1441  SVI  C   RSP  025-082   III/2                 
+
+3690 +     1537   ////      1538  SVI  C   RSP  030-057   III/1                 
+
+3700 +     1814   1827      1839  G16  5   XRA  1-8A      C1.9    2.5E-03   3109
+3700       1821   1822      1846  HOL  3   FLA  N11W09    SF      ERU       3109
+
+3710       1920   ////      1922  PAL  C   RSP  025-075   III/1                 
+
+3720 +     2012   2020      2032  G16  5   XRA  1-8A      C1.7    1.9E-03   3107
+3720       2017   2017      2029  HOL  3   FLA  S21E53    SF                3107

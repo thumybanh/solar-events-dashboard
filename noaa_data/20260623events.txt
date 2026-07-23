@@ -1,0 +1,33 @@
+:Product: 20260623events.txt
+:Created: 2026 Jun 26 0357 UT
+:Date: 2026 06 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jun 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1470       0714   0718      0730  SVI  3   FLA  N08E20    SF      DSD           
+
+1480       1404   ////      1422  SAG  C   RSP  025-130   VI/2                  
+1480       1404   ////      1404  SVI  C   RSP  025-180   III/2                 
+
+1490       1415   ////      1416  SVI  C   RSP  025-180   III/1                 
+
+1500       1421   ////      1426  SVI  C   RSP  025-180   III/3                 
+1500       1424   ////      1426  SAG  C   RSP  025-180   V/2                   
+
+1510       1723   ////      1724  SVI  C   RSP  025-180   III/2                 
+1510       1724   ////      1724  SAG  C   RSP  025-180   V/2                   
+
+1520       1819   1820      1829  HOL  3   FLA  S11E40    SF                4475
+
+1530       1958   1959      2003  HOL  3   FLA  S11E39    SF                4475
+
+1540 +     2201   2224      2250  G18  5   XRA  1-8A      C3.8    9.2E-03   4477
+
+1550 +     2318   2325      2331  G18  5   XRA  1-8A      C8.7    6.7E-03   4478

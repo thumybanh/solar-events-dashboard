@@ -1,0 +1,62 @@
+:Product: 20250725events.txt
+:Created: 2025 Jul 28 0357 UT
+:Date: 2025 07 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9200       0019   ////      0218  LEA  C   RSP  025-180   CTM/1                 
+
+9170 +     0055   0101      0103  G18  5   XRA  1-8A      C7.4    2.1E-03   4149
+9170       0058   0101      0107  LEA  3   FLA  N15E08    SF                4149
+9170 +     0059   0059      0059  LEA  G   RBR  610       100               4149
+9170 +     0059   0059      0100  LEA  G   RBR  410       290               4149
+9170       0059   0059      0059  LEA  G   RBR  245       170               4149
+
+9180 +     0104   0104      0104  LEA  G   RBR  245       940                   
+
+9210 +     0142   ////      0142  LEA  C   RSP  070-180   III/1                 
+
+9190 +     0142   0142      0142  LEA  G   RBR  245       100                   
+
+9220 +     0249   0257      0308  G18  5   XRA  1-8A      C1.4    1.6E-03   4153
+
+9230 +     0545   0556      0609  G18  5   XRA  1-8A      C1.7    2.4E-03   4155
+9230       0548   ////      0555  SVI  C   RSP  025-082   III/1                 
+
+9240 +     0646   0646      0646  LEA  G   RBR  245       200                   
+
+9250       0706   ////      0706  SVI  C   RSP  025-064   III/1                 
+
+9260 +     0756   0805      0810  G18  5   XRA  1-8A      C2.2    1.5E-03   4155
+9260       0802   0803      0814  LEA  3   FLA  S08E58    SF                4155
+
+9270       1008   1008      1008  SAG  G   RBR  245       120                   
+
+9310       1008   1014      1014  SVI  G   RNS  245       160                   
+
+9280       1014   1014      1014  SAG  G   RBR  245       110                   
+
+9290 +     1058   ////      1148  SVI  C   RSP  113-180   CTM/1                 
+9290 +     1137   ////      1159  SVI  C   RSP  025-083   VI/2                  
+
+9320       1320   ////      1320  SAG  C   RSP  025-063   III/1                 
+
+9300       1320   ////      1320  SVI  C   RSP  025-063   III/1                 
+
+9330       1525   ////      1525  SVI  C   RSP  025-082   III/1                 
+
+9340       1644   ////      1644  SVI  C   RSP  037-053   III/1                 
+
+9360       1737   ////      1805  SAG  C   RSP  025-053   VI/1                  
+
+9350       1747   1754      1759  G19  5   XRA  1-8A      C1.0    8.0E-04   4154
+
+9370       1933   1934      1934  SAG  U   RBR  245       7800                  
+9370 +     1934   ////      2030  PAL  C   RSP  025-075   VI/1                  

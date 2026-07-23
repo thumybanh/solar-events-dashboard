@@ -1,0 +1,61 @@
+:Product: 20240320events.txt
+:Created: 2024 Mar 23 0357 UT
+:Date: 2024 03 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Mar 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6290       0052   0112      0121  G16  5   XRA  1-8A      C6.1    1.0E-03       
+6290 +     0053   ////      0058  LEA  C   RSP  025-180   III/1                 
+
+6300      B0130   0131      0139  LEA  2   FLA  S16E57    SF                3615
+
+6310       0154   ////      0203  LEA  C   RSP  025-100   III/1                 
+
+6320       0220   0225      0233  G16  5   XRA  1-8A      C4.0    2.6E-03   3615
+
+6330 +     0631   0637      0643  G16  5   XRA  1-8A      C2.0    1.4E-03   3615
+
+6340       0719   0719      0722  SVI  3   FLA  S15E53    SF                3615
+
+6350       0723   0736      0747  G16  5   XRA  1-8A      M7.4    5.5E-02   3615
+6350 +     0731   0731      0733  LEA  G   RBR  4995      160               3615
+6350 +     0731   0731      0733  LEA  G   RBR  8800      140               3615
+6350       0732   0732      0733  LEA  G   RBR  2695      100               3615
+6350 +    B0734   0737      0815  LEA  2   FLA  S10E51    3B                3615
+
+6360       0804   ////      0806  SVI  C   RSP  075-180   III/1                 
+
+6370       0926   0931      0937  SVI  3   FLA  S11E48    SF      ERU       3615
+
+6380       0949   0953      1001  G16  5   XRA  1-8A      C6.3    3.3E-03   3615
+6380       0950   0951      1005  SVI  3   FLA  S15E50    SF      ERU       3615
+
+6390       1014   1015      1016  SVI  3   FLA  S15E51    SF                3615
+
+6400       1137   1138      1140  SVI  3   FLA  S11E44    SF                3615
+
+6410       1207   1209      1228  SVI  3   FLA  S15E50    1F      ERU       3615
+
+6420       1323   1331      1343  G16  5   XRA  1-8A      C3.2    3.2E-03   3615
+6420       1328   1332      1352  SVI  3   FLA  S11E43    SF      ERU       3615
+
+6430       1443   1453      1504  G16  5   XRA  1-8A      C3.3    3.5E-03   3615
+6430       1447   1448      1504  SVI  3   FLA  S16E50    SF                3615
+
+6440 +     1520   ////      1521  SVI  C   RSP  063-149   III/1                 
+
+6450 +     1533   ////      1652  SVI  C   RSP  066-152   CTM/1                 
+
+6460       2053   2057      2102  G16  5   XRA  1-8A      C2.8    1.4E-03   3615
+
+6470       2246   2255      2300  G16  5   XRA  1-8A      M1.9    2.9E-03   3615
+6470       2254   2255      2255  LEA  G   RBR  2695      100                   
+
+6480       2314   2317      2322  G16  5   XRA  1-8A      C8.9    1.2E-03   3615

@@ -1,0 +1,43 @@
+:Product: 20250926events.txt
+:Created: 2025 Sep 29 0357 UT
+:Date: 2025 09 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Sep 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3790       0242   ////      0242  PAL  C   RSP  109-180   III/2                 
+
+3820       0352   0402      0410  G18  5   XRA  1-8A      C1.9    1.8E-03   4217
+
+3830       0425   0434      0450  G18  5   XRA  1-8A      C1.9    2.5E-03   4232
+
+3800 +     0614   0628      0639  G18  5   XRA  1-8A      C2.4    3.2E-03   4232
+
+3810 +     1004   1019      1040  G18  5   XRA  1-8A      C2.5    5.0E-03   4227
+
+3840       1459   1459      1504  HOL  3   FLA  S06W67    SF                4229
+
+3850 +     1706   1716      1723  G18  5   XRA  1-8A      C2.9    2.8E-03   4233
+
+3860 +     1853   1905      1914  G18  5   XRA  1-8A      C7.8    6.3E-03   4221
+
+3870 +     1949   2001      2007  G18  5   XRA  1-8A      M1.6    9.5E-03   4233
+3870 +     1956   1956      1956  PAL  G   RBR  245       210                   
+3870 +     1956   1956      1956  PAL  G   RBR  410       210                   
+3870 +     2005   ////      2013  PAL  C   RSP  040-130   II/1    778           
+
+3880 +     2045   2055      2101  G18  5   XRA  1-8A      C4.0    3.3E-03   4233
+
+3890 +     2221   2227      2232  G18  5   XRA  1-8A      C4.0    2.2E-03   4233
+
+3900 +     2305   ////      2305  LEA  C   RSP  025-066   III/1                 
+
+3910 +     2311   2315      2321  G18  5   XRA  1-8A      C2.8    1.7E-03   4217
+
+3920       2347   ////      2347  LEA  C   RSP  041-079   III/1                 

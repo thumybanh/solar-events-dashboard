@@ -1,0 +1,59 @@
+:Product: 20230828events.txt
+:Created: 2023 Aug 31 0357 UT
+:Date: 2023 08 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Aug 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5290       0000   ////      1001  LEA  C   RSP  035-180   CTM/1                 
+
+5240       0005   0007      0010  LEA  3   FLA  S08E08    SF                3415
+
+5250       0039   ////      0255  PAL  C   RSP  134-180   III/2                 
+
+5260 +     0242   ////      0242  LEA  C   RSP  025-088   III/2                 
+
+5270 +     0354   0402      0407  G16  5   XRA  1-8A      C1.0    6.8E-04       
+
+5300       0454   ////      0946  SVI  C   RSP  025-180   VI/1                  
+5300       0500   ////      1719  SVI  C   RSP  025-180   CTM/1                 
+
+5280 +     0817   0824      0831  G16  5   XRA  1-8A      B9.1    6.8E-04   3417
+
+5310       0859   ////      0900  LEA  C   RSP  069-180   III/1                 
+5310       0900   0900      0900  LEA  G   RBR  245       200                   
+
+5320       1020   1020      1020  SVI  G   RBR  245       160                   
+
+5350       1119   ////      1609  SVI  C   RSP  025-180   VI/2                  
+
+5330       1213   1213      1216  SVI  3   FLA  N09W21    SF                3413
+
+5340       1400   1400      1403  SVI  G   RBR  245       210                   
+
+5540      A1451   ////     A0806  SVI  3   DSF  N13W53    9                     
+
+5360 +     1642   1650      1659  G16  5   XRA  1-8A      C1.4    1.2E-03       
+
+5370       1703   1703      1703  PAL  G   RBR  245       140                   
+
+5380 +     2119   2128      2144  G16  5   XRA  1-8A      C1.3    1.9E-03       
+
+5390 +     2207   2215      2236  G16  5   XRA  1-8A      C1.2    3.9E-04       
+
+5440 +     2236   2246      2253  G16  5   XRA  1-8A      C1.1    5.4E-04       
+5440       2249   ////      2359  LEA  C   RSP  075-180   CTM/1                 
+
+5400 +     2300   2306      2312  G16  5   XRA  1-8A      C1.5    5.3E-04   3417
+
+5410       2331   ////      2332  LEA  C   RSP  025-115   III/1                 
+
+5420       2340   2340      2340  PAL  G   RBR  245       130                   
+
+5430 +     2354   2359      0005  G16  5   XRA  1-8A      C2.3    1.2E-03       

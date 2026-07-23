@@ -1,0 +1,54 @@
+:Product: 20230829events.txt
+:Created: 2023 Sep 01 0357 UT
+:Date: 2023 08 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Aug 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5430       0000   ////      1001  LEA  C   RSP  075-180   CTM/1                 
+
+5450 +     0007   0012      0022  G16  5   XRA  1-8A      C1.9    1.6E-03       
+
+5470       0133   ////      0359  LEA  C   RSP  025-180   VI/2                  
+
+5460 +     0239   0245      0300  G16  5   XRA  1-8A      C1.1    1.3E-03   3413
+
+5480 +     0415   0421      0426  G16  5   XRA  1-8A      C1.6    5.3E-04   3413
+5480       0420   0420      0424  LEA  3   FLA  N09W19    SF                3413
+
+5490 +     0426   0436      0444  G16  5   XRA  1-8A      C1.4    1.6E-03   3417
+
+5480       0441   ////      0903  SVI  C   RSP  025-180   VI/2              3413
+
+5500       0445   ////      0627  LEA  C   RSP  025-157   VI/1                  
+5500       0523   ////      1200  SVI  C   RSP  025-180   CTM/1                 
+
+5510 +     0634   0642      0650  G16  5   XRA  1-8A      C2.1    1.5E-03       
+
+5520 +     0815   0824      0835  G16  5   XRA  1-8A      B9.7    2.2E-04       
+
+5530 +     0942   0946      0949  G16  5   XRA  1-8A      B8.7    6.5E-04       
+
+5550       1055   ////      1146  SAG  C   RSP  025-160   CTM/1                 
+
+5580       1305   ////      2017  SAG  C   RSP  111-180   CTM/1                 
+
+5570       1312   ////      1717  SVI  C   RSP  025-180   CTM/1                 
+
+5560 +     1600   1604      1608  G16  5   XRA  1-8A      C1.0    4.4E-04       
+
+5590 +     1737   ////      2117  SAG  C   RSP  025-180   VI/1                  
+
+5600       2254   2258      2313  HOL  3   FLA  S07E67    SF                3417
+
+5610       2317   2327      2346  G16  5   XRA  1-8A      C3.9    5.7E-03   3417
+
+5620       2321   2321      2335  HOL  3   FLA  S10W15    SF      PRB       3415
+
+5610       2321   2322      2340  HOL  3   FLA  S10E68    SF                3417

@@ -1,0 +1,58 @@
+:Product: 20260624events.txt
+:Created: 2026 Jun 27 0357 UT
+:Date: 2026 06 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jun 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1560 +     0034   0104      0111  G18  5   XRA  1-8A      C3.5    5.7E-03   4479
+1560       0053   0057      0102  HOL  3   FLA  N17E70    SF                    
+
+1570 +     0344   0353      0359  G18  5   XRA  1-8A      C2.7    2.4E-03   4478
+
+1580 +     0640   0651      0657  G18  5   XRA  1-8A      C2.6    2.4E-03   4478
+
+1590 +     0707   0711      0715  G18  5   XRA  1-8A      C3.5    1.5E-03   4475
+1590 +     0709   0710      0722  SVI  3   FLA  S10E32    1F      DSD       4475
+
+1600       0733   0735      0735  LEA  G   RBR  245       340                   
+
+1610 +     0856   0903      0908  G18  5   XRA  1-8A      C1.9    1.5E-03   4473
+1610 +     0902   0906      0910  SVI  3   FLA  S09E16    SF                4473
+
+1640       0902   0904      0906  SVI  3   FLA  S11E29    SF                4475
+1640 +     0908   0911      0915  G18  5   XRA  1-8A      C1.8    9.5E-04   4475
+
+1620 +     0958   1003      1009  G18  5   XRA  1-8A      C1.8    1.2E-03   4475
+1620       1001   1001      1010  SVI  3   FLA  S12E28    SF                4475
+
+1630       1132   ////      1205  SVI  C   RSP  025-065   VI/1                  
+
+1650 +     1428   1441      1453  G18  5   XRA  1-8A      C3.8    4.4E-03   4478
+
+1660       1500   1501      1504  SVI  3   FLA  S10E26    SF                4475
+
+1670 +     1608   1615      1617  G18  5   XRA  1-8A      C2.7    1.1E-03   4475
+1670       1610   1614      1620  SVI  3   FLA  S11E25    SF                4475
+
+1680       1735   1735      1740  HOL  3   FLA  S11E24    SF      DSD       4475
+
+1690 +     1832   1842      1847  G18  5   XRA  1-8A      C2.5    2.0E-03   4475
+1690       1838   1841      1852  HOL  3   FLA  S09E28    SF      DSD       4475
+
+1700 +     2022   2031      2042  G18  5   XRA  1-8A      C1.4    1.6E-03   4475
+
+1710       2156   2156      2156  PAL  U   RBR  245       360                   
+
+1720 +     2202   2215      2232  G18  5   XRA  1-8A      C2.6    4.4E-03   4478
+1720 +     2214   2215      2215  PAL  U   RBR  245       100                   
+
+1730       2320   2320      2320  LEA  U   RBR  245       150                   
+
+1740       2353   2353      2353  LEA  G   RBR  245       120                   

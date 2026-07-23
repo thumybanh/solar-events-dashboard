@@ -1,0 +1,63 @@
+:Product: 20230530events.txt
+:Created: 2023 Jun 02 0357 UT
+:Date: 2023 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7980       0000   ////      0111  PAL  C   RSP  025-075   VI/1                  
+
+7970       0009   0020      0026  G16  5   XRA  1-8A      C4.5    2.7E-03   3310
+7970 +     0009   ////      0248  PAL  C   RSP  025-147   CTM/1                 
+
+7990       0326   0330      0335  G16  5   XRA  1-8A      C2.1    1.0E-03   3317
+
+8000       0345   ////      0359  LEA  C   RSP  025-180   VI/1                  
+8000       0356   0401      0406  G16  5   XRA  1-8A      C1.8    1.0E-03   3312
+8000 +     0358   ////      0359  SVI  C   RSP  075-167   III/1                 
+
+8030       0647   ////      0849  SVI  C   RSP  025-180   VI/1                  
+
+8010       0733   0733      0733  LEA  G   RBR  245       220                   
+
+8020 +     0754   0810      0819  G16  5   XRA  1-8A      M1.2    9.7E-03   3310
+8020       0804   0804      0807  SVI  3   FLA  N00E00    SF                3310
+
+8040       1002   1002      1002  SVI  G   RBR  245       310                   
+
+8050       1015   1022      1029  G16  5   XRA  1-8A      M1.3    6.4E-03   3310
+8050       1020   1020      1020  SVI  G   RBR  2695      210                   
+
+8060       1250   ////      1250  SAG  C   RSP  025-075   III/1                 
+
+8070       1328   1338      1400  HOL  3   FLA  S20W41    1B      DSD       3315
+8070       1336   1338      1341  G16  5   XRA  1-8A      M1.4    3.0E-03   3315
+8070       1338   ////      1344  SAG  C   RSP  112-180   III/2             3315
+
+8080 +     1440   ////      1440  SVI  C   RSP  025-180   III/1                 
+
+8090       1448   1449      1456  HOL  3   FLA  S11E73    SF                3321
+
+8170 +     1629   1650      1659  G16  5   XRA  1-8A      C6.0    2.5E-03   3319
+
+8100       1644   1648      1702  HOL  3   FLA  S18W10    SN      DSD       3319
+
+8110 +     1848   ////      1901  SAG  C   RSP  025-168   III/1                 
+
+8130       2001   ////      2003  SAG  C   RSP  025-180   III/1                 
+
+8120       2002   ////      2005  PAL  C   RSP  025-180   III/1                 
+
+8140 +     2043   ////      2049  PAL  C   RSP  025-157   III/2                 
+
+8150       2252   2252      2252  PAL  G   RBR  245       130                   
+
+8180       2335   ////      2359  PAL  C   RSP  110-180   CTM/1                 
+
+8160 +     2336   ////      2337  PAL  C   RSP  025-180   III/3                 

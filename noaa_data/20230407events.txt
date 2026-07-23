@@ -1,0 +1,55 @@
+:Product: 20230407events.txt
+:Created: 2023 Apr 10 0357 UT
+:Date: 2023 04 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2380 +     0000   ////      0928  LEA  C   RSP  048-180   CTM/1                 
+
+2350       0025   0025      0025  LEA  G   RBR  245       120                   
+
+2360       0112   ////      0113  LEA  C   RSP  063-180   III/1                 
+
+2370 +     0235   0249      0300  G16  5   XRA  1-8A      C1.3    1.8E-03   3270
+
+2410       0446   ////      0916  SVI  C   RSP  050-180   CTM/1                 
+
+2390       0542   0544      0552  SVI  3   FLA  S22E28    SF                    
+
+2400 +     0621   0627      0647  G16  5   XRA  1-8A      C1.4    2.1E-03   3272
+
+2420       1156   1156      1156  SVI  G   RBR  410       110                   
+
+2460       1231   ////      1901  SAG  C   RSP  025-157   VI/1                  
+
+2430       1243   1243      1243  SVI  G   RBR  410       400                   
+
+2440       1418   ////      1441  SVI  C   RSP  025-180   VI/1                  
+
+2450       1627   1637      1641  G16  5   XRA  1-8A      C1.1    9.0E-04   3272
+
+2470 +     2014   2022      2027  G16  5   XRA  1-8A      C1.7    1.1E-03   3272
+
+2480 +     2033   2042      2046  G16  5   XRA  1-8A      C2.5    1.4E-03   3272
+2480       2039   2041      2047  HOL  3   FLA  S18E62    SF                3272
+
+2510       2138   ////      2204  SAG  C   RSP  025-180   VI/1                  
+
+2490       2139   ////      2139  PAL  C   RSP  025-180   III/1                 
+2490       2139   2139      2139  PAL  G   RBR  245       110                   
+
+2510       2201   ////      2209  PAL  C   RSP  025-059   III/1                 
+
+2500       2218   2220      2223  HOL  3   FLA  S18E58    SF                3272
+
+2520 +     2324   2334      2350  G16  5   XRA  1-8A      C5.8    5.9E-03   3272
+2520 +     2328   2332      2352  HOL  3   FLA  S18E62    SN      ERU       3272
+2520       2333   2333      2333  PAL  G   RBR  8800      110               3272
+2520       2333   ////      2334  PAL  C   RSP  025-180   III/1             3272

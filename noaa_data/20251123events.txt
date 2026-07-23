@@ -1,0 +1,48 @@
+:Product: 20251123events.txt
+:Created: 2025 Nov 26 0357 UT
+:Date: 2025 11 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Nov 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8070 +     0114   0120      0123  G18  5   XRA  1-8A      B8.0    4.0E-04   4291
+
+8080       0136   ////      0136  LEA  C   RSP  025-119   III/2                 
+
+8090 +     0432   0441      0446  G18  5   XRA  1-8A      B9.8    7.2E-04   4291
+
+8100 +     0547   0602      0640  G18  5   XRA  1-8A      C1.4    4.2E-03   4291
+
+8110 +     0645   0654      0700  G18  5   XRA  1-8A      C1.8    1.4E-03   4291
+
+8120 +     0749   ////      0750  LEA  C   RSP  025-117   III/2                 
+
+8130 +     0849   0856      0900  G18  5   XRA  1-8A      C1.2    5.9E-04   4291
+
+8140 +     0933   0941      0959  G18  5   XRA  1-8A      C1.0    1.5E-03   4291
+
+8150       1109   1109      1112  SVI  3   FLA  S12E59    SF                4291
+
+8160       1149   1158      1205  G18  5   XRA  1-8A      C1.0    1.0E-03   4291
+
+8180 +     1205   1209      1213  G18  5   XRA  1-8A      C1.0    5.7E-04   4288
+
+8170 +     1230   1234      1236  G18  5   XRA  1-8A      C1.5    5.3E-04   4291
+
+8190 +     1631   1640      1653  G18  5   XRA  1-8A      C1.0    1.3E-03   4291
+
+8220 +     1653   1659      1703  G18  5   XRA  1-8A      B9.9    6.8E-04   4291
+
+8200 +     1947   1950      1956  G18  5   XRA  1-8A      B7.7    4.5E-04   4290
+
+8210 +     2010   2019      2026  G18  5   XRA  1-8A      C1.6    1.1E-03   4290
+8210       2017   2017      2017  PAL  G   RBR  245       160                   
+8210       2017   2017      2017  PAL  G   RBR  410       240                   
+
+8230 +     2152   2200      2210  G18  5   XRA  1-8A      B9.0    9.3E-04   4291

@@ -1,0 +1,43 @@
+:Product: 20260714events.txt
+:Created: 2026 Jul 17 0357 UT
+:Date: 2026 07 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jul 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7760      A0049   ////     A1330  HOL  3   DSF  N21W58    9                     
+
+7670       0058   ////      0058  PAL  C   RSP  040-058   III/1                 
+
+7680       0358   ////      0358  PAL  C   RSP  035-057   III/1                 
+
+7690       0909   0909      0909  LEA  G   RBR  245       120                   
+
+7700       0941   ////      0943  SAG  C   RSP  025-053   III/1                 
+
+7710 +     0949   0956      0959  G18  5   XRA  1-8A      C1.5    5.0E-04   4482
+7710       0954   ////      0955  SAG  C   RSP  025-180   III/2                 
+
+7720       1211   ////      1212  SAG  C   RSP  025-180   III/1                 
+
+7730 +     1218   1239      1300  G18  5   XRA  1-8A      C3.9    6.4E-03       
+7730       1221   ////      1332  SAG  C   RSP  025-075   VI/1                  
+
+7740       1532   1532      1532  SAG  G   RBR  245       100                   
+
+7750       1605   ////      1605  SAG  C   RSP  025-180   III/2                 
+
+7770       1717   ////      2239  SAG  C   RSP  025-180   VI/1                  
+7770       1732   ////      2359  PAL  C   RSP  025-062   CTM/1                 
+
+7780       2023   ////      2308  PAL  C   RSP  025-055   VI/1                  
+
+7790       2229   2229      2229  SAG  G   RBR  245       140                   
+
+7800 +     2231   2231      2231  SAG  G   RBR  245       210                   

@@ -1,0 +1,50 @@
+:Product: 20220109events.txt
+:Created: 2022 Jan 12 0357 UT
+:Date: 2022 01 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jan 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 990       0022   0022      0022  LEA  G   RBR  245       130                   
+ 990       0022   ////      0023  LEA  C   RSP  025-180   III/2                 
+
+1000       0022   0022      0022  PAL  G   RBR  245       140                   
+
+1010       0054   0054      0054  LEA  G   RBR  245       370                   
+
+1020       0055   0055      0056  PAL  G   RBR  245       220                   
+
+1030       0136   0136      0136  PAL  G   RBR  245       100                   
+
+1040       0213   0213      0213  LEA  G   RBR  245       130                   
+
+1050       0326   0326      0326  LEA  G   RBR  245       110                   
+
+1060 +     0326   0326      0326  PAL  G   RBR  245       100                   
+
+1070 +     0507   0517      0527  G16  5   XRA  1-8A      B7.7    8.0E-04       
+
+1080       0627   ////      0959  SVI  C   RSP  114-180   CTM/1                 
+
+1090       1011   ////      1012  SVI  C   RSP  025-138   III/1                 
+
+1100       1230   ////      1230  SVI  C   RSP  025-077   III/1                 
+
+1110       1407   ////      1407  SVI  C   RSP  025-085   III/1                 
+
+1340       1552   1602      0531  G16  5   XRA  1-8A      B5.5    3.4E-04       
+
+1120       1712   1712      1713  SAG  U   RBR  245       200                   
+
+1130       1818   ////      1824  SAG  C   RSP  025-150   III/1                 
+
+1140       2221   ////      2359  LEA  C   RSP  075-180   IV/1                  
+1140       2252   ////      2307  LEA  C   RSP  025-090   II/2    575           
+
+1150       2355   2355      2355  LEA  G   RBR  245       190                   

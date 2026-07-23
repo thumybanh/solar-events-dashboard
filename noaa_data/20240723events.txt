@@ -1,0 +1,84 @@
+:Product: 20240723events.txt
+:Created: 2024 Jul 26 0357 UT
+:Date: 2024 07 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jul 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3690       0004   ////      0948  LEA  C   RSP  114-180   CTM/1                 
+
+3670       0037   ////      0038  LEA  C   RSP  025-180   III/1                 
+3670 +     0037   0037      0038  LEA  G   RBR  245       230                   
+
+3690 +     0055   ////      0929  LEA  C   RSP  025-180   VI/2                  
+
+3680       0104   0104      0104  LEA  G   RBR  245       100                   
+
+3780       0216   0219      0219  LEA  G   RNS  245       140                   
+
+3700       0219   ////      0349  PAL  C   RSP  025-137   VI/2                  
+
+3710 +     0331   0349      0401  G16  5   XRA  1-8A      C4.5    7.2E-03   3751
+
+3720 +     0448   ////      0451  SVI  C   RSP  025-180   III/2                 
+3720 +     0448   0448      0448  LEA  G   RBR  245       260                   
+
+3730 +     0455   ////      0457  SVI  C   RSP  025-180   III/2                 
+
+3740      B0537  U0640      0902  SVI  3   FLA  S09W36    SF                3751
+3740       0559   ////      0601  SVI  C   RSP  025-083   III/2             3751
+
+3750       0806   ////      0809  SVI  C   RSP  025-082   III/1                 
+
+3760 +     0903   0912      0917  G16  5   XRA  1-8A      C8.5    3.4E-03   3761
+3760       0905   ////      1102  SVI  C   RSP  025-180   VI/2              3761
+3760 +     0910   0911      0927  SVI  3   FLA  S10W34    1N      BPT       3761
+
+3770       0920   0920      0920  LEA  G   RBR  245       170                   
+
+3800 +     1133   ////      1222  SVI  C   RSP  025-180   VI/2                  
+
+3810       1320   1321      1329  SVI  3   FLA  S10W34    SF                3761
+
+3820 +     1349   1428      1509  G16  5   XRA  1-8A      M2.4    7.8E-02       
+3820       1352   ////      1523  SVI  C   RSP  025-180   VI/2                  
+3820       1354   1405      1459  SVI  3   FLA  S10E77    SF      ERU           
+3820       1403   ////      1408  SVI  C   RSP  025-180   III/2                 
+3820 +     1410   ////      1444  SAG  C   RSP  025-150   II/2    359           
+
+3940       1412   1413      1420  SVI  3   FLA  S13W50    SF                3751
+
+3870       1437   1455      1529  SVI  3   FLA  S09W41    SF                3751
+
+3830 +     1511   1519      1526  HOL  3   FLA  S08W39    SF                3761
+
+3840 +     1626   1630      1641  HOL  3   FLA  S07W40    SF      DSD       3761
+3840       1632   ////      1647  SAG  C   RSP  025-048   VI/1              3761
+
+3850       1645   1648      1656  SVI  3   FLA  S09W43    SF                3751
+
+3860 +     1646   1651      1656  HOL  3   FLA  S12E30    SF                3762
+
+3880       1929   ////      1945  SAG  C   RSP  025-054   VI/1                  
+
+3890       2002   2005      2007  HOL  3   FLA  S07W45    SF      ERU       3751
+
+3900       2015   2015      2017  HOL  3   FLA  S03W47    SF      ERU       3751
+
+3910 +     2035   ////      2042  PAL  C   RSP  025-063   III/1                 
+
+3920 +     2112   ////      2258  PAL  C   RSP  025-180   VI/1                  
+
+3950       2224   ////      2239  SAG  C   RSP  025-180   VI/1                  
+
+3930       2225   2239      2249  G18  5   XRA  1-8A      C4.8    4.7E-03   3751
+3930       2230   2237      2244  HOL  3   FLA  S06W60    SF      ERU       3751
+
+3960       2324   2334      2343  G18  5   XRA  1-8A      C5.0    3.9E-03       
+3960       2324   ////      2324  LEA  C   RSP  115-149   III/1                 

@@ -1,0 +1,71 @@
+:Product: 20260626events.txt
+:Created: 2026 Jun 29 0352 UT
+:Date: 2026 06 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jun 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1960       0030   0030      0030  LEA  G   RBR  245       110                   
+
+1970       0330   0330      0331  LEA  G   RBR  245       120                   
+
+1980       0403   ////      0434  SVI  C   RSP  122-180   CTM/1                 
+1980 +     0415   0415      0415  LEA  G   RBR  245       130                   
+
+1990       0450   0450      0450  LEA  G   RBR  245       100                   
+
+2000       0513  U0514     A0531  SVI  3   FLA  S04E60    SF                4478
+2000       0530   0530      0530  LEA  G   RBR  245       130               4478
+
+2060       0530   0540      0625  LEA  G   RNS  245       240                   
+
+2010       0535   0535      0535  LEA  G   RBR  245       100                   
+
+2070       0658   ////      0902  SVI  C   RSP  114-180   CTM/1                 
+
+2020       0704   0705      0705  LEA  G   RBR  245       110                   
+
+2030       0802   0802      0802  LEA  G   RBR  245       190                   
+
+2040       0846   0851      0910  SVI  3   FLA  S03E58    SF                4478
+2040 +     0852   0853      0853  SVI  G   RBR  245       210               4478
+
+2050       0915   0918      0922  SVI  3   FLA  S12E36    SF                4477
+
+2080 +     0938   0950      1011  SVI  3   FLA  S12E36    SF                4477
+
+2090       1122   ////      1122  SVI  U   RSP  025-063   III/1                 
+
+2100 +     1223   1248      1304  G18  5   XRA  1-8A      C5.7    1.0E-02   4478
+2100 +     1236   1241      1310  SVI  3   FLA  S07E57    SF      ERU       4478
+
+2110 +     1346   1353      1357  G18  5   XRA  1-8A      C1.7    1.4E-03   4479
+2110 +     1351   1353      1358  HOL  3   FLA  N16E36    SF                4479
+
+2170       1357   1404      1409  G18  5   XRA  1-8A      C3.5    2.2E-03   4475
+
+2120 +     1422   ////      1422  SVI  C   RSP  025-080   III/1                 
+
+2130 +     1452   1501      1508  G18  5   XRA  1-8A      C2.0    1.7E-03   4478
+2130 +     1457   1457      1511  SVI  3   FLA  S05E55    SF      ERU       4478
+
+2140       1549   ////      1549  SAG  C   RSP  025-047   III/1                 
+
+2150       1555   ////      1601  SVI  U   RSP  025-076   III/1                 
+
+2160       1636   ////      1814  SVI  C   RSP  110-180   CTM/1                 
+
+2180       1930   1930      1935  HOL  3   FLA  S11W06    SF                4475
+
+2190 +     2012   2021      2028  G18  5   XRA  1-8A      C2.4    2.1E-03   4475
+2190       2015   2024      2050  HOL  3   FLA  S11W06    SF      DSD       4475
+
+2210       2133   ////      2359  PAL  C   RSP  025-180   CTM/1                 
+
+2200       2220   2223      2228  HOL  3   FLA  S12W10    SF                4475

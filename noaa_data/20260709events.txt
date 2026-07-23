@@ -1,0 +1,61 @@
+:Product: 20260709events.txt
+:Created: 2026 Jul 12 0357 UT
+:Date: 2026 07 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jul 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6930       0000   ////      0310  PAL  C   RSP  025-075   VI/2                  
+
+6910       0024   0026      0026  LEA  G   RBR  245       130                   
+
+7030      A0106   ////     A1255  HOL  3   DSF  S04W10    10                    
+
+6940 +     0217   0227      0229  G18  5   XRA  1-8A      M1.1    3.1E-03   4482
+6940       0225   0225      0225  LEA  G   RBR  610       100               4482
+6940       0225   0228      0235  LEA  3   FLA  S08E29    SF                4482
+
+6950 +     0406   0411      0413  G18  5   XRA  1-8A      B8.7    3.5E-04   4485
+6950       0410   0411      0413  LEA  3   FLA  S09W29    SF                4485
+
+6960 +     0517   0525      0530  G18  5   XRA  1-8A      B6.6    5.7E-04   4485
+6960       0517   0517      0517  LEA  G   RBR  245       220                   
+
+6980 +     0530   0530      0544  LEA  G   RNS  245       180                   
+
+6990 +     0651   0713      0735  G18  5   XRA  1-8A      C2.7    5.3E-03   4485
+6990 +     0701   0710      0731  LEA  3   FLA  S14W29    SF                4485
+
+7090       1012   ////      2258  SAG  C   RSP  025-132   VI/1                  
+
+7100       1124   ////      0010  SAG  C   RSP  025-071   CTM/1                 
+
+7000       1241   1241      1242  SAG  G   RBR  245       600                   
+7000       1241   ////      1242  SAG  C   RSP  025-180   III/3                 
+
+7010 +     1346   1349      1351  G18  5   XRA  1-8A      B7.3    3.1E-04   4482
+
+7020       1351   1351      1351  SAG  G   RBR  245       360                   
+7020       1351   ////      1352  SAG  C   RSP  025-180   III/2                 
+
+7040 +     1533   1547      1558  G18  5   XRA  1-8A      B7.0    9.6E-04   4485
+7040       1555   1613      1838  HOL  3   FLA  S10W37    SF                4485
+
+7050       1821   ////      1824  PAL  C   RSP  035-075   III/1                 
+
+7060       1842   1845      1902  HOL  3   FLA  S10W39    SF                4485
+7060       1852   ////      2359  PAL  C   RSP  025-075   VI/2              4485
+7060       1856   ////      2359  PAL  C   RSP  025-075   CTM/1             4485
+
+7070       1904   1908      1919  HOL  3   FLA  S13W39    SF      ERU       4485
+
+7080       1937   1943      1948  G19  5   XRA  1-8A      B4.5    3.0E-04   4485
+7080       1941   1943      1949  HOL  3   FLA  S13W39    SF      ERU       4485
+
+7110       2347   2347      2349  HOL  3   FLA  S09W43    SF                4485

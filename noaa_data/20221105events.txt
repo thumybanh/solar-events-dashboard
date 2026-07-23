@@ -1,0 +1,44 @@
+:Product: 20221105events.txt
+:Created: 2022 Nov 08 0357 UT
+:Date: 2022 11 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2180       0028   0028      0028  LEA  G   RBR  245       120                   
+
+2190       0037   ////      0037  LEA  C   RSP  120-180   III/1                 
+
+2200       0616   0616      0616  SVI  G   RBR  245       170                   
+
+2210       0732   ////      0732  LEA  C   RSP  043-059   III/1                 
+
+2220 +     0910   0917      0928  G16  5   XRA  1-8A      B9.3    8.6E-04   3135
+2220       0913   ////      0958  LEA  C   RSP  090-180   CTM/1                 
+
+2230       0939   0939      0939  SVI  G   RBR  245       120                   
+
+2240       1013   1013      1013  SVI  G   RBR  245       140                   
+
+2250       1021   1021      1021  LEA  G   RBR  245       100                   
+
+2260 +     1032   1200      1531  SVI  G   RNS  245       340                   
+
+2270 +     1107   ////      1531  SVI  C   RSP  115-180   CTM/1                 
+2270       1112   ////      1113  SVI  C   RSP  075-180   III/1                 
+
+2280       1625   1625      1625  SAG  U   RBR  245       120                   
+
+2290       1651   1651      1651  SAG  U   RBR  245       150                   
+
+2300       1721   1721      1721  SAG  U   RBR  410       120                   
+
+2310       2240   2242      2243  LEA  G   RBR  245       180                   
+
+2320       2341   2341      2341  LEA  G   RBR  245       120                   

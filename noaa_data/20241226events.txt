@@ -1,0 +1,51 @@
+:Product: 20241226events.txt
+:Created: 2024 Dec 29 0357 UT
+:Date: 2024 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9490       0000   ////      0136  LEA  C   RSP  088-180   CTM/1             3938
+9490       0011   0011      0011  PAL  G   RBR  245       100               3938
+9490       0025   0027      0055  LEA  3   FLA  N19E52    1N                3938
+9490 +     0025   0025      0026  LEA  G   RBR  410       830               3938
+9490 +     0026   0026      0026  LEA  G   RBR  8800      180               3938
+9490 +     0026   0026      0026  LEA  G   RBR  4995      120               3938
+
+9500       0231   0242      0247  LEA  3   FLA  S09W20    SF                3933
+
+9510 +     0252   0315      0325  G16  5   XRA  1-8A      M7.3    7.1E-02   3938
+9510 +     0304   0315      0403  LEA  3   FLA  N18E51    2B      ERU       3938
+9510 +     0305   0306      0307  LEA  G   RBR  4995      270               3938
+9510 +     0306   0306      0307  LEA  G   RBR  8800      210               3938
+9510       0306   0306      0306  LEA  G   RBR  2695      100               3938
+9510       0323   ////      0341  LEA  3   EPL  ////      0.11              3933
+
+9520       0733   0742      0752  G18  5   XRA  1-8A      C4.3    4.3E-03   3938
+
+9530       1153   ////      1154  SVI  C   RSP  076-180   III/2                 
+
+9540       1208   1216      1222  G18  5   XRA  1-8A      C3.4    2.6E-03   3938
+
+9550       1447   1454      1500  HOL  3   FLA  N15E43    SF      PRB       3938
+
+9560 +     1504   1504      1504  SAG  G   RBR  410       170                   
+
+9570 +     1756   1756      1756  PAL  G   RBR  245       110                   
+
+9590       1820   ////      1905  SAG  C   RSP  025-091   VI/2                  
+
+9580       1828   1845      1912  G18  5   XRA  1-8A      C9.6    2.0E-02       
+
+9630       1831   ////      1930  HOL  1   DSF  N16E29    16                3938
+
+9600       1930   2015      2027  HOL  3   FLA  N16E39    SF                3938
+
+9610       2350   2356      0002  G18  5   XRA  1-8A      C5.0    1.6E-03   3938
+9610       2354   2355      2359  LEA  3   FLA  N16E40    SF                3938

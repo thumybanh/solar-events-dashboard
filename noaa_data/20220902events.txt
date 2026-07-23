@@ -1,0 +1,54 @@
+:Product: 20220902events.txt
+:Created: 2022 Sep 05 0357 UT
+:Date: 2022 09 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Sep 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8580 +     0217   0224      0228  G16  5   XRA  1-8A      C1.1    5.3E-04   3089
+
+8590 +     0245   0251      0258  G16  5   XRA  1-8A      B9.7    6.5E-04   3089
+
+8600 +     0301   0306      0309  G16  5   XRA  1-8A      B9.6    4.6E-04   3094
+
+8620       0309   0315      0320  G16  5   XRA  1-8A      C1.1    7.1E-04   3094
+
+8610 +     0414   0424      0435  G16  5   XRA  1-8A      C1.8    1.8E-03   3089
+
+8630      B0559  U0632      0657  SVI  3   FLA  S22W37    SF      ERU       3089
+
+8640 +     1000   1006      1010  G16  5   XRA  1-8A      C1.6    7.2E-04   3094
+
+8650       1316   1321      1328  SVI  3   FLA  S22W41    SF      ERU       3089
+8650 +     1319   1326      1330  G16  5   XRA  1-8A      C2.1    9.4E-04   3089
+
+8660 +     1332   1356      1417  HOL  3   FLA  S23W40    SF      ERU       3089
+8660 +     1359   1403      1414  G16  5   XRA  1-8A      C2.4    1.7E-03   3094
+
+8670       1414   1414      1414  SAG  U   RBR  410       100                   
+
+8680       1414   1414      1415  SAG  U   RBR  245       77                    
+
+8690 +     1456   1519      1551  G16  5   XRA  1-8A      C2.6    3.2E-03   3089
+8690 +     1506   1515      1534  HOL  3   FLA  S23W42    SF      ERU       3089
+
+8700       1610   1610      1639  SVI  3   FLA  S23W43    SF      ERU       3089
+8700 +     1615   1624      1633  G16  5   XRA  1-8A      C3.5    3.4E-03   3089
+
+8710 +     1643   1650      1655  G16  5   XRA  1-8A      C2.9    2.0E-03   3089
+8710 +     1648   1649      1652  HOL  3   FLA  S22W42    SF      ERU       3089
+
+8720 +     1704   1716      1727  G16  5   XRA  1-8A      C3.8    4.4E-03   3089
+8720       1709   1709      1711  HOL  3   FLA  S22W42    SF      ERU       3089
+
+8730 +     1957   2004      2009  G16  5   XRA  1-8A      C3.4    2.6E-03   3093
+
+8740       2124   2124      2124  SAG  U   RBR  245       100                   
+
+8750 +     2316   2324      2335  G16  5   XRA  1-8A      C1.8    1.7E-03   3089

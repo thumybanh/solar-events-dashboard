@@ -1,0 +1,45 @@
+:Product: 20230913events.txt
+:Created: 2023 Sep 16 0357 UT
+:Date: 2023 09 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8990       0029   0031      0038  LEA  3   FLA  N18W42    SF                3423
+
+9000       0443   0443      0443  LEA  G   RBR  245       200                   
+9000       0443   ////      0443  LEA  C   RSP  040-180   III/1                 
+
+9010       0541   ////      0543  SVI  C   RSP  025-079   III/1                 
+
+9020 +     0804   0810      0817  G16  5   XRA  1-8A      C5.5    2.9E-03   3423
+9020 +     0807   0808      0829  SVI  3   FLA  N17W46    SF                3423
+
+9030       0925   ////      0926  SVI  C   RSP  025-041   III/1                 
+
+9050       0953   ////      1018  SVI  C   RSP  025-152   VI/1                  
+
+9070       1057   ////      1057  SVI  C   RSP  025-048   III/1                 
+
+9060       1114   1114      1114  SVI  G   RBR  245       460                   
+9060       1114   ////      1115  SVI  C   RSP  025-180   III/2                 
+
+9080       1114   ////      1116  SAG  C   RSP  025-180   III/1                 
+
+9130       1408   ////      1613  SAG  C   RSP  025-046   III/1                 
+
+9090       1408   ////      1409  SVI  C   RSP  025-062   III/1                 
+
+9100 +     1455   1502      1508  G16  5   XRA  1-8A      C1.9    7.4E-04   3429
+
+9120       1508   1517      1521  G16  5   XRA  1-8A      C1.8    1.5E-03   3429
+
+9140       1636   1641      1645  G16  5   XRA  1-8A      C1.2    6.1E-04   3423
+
+9150 +     1755   1804      1810  G16  5   XRA  1-8A      C1.3    1.1E-03   3423

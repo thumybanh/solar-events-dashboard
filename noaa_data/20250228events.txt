@@ -1,0 +1,84 @@
+:Product: 20250228events.txt
+:Created: 2025 Mar 03 0357 UT
+:Date: 2025 02 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Feb 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7110       0003   ////      0003  LEA  C   RSP  025-060   III/2                 
+
+7350      A0021   ////     A1437  HOL  3   DSF  S40E51    25                    
+
+7120       0047   ////      0048  LEA  C   RSP  025-070   III/2                 
+
+7130       0104   0107      0111  G16  5   XRA  1-8A      C2.2    9.2E-04   3998
+
+7140       0125   ////      0125  LEA  C   RSP  025-052   III/2                 
+
+7150       0202   ////      0231  LEA  C   RSP  025-137   VI/2                  
+7150       0204   ////      0205  PAL  C   RSP  025-088   III/2                 
+
+7160       0315   ////      0327  LEA  C   RSP  025-125   VI/1                  
+
+7170       0435   ////      0443  LEA  C   RSP  025-180   III/2                 
+7170       0441   0441      0441  LEA  G   RBR  245       180                   
+
+7180       0531   ////      0531  LEA  C   RSP  025-128   III/1                 
+
+7190 +     0627   ////      0630  LEA  C   RSP  025-139   III/2                 
+
+7200       0717   0730      0732  G16  5   XRA  1-8A      C3.4    1.5E-03   3998
+
+7210       0732   0741      0746  G16  5   XRA  1-8A      C4.9    3.7E-03       
+
+7220 +     0753   ////      0753  LEA  C   RSP  025-146   III/2                 
+
+7230 +     0907   ////      0908  LEA  C   RSP  025-156   III/1                 
+
+7240       1007   1019      1028  G16  5   XRA  1-8A      C4.0    4.0E-03   3998
+7240 +     1014   ////      1020  SVI  C   RSP  025-180   III/2                 
+
+7250       1110   ////      1130  SVI  C   RSP  033-180   VI/1                  
+
+7260 +     1240   ////      1630  SVI  C   RSP  025-180   VI/2              4007
+7260       1259   1311      1321  G16  5   XRA  1-8A      C4.3    1.1E-03   4007
+7260       1304  U1311     A1324  SVI  3   FLA  S11E02    SF                4007
+
+7270 +     1428   ////      1429  SAG  C   RSP  025-180   III/2                 
+7270 +     1428   1428      1428  SAG  G   RBR  410       180                   
+7270 +     1428   1428      1428  SVI  G   RBR  245       400                   
+
+7280 +     1618   1628      1633  G16  5   XRA  1-8A      C5.2    1.1E-03   4006
+7280       1624   ////      1628  SAG  C   RSP  025-180   III/2                 
+7280 +     1624   1625      1625  SVI  G   RBR  245       230                   
+7280       1625   1625      1625  SAG  U   RBR  610       74                    
+7280       1626   1626      1626  SAG  G   RBR  410       74                    
+
+7290       1700   ////      1705  SAG  C   RSP  025-121   II/2    1151          
+
+7360       1801   ////      2045  PAL  C   RSP  025-158   VI/2                  
+
+7300       1801   ////      1919  SAG  C   RSP  025-180   VI/2              4007
+7300       1817   1823      1835  G16  5   XRA  1-8A      C2.5    1.1E-03   4007
+7300 +     1819   1821      1831  HOL  3   FLA  S08W01    SF      ERU       4007
+
+7310       1916   1925      1934  G16  5   XRA  1-8A      C3.3    1.2E-03   3998
+
+7320       1953   ////      1955  SAG  C   RSP  025-156   III/1                 
+
+7330       2001   2013      2029  G16  5   XRA  1-8A      C2.8    4.4E-03   4006
+7330       2026   ////      2026  SAG  C   RSP  025-050   III/1                 
+
+7340       2045   2045      2046  PAL  G   RBR  245       610                   
+
+7370       2150   ////      2307  PAL  C   RSP  025-060   VI/2                  
+
+7380       2317   2322      2335  HOL  3   FLA  N18W04    SF      ERU       4006
+
+7390       2338   2340      2354  HOL  3   FLA  N18W04    SF      ERU       4006

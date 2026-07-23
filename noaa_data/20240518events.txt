@@ -1,0 +1,78 @@
+:Product: 20240518events.txt
+:Created: 2024 May 21 0357 UT
+:Date: 2024 05 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 May 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3880       0030   ////      0030  PAL  C   RSP  025-060   III/1                 
+
+3890       0054   ////      0054  PAL  C   RSP  025-043   III/1                 
+
+3900       0104   0104      0104  LEA  G   RBR  245       140                   
+
+3910 +     0208   ////      0210  PAL  C   RSP  025-180   III/1                 
+
+3920 +     0321   0333      0346  G16  5   XRA  1-8A      C3.8    5.1E-03   3679
+3920       0324   0325      0335  LEA  3   FLA  S11E04    SF                3679
+3920 +     0324   ////      0325  LEA  C   RSP  025-180   III/1             3679
+
+3930       0413   0419      0438  LEA  3   FLA  S10E03    SF      DSD       3679
+3930 +     0417   ////      0516  LEA  C   RSP  025-180   III/2             3679
+
+3940       0441   ////      0444  PAL  C   RSP  025-066   III/1                 
+3940       0441   ////      0515  SVI  C   RSP  025-087   VI/2                  
+
+4030       0504   0510      0534  LEA  2   FLA  N16E20    SF                3682
+
+3980 +     0532   0538      0544  G16  5   XRA  1-8A      C7.2    4.0E-03   3679
+3980 +     0534   0535      0556  LEA  3   FLA  S09E03    1N                3679
+3980 +     0543   0544      0544  LEA  G   RBR  245       860               3679
+
+4000 +     0630   ////      0706  LEA  C   RSP  025-180   VI/2                  
+
+4010 +     0747   ////      0747  LEA  C   RSP  048-104   III/1                 
+
+4020 +     0859   ////      0900  LEA  C   RSP  055-180   III/1                 
+
+4180      A0921   ////     A2320  LEA  3   DSF  S39E18    26                    
+
+4040 +     0946   ////      0946  SVI  C   RSP  025-180   III/2                 
+
+4050 +     1050   ////      1053  SVI  C   RSP  025-180   III/3                 
+4050       1050   1050      1050  SVI  G   RBR  245       130                   
+
+4060 +     1121   ////      1152  SAG  C   RSP  025-060   VI/1                  
+
+4070       1334   1334      1334  SVI  U   RBR  410       160                   
+
+4080 +     1406   ////      1509  SAG  C   RSP  025-180   VI/2                  
+
+4090 +     1613   ////      1614  SAG  C   RSP  025-075   III/1                 
+
+4100       1741   ////      1741  SAG  C   RSP  025-053   III/1                 
+
+4110       1828   ////      1847  HOL  3   BSL  ////      0.12                  
+
+4130       1913   1924      1934  HOL  3   FLA  S14W24    SF                3674
+
+4140       1927   1928      1932  HOL  3   FLA  N15E17    SF                3682
+
+4120 +     1933   1938      1942  G16  5   XRA  1-8A      C4.1    1.6E-03   3685
+4120       1935   1937      1943  HOL  3   FLA  S15E46    1N      DSD       3685
+4120       1942   ////      2000  SAG  C   RSP  025-054   VI/1              3685
+
+4150 +     2010   2016      2021  G16  5   XRA  1-8A      C3.9    1.9E-03   3685
+4150       2013   2014      2025  HOL  3   FLA  S15E46    SF      DSD       3685
+
+4190       2109   ////      2215  HOL  3   DSF  S42E05    37                    
+
+4160       2202   ////      2205  SAG  C   RSP  025-075   III/1                 
+
+4170 +     2311   ////      2359  LEA  C   RSP  025-180   VI/2                  

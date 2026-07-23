@@ -1,0 +1,43 @@
+:Product: 20231107events.txt
+:Created: 2023 Nov 10 0357 UT
+:Date: 2023 11 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Nov 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9200 +     0054   0212      0435  LEA  G   RNS  245       180                   
+
+9170       0058   0058      0100  LEA  G   RBR  245       280                   
+
+9180       0120   0120      0120  LEA  G   RBR  245       320                   
+
+9190 +     0252   0253      0253  LEA  G   RBR  245       1500                  
+
+9210 +     0538   0552      0613  G16  5   XRA  1-8A      C1.9    3.3E-03   3480
+9210       0554   0556      0601  LEA  G   RBR  245       230                   
+
+9220       1106   ////      1156  SVI  C   RSP  114-180   CTM/1                 
+
+9230 +     1301   1312      1315  G16  5   XRA  1-8A      C1.1    4.4E-04   3483
+
+9240      B1340  U1341     A1347  SVI  3   FLA  N21W51    SF                3479
+
+9250       1545   1554      1635  HOL  3   FLA  N21W51    1F      ERU       3479
+9250 +     1547   1559      1607  G16  5   XRA  1-8A      C1.6    1.7E-03   3479
+
+9260 +     1608   1613      1617  G16  5   XRA  1-8A      C2.0    9.9E-04   3479
+
+9270 +     2255   2301      2310  G16  5   XRA  1-8A      C2.9    7.2E-04   3483
+9270 +     2259   2305      2310  LEA  3   FLA  N09E03    SF                3483
+
+9280       2341   ////      2341  LEA  C   RSP  025-119   III/1                 
+
+9290       2344   2344      2344  LEA  G   RBR  245       100                   
+
+9300 +     2349   2356      0001  G16  5   XRA  1-8A      C1.7    1.1E-03   3483

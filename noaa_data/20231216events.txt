@@ -1,0 +1,51 @@
+:Product: 20231216events.txt
+:Created: 2023 Dec 19 0357 UT
+:Date: 2023 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7210 +     0005   0013      0028  G16  5   XRA  1-8A      C4.6    8.3E-04   3514
+
+7220 +     0203   0212      0219  G16  5   XRA  1-8A      C2.1    9.8E-04   3514
+
+7230 +     0233   0240      0256  G16  5   XRA  1-8A      C2.1    9.4E-04   3514
+
+7250 +     0256   0309      0317  G16  5   XRA  1-8A      C3.9    4.0E-03   3514
+
+7240       0411   0411      0411  LEA  G   RBR  245       150                   
+
+7260 +     0534   0546      0600  G16  5   XRA  1-8A      C3.6    4.4E-03   3514
+
+7270       0618   0618      0618  LEA  G   RBR  245       110                   
+
+7280 +     0641   0651      0700  G16  5   XRA  1-8A      C2.2    2.3E-03   3514
+
+7290 +     0901   0909      0920  G16  5   XRA  1-8A      C2.1    2.2E-03   3514
+
+7300 +     1100   1107      1121  G16  5   XRA  1-8A      C2.6    1.0E-03   3514
+
+7310 +     1124   1133      1140  G16  5   XRA  1-8A      C2.6    2.3E-03   3513
+
+7320 +     1226   1232      1238  G16  5   XRA  1-8A      C1.9    1.3E-03   3514
+
+7330 +     1303   1310      1319  G16  5   XRA  1-8A      C2.1    6.0E-04   3514
+
+7340 +     1319   1354      1412  G16  5   XRA  1-8A      C8.3    2.3E-03   3514
+7340       1330   ////      1513  SVI  C   RSP  054-180   CTM/1                 
+
+7330       1410   1410      1410  SVI  G   RBR  410       160                   
+
+7370 +     1412   1418      1422  G16  5   XRA  1-8A      C8.1    5.2E-03   3514
+
+7380 +     1739   1744      1749  G16  5   XRA  1-8A      C2.7    1.5E-03   3514
+
+7390 +     1942   1955      2015  G16  5   XRA  1-8A      C3.2    5.1E-03   3514
+
+7400       2123   2123      2128  HOL  3   FLA  N10E45    SF      DSD           

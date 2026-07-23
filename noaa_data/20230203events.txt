@@ -1,0 +1,43 @@
+:Product: 20230203events.txt
+:Created: 2023 Feb 06 0357 UT
+:Date: 2023 02 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Feb 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5190 +     0008   0017      0025  G16  5   XRA  1-8A      B8.8    8.2E-04   3207
+
+5200 +     0231   0249      0300  G16  5   XRA  1-8A      C3.9    4.8E-03   3204
+
+5210 +     0843   0851      0858  G16  5   XRA  1-8A      B9.3    7.2E-04   3207
+5210       0849   0849      0859  SVI  3   FLA  S12E32    SF      ERU       3207
+
+5230       0950   0958      1015  SVI  3   FLA  S12E32    SF                3207
+
+5240       1232   ////      1233  SVI  C   RSP  032-143   III/2                 
+
+5250 +     1441   ////      1449  SVI  C   RSP  025-180   III/2                 
+
+5260 +     1520   1528      1536  G16  5   XRA  1-8A      C1.7    1.3E-03   3207
+5260 +     1525   1528      1618  HOL  3   FLA  S10E30    SF      YSR       3207
+
+5270 +     1542   1549      1557  G16  5   XRA  1-8A      C1.5    1.3E-03   3207
+
+5280       1621   1646      1712  HOL  3   FLA  S12E30    1F                3207
+5280 +     1630   1645      1655  G16  5   XRA  1-8A      C2.9    3.0E-03   3207
+
+5290       1709   ////      1709  SAG  C   RSP  025-050   III/1                 
+
+5300 +     1733   ////      1903  SAG  C   RSP  025-149   VI/1                  
+
+5310       1948   ////      1948  PAL  C   RSP  025-067   III/1                 
+
+5320       2023   ////      2040  PAL  C   RSP  025-086   VI/1                  
+
+5330       2109   ////      2359  PAL  C   RSP  025-180   VI/1                  

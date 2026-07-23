@@ -1,0 +1,46 @@
+:Product: 20250630events.txt
+:Created: 2025 Jul 03 0357 UT
+:Date: 2025 06 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jun 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4400 +     0348   0356      0401  G18  5   XRA  1-8A      C1.0    7.7E-04   4128
+
+4410 +     0624   0633      0640  G18  5   XRA  1-8A      C1.2    1.1E-03   4122
+4410       0630   0631      0639  SVI  3   FLA  N16E02    SF                4122
+
+4420 +     1250   ////      1251  SVI  C   RSP  025-180   III/1                 
+
+4430 +     1259   1259      1259  SVI  G   RBR  245       270                   
+
+4440 +     1320   1327      1334  G18  5   XRA  1-8A      C1.4    1.2E-03   4130
+4440 +     1327   ////      1328  SAG  C   RSP  025-087   III/1                 
+
+4450       1424   ////      1426  SVI  C   RSP  025-130   III/1                 
+
+4460       1439   1450      1455  G19  5   XRA  1-8A      B9.6    9.1E-04   4130
+
+4470 +     1513   1520      1526  G18  5   XRA  1-8A      C1.0    8.6E-04   4130
+
+4480 +     1541   ////      1559  SAG  C   RSP  025-122   VI/2                  
+
+4490       1751   ////      1752  SVI  C   RSP  132-180   III/1                 
+4490       1751   ////      1831  SAG  C   RSP  025-180   VI/2                  
+
+4500 +     1759   1805      1816  G18  5   XRA  1-8A      C1.1    1.1E-03   4130
+
+4510       1820   ////      1831  PAL  C   RSP  025-113   VI/2                  
+4510 +     1825   1834      1840  G18  5   XRA  1-8A      C1.9    1.4E-03   4130
+
+4520 +     2023   ////      2032  SAG  C   RSP  025-076   III/2                 
+
+4530       2105   ////      2105  SAG  C   RSP  025-054   III/1                 
+
+4540 +     2357   0002      0005  G18  5   XRA  1-8A      C1.1    5.2E-04   4129

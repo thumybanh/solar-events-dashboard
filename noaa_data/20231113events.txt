@@ -1,0 +1,50 @@
+:Product: 20231113events.txt
+:Created: 2023 Nov 16 0357 UT
+:Date: 2023 11 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Nov 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 150 +     0016   0024      0034  G16  5   XRA  1-8A      C1.9    1.6E-03   3484
+ 150       0021   0022      0024  LEA  3   FLA  S12W65    SF                3484
+
+ 160 +     0140   0146      0152  G16  5   XRA  1-8A      C2.2    1.2E-03   3484
+ 160 +     0144   0144      0149  LEA  3   FLA  S12W65    SF                3484
+
+ 170       0205   ////      0206  LEA  C   RSP  025-168   III/1                 
+
+ 180 +     0803   0814      0820  G16  5   XRA  1-8A      C1.8    4.5E-04       
+
+ 190       0944   0948      0952  G16  5   XRA  1-8A      C1.2    5.7E-04       
+ 190       0945   ////      0947  SVI  C   RSP  025-180   III/1                 
+
+ 200 +     1319   1331      1341  G16  5   XRA  1-8A      C2.6    2.6E-03   3484
+ 200       1328   1330      1336  SVI  3   FLA  S14W69    SF      ERU       3484
+
+ 210       1352   ////      1352  SVI  C   RSP  025-120   III/1                 
+
+ 220       1434   1436      1438  SVI  3   FLA  S13W69    SF                3484
+
+ 230       1448   1450      1453  SVI  3   FLA  S13W70    SF                3484
+
+ 410      A1454   ////     A0734  SVI  3   DSF  S27W24    12                    
+
+ 240 +     1616   1628      1654  G16  5   XRA  1-8A      C2.1    4.0E-03   3484
+
+ 250       1807   1811      1829  G18  5   XRA  1-8A      C1.6    2.0E-03   3484
+
+ 270       2036   2040      2041  G18  5   XRA  1-8A      C1.6    1.2E-03       
+
+ 260 +     2041   2050      2103  G16  5   XRA  1-8A      C2.8    3.2E-03       
+
+ 280       2141   2150      2200  G18  5   XRA  1-8A      C1.4    4.1E-04       
+
+ 530       2200   2204      2208  G18  5   XRA  1-8A      C1.3    7.3E-04       
+
+ 290       2318   ////      2318  LEA  C   RSP  025-180   III/1                 

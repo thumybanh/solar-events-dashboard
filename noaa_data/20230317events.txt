@@ -1,0 +1,86 @@
+:Product: 20230317events.txt
+:Created: 2023 Mar 20 0357 UT
+:Date: 2023 03 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Mar 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8400       0427   ////      0446  LEA  C   RSP  025-180   VI/1                  
+
+8410 +     0612   0626      0634  G16  5   XRA  1-8A      C6.4    4.2E-03   3256
+
+8420       0635   ////      0642  SVI  C   RSP  037-155   III/1                 
+8420       0641   ////      0659  LEA  C   RSP  025-180   VI/2                  
+
+8430 +     0645   0652      0657  G16  5   XRA  1-8A      C6.4    3.2E-03   3256
+8430       0646   ////      0650  LEA  C   RSP  025-180   V/3                   
+8430       0646   ////      0650  SVI  C   RSP  025-180   III/2                 
+8430       0647   0647      0647  LEA  G   RBR  245       160                   
+8430 +     0647   0647      0647  LEA  G   RBR  410       520                   
+8430 +     0647   0647      0647  LEA  G   RBR  610       330                   
+8430 +     0650   0653      0656  LEA  3   FLA  S19E80    SF                    
+8430       0652   ////      0716  SVI  C   RSP  025-157   VI/1                  
+
+8440       0704   0728      0731  LEA  3   FLA  S23W61    SF                3247
+
+8480 +     0738   ////      0839  LEA  C   RSP  025-180   VI/2                  
+
+8450 +     0758   0758      0801  SVI  G   RBR  1415      120                   
+
+8470 +     0804   0804      0805  SVI  G   RBR  1415      1000                  
+
+8490 +     0912   ////      0912  LEA  C   RSP  025-153   III/2                 
+
+8530      B0930   ////     B1046  SVI  3   DSF  S23W34    48                    
+
+8670      A1005   ////     A2306  LEA  2   DSF  S55W24    22                    
+
+8500 +     1030   1035      1041  G16  5   XRA  1-8A      C1.4    9.0E-04   3256
+
+8540 +     1215   1238      1258  G16  5   XRA  1-8A      C3.0    3.7E-03   3256
+
+8510 +     1258   1314      1320  G16  5   XRA  1-8A      C7.3    5.6E-03   3247
+8510 +     1304   1304      1304  SVI  G   RBR  245       190               3247
+8510 +     1304   ////      1305  SVI  C   RSP  025-180   V/2               3247
+
+8550       1310   1311      1314  SVI  3   FLA  S18E82    SF                3256
+
+8510 +     1312   ////      1313  SVI  C   RSP  115-142   III/1             3247
+8510       1313   1313      1320  SVI  3   FLA  S22W65    SF                3247
+
+8520       1402   1403      1408  SVI  3   FLA  S22W65    SF                3247
+
+8560 +     1504   1507      1511  G16  5   XRA  1-8A      M1.0    3.1E-03   3247
+8560       1505   1506      1518  SVI  3   FLA  S22W65    SN      BPT       3247
+
+8570 +     1615   ////      1648  SVI  C   RSP  025-149   VI/1              3256
+8570       1625   ////      1652  SVI  3   LPS  ////      0.07    B.9A      3256
+
+8600       1841   ////      1855  PAL  C   RSP  025-086   VI/2                  
+
+8580       1853   ////      1854  SAG  C   RSP  025-180   III/1                 
+
+8590 +     1902   1902      1902  PAL  G   RBR  610       89                    
+8590 +     1902   1902      1902  PAL  G   RBR  245       120                   
+8590 +     1902   1902      1903  PAL  G   RBR  410       44                    
+8590 +     1902   ////      1904  SAG  C   RSP  025-180   III/2                 
+
+8610       1944   ////      1953  PAL  C   RSP  025-053   III/1                 
+
+8620 +     2246   ////      2250  PAL  C   RSP  025-180   III/2                 
+
+8680      B2309   ////     B2359  LEA  2   EPL  ////      0.27                  
+
+8630       2315   2320      2321  LEA  3   FLA  S11W56    SF                3249
+
+8640       2326   ////      2329  PAL  C   RSP  025-140   III/1                 
+
+8650       2336   2337      2338  LEA  G   RBR  610       410                   
+
+8660       2346   2348      2349  LEA  G   RBR  610       140                   

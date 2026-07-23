@@ -1,0 +1,46 @@
+:Product: 20220118events.txt
+:Created: 2022 Jan 21 0357 UT
+:Date: 2022 01 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jan 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2370       0223   0228      0239  G17  5   XRA  1-8A      B4.0    3.7E-04   2933
+
+2380 +     0423   0431      0436  G16  5   XRA  1-8A      B4.6    3.0E-04   2929
+
+2390       0436   0440      0444  G16  5   XRA  1-8A      B5.1    2.5E-04   2929
+
+2400 +     0724   0739      0759  G16  5   XRA  1-8A      C1.2    1.9E-03   2929
+
+2410 +     1209   1224      1231  G16  5   XRA  1-8A      B4.9    4.6E-04   2929
+
+2420 +     1231   1237      1244  G16  5   XRA  1-8A      B5.5    4.2E-04   2929
+
+2480      A1517   ////     A0650  SVI  3   DSF  S40W14    13                    
+
+2430 +     1701   1744      1817  G16  5   XRA  1-8A      M1.5    3.4E-02   2929
+2430 +     1723   1723      1723  SAG  U   RBR  245       210               2929
+2430       1725   1742      1817  HOL  3   FLA  N09W54    SF      ERU       2929
+2430 +     1728   1729      1729  SAG  U   RBR  610       110               2929
+2430       1731   ////      1742  SAG  C   RSP  112-180   II/1    143       2929
+2430       1731   1731      1731  SAG  U   RBR  410       110               2929
+2430       1735   1737      1739  PAL  G   RBR  2695      150               2929
+2430       1736   1737      1737  PAL  G   RBR  4995      110               2929
+2430       1741   ////      1835  SAG  C   RSP  025-180   IV/1              2929
+
+2440 +     1948   1951      1955  G16  5   XRA  1-8A      C5.7    1.7E-03   2930
+2440       1949   1951      1958  HOL  3   FLA  N25W54    SN      ERU       2930
+
+2500      A2107   ////     A1433  HOL  3   DSF  N39W51    10                2930
+
+2510      A2107   ////     A1433  HOL  3   DSF  S16W37    41                2933
+
+2450       2303   2303      2303  LEA  G   RBR  245       310                   
+2450       2303   ////      2304  LEA  C   RSP  025-180   III/1                 

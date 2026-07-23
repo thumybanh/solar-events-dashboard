@@ -1,0 +1,42 @@
+:Product: 20220315events.txt
+:Created: 2022 Mar 18 0357 UT
+:Date: 2022 03 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Mar 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1890 +     0557   0604      0617  G16  5   XRA  1-8A      C3.7    2.8E-03   2965
+1890       0600   0601      0617  SVI  3   FLA  N23W06    SF                2965
+
+1900 +     0805   0817      0824  G16  5   XRA  1-8A      C3.3    2.0E-03   2965
+1900 +     0813   0816      0827  SVI  3   FLA  N24W09    SF      ERU       2965
+
+1910 +     1121   1134      1147  G16  5   XRA  1-8A      C1.6    1.7E-03   2965
+1910       1128   1129      1137  SVI  3   FLA  N27W05    SF      ERU       2965
+
+1920 +     1233   1239      1244  G16  5   XRA  1-8A      M1.4    5.1E-03   2965
+1920       1236   1239      1259  SVI  3   FLA  N24W10    SN      ERU       2965
+
+1930       1301   1301      1307  SVI  3   FLA  N26W07    SF                2965
+
+1940 +     1526   1532      1538  G16  5   XRA  1-8A      C1.0    6.4E-04   2965
+1940       1529   1531      1538  SVI  3   FLA  N24W15    SF                2965
+
+1950 +     2000   2006      2011  G16  5   XRA  1-8A      B4.5    2.8E-04   2695
+
+1960 +     2239   2246      2252  G16  5   XRA  1-8A      M1.5    5.9E-03   2965
+1960       2243   2245      2251  HOL  3   FLA  N24W17    SF      ERU       2965
+
+1970 +     2320   2325      2329  G16  5   XRA  1-8A      C6.6    2.6E-03   2965
+1970       2322   2325      2327  HOL  3   FLA  N24W19    SF      ERU       2965
+1970 +     2323   2323      2323  LEA  G   RBR  610       590               2965
+
+1980       2334   2334      2335  LEA  3   FLA  N24W19    SF      DSD       2965
+
+1990       2348   2349      2351  LEA  3   FLA  N25W13    SF                2965

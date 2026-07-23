@@ -1,0 +1,27 @@
+:Product: 20250912events.txt
+:Created: 2025 Sep 15 0357 UT
+:Date: 2025 09 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Sep 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1280       0012   ////      0012  LEA  C   RSP  025-059   III/2                 
+
+1290       0524   ////      0525  SVI  C   RSP  134-171   III/1                 
+
+1300       0655   0655      0655  LEA  G   RBR  245       110                   
+
+1320 +     1351   ////      1351  SVI  C   RSP  025-060   III/1                 
+
+1330 +     1443   ////      1501  SVI  3   EPL  ////      0.39    B.9A          
+1330       1455   ////      1455  SAG  C   RSP  025-043   III/1                 
+
+1340 +     2249   2300      2312  G18  5   XRA  1-8A      C1.4    1.7E-03   4207
+
+1360       2338   2344      0017  G18  5   XRA  1-8A      C1.1    2.4E-03   4213

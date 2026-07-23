@@ -1,0 +1,55 @@
+:Product: 20220720events.txt
+:Created: 2022 Jul 23 0357 UT
+:Date: 2022 07 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jul 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9660       0004   0006      0046  LEA  3   FLA  N15W39    SF                3057
+9660       0004   0005      0048  LEA  3   FLA  S19W54    SF                3056
+9660       0016   ////      0017  LEA  C   RSP  025-037   III/2             3056
+
+9670       0051   ////      0052  LEA  C   RSP  025-142   III/2                 
+
+9680 +     0206   0215      0219  G16  5   XRA  1-8A      C3.3    1.4E-03   3058
+9680       0213   0214      0223  LEA  3   FLA  N13E04    SF                3058
+
+9690       0224   ////      0226  LEA  C   RSP  025-180   III/2                 
+
+9700       0348   0403      0408  LEA  3   FLA  S19W54    SF                3056
+9700       0407   0408      0413  LEA  3   FLA  N15W39    SF                3057
+
+9710 +     0517   0523      0529  G16  5   XRA  1-8A      C1.1    8.1E-04       
+
+9720       0812   0818      0833  LEA  3   FLA  S19W54    SF                3056
+
+9730       0855   0902      0906  G16  5   XRA  1-8A      C1.5    9.0E-04   3056
+9730       0900   0900      0920  LEA  3   FLA  S19W54    SF                3056
+9730       0906   0915      0922  G16  5   XRA  1-8A      C1.8    1.7E-03   3056
+
+9740 +     1302   ////      1424  SVI  U   RSP  025-145   VI/1                  
+
+9750 +     1458   1504      1510  G16  5   XRA  1-8A      C2.0    1.2E-03       
+
+9760       1613   ////      1615  SAG  C   RSP  025-048   III/1                 
+
+9770 +     1653   1657      1707  G16  5   XRA  1-8A      C1.1    9.6E-04       
+
+9780 +     1832   ////      1833  SAG  C   RSP  025-180   III/1                 
+9780       1833   1833      1833  SAG  U   RBR  245       120                   
+
+9790       1917   1931      1945  G16  5   XRA  1-8A      C2.9    1.8E-03   3056
+9790       1927   ////      2001  SAG  C   RSP  025-050   VI/1                  
+9790       1945   1951      1958  G16  5   XRA  1-8A      C3.9    2.9E-03   3056
+
+9800 +     2233   2237      2245  G16  5   XRA  1-8A      C1.3    8.1E-04   3056
+
+9820 +     2301   0009      0025  G16  5   XRA  1-8A      C4.1    1.2E-02   3062
+
+9810       2310   ////      2311  SAG  C   RSP  025-052   III/1                 

@@ -1,0 +1,36 @@
+:Product: 20220324events.txt
+:Created: 2022 Mar 27 0357 UT
+:Date: 2022 03 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Mar 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2810 +     0028   0050      0120  G16  5   XRA  1-8A      C2.8    6.8E-03   2975
+
+2860      A0032   ////     A1337  HOL  3   DSF  N57W08    15                    
+
+2820 +     0142   0145      0150  G16  5   XRA  1-8A      C8.1    2.6E-03   2975
+
+2830       0428   0434      0440  G17  5   XRA  1-8A      C1.1    7.9E-04       
+
+2840 +     0803   0821      0844  G16  5   XRA  1-8A      C2.2    4.2E-03   2975
+
+2850       1238   ////      1239  SVI  U   RSP  025-059   III/1                 
+
+2870 +     1433   1441      1448  G16  5   XRA  1-8A      C2.1    1.9E-03   2975
+2870       1447   ////      2008  SAG  C   RSP  132-180   CTM/1                 
+
+2880 +     1525   1525      1525  SVI  G   RBR  245       110                   
+
+2900       1828   ////      2000  PAL  C   RSP  072-180   CTM/1                 
+
+2890 +     1857   1916      1941  G16  5   XRA  1-8A      C1.0    2.4E-03   2975
+
+2910 +     2103   2115      2122  G16  5   XRA  1-8A      C1.9    1.4E-03   2974
+2910       2110   2115      2125  HOL  3   FLA  S19E43    SF                2974

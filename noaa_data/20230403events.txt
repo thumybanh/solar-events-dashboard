@@ -1,0 +1,32 @@
+:Product: 20230403events.txt
+:Created: 2023 Apr 06 0357 UT
+:Date: 2023 04 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1790       0031   0037      0039  HOL  3   FLA  S22W03    SF                3270
+
+1820      A0052   ////     A1320  HOL  3   DSF  S26W06    7                 3270
+
+1800       0105   ////      0305  LEA  C   RSP  075-180   CTM/1                 
+
+1810       0235   ////      0304  LEA  C   RSP  025-180   VI/2                  
+1810 +     0303   0303      0303  LEA  G   RBR  245       410                   
+1810 +     0303   ////      0304  LEA  C   RSP  025-180   III/2                 
+
+1830       0847   0952      1005  G16  5   XRA  1-8A      C2.5    7.3E-03       
+
+1840       1824   ////      1824  SAG  C   RSP  025-075   III/1                 
+
+1850       2217   2220      2224  G16  5   XRA  1-8A      B8.7    3.5E-04   3270
+
+1860 +     2242   2247      2252  G16  5   XRA  1-8A      B8.0    4.5E-04   3270
+
+1870 +     2349   2353      2357  G16  5   XRA  1-8A      C2.8    8.8E-04   3270

@@ -1,0 +1,26 @@
+:Product: 20221101events.txt
+:Created: 2022 Nov 04 0357 UT
+:Date: 2022 11 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1560 +     0052   0059      0103  G16  5   XRA  1-8A      B7.0    4.1E-04       
+
+1570 +     0615   0620      0624  G16  5   XRA  1-8A      C1.2    4.7E-04   3137
+
+1580 +     1100   1108      1114  G16  5   XRA  1-8A      B7.5    5.7E-04       
+
+1590 +     1345   1358      1402  G16  5   XRA  1-8A      C1.3    9.1E-04   3137
+
+1600       1938   1938      1938  SAG  U   RBR  245       240                   
+
+1610       2029   2030      2032  HOL  3   FLA  S05E40    SF      DSD       3136
+
+1620       2108   2109      2114  HOL  3   FLA  N29E14    SF                3135

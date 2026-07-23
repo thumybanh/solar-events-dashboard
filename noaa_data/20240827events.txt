@@ -1,0 +1,45 @@
+:Product: 20240827events.txt
+:Created: 2024 Aug 30 0357 UT
+:Date: 2024 08 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Aug 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7380 +     0003   ////      0019  LEA  C   RSP  025-180   VI/1                  
+
+7390 +     0058   0102      0106  G16  5   XRA  1-8A      C4.5    1.9E-03   3800
+7390 +     0100   0100      0101  LEA  G   RBR  1415      150                   
+7390       0101   0101      0101  LEA  G   RBR  245       180                   
+
+7400 +     0212   0219      0224  G16  5   XRA  1-8A      C3.1    2.1E-03   3796
+
+7410 +     0320   0328      0335  G16  5   XRA  1-8A      C3.3    2.6E-03   3800
+
+7420 +     0458   0508      0527  G16  5   XRA  1-8A      C3.7    1.5E-03   3801
+
+7430       0610   0610      0610  LEA  G   RBR  245       360                   
+
+7440 +     0801   0810      0814  G16  5   XRA  1-8A      C9.9    5.0E-03   3800
+7440       0807   0807      0813  LEA  3   FLA  S27W13    SF                3800
+7440       0807   0807      0807  LEA  G   RBR  1415      360               3800
+7440       0807   0807      0807  LEA  G   RBR  410       1000              3800
+
+7450 +     0930   0943      0956  G16  5   XRA  1-8A      M1.1    1.7E-02   3796
+7450       0937   0941      0946  LEA  3   FLA  S04W41    SF                3796
+
+7460 +     1234   1240      1245  G16  5   XRA  1-8A      C4.5    2.8E-03   3800
+
+7470       1519   ////      1539  SAG  C   RSP  025-076   VI/1                  
+7470 +     1535   1539      1549  G16  5   XRA  1-8A      C5.0    3.7E-03   3800
+
+7480       1745   ////      1745  SAG  C   RSP  111-180   III/1                 
+
+7490      B1908   1907      1908  HOL  3   FLA  S32W34    SF                3800
+
+7500       2015   ////      2020  PAL  C   RSP  025-069   III/1                 

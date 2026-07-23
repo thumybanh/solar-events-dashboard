@@ -1,0 +1,70 @@
+:Product: 20240606events.txt
+:Created: 2024 Jun 09 0357 UT
+:Date: 2024 06 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jun 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9430       0000   ////      0156  LEA  C   RSP  060-180   CTM/1                 
+9430 +     0001   0014      0029  G16  5   XRA  1-8A      C9.5    1.3E-02       
+
+9440 +     0337   0349      0406  G16  5   XRA  1-8A      C4.3    2.3E-03   3697
+
+9450       0422   0422      0429  SVI  3   FLA  N20W42    SF                3698
+
+9460 +     0449   0457      0503  G16  5   XRA  1-8A      C6.3    4.1E-03   3695
+9460       0453   0453      0459  SVI  3   FLA  N27W72    SF                3695
+
+9470       0830   ////      0831  SVI  C   RSP  025-051   III/1                 
+
+9540       0833   0835      0837  SVI  3   FLA  N28W75    SF                3695
+
+9480 +     0835   0850      0854  G16  5   XRA  1-8A      C8.1    8.8E-03   3697
+9480       0841   0910      0919  SVI  3   FLA  S21W38    SF                3697
+
+9520       0851   0854      0856  SVI  3   FLA  N21W44    SF                3698
+
+9530 +     0854   0858      0902  G16  5   XRA  1-8A      C8.1    4.3E-03   3697
+
+9490       0920   0924      0932  SVI  3   FLA  S21W38    SF                3697
+
+9550       1001   1002      1005  SVI  3   FLA  N22W46    SF                3698
+
+9500 +     1003   1010      1034  G16  5   XRA  1-8A      C4.9    8.4E-03   3697
+9500 +     1006   1008      1018  SVI  3   FLA  S20W35    SF                3697
+
+9560       1417   1419      1421  SVI  3   FLA  S20W40    SF                3697
+
+9570 +     1450   1506      1522  G16  5   XRA  1-8A      M6.1    6.7E-02   3697
+9570 +     1455   1500      1554  HOL  3   FLA  S20W41    2B      DSD       3697
+9570       1458   1501      1503  SVI  G   RBR  8800      220               3697
+9570       1459   1501      1501  SVI  G   RBR  4995      220               3697
+9570       1500   1500      1500  SVI  G   RBR  15400     100               3697
+9570       1500   1501      1502  SVI  G   RBR  2695      350               3697
+9570       1501   1501      1501  SVI  G   RBR  1415      110               3697
+
+9580       1528   1529      1536  SVI  3   FLA  S10W15    SF                3703
+
+9590       1558   1602      1617  SVI  3   FLA  N21W50    SF                3698
+
+9600 +     1643   ////      1644  SVI  C   RSP  025-083   III/1                 
+
+9610 +     1942   1952      1959  G16  5   XRA  1-8A      C7.8    5.2E-03   3695
+9610       1947   ////      1948  SAG  C   RSP  025-066   III/1                 
+
+9620 +     2034   2041      2046  G16  5   XRA  1-8A      C8.7    5.4E-03   3697
+9620       2036   2040      2104  HOL  3   FLA  S19W41    SF      DSD       3697
+
+9630       2054   ////      2103  SAG  C   RSP  025-090   III/1                 
+
+9640       2112   2116      2120  HOL  3   FLA  S19W39    SF      DSD       3697
+
+9650 +     2137   ////      2137  PAL  C   RSP  025-180   III/2                 
+
+9660       2209   2209      2222  HOL  3   FLA  S17W52    SF      DSD       3697

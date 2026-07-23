@@ -1,0 +1,52 @@
+:Product: 20250417events.txt
+:Created: 2025 Apr 20 0357 UT
+:Date: 2025 04 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Apr 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7260      B0000   0001      0011  HOL  3   FLA  S05E58    SF      ERU       4062
+
+7290 +     0050   ////      0050  LEA  C   RSP  025-130   III/2                 
+
+7300       0050   0050      0050  PAL  G   RBR  245       100                   
+
+7310       0142   0142      0142  PAL  G   RBR  245       210                   
+
+7320       0147   0147      0147  PAL  G   RBR  245       150                   
+
+7330       0231   0232      0232  PAL  G   RBR  245       120                   
+
+7340       0316   ////      0317  LEA  C   RSP  078-180   III/1                 
+7340 +     0316   0316      0317  LEA  G   RBR  245       160                   
+
+7350 +     0422   0424      0425  LEA  G   RBR  245       2800                  
+7350 +     0424   0424      0424  LEA  G   RBR  410       1400                  
+7350 +     0424   0424      0424  LEA  G   RBR  610       260                   
+7350 +     0424   ////      0425  LEA  C   RSP  025-180   III/2                 
+
+7360 +     0458   0505      0508  G19  5   XRA  1-8A      C1.5    8.4E-04   4060
+
+7370 +     0604   ////      0604  SVI  C   RSP  025-180   III/2                 
+
+7380 +     0634   ////      0635  SVI  C   RSP  025-145   III/2                 
+
+7390 +     0932   0946      0952  G19  5   XRA  1-8A      C2.8    2.5E-03   4062
+
+7400 +     1401   1405      1411  G19  5   XRA  1-8A      C2.5    7.5E-04   4062
+
+7410 +     1411   1422      1434  G19  5   XRA  1-8A      C4.6    5.6E-03   4064
+
+7420       1732   ////      1732  SAG  C   RSP  025-042   III/1                 
+
+7430       1900   1900      1900  SAG  U   RBR  245       130                   
+
+7440 +     2144   2153      2200  G19  5   XRA  1-8A      C1.5    4.0E-04   4066
+
+7450 +     2200   2204      2206  G19  5   XRA  1-8A      C2.1    9.1E-04   4062

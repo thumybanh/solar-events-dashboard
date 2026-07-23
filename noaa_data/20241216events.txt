@@ -1,0 +1,37 @@
+:Product: 20241216events.txt
+:Created: 2024 Dec 19 0357 UT
+:Date: 2024 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7590       0305   0305      0305  LEA  G   RBR  245       100                   
+
+7600       0446   0451      0455  G16  5   XRA  1-8A      C2.4    1.9E-03   3920
+
+7610       0455   0501      0505  G16  5   XRA  1-8A      C2.0    1.3E-03   3922
+
+7620 +     0718   0732      0742  G16  5   XRA  1-8A      C4.5    4.5E-03       
+
+7630 +     0918   0923      0928  G16  5   XRA  1-8A      C1.9    1.1E-03   3924
+7630       0921   0923      0929  SVI  3   FLA  S17W29    SF                3924
+7630       0921   0921      0921  SVI  G   RBR  245       180               3924
+
+7640       1245   1304      1330  SVI  3   FLA  S16W34    SF                3924
+7640       1251   ////      1644  SAG  C   RSP  053-180   CTM/1             3924
+
+7660       1603   1603      1608  HOL  3   FLA  S19W38    SF                3924
+
+7670       2121   ////      2123  PAL  C   RSP  025-074   III/2                 
+
+7650 +     2133   2133      2140  PAL  G   RNS  245       140                   
+
+7680 +     2137   2149      2156  G16  5   XRA  1-8A      C3.8    1.0E-03   3917
+
+7690 +     2233   2240      2245  G16  5   XRA  1-8A      C2.1    1.5E-03   3917

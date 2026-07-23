@@ -1,0 +1,37 @@
+:Product: 20220124events.txt
+:Created: 2022 Jan 27 0357 UT
+:Date: 2022 01 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jan 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2780 +     0200   0208      0212  G16  5   XRA  1-8A      C1.0    7.1E-04       
+
+2790 +     0226   0237      0246  G16  5   XRA  1-8A      C1.1    1.1E-03       
+
+2800 +     0400   0413      0427  G16  5   XRA  1-8A      B4.3    6.0E-04       
+
+2810 +     0444   0451      0457  G17  5   XRA  1-8A      B4.0    2.4E-04       
+
+2820 +     0730   0736      0740  G16  5   XRA  1-8A      B2.7    1.5E-04       
+
+2830       0803   0812      0817  G17  5   XRA  1-8A      B2.1    1.7E-04       
+
+2840 +     0926   0933      0959  G16  5   XRA  1-8A      B2.8    5.2E-04       
+
+2970      A1444   ////     A0728  SVI  3   DSF  N21E11    10                    
+
+2850 +     1522   1532      1541  G16  5   XRA  1-8A      B3.3    3.5E-04       
+
+2880 +     2031   2036      2042  G16  5   XRA  1-8A      B3.8    2.1E-04       
+
+2890       2100   2115      2118  G16  5   XRA  1-8A      B4.4    3.9E-04       
+2890       2118   2124      2128  G16  5   XRA  1-8A      B4.5    2.9E-04       
+
+3100      A2350   ////     A1446  HOL  3   DSF  N12W03    12                2935

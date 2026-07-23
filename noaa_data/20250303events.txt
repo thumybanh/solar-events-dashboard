@@ -1,0 +1,49 @@
+:Product: 20250303events.txt
+:Created: 2025 Mar 06 0357 UT
+:Date: 2025 03 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Mar 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7830      A0022   ////     A1518  HOL  2   DSF  S46W39    31                    
+
+7710       0228   0236      0240  G16  5   XRA  1-8A      C1.6    9.5E-04   4007
+
+7720       0418   0421      0425  G16  5   XRA  1-8A      C1.5    5.8E-04   4007
+
+7730       0715   0721      0726  G16  5   XRA  1-8A      C2.3    1.2E-03   4007
+
+7740 +     0819   ////      0819  LEA  C   RSP  025-075   III/1                 
+
+7750       0909   0909      0927  SVI  3   FLA  S12E53    SF                4012
+
+7760       1016   1024      1030  G16  5   XRA  1-8A      C1.9    1.3E-03   4012
+7760       1022   1024      1030  SVI  3   FLA  S12E52    SF                4012
+
+7770       1037   1038      1040  SVI  3   FLA  S12E52    SF                4012
+
+7780 +     1201   ////      1228  SVI  C   RSP  025-180   VI/2                  
+
+7790       1339   ////      1339  SVI  C   RSP  025-152   III/1                 
+7790       1339   ////      1408  SAG  C   RSP  025-180   VI/1                  
+
+7800       1405   ////      1408  SVI  C   RSP  025-180   III/2                 
+
+7810       1439   1451      1459  G16  5   XRA  1-8A      C2.5    2.6E-03   4006
+7810 +     1456   ////      1459  SVI  C   RSP  025-180   III/1                 
+
+7820       1632   1647      1720  G16  5   XRA  1-8A      C2.8    6.4E-03       
+
+7840       1908   ////      1918  PAL  C   RSP  025-061   III/1                 
+
+7850 +     1959   ////      2009  PAL  C   RSP  025-180   III/1                 
+
+7860 +     2053   ////      2054  SAG  C   RSP  025-092   III/1                 
+
+7870       2225   2233      2243  G16  5   XRA  1-8A      C1.6    1.7E-03   4012

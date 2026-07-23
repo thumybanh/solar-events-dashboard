@@ -1,0 +1,57 @@
+:Product: 20260601events.txt
+:Created: 2026 Jun 04 0357 UT
+:Date: 2026 06 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jun 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6560       0022   ////      0024  PAL  C   RSP  025-047   III/1                 
+
+6570       0139   ////      0142  PAL  C   RSP  025-080   III/1                 
+
+6580       0219   ////      0219  PAL  C   RSP  025-054   III/2                 
+
+6610       0323   ////      0500  PAL  C   RSP  025-074   CTM/1                 
+
+6590       0334   0334      0334  PAL  G   RBR  8800      250                   
+
+6600       0337   0337      0337  PAL  G   RBR  8800      280                   
+
+6620       0435   ////      0458  SVI  C   RSP  025-075   CTM/1                 
+
+6630       0503   ////      0503  SVI  C   RSP  025-084   III/1                 
+
+6640 +     0511   0519      0525  G18  5   XRA  1-8A      C1.5    1.0E-03   4449
+6640       0517   0518      0531  SVI  3   FLA  S10W31    SF                4449
+
+6650       0534   ////      0534  SVI  C   RSP  048-083   III/1                 
+
+6660       0612   ////      0630  SVI  C   RSP  025-180   VI/1                  
+6660       0626   0626      0626  LEA  G   RBR  245       190                   
+
+6670       0820   ////      0940  SVI  C   RSP  025-180   VI/2                  
+
+6680       1012   ////      1018  SVI  C   RSP  025-083   III/1                 
+
+6690       1100   ////      1132  SVI  C   RSP  025-083   VI/2                  
+6690       1119   1119      1119  SVI  G   RBR  245       130                   
+
+6700       1230   ////      1240  SVI  C   RSP  025-180   III/1                 
+
+6710       1316   ////      1647  SVI  C   RSP  025-180   VI/2                  
+
+6720       1708   ////      1709  SVI  C   RSP  025-180   III/2                 
+6720       1708   1709      1709  SVI  G   RBR  245       160                   
+
+6730       1727   1750      1824  HOL  3   FLA  S01E24    SF                    
+
+6770       1823   1836      1859  HOL  3   FLA  S01E24    SF                    
+
+6740       2239   2248      2257  HOL  2   FLA  N15E05    SF      DSD       4455
+6740       2248   ////      2253  PAL  C   RSP  025-038   III/1             4455

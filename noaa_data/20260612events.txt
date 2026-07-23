@@ -1,0 +1,60 @@
+:Product: 20260612events.txt
+:Created: 2026 Jun 15 0357 UT
+:Date: 2026 06 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jun 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9410       0056   ////      0134  PAL  C   RSP  025-075   VI/2                  
+
+9420 +     0204   0214      0218  G18  5   XRA  1-8A      C5.2    2.2E-03   4465
+
+9430 +     0225   0235      0245  G18  5   XRA  1-8A      C2.0    2.3E-03       
+
+9440       0253   0253      0253  LEA  G   RBR  245       120                   
+
+9450       0309   0309      0309  LEA  G   RBR  245       130                   
+
+9460       0328   0328      0328  LEA  G   RBR  245       100                   
+
+9480       0337   0337      0337  LEA  G   RNS  245       100                   
+
+9470       0522   ////      0702  SVI  C   RSP  025-083   VI/2                  
+9470 +     0555   0555      0555  LEA  G   RBR  245       360                   
+9470       0555   ////      0555  SVI  C   RSP  025-084   III/1                 
+
+9500       0732   ////      0736  SVI  C   RSP  025-081   III/1                 
+
+9510       0848   0851      0851  LEA  G   RBR  245       140                   
+
+9520       0922   0922      0923  LEA  G   RBR  245       160                   
+
+9630       0934   ////      0010  SAG  C   RSP  035-180   CTM/1                 
+
+9530       0934   0934      0934  SVI  G   RBR  245       110                   
+
+9540       1026   ////      1128  SVI  C   RSP  025-083   VI/1                  
+9540       1100   ////      1128  SAG  C   RSP  025-091   III/1                 
+
+9550 +     1212   1218      1223  G18  5   XRA  1-8A      C1.0    6.4E-04   4466
+9550       1215   1217      1228  SVI  3   FLA  N05W52    SF                4466
+
+9570 +     1232   ////      1703  SVI  C   RSP  025-083   VI/1                  
+
+9560 +     1349   1349      1349  SAG  G   RBR  245       130                   
+
+9580       1612   1613      1615  SVI  3   FLA  N04W53    SF                4466
+
+9600       1749   ////      1904  SAG  C   RSP  025-055   VI/1                  
+
+9590       1855   ////      1920  HOL  3   BSL  ////      0.29    B.9A          
+
+9610 +     2020   ////      2029  SAG  C   RSP  025-130   III/2                 
+
+9620       2049   2049      2049  SAG  G   RBR  245       180                   

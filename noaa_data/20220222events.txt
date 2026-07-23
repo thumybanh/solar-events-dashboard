@@ -1,0 +1,26 @@
+:Product: 20220222events.txt
+:Created: 2022 Feb 25 0357 UT
+:Date: 2022 02 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Feb 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8490       0056   ////      0157  LEA  3   DSF  S06W70    10                2946
+
+8500       0344   0353      0401  G16  5   XRA  1-8A      B3.4    3.1E-04       
+8500       0400   0404      0408  G16  5   XRA  1-8A      B4.0    1.8E-04       
+
+8510 +     0608   0614      0621  G16  5   XRA  1-8A      B3.6    2.5E-04       
+
+8520       0827   0832      0836  G17  5   XRA  1-8A      B2.1    9.6E-05       
+
+8530       1147   1154      1158  G16  5   XRA  1-8A      B2.0    1.1E-04       
+8530       1158   1204      1211  G16  5   XRA  1-8A      B4.6    2.6E-04       
+
+8540 +     1655   1702      1706  G16  5   XRA  1-8A      B2.4    1.4E-04       

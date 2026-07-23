@@ -1,0 +1,53 @@
+:Product: 20250211events.txt
+:Created: 2025 Feb 14 0357 UT
+:Date: 2025 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3070 +     0446   0456      0503  G16  5   XRA  1-8A      C2.9    6.3E-04   3981
+
+3080 +     0522   0535      0547  G16  5   XRA  1-8A      M1.6    1.6E-02   3981
+3080       0546   ////      0547  LEA  C   RSP  096-180   III/1                 
+
+3090 +     0612   0619      0623  G16  5   XRA  1-8A      C6.6    3.3E-03       
+
+3100       0736   ////      0738  SVI  C   RSP  034-083   III/2                 
+
+3110       0739   ////      0742  LEA  C   RSP  025-109   III/2                 
+
+3120       0835   ////      0836  SVI  C   RSP  025-045   III/2                 
+
+3130       0839   ////      0839  LEA  C   RSP  025-059   III/2                 
+
+3140       0948   ////      0950  SVI  C   RSP  025-083   III/2                 
+
+3150       0951   ////      0953  LEA  C   RSP  025-097   III/2                 
+
+3160 +     1028   1042      1104  G16  5   XRA  1-8A      C2.3    4.4E-03   3981
+
+3170 +     1210   1217      1226  G16  5   XRA  1-8A      C2.2    2.0E-03   3981
+
+3180 +     1328   1405      1444  G16  5   XRA  1-8A      C7.6    8.2E-04   3981
+3180       1402   ////      1421  SVI  C   RSP  062-084   VI/1                  
+3180       1416   1416      1416  SVI  G   RBR  245       140                   
+3180 +     1416   ////      1416  SVI  C   RSP  075-127   III/2                 
+
+3190 +     1517   1523      1530  G16  5   XRA  1-8A      C3.3    2.5E-03   3981
+
+3200       1534   ////      1534  SAG  C   RSP  025-046   III/2                 
+
+3210 +     1805   1825      1843  G16  5   XRA  1-8A      C7.2    1.1E-02   3991
+
+3220 +     2217   2246      2331  G16  5   XRA  1-8A      C3.2    1.2E-02   3990
+3220       2231   ////      2235  PAL  C   RSP  080-180   III/1                 
+3220       2234   ////      2249  LEA  C   RSP  025-180   VI/1                  
+3220       2240   2240      2240  PAL  G   RBR  245       170                   
+
+3230       2326   2328      2329  PAL  G   RBR  245       330                   

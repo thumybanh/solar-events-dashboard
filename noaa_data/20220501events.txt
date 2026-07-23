@@ -1,0 +1,84 @@
+:Product: 20220501events.txt
+:Created: 2022 May 04 0357 UT
+:Date: 2022 05 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 May 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1630 +     0003   ////      0014  LEA  C   RSP  025-167   III/2                 
+
+1640       0006   0006      0006  LEA  G   RBR  610       110                   
+
+1650       0012   ////      0152  PAL  C   RSP  025-154   VI/2                  
+1650 +     0046   0046      0046  LEA  G   RBR  245       190                   
+1650       0102   ////      0104  LEA  C   RSP  025-086   III/2                 
+
+1660       0133   ////      0134  LEA  C   RSP  061-145   III/1                 
+
+1670 +     0247   ////      0251  LEA  C   RSP  025-110   III/2                 
+
+1680 +     0336   ////      0337  PAL  C   RSP  025-053   III/1                 
+
+1690 +     0428   ////      0430  PAL  C   RSP  025-180   III/2                 
+1690       0428   ////      0440  LEA  C   RSP  025-180   V/2                   
+1690 +     0429   0429      0429  LEA  G   RBR  610       120                   
+
+1700 +     0522   ////      0522  LEA  C   RSP  025-150   III/2                 
+
+1710 +     0555   0555      0555  LEA  G   RBR  245       100                   
+
+1720       0555   ////      0555  SVI  C   RSP  025-055   III/1                 
+
+1730 +     0612   ////      0616  LEA  C   RSP  025-105   III/1                 
+
+1740       0651   ////      0726  SVI  3   EPL  ////      0.53    B.9A          
+1740       0719   ////      0933  SVI  C   RSP  026-126   VI/2                  
+
+1750 +     0810   0816      0822  G16  5   XRA  1-8A      C1.8    1.1E-03   2994
+1750 +     0814   0814      0815  SVI  G   RBR  245       1300                  
+1750       0814   ////      0830  LEA  C   RSP  025-180   V/3                   
+1750       0814   ////      0823  SVI  C   RSP  025-180   III/3                 
+1750 +     0814   0815      0815  SVI  G   RBR  410       340                   
+
+1760       0826   ////      0853  SVI  3   BSL  ////      0.19    B.9A          
+
+1770 +     1055   1128      1152  G16  5   XRA  1-8A      C3.1    5.2E-03       
+1770 +     1155   ////      1200  SVI  C   RSP  025-138   III/2                 
+
+1780 +     1314   1326      1342  G16  5   XRA  1-8A      C2.6    3.7E-03   2996
+
+1790       1314   ////      1420  SAG  C   RSP  025-180   VI/2                  
+
+1780       1316   ////      1420  SVI  C   RSP  025-156   VI/2              2996
+1780      B1319  U1320     A1331  SVI  2   FLA  N25W71    SF      ERU       2996
+
+1800       1507   1507      1507  SAG  U   RBR  610       110                   
+
+1810       1508   1508      1508  SAG  U   RBR  410       150                   
+
+1820 +     1519   ////      1520  SVI  C   RSP  025-084   III/1                 
+
+1830 +     1542   ////      1544  SAG  C   RSP  025-180   III/2                 
+
+1980      A1546   ////     A1044  SVI  2   DSF  S31E45    12                    
+
+1990      A1546   ////     A1044  SVI  2   DSF  S30E10    10                    
+
+1840       1644   ////      1652  SAG  C   RSP  025-046   III/1                 
+
+1850       1726   ////      1823  SAG  C   RSP  025-050   VI/1                  
+1850 +     1807   1832      1852  G16  5   XRA  1-8A      C1.7    4.3E-03   2994
+1850 +     1830   ////      1831  PAL  C   RSP  025-179   III/1                 
+1850 +     1830   1830      1831  PAL  G   RBR  245       150                   
+
+1860       2127   ////      2127  SAG  C   RSP  025-073   III/1                 
+
+1870 +     2203   2218      2235  G16  5   XRA  1-8A      C2.5    4.0E-03   2994
+1870       2212   ////      2212  SAG  C   RSP  025-054   III/1                 
+1870 +     2234   2234      2234  PAL  G   RBR  245       1000                  

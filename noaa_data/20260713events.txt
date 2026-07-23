@@ -1,0 +1,30 @@
+:Product: 20260713events.txt
+:Created: 2026 Jul 16 0357 UT
+:Date: 2026 07 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jul 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7590       0035   0035      0035  LEA  G   RBR  245       120                   
+
+7600 +     0833   0840      0842  G18  5   XRA  1-8A      B6.0    3.4E-04   4489
+
+7610       1147   ////      1153  SAG  C   RSP  025-054   III/1                 
+
+7620       1247   ////      1506  SAG  C   RSP  025-075   VI/1                  
+7620       1324   ////      1328  SAG  C   RSP  025-180   III/2                 
+
+7630 +     1543   1555      1616  G18  5   XRA  1-8A      B7.8    1.4E-03   4485
+7630       1550   ////      1658  SAG  C   RSP  025-137   VI/2                  
+
+7640 +     1733   1747      1800  G18  5   XRA  1-8A      C1.4    2.0E-03   4485
+
+7650 +     1815   1822      1833  G18  5   XRA  1-8A      C1.3    1.4E-03   4489
+
+7660 +     2245   2251      2254  G18  5   XRA  1-8A      B6.6    3.5E-04   4485

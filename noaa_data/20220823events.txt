@@ -1,0 +1,47 @@
+:Product: 20220823events.txt
+:Created: 2022 Aug 26 0357 UT
+:Date: 2022 08 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Aug 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5720 +     0039   0047      0052  G16  5   XRA  1-8A      B5.0    3.5E-04   3085
+
+5730 +     0200   0211      0217  G16  5   XRA  1-8A      C1.3    1.1E-03   3086
+
+5740       0350   ////      0614  LEA  C   RSP  135-180   CTM/1                 
+
+5750 +     0515   0524      0534  G16  5   XRA  1-8A      B4.5    2.8E-04   3086
+5750       0522   0544      0610  SVI  3   FLA  S23E54    SF                    
+
+5760 +     0854   0902      0906  G16  5   XRA  1-8A      B7.7    5.0E-04   3081
+
+5770 +     1300   ////      1301  SAG  C   RSP  025-047   III/1                 
+
+5780 +     1337   ////      1340  SVI  U   RSP  025-054   III/1                 
+
+5790 +     1348   1354      1401  G16  5   XRA  1-8A      B3.0    2.0E-04       
+
+5800 +     1532   1540      1549  G16  5   XRA  1-8A      B5.8    4.7E-04       
+
+5810       1715   1715      1715  SAG  U   RBR  245       100                   
+
+5820       1718   1718      1718  SVI  G   RBR  245       110                   
+
+5830       1721   1721      1721  SAG  U   RBR  245       120                   
+
+5870       1736   1737      1740  SAG  U   RNS  245       150                   
+
+5840 +     1821   1828      1842  G16  5   XRA  1-8A      B3.8    3.8E-04       
+
+5850       1904   ////      1925  PAL  C   RSP  025-061   VI/1                  
+
+5860 +     1932   1940      1946  G16  5   XRA  1-8A      B5.2    4.0E-04       
+
+5880       2217   ////      2217  PAL  C   RSP  025-058   III/1                 

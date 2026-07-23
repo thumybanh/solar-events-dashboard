@@ -1,0 +1,67 @@
+:Product: 20220107events.txt
+:Created: 2022 Jan 10 0357 UT
+:Date: 2022 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 570       0050   0050      0050  LEA  G   RBR  245       110                   
+
+ 580 +     0133   0141      0145  G16  5   XRA  1-8A      B6.6    3.6E-04   2924
+
+ 590       0324   ////      0330  LEA  C   RSP  025-180   III/2                 
+
+ 600 +     0347   0401      0427  G16  5   XRA  1-8A      B7.1    1.4E-03       
+
+ 610       0450   ////      0456  LEA  C   RSP  025-098   III/1                 
+
+ 620 +     0551   0600      0614  G16  5   XRA  1-8A      B5.4    7.0E-04   2925
+
+ 630       0647   ////      1100  SVI  C   RSP  078-180   CTM/1                 
+
+ 640 +     0804   0813      0820  G16  5   XRA  1-8A      C1.1    6.9E-04   2924
+
+ 650 +     0842   0846      0850  G16  5   XRA  1-8A      B5.2    2.2E-04       
+
+ 660 +     0918   0923      0935  G16  5   XRA  1-8A      B4.0    3.8E-04       
+
+ 670 +     1028   1036      1047  G16  5   XRA  1-8A      B5.9    5.8E-04       
+
+ 780       1135   1211      1230  SVI  G   RNS  245       1400                  
+
+ 680       1141   ////      1251  SVI  C   RSP  124-180   CTM/1                 
+ 680 +     1158   1205      1213  G16  5   XRA  1-8A      B4.4    3.6E-04       
+ 680       1211   ////      1211  SVI  C   RSP  025-180   III/1                 
+
+ 690 +     1428   1436      1446  G16  5   XRA  1-8A      B7.8    7.0E-04       
+
+ 700       1458   1501      1504  HOL  3   FLA  S32E15    SF                2924
+
+ 710       1509   1518      1520  HOL  3   FLA  S32E15    SF                2924
+
+ 720       1539   1539      1546  HOL  3   FLA  S32E15    SF                2924
+ 720       1541   1542      1542  SAG  U   RBR  245       130               2924
+
+ 730       1645   1645      1645  SAG  U   RBR  245       110                   
+
+ 740 +     1652   1659      1703  G16  5   XRA  1-8A      B6.8    4.0E-04   2924
+
+ 750       1752   1752      1752  SAG  U   RBR  245       150                   
+
+ 760       1827   1828      1828  SAG  U   RBR  245       150                   
+
+ 770 +     1845   1853      1901  G16  5   XRA  1-8A      B7.1    6.2E-04   2924
+
+ 790       1935   1935      1935  SAG  U   RBR  245       200                   
+
+ 800       1938   1938      1938  SAG  U   RBR  245       110                   
+
+ 810 +     2105   2108      2113  G16  5   XRA  1-8A      B9.2    4.5E-04       
+
+ 820 +     2201   2210      2214  G16  5   XRA  1-8A      C2.7    1.0E-03   2924

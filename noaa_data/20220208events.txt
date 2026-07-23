@@ -1,0 +1,47 @@
+:Product: 20220208events.txt
+:Created: 2022 Feb 11 0357 UT
+:Date: 2022 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6820       0000   ////      0734  LEA  C   RSP  112-180   CTM/1                 
+
+6770       0007   0007      0007  PAL  G   RBR  245       140                   
+
+6780       0049   0049      0050  PAL  G   RBR  245       300                   
+
+6790 +     0519   0524      0530  G16  5   XRA  1-8A      B7.3    4.6E-04   2940
+
+6800       0537   ////      0537  LEA  C   RSP  025-180   III/1                 
+
+6810 +     0707   0717      0726  G16  5   XRA  1-8A      B9.7    9.6E-04   2940
+
+6830       1415   1415      1415  SAG  U   RBR  410       48                    
+
+6840       1416   1416      1416  SAG  U   RBR  245       190                   
+
+6850       1434   1434      1434  SAG  U   RBR  245       100                   
+6850 +     1443   ////      1457  SAG  C   RSP  025-180   VI/1                  
+6850 +     1510   ////      1605  SVI  C   RSP  115-180   CTM/1                 
+
+6860       1623   1623      1623  SAG  U   RBR  245       170                   
+
+6870 +     1625   1639      1652  G16  5   XRA  1-8A      C1.1    1.6E-03   2939
+6870       1632   1633      1633  SAG  U   RBR  245       290                   
+6870       1633   ////      1633  SAG  C   RSP  025-180   III/1                 
+
+6880 +     1720   1727      1735  G16  5   XRA  1-8A      B8.1    6.8E-04   2941
+
+6890       2050   ////      2050  PAL  C   RSP  079-180   III/1                 
+
+6900 +     2129   2145      2156  G16  5   XRA  1-8A      C5.1    4.6E-03   2939
+6900       2137   2140      2138  HOL  3   FLA  S16W42    SN      ERU       2939
+6900       2137   ////      2140  PAL  C   RSP  025-180   III/1             2939
+6900       2141   ////      2148  PAL  C   RSP  038-180   II/1    642       2939

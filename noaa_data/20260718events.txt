@@ -1,0 +1,37 @@
+:Product: 20260718events.txt
+:Created: 2026 Jul 21 0357 UT
+:Date: 2026 07 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jul 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8050 +     0038   0120      0208  G18  5   XRA  1-8A      C2.2    1.0E-02       
+
+8060       0310   ////      0310  PAL  C   RSP  025-075   III/2                 
+
+8070 +     0338   0345      0353  G18  5   XRA  1-8A      B9.0    8.2E-04       
+
+8080 +     0356   0405      0414  G18  5   XRA  1-8A      C2.3    1.9E-03   4489
+8080       0403   0406      0412  LEA  3   FLA  S07E14    SF                4489
+
+8090       1434   ////      1528  SAG  C   RSP  025-180   VI/2                  
+
+8110       1643   ////      2247  SAG  C   RSP  025-180   VI/2                  
+
+8100       1817   ////      1849  PAL  C   RSP  025-073   VI/2                  
+
+8120       1921   ////      1927  PAL  C   RSP  025-075   III/2                 
+
+8130       2130   ////      2141  PAL  C   RSP  025-075   III/2                 
+8130 +     2139   2152      2203  G18  5   XRA  1-8A      C1.5    1.7E-03   4492
+8130       2150   ////      2359  PAL  C   RSP  025-088   CTM/1                 
+
+8140       2204   ////      2209  PAL  C   RSP  025-073   III/2                 
+
+8150       2323   ////      2323  PAL  C   RSP  025-054   III/1                 

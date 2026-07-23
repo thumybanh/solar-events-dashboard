@@ -1,0 +1,41 @@
+:Product: 20220114events.txt
+:Created: 2022 Jan 17 0357 UT
+:Date: 2022 01 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jan 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1780 +     0147   0203      0214  G16  5   XRA  1-8A      M1.8    1.4E-02       
+
+1790       0342   ////      0342  LEA  C   RSP  025-059   III/1                 
+
+1800 +     0459   0508      0515  G16  5   XRA  1-8A      B7.8    6.4E-04       
+
+1810       0607   ////      0616  LEA  C   RSP  025-097   III/1                 
+
+1820       0817   ////      0818  SVI  C   RSP  025-083   III/1                 
+
+1830       0819   ////      0819  LEA  C   RSP  035-058   III/1                 
+
+1840 +     1144   1154      1203  G16  5   XRA  1-8A      C2.1    1.7E-03       
+
+1860 +     1307   1334      1416  G16  5   XRA  1-8A      C4.3    5.2E-03   2925
+1860       1315   1325     A1341  SVI  3   FLA  S37W35    1F      ERU       2925
+1860 +     1318   1319      1319  SVI  G   RBR  245       130               2925
+1860 +     1320   ////      1340  SVI  C   RSP  025-085   VI/1              2925
+1860 +     1344   1350      1358  SVI  G   RBR  410       620               2925
+1860 +     1348   1349      1400  SAG  U   RBR  610       200               2925
+
+1880 +     1416   1423      1428  G16  5   XRA  1-8A      C3.5    2.4E-03   2924
+1880 +     1417   ////      1422  SVI  C   RSP  025-180   V/2                   
+
+1890       1925   1939      1946  G16  5   XRA  1-8A      C2.5    1.8E-03   2932
+1890       1935   1938      1943  HOL  3   FLA  N31E83    SF                    
+
+1900       1949   ////      2013  HOL  3   EPL  ////      0.15                  

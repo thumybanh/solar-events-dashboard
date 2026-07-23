@@ -1,0 +1,94 @@
+:Product: 20230806events.txt
+:Created: 2023 Aug 09 0357 UT
+:Date: 2023 08 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Aug 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 620      B0000   ////     B0058  HOL  3   LPS  ////      0.02              3386
+ 620      B0000   0010      0023  HOL  3   FLA  N10W77    SF      ERU       3386
+
+ 780       0015   0034      0103  HOL  3   FLA  N19W48    SF      ERU       3387
+
+ 620       0021   ////      0025  LEA  C   RSP  025-180   III/1             3386
+
+ 630       0107   0110      0115  HOL  3   FLA  N22W48    SF      ERU       3387
+
+ 760 +    A0116   ////     A1436  HOL  3   DSF  S22E18    13                    
+
+ 640       0142   ////      0143  LEA  C   RSP  025-180   III/2                 
+
+ 670       0333   ////      0610  LEA  C   RSP  025-180   VI/1                  
+
+ 650      B0437   0441      0452  SVI  3   FLA  N18W48    SF      ERU       3387
+ 650       0444   ////      0530  SVI  C   RSP  070-180   CTM/1             3387
+
+ 660       0454   0454      0457  SVI  3   FLA  N18W48    SF                3387
+
+ 680       0500   ////      0554  SVI  C   RSP  025-084   VI/1                  
+ 680 +     0545   0550      0556  G16  5   XRA  1-8A      C2.8    1.8E-03   3387
+
+ 690 +     0649   ////      0657  SVI  C   RSP  025-084   III/2             3387
+ 690       0653   0657      0702  SVI  3   FLA  N21W55    SF                3387
+
+ 700       0740   ////      0751  SVI  C   RSP  025-180   VI/2                  
+ 700       0745   ////      0750  LEA  C   RSP  025-180   III/1                 
+
+ 710       0843   ////      0844  SVI  C   RSP  025-060   III/1                 
+
+ 720       0919   ////      0919  SVI  C   RSP  025-073   III/1                 
+
+ 740 +     1008   ////      1120  SVI  C   RSP  025-084   VI/1                  
+
+ 730 +     1045   1103      1115  G16  5   XRA  1-8A      C6.7    8.1E-03   3387
+ 730       1102   1103      1117  SVI  3   FLA  N15W56    SF                3387
+
+ 750 +     1158   ////      1420  SVI  C   RSP  025-180   VI/2                  
+
+ 790       1259   ////      1421  SAG  C   RSP  025-180   VI/2                  
+
+ 800       1431   1606      1751  HOL  3   FLA  N17W59    1N      DSD       3387
+ 800 +     1522   ////      1523  SVI  C   RSP  025-075   III/1             3387
+
+ 930       1553   ////      2136  SAG  C   RSP  025-180   VI/2                  
+
+ 810       1553   ////      1614  SVI  C   RSP  025-180   VI/2                  
+
+ 820      B1620  U1637      1655  SVI  3   FLA  N18W58    SF                3387
+
+ 830       1657   ////      1658  SVI  C   RSP  025-062   III/1                 
+
+ 840       1712   1712      1720  HOL  3   FLA  S27E29    SF                3394
+
+ 850       1752   1758      1802  HOL  3   FLA  N17W59    SF                3387
+
+ 860       1805   1806      1808  HOL  3   FLA  N09W89    SF                3386
+
+ 940       1818   ////      2129  PAL  C   RSP  025-180   III/1                 
+
+ 890 +     1820   1840      1854  G16  5   XRA  1-8A      M5.5    6.0E-02   3386
+ 890       1826   1839      1854  PAL  G   RBR  8800      1800              3386
+ 890       1827   1842      1852  PAL  G   RBR  4995      1300              3386
+ 890       1828   1828      1828  PAL  G   RBR  245       630               3386
+ 890       1829   1831      1831  PAL  G   RBR  1415      260               3386
+ 890       1833   1840      1911  HOL  3   FLA  N07W86    SN                3386
+
+ 900       1920   1921      1922  PAL  G   RBR  410       240                   
+ 900       1921   1921      1921  PAL  G   RBR  610       130                   
+
+ 910       1929   1930      1930  PAL  G   RBR  610       190                   
+
+ 920       1934   1936      1942  PAL  G   RBR  245       360               3387
+ 920       1935   1935      1936  PAL  G   RBR  410       180               3387
+ 920       1940   2110      2118  HOL  3   FLA  N16W61    SF      ERU       3387
+ 920       1940   1940      1940  PAL  G   RBR  610       130               3387
+
+ 950       2213   ////      2213  PAL  C   RSP  025-053   III/1                 
+
+ 960 +     2235   ////      2243  PAL  C   RSP  025-116   III/3                 

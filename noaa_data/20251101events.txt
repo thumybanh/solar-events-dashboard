@@ -1,0 +1,47 @@
+:Product: 20251101events.txt
+:Created: 2025 Nov 04 0357 UT
+:Date: 2025 11 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Nov 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2010       0046   ////      0049  LEA  C   RSP  025-118   III/1                 
+
+2000       0049   0049      0049  LEA  G   RBR  245       130                   
+
+2030 +     0618   ////      0619  LEA  C   RSP  025-180   III/2                 
+
+2040       0711   ////      0711  SVI  C   RSP  138-155   III/1                 
+
+2050 +     0748   ////      0749  LEA  C   RSP  025-096   III/2                 
+
+2060 +     0816   0830      0841  G18  5   XRA  1-8A      C3.0    3.1E-03       
+
+2070       0849   ////      0853  LEA  C   RSP  025-180   III/2                 
+2070       0849   ////      0924  SVI  C   RSP  025-180   VI/2                  
+
+2080 +     1027   1034      1039  G18  5   XRA  1-8A      C1.2    8.0E-04       
+
+2090       1052   ////      1057  SVI  C   RSP  025-180   III/2                 
+
+2100       1155   1202      1206  G19  5   XRA  1-8A      B9.1    6.1E-04       
+
+2110 +     1224   ////      1224  SVI  C   RSP  025-084   III/1                 
+
+2120 +     1649   1655      1700  G18  5   XRA  1-8A      C4.7    2.1E-03   4267
+2120 +     1651   ////      1657  SAG  C   RSP  025-180   III/2             4267
+2120 +     1651   1651      1653  SAG  G   RBR  610       260               4267
+2120 +     1651   1652      1653  SAG  G   RBR  245       820               4267
+2120       1652   1652      1704  HOL  3   FLA  S00W50    SF      PRB       4267
+
+2130       2119   ////      2147  PAL  C   RSP  025-062   VI/1                  
+
+2140 +     2311   2322      2335  G18  5   XRA  1-8A      C2.8    3.3E-03       
+
+2150 +     2348   2358      0006  G18  5   XRA  1-8A      C1.8    2.0E-03       

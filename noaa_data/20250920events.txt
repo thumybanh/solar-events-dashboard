@@ -1,0 +1,61 @@
+:Product: 20250920events.txt
+:Created: 2025 Sep 23 0357 UT
+:Date: 2025 09 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Sep 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2340       0000   ////      0007  LEA  C   RSP  025-180   III/2                 
+2340 +     0007   0007      0007  LEA  G   RBR  245       480                   
+2340       0007   0007      0007  LEA  G   RBR  410       100                   
+
+2350       0057   ////      0100  LEA  C   RSP  025-090   III/2                 
+
+2360 +     0141   ////      0146  LEA  C   RSP  025-180   III/2                 
+2360 +     0145   0145      0145  LEA  G   RBR  245       140                   
+2360       0145   0145      0145  PAL  G   RBR  410       110                   
+
+2380       0145   0145      0157  PAL  G   RNS  245       110                   
+
+2370 +     0210   ////      0219  LEA  C   RSP  025-116   III/2                 
+
+2390       0315   ////      0320  LEA  C   RSP  025-087   III/2                 
+
+2400       0417   ////      0422  LEA  C   RSP  025-058   III/2                 
+
+2410       0434   0452      0521  G18  5   XRA  1-8A      C2.6    6.8E-03   4219
+2410       0504   ////      0553  LEA  C   RSP  025-180   VI/2                  
+
+2470       0702   0708      0718  G18  5   XRA  1-8A      C1.5    1.4E-03   4216
+
+2420       0749   0749      0749  LEA  G   RBR  245       100                   
+
+2430       0754   ////      0755  LEA  C   RSP  025-088   III/2                 
+
+2440       0825   0825      0826  LEA  G   RBR  245       230                   
+
+2450       0829   0829      0830  LEA  G   RBR  245       100                   
+
+2480       0841   0848      0859  G18  5   XRA  1-8A      C1.3    1.4E-03   4216
+
+2460       0923   0923      0923  LEA  G   RBR  245       230                   
+
+2490       1343   1343      1343  SAG  G   RBR  245       130                   
+
+2500       1346   1347      1347  SAG  G   RBR  245       160                   
+
+2510       1409   ////      1409  SAG  C   RSP  025-180   III/2                 
+
+2520       1530   1533      1536  G19  5   XRA  1-8A      C1.6    6.8E-04   4220
+
+2530 +     1654   1654      1654  SAG  G   RBR  245       140                   
+
+2540       1850   1850      1850  SAG  G   RBR  245       100                   
+
+2550 +     1957   2011      2034  G18  5   XRA  1-8A      C3.4    6.3E-03   4220

@@ -1,0 +1,56 @@
+:Product: 20260604events.txt
+:Created: 2026 Jun 07 0357 UT
+:Date: 2026 06 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jun 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7400 +     0154   0200      0205  G18  5   XRA  1-8A      C1.8    1.1E-03   4458
+
+7410       0208   0208      0208  LEA  G   RBR  245       560                   
+
+7420       0259   ////      0259  PAL  C   RSP  025-075   III/1                 
+
+7430 +     0341   0357      0406  G18  5   XRA  1-8A      C2.6    3.4E-03   4457
+7430      B0415  U0415      0422  SVI  3   FLA  S08W59    SF                4457
+
+7450       0519   ////      0519  SVI  C   RSP  025-066   III/1                 
+
+7460       0559   ////      0559  SVI  C   RSP  025-063   III/1                 
+
+7470 +     0616   0623      0630  G18  5   XRA  1-8A      C1.2    1.0E-03   4461
+
+7480 +     0631   0638      0640  G18  5   XRA  1-8A      C1.5    8.8E-04   4446
+7480       0636   ////      0717  SVI  C   RSP  025-075   VI/1                  
+
+7490       0847   ////      0853  SVI  C   RSP  074-155   III/1                 
+
+7500       1005   ////      1005  SVI  C   RSP  025-075   III/1                 
+
+7510       1124   ////      1212  SVI  C   RSP  025-147   VI/2                  
+
+7520       1248   ////      1249  SVI  C   RSP  025-180   III/1                 
+7520       1249   1249      1249  SVI  G   RBR  245       170                   
+
+7530 +     1250   1258      1309  G18  5   XRA  1-8A      C1.5    1.8E-03   4455
+7530       1254   ////      1257  SVI  C   RSP  025-180   III/1             4455
+7530       1254   1254      1257  SVI  G   RBR  245       150               4455
+7530       1255   1257      1259  SVI  3   FLA  N12W30    SF                4455
+7530       1302   ////      1410  SVI  C   RSP  025-180   VI/1              4455
+
+7540       1451   ////      1451  SVI  C   RSP  025-058   III/1                 
+
+7550 +     1553   1558      1606  G18  5   XRA  1-8A      C1.6    1.3E-03   4452
+
+7560 +     1625   1635      1644  G18  5   XRA  1-8A      C1.8    2.1E-03   4452
+7560       1628   ////      1629  SVI  C   RSP  025-060   III/1                 
+
+7580 +     2337   2342      2345  G18  5   XRA  1-8A      C1.5    7.5E-04   4457
+
+7570       2340   2340      2340  LEA  G   RBR  245       120                   

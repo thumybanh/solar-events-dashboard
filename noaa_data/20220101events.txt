@@ -1,0 +1,34 @@
+:Product: 20220101events.txt
+:Created: 2022 Jan 04 0357 UT
+:Date: 2022 01 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jan 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  70 +     0025   0031      0042  G16  5   XRA  1-8A      B2.9    2.7E-04       
+
+  80       0453   ////      0453  LEA  C   RSP  025-117   III/1                 
+
+  90 +     0707   0730      0742  G16  5   XRA  1-8A      M1.1    1.4E-02   2918
+  90       0716   0724      0744  LEA  3   FLA  N21W79    SF      DSD       2918
+
+ 100 +     1236   1243      1249  G16  5   XRA  1-8A      B3.4    2.4E-04       
+
+ 110 +     1337   1344      1347  G16  5   XRA  1-8A      B5.2    2.4E-04   2916
+ 110 +     1342   ////      1343  SAG  C   RSP  025-180   III/3                 
+
+ 160       1347   1354      1359  G16  5   XRA  1-8A      B4.3    3.3E-04   2918
+
+ 120 +     1448   1501      1506  G16  5   XRA  1-8A      B6.8    5.0E-04   2916
+
+ 130 +     1611   1621      1626  G16  5   XRA  1-8A      B3.9    2.9E-04   2918
+
+ 140 +     1727   1736      1746  G16  5   XRA  1-8A      B4.1    3.9E-04   2918
+
+ 150 +     1859   1909      1915  G16  5   XRA  1-8A      C2.3    1.3E-03   2918

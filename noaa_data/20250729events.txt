@@ -1,0 +1,50 @@
+:Product: 20250729events.txt
+:Created: 2025 Aug 01 0357 UT
+:Date: 2025 07 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9940 +     0426   ////      0939  SVI  C   RSP  025-180   VI/2                  
+9940       0426   ////      0939  SVI  C   RSP  025-180   III/2                 
+
+9930 +     0500   0511      0521  G18  5   XRA  1-8A      C3.1    3.2E-03   4155
+9930 +     0506   0511      0518  LEA  3   FLA  S09E04    SF                4155
+
+9950       0555   ////      0914  LEA  C   RSP  025-107   VI/2                  
+
+9960 +     0910   0910      0910  SVI  G   RBR  245       120                   
+
+9970      B1045  U1045      1058  SVI  3   FLA  S08W41    SF                4159
+
+9980       1202   ////      1235  SAG  C   RSP  025-084   VI/1                  
+9980       1202   ////      1207  SVI  C   RSP  025-083   III/1                 
+
+9990       1231   ////      1318  SVI  C   RSP  025-055   VI/1                  
+
+  10 +     1336   1345      1354  G18  5   XRA  1-8A      C1.7    1.8E-03   4155
+  10      B1339  U1345     A1346  SVI  3   FLA  S08W01    SF                4155
+
+  50       1410   ////      1932  SAG  C   RSP  025-180   VI/2                  
+
+  20       1417   ////      1419  SVI  C   RSP  025-180   III/2                 
+
+  30       1516   ////      1537  SVI  C   RSP  025-180   VI/1                  
+
+  40       1618   ////      1621  SVI  C   RSP  037-075   III/1                 
+
+  60       1851   ////      1852  PAL  C   RSP  025-137   III/2                 
+
+  70       2015   ////      2046  SAG  C   RSP  025-090   VI/1                  
+  70       2025   ////      2025  PAL  C   RSP  025-053   III/2                 
+
+  80 +     2159   2205      2207  G18  5   XRA  1-8A      C3.7    1.2E-03       
+  80 +     2203   ////      2205  PAL  C   RSP  025-180   III/1                 
+
+  90 +     2340   2345      2347  G18  5   XRA  1-8A      C2.2    9.5E-04       

@@ -1,0 +1,61 @@
+:Product: 20230821events.txt
+:Created: 2023 Aug 24 0357 UT
+:Date: 2023 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4000 +     0200   0200      0202  LEA  G   RBR  245       150                   
+
+4010       0236   0236      0236  LEA  G   RBR  245       170                   
+
+4020 +     0247   0247      0247  LEA  G   RBR  245       210                   
+
+4030       0354   0354      0354  LEA  G   RBR  245       510                   
+
+4100       0518   0528      0533  G16  5   XRA  1-8A      C1.5    4.7E-04       
+
+4040 +     0533   0545      0602  G16  5   XRA  1-8A      C2.0    7.3E-04       
+
+4050       0605   ////      0605  SVI  C   RSP  025-050   III/1                 
+
+4060 +     0735   0753      0811  G16  5   XRA  1-8A      C4.3    6.4E-03       
+
+4070       0832   ////      0833  SVI  C   RSP  025-063   III/1                 
+
+4080       0835   0837      0840  SVI  G   RBR  245       140                   
+4080 +     0836   ////      1729  SVI  C   RSP  025-180   CTM/1                 
+
+4090 +     0851   0852      0853  SVI  G   RNS  245       270                   
+
+4120       1008   ////      1836  SAG  C   RSP  025-180   CTM/1                 
+
+4110 +     1218   1238      1253  G16  5   XRA  1-8A      C3.1    4.7E-03   3403
+4110 +     1223   ////      1224  SAG  C   RSP  025-085   III/1             3403
+4110       1235   1236      1247  SVI  3   FLA  N26W76    SF                3403
+
+4170       1529   ////      1640  HOL  3   DSF  S06W26    12                3404
+
+4130       1607   1614      1620  HOL  3   FLA  N09E74    SF      ERU       3413
+
+4140       1730   1735      1736  HOL  3   FLA  N22W73    SF      ERU       3403
+
+4150       1748   1748      1748  PAL  G   RBR  245       110                   
+
+4160       1900   1909      1918  G18  5   XRA  1-8A      C1.3    1.3E-03       
+
+4180       1949   ////      2108  SAG  C   RSP  112-180   CTM/1                 
+4180       1956   ////      2015  SAG  C   RSP  025-075   VI/1                  
+
+4190       2053   ////      2154  SAG  C   RSP  025-075   VI/1                  
+
+4200 +     2323   2343      2347  G16  5   XRA  1-8A      C4.7    5.8E-03   3413
+4200       2332   2336      2355  HOL  3   FLA  N08E69    SF                3413
+
+4210 +     2347   ////      0007  G16  5   XRA  1-8A      C5.7    6.7E-03       

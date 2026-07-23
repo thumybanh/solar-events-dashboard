@@ -1,0 +1,70 @@
+:Product: 20250827events.txt
+:Created: 2025 Aug 30 0357 UT
+:Date: 2025 08 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Aug 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7810       0020   ////      0021  LEA  C   RSP  025-048   III/2                 
+7810       0020   ////      0050  PAL  C   RSP  025-075   VI/1                  
+
+7820 +     0157   ////      0157  LEA  C   RSP  025-052   III/2                 
+
+7830       0414   ////      0414  PAL  C   RSP  134-180   III/1                 
+7830 +     0414   0414      0414  LEA  G   RBR  245       520                   
+
+7840       0525   0525      0527  SVI  3   FLA  S13E38    SF                4197
+
+7850       0551   ////      0645  SVI  C   RSP  025-118   VI/1                  
+7850       0551   ////      0645  LEA  C   RSP  025-163   III/2                 
+
+7860 +     0836   ////      0845  SVI  C   RSP  025-084   III/1                 
+
+7870 +     1227   1250      1333  G18  5   XRA  1-8A      C9.2    2.7E-02   4199
+7870       1234   1236      1458  SVI  3   FLA  N05E56    SF                4199
+
+7880 +     1338   ////      1355  SVI  C   RSP  025-180   VI/2                  
+
+7890 +     1424   1433      1442  G18  5   XRA  1-8A      C5.4    5.6E-03   4199
+7890       1431   1439      1445  HOL  3   FLA  N07E55    SF                4199
+
+8300      A1628   ////     A0505  SVI  3   DSF  N49W15    13                    
+
+7900       1926   2017      2024  HOL  2   FLA  S18E33    SF      ERU       4197
+7900       1956   ////      2000  PAL  C   RSP  025-071   III/2             4197
+
+7960       2008   2011      2024  HOL  2   FLA  N11E10    SF      ERU       4198
+
+7950       2010   2012      2018  HOL  3   FLA  N10W77    SF                4203
+
+7970       2032   2034      2041  HOL  3   FLA  N10E09    SF                4198
+
+7980       2058   2058      2105  HOL  3   FLA  N10W77    SF                4203
+
+7920       2103   2103      2126  HOL  3   FLA  S17E27    SF      ERU       4197
+
+7990       2116   2159      2234  HOL  3   FLA  S08W13    SF      ERU       4200
+
+8000       2120   2125      2130  HOL  3   FLA  N10W77    SF                4203
+
+7930       2127   2232      2235  HOL  3   FLA  S18E32    SF                4197
+
+8010       2132   2139      2154  HOL  3   FLA  N10W75    SF                4203
+
+8020       2141   2144      2156  HOL  3   FLA  N14W08    SF                4191
+
+8030       2204   2204      2205  HOL  3   FLA  N08E55    SF                4204
+
+7940       2234   2235      2244  HOL  3   FLA  N10W75    SF                4203
+
+8040       2242   2248      2253  HOL  3   FLA  S15E32    SF                4197
+
+8070       2243   2312      2314  HOL  3   FLA  S17E32    SF      ERU       4197
+
+8050       2307   2313      2318  HOL  3   FLA  N10W78    SF                4203

@@ -1,0 +1,35 @@
+:Product: 20251010events.txt
+:Created: 2025 Oct 13 0357 UT
+:Date: 2025 10 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Oct 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7680       0435   ////      0435  LEA  C   RSP  025-180   III/1                 
+
+7690 +     0613   0629      0643  G18  5   XRA  1-8A      C2.3    2.8E-03   4241
+7690 +     0621   0623      0631  LEA  3   FLA  N13W65    SF                4241
+
+7700       1428   ////      1451  SVI  C   RSP  135-180   VI/1                  
+
+7710       1926   1933      1942  G18  5   XRA  1-8A      C1.0    9.7E-04   4246
+7710       1932   1932      1940  HOL  3   FLA  N25E13    SF      ERU       4246
+
+7740       1942   1945      1947  G18  5   XRA  1-8A      B9.3    4.0E-04   4246
+
+7720 +     1956   2016      2026  G18  5   XRA  1-8A      C1.7    2.3E-03   4246
+7720       2013   2014      2026  HOL  3   FLA  N25E11    SF                4246
+
+7730 +     2105   2110      2114  G18  5   XRA  1-8A      B8.2    4.6E-04   4246
+
+7750       2125   2125      2125  HOL  2   FLA  N24E12    SF                4246
+
+7760 +     2156   2202      2205  G18  5   XRA  1-8A      C1.8    7.3E-04   4246
+
+7770 +     2340   ////      2340  LEA  C   RSP  025-096   III/2                 

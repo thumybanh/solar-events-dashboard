@@ -1,0 +1,66 @@
+:Product: 20220207events.txt
+:Created: 2022 Feb 10 0357 UT
+:Date: 2022 02 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Feb 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6630       0000   ////      1055  LEA  C   RSP  033-180   CTM/1                 
+
+6520 +     0007   0026      0102  G16  5   XRA  1-8A      C1.2    3.5E-03       
+
+6560       0125   ////      0140  LEA  3   DSF  N28E53    4                 2941
+
+6530 +     0223   0231      0241  G16  5   XRA  1-8A      C1.0    9.7E-04   2939
+6530       0230   0230      0238  LEA  3   FLA  S18W23    SF      ERU       2939
+
+6540       0418   0418      0418  LEA  G   RBR  245       370                   
+
+6550 +     0520   0533      0546  G16  5   XRA  1-8A      C2.6    2.7E-03       
+
+6570       0555   0555      0555  LEA  G   RBR  245       230                   
+
+6690       0621   ////      1604  SVI  C   RSP  075-180   CTM/1                 
+
+6580 +     0628   0638      0648  G16  5   XRA  1-8A      B9.3    9.4E-04   2939
+6580       0635   0636      0659  LEA  3   FLA  S19W24    SF      ERU       2939
+
+6590 +     0719   0728      0732  G16  5   XRA  1-8A      C1.1    6.3E-04       
+
+6600 +     0805   0810      0817  G16  5   XRA  1-8A      B9.1    5.7E-04       
+
+6610 +     0821   0824      0828  G16  5   XRA  1-8A      C1.6    5.1E-04   2941
+
+6620 +     0858   0903      0908  G16  5   XRA  1-8A      C1.1    6.9E-04       
+6620       0901   ////      0901  SVI  C   RSP  031-042   III/1                 
+
+6670 +     1005   1007      1135  SVI  G   RNS  245       270                   
+
+6640 +     1101   1108      1112  G16  5   XRA  1-8A      C1.3    6.2E-04   2939
+
+6650 +     1112   1121      1127  G16  5   XRA  1-8A      C1.6    1.3E-03       
+
+6660 +     1151   1156      1200  G16  5   XRA  1-8A      B9.8    5.0E-04   2939
+
+6710       1206   ////      2047  SAG  C   RSP  111-180   CTM/1                 
+
+6680 +     1226   1239      1246  G16  5   XRA  1-8A      C3.8    2.3E-03       
+
+6700 +     1650   1700      1709  G16  5   XRA  1-8A      C2.4    1.7E-03       
+
+6720       1816   1816      1816  SAG  U   RBR  245       120                   
+
+6730       1855   1855      1855  SAG  U   RBR  245       110                   
+
+6740       2032   2032      2032  SAG  U   RBR  245       150                   
+
+6750 +     2257   2306      2310  G16  5   XRA  1-8A      C1.2    6.7E-04   2941
+
+6760       2318   2320      2320  LEA  G   RBR  245       970                   
+6760       2320   ////      2320  LEA  C   RSP  025-050   III/1                 

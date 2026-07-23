@@ -1,0 +1,95 @@
+:Product: 20260708events.txt
+:Created: 2026 Jul 11 0357 UT
+:Date: 2026 07 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jul 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6600       0000   ////      0508  PAL  C   RSP  025-180   CTM/2                 
+
+6530       0017   0017      0017  LEA  G   RBR  245       160                   
+
+6540       0034   0038      0039  LEA  G   RBR  245       260                   
+
+6550       0047   0047      0047  LEA  G   RBR  245       210                   
+
+6560       0054   0055      0056  LEA  G   RBR  245       670                   
+
+6570       0101   0101      0101  LEA  G   RBR  245       120                   
+
+6580       0104   0104      0104  LEA  G   RBR  245       190                   
+
+6590       0140   0140      0140  LEA  G   RBR  245       320                   
+
+6610       0413   0414      0415  LEA  G   RBR  245       190                   
+6610       0413   0414      0415  LEA  G   RBR  245       190                   
+
+6620       0446   0446      0446  LEA  G   RBR  245       100                   
+
+6630       0450   0450      0450  LEA  G   RBR  245       100                   
+
+6640 +     0732   0741      0745  G18  5   XRA  1-8A      C1.2    8.0E-04   4482
+6640       0740   0742      0747  LEA  3   FLA  S10E36    SF                4482
+
+6670       0750   0750      0805  LEA  3   FLA  S10E36    SF                4482
+
+6650       0759   0759      0759  LEA  G   RBR  245       120                   
+
+6660       0806   0806      0806  LEA  G   RBR  245       100                   
+
+6680       0857   0857      0857  LEA  G   RBR  245       100                   
+
+6690       0900   0900      0900  LEA  G   RBR  245       130                   
+
+6700       0918   0918      0918  LEA  G   RBR  245       100                   
+
+6710       0921   0921      0921  LEA  G   RBR  245       110                   
+
+6720       0927   0928      0928  LEA  G   RBR  245       110                   
+
+6730       0930   0930      0930  LEA  G   RBR  245       110                   
+
+6740       0936   0939      0940  LEA  G   RBR  245       190                   
+6740 +     0940   0955      1001  G18  5   XRA  1-8A      C2.1    1.9E-03   4482
+
+6750       1031   1042      1059  G19  5   XRA  1-8A      C1.0    1.7E-03   4482
+6750       1043   ////      1045  SAG  C   RSP  025-075   III/1                 
+
+6770       1106   ////      1438  SAG  C   RSP  025-180   CTM/1                 
+6770       1117   ////      2258  SAG  C   RSP  025-131   VI/2                  
+
+6760 +     1120   1125      1128  G18  5   XRA  1-8A      C1.0    5.1E-04   4482
+
+6780       1311   1312      1315  HOL  3   FLA  S09W22    SF                4485
+
+6790       1402   1403      1405  HOL  3   FLA  S09W22    SF                4485
+
+6800       1455   ////      1456  SAG  C   RSP  025-180   III/2                 
+
+6810       1600   1600      1603  HOL  3   FLA  S07E32    SF      PRB       4482
+
+6820 +     1749   1756      1801  G18  5   XRA  1-8A      M1.5    6.3E-03   4482
+6820       1753   1756      1806  HOL  3   FLA  S11E37    1N      DSD       4482
+6820       1753   1753      1753  SAG  G   RBR  4995      100               4482
+
+6830       1805   1805      1805  PAL  U   RBR  245       110                   
+
+6840       1814   ////      1822  PAL  C   RSP  025-075   III/1                 
+
+6850       1839   1839      1839  PAL  U   RBR  245       170                   
+
+6890       1900   ////      2359  PAL  C   RSP  025-075   VI/2                  
+
+6860       1936   1936      1936  PAL  U   RBR  245       160                   
+
+6870       1959   1959      1959  PAL  U   RBR  245       1000                  
+
+6880       2316  U2320      2325  LEA  G   RBR  245       390                   
+
+6900       2349   2349      2349  LEA  G   RBR  245       140                   

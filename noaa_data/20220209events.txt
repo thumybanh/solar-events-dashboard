@@ -1,0 +1,55 @@
+:Product: 20220209events.txt
+:Created: 2022 Feb 12 0357 UT
+:Date: 2022 02 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Feb 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6910       0333   ////      0334  LEA  C   RSP  025-135   III/1                 
+
+6920       0336   ////      0336  PAL  C   RSP  025-086   III/1                 
+
+6930 +     0435   0438      0443  G16  5   XRA  1-8A      B5.5    2.6E-04   2941
+
+6940 +     0544   0553      0558  G16  5   XRA  1-8A      B8.2    5.2E-04   2941
+6940       0551   0553      0600  LEA  3   FLA  N20E07    SF      DSD       2941
+6940       0557   ////      0558  LEA  C   RSP  025-180   III/2             2941
+
+6950 +     0728   0736      0747  G16  5   XRA  1-8A      B6.0    6.2E-04   2941
+
+6960 +     0822   0827      0835  G16  5   XRA  1-8A      B7.2    5.0E-04   2941
+6960       0828   0831      0835  LEA  3   FLA  N24E08    SF                2941
+6960       0832   0832      0832  SVI  G   RBR  245       120               2941
+
+6970       0858   ////      0858  LEA  C   RSP  025-180   III/1                 
+
+6980       0900   ////      0931  SVI  C   RSP  025-180   VI/1                  
+6980       0929   ////      0929  LEA  C   RSP  025-123   III/1                 
+
+6990 +     0953   0957      1001  G16  5   XRA  1-8A      B7.7    3.1E-04   2939
+
+7000 +     1425   1447      1501  G16  5   XRA  1-8A      C1.0    1.4E-03       
+
+7010 +     1727   1736      1755  G16  5   XRA  1-8A      C5.7    6.7E-03   2939
+7010 +     1733   1736      1738  HOL  3   FLA  S16W57    SF      DSD       2939
+
+7060       1823   ////      2155  SAG  C   RSP  113-180   CTM/1                 
+
+7020 +     1849   ////      1850  SAG  C   RSP  025-064   III/1                 
+
+7030       1853   1939      1945  G16  5   XRA  1-8A      C3.1    7.2E-03   2941
+7030       1936   1942      1953  HOL  3   FLA  N22W01    SF      DSD       2941
+
+7040 +     2107   ////      2107  PAL  C   RSP  025-059   III/2                 
+
+7070       2118   ////      2118  SAG  C   RSP  025-044   III/1                 
+
+7050       2118   ////      2118  PAL  C   RSP  034-180   III/1                 
+
+7080 +     2351   0002      0010  G16  5   XRA  1-8A      C1.2    1.2E-03   2939

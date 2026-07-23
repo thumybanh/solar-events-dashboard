@@ -1,0 +1,80 @@
+:Product: 20260228events.txt
+:Created: 2026 Mar 03 0357 UT
+:Date: 2026 02 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Feb 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8730       0130   0130      0130  LEA  G   RBR  410       190                   
+
+8740 +     0256   0313      0325  G18  5   XRA  1-8A      C6.4    7.8E-03   4380
+
+8750       0523   0534      0543  G18  5   XRA  1-8A      C2.2    2.2E-03   4378
+8750 +     0527   0527      0527  LEA  G   RBR  245       220                   
+
+8760       0554   0554      0554  LEA  G   RBR  245       120                   
+
+8770       0726   0726      0726  LEA  G   RBR  245       120                   
+
+8780 +     0733   ////      0734  LEA  C   RSP  025-180   III/2                 
+
+8790       0807   ////      0807  SVI  C   RSP  134-180   III/2                 
+
+8800       0813   0813      0813  LEA  G   RBR  245       100                   
+
+8810 +     0946   1002      1009  G18  5   XRA  1-8A      C2.9    3.1E-03   4381
+
+8830       1016   1025      1029  G18  5   XRA  1-8A      C2.2    1.6E-03   4381
+
+8820       1027   ////      1027  SVI  C   RSP  133-180   III/2                 
+
+8840       1252   ////      1252  SVI  C   RSP  144-180   III/1                 
+
+8850       1359   1359      1359  SAG  G   RBR  245       100                   
+
+8860       1409   1409      1409  SAG  G   RBR  245       100                   
+
+9130      A1438   ////     A0816  SVI  3   DSF  N39E24    6                     
+
+8870 +     1449   1449      1450  SAG  G   RBR  245       240                   
+
+8880 +     1457   1457      1458  SAG  G   RBR  245       150                   
+
+8890       1501   1501      1501  SAG  G   RBR  245       110                   
+
+8900       1507   1507      1508  SAG  G   RBR  245       120                   
+
+8910 +     1521   1533      1548  G18  5   XRA  1-8A      C2.7    3.8E-03       
+8910       1537   ////      1629  SVI  C   RSP  113-180   VI/1                  
+8910 +     1546   1547      1547  SAG  G   RBR  245       140                   
+
+9010 +     1547   1738      1936  SAG  G   RNS  245       800                   
+
+8970       1548   ////      1658  SAG  C   RSP  058-073   VI/1                  
+
+8920 +     1551   1551      1551  SAG  G   RBR  245       110                   
+
+8930       1559   1559      1559  SAG  G   RBR  245       140                   
+
+8940       1612   1612      1612  SVI  G   RBR  245       120                   
+
+8950       1726   1729      1737  HOL  3   FLA  S09W73    SF      DSF           
+8950       1726   ////      1838  SAG  C   RSP  125-180   CTM/1                 
+
+8960       1740   1740      1740  SAG  G   RBR  410       110                   
+
+8980 +     1754   1804      1822  G18  5   XRA  1-8A      C3.2    4.7E-03   4381
+8980       1801   ////      1803  PAL  C   RSP  138-180   III/1                 
+
+8990       2105   2106      2108  SAG  G   RBR  245       470                   
+8990 +     2107   ////      2107  PAL  C   RSP  156-180   III/1                 
+
+9000 +     2118   2132      2144  G18  5   XRA  1-8A      C4.7    5.2E-03   4381
+
+9020       2305   2305      2305  LEA  G   RBR  245       180                   

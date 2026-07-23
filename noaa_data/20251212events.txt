@@ -1,0 +1,51 @@
+:Product: 20251212events.txt
+:Created: 2025 Dec 15 0357 UT
+:Date: 2025 12 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Dec 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4400       0420   ////      0427  LEA  C   RSP  025-146   III/2                 
+
+4410 +     0450   0505      0514  G18  5   XRA  1-8A      M2.0    1.7E-02   4296
+4410       0455   ////      0503  LEA  C   RSP  025-180   III/2             4296
+4410       0455   ////      0510  LEA  3   BSL  ////      0.05              4294
+4410       0500   ////      0525  LEA  C   RSP  092-180   CTM/1             4294
+4410       0501   0502      0511  LEA  G   RBR  245       6100              4294
+4410       0502   0503      0504  LEA  G   RBR  410       140               4294
+4410       0508   ////      0522  LEA  C   RSP  025-108   II/3              4294
+
+4420 +     0527   0544      0553  G18  5   XRA  1-8A      M1.1    1.6E-02   4294
+
+4440 +     0527   ////      0809  LEA  C   RSP  040-064   IV/2                  
+
+4450 +     0644   ////      0959  SVI  C   RSP  104-180   CTM/1                 
+
+4460 +     0910   0919      0929  G18  5   XRA  1-8A      C2.6    2.8E-03   4294
+
+4470 +     1249   ////      1255  SVI  C   RSP  025-122   III/2                 
+
+4480 +     1343   1348      1352  G18  5   XRA  1-8A      C2.2    1.3E-03   4294
+
+4490 +     1413   ////      1413  SVI  C   RSP  025-123   III/1                 
+
+4500 +     1437   1447      1451  G18  5   XRA  1-8A      C2.8    1.7E-03   4296
+
+4540       1501   ////      1616  HOL  2   DSF  S23W70    93                4296
+
+4510       1528   ////      1534  SAG  C   RSP  025-180   III/1                 
+
+4520 +     1543   1558      1612  G18  5   XRA  1-8A      C3.5    4.4E-03   4294
+
+4530 +     1722   1757      1829  G18  5   XRA  1-8A      C3.2    1.1E-02   4294
+
+4550 +     2211   2218      2224  G18  5   XRA  1-8A      C1.3    1.1E-03   4307
+4550       2216   2217      2227  HOL  3   FLA  S12W05    SF      DSF       4307
+
+4560       2331   2341      2347  G19  5   XRA  1-8A      C1.2    1.1E-03   4307

@@ -1,0 +1,26 @@
+:Product: 20250212events.txt
+:Created: 2025 Feb 15 0357 UT
+:Date: 2025 02 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Feb 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3240       0131   ////      0131  LEA  C   RSP  025-095   III/1                 
+
+3250 +     0922   ////      0923  LEA  C   RSP  025-118   III/2                 
+
+3260       1231   ////      1232  SVI  C   RSP  025-084   III/1                 
+
+3270 +     1237   1247      1258  G16  5   XRA  1-8A      C3.9    3.5E-03   3992
+
+3280       1740   ////      1741  SAG  C   RSP  025-048   III/1                 
+
+3290       2009   2017      2025  G16  5   XRA  1-8A      C1.7    1.6E-03   3990
+
+3300 +     2200   2220      2246  G16  5   XRA  1-8A      C2.0    5.0E-03   3992

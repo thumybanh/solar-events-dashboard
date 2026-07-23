@@ -1,0 +1,58 @@
+:Product: 20220621events.txt
+:Created: 2022 Jun 24 0357 UT
+:Date: 2022 06 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Jun 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2380       0000   ////      0937  LEA  C   RSP  025-180   CTM/2             3034
+
+2420       0004   ////      0937  LEA  C   RSP  025-180   VI/2                  
+
+2390       0007   0008      0012  LEA  3   FLA  N19W06    SF      DSD       3038
+
+2400       0038   0039      0041  LEA  3   FLA  N20W82    SF                3030
+
+2410       0049   0049      0049  PAL  G   RBR  410       110                   
+
+2430       0142   0144      0145  LEA  3   FLA  N21W84    SF                3030
+
+2440 +     0233   0252      0328  G16  5   XRA  1-8A      C2.5    6.7E-03       
+
+2530       0332   ////      1814  SVI  C   RSP  025-180   CTM/2                 
+
+2450       0340   0345      0350  LEA  3   FLA  N15W11    SF                3038
+
+2460       0354   0405      0415  LEA  3   FLA  N15W11    SF      ERU       3038
+
+2530       0418   ////      1814  SVI  C   RSP  025-180   VI/1                  
+
+2470 +    B0440  U0542      0654  SVI  3   FLA  N16W09    SF      ERU       3038
+2470 +     0531   0540      0545  G16  5   XRA  1-8A      C1.9    1.2E-03   3038
+
+2480 +     0713   0721      0735  G16  5   XRA  1-8A      C1.9    2.4E-03   3038
+2480 +     0721   0722      0743  SVI  3   FLA  N16W09    SF                3038
+
+2490       0755   0755      0758  SVI  3   FLA  N16W12    SF                3038
+
+2560       0918   ////      2359  SAG  C   RSP  025-180   CTM/2                 
+2560       0926   ////      2359  SAG  C   RSP  025-180   VI/1                  
+
+2500       0933   0933      0933  SAG  U   RBR  245       100                   
+
+2510       0943   0943      0943  SAG  U   RBR  245       130                   
+
+2520 +     0944   0952      0957  G16  5   XRA  1-8A      C1.8    1.2E-03   3038
+2520       0949   0952      0955  SVI  3   FLA  N18W14    SF                3038
+
+2540 +     1601   1621      1648  G16  5   XRA  1-8A      C5.6    9.6E-03       
+
+2550       1706   ////      2359  PAL  C   RSP  025-099   VI/1                  
+
+2570       2013   ////      2359  PAL  C   RSP  079-180   CTM/1                 

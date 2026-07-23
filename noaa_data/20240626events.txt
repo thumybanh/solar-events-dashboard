@@ -1,0 +1,66 @@
+:Product: 20240626events.txt
+:Created: 2024 Jun 29 0357 UT
+:Date: 2024 06 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jun 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5800 +     0008   0012      0017  G16  5   XRA  1-8A      C4.7    2.1E-03   3727
+
+5820       0021   0022      0024  HOL  3   FLA  S10E26    SF                3724
+5820 +     0021   ////      0359  PAL  C   RSP  025-180   VI/3              3724
+
+5810 +     0025   0025      0025  LEA  G   RBR  245       130                   
+
+5830       0142   0142      0142  LEA  G   RBR  245       150                   
+
+5860 +     0149   0206      0531  LEA  G   RNS  245       530                   
+
+5840       0218   ////      0221  LEA  C   RSP  025-180   III/3                 
+
+5880       0449   ////      0554  SVI  C   RSP  025-180   VI/2                  
+
+5850       0507   0507      0507  SVI  G   RBR  245       150                   
+
+5870       0538   0538      0538  LEA  G   RBR  610       120                   
+
+5890       0707   ////      0737  SVI  C   RSP  025-088   VI/1                  
+
+5900       0903   ////      1257  SVI  C   RSP  025-180   VI/2                  
+5900       0925   0925      0925  LEA  G   RBR  410       110                   
+
+5910       1016   ////      1027  SAG  C   RSP  113-180   III/1                 
+
+5920       1320   1321     A1400  HOL  3   FLA  S19E37    SF                3723
+
+5940 +     1426   ////      1611  SVI  C   RSP  025-180   VI/2                  
+
+5930       1442   1530      1558  G16  5   XRA  1-8A      C6.2    2.3E-02   3723
+5930       1513  U1521     A1542  SVI  3   FLA  S26E45    SF                3723
+
+5950 +     1630   ////      1632  SAG  C   RSP  025-143   III/2                 
+5950 +     1631   1631      1631  SVI  G   RBR  245       110                   
+
+5970       1928   ////      1934  SAG  C   RSP  112-180   III/1                 
+
+5960       1928   ////      1928  PAL  C   RSP  142-180   III/2                 
+5960       1928   1928      1928  PAL  G   RBR  245       690                   
+
+5970       1933   1933      1933  PAL  G   RBR  245       150                   
+
+5980       2016   2016      2017  PAL  G   RBR  245       100                   
+
+5990       2019   ////      2022  SAG  C   RSP  025-055   III/1                 
+
+6000       2026   2026      2026  PAL  G   RBR  410       230                   
+6000       2026   2026      2240  PAL  G   RNS  410       230                   
+
+6010       2141   ////      2142  SAG  C   RSP  025-065   III/1                 
+
+6020       2340   ////      2354  LEA  C   RSP  025-180   VI/1                  

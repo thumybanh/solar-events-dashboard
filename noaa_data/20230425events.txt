@@ -1,0 +1,46 @@
+:Product: 20230425events.txt
+:Created: 2023 Apr 28 0357 UT
+:Date: 2023 04 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7210       0012   ////      0030  PAL  C   RSP  025-073   VI/1                  
+7210       0019   0021      0026  LEA  3   FLA  S23E40    SF      DSD           
+
+7220       0117   ////      0117  PAL  C   RSP  025-074   III/2                 
+
+7230       0208   0209      0215  LEA  3   FLA  S23E38    SF      DSD           
+
+7240       0255   0300      0307  G16  5   XRA  1-8A      C1.0    7.2E-04       
+
+7250 +     0553   0554      0601  SVI  3   FLA  S23E37    SF                    
+
+7270 +     0648   0650      0654  SVI  3   FLA  S24E36    SF                    
+
+7280       0705   0706      0711  LEA  3   FLA  S20E34    SF                    
+
+7290       0758   0807      0813  G16  5   XRA  1-8A      C1.7    1.0E-03   3288
+7290       0805   0806      0808  SVI  3   FLA  S24E35    SF                3288
+
+7300       0946   1005      1015  G16  5   XRA  1-8A      C1.2    1.9E-03       
+7300       0956   ////      0957  SVI  C   RSP  025-083   III/2                 
+
+7370      A1611   ////     A0507  SVI  3   DSF  S46W18    20                    
+
+7310       1712   1717      1722  G16  5   XRA  1-8A      B9.4    5.3E-04   3288
+
+7330       1735   ////      1815  SAG  C   RSP  025-075   VI/1                  
+
+7320       1747   ////      1748  PAL  C   RSP  025-086   III/1                 
+
+7340       1924   ////      1933  SAG  C   RSP  025-053   III/1                 
+7340       1924   ////      2004  PAL  C   RSP  025-075   VI/1                  
+
+7350       2042   ////      2127  SAG  C   RSP  025-053   III/1                 

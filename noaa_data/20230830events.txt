@@ -1,0 +1,52 @@
+:Product: 20230830events.txt
+:Created: 2023 Sep 02 0357 UT
+:Date: 2023 08 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Aug 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5630       0052   0052      0053  PAL  G   RBR  245       200                   
+
+5640       0254   ////      0254  LEA  C   RSP  025-048   III/2                 
+
+5650       0407   0419      0428  G16  5   XRA  1-8A      C1.7    1.6E-03   3417
+5650       0413   0423      0435  LEA  3   FLA  S08E60    SF                3417
+
+5660       0430   ////      0430  LEA  C   RSP  025-166   III/1                 
+
+5670       0618   ////      0642  SVI  C   RSP  025-083   VI/1                  
+5670       0641   ////      0642  LEA  C   RSP  025-112   III/1                 
+
+5680       0824   0830      0837  G16  5   XRA  1-8A      B8.4    6.2E-04       
+
+5690       0957   ////      0958  SVI  C   RSP  025-045   III/1                 
+
+5700 +     1246   ////      1248  SVI  C   RSP  025-180   III/2                 
+
+5710       1610   ////      1611  SVI  C   RSP  044-086   III/1                 
+
+5720       1628   1641      1657  G16  5   XRA  1-8A      C2.8    6.0E-04   3415
+5720       1633   1634      1719  HOL  3   FLA  S08W23    SF                3415
+
+5730       1714   1714      1714  PAL  G   RBR  245       370                   
+5730 +     1714   ////      1715  PAL  C   RSP  051-180   III/1                 
+
+5740       1738   1746      1754  G16  5   XRA  1-8A      C1.5    1.3E-03   3413
+5740       1741   1744      1756  HOL  3   FLA  N06W46    SF      DSD       3413
+
+5750 +     2035   ////      2036  PAL  C   RSP  025-180   III/2                 
+5750       2035   2035      2036  PAL  G   RBR  245       190                   
+
+5760 +     2133   ////      2232  PAL  C   RSP  025-180   VI/1                  
+
+5770       2315   ////      2319  PAL  C   RSP  025-060   III/1             3413
+5770       2316   2326      2340  HOL  3   FLA  N05W49    1F                3413
+5770       2320   2328      2334  G16  5   XRA  1-8A      C3.0    1.9E-03   3413
+
+5790       2341   ////      2342  PAL  C   RSP  025-086   III/2                 

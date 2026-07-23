@@ -1,0 +1,60 @@
+:Product: 20240613events.txt
+:Created: 2024 Jun 16 0357 UT
+:Date: 2024 06 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jun 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 950      B0000   2244      0029  HOL  3   FLA  S09E14    SF      PRB       3711
+
+ 960       0141   0141      0141  LEA  G   RBR  245       1600                  
+
+ 970       0302   ////      0303  LEA  C   RSP  025-180   III/1                 
+
+ 980       0359   ////      0359  LEA  C   RSP  102-180   III/1                 
+
+ 990      B0719  U0719     A0739  SVI  3   FLA  S23E50    SF      ERU       3712
+
+1000       0904   ////      0904  SVI  C   RSP  112-156   III/2                 
+
+1010 +     1311   1317      1321  G16  5   XRA  1-8A      C3.7    2.1E-03   3714
+1010 +    B1313  U1313     A1330  SVI  3   FLA  N15E19    SF      ERU       3714
+
+1020       1322   1323      1324  HOL  3   FLA  S24E48    SF      DSD       3712
+
+1030 +     1353   1404      1414  HOL  3   FLA  S23E48    SF                3712
+
+1040       1415   1417      1420  SVI  3   FLA  S10E24    SF                3711
+
+1060       1503  U1512     A1516  SVI  3   FLA  S25E49    SF                3712
+
+1050 +    B1521  U1522     A1543  SVI  3   FLA  S24E46    SF      ERU       3712
+1050 +     1552   1557      1607  G16  5   XRA  1-8A      C4.6    4.4E-03   3712
+
+1070 +     1634   1645      1655  G16  5   XRA  1-8A      M3.2    2.4E-02   3713
+1070 +     1637   1641      1713  HOL  3   FLA  S16E59    1N      DSD       3713
+
+1080 +     1840   1854      1901  G16  5   XRA  1-8A      C9.0    6.5E-03   3709
+1080 +     1851   1853      1907  HOL  3   FLA  S10W07    1N      ERU       3709
+
+1090 +     1936   1938      1946  HOL  3   FLA  S24E43    SF      ERU       3712
+
+1160       1936   1945      1946  HOL  3   FLA  S24E45    SF                3712
+
+1100 +     1938   1950      1959  G16  5   XRA  1-8A      C7.8    7.1E-03   3713
+1100       1942   1944      2007  HOL  3   FLA  S15E56    SF      ERU       3713
+
+1110       2004   2004      2004  PAL  G   RBR  15400     120                   
+
+1120       2007   2008      2010  PAL  G   RBR  15400     3700                  
+
+1140       2156   2157      2158  PAL  G   RBR  15400     2100                  
+
+1150 +     2211   2218      2230  G16  5   XRA  1-8A      C2.8    3.1E-03   3713
+1150       2222   ////      2310  SAG  C   RSP  025-073   CTM/1                 

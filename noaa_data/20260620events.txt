@@ -1,0 +1,51 @@
+:Product: 20260620events.txt
+:Created: 2026 Jun 23 0357 UT
+:Date: 2026 06 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jun 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 980 +     0116   0122      0126  G18  5   XRA  1-8A      B8.7    6.1E-04   4470
+
+ 990 +     0126   0151      0204  G18  5   XRA  1-8A      M1.3    1.5E-02   4472
+
+1000 +     0259   0307      0312  G18  5   XRA  1-8A      C1.4    9.7E-04   4470
+1000       0300   ////      0313  PAL  C   RSP  025-180   II/1    300           
+
+1010       0629   ////      0629  SVI  C   RSP  052-071   III/1                 
+
+1020       0748   0749      0757  SVI  3   FLA  N06E23    SF                4470
+
+1030       0803   ////      0805  SVI  C   RSP  025-083   III/1                 
+
+1040       0942   ////      0943  SVI  C   RSP  025-063   III/1                 
+
+1050 +     1025   1032      1039  G18  5   XRA  1-8A      B7.1    6.7E-04   4472
+
+1060 +     1039   1047      1057  G18  5   XRA  1-8A      B7.7    8.6E-04   4472
+
+1070 +     1115   1127      1133  G18  5   XRA  1-8A      C1.9    1.5E-03       
+
+1080 +     1206   1220      1225  G18  5   XRA  1-8A      C1.9    1.6E-03       
+1080       1217   1217      1217  SVI  G   RBR  245       280                   
+
+1090 +     1450   1500      1505  G18  5   XRA  1-8A      M1.0    4.1E-03   4473
+
+1100       1626   ////      1626  SVI  C   RSP  048-072   III/1                 
+
+1110 +     1702   ////      1703  SAG  C   RSP  025-180   III/2                 
+
+1120       1752   1753      1757  HOL  3   FLA  S08E72    SF                    
+
+1130       1842   1842      1846  HOL  3   FLA  S08E72    SF                    
+
+1140 +     2122   2145      2205  G18  5   XRA  1-8A      C4.8    8.3E-03   4473
+1140       2131   2145      2154  HOL  3   FLA  S07E68    SF                4473
+
+1150 +     2301   2306      2312  G18  5   XRA  1-8A      C1.3    8.9E-04   4473

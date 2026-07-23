@@ -1,0 +1,50 @@
+:Product: 20260529events.txt
+:Created: 2026 Jun 01 0357 UT
+:Date: 2026 05 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5890       0008   ////      0307  PAL  C   RSP  025-180   VI/2                  
+
+5920       0343   ////      1802  SVI  C   RSP  025-180   CTM/2                 
+
+5900       0518   ////      0624  SVI  C   RSP  025-154   VI/2                  
+5900 +     0524   0537      0550  G18  5   XRA  1-8A      C7.6    1.1E-02   4455
+
+5910 +     0640   0704      0724  G19  5   XRA  1-8A      M1.1    2.6E-02   4455
+5910      B0659  U0717      0756  SVI  3   FLA  N14E61    SF      ERU       4455
+
+5930       0730   ////      1012  SVI  C   RSP  025-083   VI/2                  
+5930 +     0811   0811      0811  SVI  G   RBR  245       930                   
+5930       0811   ////      0811  SVI  C   RSP  075-180   III/2                 
+
+5940       0937   ////      1645  SAG  C   RSP  035-180   CTM/1                 
+
+5950 +     1106   ////      1706  SVI  C   RSP  025-180   VI/2                  
+5950 +     1144   1144      1144  SVI  G   RBR  245       100                   
+
+5960       1407   1408      1418  SVI  3   FLA  N17E50    SF                4455
+
+5970 +     1541   1553      1601  G18  5   XRA  1-8A      C1.2    1.4E-03   4455
+5970       1546   1549      1602  SVI  3   FLA  N13E59    SF                4455
+
+5980       1744   ////      1745  SVI  C   RSP  075-180   III/2                 
+
+5990 +     1901   1909      1914  G18  5   XRA  1-8A      C1.2    8.6E-04   4449
+5990       1907   1907      1912  HOL  3   FLA  S08E03    SF                4449
+
+6000 +     1928   1933      1936  G18  5   XRA  1-8A      C1.6    1.1E-03   4455
+
+6020 +     1930   ////      2127  SAG  C   RSP  025-180   VI/2              4455
+6020       1934   1953      2027  HOL  3   FLA  N14E47    SF                4455
+
+6010 +     1936   1947      1957  G18  5   XRA  1-8A      C3.0    3.5E-03   4455
+
+6030 +     2109   2129      2141  G18  5   XRA  1-8A      C2.0    3.1E-03   4455

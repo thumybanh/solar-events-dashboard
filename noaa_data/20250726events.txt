@@ -1,0 +1,49 @@
+:Product: 20250726events.txt
+:Created: 2025 Jul 29 0357 UT
+:Date: 2025 07 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9380 +     0444   ////      0447  LEA  C   RSP  025-137   III/1                 
+
+9390       0708   ////      0708  LEA  C   RSP  025-180   III/2                 
+
+9400       0724   ////      0742  SVI  C   RSP  025-168   VI/2                  
+
+9410 +     1112   ////      1112  SVI  C   RSP  025-061   III/1                 
+
+9420       1227   ////      1228  SAG  C   RSP  025-061   III/1                 
+
+9430 +     1300   ////      1300  SVI  C   RSP  025-057   III/1                 
+
+9440 +     1330   1334      1337  G18  5   XRA  1-8A      C1.7    7.0E-04   4149
+
+9450 +     1359   ////      1400  SAG  C   RSP  025-180   III/2             4149
+
+9460 +     1404   1425      1439  G18  5   XRA  1-8A      C3.3    5.0E-03   4160
+9460       1410   1412      1434  HOL  3   FLA  S08E54    SF      PRB       4160
+
+9470 +     1510   1517      1520  G18  5   XRA  1-8A      C1.4    8.8E-04   4149
+9470       1515   1517      1525  HOL  3   FLA  N17W18    SF      PRB       4149
+
+9480 +     1736   ////      1737  PAL  C   RSP  025-180   III/1                 
+9480       1736   ////      1836  PAL  C   RSP  025-180   VI/1                  
+
+9490 +     2029   ////      2032  PAL  C   RSP  025-084   III/2                 
+9490 +     2031   2031      2031  PAL  G   RBR  245       110                   
+
+9500 +     2055   ////      2058  PAL  C   RSP  025-084   III/2                 
+
+9510       2135   ////      2135  SAG  C   RSP  025-051   III/1                 
+
+9530       2249   ////      2249  SAG  C   RSP  025-072   III/1                 
+
+9520       2249   ////      2252  PAL  C   RSP  025-180   III/2                 
+9520       2252   2252      2252  PAL  G   RBR  245       140                   

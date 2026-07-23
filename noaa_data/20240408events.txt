@@ -1,0 +1,22 @@
+:Product: 20240408events.txt
+:Created: 2024 Apr 11 0357 UT
+:Date: 2024 04 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Apr 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 590      A0007   ////     A1358  HOL  2   DSF  S16W57    10                    
+
+ 570       0243   0314      0344  G16  5   XRA  1-8A      C1.4    5.0E-03   3634
+
+ 560 +     0410   0417      0426  G16  5   XRA  1-8A      C1.2    1.1E-03   3632
+
+ 580       0925   ////      0925  LEA  C   RSP  088-137   III/1                 
+
+ 600       2324   2330      2335  G16  5   XRA  1-8A      B9.1    4.2E-04       

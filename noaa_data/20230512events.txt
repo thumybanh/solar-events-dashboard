@@ -1,0 +1,73 @@
+:Product: 20230512events.txt
+:Created: 2023 May 15 0357 UT
+:Date: 2023 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2310      A0056   ////     A1253  HOL  3   DSF  S31W22    12                    
+
+2140 +     0409   ////      0410  LEA  C   RSP  025-110   III/1                 
+
+2150       0616   0617      0625  SVI  3   FLA  N12W67    SF                3296
+
+2160       0641   0641      0646  SVI  3   FLA  N10W45    SF                3297
+
+2170       0653   0656      0700  SVI  3   FLA  N14W64    SF                3296
+
+2180       0731   ////      0732  SVI  C   RSP  025-065   III/1                 
+
+2200 +     0810   0821      0831  G16  5   XRA  1-8A      C2.0    2.1E-03   3296
+2200       0818   0822      0831  SVI  3   FLA  N12W69    SF                3296
+
+2210       0944   0946      0949  SVI  3   FLA  N14W69    SF                3296
+
+2230 +     1133   1139      1145  G16  5   XRA  1-8A      C4.6    2.3E-03   3297
+2230       1134  U1137      1217  SVI  3   FLA  N10W49    SN      DSD       3297
+
+2220       1134   1134      1135  SVI  G   RBR  245       490                   
+
+2250       1231   1302      1317  G16  5   XRA  1-8A      C4.4    5.8E-03   3296
+
+2240 +     1243   ////      1243  SVI  C   RSP  025-083   III/1                 
+
+2250 +    B1251   1256      1307  HOL  3   FLA  N14W67    SF      DSD       3296
+
+2270       1317   1336      1345  G16  5   XRA  1-8A      C5.6    8.0E-03   3296
+
+2260 +     1403   1408      1412  G16  5   XRA  1-8A      C4.9    2.3E-03   3293
+2260 +     1404   1405      1412  HOL  3   FLA  N12W80    SF                3293
+2260       1404   1404      1404  SVI  G   RBR  245       160               3293
+2260       1404   ////      1404  SAG  C   RSP  025-046   III/1             3293
+
+2280       1455   1500      1508  SVI  3   FLA  N16W68    SF                3296
+
+2290       1519   1529      1536  G16  5   XRA  1-8A      C2.5    2.2E-03   3296
+2290       1527   1527      1532  SVI  3   FLA  N13W78    SF                3296
+
+2320       1605   1605      1619  HOL  3   FLA  N21E14    SF                3304
+
+2300 +     1622   1624      1636  HOL  3   FLA  N09W55    SF      DSD       3297
+2300 +     1624   ////      1624  SVI  C   RSP  025-077   III/1             3297
+
+2330       1657   1659      1718  HOL  3   FLA  N21E14    SF      DSD       3304
+
+2340       1904   1910      1914  G16  5   XRA  1-8A      C1.7    9.2E-04   3302
+
+2350       2034   2042      2050  G16  5   XRA  1-8A      C1.3    1.2E-03   3304
+
+2360       2239   2250      2300  G16  5   XRA  1-8A      C1.7    2.1E-03   3301
+
+2390       2318   ////      2359  HOL  3   EPL  ////      0.35              3296
+
+2370       2347   ////      2347  PAL  C   RSP  109-180   III/1                 
+2370 +     2347   2347      2347  PAL  G   RBR  410       200                   
+
+2380 +     2350   2350      2351  PAL  G   RBR  410       140                   
+2380 +     2353   0045      0121  G16  5   XRA  1-8A      C9.0    4.1E-02   3296

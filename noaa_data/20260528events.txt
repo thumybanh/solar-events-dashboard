@@ -1,0 +1,70 @@
+:Product: 20260528events.txt
+:Created: 2026 May 31 0357 UT
+:Date: 2026 05 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5640       0000   ////      0318  PAL  C   RSP  025-065   VI/1                  
+
+5620       0022   0023      0023  LEA  G   RBR  245       170                   
+
+5630       0100   0100      0100  LEA  G   RBR  245       110                   
+
+5650       0223   0223      0223  LEA  G   RBR  245       100                   
+
+5660       0335   0335      0335  LEA  G   RBR  245       100                   
+
+5820       0351   ////      1801  SVI  C   RSP  025-180   CTM/2                 
+
+5670       0426   0426      0426  LEA  G   RBR  245       100                   
+
+5830       0524   ////      1801  SVI  C   RSP  025-180   VI/2                  
+
+5680       0543   0543      0543  LEA  G   RBR  245       100                   
+
+5690 +     0609   0609      0609  LEA  G   RBR  245       150                   
+
+5700 +     0720   0720      0720  LEA  G   RBR  245       310                   
+
+5710       0752   0800      0807  G19  5   XRA  1-8A      C1.1    1.0E-03   4447
+5710       0756   0759      0811  SVI  3   FLA  S15W20    SF      ERU       4447
+
+5730       0850   0850      0850  LEA  G   RBR  245       100                   
+
+5740 +     0858   0858      0858  SVI  G   RBR  245       120                   
+
+5880       0936   ////      2359  SAG  C   RSP  025-180   CTM/1                 
+
+5750       0938   0939      0939  SVI  G   RBR  410       150                   
+
+5760 +     0958   1009      1020  G19  5   XRA  1-8A      C1.8    2.1E-03   4455
+
+5770       1050   ////      1050  SAG  C   RSP  025-071   III/1                 
+
+5780       1119   ////      1119  SAG  C   RSP  025-075   III/1                 
+
+5790       1120   1120      1120  SAG  G   RBR  410       100                   
+5790 +     1120   1120      1120  SVI  G   RBR  245       100                   
+
+5800 +     1122   1123      1123  SVI  G   RBR  245       810                   
+
+5870       1224   ////      2106  SAG  C   RSP  025-180   VI/2                  
+
+5810 +     1316   1316      1316  SVI  G   RBR  245       100                   
+
+5840 +     1509   1516      1518  G19  5   XRA  1-8A      C3.2    1.2E-03   4452
+5840 +     1512   1513      1514  SAG  G   RBR  410       760               4452
+5840 +    B1517   1518      1521  HOL  3   FLA  N10W28    SF      DSD       4452
+
+5850 +     1628   1637      1641  G19  5   XRA  1-8A      C1.5    1.1E-03   4455
+5850       1634   1637      1646  SVI  3   FLA  N09E57    SF                4455
+
+5860       1830   ////      1831  SAG  C   RSP  025-180   III/2                 
+5860       1830   ////      2307  PAL  C   RSP  025-180   VI/2                  

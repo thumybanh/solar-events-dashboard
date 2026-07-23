@@ -1,0 +1,52 @@
+:Product: 20250304events.txt
+:Created: 2025 Mar 07 0357 UT
+:Date: 2025 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7880       0003   0008      0017  G16  5   XRA  1-8A      C2.2    1.7E-03   4006
+
+7890       0039   0045      0047  G16  5   XRA  1-8A      C3.3    1.4E-03   4006
+
+7910       0047   0052      0056  G16  5   XRA  1-8A      C3.4    2.0E-03   4006
+
+7900       0059   ////      0116  LEA  C   RSP  025-180   VI/2                  
+7900       0100   ////      0105  PAL  C   RSP  025-180   III/2                 
+
+7920       0414   0430      0639  G16  5   XRA  1-8A      C3.0    8.3E-04   4012
+7920       0425   ////      0425  LEA  C   RSP  025-059   III/1                 
+
+7930       0639   0648      0711  G16  5   XRA  1-8A      C1.8    3.4E-03   4012
+
+7940       0747   0754      0810  G16  5   XRA  1-8A      C2.1    2.5E-03   4012
+
+7950       1020   1026      1035  G16  5   XRA  1-8A      C1.8    7.3E-04   4012
+
+7960       1120   1129      1142  G16  5   XRA  1-8A      C1.6    7.6E-04   4012
+
+7970       1345   1356      1400  G16  5   XRA  1-8A      C2.6    1.6E-03   4006
+
+7980 +     1532   1540      1612  HOL  3   FLA  S15E39    SF                4012
+7980       1534   1545      1601  G16  5   XRA  1-8A      C4.6    6.2E-03   4012
+
+7990       1617   1621      1625  G16  5   XRA  1-8A      C3.9    1.7E-03   4012
+7990       1618   1620      1627  HOL  3   FLA  S14E39    SF                4012
+
+8000       1837   ////      1852  HOL  3   EPL  ////      0.15                  
+
+8010       2033   2052      2119  G16  5   XRA  1-8A      C2.8    6.1E-03       
+
+8020       2123   ////      2124  SAG  C   RSP  025-077   III/1                 
+8020       2123   ////      2153  PAL  C   RSP  025-124   VI/2                  
+8020       2123   2123      2123  SAG  U   RBR  4995      100                   
+
+8030       2151   2151      2151  PAL  G   RBR  245       110                   
+
+8040       2318   ////      2319  LEA  C   RSP  025-083   III/1                 

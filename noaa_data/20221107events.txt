@@ -1,0 +1,58 @@
+:Product: 20221107events.txt
+:Created: 2022 Nov 10 0357 UT
+:Date: 2022 11 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Nov 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2520       0000   ////      0846  LEA  C   RSP  063-180   CTM/1                 
+
+2560 +     0000   0201      0823  LEA  G   RNS  245       420                   
+
+2520 +     0005   0015      0017  LEA  G   RBR  4995      200                   
+2520 +     0005   0006      0008  PAL  G   RBR  2695      740                   
+2520 +     0005   0006      0015  LEA  G   RBR  8800      170                   
+2520       0006   0006      0008  LEA  G   RBR  15400     120                   
+2520       0011   0011      0011  LEA  G   RBR  610       100                   
+2520 +     0011   ////      0022  PAL  C   RSP  030-156   II/2    927           
+2520       0012   0015      0020  LEA  G   RBR  410       420                   
+
+2530       0022   0022      0022  LEA  G   RBR  245       940                   
+
+2540       0211   ////      0212  LEA  C   RSP  025-051   III/1                 
+
+2550       0554   ////      0846  SVI  C   RSP  114-180   CTM/1                 
+2550 +     0641   0655      0720  G16  5   XRA  1-8A      C1.4    2.9E-03   3141
+
+2580       1011   1011      1011  LEA  G   RBR  245       130                   
+
+2650       1255   1515      1632  G16  5   XRA  1-8A      C3.1    2.3E-02   3141
+
+2590 +     1301   1301      1301  SVI  G   RBR  245       190                   
+
+2600       1337   ////      1400  SAG  C   RSP  025-045   VI/1                  
+
+2610       1405   1405      1405  SAG  U   RBR  245       190                   
+
+2620       1414   1414      1414  SAG  U   RBR  245       100                   
+
+2630       1446   ////      1446  SAG  C   RSP  130-157   III/1                 
+2630 +     1447   1447      1447  SVI  G   RBR  245       120                   
+
+2640       1455   1455      1455  SVI  G   RBR  245       100                   
+
+2660       1620   1620      1620  SAG  U   RBR  245       110                   
+
+2670       1628   ////      1630  SAG  C   RSP  112-180   III/1                 
+
+2680       1836   ////      1855  SAG  C   RSP  025-044   VI/1                  
+
+2560       1901   1944      1944  SAG  U   RNS  245       160                   
+
+2690 +     2258   2306      2312  G16  5   XRA  1-8A      B9.4    7.2E-04   3141

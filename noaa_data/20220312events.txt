@@ -1,0 +1,72 @@
+:Product: 20220312events.txt
+:Created: 2022 Mar 15 0357 UT
+:Date: 2022 03 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Mar 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1300 +     0016   0023      0034  G16  5   XRA  1-8A      C1.0    9.5E-04   2965
+
+1310       0045   0045      0045  LEA  G   RBR  245       330                   
+
+1320       0056   0056      0056  LEA  G   RBR  245       240                   
+
+1330       0100   0100      0100  LEA  G   RBR  245       200                   
+
+1340       0215   0215      0215  LEA  G   RBR  245       150                   
+
+1350       0250   0250      0250  LEA  G   RBR  245       160                   
+
+1360       0303   ////      0303  LEA  C   RSP  025-084   III/3                 
+
+1370       0305   ////      0305  PAL  C   RSP  025-074   III/1                 
+
+1380       0326   0326      0326  PAL  G   RBR  245       100                   
+
+1390       0518   0528      0535  G17  5   XRA  1-8A      C2.0    1.2E-03   2965
+1390       0531   ////      0950  SVI  C   RSP  114-180   CTM/1                 
+
+1400       0628   0630      0630  LEA  G   RBR  245       230                   
+
+1410       0700   ////      0700  SVI  C   RSP  025-083   III/1                 
+
+1440       1020   ////      1119  SVI  C   RSP  115-180   CTM/1                 
+
+1430       1040   ////      1041  SVI  C   RSP  025-157   III/2                 
+
+1440       1058   ////      1108  SVI  C   RSP  025-161   III/1                 
+
+1450 +     1144   1144      1144  SVI  G   RBR  245       160                   
+
+1460 +     1156   ////      2046  SAG  C   RSP  111-180   CTM/1                 
+1460 +     1200   1202      1203  SVI  G   RBR  245       210                   
+
+1420 +     1205   1251      1513  SVI  G   RNS  245       260                   
+
+1470 +     1317   ////      1326  SVI  C   RSP  025-080   III/1                 
+
+1480 +     1407   ////      1411  SVI  C   RSP  025-065   III/1                 
+
+1490 +     1509   1520      1536  G16  5   XRA  1-8A      C1.2    1.8E-03   2962
+
+1690 +    A1612   ////     A1422  SVI  3   DSF  S64W34    17                    
+
+1500 +     1612   1612      1612  SVI  G   RBR  245       170                   
+
+1510       1626   1626      1626  SAG  U   RBR  245       160                   
+
+1520 +     1732   1732      1732  PAL  G   RBR  245       200                   
+
+1530 +     1745   ////      1746  PAL  C   RSP  025-049   III/1                 
+
+1540       1824   ////      1825  SAG  C   RSP  025-040   III/1                 
+
+1550       1900   1900      1900  SAG  U   RBR  245       110                   
+
+1560       2241   ////      2359  LEA  C   RSP  120-180   CTM/1                 

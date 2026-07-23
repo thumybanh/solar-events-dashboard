@@ -1,0 +1,53 @@
+:Product: 20231210events.txt
+:Created: 2023 Dec 13 0357 UT
+:Date: 2023 12 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Dec 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5800 +     0143   ////      0206  LEA  C   RSP  025-100   III/1                 
+5800 +     0157   0206      0211  G18  5   XRA  1-8A      C2.0    1.2E-03   3511
+
+5810 +     0254   0303      0309  G18  5   XRA  1-8A      C1.9    1.4E-03   3511
+
+5820 +     0342   0353      0358  G18  5   XRA  1-8A      M2.3    8.8E-03   3511
+5820       0350   0352      0353  LEA  3   FLA  S20W66    SF                3511
+
+5830 +     0436   0447      0459  G18  5   XRA  1-8A      C4.3    4.6E-03   3511
+
+5850       0545   ////      0553  LEA  C   RSP  025-100   III/1                 
+
+5860       0559   0600      0600  LEA  G   RBR  245       480                   
+
+5870 +     0601   0611      0619  G18  5   XRA  1-8A      C1.3    1.4E-03   3513
+
+5880 +     0702   0716      0727  G18  5   XRA  1-8A      C7.0    6.2E-03   3511
+5880       0714   0715      0721  LEA  3   FLA  S20W69    SF                3511
+
+5890 +     0748   0754      0800  G18  5   XRA  1-8A      C1.8    1.3E-03   3511
+
+5900 +     0810   0819      0824  G18  5   XRA  1-8A      C2.1    6.0E-04   3511
+
+5910 +     1031   1042      1049  G18  5   XRA  1-8A      C6.6    3.7E-03   3511
+
+5920 +     1141   1155      1215  G18  5   XRA  1-8A      C5.5    7.3E-03   3511
+
+5930 +     1419   1428      1441  G18  5   XRA  1-8A      C3.9    3.4E-03   3511
+
+5940 +     1622   1631      1638  G18  5   XRA  1-8A      C1.0    9.6E-04   3511
+
+5950 +     2037   2047      2055  G18  5   XRA  1-8A      C7.3    4.1E-03   3511
+
+5960 +     2217   2224      2228  G18  5   XRA  1-8A      C1.3    8.0E-04   3511
+
+5970       2228   2233      2237  G18  5   XRA  1-8A      C5.5    3.2E-03   3511
+
+5980       2237   2243      2247  G18  5   XRA  1-8A      M1.4    4.6E-03   3511
+
+5990 +     2356   0004      0010  G18  5   XRA  1-8A      C1.5    9.7E-04   3511

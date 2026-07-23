@@ -1,0 +1,136 @@
+:Product: 20241228events.txt
+:Created: 2024 Dec 31 0357 UT
+:Date: 2024 12 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Dec 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  40       0054   0055      0059  LEA  3   FLA  S05E55    SF                3940
+
+  50       0104   0105      0107  LEA  3   FLA  N10W15    SF                3936
+
+  60       0142   ////      0359  LEA  C   RSP  025-180   VI/2                  
+
+  70       0256   ////      0259  PAL  C   RSP  025-180   III/2                 
+  70       0256   ////      0300  LEA  C   RSP  025-157   V/3                   
+
+  80       0356   0404      0417  G18  5   XRA  1-8A      C7.6    8.4E-03   3933
+
+ 100       0445   ////      0447  LEA  C   RSP  025-180   V/3                   
+
+  90       0446   0447      0448  LEA  3   FLA  N14W23    SF                3936
+
+ 110       0513   0517      0519  LEA  3   FLA  N22E22    SF                3938
+
+ 120       0550   ////      0619  LEA  C   RSP  025-180   VI/2                  
+
+ 130      B0700  U0704      0710  SVI  3   FLA  N18W73    1F      ERU       3929
+
+ 140       0712   0717      0727  G18  5   XRA  1-8A      C6.2    2.1E-03   3929
+ 140       0713   ////      0716  SVI  C   RSP  025-151   III/1             3929
+ 140       0713   ////      0758  LEA  C   RSP  025-180   VI/3              3929
+ 140 +     0718   0721      0733  SVI  3   FLA  N20W73    SF                3929
+
+ 150       0745   ////      0757  SVI  C   RSP  025-180   VI/2              3927
+ 150 +     0755   0756      0758  SVI  3   FLA  S08W57    SF                3927
+
+ 160       0800   0808      0813  G18  5   XRA  1-8A      C7.8    4.5E-03   3933
+ 160 +     0806   0807      0813  SVI  3   FLA  S07W54    SF                3933
+
+ 170       0816   0816      0819  LEA  3   FLA  N18W77    SF                3929
+
+ 180       0829   0830      0837  LEA  3   FLA  N18W81    SF                3929
+
+ 190       0843   0843      0846  LEA  3   FLA  N18W81    SF                3929
+
+ 200 +     0854   0859      0904  SVI  3   FLA  N20W79    SF                3929
+
+ 210 +     0925   0929      0936  SVI  3   FLA  N22E20    SF                3938
+
+ 220       0928   0939      0941  LEA  3   FLA  N18W81    SF                3929
+
+ 230 +     0944   0948      1017  SVI  3   FLA  N15W15    SF                3936
+ 230 +     1009   ////      1009  LEA  C   RSP  025-180   III/2             3936
+
+ 250       1102   1109      1113  G18  5   XRA  1-8A      C7.1    2.9E-03   3933
+ 250       1108   1108      1111  SVI  3   FLA  S07W56    SF                3933
+
+ 260       1112   1121      1131  G18  5   XRA  1-8A      M4.5    3.0E-02   3932
+ 260 +     1112   1117      1143  SVI  3   FLA  S09W55    SF      ERU       3932
+ 260       1114   1114      1114  SVI  G   RBR  410       100               3932
+
+ 350       1117   1119      1154  SVI  3   FLA  S17W27    1B      ERU       3932
+
+ 260       1118   1119      1120  SVI  G   RBR  8800      680               3932
+ 260       1118   1119      1120  SVI  G   RBR  15400     610               3932
+ 260       1118   1118      1120  SVI  G   RBR  4995      400               3932
+ 260       1118   1119      1120  SVI  G   RBR  2695      300               3932
+
+ 240 +     1121   1126      1129  SVI  3   FLA  N11W22    SF                3936
+
+ 270       1141   ////      1143  SVI  C   RSP  048-145   III/2                 
+
+ 280       1153   1153      1323  SVI  3   FLA  N14W27    SF                3934
+
+ 360       1155   1155      1212  SVI  3   FLA  N11W22    SF                3936
+
+ 370       1214   1223      1231  SVI  3   FLA  N21E17    SF                3938
+
+ 290       1315   1317      1323  SVI  3   FLA  N11W23    SF                3936
+
+ 300 +     1325   ////      1328  SVI  C   RSP  041-158   III/2                 
+
+ 310       1334   1335      1339  SVI  3   FLA  N17W82    SF                3929
+
+ 320       1415   1420      1425  SVI  3   FLA  N17W82    SF                3929
+
+ 330       1427   1427      1431  SVI  3   FLA  N17W82    SF                3929
+
+ 340       1434   1435      1438  SVI  3   FLA  N17W82    SF                3929
+
+ 850      A1436   ////     A0703  SVI  3   DSF  N40E22    14                    
+
+ 380       1507   ////      1509  SAG  C   RSP  048-087   III/1                 
+
+ 390       1514   1518      1523  G18  5   XRA  1-8A      M1.3    5.3E-03   3932
+ 390       1516   1516      1522  HOL  3   FLA  S17W30    1F      DSD       3932
+ 390       1516   1516      1516  SAG  U   RBR  8800      100               3932
+ 390       1516   1516      1516  SAG  U   RBR  2695      120               3932
+ 390       1516   1516      1516  SAG  U   RBR  4995      110               3932
+ 390       1516   1516      1516  SAG  U   RBR  610       150               3932
+
+ 400       1540   1541      1543  HOL  3   FLA  S06W61    SF                3933
+
+ 410       1550   1550      1556  HOL  3   FLA  N20E17    SF      DSD       3938
+
+ 420       1630   1639      1643  HOL  3   FLA  S06W61    SF                3933
+
+ 430       1751   1751      1802  HOL  3   FLA  S06W61    SF      DSD       3933
+
+ 440       1832   1849      1854  HOL  3   FLA  N12W27    SF      DSD       3936
+
+ 470       1854   1901      1905  HOL  3   FLA  N19E14    SF                3938
+
+ 480       1913   2018      2112  G18  5   XRA  1-8A      C8.6    4.7E-02   3939
+
+ 450       1939   1939      1946  HOL  3   FLA  S07W63    SF                3933
+
+ 480       1942   1951      2026  HOL  3   FLA  S16E32    SF      DSD       3939
+
+ 500      A2050   ////     A1452  HOL  3   DSF  N02W60    17                    
+
+ 460       2056   2056      2056  PAL  G   RBR  245       150                   
+ 460 +     2056   ////      2056  PAL  C   RSP  025-180   III/2                 
+
+ 490       2204   2214      2223  G18  5   XRA  1-8A      M1.2    1.0E-02   3933
+
+ 510       2302   2319      2327  LEA  3   FLA  N15W26    SF                3936
+ 510       2320   ////      2320  LEA  C   RSP  025-128   III/2             3936
+
+ 520       2350   ////      2355  LEA  C   RSP  025-137   III/2                 

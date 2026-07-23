@@ -1,0 +1,63 @@
+:Product: 20231125events.txt
+:Created: 2023 Nov 28 0357 UT
+:Date: 2023 11 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Nov 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2340 +     0108   0108      0108  LEA  G   RBR  245       150                   
+
+2350 +     0133   0133      0133  LEA  G   RBR  410       180                   
+
+2360       0406   ////      0407  LEA  C   RSP  025-131   III/2                 
+
+2370       0446   ////      0446  LEA  C   RSP  025-180   III/2                 
+
+2390       0818   ////      0830  SVI  C   RSP  025-144   VI/2                  
+
+2400 +     0913   0918      0923  G18  5   XRA  1-8A      C2.1    1.3E-03   3499
+
+2410       1027   1027      1030  SVI  G   RBR  245       880                   
+2410       1027   ////      1029  SVI  C   RSP  025-131   III/2                 
+
+2420       1032   1032      1032  SVI  G   RBR  245       190                   
+
+2430       1051   ////      1054  SVI  C   RSP  025-169   III/2                 
+
+2440       1150   ////      1150  SVI  C   RSP  025-083   III/2                 
+
+2450       1209   ////      1237  SVI  C   RSP  025-082   VI/1                  
+
+2460       1321   ////      1402  SVI  C   RSP  025-180   VI/1                  
+2460       1356   1439      1451  G18  5   XRA  1-8A      C4.4    1.3E-02   3503
+
+2470 +     1450   ////      1454  SVI  C   RSP  050-180   III/2                 
+
+2480 +     1704   1711      1717  G18  5   XRA  1-8A      C1.5    1.1E-03   3490
+2480 +     1707   ////      1711  SAG  C   RSP  025-180   III/1             3490
+2480       1710   1711      1716  HOL  3   FLA  N21W12    SF      ERU       3490
+2480       1710   1710      1711  PAL  G   RBR  245       610               3490
+
+2490       1802   1802      1803  HOL  3   FLA  N21W10    SF      DSD       3490
+
+2500       1826   1827      1833  HOL  3   FLA  N20W10    SF                3490
+
+2510       1843   ////      1843  SAG  C   RSP  037-180   III/1                 
+
+2520       2006   ////      2006  PAL  C   RSP  025-180   III/2                 
+2520       2006   2006      2006  PAL  G   RBR  245       240                   
+
+2530       2008   ////      2009  PAL  C   RSP  025-180   III/1                 
+2530       2009   2009      2009  PAL  G   RBR  245       140                   
+
+2540       2054   ////      2105  PAL  C   RSP  025-154   III/1                 
+
+2550       2154   ////      2154  PAL  C   RSP  025-046   III/1                 
+
+2560       2300   ////      2331  PAL  C   RSP  025-180   VI/1                  

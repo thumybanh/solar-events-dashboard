@@ -1,0 +1,69 @@
+:Product: 20250506events.txt
+:Created: 2025 May 09 0357 UT
+:Date: 2025 05 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 May 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1140       0000   ////      0135  LEA  C   RSP  075-180   CTM/1                 
+
+1150       0308   0308      0308  LEA  G   RBR  245       200                   
+
+1160 +     0559   0611      0622  G19  5   XRA  1-8A      C1.7    2.0E-03   4079
+1160 +    B0609  U0614      0649  SVI  3   FLA  N09W14    SF                4079
+
+1170 +     0757   0757      0757  SVI  G   RBR  245       230                   
+
+1180       0809   ////      0837  LEA  C   RSP  075-151   VI/1                  
+
+1190       0925   ////      1010  SVI  U   RSP  025-075   VI/1                  
+
+1200 +     1045   1051      1056  G19  5   XRA  1-8A      C1.8    1.2E-03   4079
+
+1210 +     1146   1152      1158  G19  5   XRA  1-8A      C1.7    1.1E-03   4079
+
+1220 +     1215   1215      1215  SVI  G   RBR  245       460                   
+
+1310 +     1606   1614      1618  G19  5   XRA  1-8A      C1.1    1.0E-03   4079
+
+1230 +     1612   1620      1652  SVI  3   FLA  N08W21    SF                4079
+1230 +     1618   1622      1624  G19  5   XRA  1-8A      C2.3    8.8E-04   4079
+1230 +     1620   1620      1620  SVI  G   RBR  8800      160               4079
+
+1240 +     1702   1707      1711  G19  5   XRA  1-8A      C4.5    1.8E-03   4079
+1240       1705   1707      1718  HOL  3   FLA  N04W22    SN      ERU       4079
+
+1250       1732   ////      1736  SAG  C   RSP  025-180   III/1                 
+
+1260 +     1742   1750      1755  G19  5   XRA  1-8A      C1.6    5.1E-04   4079
+1260       1747   1748      1750  HOL  3   FLA  N08W21    SF      ERU       4079
+
+1270       1804   1805      1807  HOL  3   FLA  N08W19    SF      ERU       4079
+
+1280 +     1809   1814      1818  G19  5   XRA  1-8A      C1.6    9.4E-04   4079
+1280       1810   1820      1833  HOL  2   FLA  N08W19    SF      ERU       4079
+1280       1810   1810      1810  SAG  U   RBR  245       100               4079
+
+1290       1820   1820      1821  PAL  G   RBR  245       150                   
+
+1370       1820   1820      1823  SAG  U   RNS  245       140                   
+
+1330       1911   ////      1949  PAL  C   RSP  025-075   CTM/1                 
+
+1300 +     1915   1922      1925  G19  5   XRA  1-8A      C1.4    5.3E-04   4079
+
+1320 +     1925   1931      1934  G19  5   XRA  1-8A      C1.8    1.0E-03   4079
+
+1340       2021   2025      2028  G19  5   XRA  1-8A      C1.4    1.0E-03   4079
+
+1380       2028   2032      2034  G19  5   XRA  1-8A      C2.1    9.2E-04   4079
+
+1350 +     2318   2329      2333  G19  5   XRA  1-8A      C1.3    5.5E-04   4079
+
+1360 +     2347   2357      0001  G19  5   XRA  1-8A      C3.0    1.6E-03   4079

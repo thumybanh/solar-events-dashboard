@@ -1,0 +1,58 @@
+:Product: 20240109events.txt
+:Created: 2024 Jan 12 0357 UT
+:Date: 2024 01 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jan 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1550       0155   ////      0425  LEA  C   RSP  044-128   CTM/2                 
+
+1540 +     0243   0249      0255  G16  5   XRA  1-8A      C1.9    1.2E-03   3541
+
+1560 +     0401   0411      0414  G16  5   XRA  1-8A      C3.1    1.1E-03   3538
+
+1570       0622   ////      0623  LEA  C   RSP  025-180   III/1                 
+
+1580 +     0836   0850      0859  G16  5   XRA  1-8A      C2.5    2.8E-03   3538
+
+1770      A1034   ////     A2240  LEA  2   DSF  S43E45    26                    
+
+1590 +     1107   1123      1134  G16  5   XRA  1-8A      C3.8    4.5E-03   3541
+1590       1114   ////      1115  SVI  C   RSP  047-180   III/1                 
+
+1600       1213   ////      1216  SVI  C   RSP  025-152   III/1                 
+
+1610 +     1356   ////      1357  SVI  C   RSP  025-180   III/2                 
+
+1620       1414   1414      1414  SVI  G   RBR  245       130                   
+
+1630 +     1446   1454      1457  G16  5   XRA  1-8A      C1.9    1.6E-03   3538
+
+1730 +     1457   1503      1507  G16  5   XRA  1-8A      C1.9    1.0E-03   3538
+
+1640       1524   ////      1525  SAG  C   RSP  025-051   III/2                 
+
+1650       1531   1708      1713  HOL  3   FLA  N20W66    SF      DSD       3538
+
+1660       1639   1640      1642  HOL  3   FLA  S25E25    SF                3540
+
+1670 +     1702   1710      1719  G16  5   XRA  1-8A      C2.7    2.3E-03   3538
+
+1680       1725   1726      1729  HOL  3   FLA  N19W69    SF                3538
+
+1690       1740   1744      1746  HOL  3   FLA  N20W71    SF                3538
+
+1700       1754   ////      1754  SAG  C   RSP  025-046   III/2                 
+
+1710 +     1900   1905      1913  G16  5   XRA  1-8A      C1.8    9.4E-04   3536
+
+1720 +     1932   1936      1943  G16  5   XRA  1-8A      C3.9    2.0E-03   3538
+1720       1934   1935      1942  HOL  3   FLA  N19W68    SF      DSD       3538
+
+1740 +     2351   2356      0000  G16  5   XRA  1-8A      C2.4    1.1E-03   3536

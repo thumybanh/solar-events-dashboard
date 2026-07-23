@@ -1,0 +1,65 @@
+:Product: 20250513events.txt
+:Created: 2025 May 16 0357 UT
+:Date: 2025 05 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 May 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3120       0033   ////      0058  LEA  C   RSP  025-180   VI/2                  
+
+3130 +     0438   ////      0439  LEA  C   RSP  025-180   III/2                 
+3130 +     0438   0438      0438  LEA  G   RBR  245       190                   
+
+3140      B0445   0514      0519  SVI  3   FLA  N10W71    1F                4086
+3140       0451   ////      0520  LEA  C   RSP  025-180   III/2             4086
+3140       0452   ////      0521  SVI  C   RSP  025-180   VI/2              4086
+
+3150       0522  U0614     A0624  SVI  3   FLA  N09W74    SF                4086
+3150       0612   ////      0617  SVI  C   RSP  049-180   III/1             4086
+
+3160       0643   0645     A0648  SVI  3   FLA  N09W75    SF                4086
+
+3170 +     1020   ////      1028  SVI  C   RSP  025-180   III/2                 
+
+3180       1129   ////      1146  SVI  C   RSP  025-156   VI/1                  
+3180       1129   ////      1133  SAG  C   RSP  025-180   III/1                 
+
+3190 +     1251   ////      1251  SVI  C   RSP  025-180   III/1                 
+
+3200 +     1349   1357      1400  G19  5   XRA  1-8A      C3.7    1.4E-03   4085
+3200       1354  U1358      1412  SVI  3   FLA  N01W10    SF      ERU       4085
+
+3210 +     1420   ////      1424  SAG  C   RSP  025-180   III/2                 
+
+3220 +     1525   1538      1544  G19  5   XRA  1-8A      X1.2    5.8E-02   4086
+3220 +     1533   1533      1537  SVI  G   RBR  245       1700              4086
+3220 +     1533   1535      1536  SAG  G   RBR  410       280               4086
+3220 +     1533   ////      1537  SAG  C   RSP  025-180   III/3             4086
+3220       1534   1539      1554  SVI  3   FLA  N07W86    1B      DSD       4086
+3220 +     1534   1534      1536  SVI  G   RBR  8800      1200              4086
+3220 +     1534   1534      1536  SVI  G   RBR  15400     900               4086
+3220 +     1534   1535      1535  SVI  G   RBR  1415      190               4086
+3220 +     1534   1534      1535  SVI  G   RBR  2695      220               4086
+3220 +     1534   1534      1535  SVI  G   RBR  4995      150               4086
+3220 +     1534   1535      1535  SVI  G   RBR  610       320               4086
+3220       1537   ////      1540  SVI  3   BSL  ////      0.23    B.9A      4086
+3220       1542   ////      1559  SAG  C   RSP  025-180   II/2    658       4086
+
+3230 +     1617   ////      1618  SAG  C   RSP  025-180   III/2                 
+
+3240       1921   ////      1921  SAG  C   RSP  025-047   III/1                 
+
+3250       1940   1941      1941  PAL  G   RBR  15400     700                   
+
+3260 +     2005   2014      2020  G19  5   XRA  1-8A      B9.9    8.7E-04   4087
+3260       2017   2017      2019  HOL  3   FLA  N18E72    SF                4087
+
+3280       2106   ////      2345  SAG  C   RSP  112-180   CTM/1                 
+
+3270 +     2234   2241      2253  G19  5   XRA  1-8A      C2.3    2.0E-03   4085

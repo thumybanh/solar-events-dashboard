@@ -1,0 +1,77 @@
+:Product: 20250825events.txt
+:Created: 2025 Aug 28 0357 UT
+:Date: 2025 08 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Aug 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7040 +     0156   0200      0206  G18  5   XRA  1-8A      C4.8    3.0E-03   4199
+
+7050 +     0229   0235      0240  G18  5   XRA  1-8A      C4.3    2.9E-03   4199
+
+7070 +     0501   0524      0540  G18  5   XRA  1-8A      M4.5    5.9E-02   4199
+7070       0516   0516      0516  SVI  G   RBR  8800      100                   
+
+7080 +     0724   ////      0728  LEA  C   RSP  025-180   III/2                 
+
+7090 +     0813   ////      0859  SVI  C   RSP  025-180   VI/2                  
+
+7100 +     0845   0855      0904  G18  5   XRA  1-8A      C9.9    8.8E-03   4199
+
+7240       0848   0848      0852  SVI  3   FLA  S16E65    SF                4197
+
+7110      B0904  U0904      0917  SVI  3   FLA  S15E67    SF                4197
+
+7120 +     0904   0907      0909  G18  5   XRA  1-8A      M1.0    3.8E-03   4197
+
+7140 +     1030   1042      1051  G18  5   XRA  1-8A      C5.5    4.7E-03   4197
+7140      B1039  U1040     A1046  SVI  3   FLA  S16E65    1F                4197
+
+7150      B1115  U1116     A1132  SVI  3   FLA  S16E65    SF                4197
+
+7160 +     1230   ////      1231  SVI  C   RSP  025-148   III/2                 
+
+7170 +     1234   1242      1245  G18  5   XRA  1-8A      C3.8    2.4E-03   4199
+
+7330       1450   1451      1455  SVI  3   FLA  S16E63    SF                4197
+
+7180 +     1452   1459      1505  G18  5   XRA  1-8A      C4.5    3.4E-03   4199
+
+7190 +     1506   1518      1528  G18  5   XRA  1-8A      M1.2    1.4E-02   4199
+7190 +     1508   1515      1533  HOL  3   FLA  N05E74    SF                    
+
+7200 +     1530   1538      1541  G18  5   XRA  1-8A      M1.1    7.6E-03   4199
+
+7210 +     1611   1616      1622  G18  5   XRA  1-8A      C4.8    3.2E-03   4199
+
+7220 +     1650   1655      1701  G18  5   XRA  1-8A      C4.6    3.1E-03   4199
+
+7340       1718   ////      1719  SAG  C   RSP  025-051   III/1                 
+
+7350       1747   1754      1756  HOL  3   FLA  S17E65    SF                4197
+
+7360       1757   1801      1801  HOL  3   FLA  S17E65    SF                4197
+
+7370       1803   1804      1805  HOL  3   FLA  S17E65    SF                4197
+
+7380       1806   1811      1813  HOL  3   FLA  S17E65    SF                4197
+
+7390       1818   1822      1827  HOL  3   FLA  S17E65    SF                4197
+
+7400       1842   ////      1843  SAG  C   RSP  025-045   III/1                 
+
+7410       2105   2106      2108  HOL  3   FLA  N10E19    SF                4191
+
+7230 +     2117   2124      2127  G18  5   XRA  1-8A      C3.2    2.0E-03   4199
+
+7420       2139   2139      2145  HOL  3   FLA  N09W48    SF                    
+
+7250 +     2308   2315      2320  G18  5   XRA  1-8A      C3.1    2.2E-03   4197
+
+7430 +     2346   ////      2346  PAL  C   RSP  025-073   III/2                 

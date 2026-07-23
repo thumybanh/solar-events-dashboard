@@ -1,0 +1,44 @@
+:Product: 20230608events.txt
+:Created: 2023 Jun 11 0357 UT
+:Date: 2023 06 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jun 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 610 +     0209   0216      0222  G16  5   XRA  1-8A      C1.6    1.2E-03   3327
+
+ 620 +     0248   0258      0306  G16  5   XRA  1-8A      C3.2    2.6E-03   3327
+ 620 +     0249   0257      0311  LEA  3   FLA  S15E28    SF                3327
+
+ 630 +     0443   0459      0511  G16  5   XRA  1-8A      C7.3    7.4E-03   3327
+ 630 +     0450   0458      0522  LEA  3   FLA  S17E31    SF                3327
+
+ 640 +     0607   0609      0611  LEA  3   FLA  N15W86    SF                3324
+
+ 650 +     0749   0758      0810  G16  5   XRA  1-8A      C2.0    2.3E-03       
+ 650       0801   ////      0801  SVI  C   RSP  049-066   III/1                 
+
+ 660 +     1008   1024      1037  G16  5   XRA  1-8A      C4.8    6.1E-03       
+
+ 670 +     1407   ////      1421  SVI  C   RSP  025-180   VI/2                  
+
+ 680 +     1650   1656      1703  G16  5   XRA  1-8A      C1.8    1.3E-03   3327
+ 680       1655   1655      1715  HOL  3   FLA  S14E20    SF      DSD       3327
+
+ 690 +     2044   ////      2044  PAL  C   RSP  025-137   III/1                 
+
+ 710       2114   ////      2123  SAG  C   RSP  039-070   II/1    390           
+
+ 700       2115   ////      2117  PAL  C   RSP  052-165   II/1    445           
+
+ 720       2157   ////      2214  PAL  C   RSP  025-180   VI/1                  
+
+ 730       2312   2313      2318  HOL  3   FLA  S16W47    SF                3321
+
+ 740 +     2356   0007      0024  G16  5   XRA  1-8A      C2.1    3.1E-03   3327

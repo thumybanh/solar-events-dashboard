@@ -1,0 +1,70 @@
+:Product: 20240927events.txt
+:Created: 2024 Sep 30 0357 UT
+:Date: 2024 09 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Sep 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3420       0028   ////      0039  LEA  C   RSP  025-096   VI/1                  
+
+3430 +     0040   0049      0059  G16  5   XRA  1-8A      C4.8    5.0E-03   3839
+
+3440 +     0123   0134      0146  G16  5   XRA  1-8A      C5.3    6.8E-03   3839
+
+3450 +     0300   0311      0321  G16  5   XRA  1-8A      C6.6    7.6E-03   3839
+
+3460 +     0604   ////      0604  LEA  C   RSP  025-091   III/1                 
+
+3470       0722   0722      0729  SVI  3   FLA  S21E09    SF                3835
+
+3480 +     0743   0800      0815  G16  5   XRA  1-8A      C9.9    1.4E-02   3839
+3480 +     0751   0756      0758  SVI  3   FLA  S15E83    SF                3839
+3480 +     0758   ////      0800  LEA  C   RSP  025-106   III/1             3839
+3480       0842   ////      0909  SVI  C   RSP  025-126   VI/2              3839
+
+3490       0844   ////      0852  LEA  C   RSP  025-180   III/1             3839
+3490       0848   0848      0852  SVI  3   FLA  S15E67    SF                3839
+
+3500 +     0905   ////      0907  SVI  C   RSP  025-180   III/2                 
+3500 +     0906   0906      0906  SVI  G   RBR  245       160                   
+
+3510       1006   1007      1007  SVI  G   RBR  245       160                   
+
+3520 +     1015   1029      1048  G16  5   XRA  1-8A      C8.4    1.5E-02   3839
+3520 +     1045   1050      1104  SVI  3   FLA  S16E80    SF                3839
+
+3530       1108   1110      1116  SVI  3   FLA  S16E80    SF                3839
+
+3540       1120   1130      1139  SVI  3   FLA  S15E81    SF                3839
+
+3550       1142   ////      1143  SVI  C   RSP  025-046   III/1                 
+
+3560       1151   1151      1154  SVI  3   FLA  S15E79    SF                3839
+
+3570       1203   1205      1207  SVI  3   FLA  S15E79    SF                3839
+
+3580       1215   1232      1244  SVI  3   FLA  S15E79    SF                3839
+
+3590       1308   1311      1325  SVI  3   FLA  S15E81    SF                3839
+
+3600       1342   1343      1345  SVI  3   FLA  S15E81    SF                3839
+
+3610       1548   ////      1548  SVI  C   RSP  025-069   III/1                 
+
+3620       1640   1641      1643  HOL  3   FLA  S16E85    SF                3839
+
+3630 +     1720   ////      1724  SAG  C   RSP  025-148   III/1                 
+
+3640       1802   1806      1808  HOL  3   FLA  S16E85    SF                3839
+3640       1807   ////      1807  SAG  C   RSP  025-151   III/1             3839
+3640       1807   ////      1818  PAL  C   RSP  025-075   VI/1              3839
+
+3650 +     1836   1846      1855  G16  5   XRA  1-8A      C3.3    3.4E-03   3839
+
+3660       1907   ////      1907  SAG  C   RSP  025-046   III/1                 

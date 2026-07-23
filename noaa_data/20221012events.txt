@@ -1,0 +1,63 @@
+:Product: 20221012events.txt
+:Created: 2022 Oct 15 0357 UT
+:Date: 2022 10 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Oct 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8840       0007   ////      0008  PAL  C   RSP  119-180   III/1                 
+
+8850       0008   ////      0008  LEA  C   RSP  025-180   III/1                 
+
+8860       0041   ////      0111  LEA  C   RSP  025-180   III/2                 
+
+8870 +     0225   0237      0258  G16  5   XRA  1-8A      C1.0    1.8E-03       
+8870       0232   ////      0232  LEA  C   RSP  025-180   III/1                 
+
+8890 +     0321   ////      0343  LEA  C   RSP  025-180   III/2                 
+
+8880       0322   0322      0322  LEA  G   RBR  245       370                   
+
+8900       0434   ////      0436  LEA  C   RSP  025-058   III/2                 
+
+8910 +     0721   0721      0721  LEA  G   RBR  245       570                   
+8910       0721   ////      0721  SVI  C   RSP  136-180   III/1                 
+
+8920       0846   0930      1012  G16  5   XRA  1-8A      C3.7    1.4E-02   3112
+8920       0943   ////      0947  SVI  C   RSP  025-084   III/1                 
+
+8930       1027   ////      1027  SVI  C   RSP  151-180   III/1                 
+8930       1027   1027      1027  SVI  G   RBR  245       130                   
+
+8940 +     1231   ////      1333  SVI  C   RSP  134-156   CTM/1                 
+
+8950 +     1414   1418      1422  G16  5   XRA  1-8A      C8.8    2.1E-03   3112
+8950 +     1417   1418      1423  HOL  3   FLA  N25W52    SN      ERU       3112
+8950 +     1417   1418      1418  SVI  G   RBR  245       5700              3112
+8950       1417   1417      1418  SVI  G   RBR  8800      180               3112
+8950       1417   1418      1418  SVI  G   RBR  15400     420               3112
+8950       1417   1417      1418  SAG  U   RBR  410       290               3112
+8950       1418   1418      1423  SAG  U   RBR  610       44                3112
+8950 +     1418   ////      1418  SAG  C   RSP  025-180   III/3             3112
+
+8960 +     1424   ////      1432  SAG  C   RSP  034-180   II/1    463       3112
+8960       1428   1432      1438  SVI  3   FLA  N25W52    SF                3112
+
+8970       1435   ////      1453  SVI  C   RSP  025-132   VI/1                  
+
+8980       1540   ////      1550  SAG  C   RSP  025-048   III/1                 
+
+8990 +     1626   1629      1633  G16  5   XRA  1-8A      C4.7    1.2E-03   3112
+8990       1627   1628      1633  HOL  3   FLA  N25W53    SF      ERU       3112
+8990       1628   ////      1631  SAG  C   RSP  025-180   III/2             3112
+8990       1628   1628      1629  SAG  U   RBR  245       3600              3112
+
+9000 +     1924   1928      1935  G16  5   XRA  1-8A      B8.9    5.6E-04   3119
+
+9010 +     2354   0019      0037  G16  5   XRA  1-8A      M1.5    2.2E-02   3112

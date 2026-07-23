@@ -1,0 +1,54 @@
+:Product: 20250731events.txt
+:Created: 2025 Aug 03 0357 UT
+:Date: 2025 07 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 400       0000   ////      0154  LEA  C   RSP  067-180   CTM/1                 
+
+ 390 +     0006   ////      0013  LEA  C   RSP  025-132   III/2                 
+
+ 400 +     0050   ////      0051  PAL  C   RSP  025-180   III/3                 
+
+ 410 +     0220   ////      0240  PAL  C   RSP  025-075   VI/2                  
+ 410 +     0236   0242      0246  G18  5   XRA  1-8A      C1.4    9.1E-04   4154
+
+ 420 +     0446   ////      0447  SVI  C   RSP  025-180   III/1                 
+
+ 430 +     0523   ////      0524  LEA  C   RSP  025-180   III/1                 
+
+ 440 +     0632   0632      0632  LEA  G   RBR  245       780                   
+
+ 450 +     1011   1020      1025  G18  5   XRA  1-8A      C1.4    1.1E-03   4153
+
+ 460 +     1342   ////      1343  SAG  C   RSP  025-155   III/2                 
+
+ 500       1434   1453      1511  G18  5   XRA  1-8A      C1.5    3.1E-03   4153
+
+ 470       1530   1543      1553  G18  5   XRA  1-8A      C1.7    2.2E-03   4155
+ 470       1541   1543      1546  HOL  3   FLA  S07W33    SF                4155
+
+ 480 +     1711   ////      1712  SAG  C   RSP  025-180   III/2                 
+
+ 490       1812   ////      1840  SAG  C   RSP  025-072   VI/2                  
+ 490       1829   1852      1903  G18  5   XRA  1-8A      C1.6    2.6E-03   4153
+ 490       1836   ////      1840  PAL  C   RSP  025-075   III/2                 
+
+ 510 +     1947   1951      2000  G18  5   XRA  1-8A      C1.3    1.0E-03       
+ 510 +     1948   ////      2324  PAL  C   RSP  025-158   VI/2                  
+
+ 550       2101   ////      2250  SAG  C   RSP  025-124   VI/1                  
+
+ 520       2107   2108      2109  HOL  3   FLA  S31W61    SF                4153
+
+ 530       2118   2122      2147  HOL  3   FLA  N11W06    SF      DSD       4167
+
+ 540 +     2155   2159      2204  G18  5   XRA  1-8A      C1.9    1.0E-03   4167
+ 540       2159   2201      2204  HOL  3   FLA  N10W09    SF      DSD       4167

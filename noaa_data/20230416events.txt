@@ -1,0 +1,67 @@
+:Product: 20230416events.txt
+:Created: 2023 Apr 19 0357 UT
+:Date: 2023 04 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4790 +     0000   ////      0441  PAL  C   RSP  109-180   CTM/2                 
+
+4740       0029   0034      0051  HOL  3   FLA  S07W56    SF                3280
+
+4750       0039   0041      0043  HOL  3   FLA  S24E41    SF      DSD       3281
+
+4760       0049   0050      0055  HOL  3   FLA  N11E37    SF      DSD       3282
+
+4770       0101   ////      0101  PAL  C   RSP  025-059   III/1                 
+
+4780       0200   ////      0206  PAL  C   RSP  025-075   III/1                 
+
+4800 +     0328   0339      0348  G16  5   XRA  1-8A      C3.3    3.4E-03   3281
+
+4850       0456   ////      0856  SVI  C   RSP  130-180   CTM/1                 
+
+4810       0537   ////      0539  SVI  C   RSP  025-153   III/1                 
+
+4820       0553   ////      0604  SVI  C   RSP  038-155   VI/1                  
+
+4830       0734   0734      0734  SVI  G   RBR  245       110                   
+
+4840       0830   ////      0830  SVI  C   RSP  025-057   III/1                 
+
+4860 +     0933   0937      0946  G16  5   XRA  1-8A      C2.0    1.6E-03   3280
+4860       0936   0936      0944  LEA  3   FLA  S11W33    SF                3280
+
+4870       0950   ////      1043  SVI  C   RSP  146-180   CTM/1                 
+
+4880       1346   ////      1510  SAG  C   RSP  136-180   CTM/1                 
+
+4890 +     1455   ////      1528  SVI  C   RSP  025-082   VI/1                  
+
+4900       1700   ////      1700  SAG  C   RSP  025-049   III/1                 
+
+4910 +     1731   1744      1800  G16  5   XRA  1-8A      C9.0    1.2E-02       
+4910       1735   ////      2117  SAG  C   RSP  121-180   CTM/1                 
+
+4920       1823   ////      1915  SAG  C   RSP  025-046   VI/1                  
+
+4930       1936   1956      2109  HOL  3   FLA  S06W69    SF                3280
+4930 +     1944   1953      2001  G16  5   XRA  1-8A      C3.7    3.4E-03   3280
+
+4940       2038   ////      2211  SAG  C   RSP  025-180   VI/1                  
+
+4950       2231   2233      2237  HOL  3   FLA  S06W69    SF                3280
+
+4960       2306   2344     A2359  LEA  3   FLA  S11W33    SF                3280
+
+4990       2309   2317      2318  HOL  3   FLA  S06W69    SF                3280
+
+5000       2325   2344     A2359  HOL  3   FLA  S06W69    SF                3280
+
+4960 +     2331   ////      2334  PAL  C   RSP  025-180   III/2             3280

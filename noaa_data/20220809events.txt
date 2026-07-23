@@ -1,0 +1,23 @@
+:Product: 20220809events.txt
+:Created: 2022 Aug 12 0357 UT
+:Date: 2022 08 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2022 Aug 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2540       0638   ////      0638  SVI  C   RSP  025-081   III/1                 
+2540       0638   ////      0650  LEA  U   RSP  025-087   VI/1                  
+
+2550       0828   ////      0828  SVI  C   RSP  038-051   III/1                 
+
+2560 +     1519   1522      1527  G16  5   XRA  1-8A      B6.1    2.8E-04   3072
+
+2570 +     2138   2149      2156  G16  5   XRA  1-8A      B5.1    4.9E-04   3072
+
+2580 +     2316   2324      2333  G16  5   XRA  1-8A      B6.4    5.3E-04   3072

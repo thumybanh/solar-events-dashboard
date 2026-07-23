@@ -1,0 +1,28 @@
+:Product: 20250703events.txt
+:Created: 2025 Jul 06 0357 UT
+:Date: 2025 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4820       0037   ////      0041  LEA  C   RSP  025-180   III/2                 
+
+4830 +     0120   0130      0200  G18  5   XRA  1-8A      C1.2    2.6E-03   4126
+
+4890       0144   0148      0150  G19  5   XRA  1-8A      C1.0    5.7E-04   4126
+
+4840       0209   0218      0226  G18  5   XRA  1-8A      C1.3    1.5E-03   4122
+
+4850 +     0226   0247      0255  G18  5   XRA  1-8A      C1.6    2.7E-03   4126
+
+4860 +     0808   0815      0821  G18  5   XRA  1-8A      C2.0    1.3E-03   4126
+
+4870       0931   ////      0931  SVI  C   RSP  025-041   III/1                 
+
+4880       1115   ////      1116  SVI  C   RSP  025-050   III/1                 

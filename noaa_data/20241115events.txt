@@ -1,0 +1,70 @@
+:Product: 20241115events.txt
+:Created: 2024 Nov 18 0357 UT
+:Date: 2024 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8720      B0138  U0146     B0208  G16  5   XRA  1-8A      M1.1    1.2E-02   3893
+8720 +     0140   0140      0141  LEA  G   RBR  1415      1400                  
+8720       0142   0142      0142  LEA  G   RBR  610       100                   
+
+8750       0319   ////      0338  LEA  C   RSP  025-180   VI/2                  
+
+8760       0408   0408      0408  LEA  G   RBR  410       110                   
+8760       0408   ////      0436  LEA  C   RSP  025-180   VII/3                 
+
+8770 +     0529   ////      0612  LEA  C   RSP  025-180   VI/3                  
+
+8780       0717   ////      0717  LEA  C   RSP  025-087   III/2                 
+
+8790 +     0806   ////      0837  LEA  C   RSP  025-180   VI/3              3889
+8790 +     0814   0817      0827  SVI  3   FLA  S10W24    SF                3889
+8790       0814   ////      0817  SVI  C   RSP  025-180   III/2             3889
+8790 +     0816   0816      0816  SVI  G   RBR  410       160               3889
+8790       0816   0816      0816  LEA  G   RBR  245       290               3889
+
+8800       1104   ////      1157  SVI  C   RSP  045-180   VI/2                  
+
+8810       1205   1218      1226  G16  5   XRA  1-8A      M1.0    8.3E-03   3893
+8810      B1213  U1214     A1239  SVI  3   FLA  S20E43    SF      ERU       3893
+
+8820       1546   ////      1546  SAG  C   RSP  025-180   III/1                 
+
+8860       1655   1706      1711  G16  5   XRA  1-8A      C2.7    2.0E-03   3892
+
+8830 +     1728   ////      1729  SAG  C   RSP  025-180   III/1                 
+
+8840       1812   ////      1814  PAL  C   RSP  025-064   III/1                 
+
+8870       1832   1842      1847  G16  5   XRA  1-8A      C2.2    1.8E-03   3892
+
+8880       1856   ////      2111  PAL  C   RSP  025-180   VII/3                 
+8880       1856   ////      2023  SAG  C   RSP  025-180   VI/1                  
+
+8850       1859   1900      1903  HOL  3   FLA  S17W44    SF                3891
+
+8890       2030   ////      2032  PAL  C   RSP  025-180   V/3                   
+8890 +     2030   2030      2030  PAL  G   RBR  245       780                   
+8890       2030   2030      2031  PAL  G   RBR  1415      0.7                   
+8890       2030   2030      2030  PAL  G   RBR  4995      18                    
+8890       2030   2030      2030  PAL  G   RBR  8800      40                    
+8890       2030   ////      2030  SAG  C   RSP  025-180   III/2                 
+8890       2030   2030      2030  PAL  G   RBR  610       0.7                   
+8890       2030   2030      2031  PAL  G   RBR  2695      0.6                   
+
+8900 +     2210   ////      2359  LEA  C   RSP  025-180   VI/3                  
+8900 +     2222   2222      2223  PAL  G   RBR  245       180                   
+
+8910 +     2227   2234      2239  G16  5   XRA  1-8A      C2.1    1.4E-03   3889
+
+8930       2322   ////      2359  PAL  C   RSP  025-180   VI/2                  
+
+8920 +     2346   2348      2348  PAL  G   RBR  245       1900                  
+8920 +     2346   2348      2348  PAL  G   RBR  410       470                   

@@ -1,0 +1,48 @@
+:Product: 20231104events.txt
+:Created: 2023 Nov 07 0357 UT
+:Date: 2023 11 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Nov 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8700       0102   ////      0143  LEA  C   RSP  025-100   VI/1                  
+
+8710       0354   0407      0425  G18  5   XRA  1-8A      C2.4    3.8E-03   3473
+8710       0400   0406      0416  LEA  3   FLA  N15W36    SF      UMB       3473
+
+8720       0537   ////      0538  LEA  C   RSP  025-180   III/1                 
+
+8730 +     0650   ////      0650  LEA  C   RSP  025-098   III/1                 
+
+8740       0734   0735      0736  LEA  3   FLA  S19W60    SF      UMB       3474
+
+8750       0739   ////      0740  LEA  C   RSP  025-100   III/1                 
+
+8760       0807   0820      0835  G18  5   XRA  1-8A      C2.1    3.3E-03   3472
+
+8770       0944   0952      0957  G18  5   XRA  1-8A      C1.7    1.3E-03   3472
+
+8780       1023   ////      1023  SVI  U   RSP  114-169   III/1                 
+
+8790       1044   1047      1050  SVI  3   FLA  N20W72    SF                3472
+8790       1047   ////      1048  SVI  C   RSP  030-149   III/1             3472
+
+8800       1115   ////      1117  SVI  C   RSP  030-083   III/1                 
+
+8810       1151   ////      1225  SVI  C   RSP  025-180   VI/2                  
+8810       1218   ////      1224  SAG  C   RSP  025-180   III/1                 
+
+8820 +     2022   ////      2022  PAL  C   RSP  025-125   III/1                 
+
+8830       2104   ////      2104  PAL  C   RSP  025-180   III/2                 
+
+8840 +     2239   2239      2239  PAL  G   RBR  245       800                   
+8840 +     2239   ////      2239  LEA  C   RSP  025-180   III/2                 
+
+8850       2252   ////      2253  LEA  C   RSP  025-180   III/2                 

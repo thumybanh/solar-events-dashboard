@@ -1,0 +1,87 @@
+:Product: 20251001events.txt
+:Created: 2025 Oct 04 0357 UT
+:Date: 2025 10 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Oct 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5460       0042   0042      0042  LEA  G   RBR  245       130                   
+
+5470 +     0044   0058      0113  G18  5   XRA  1-8A      C3.4    5.1E-03       
+
+5480 +     0115   0130      0154  G18  5   XRA  1-8A      C7.8    1.5E-02   4230
+5480       0135   0136      0137  LEA  3   FLA  S10W37    SF                4230
+
+5490 +     0215   0226      0237  G18  5   XRA  1-8A      M1.2    1.3E-02   4232
+5490       0216   0226      0242  LEA  3   FLA  N06E20    1N                4232
+
+5500 +     0249   0251      0250  LEA  3   FLA  N06E18    SF                4232
+
+5520 +     0327   0327      0327  LEA  G   RBR  245       140                   
+
+5530       0339   0339      0339  LEA  U   RBR  245       150                   
+
+5540       0411   0411      0413  LEA  3   FLA  N06E18    SF                4232
+
+5550       0457   0457      0502  LEA  3   FLA  N06E18    SF                4232
+
+5560       0506   0506      0508  LEA  3   FLA  N06E16    SF                4232
+
+5570       0526   0526      0528  LEA  3   FLA  N06E16    SF                4232
+
+5580       0545   0545      0545  LEA  G   RBR  245       120                   
+
+5590 +     0705   0721      0729  G18  5   XRA  1-8A      C4.1    4.7E-03   4240
+
+5600       1114   ////      1115  SVI  U   RSP  143-180   III/1                 
+
+5610       1119   1119      1119  SAG  G   RBR  245       150                   
+
+5620 +     1128   1135      1141  G18  5   XRA  1-8A      C8.6    6.4E-03   4236
+5620 +     1132   1132      1132  SVI  G   RBR  2695      190                   
+5620 +     1132   1132      1132  SVI  G   RBR  4995      100                   
+
+5630 +     1152   ////      1314  SVI  U   RSP  075-180   CTM/2                 
+
+5640       1433   1433      1433  SAG  G   RBR  245       100                   
+
+5650       1435   1435      1435  SAG  G   RBR  245       100                   
+
+5660       1609   1609      1609  SAG  G   RBR  245       160                   
+
+5680 +     1636   1650      1700  G18  5   XRA  1-8A      M1.2    1.1E-02   4232
+5680       1640   1645      1734  HOL  3   FLA  N08E12    1N      PRB       4232
+5680       1647   1647      1647  PAL  G   RBR  4995      100               4232
+5680       1653   1653      1654  SAG  G   RBR  245       100               4232
+
+5690       1704   1704      1704  SAG  G   RBR  245       100                   
+
+5700       1715   1715      1715  SAG  G   RBR  245       100                   
+
+5710 +     1726   1726      1727  SAG  G   RBR  245       160                   
+
+5720       1735   1735      1735  SAG  G   RBR  245       100                   
+
+5670 +     1737   1737      1903  SAG  G   RNS  245       210                   
+
+5730       1752   1753      1756  HOL  3   FLA  N08E12    SF                4232
+
+5740 +     1838   1838      1838  SAG  G   RBR  245       1100                  
+
+5750       1903   1903      1903  PAL  G   RBR  245       170                   
+
+5760       1903   ////      1904  PAL  C   RSP  025-075   III/1                 
+
+5770       2150   2150      2159  HOL  3   FLA  N09W00    SF      ERU       4236
+5770       2157   2157      2157  PAL  G   RBR  245       150               4236
+
+5780       2324   ////      2348  LEA  C   RSP  025-061   VI/2              4232
+5780 +     2327   ////      2359  PAL  C   RSP  109-180   CTM/1             4232
+5780 +     2330   2330      2330  LEA  G   RBR  245       110               4232
+5780 +     2339   2341      2341  HOL  3   FLA  N06E10    SF                4232

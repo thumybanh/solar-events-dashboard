@@ -1,0 +1,61 @@
+:Product: 20230323events.txt
+:Created: 2023 Mar 26 0357 UT
+:Date: 2023 03 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Mar 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9660 +     0000   ////      0125  LEA  C   RSP  043-180   CTM/2                 
+9660 +     0000   ////      0151  PAL  C   RSP  025-180   VI/2                  
+9660       0042   0043      0043  LEA  G   RBR  245       120                   
+
+9680       0403   ////      1020  LEA  C   RSP  109-180   CTM/1                 
+9680       0416   ////      0454  LEA  C   RSP  025-180   VI/1                  
+
+9690       0637   ////      0637  SVI  C   RSP  025-077   III/1                 
+
+9700       0726   ////      1654  SVI  C   RSP  075-180   CTM/1                 
+9700       0801   ////      0923  SVI  C   RSP  025-180   VI/2                  
+9700       0819   0819      0819  LEA  G   RBR  245       120                   
+9700       0823   0823      0823  LEA  G   RBR  410       100                   
+
+9710       0855   ////      0855  LEA  C   RSP  035-180   III/1                 
+
+9720       0929   0929      0929  LEA  G   RBR  245       380                   
+
+9730 +     1155   1202      1221  G16  5   XRA  1-8A      B9.6    1.4E-03       
+9730       1158   1201      1203  SVI  3   FLA  S14E22    SF                    
+
+9740 +     1313   1322      1330  G16  5   XRA  1-8A      B9.2    8.8E-04       
+9740       1324   ////      1324  SVI  C   RSP  025-079   III/1                 
+
+9750       1344   1344      1345  SAG  U   RBR  245       150                   
+
+9760       1358   1358      1359  SAG  U   RBR  245       160                   
+
+9830       1359   ////      2207  SAG  C   RSP  114-180   CTM/1                 
+
+9770       1410   ////      1654  SVI  C   RSP  025-180   VI/1                  
+
+9780       1552   ////      1643  SAG  C   RSP  025-048   VI/1                  
+
+9930      A1610   ////     A0538  SVI  3   DSF  N02E13    6                     
+
+9790       1736   ////      1737  SAG  C   RSP  025-151   III/1                 
+9790       1736   1736      1736  SAG  U   RBR  245       110                   
+
+9800       1838   ////      2054  SAG  C   RSP  025-073   VI/2                  
+
+9810       2133   ////      2134  SAG  C   RSP  025-054   III/1                 
+
+9820 +     2142   2148      2154  G16  5   XRA  1-8A      B8.6    5.8E-04       
+9820       2145   2146      2204  HOL  3   FLA  N17E16    SF                    
+
+9840       2240   ////      2359  LEA  C   RSP  069-180   CTM/1                 
+9840       2315   2315      2315  LEA  G   RBR  245       220                   

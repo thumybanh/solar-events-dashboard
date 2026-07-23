@@ -1,0 +1,38 @@
+:Product: 20251022events.txt
+:Created: 2025 Oct 25 0357 UT
+:Date: 2025 10 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Oct 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1230 +     0019   0034      0051  G18  5   XRA  1-8A      C4.4    5.9E-03   4257
+1230       0028   0054      0055  LEA  3   FLA  S11E24    SF                4257
+
+1260       0107   0152      0203  G18  5   XRA  1-8A      C4.7    1.3E-02   4259
+
+1240       0111   0114      0116  PAL  G   RBR  610       1000                  
+
+1250       0126   0132      0134  PAL  G   RBR  610       220                   
+
+1270       0507   ////      0508  LEA  C   RSP  025-167   III/3                 
+
+1280 +     0631   0636      0641  G18  5   XRA  1-8A      C1.8    1.2E-03       
+
+1290       0655   ////      0655  SVI  C   RSP  025-042   III/1                 
+
+1300 +     0702   0720      0808  G18  5   XRA  1-8A      C4.2    1.4E-02       
+
+1310       0907   0907      0907  SVI  G   RBR  245       240                   
+
+1320 +     1325   1338      1345  G18  5   XRA  1-8A      C2.4    2.2E-03       
+
+1330       1504   ////      1505  SVI  C   RSP  118-180   III/1                 
+1330       1504   1504      1504  SVI  G   RBR  245       110                   
+
+1340       2129   ////      2134  PAL  C   RSP  025-075   III/2                 

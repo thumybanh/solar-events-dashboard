@@ -1,0 +1,83 @@
+:Product: 20230413events.txt
+:Created: 2023 Apr 16 0357 UT
+:Date: 2023 04 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Apr 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3650       0003   ////      0026  PAL  C   RSP  025-180   VI/2              3279
+
+3660       0024   ////      0025  LEA  C   RSP  025-180   III/2                 
+
+3860       0027   0038      0055  HOL  3   FLA  S22W00    SF      ERU       3272
+
+3840       0037   0041      0054  HOL  3   FLA  S21E62    SF                3279
+
+3650       0046   0049      0050  LEA  3   FLA  S19E62    SF                3279
+3650 +     0059   ////      0105  LEA  C   RSP  025-160   III/2             3279
+3650 +     0103   0106      0110  G16  5   XRA  1-8A      C3.3    1.6E-03   3279
+
+3670 +     0115   0123      0131  G16  5   XRA  1-8A      C3.7    3.4E-03   3279
+3670       0124   0124      0129  LEA  3   FLA  S19E62    SF                3279
+
+3680 +     0217   0224      0231  G16  5   XRA  1-8A      C2.5    1.8E-03   3279
+3680 +     0221   0223      0226  LEA  3   FLA  S19E62    SF                3279
+
+3690 +     0354   0407      0411  G16  5   XRA  1-8A      C2.2    1.9E-03   3280
+3690       0400   ////      0415  LEA  C   RSP  025-180   VI/1                  
+
+3700 +     0424   0434      0441  G16  5   XRA  1-8A      C2.0    1.4E-03   3272
+
+3710 +     0508   ////      0745  SVI  C   RSP  041-180   CTM/1                 
+3710       0540   0541      0544  SVI  3   FLA  S10W16    SF      DSD           
+
+3720       0602   0605      0628  SVI  3   FLA  S20E59    SF                3279
+
+3730       0630   ////      0631  SVI  C   RSP  025-081   III/1                 
+
+3740       0652   ////      0723  SVI  U   RSP  025-071   VI/1                  
+
+3750 +     0753   0759      0803  G16  5   XRA  1-8A      C3.9    1.5E-03   3279
+3750 +     0757   0759      0809  SVI  3   FLA  S20E56    SF                3279
+
+3760       0811   0818      0829  SVI  3   FLA  S23E75    SF                    
+3760 +     0815   0820      0831  G16  5   XRA  1-8A      C3.8    2.9E-03   3281
+
+3770       0913   0915      0920  SVI  3   FLA  S21E57    SF                3279
+
+3780       0957   1003      1007  SVI  3   FLA  S21E57    SF                3279
+
+3800 +     1032   1043      1053  G16  5   XRA  1-8A      C8.4    4.0E-03   3272
+3800       1035   ////      1220  SAG  C   RSP  113-147   CTM/1             3272
+3800       1037   1040      1122  SVI  3   FLA  S19W08    SN                3272
+3800 +     1050   ////      1051  SAG  C   RSP  025-152   III/1             3272
+
+3870 +     1053   1056      1100  G16  5   XRA  1-8A      C6.7    3.0E-03   3279
+3870       1054   1056      1108  SVI  3   FLA  S20E54    SF                3279
+
+3810       1134   ////      1135  SVI  U   RSP  025-082   III/1                 
+3810       1134   ////      1216  SAG  C   RSP  025-180   VI/2                  
+
+3820 +     1153   1156      1202  G16  5   XRA  1-8A      C4.3    2.1E-03   3279
+3820       1154   1155      1212  SVI  3   FLA  S20E53    SF                3279
+3820       1157   ////      1201  SVI  C   RSP  025-180   III/2             3279
+
+3880       1415   ////      1415  SVI  C   RSP  025-085   III/1                 
+
+3890 +     1556   ////      1556  SAG  C   RSP  131-150   III/1                 
+
+3900 +     1807   ////      1909  SAG  C   RSP  025-146   VI/2                  
+3900 +     1850   1857      1903  G16  5   XRA  1-8A      C2.2    1.4E-03   3281
+
+3910 +     2029   2036      2042  G16  5   XRA  1-8A      C2.1    1.5E-03   3282
+3910       2033   2037      2042  HOL  3   FLA  N10E68    SF                3282
+
+3920 +     2148   ////      2201  SAG  C   RSP  025-069   VI/1                  
+
+3930       2342   ////      2343  PAL  C   RSP  025-153   III/2                 

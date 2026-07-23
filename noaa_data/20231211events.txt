@@ -1,0 +1,53 @@
+:Product: 20231211events.txt
+:Created: 2023 Dec 14 0357 UT
+:Date: 2023 12 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Dec 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6000 +     0016   0024      0045  G18  5   XRA  1-8A      C3.2    3.0E-04   3511
+
+6010       0155   ////      0155  LEA  C   RSP  025-093   III/1                 
+
+6020 +     0201   0212      0228  G18  5   XRA  1-8A      C1.1    1.7E-03   3513
+
+6030 +     0322   0332      0339  G18  5   XRA  1-8A      C1.8    5.4E-04   3511
+
+6040 +     0427   0432      0436  G18  5   XRA  1-8A      C1.7    6.6E-04   3511
+
+6050 +     0439   0454      0501  G18  5   XRA  1-8A      C1.8    2.2E-03   3507
+
+6060 +     0815   0827      0832  G18  5   XRA  1-8A      C1.3    3.5E-04   3511
+
+6070 +     0842   0846      0851  G18  5   XRA  1-8A      C3.3    1.2E-03   3511
+
+6080 +     0943   0950      0955  G18  5   XRA  1-8A      C1.4    2.2E-04   3511
+
+6090 +     1054   1105      1111  G18  5   XRA  1-8A      C3.6    2.2E-03   3511
+
+6100 +     1224   1229      1233  G18  5   XRA  1-8A      C1.0    4.6E-04   3511
+
+6110 +     1241   1250      1305  G18  5   XRA  1-8A      C2.2    2.4E-03   3511
+6110      B1304  U1305     A1310  SVI  3   FLA  N06W06    SF                    
+6110       1304   ////      1304  SVI  U   RSP  036-125   III/1                 
+
+6130 +     1305   1308      1312  G18  5   XRA  1-8A      C2.5    4.3E-04   3511
+
+6120 +     1338   1346      1350  G18  5   XRA  1-8A      C3.7    1.7E-03   3511
+6120       1342  U1345     A1348  SVI  3   FLA  S22W89    SF                3511
+
+6140 +     1503   1513      1521  G18  5   XRA  1-8A      C1.8    4.9E-04   3511
+
+6150 +     1521   1532      1556  G18  5   XRA  1-8A      C4.4    7.3E-03   3511
+
+6160 +     1956   2002      2007  G18  5   XRA  1-8A      C1.6    9.1E-04   3511
+
+6170 +     2152   2210      2225  G18  5   XRA  1-8A      C1.7    2.8E-03   3514
+6170 +     2159   ////      2203  PAL  C   RSP  025-180   III/2                 
+6170       2214   2215      2230  LEA  3   FLA  N07W12    SF                    

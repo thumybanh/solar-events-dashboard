@@ -1,0 +1,99 @@
+:Product: 20250411events.txt
+:Created: 2025 Apr 14 0357 UT
+:Date: 2025 04 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Apr 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5710       0023   0029      0046  HOL  3   FLA  N09W37    SF      ERU       4055
+
+5920      A0050   ////     A1320  HOL  2   DSF  N24E52    4                     
+
+5720       0113   0113      0113  PAL  G   RBR  245       110                   
+
+5730       0226   0229      0236  LEA  3   FLA  N05W40    SF                4055
+
+5740 +     0646   0649      0652  SVI  3   FLA  N08W38    SF                4055
+
+5750 +     0703   0714      0727  G19  5   XRA  1-8A      C4.4    5.0E-03   4055
+5750 +     0711   0711      0727  LEA  3   FLA  N05W42    SF                4055
+
+5760 +     0820   0828      0835  G19  5   XRA  1-8A      C3.7    7.5E-04   4055
+5760       0822   ////      0822  SVI  C   RSP  025-046   III/1             4055
+5760       0824  U0826      0844  SVI  3   FLA  N07W42    SF      ERU       4055
+
+5770       0905   0905      0909  SVI  3   FLA  N07W43    SF                4055
+
+5780 +     0947   0956      1000  G19  5   XRA  1-8A      C2.4    1.8E-03   4055
+5780       0951   0954      1001  SVI  3   FLA  N07W43    SF                4055
+
+5790 +     1129   ////      1129  SVI  C   RSP  025-083   III/1                 
+
+5800 +     1139   1139      1139  SVI  G   RBR  245       130                   
+
+5810 +     1149   1149      1149  SVI  G   RBR  245       130                   
+
+5820 +     1152   1215      1238  G19  5   XRA  1-8A      C7.2    1.4E-02   4055
+
+6050       1156   1201      1209  SVI  3   FLA  N09E60    SF      ERU       4060
+
+5830       1156   1215      1234  SVI  3   FLA  N07W44    SF      ERU       4055
+
+5840       1218   1219      1230  SVI  3   FLA  N12E60    SF                4060
+
+5850      B1319   1319      1326  HOL  3   FLA  N08W46    SF                4055
+
+5860       1327   1338      1352  HOL  3   FLA  N08W46    SF      PRB       4055
+5860 +     1335   1339      1343  G19  5   XRA  1-8A      C4.1    2.2E-03   4055
+
+5870       1505   1505      1507  HOL  3   FLA  N08W48    SF                4055
+
+5880 +     1518   1527      1536  HOL  3   FLA  N08W48    SF                4055
+5880       1541   ////      1552  SAG  C   RSP  025-050   VI/1              4055
+
+5890 +     1614   1625      1632  G19  5   XRA  1-8A      C7.4    1.7E-03   4055
+5890 +     1617   1625      1749  HOL  3   FLA  N08W48    1F                4055
+
+5930 +     1634   1638      1640  G19  5   XRA  1-8A      C6.8    4.8E-03   4055
+
+5900 +     1640   1650      1701  G19  5   XRA  1-8A      M1.0    1.3E-02   4055
+
+5910 +     1734   1734      1734  PAL  G   RBR  245       150               4055
+
+6070       1743   ////      2309  SAG  C   RSP  113-156   CTM/1                 
+
+5990 +     1825   1901      1904  PAL  G   RNS  245       440                   
+
+5940       1825   1825      1825  PAL  G   RBR  245       100                   
+
+5950       1828   1828      1829  PAL  G   RBR  245       170                   
+
+5960       1832   1834      1834  PAL  G   RBR  245       120                   
+
+5970       1843   1851      1902  HOL  3   FLA  N08W48    SF                4055
+5970 +     1846   1852      1854  G19  5   XRA  1-8A      C6.8    5.1E-03   4055
+
+6000       1854   1859      1911  G19  5   XRA  1-8A      C6.8    7.7E-03   4055
+6000       1901   1902      1904  PAL  G   RBR  245       1300                  
+
+5980       1953   1953      1953  SAG  U   RBR  245       110                   
+
+6010       2054   2054      2054  PAL  G   RBR  245       500                   
+
+6020       2109   ////      2109  PAL  C   RSP  025-039   III/1                 
+
+6030       2127   2128      2130  HOL  3   FLA  N07W48    SF      ERU       4055
+
+6040       2147   2147      2149  HOL  3   FLA  N07W50    SF      ERU       4055
+
+6060 +     2208   2220      2233  G19  5   XRA  1-8A      M1.0    1.2E-02   4055
+6060       2208   2210      2232  HOL  3   FLA  N07W50    SF      ERU       4055
+
+6080       2246   ////      2319  LEA  C   RSP  137-180   CTM/1             4055
+6080 +     2257   2307      2312  HOL  3   FLA  N07W49    SF      ERU       4055

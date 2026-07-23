@@ -1,0 +1,65 @@
+:Product: 20241204events.txt
+:Created: 2024 Dec 07 0357 UT
+:Date: 2024 12 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Dec 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4060       0109   ////      0110  LEA  C   RSP  025-125   III/2                 
+
+4070       0133   0133      0133  LEA  G   RBR  245       140                   
+
+4080 +     0314   0330      0346  G16  5   XRA  1-8A      C5.6    8.2E-03   3906
+4080       0325   ////      0327  LEA  C   RSP  025-081   III/2                 
+
+4090 +     0448   0455      0502  G16  5   XRA  1-8A      C3.9    2.7E-03   3906
+
+4100 +     0852   0856      0904  G16  5   XRA  1-8A      C3.3    2.1E-03       
+4100       0901   ////      0937  LEA  C   RSP  025-180   VI/2                  
+
+4110       0935   ////      0936  SVI  C   RSP  025-149   III/2                 
+
+4120 +     0952   1000      1008  G16  5   XRA  1-8A      M2.3    1.4E-03       
+4120 +     0958   0958      0958  SVI  G   RBR  245       130                   
+4120       0958   0958      0958  LEA  G   RBR  410       110                   
+4120 +     1004   ////      1013  SVI  C   RSP  049-176   II/2    423           
+
+4130       1038   ////      1056  SVI  C   RSP  025-180   VI/2                  
+
+4140 +     1137   1145      1151  G16  5   XRA  1-8A      C3.5    2.5E-03   3906
+
+4150       1219   ////      1220  SVI  C   RSP  058-083   III/1                 
+
+4160 +     1447   1453      1514  G16  5   XRA  1-8A      C4.4    5.4E-03   3916
+4160       1450   1452      1541  HOL  3   FLA  S15E60    SF                3916
+
+4170 +     1528   1534      1543  G16  5   XRA  1-8A      C3.0    2.5E-03   3906
+
+4180       1550   1552      1555  HOL  3   FLA  S06E70    SF                    
+
+4190       1624   1632      1643  HOL  3   FLA  S05W00    SF                3912
+
+4200 +     1809   1814      1820  G16  5   XRA  1-8A      C2.5    1.5E-03       
+
+4210 +     1833   1837      1841  G16  5   XRA  1-8A      C2.2    1.0E-03       
+
+4220       1859   ////      1859  PAL  C   RSP  025-057   III/1                 
+
+4230 +     2031   2046      2057  G16  5   XRA  1-8A      M1.3    1.6E-02   3916
+4230       2037   2040      2122  HOL  3   FLA  S15E58    SN                3916
+
+4250       2047   2133      2218  HOL  3   FLA  S09E68    SN                3917
+
+4240 +     2057   2105      2112  G16  5   XRA  1-8A      M1.4    1.2E-02   3917
+
+4260 +     2214   2214      2214  PAL  G   RBR  245       160                   
+
+4270 +     2215   ////      2216  PAL  C   RSP  025-180   III/1                 
+
+4280       2227   2227      2227  LEA  G   RBR  245       420                   

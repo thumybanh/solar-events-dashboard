@@ -1,0 +1,57 @@
+:Product: 20250311events.txt
+:Created: 2025 Mar 14 0357 UT
+:Date: 2025 03 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Mar 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9110       0145   ////      0153  LEA  C   RSP  025-131   III/2                 
+
+9120 +     0553   ////      0555  LEA  C   RSP  025-180   III/2                 
+
+9130       0656   ////      0657  LEA  C   RSP  062-156   III/1                 
+
+9140       0833   ////      0834  LEA  C   RSP  041-098   III/1                 
+
+9150 +     1242   ////      1247  SVI  C   RSP  025-083   III/1                 
+
+9160       1303   1304      1306  G16  5   XRA  1-8A      M1.1    1.7E-03   4024
+9160       1303   1303      1304  SVI  G   RBR  15400     200                   
+9160       1303   1303      1303  SVI  G   RBR  8800      130                   
+9160       1303   1304      1304  SVI  G   RBR  410       5400                  
+9160       1304   1304      1304  SVI  G   RBR  610       2000                  
+9160 +     1304   ////      1310  SVI  C   RSP  025-180   III/2                 
+9160       1304   1304      1308  SVI  G   RBR  245       5700                  
+
+9170       1641   1642      1643  HOL  3   FLA  S06E60    SF                4021
+
+9180       1729   ////      1730  SAG  C   RSP  025-044   III/1                 
+
+9220 +     1820   1830      1835  HOL  3   FLA  N06W50    SF                4024
+
+9200 +     1820   1830      1835  G16  5   XRA  1-8A      C5.8    3.6E-03   4024
+9200       1824   1826      1838  HOL  3   FLA  N06W50    SF      DSD       4024
+9200 +     1824   1825      1825  PAL  G   RBR  245       220               4024
+9200 +     1825   ////      1827  PAL  C   RSP  025-180   III/3             4024
+
+9210 +     1829   1829      1832  HOL  3   FLA  S07E59    SF                4021
+
+9250       1907   1916      1927  G16  5   XRA  1-8A      C7.2    6.3E-03       
+
+9260       2028   2039      2053  G16  5   XRA  1-8A      C2.3    2.8E-03   4024
+
+9230       2111   2122      2134  G16  5   XRA  1-8A      C9.6    4.8E-03   4024
+9230       2120   2120      2131  HOL  3   FLA  N06W52    SN      DSF       4024
+9230 +     2120   2121      2122  PAL  G   RBR  410       340               4024
+9230 +     2120   2120      2122  PAL  G   RBR  245       460               4024
+9230 +     2120   ////      2122  PAL  C   RSP  025-180   III/3             4024
+9230 +     2120   2120      2120  PAL  G   RBR  4995      140               4024
+9230 +     2121   2121      2121  PAL  G   RBR  610       130               4024
+
+9240       2155   2156      2200  HOL  3   FLA  S06E57    SF                4021

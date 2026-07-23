@@ -1,0 +1,60 @@
+:Product: 20240116events.txt
+:Created: 2024 Jan 19 0357 UT
+:Date: 2024 01 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jan 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3280       0016   ////      0133  LEA  C   RSP  025-180   VI/2                  
+3280       0032   0032      0032  LEA  G   RBR  245       130                   
+
+3290 +     0159   0159      0159  LEA  G   RBR  245       140                   
+
+3300       0203   0203      0203  LEA  G   RBR  245       100                   
+3300       0203   ////      0204  LEA  C   RSP  025-041   III/2                 
+
+3310       0311   0313      0313  LEA  G   RBR  245       200                   
+
+3320       0319   0319      0319  PAL  G   RBR  245       170                   
+
+3330 +     0321   0330      0340  G16  5   XRA  1-8A      C2.4    2.5E-03   3541
+3330       0323   0323      0331  LEA  3   FLA  S21W63    SF      DSD       3541
+
+3340       0426   0426      0428  LEA  G   RBR  245       250                   
+
+3350       0432   0432      0432  LEA  G   RBR  245       260                   
+
+3360       0437   0437      0437  LEA  G   RBR  245       130                   
+
+3370       0503   0503      0503  LEA  G   RBR  245       100                   
+
+3380       0729   0729      0729  LEA  G   RBR  245       210                   
+
+3390       0759   0759      0759  SVI  G   RBR  245       120                   
+
+3400       0802   0802      0802  LEA  G   RBR  245       120                   
+
+3410 +     0804   0809      0814  G16  5   XRA  1-8A      C1.5    8.9E-04   3549
+3410       0808   0808      0812  SVI  3   FLA  S17E23    SF                3549
+3410       0808   ////      1341  SVI  C   RSP  075-180   CTM/1             3549
+
+3420       0814   ////      1044  LEA  C   RSP  115-180   CTM/1                 
+3420       0817   ////      0817  LEA  C   RSP  025-075   III/1                 
+
+3430       1007   1010      1016  SVI  3   FLA  S08W56    SF                    
+
+3440       1102   1106      1207  SVI  3   FLA  S07W12    SF                3545
+
+3450       1847   1847      1848  PAL  G   RBR  245       110                   
+
+3460 +     2046   2051      2051  PAL  G   RNS  245       110                   
+
+3470       2155   2155      2155  PAL  G   RBR  245       130                   
+
+3480 +     2256   2256      2256  PAL  G   RBR  245       190                   

@@ -1,0 +1,40 @@
+:Product: 20230831events.txt
+:Created: 2023 Sep 03 0357 UT
+:Date: 2023 08 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Aug 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5810       0202   ////      0306  LEA  C   RSP  025-180   VI/1                  
+
+5800       0217   ////      0217  PAL  C   RSP  025-064   III/1                 
+
+5820       0408   ////      0541  LEA  C   RSP  025-180   VI/1                  
+5820 +     0454   0456      0457  SVI  G   RBR  245       250                   
+5820       0501   0613      0735  G16  5   XRA  1-8A      C2.4    1.8E-02   3413
+
+5830       0511   ////      0558  SVI  C   RSP  025-075   VI/1                  
+
+5840       0740   ////      0740  SVI  C   RSP  025-065   III/1                 
+
+5850       1148   ////      1148  SVI  C   RSP  025-045   III/1                 
+
+5860       1708   ////      1709  SAG  C   RSP  025-066   III/1                 
+
+5870 +     1745   1753      1803  G16  5   XRA  1-8A      C1.2    1.2E-03   3413
+
+5880 +     1845   ////      1859  PAL  C   RSP  025-152   VI/1                  
+
+5890       2112   ////      2123  SAG  C   RSP  025-090   VI/1                  
+
+5900       2230   ////      2308  SAG  C   RSP  025-148   VI/1                  
+5900 +     2235   ////      2240  PAL  C   RSP  025-056   III/2                 
+
+5910 +     2305   ////      2306  LEA  C   RSP  025-135   III/1                 
+5910 +     2307   2318      2332  G16  5   XRA  1-8A      C1.0    1.4E-03   3413

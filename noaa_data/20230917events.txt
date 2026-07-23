@@ -1,0 +1,51 @@
+:Product: 20230917events.txt
+:Created: 2023 Sep 20 0357 UT
+:Date: 2023 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9810       0008   ////      0008  PAL  C   RSP  025-061   III/1                 
+9810       0008   ////      0139  LEA  C   RSP  025-180   VI/1                  
+
+9820       0020   ////      0023  PAL  C   RSP  025-147   III/1                 
+9820 +     0022   0022      0022  LEA  G   RBR  245       320                   
+
+9830       0045   ////      0122  PAL  C   RSP  025-158   VI/2                  
+
+9840 +     0321   ////      0346  LEA  C   RSP  025-180   VI/1                  
+
+9850 +     0500   ////      0500  LEA  C   RSP  025-112   III/2                 
+
+9860 +     0648   ////      0655  LEA  C   RSP  025-180   III/1                 
+
+9870 +     0716   ////      1006  LEA  C   RSP  025-127   VI/1                  
+
+9880       0922   ////      1258  SVI  C   RSP  025-180   VI/2                  
+
+9890       1029   1032      1036  SVI  3   FLA  N22W58    SF                3425
+
+9900       1056   ////      1056  SAG  C   RSP  025-157   III/1                 
+
+9910       1146   ////      1208  SAG  C   RSP  025-075   VI/1                  
+
+9920       1242   ////      1342  SAG  C   RSP  025-157   VI/1                  
+
+9930       1454   ////      1702  SAG  C   RSP  025-180   VI/2                  
+
+9940 +     1555   1604      1610  G16  5   XRA  1-8A      C3.5    2.1E-03   3435
+9940       1612   ////      1621  SAG  C   RSP  025-075   II/1    344           
+
+9960       1700   ////      1701  PAL  C   RSP  025-180   III/2                 
+
+9970       1839   ////      1840  SAG  C   RSP  025-045   III/1                 
+
+9980 +     1931   ////      2025  PAL  C   RSP  025-180   VI/2                  
+
+9990       2157   ////      2316  PAL  C   RSP  025-087   VI/1                  

@@ -1,0 +1,87 @@
+:Product: 20230725events.txt
+:Created: 2023 Jul 28 0357 UT
+:Date: 2023 07 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2023 Jul 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5930 +    B0000   0048      0111  HOL  3   FLA  N20W50    SF      ERU       3376
+5930       0008   ////      0156  LEA  C   RSP  082-180   CTM/2             3376
+5930 +     0032   0040      0052  G16  5   XRA  1-8A      C2.4    1.5E-03   3376
+5930       0051   ////      0051  LEA  C   RSP  072-180   III/1             3376
+
+5940      B0106  U0109     A0121  LEA  3   FLA  N24W49    SF                3376
+
+5950 +     0136   0203      0224  G16  5   XRA  1-8A      M1.5    2.9E-02   3376
+5950      B0136  U0213     A0405  LEA  3   FLA  N25W49    2N      ERU       3376
+5950       0138   ////      0157  LEA  C   RSP  025-180   VI/2              3376
+5950 +     0145   0145      0145  LEA  G   RBR  245       180               3376
+
+5960 +     0426   0426      0429  LEA  G   RBR  245       170                   
+
+5970 +     0555   0605      0614  G16  5   XRA  1-8A      C2.6    2.5E-03   3373
+5970       0610   ////      1201  SVI  C   RSP  025-082   VI/1                  
+
+5980       0619   ////      0856  LEA  C   RSP  025-120   VI/2              3380
+5980 +     0654   0700      0706  G16  5   XRA  1-8A      C3.9    1.9E-03   3380
+5980       0659   0706      0709  SVI  3   FLA  S12E51    SF                3380
+
+5990 +     0814   0821      0825  G16  5   XRA  1-8A      C3.2    1.5E-03   3380
+5990       0819   0820      0828  SVI  3   FLA  S12E51    SF                3380
+
+6000       0943   0944      0950  SVI  3   FLA  N21W56    SF                3376
+6000       0945   0945      0945  LEA  G   RBR  245       100               3376
+
+6010       1223   1223      1223  SVI  G   RBR  245       110                   
+
+6020 +     1242   1246      1250  G16  5   XRA  1-8A      C3.2    1.0E-03       
+6020       1246   1246      1246  SVI  G   RBR  245       350                   
+
+6030 +     1341   1345      1347  HOL  3   FLA  S15E61    SF                3376
+
+6050       1350   1352      1521  HOL  3   FLA  S15E60    SF      DSD           
+
+6040       1401   1401      1401  SVI  G   RBR  245       100                   
+
+6100       1459   ////      1853  SAG  C   RSP  114-151   CTM/1                 
+
+6080       1511   ////      1619  SVI  C   RSP  051-180   CTM/1             3376
+
+6060 +     1512   ////      1514  SAG  C   RSP  025-124   III/2                 
+
+6070       1538   1538      1538  SVI  G   RBR  410       240                   
+
+6080       1543   1702      1715  HOL  3   FLA  N20W60    SF      DSD       3376
+
+6090       1722   1741      1747  HOL  3   FLA  N20W62    SF      DSD       3376
+
+6110       1805   1805      1811  HOL  3   FLA  N20W62    SF                3376
+
+6120 +     1818   1824      1832  HOL  3   FLA  N19W61    SF                3376
+
+6130       1927   1930      1935  HOL  3   FLA  N19W61    SF                3376
+
+6140 +     2028   2029      2034  HOL  3   FLA  N19W61    SF                3376
+6140       2031   ////      2032  PAL  C   RSP  025-055   III/1             3376
+
+6150       2048   2058      2108  G16  5   XRA  1-8A      C4.1    1.2E-03   3380
+
+6140 +     2108   2116      2124  G16  5   XRA  1-8A      M1.6    1.0E-02   3380
+
+6150 +     2108   2114      2206  HOL  3   FLA  S09E42    1B      ERU       3380
+
+6190       2128   ////      2359  PAL  C   RSP  025-180   VI/2                  
+
+6200 +     2338   2354      0009  G16  5   XRA  1-8A      C4.3    6.3E-03   3376
+
+6160       2340   2340      2343  HOL  3   FLA  N19W66    SF                3376
+
+6170       2343   2343      2343  PAL  G   RBR  4995      120                   
+
+6180       2348   2349      2353  HOL  3   FLA  N20W64    SF                3376

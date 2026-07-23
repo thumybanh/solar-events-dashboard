@@ -1,0 +1,74 @@
+:Product: 20240520events.txt
+:Created: 2024 May 23 0357 UT
+:Date: 2024 05 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 May 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4570       0123   ////      0124  PAL  C   RSP  025-072   III/1                 
+
+4590       0151   ////      0422  PAL  C   RSP  025-180   VI/2                  
+
+4580       0212   ////      0308  LEA  C   RSP  025-180   VI/1                  
+
+4630 +     0349   ////      0938  LEA  C   RSP  025-180   VI/2                  
+
+4600 +     0449   0449      0449  LEA  G   RBR  245       290                   
+4600 +     0449   0449      0449  SVI  G   RBR  410       160                   
+
+4610 +     0532   0539      0542  G16  5   XRA  1-8A      C2.3    1.9E-03   3686
+
+4620       0542   0554      0616  G16  5   XRA  1-8A      C6.7    1.1E-02   3683
+
+4640 +     0757   ////      0758  LEA  C   RSP  025-180   III/3                 
+4640       0757   0757      0758  LEA  G   RBR  245       870                   
+
+4650       0836   0836      0836  LEA  G   RBR  245       270                   
+
+4660      B0856  U0856     A0905  SVI  3   FLA  S08E24    SF                3685
+
+4670       0955   ////      1100  SAG  C   RSP  025-159   VI/1                  
+4670       1004   1004      1004  SVI  G   RBR  410       180                   
+4670 +     1029   1036      1040  G16  5   XRA  1-8A      C2.8    1.6E-03   3686
+
+4680      B1117  U1126      1144  SVI  3   FLA  S10E18    SF                3685
+
+4690 +     1243   1251      1255  G16  5   XRA  1-8A      C2.1    1.3E-03   3685
+4690       1248   1250      1257  HOL  3   FLA  S10E19    SF                3685
+
+4700 +     1406   ////      1409  SAG  C   RSP  025-180   III/2                 
+4700       1407   1409      1409  SVI  G   RBR  245       250                   
+
+4710       1418   1418      1420  SVI  G   RBR  245       540                   
+
+4720       1551   1551      1551  SVI  G   RBR  410       100                   
+
+4730       1642   ////      1831  SAG  C   RSP  025-061   VI/1              3683
+4730       1701   1701      1701  PAL  G   RBR  245       120               3683
+4730       1739   1741      1744  HOL  3   FLA  S20W66    SF                3683
+
+5050       1828   1951      2041  G16  5   XRA  1-8A      C4.6    2.8E-02   3685
+
+4740       1914   1914      1914  PAL  G   RBR  245       330                   
+
+4750       1942   1942      1942  PAL  G   RBR  245       150                   
+
+4760       1945   1945      1945  PAL  G   RBR  245       190                   
+
+4770       2005   2005      2005  PAL  G   RBR  245       120                   
+
+4780       2036   2036      2037  PAL  G   RBR  245       100                   
+
+4790 +     2037   ////      2131  PAL  C   RSP  025-075   VI/1                  
+
+4800       2234   2234      2234  PAL  G   RBR  245       150                   
+
+4810 +     2304   ////      2359  LEA  C   RSP  077-180   CTM/1                 
+
+4820       2311   2311      2311  PAL  G   RBR  245       100                   

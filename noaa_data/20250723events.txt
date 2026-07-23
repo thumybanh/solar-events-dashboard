@@ -1,0 +1,52 @@
+:Product: 20250723events.txt
+:Created: 2025 Jul 26 0357 UT
+:Date: 2025 07 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jul 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8840       0000   ////      0132  LEA  C   RSP  075-180   CTM/1                 
+
+8790       0000   ////      0000  LEA  G   RBR  245       150                   
+
+8800       0003   0003      0003  LEA  G   RBR  245       220                   
+
+8810       0104   ////      0119  PAL  C   RSP  025-180   VI/2                  
+8810       0119   ////      0119  LEA  C   RSP  025-166   III/2                 
+
+8820 +     0232   0241      0247  G18  5   XRA  1-8A      C2.0    1.7E-03   4143
+
+8830       0232   0232      0232  LEA  G   RBR  245       130                   
+
+8850 +     0318   ////      0318  LEA  C   RSP  025-136   III/2                 
+
+8860       0338   0338      0339  LEA  G   RBR  245       140                   
+
+8870 +     0353   ////      0354  LEA  C   RSP  025-164   III/2                 
+
+8880       0525   0538      0540  SVI  3   FLA  S13E27    SF                4150
+8880       0534   ////      0535  SVI  C   RSP  025-074   III/1             4150
+
+8890 +     0554   0604      0610  G18  5   XRA  1-8A      C1.7    1.6E-03   4143
+
+8900       1139   ////      1139  SAG  C   RSP  025-046   III/1                 
+
+8910      B1312   1317      1318  HOL  3   FLA  S28E50    SF                4153
+
+8920 +     1331   1337      1342  G18  5   XRA  1-8A      C2.5    1.5E-03   4150
+
+8930       1345   ////      1351  SVI  U   RSP  082-180   III/1                 
+
+8950       1424   ////      1424  SAG  C   RSP  025-043   III/1                 
+
+8960       1643   1644      1645  HOL  3   FLA  S13E21    SF      ERU       4150
+
+8970 +     1925   ////      1942  SAG  C   RSP  025-069   VI/1                  
+
+8980 +     2351   ////      2351  LEA  C   RSP  025-152   III/2                 

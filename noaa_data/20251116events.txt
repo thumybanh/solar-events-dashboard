@@ -1,0 +1,52 @@
+:Product: 20251116events.txt
+:Created: 2025 Nov 19 0357 UT
+:Date: 2025 11 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Nov 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6820 +     0007   0020      0032  G18  5   XRA  1-8A      C2.9    4.0E-03   4274
+
+6830       0032   0107      0123  G19  5   XRA  1-8A      C7.2    1.6E-02   4274
+
+6840       0139   ////      0140  LEA  C   RSP  025-091   III/1                 
+
+6850       0223   ////      0225  LEA  C   RSP  025-120   III/2                 
+
+6860 +     0240   0245      0250  G18  5   XRA  1-8A      C3.6    2.0E-03   4274
+
+6870 +     0350   0358      0403  G18  5   XRA  1-8A      C1.4    1.1E-03   4274
+
+6880 +     0409   0417      0422  G18  5   XRA  1-8A      C1.5    1.1E-03   4274
+
+6890 +     0436   0447      0452  G18  5   XRA  1-8A      C2.1    1.7E-03   4274
+
+6900 +     0506   0512      0517  G18  5   XRA  1-8A      C1.4    9.7E-04   4274
+6900       0507   ////      0511  LEA  C   RSP  025-136   III/3                 
+
+6910 +     0749   0817      0832  G18  5   XRA  1-8A      M3.1    4.1E-02   4274
+
+6920 +     0908   ////      0913  SVI  C   RSP  025-154   III/3                 
+
+6930 +     1508   1525      1537  G18  5   XRA  1-8A      C2.8    3.7E-03   4284
+6930       1519   1526      1540  HOL  3   FLA  S06E01    SF      DSD           
+
+6940 +     1624   1637      1640  G18  5   XRA  1-8A      C3.7    3.3E-03   4274
+
+6970       1640   1646      1651  G18  5   XRA  1-8A      C4.0    3.0E-03   4274
+
+6950 +     1834   ////      1835  SAG  C   RSP  025-068   III/1                 
+
+6960 +     1852   1905      1913  G18  5   XRA  1-8A      C3.9    3.9E-03   4284
+6960       1856   1902      1926  HOL  3   FLA  S06W02    SF      PRB       4284
+
+6980 +     1940   1947      2004  G18  5   XRA  1-8A      C4.4    5.2E-03   4284
+6980       1945   2001      2006  HOL  3   FLA  S06W02    SF      DSD       4284
+
+6990 +     2136   2151      2214  G18  5   XRA  1-8A      C3.8    7.7E-03   4274

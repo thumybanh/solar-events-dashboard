@@ -1,0 +1,34 @@
+:Product: 20260520events.txt
+:Created: 2026 May 23 0357 UT
+:Date: 2026 05 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4130       0000   ////      0001  PAL  C   RSP  025-075   VI/2                  
+
+4140 +     0235   0245      0253  G18  5   XRA  1-8A      B8.7    8.9E-04   4439
+
+4150       0318   ////      0322  PAL  C   RSP  025-068   III/2                 
+
+4160 +     0325   0332      0337  G18  5   XRA  1-8A      B8.7    6.4E-04   4436
+
+4170 +     0412   0443      0513  G18  5   XRA  1-8A      C1.0    3.5E-03       
+4170       0507   ////      0508  SVI  U   RSP  025-083   III/1                 
+
+4180       0741   ////      0753  SVI  C   RSP  025-066   VI/2                  
+
+4190       0918   ////      0927  SVI  C   RSP  025-180   III/1                 
+
+4200 +     0959   1009      1017  G18  5   XRA  1-8A      C1.0    9.7E-04   4439
+4200       1007   1007      1017  SVI  3   FLA  N06E27    SF                4439
+
+4210 +     1039   ////      1039  SAG  C   RSP  025-156   III/2                 
+
+4220       1857   ////      1858  SAG  C   RSP  025-050   III/1                 

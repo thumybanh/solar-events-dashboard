@@ -1,0 +1,39 @@
+:Product: 20260824events.txt
+:Created: 2026 Aug 27 0357 UT
+:Date: 2026 08 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Aug 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5640       0017   0017      0027  HOL  2   FLA  N09E26    SF      DSD       4513
+
+5690      A0024   ////     A1340  HOL  2   DSF  N23E10    6                     
+
+5650 +     0218   0223      0230  G18  5   XRA  1-8A      B9.3    7.0E-04   4513
+
+5660 +     0706   0723      0748  G18  5   XRA  1-8A      C2.2    4.2E-03   4513
+5660       0715  U0730     A0734  SVI  3   FLA  N03E21    SF                4513
+
+5680       1411   1413      1417  HOL  2   FLA  N16W50    SF                4516
+
+5700 +     1604   ////      1605  SVI  C   RSP  025-122   III/1                 
+
+5710       1610   1614      1619  HOL  3   FLA  N15W50    SF                4516
+
+5720       1701   1709      1719  HOL  3   FLA  N08E10    SF                4513
+5720       1703   1711      1723  G19  5   XRA  1-8A      C1.4    1.7E-03   4513
+
+5730       1727   1727      1727  PAL  U   RBR  245       480                   
+
+5740 +     1809   1815      1819  G18  5   XRA  1-8A      C1.5    8.1E-04   4513
+
+5750 +     1851   1936      1954  G18  5   XRA  1-8A      M1.7    3.6E-02   4513
+5750       1905   1927      2021  HOL  3   FLA  N06E12    1B                4513
+
+5760 +     2246   2246      2246  PAL  U   RBR  245       1400                  

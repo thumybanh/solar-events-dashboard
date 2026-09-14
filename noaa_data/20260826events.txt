@@ -1,0 +1,43 @@
+:Product: 20260826events.txt
+:Created: 2026 Aug 29 0357 UT
+:Date: 2026 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5970 +     0027   0050      0103  G18  5   XRA  1-8A      C1.2    2.3E-03   4513
+5970       0050   0053     A0058  HOL  3   FLA  N05W06    SF      ERU       4513
+
+5980 +     0629   0634      0638  G18  5   XRA  1-8A      M2.2    7.6E-03   4513
+5980 +     0631   0632      0656  SVI  3   FLA  N04E15    1B      DSD       4513
+5980       0631   0631      0632  SVI  G   RBR  610       280               4513
+5980 +     0631   0631      0632  LEA  G   RBR  1415      200               4513
+5980 +     0631   0632      0632  LEA  G   RBR  2695      130               4513
+5980       0631   0632      0632  SVI  G   RBR  8800      280               4513
+5980       0631   0631      0632  SVI  G   RBR  15400     190               4513
+5980 +     0631   0632      0632  LEA  G   RBR  4995      180               4513
+5980       0632   ////      0632  SVI  C   RSP  025-180   III/1             4513
+5980       0635   ////      0643  SVI  C   RSP  045-180   II/2    930       4513
+5980       0635   0636      0636  SVI  G   RBR  245       1800              4513
+5980 +     0635   0636      0636  SVI  G   RBR  410       110               4513
+
+5990 +     1140   1147      1152  G18  5   XRA  1-8A      C1.5    8.7E-04       
+
+6000 +     1206   1214      1222  G18  5   XRA  1-8A      M1.0    6.0E-03   4513
+6000       1211   1215      1229  SVI  3   FLA  N05W05    SF                4513
+
+6120      A1640   ////     A0552  SVI  3   DSF  S11E08    8                     
+
+6010       1739   1745      1748  G19  5   XRA  1-8A      B8.8    4.7E-04   4517
+
+6020 +     1905   1912      1919  G18  5   XRA  1-8A      C1.3    9.4E-04   4518
+6020       1908   1911      1921  HOL  3   FLA  N09E48    SF      DSD       4518
+
+6030 +     2129   2140      2145  G18  5   XRA  1-8A      C3.4    1.6E-03   4518
+6030       2134   2140      2156  HOL  3   FLA  N09E46    SN      DSD       4518

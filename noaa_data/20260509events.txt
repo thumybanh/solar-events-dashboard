@@ -1,0 +1,59 @@
+:Product: 20260509events.txt
+:Created: 2026 May 12 0357 UT
+:Date: 2026 05 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2040 +     0011   0021      0029  G18  5   XRA  1-8A      C1.3    1.1E-03   4432
+2040       0012   0017      0032  HOL  3   FLA  N12W30    SF      ERU       4432
+
+2050       0141   0148      0156  G19  5   XRA  1-8A      C1.0    9.2E-04   4432
+
+2060 +     0218   0228      0238  G18  5   XRA  1-8A      C2.1    2.1E-03   4432
+
+2070 +     0321   0331      0339  G18  5   XRA  1-8A      C2.3    1.8E-03   4432
+
+2080 +     0514   0521      0526  G18  5   XRA  1-8A      C1.4    1.1E-03   4432
+
+2090 +     0622   0633      0642  G18  5   XRA  1-8A      C1.5    1.7E-03   4432
+2090       0626   0626      0638  SVI  3   FLA  N14W33    SF                4432
+
+2100 +     0753   0802      0806  G18  5   XRA  1-8A      C1.6    1.0E-03   4432
+2100       0800   0801      0806  SVI  3   FLA  N13W34    SF                4432
+
+2110 +     0919   0924      0926  G18  5   XRA  1-8A      C1.2    5.8E-04   4432
+
+2120       1020   1021      1022  SVI  3   FLA  S14W47    SF                4431
+
+2130       1241   1242      1244  SVI  3   FLA  N13W37    SF                4432
+
+2140       1248   1248      1251  SVI  3   FLA  N14W38    SF                4432
+
+2150       1309  U1436     A1457  SVI  3   FLA  N14W37    SF      ERU       4432
+2150 +     1315   1319      1324  G18  5   XRA  1-8A      C1.3    7.6E-04   4432
+
+2160 +     1359   1417      1422  G18  5   XRA  1-8A      C1.5    2.2E-03   4432
+2160 +     1408   1408      1408  SAG  G   RBR  245       140                   
+
+2170 +     1516   1526      1535  G18  5   XRA  1-8A      C1.5    1.6E-03   4432
+2170       1525   1531      1535  SVI  3   FLA  N14W38    SF                4432
+
+2180 +     1620   1625      1627  G18  5   XRA  1-8A      C1.1    5.6E-04   4432
+
+2190 +     1848   1855      1912  G18  5   XRA  1-8A      C1.2    1.8E-03   4432
+2190       1853   1854      1904  HOL  3   FLA  N11W39    SF                4432
+
+2210 +     1912   1920      1930  G18  5   XRA  1-8A      C1.1    1.4E-03   4432
+
+2200 +     2021   2029      2032  G18  5   XRA  1-8A      C1.2    8.3E-04   4432
+
+2220 +     2137   2146      2157  G18  5   XRA  1-8A      C2.0    2.6E-03       
+
+2230 +     2157   2203      2209  G18  5   XRA  1-8A      C2.1    1.7E-03       

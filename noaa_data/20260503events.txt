@@ -1,0 +1,20 @@
+:Product: 20260503events.txt
+:Created: 2026 May 06 0357 UT
+:Date: 2026 05 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 860 +     0220   0227      0233  G18  5   XRA  1-8A      C1.5    1.1E-03   4424
+
+ 870 +     0333   0341      0347  G18  5   XRA  1-8A      C1.7    1.2E-03   4429
+
+ 880 +     0656   0708      0715  G18  5   XRA  1-8A      C3.6    3.1E-03   4424
+
+ 900       0857   ////      0857  SVI  C   RSP  025-083   III/1                 

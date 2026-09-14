@@ -1,0 +1,46 @@
+:Product: 20260823events.txt
+:Created: 2026 Aug 26 0357 UT
+:Date: 2026 08 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Aug 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5500       0043   0043      0049  HOL  3   FLA  N10E42    SF      DSD       4513
+
+5510 +     0423   0432      0441  G18  5   XRA  1-8A      C1.1    1.1E-03   4513
+
+5520 +     0457   0505      0512  G18  5   XRA  1-8A      C1.1    1.0E-03   4513
+
+5530 +     0624   0653      0717  G18  5   XRA  1-8A      C4.1    9.3E-03   4513
+5530       0633   0644      0653  SVI  3   FLA  N04E32    SF                4513
+
+5540       0653   0653      0709  SVI  3   FLA  N03E35    SF                4513
+
+5550 +     1001   1008      1011  G18  5   XRA  1-8A      C1.7    8.2E-04   4514
+
+5560 +     1113   1118      1136  G18  5   XRA  1-8A      B8.6    1.2E-03       
+
+5570 +     1311   1315      1318  G18  5   XRA  1-8A      C1.7    6.7E-04       
+
+5580 +     1334   1342      1349  G18  5   XRA  1-8A      C1.0    9.1E-04   4513
+
+5670 +     1338   1340      1346  HOL  3   FLA  N09E17    SF                4517
+
+5590 +     1616   1628      1645  G18  5   XRA  1-8A      C1.4    2.1E-03   4513
+5590 +     1621   1622      1635  HOL  3   FLA  N06E30    SF                4513
+
+5600       1921   1936      2002  HOL  3   FLA  N06E24    1F      DSD       4513
+5600 +     1928   1935      1937  G18  5   XRA  1-8A      C2.7    1.1E-03   4513
+
+5610       1942   1945      2008  HOL  3   FLA  N18W38    SF                4516
+
+5620 +     2147   2203      2219  G18  5   XRA  1-8A      C3.5    5.0E-03   4513
+5620       2152   2200      2250  HOL  3   FLA  N09E26    1F                4513
+
+5630       2350   2353      2356  HOL  3   FLA  N09E26    SF      DSD       4513

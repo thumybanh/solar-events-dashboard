@@ -1,0 +1,48 @@
+:Product: 20260727events.txt
+:Created: 2026 Jul 30 0357 UT
+:Date: 2026 07 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jul 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 330       0031   0050      0104  G18  5   XRA  1-8A      C1.6    2.9E-03   4493
+
+ 340 +     0232   0243      0248  G18  5   XRA  1-8A      M1.0    5.4E-03   4494
+ 340       0238   0242      0250  LEA  3   FLA  S04W04    SF                4494
+ 340       0238   0238      0238  PAL  U   RBR  410       390               4494
+ 340       0238   ////      0239  PAL  C   RSP  025-075   III/2             4494
+ 340 +     0243   0243      0243  LEA  G   RBR  245       390               4494
+ 340       0244   ////      0249  PAL  C   RSP  037-075   II/2    622       4494
+
+ 360       0639   ////      0639  SVI  C   RSP  025-100   III/1                 
+
+ 370 +     1038   ////      1038  SVI  C   RSP  025-180   III/1                 
+
+ 380       1244   1246      1248  SVI  3   FLA  N06E27    SF                4496
+
+ 390 +     1336   1342      1347  G18  5   XRA  1-8A      C1.5    1.1E-03   4494
+ 390 +     1339   ////      1342  SVI  C   RSP  025-180   V/2                   
+
+ 400 +     1415   ////      1457  SVI  C   RSP  025-143   VI/1                  
+
+ 410 +     1638   ////      1639  SAG  C   RSP  025-089   III/1                 
+
+ 420 +     1713   1725      1731  G18  5   XRA  1-8A      C2.8    2.2E-03   4494
+ 420       1719   ////      1719  SVI  C   RSP  076-180   III/1                 
+
+ 430 +     1935   1948      1953  G18  5   XRA  1-8A      C3.6    2.6E-03   4494
+
+ 440 +     2233   2244      2248  G18  5   XRA  1-8A      C3.3    2.0E-03   4494
+ 440 +     2234   ////      2239  SAG  C   RSP  025-180   III/2                 
+ 440       2237   ////      2245  PAL  C   RSP  025-137   V/2                   
+ 440       2237   2237      2237  PAL  U   RBR  245       140                   
+
+ 450 +     2251   2259      2305  G18  5   XRA  1-8A      C3.5    2.6E-03   4494
+
+ 460       2349   ////      2351  PAL  C   RSP  025-062   III/2                 

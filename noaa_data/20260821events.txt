@@ -1,0 +1,58 @@
+:Product: 20260821events.txt
+:Created: 2026 Aug 24 0357 UT
+:Date: 2026 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5260       0009   0009      0010  PAL  G   RBR  245       140                   
+
+5270 +     0013   0025      0035  G18  5   XRA  1-8A      C2.4    2.9E-03   4507
+
+5280 +     0137   0201      0206  G18  5   XRA  1-8A      C4.1    5.4E-03   4507
+
+5440 +     0206   0220      0242  G18  5   XRA  1-8A      C6.7    1.3E-02       
+
+5290       0302   0302      0302  PAL  G   RBR  245       130                   
+
+5300 +     0347   0352      0357  G18  5   XRA  1-8A      C1.3    8.6E-04   4513
+
+5310 +     0502   0509      0514  G18  5   XRA  1-8A      C1.5    1.0E-03   4513
+
+5320 +     0539   0552      0615  G18  5   XRA  1-8A      C1.8    3.5E-03   4513
+
+5330 +     0626   0635      0641  G18  5   XRA  1-8A      C6.2    3.8E-03   4513
+5330       0629   0636      0658  SVI  3   FLA  N06E60    SF                4513
+
+5340 +     0704   0712      0718  G18  5   XRA  1-8A      C1.9    1.6E-03   4514
+
+5350 +     0727   0732      0738  G18  5   XRA  1-8A      C2.1    1.4E-03   4507
+
+5360 +     0909   1017      1149  G18  5   XRA  1-8A      M1.6    1.1E-01   4507
+5360       0921   ////      0954  SVI  C   RSP  052-180   CTM/1                 
+5360       0922   ////      1007  SVI  C   RSP  025-180   VI/2                  
+5360       0928   0929      0934  SVI  U   RBR  245       4200                  
+5360       0931   0932      0933  SVI  G   RBR  4995      120                   
+5360 +     0932   0932      0933  SVI  G   RBR  2695      110                   
+
+5380       1124   ////      1640  SVI  3   LPS  ////      0.13    B.9A      4507
+
+5420      B1324   ////     B2228  HOL  2   LPS  ////      0.13    B.6A      4507
+
+5370       1343   1344      1346  HOL  2   FLA  N07E54    SF                4513
+
+5390 +     1438   1438      1443  SVI  3   FLA  N05E54    SF                4513
+
+5400 +     1745   1753      1801  G18  5   XRA  1-8A      C3.4    2.8E-03   4513
+5400       1749   1751      1807  HOL  3   FLA  N08E64    SF      DSD       4513
+
+5410 +     1825   1832      1835  G18  5   XRA  1-8A      C2.0    1.2E-03   4513
+5410       1829   1830      1836  HOL  3   FLA  N09E63    SF                4513
+
+5430 +     2045   2059      2107  G18  5   XRA  1-8A      C4.0    3.6E-03   4513

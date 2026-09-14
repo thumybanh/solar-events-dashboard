@@ -1,7 +1,44 @@
 import { useState,useEffect } from "react";
 
+const API_BASE = "http://localhost:8000"
+const PAGE_SIZE = 100 // rendering all ~28k rows at once locks up the browser
+
+// ~280 pages at 100 rows each, so show a sliding window of numbers instead of all of them
+function Pagination({page, total, pageSize, onChange}){
+  const pageCount = Math.ceil(total / pageSize)
+  if(pageCount <= 1) return null
+
+  const windowSize = 5
+  let first = Math.max(0, page - Math.floor(windowSize / 2))
+  const last = Math.min(pageCount, first + windowSize)
+  first = Math.max(0, last - windowSize)
+  const numbers = Array.from({length: last - first}, (_, i) => first + i)
+
+  return (
+    <div className="pagination">
+      <button onClick={() => onChange(0)} disabled={page === 0}>« First</button>
+      <button onClick={() => onChange(page - 1)} disabled={page === 0}>‹ Prev</button>
+
+      {numbers.map(n => (
+        <button
+          key={n}
+          onClick={() => onChange(n)}
+          className={n === page ? 'active' : ''}
+        >{n + 1}</button>
+      ))}
+
+      <button onClick={() => onChange(page + 1)} disabled={page >= pageCount - 1}>Next ›</button>
+      <button onClick={() => onChange(pageCount - 1)} disabled={page >= pageCount - 1}>Last »</button>
+      <span className="page-count">Page {page + 1} of {pageCount.toLocaleString()}</span>
+    </div>
+  )
+}
+
 function App(){
   const[events, setEvents] = useState([]) // a state variable (events) and updated it by setEvents
+  const[total, setTotal] = useState(0) // how many events match the current filters, across all pages
+  const[page, setPage] = useState(0)
+  const[appliedFilters, setAppliedFilters] = useState({}) // only updates when Filter is clicked
   const[startDate, setStartDate] = useState('')
   const[endDate, setEndDate] = useState('')
   const[goes_class, setGoesClass] = useState('')
@@ -9,25 +46,33 @@ function App(){
   const[imageURL, setImageURL] = useState(null)
 
 
-const fetchEvents = () => { 
-  let url = "http://localhost:8000/events"
+// URLSearchParams builds the query string properly — the old version chained multiple "?"
+// and broke whenever both dates were set
+const buildParams = (filters) => {
+  const params = new URLSearchParams()
+  if(filters.startDate) params.set('start_date', filters.startDate)
+  if(filters.endDate) params.set('end_date', filters.endDate)
+  if(filters.goes_class) params.set('goes_class', filters.goes_class)
+  return params
+}
 
-  if(startDate && endDate){
-    url += `?start_date=${startDate}&end_date=${endDate}`
-  }
-  if(startDate){
-    url += `?start_date=${startDate}`
-  }
-  if(endDate){
-    url += `?end_date=${endDate}`
-  }
-  if(goes_class){
-    url += url.includes('?') ? `&goes_class=${goes_class}` : `?goes_class=${goes_class}`
-  }
-  fetch(url)
-    .then(res => res.json())
+const fetchEvents = (filters, pageNumber) => {
+  const params = buildParams(filters)
+  params.set('limit', PAGE_SIZE)
+  params.set('offset', pageNumber * PAGE_SIZE)
+
+  fetch(`${API_BASE}/events?${params}`)
+    .then(res => {
+      // the API reports the unpaginated total in a header so the body stays a plain array
+      setTotal(Number(res.headers.get('X-Total-Count')) || 0)
+      return res.json()
+    })
     .then(data => {setEvents(data)})
-  
+}
+
+const applyFilters = () => {
+  setPage(0)
+  setAppliedFilters({startDate, endDate, goes_class})
 }
 
 // to figure out which telescope source id to use
@@ -56,33 +101,39 @@ const getSourceId = (eventStart) => {
 
 
 // download feature
-const downloadCSV = () => {
-  const headers = ["event_id", "event_start", "event_stop", "event_peak", "event_goes", "event_position"]
-  const rows = events.map(event => [
-    event.event_id, event.event_start, 
-    event.event_stop, event.event_peak, 
-    event.event_GOES, event.event_position].join(',')
-  )
-  const CSVcontent = [headers.join(','), ...rows].join("\n")
+// downloads pull the full filtered set from the API, not just the page on screen
+const fetchAllFiltered = () => {
+  return fetch(`${API_BASE}/events/download/?${buildParams(appliedFilters)}`)
+    .then(res => res.json())
+}
 
-  const blob = new Blob([CSVcontent], {type: 'text/csv'})
+const saveFile = (content, type, filename) => {
+  const blob = new Blob([content], {type})
   const url = URL.createObjectURL(blob)
   const link = document.createElement('a')
   link.href = url
-  link.download = 'events.csv'
+  link.download = filename
   link.click()
+  URL.revokeObjectURL(url)
+}
+
+const downloadCSV = () => {
+  fetchAllFiltered().then(allEvents => {
+    const headers = ["event_id", "event_start", "event_stop", "event_peak", "event_goes", "event_position"]
+    const rows = allEvents.map(event => [
+      event.event_id, event.event_start,
+      event.event_stop, event.event_peak,
+      event.event_GOES, event.event_position].join(',')
+    )
+    const CSVcontent = [headers.join(','), ...rows].join("\n")
+    saveFile(CSVcontent, 'text/csv', 'events.csv')
+  })
 }
 
 const downloadJSON = () => {
-
-  const JSONcontent = JSON.stringify(events)
-
-  const blob = new Blob([JSONcontent], {type: 'text/json'})
-  const url = URL.createObjectURL(blob)
-  const link = document.createElement('a')
-  link.href = url
-  link.download = 'events.json'
-  link.click()
+  fetchAllFiltered().then(allEvents => {
+    saveFile(JSON.stringify(allEvents), 'text/json', 'events.json')
+  })
 }
 
 // const imageFetch = (event) => {
@@ -130,9 +181,10 @@ const imageFetch = (event) => {
   setImageURL(`https://iswa.ccmc.gsfc.nasa.gov/iswa_data_tree/observation/solar/sdo/hmi-magnetogram_2048x2048/${year}/${month}/${full_date}_${full_time}00_2048_HMIB.jpg`) // [Observatory, Instrument, Detector, Measurement, Visible, Opacity]
 }
 
+// refetch on first load, when a new filter is applied, and when the page changes
 useEffect(()=>{
-  fetchEvents()
-}, [])
+  fetchEvents(appliedFilters, page)
+}, [appliedFilters, page])
 
   // useEffect( () =>{ // runs when the page loads // change the image jp2 into png so that i can pop up 
   //   fetch("http://localhost:8000/events") //to call the fastapi backend
@@ -143,14 +195,17 @@ useEffect(()=>{
   return(
     <div>
       <h1>Solar Events Dashboard</h1>
-      <p>Total unique events: {events.length}</p>
+      <p>
+        Total unique events: {total.toLocaleString()}
+        {total > 0 && ` — showing ${(page * PAGE_SIZE + 1).toLocaleString()}–${Math.min((page + 1) * PAGE_SIZE, total).toLocaleString()}`}
+      </p>
       {/* <label>Start date</label> */}
       <input type="date" onChange={e => setStartDate(e.target.value)} />
       {/* <label>End date</label> */}
       <input type="date" onChange={e=> setEndDate(e.target.value)} />
       {/* <label>Search for GOES class</label> */}
       <input type="search" className="goes-input" placeholder="Filter by GOES class" onChange={e=> setGoesClass(e.target.value)}/>
-      <button onClick={fetchEvents}>Filter</button>
+      <button onClick={applyFilters}>Filter</button>
       <button onClick={downloadCSV}>Download CSV</button>
       <button onClick={downloadJSON}>Download JSON</button>
       <table>
@@ -179,6 +234,8 @@ useEffect(()=>{
           ))}
         </tbody>
       </table>
+
+      <Pagination page={page} total={total} pageSize={PAGE_SIZE} onChange={setPage} />
 
     {selectedEvent && (
       <div style={{position: 'fixed', top: 0, left: 0, width: '100%', height: '100%', backgroundColor: 'rgba(0,0,0,0.7)', display: "flex", justifyContent :'center',alignItems: 'center', zIndex: 1000 }}>

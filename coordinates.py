@@ -64,11 +64,20 @@ def convertHCC_HPC(x, y):
 with open('events.json', 'r') as f: 
     events = json.load(f)
 
-    for event in events: 
-        lat, lon = noaa_matcher.convert_position(event['event_position'])
+    missing = 0
+    for event in events:
+        try:
+            lat, lon = noaa_matcher.convert_position(event['event_position'])
+        except (IndexError, ValueError):
+            # LMSAL sometimes leaves the derived position blank — no pixel coords for those
+            event['pix_x'] = None
+            event['pix_y'] = None
+            missing += 1
+            continue
         pix_x, pix_y = convert_hgs_to_pix(lon, lat)
         event['pix_x'] = pix_x
         event['pix_y'] = pix_y
+    print(f"converted {len(events) - missing} positions, {missing} skipped (blank position)")
     
 with open('events.json', 'w') as w: 
     json.dump(events, w, indent = 2)

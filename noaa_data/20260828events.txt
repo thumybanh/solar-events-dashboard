@@ -1,0 +1,27 @@
+:Product: 20260828events.txt
+:Created: 2026 Aug 31 0357 UT
+:Date: 2026 08 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Aug 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6180       0052   0054      0056  HOL  3   FLA  N03W26    SF                4513
+
+6190 +     0412   0422      0430  G18  5   XRA  1-8A      C1.1    9.3E-04   4513
+6190       0420   0422      0424  LEA  3   FLA  N03W28    SF      DSD       4513
+
+6210       1455   ////      1553  SVI  C   RSP  025-083   VI/1                  
+
+6200       1456   ////      1522  SAG  C   RSP  025-050   VI/1                  
+
+6210       1552   ////      1553  SAG  C   RSP  025-075   III/1                 
+
+6220       1718   ////      1721  SAG  C   RSP  025-054   III/1                 
+
+6230 +     2225   ////      2226  PAL  C   RSP  025-049   III/2                 

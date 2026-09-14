@@ -1,0 +1,32 @@
+:Product: 20260807events.txt
+:Created: 2026 Aug 10 0357 UT
+:Date: 2026 08 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Aug 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1380       0007   0007      0007  PAL  G   RBR  245       110                   
+
+1390       0040   ////      0040  PAL  C   RSP  025-054   III/1                 
+
+1400       0332   ////      0457  PAL  U   RSP  025-057   CTM/1                 
+
+1420       1302   ////      1303  SAG  C   RSP  025-060   III/1                 
+
+1460       1352   ////      1507  SVI  3   DSF  S07W09    9                     
+
+1430 +     1458   ////      1458  SAG  C   RSP  025-180   III/2                 
+
+1490      A1632   ////     A0550  SVI  3   DSF  N27E26    20                    
+
+1440       1713   1720      1721  G19  5   XRA  1-8A      B2.8    2.4E-04   4504
+
+1470       1721   1728      1731  G19  5   XRA  1-8A      B2.9    2.1E-04   4504
+
+1450       2024   2024      2024  SAG  G   RBR  245       130                   

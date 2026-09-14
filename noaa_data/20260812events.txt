@@ -1,0 +1,29 @@
+:Product: 20260812events.txt
+:Created: 2026 Aug 15 0357 UT
+:Date: 2026 08 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Aug 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1800 +     0113   0121      0128  G18  5   XRA  1-8A      B7.7    5.6E-04   4507
+
+1810 +     0138   0143      0148  G18  5   XRA  1-8A      B5.9    4.9E-04   4507
+
+1820 +     0148   0154      0202  G18  5   XRA  1-8A      B5.6    5.2E-04   4507
+
+1830 +     0603   0617      0626  G18  5   XRA  1-8A      B6.1    7.4E-04       
+
+1840 +     0728   0733      0737  G18  5   XRA  1-8A      C1.7    7.4E-04   4508
+
+1850 +     1641   1648      1655  G18  5   XRA  1-8A      B5.4    3.9E-04   4506
+1850       1646   1647      1651  SVI  3   FLA  N12E17    SF                4506
+
+3380 +     2237   2251      2259  G18  5   XRA  1-8A      B5.2    8.0E-04   4507
+
+3390 +     2259   2323      2343  G18  5   XRA  1-8A      B5.6    1.4E-03   4503

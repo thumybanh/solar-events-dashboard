@@ -1,0 +1,58 @@
+:Product: 20260502events.txt
+:Created: 2026 May 05 0357 UT
+:Date: 2026 05 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 650       0002   ////      0002  PAL  C   RSP  047-058   III/1                 
+
+ 660       0112   0119      0124  G19  5   XRA  1-8A      C1.1    8.8E-04   4420
+
+ 670 +     0230   0245      0255  G18  5   XRA  1-8A      C2.5    3.1E-03   4429
+
+ 680 +     0537   0548      0552  G18  5   XRA  1-8A      C2.4    1.7E-03   4420
+
+ 690 +     0616   0625      0633  G18  5   XRA  1-8A      C1.9    1.7E-03   4424
+
+ 700 +     0756   0810      0820  G18  5   XRA  1-8A      C1.8    2.4E-03   4431
+
+ 710 +     0922   0925      0928  G18  5   XRA  1-8A      C2.2    8.4E-04   4424
+
+ 720 +     1020   1028      1036  G18  5   XRA  1-8A      C2.0    1.7E-03   4429
+ 720       1025   1026      1038  SVI  3   FLA  S04E16    SF      ERU       4429
+
+ 730 +     1044   1104      1126  G18  5   XRA  1-8A      C4.0    8.0E-03   4420
+ 730       1051   ////      1104  SVI  C   RSP  025-180   II/2    641           
+ 730       1059   ////      1117  SVI  C   RSP  025-084   VI/2                  
+
+ 740 +     1144   1151      1155  G18  5   XRA  1-8A      C3.1    2.5E-03   4428
+ 740       1146   1151      1220  SVI  3   FLA  S22W30    SF                4428
+
+ 750 +     1155   1203      1205  G18  5   XRA  1-8A      C3.5    3.3E-03   4428
+
+ 770       1205   1211      1216  G18  5   XRA  1-8A      C3.8    2.9E-03   4425
+ 770       1208   1209      1224  SVI  3   FLA  N10W28    SF      ERU       4425
+
+ 790 +     1357   1404      1410  G18  5   XRA  1-8A      C2.4    1.9E-03   4429
+ 790       1359   1404      1417  SVI  3   FLA  S05E14    SF      ERU       4429
+
+ 800 +     1511   1521      1531  G18  5   XRA  1-8A      C3.5    3.7E-03   4428
+ 800       1517   1519      1533  SVI  3   FLA  S21W32    SF      ERU       4428
+
+ 810       1531   1535      1540  G18  5   XRA  1-8A      C4.2    2.4E-03   4424
+ 810       1532   1606      1611  SVI  3   FLA  N19W57    SF                4424
+
+ 820       1544   ////      1545  SVI  C   RSP  055-150   III/1                 
+
+ 890      A1658   ////     A0454  SVI  3   DSF  S31E08    20                    
+
+ 830 +     1830   1838      1842  G18  5   XRA  1-8A      C8.7    3.2E-03   4420
+
+ 850 +     2017   2025      2030  G18  5   XRA  1-8A      C2.2    1.7E-03   4429

@@ -1,0 +1,42 @@
+:Product: 20260830events.txt
+:Created: 2026 Sep 02 0357 UT
+:Date: 2026 08 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Aug 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6380 +     0110   0120      0125  G18  5   XRA  1-8A      C3.0    1.4E-03       
+6380       0114   ////      0119  PAL  C   RSP  025-076   III/2                 
+
+6390       0605   ////      0605  SVI  C   RSP  025-056   III/1                 
+
+6400 +     0618   0626      0632  G18  5   XRA  1-8A      B7.2    5.8E-04   4518
+6400       0623   0625      0628  LEA  3   FLA  N07E01    SF                4518
+
+6410       0753   ////      0754  SVI  C   RSP  025-054   III/1                 
+
+6420 +     1031   1031      1031  SAG  G   RBR  245       100                   
+
+6430 +     1202   ////      1311  SVI  C   RSP  049-152   CTM/1                 
+6430 +     1248   1256      1302  G18  5   XRA  1-8A      B9.8    8.2E-04       
+
+6440       1614   ////      1614  SAG  C   RSP  025-067   III/1                 
+
+6500       1620   1634      1641  G18  5   XRA  1-8A      B8.6    1.2E-03       
+
+6450       1641   1656      1711  G18  5   XRA  1-8A      C2.2    3.0E-03   4513
+6450       1650   1653      1700  HOL  3   FLA  N04W66    SF      ERU       4513
+
+6460       2008   ////      2008  SAG  C   RSP  025-068   III/1                 
+
+6470 +     2133   2145      2157  G18  5   XRA  1-8A      B8.6    1.1E-03       
+
+6480       2224   2224      2234  HOL  3   FLA  N08E00    SF      DSD       4518
+
+6490       2257   ////      2258  PAL  C   RSP  025-057   III/2                 

@@ -1,0 +1,75 @@
+:Product: 20260817events.txt
+:Created: 2026 Aug 20 0357 UT
+:Date: 2026 08 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Aug 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4290 +     0213   0224      0234  G18  5   XRA  1-8A      C2.3    2.3E-03   4507
+
+4330 +     0557   0622      0648  G18  5   XRA  1-8A      C2.0    5.0E-03   4510
+
+4300       0602   ////      0603  SVI  C   RSP  025-084   III/1                 
+
+4310       0639   0639      0639  SVI  G   RBR  245       140                   
+
+4320       0642   0643      0643  SVI  G   RBR  245       150                   
+
+4330       0646   0646      0646  SVI  G   RBR  245       500                   
+
+4340       0707  U0709      0717  SVI  3   FLA  N03W31    SF      ERU       4507
+
+4350       0812  U0814      0827  SVI  3   FLA  N13W60    SF                4510
+
+4360       0830   0851      0855  SVI  3   FLA  N13W60    SF                4510
+
+4370       0915  U0925      0935  SVI  3   FLA  N13W61    SF                4510
+
+4380       0944   0955      1000  SVI  3   FLA  N13W61    SF                4510
+
+4390       1009   1022      1027  G18  5   XRA  1-8A      C1.3    1.5E-03   4510
+
+4420 +     1027   1030      1040  G18  5   XRA  1-8A      C1.7    1.4E-03   4507
+
+4410      B1045  U1045     A1048  SVI  3   FLA  N12W62    SF                4510
+
+4400 +     1051   1058      1102  G18  5   XRA  1-8A      C1.6    1.1E-03   4507
+
+4430 +     1618   1653      1705  G18  5   XRA  1-8A      C2.0    4.7E-03   4510
+4430 +     1623   ////      1624  SVI  C   RSP  025-146   III/1             4510
+4430 +     1637   ////      1644  SAG  C   RSP  028-054   II/1    825       4510
+4430       1647   1652      1740  HOL  3   FLA  N10W66    SF      ERU       4510
+
+4490 +     1705   1717      1722  G18  5   XRA  1-8A      C1.7    1.8E-03   4510
+
+4440 +     1742   1747      1749  G18  5   XRA  1-8A      C3.2    8.6E-04   4510
+4440       1746   1748      1754  HOL  3   FLA  N10W66    SF      ERU       4510
+4440 +     1746   1746      1746  SAG  G   RBR  610       110               4510
+
+4450       1755   1822      1826  HOL  3   FLA  N10W66    SF                4510
+
+4500       1801   1801      1802  HOL  3   FLA  N04W40    SF                4507
+
+4460       1829   1837      1846  HOL  3   FLA  N10W66    SF      ERU       4510
+
+4470       1920   1922      1923  HOL  3   FLA  N10W66    SF                4510
+
+4480 +     1928   1935      1942  G18  5   XRA  1-8A      C1.4    1.1E-03   4510
+
+4510       1958   2039      2136  HOL  2   FLA  N10W67    SF                4510
+
+4520       2105   ////      2106  SAG  C   RSP  025-063   III/1                 
+
+4530       2128   2129      2142  HOL  2   FLA  N04W42    SF      ERU       4507
+
+4540       2143   2145      2148  HOL  3   FLA  N10W67    SF                4510
+
+4550 +     2214   2218      2221  HOL  2   FLA  N04W42    SF      DSD       4507
+
+4560       2241   2241      2253  HOL  2   FLA  N10W67    SF      DSD       4510

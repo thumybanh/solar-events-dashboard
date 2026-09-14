@@ -1,0 +1,58 @@
+:Product: 20260724events.txt
+:Created: 2026 Jul 27 0357 UT
+:Date: 2026 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9770       0000   ////      0504  PAL  C   RSP  025-180   CTM/2                 
+9770       0000   ////      0504  PAL  C   RSP  025-134   VI/2                  
+
+9760 +     0005   0009      0012  G18  5   XRA  1-8A      C1.5    6.9E-04   4494
+9760 +     0007   0009      0009  LEA  G   RBR  245       470                   
+
+9780 +     0128   0128      0128  LEA  G   RBR  245       120                   
+
+9790 +     0132   0132      0132  LEA  G   RBR  245       140                   
+
+9800       0204   0204      0204  LEA  G   RBR  245       110                   
+
+9810 +     0358   0405      0408  G18  5   XRA  1-8A      C1.8    1.0E-03   4494
+9810       0402   0403      0407  LEA  3   FLA  S03E36    SF                4494
+
+9820 +     0414   0427      0436  G18  5   XRA  1-8A      C2.4    2.9E-03       
+9820       0415   ////      0416  SVI  C   RSP  025-117   III/2                 
+
+9850       0534   ////      1803  SVI  C   RSP  025-180   CTM/2                 
+
+9840       0559   ////      1002  SVI  C   RSP  025-180   VI/1                  
+
+9830 +     0639   0647      0700  G18  5   XRA  1-8A      C1.8    2.1E-03   4493
+9830       0643   0645      0655  SVI  3   FLA  N07W34    SF                4493
+
+9930       1017   ////      0000  SAG  C   RSP  025-180   CTM/1                 
+
+9860       1641   1641      1641  PAL  U   RBR  245       140                   
+
+9870       1819   1819      1819  PAL  U   RBR  245       120                   
+
+9880       1821   1824      1825  PAL  U   RBR  245       160                   
+
+9890       1828   1828      1930  PAL  U   RNS  245       160                   
+
+9900 +     2052   2105      2113  G18  5   XRA  1-8A      C2.6    2.7E-03   4494
+
+9950       2115   ////      2359  PAL  C   RSP  025-141   CTM/1                 
+
+9910 +     2146   2203      2218  G18  5   XRA  1-8A      C3.0    5.1E-03   4493
+9910       2158   ////      2359  PAL  C   RSP  025-057   VI/1                  
+
+9920       2234   2234      2234  PAL  U   RBR  245       100                   
+
+9940       2345   2347      2349  LEA  G   RBR  245       170                   

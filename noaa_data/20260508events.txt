@@ -1,0 +1,71 @@
+:Product: 20260508events.txt
+:Created: 2026 May 11 0357 UT
+:Date: 2026 05 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1800       0000   ////      0008  HOL  2   BSL  ////      0.15                  
+
+1810 +     0149   0154      0156  G18  5   XRA  1-8A      C1.0    4.4E-04       
+1810 +     0152   0153      0153  LEA  G   RBR  245       1300                  
+
+1820 +     0331   0332      0333  LEA  G   RBR  245       1000                  
+
+1830 +     0342   0342      0342  LEA  G   RBR  410       200                   
+1830 +     0342   0342      0342  LEA  G   RBR  245       780                   
+
+1850       0351   ////      0353  LEA  3   BSL  ////      0.16                  
+
+1840 +     0358   0403      0405  G18  5   XRA  1-8A      C1.1    4.5E-04   4431
+
+1860 +     1113   1120      1122  G18  5   XRA  1-8A      C1.0    5.3E-04   4432
+
+1870      B1250   1252      1254  HOL  3   FLA  N13W23    SF                4432
+
+1880       1320   1320      1325  HOL  3   FLA  S15W38    SF                4431
+
+1890 +     1539   1551      1601  G18  5   XRA  1-8A      C4.2    3.7E-03   4432
+1890       1543   1549      1740  HOL  3   FLA  N12W23    1N      PRB       4432
+1890       1551   1551      1551  SAG  G   RBR  245       180               4432
+
+1900       1623   1625      1630  HOL  3   FLA  S15W40    SF                4431
+
+1910 +     1656   1704      1713  G18  5   XRA  1-8A      B9.5    1.0E-03   4432
+1910       1709   1709      1709  SAG  G   RBR  245       110                   
+
+1920       1713   1716      1721  G18  5   XRA  1-8A      C1.0    5.7E-04   4432
+
+1930       1730   1730      1730  SAG  G   RBR  245       100                   
+
+1950       1742   1911      1911  HOL  3   FLA  N11W25    1N                4432
+
+1940 +     1756   1802      1809  G18  5   XRA  1-8A      C1.5    1.1E-03   4432
+
+1950       1820   1825      1827  G19  5   XRA  1-8A      C1.1    5.7E-04   4432
+
+1960 +     1901   1907      1909  G18  5   XRA  1-8A      C2.1    7.3E-04   4432
+
+1970       1912   1920      2001  HOL  3   FLA  N11W27    1F      ERU       4432
+1970 +     1916   1921      1937  G18  5   XRA  1-8A      C1.2    1.4E-03   4432
+
+1980 +     2005   2021      2035  G18  5   XRA  1-8A      C2.6    3.4E-03   4432
+1980       2005   2021      2100  HOL  3   FLA  N12W27    2N      ERU       4432
+
+1990       2116   2118      2118  HOL  3   FLA  N12W26    SF                4432
+
+2000       2142   2145      2148  HOL  3   FLA  N11W25    SF                4432
+
+2010       2200   2201      2216  HOL  3   FLA  N12W28    SF                4432
+2010 +     2200   2207      2210  G18  5   XRA  1-8A      C1.0    6.2E-04   4432
+
+2020       2233   2239      2240  HOL  3   FLA  N12W28    SF      ERU       4432
+
+2030 +     2319   2328      2339  G18  5   XRA  1-8A      C2.4    2.3E-03   4432
+2030       2323   2352      2351  HOL  3   FLA  N11W31    1F      ERU       4432

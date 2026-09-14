@@ -1,0 +1,58 @@
+:Product: 20260420events.txt
+:Created: 2026 Apr 23 0357 UT
+:Date: 2026 04 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Apr 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6900       0100   0100      0100  LEA  G   RBR  245       100                   
+
+6910       0101   0101      0101  PAL  U   RBR  245       100                   
+
+6920       0143   ////      0143  PAL  C   RSP  025-075   III/1                 
+
+6930       0204   0204      0204  LEA  G   RBR  245       300                   
+
+6940       0229   ////      0229  PAL  C   RSP  025-075   III/2                 
+
+6950       0237   0237      0237  PAL  U   RBR  245       100                   
+
+6960       0514   0514      0514  LEA  G   RBR  245       100                   
+
+6970       0721   0721      0721  LEA  G   RBR  245       110                   
+
+6980       0732   0732      0732  LEA  G   RBR  245       150                   
+
+6990       0741   ////      0742  SVI  C   RSP  025-180   III/2                 
+
+7000 +     0833   0845      0852  G18  5   XRA  1-8A      C1.0    9.0E-04   4419
+7000       0840   0841      0841  LEA  G   RBR  245       210               4419
+7000       0840   ////      0843  SVI  C   RSP  025-180   III/1             4419
+7000       0842   0845      0853  SVI  3   FLA  N16W11    SF                4419
+
+7010       0947   0947      0948  LEA  G   RBR  245       100                   
+
+7020 +     1337   1401      1412  G18  5   XRA  1-8A      B8.6    1.6E-03       
+
+7030 +     1458   1514      1525  G18  5   XRA  1-8A      C1.6    2.1E-03       
+7030       1508   1508      1508  SAG  G   RBR  245       120                   
+
+7040 +     1559   1607      1609  G18  5   XRA  1-8A      B6.0    3.8E-04   4419
+7040 +     1606   1607      1609  HOL  3   FLA  N13W17    SF                4419
+
+7150      A1626   ////     A0744  SVI  3   DSF  N64E22    13                    
+
+7050 +     1952   2002      2012  G18  5   XRA  1-8A      B7.1    8.3E-04   4419
+
+7060       2016   ////      2018  SAG  C   RSP  025-150   III/1                 
+
+7070       2250   ////      2251  SAG  C   RSP  025-141   III/1                 
+7070       2250   ////      2252  PAL  C   RSP  025-180   V/2                   
+
+7080       2306   ////      2307  PAL  C   RSP  146-180   III/1                 

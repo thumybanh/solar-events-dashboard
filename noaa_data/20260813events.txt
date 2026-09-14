@@ -1,0 +1,45 @@
+:Product: 20260813events.txt
+:Created: 2026 Aug 16 0357 UT
+:Date: 2026 08 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Aug 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3400 +     0145   0150      0202  G18  5   XRA  1-8A      B4.3    4.9E-04   4508
+
+3410 +     0202   0224      0237  G18  5   XRA  1-8A      B7.4    1.3E-03       
+
+3420       0549   ////      0549  SVI  C   RSP  025-086   III/1                 
+
+3430       0657   ////      0658  SVI  C   RSP  025-064   III/1                 
+
+3440 +     1052   1058      1101  G18  5   XRA  1-8A      B5.4    2.7E-04   4507
+3440 +     1057   1057      1057  SVI  G   RBR  410       120                   
+
+3450 +     1346   ////      1347  SVI  C   RSP  025-154   III/2                 
+
+3460 +     1533   ////      1535  SAG  C   RSP  025-180   III/2                 
+
+3560      A1640   ////     A0533  SVI  3   DSF  S16E20    17                    
+
+3470       1705   1709      1726  G19  5   XRA  1-8A      B4.5    5.7E-04   4507
+
+3490 +     1824   1835      1851  G18  5   XRA  1-8A      B9.2    1.2E-03   4507
+
+3480 +     1828   1828      1829  SAG  G   RBR  410       1600                  
+
+3500       2017   2017      2017  SAG  G   RBR  245       1000                  
+
+3510 +     2024   ////      2025  SAG  C   RSP  025-061   III/2                 
+
+3520 +     2116   2128      2133  G18  5   XRA  1-8A      B6.0    5.8E-04   4508
+
+3530 +     2304   2311      2318  G18  5   XRA  1-8A      B5.3    4.3E-04   4507
+
+3540 +     2333   2341      2357  G18  5   XRA  1-8A      B6.7    9.0E-04   4507

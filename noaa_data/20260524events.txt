@@ -1,0 +1,53 @@
+:Product: 20260524events.txt
+:Created: 2026 May 27 0357 UT
+:Date: 2026 05 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4700       0038   ////      0039  PAL  C   RSP  025-075   III/2                 
+
+4710 +     0048   0104      0108  G18  5   XRA  1-8A      C3.5    2.8E-03   4446
+
+4720       0111   0116      0117  HOL  3   FLA  S06E82    SF                    
+
+4730       0216   ////      0217  PAL  C   RSP  043-073   III/1                 
+
+4740 +     0218   0225      0230  G18  5   XRA  1-8A      C3.4    2.4E-03   4446
+
+4750 +     0233   0237      0240  G18  5   XRA  1-8A      C3.7    1.7E-03   4446
+
+4760       0329   ////      0330  PAL  C   RSP  025-059   III/1                 
+
+4770       0436   ////      0441  SVI  C   RSP  045-180   III/1                 
+
+4780       0805   ////      0809  SVI  C   RSP  025-152   III/1                 
+
+4790       0850   ////      0856  SVI  C   RSP  039-084   II/2    579           
+
+4800       0919   ////      0919  SVI  C   RSP  036-061   III/1                 
+
+4810 +     0957   ////      1238  SVI  C   RSP  025-154   VI/2                  
+
+4820 +     1125   1125      1125  SVI  G   RBR  245       180                   
+4820 +     1125   ////      1126  SAG  C   RSP  134-180   III/1                 
+
+4830       1441   ////      1442  SAG  C   RSP  025-051   III/1                 
+
+4840       1600   ////      1603  SAG  C   RSP  025-076   III/2                 
+4840       1600   ////      1629  SVI  C   RSP  025-127   VI/2                  
+
+4880       1754   ////      2044  SAG  C   RSP  025-180   VI/2                  
+
+4850       1818   ////      1820  PAL  C   RSP  025-075   III/2                 
+
+4860       1828   1837      1845  G19  5   XRA  1-8A      C1.2    1.2E-03   4447
+4860       1830   1835      1844  HOL  3   FLA  S19E33    SF                4447
+
+4870       2024   2024      2024  PAL  G   RBR  8800      110                   

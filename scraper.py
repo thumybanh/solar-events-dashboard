@@ -11,7 +11,7 @@ INDEX_URL = "https://www.lmsal.com/solarsoft/latest_events_archive.html"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 EVENTS_PATH = os.path.join(BASE_DIR, 'events.json')
 
-ARCHIVE_START = '20150701' # oldest snapshot we care about
+ARCHIVE_START = '20020926' # first LMSAL event (gev_20020926_1140); oldest snapshot is 20021001
 
 
 def load_events():
@@ -50,13 +50,24 @@ def scrape_range(cutoff):
 
     print(f"{len(links)} snapshots on or after {cutoff}")
 
-    for snapshot_url in links:
+    skipped = 0
+    for n, snapshot_url in enumerate(links, 1):
+
+        # save every 200 snapshots so a crash on a long backfill doesn't lose everything
+        if n % 200 == 0:
+            print(f"{n}/{len(links)} snapshots, {len(all_events)} events so far")
+            save_events(all_events)
 
     # this is within each day snapshot, where there will be links of gev names.
         try:
             snapshot_response = httpx.get(snapshot_url, timeout=30)
         except Exception as e:
             print(f"skipping {snapshot_url} - {e}")
+            skipped += 1
+            continue
+        if snapshot_response.status_code != 200:
+            print(f"skipping {snapshot_url} - HTTP {snapshot_response.status_code}")
+            skipped += 1
             continue
         snapshot_soup = BeautifulSoup(snapshot_response.text, 'html.parser')
 
@@ -69,6 +80,17 @@ def scrape_range(cutoff):
                 events_table = table
                 break
         if events_table is None:
+            print(f"skipping {snapshot_url} - no event table")
+            skipped += 1
+            continue
+
+    # the position column is named differently over the years ("Derived Position (EIT High Cadence
+    # Wavelength)", "Derived Position (SXI-GOES12 or ...)", plain "Derived Position"), but the
+    # columns are always in the same order. if it's missing, the layout changed — skip the page.
+        headers = [cell.get_text(' ', strip=True) for cell in events_table.find_all(['th', 'td'])[:7]]
+        if len(headers) < 7 or not headers[6].startswith('Derived Position'):
+            print(f"skipping {snapshot_url} - unexpected columns {headers}")
+            skipped += 1
             continue
 
         all_cells = events_table.find_all('td')
@@ -99,7 +121,7 @@ def scrape_range(cutoff):
             else:
                 i += 1 #if not detected "gev", then it will move on
 
-    print(f"Total unique events: {len(all_events)} (+{len(all_events) - before} new)")
+    print(f"Total unique events: {len(all_events)} (+{len(all_events) - before} new), {skipped} snapshots skipped")
 
     save_events(all_events)
 

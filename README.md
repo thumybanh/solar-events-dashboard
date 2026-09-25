@@ -98,16 +98,13 @@ Resumes from the newest event already in `events.json` and scrapes every LMSAL s
 
 Because the cutoff comes from the data rather than from today's date, a missed run heals itself: if the machine was asleep for six weeks, the next run scrapes all six weeks. No separate backfill step is needed.
 
-All file paths resolve through `flarexmatch/fetch/storage.py` rather than the working directory, so it can be run from anywhere (cron runs jobs from `$HOME`). Set `FLARE_DATA_DIR` to point at a different data directory.
+All file paths resolve through `flarexmatch/fetch/storage.py` rather than the working directory, so it can be run from anywhere. Set `FLARE_DATA_DIR` to point at a different data directory.
  
-To automate daily updates using macOS crontab:
-```bash
-# Open crontab editor
-crontab -e
- 
-# Add this line to run at midnight every day
-0 0 * * * /opt/miniconda3/bin/flarexmatch-lmsal
-```
+You do not need to schedule this yourself. The **Daily data update** GitHub Actions workflow
+runs the whole pipeline every day and commits the refreshed data back to the repository, so a
+local checkout stays current with `git pull`. The workflow can also be started by hand from the
+Actions tab. See [Automated Daily Updates](#automated-daily-updates) below. Run the command
+above directly only when you want to refresh a local copy immediately, between scheduled runs.
  
 ### 3. Download NOAA Data
 ```bash
@@ -209,7 +206,13 @@ CORS is open, so the API can be called directly from browser-based tools and not
 ## Automated Daily Updates
  
 `.github/workflows/daily-update.yml` runs the full pipeline every day at 06:00 UTC and commits
-the refreshed data back to the repository. It can also be triggered by hand from the Actions tab.
+the refreshed data back to the repository. It can also be triggered by hand from the Actions tab
+(**Actions → Daily data update → Run workflow**), which is useful after a failed run or to pick up
+new data without waiting for the next window.
+
+This is the only scheduled pipeline. There is no local cron job to set up, and any older crontab
+entry pointing at the pre-package scripts should be removed. To get the latest data into a local
+checkout, run `git pull`.
  
 The workflow refuses to commit if the event count ever drops, since the pipeline only ever adds
 events — a decrease would mean something parsed wrong. A failed NOAA download does not fail the

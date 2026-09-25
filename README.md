@@ -8,36 +8,52 @@ A full-stack web application for exploring, filtering, and visualizing solar fla
  
 ```
 LMSAL/
-├── scraper.py            # One-time full scrape of all events from 2015 to present
-├── daily_scraper.py      # Resumes from the newest event in events.json (run daily)
-├── api.py                # FastAPI backend — serves event data
-├── noaa_downloader.py    # Downloads NOAA event txt files via FTP
-├── noaa_matcher.py       # Parses NOAA data + assigns quality flags
-├── coordinates.py        # Converts derived position to pixel coordinates
-├── events.json           # Scraped + processed event database
-├── noaa_data/            # Downloaded NOAA txt files
-├── requirements.txt      # Python dependencies
+├── flarexmatch/                # the installable package
+│   ├── fetch/
+│   │   ├── storage.py          # the only place that reads/writes events.json
+│   │   ├── lmsal.py            # full + daily scrape of the LMSAL archive
+│   │   └── noaa.py             # downloads NOAA event txt files via FTP
+│   ├── matching.py             # parses NOAA data + assigns quality flags
+│   ├── coordinates.py          # converts derived position to pixel coordinates
+│   └── api.py                  # FastAPI backend — serves event data
+├── analysis/                   # one-off research scripts, not part of the package
+│   ├── window_significance.py
+│   ├── window_optimization.py
+│   ├── timing_analysis.py
+│   ├── cross_check.py
+│   ├── compare_events.py
+│   └── flare_match_tolerance_sweep.py
+├── events.json                 # scraped + processed event database
+├── noaa_data/                  # downloaded NOAA txt files
+├── pyproject.toml              # package metadata, dependencies, CLI entry points
+├── requirements.txt            # just `-e .`; pyproject.toml is the source of truth
 └── frontend/
     └── src/
-        ├── App.jsx       # React frontend dashboard
-        └── index.css     # Global styles
+        ├── App.jsx             # React frontend dashboard
+        └── index.css           # Global styles
 ```
+
+`events.json` and `noaa_data/` live at the repo root, outside the package, so an install
+never ships or overwrites them. Everything that touches them goes through
+`flarexmatch/fetch/storage.py`, which resolves the data directory from the
+`FLARE_DATA_DIR` environment variable and falls back to the repo root.
  
 ---
  
 ## Installation
  
-### Python Dependencies
+### Python Package
+ 
+Install the project in editable mode from the repo root. This pulls in the
+dependencies and puts the `flarexmatch-lmsal` and `flarexmatch-noaa` commands on
+your `PATH`:
  
 ```bash
-pip install -r requirements.txt
+pip install -e .
 ```
  
-Or manually:
- 
-```bash
-pip install httpx beautifulsoup4 fastapi uvicorn python-multipart
-```
+Editable mode means the package is imported straight from this checkout, so edits
+take effect without reinstalling.
  
 ### Node.js Dependencies
  
@@ -53,7 +69,7 @@ npm install
 **Terminal 1 — Start the FastAPI backend:**
 ```bash
 cd path/to/LMSAL
-/opt/miniconda3/bin/python -m uvicorn api:app --reload
+/opt/miniconda3/bin/python -m uvicorn flarexmatch.api:app --reload
 ```
  
 **Terminal 2 — Start the React frontend:**
@@ -70,19 +86,19 @@ npm run dev
  
 ### 1. Scrape All Historical LMSAL Events (run once)
 ```bash
-/opt/miniconda3/bin/python scraper.py
+/opt/miniconda3/bin/python -c "from flarexmatch.fetch.lmsal import run_scraper; run_scraper()"
 ```
 Scrapes all solar flare events from the LMSAL archive starting from July 1, 2015 up to today. Merges with existing `events.json` without overwriting historical data. Only needs to be run once to build the initial database.
  
 ### 2. Update with New Events (run daily)
 ```bash
-/opt/miniconda3/bin/python daily_scraper.py
+flarexmatch-lmsal
 ```
 Resumes from the newest event already in `events.json` and scrapes every LMSAL snapshot from that date forward. Merges new events into the existing `events.json` without touching historical data.
 
 Because the cutoff comes from the data rather than from today's date, a missed run heals itself: if the machine was asleep for six weeks, the next run scrapes all six weeks. No separate backfill step is needed.
 
-All file paths resolve relative to the script's own folder, so it can be run from any working directory (cron runs jobs from `$HOME`).
+All file paths resolve through `flarexmatch/fetch/storage.py` rather than the working directory, so it can be run from anywhere (cron runs jobs from `$HOME`). Set `FLARE_DATA_DIR` to point at a different data directory.
  
 To automate daily updates using macOS crontab:
 ```bash
@@ -90,18 +106,18 @@ To automate daily updates using macOS crontab:
 crontab -e
  
 # Add this line to run at midnight every day
-0 0 * * * /opt/miniconda3/bin/python /path/to/LMSAL/daily_scraper.py
+0 0 * * * /opt/miniconda3/bin/flarexmatch-lmsal
 ```
  
 ### 3. Download NOAA Data
 ```bash
-/opt/miniconda3/bin/python noaa_downloader.py
+flarexmatch-noaa
 ```
 Connects to the NOAA FTP server (`ftp.swpc.noaa.gov`) and downloads event txt files for each unique date present in `events.json`. Files saved to `noaa_data/`. Automatically skips dates where NOAA has no data.
  
 ### 4. Match & Assign Quality Flags
 ```bash
-/opt/miniconda3/bin/python noaa_matcher.py
+/opt/miniconda3/bin/python -m flarexmatch.matching
 ```
 Parses NOAA txt files and compares each LMSAL event against NOAA data. Assigns a `quality_flag` to each event based on time difference and GOES class matching:
  
@@ -116,7 +132,7 @@ for how the window was derived.
  
 ### 5. Calculate Pixel Coordinates
 ```bash
-/opt/miniconda3/bin/python coordinates.py
+/opt/miniconda3/bin/python -m flarexmatch.coordinates
 ```
 Converts each event's derived position (e.g. `S11W04`) to pixel coordinates (`pix_x`, `pix_y`) on a 512x512 solar image using heliographic coordinate transformation:
  
@@ -208,16 +224,16 @@ day's state of the data and reproduced later.
  
 ```
 First time setup:
-1. Run scraper.py          → builds full historical database (2015 to now)
-2. Run noaa_downloader.py  → downloads NOAA comparison files
-3. Run noaa_matcher.py     → assigns quality flags
-4. Run coordinates.py      → adds pixel coordinates
+1. flarexmatch.fetch.lmsal.run_scraper()  → builds full historical database (2015 to now)
+2. flarexmatch-noaa                       → downloads NOAA comparison files
+3. python -m flarexmatch.matching         → assigns quality flags
+4. python -m flarexmatch.coordinates      → adds pixel coordinates
  
 Daily maintenance:
-1. Run daily_scraper.py    → adds every event since the newest one on file
-2. Run noaa_downloader.py  → downloads any new NOAA files
-3. Run noaa_matcher.py     → updates quality flags
-4. Run coordinates.py      → updates pixel coordinates
+1. flarexmatch-lmsal                      → adds every event since the newest one on file
+2. flarexmatch-noaa                       → downloads any new NOAA files
+3. python -m flarexmatch.matching         → updates quality flags
+4. python -m flarexmatch.coordinates      → updates pixel coordinates
 ```
  
 ---
@@ -425,7 +441,7 @@ than corroboration.
 None of this is load-bearing: HIGH is 61.8% at W=1, 62.0% at W=2, 62.1% at W=3, 62.2% at W=4, and
 62.4% at W=10. The window is not what determines the quality split.
  
-Reproduce with `python window_optimization.py` and `python timing_analysis.py`. Both are read-only.
+Reproduce with `python analysis/window_optimization.py` and `python analysis/timing_analysis.py`. Both are read-only.
  
 ### What drives the LOW population
  

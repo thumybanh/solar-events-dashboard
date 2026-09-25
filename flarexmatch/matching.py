@@ -2,8 +2,9 @@
 # 1. only accept XRA type flare 
 # 2. if empty / no information then replace it with null. if null then immediately low qulality
 
-import json
 import os
+
+from flarexmatch.fetch import storage
 
 # An LMSAL event matches a NOAA event when they share a date and GOES class and their begin times
 # fall within this many minutes.
@@ -104,8 +105,8 @@ def to_minutes(timestamp):
 
 def load_noaa_data():
     noaa_by_date = {} # group by date so each LMSAL event only compares against NOAA rows from its own day
-    for fileName in os.listdir('noaa_data'):
-        results = parse_noaa_file(os.path.join('noaa_data', fileName))
+    for fileName in os.listdir(storage.NOAA_DIR):
+        results = parse_noaa_file(os.path.join(storage.NOAA_DIR, fileName))
         noaa_list.extend(results) # use extend because 'extend' add each item individually -> flat list instead of adds whole list as one item like append
         for r in results:
             if r['date'] is not None:
@@ -114,57 +115,56 @@ def load_noaa_data():
 
 
 def match_events(noaa_by_date) :
-     LMSAL_events = []
-     with open('events.json', 'r') as f:
-        events = json.load(f)
-        for event in events:
-                LMSALdate = event['event_start'].split(' ')[0].replace('/','')
-                LMSALstart = to_minutes(event['event_start'].split(' ')[1])
-                LMSALpeak = to_minutes(event['event_peak'])
-                LMSALend = to_minutes(event['event_stop'])
-                LMSALGOES = event['event_GOES']
+    LMSAL_events = []
+    events = storage.load_event_list()
+    for event in events:
+            LMSALdate = event['event_start'].split(' ')[0].replace('/','')
+            LMSALstart = to_minutes(event['event_start'].split(' ')[1])
+            LMSALpeak = to_minutes(event['event_peak'])
+            LMSALend = to_minutes(event['event_stop'])
+            LMSALGOES = event['event_GOES']
 
-                event['quality_flag'] = 'LOW'
+            event['quality_flag'] = 'LOW'
 
-                event['end_time_diff'] = None
+            event['end_time_diff'] = None
 
-                if LMSALstart is None:
-                    LMSAL_events.append(event)
-                    continue
-
-                # same_date is guaranteed by the lookup key, so only the time/class checks are left.
-                # Keep the closest candidate rather than stopping at the first one in file order:
-                # when two same-class NOAA flares fall inside the window, the first can be the wrong
-                # flare, which leaves the flag right but end_time_diff measured against another event.
-                best = None # (time_start_diff, NOAA_begin, NOAA_event)
-                for NOAA_event in noaa_by_date.get(LMSALdate, []):
-                    NOAA_begin = to_minutes(NOAA_event['begin'])
-                    if NOAA_begin is None: continue
-
-                    if NOAA_event['goes_class'] is not None:
-                        same_class = NOAA_event['goes_class'] == LMSALGOES
-                    else : continue
-
-                    time_start_diff = abs(NOAA_begin - LMSALstart)
-
-                    if time_start_diff <= MATCH_WINDOW_MINUTES and same_class :
-                         if best is None or time_start_diff < best[0]: # ties keep file order
-                             best = (time_start_diff, NOAA_begin, NOAA_event)
-
-                if best is not None:
-                     _, NOAA_begin, NOAA_event = best
-                     event['quality_flag'] = 'HIGH'
-                     # How well the two sources agree on where the flare ended. Recorded, not
-                     # used to decide the match: onset is an objective threshold crossing, while
-                     # the end depends on each pipeline's decay criteria, so end times scatter
-                     # ~45x wider than begin times. Gating on it would exclude exactly the
-                     # disagreements this dataset exists to measure.
-                     n_end = resolve_end(NOAA_begin, to_minutes(NOAA_event['end']))
-                     l_end = resolve_end(LMSALstart, LMSALend)
-                     if n_end is not None and l_end is not None:
-                         event['end_time_diff'] = l_end - n_end
+            if LMSALstart is None:
                 LMSAL_events.append(event)
-        return LMSAL_events
+                continue
+
+            # same_date is guaranteed by the lookup key, so only the time/class checks are left.
+            # Keep the closest candidate rather than stopping at the first one in file order:
+            # when two same-class NOAA flares fall inside the window, the first can be the wrong
+            # flare, which leaves the flag right but end_time_diff measured against another event.
+            best = None # (time_start_diff, NOAA_begin, NOAA_event)
+            for NOAA_event in noaa_by_date.get(LMSALdate, []):
+                NOAA_begin = to_minutes(NOAA_event['begin'])
+                if NOAA_begin is None: continue
+
+                if NOAA_event['goes_class'] is not None:
+                    same_class = NOAA_event['goes_class'] == LMSALGOES
+                else : continue
+
+                time_start_diff = abs(NOAA_begin - LMSALstart)
+
+                if time_start_diff <= MATCH_WINDOW_MINUTES and same_class :
+                     if best is None or time_start_diff < best[0]: # ties keep file order
+                         best = (time_start_diff, NOAA_begin, NOAA_event)
+
+            if best is not None:
+                 _, NOAA_begin, NOAA_event = best
+                 event['quality_flag'] = 'HIGH'
+                 # How well the two sources agree on where the flare ended. Recorded, not
+                 # used to decide the match: onset is an objective threshold crossing, while
+                 # the end depends on each pipeline's decay criteria, so end times scatter
+                 # ~45x wider than begin times. Gating on it would exclude exactly the
+                 # disagreements this dataset exists to measure.
+                 n_end = resolve_end(NOAA_begin, to_minutes(NOAA_event['end']))
+                 l_end = resolve_end(LMSALstart, LMSALend)
+                 if n_end is not None and l_end is not None:
+                     event['end_time_diff'] = l_end - n_end
+            LMSAL_events.append(event)
+    return LMSAL_events
 
 
 def convert_position(LMSAL_position):
@@ -180,13 +180,16 @@ def convert_position(LMSAL_position):
     return lat, lon
 
 
-if __name__ == '__main__':
+def main():
     LMSAL_list = match_events(load_noaa_data())
 
-    with open('events.json', 'w') as f:
-         json.dump(LMSAL_list, f, indent=2)
+    storage.save_event_list(LMSAL_list)
 
     print(f"matched {len(LMSAL_list)} events, HIGH: {sum(1 for e in LMSAL_list if e['quality_flag'] == 'HIGH')}")
+
+
+if __name__ == '__main__':
+    main()
 
 
                     

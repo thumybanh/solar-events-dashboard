@@ -13,12 +13,13 @@ import os
 import re
 import sys
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, BASE_DIR)
-from noaa_matcher import parse_noaa_file, to_minutes
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, BASE_DIR)  # so this runs from a checkout without `pip install -e .`
+from flarexmatch.matching import parse_noaa_file, to_minutes
+from flarexmatch.fetch import storage
 
-EVENTS_PATH = os.path.join(BASE_DIR, 'events.json')
-NOAA_DIR = os.path.join(BASE_DIR, 'noaa_data')
+EVENTS_PATH = storage.EVENTS_PATH
+NOAA_DIR = storage.NOAA_DIR
 OUT_PATH = os.path.join(BASE_DIR, 'comparison.csv')
 CANONICAL = re.compile(r'^(\d{8})events\.txt$')
 

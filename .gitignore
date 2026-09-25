@@ -1,5 +1,17 @@
-/.DS_Store__pycache__/
 .DS_Store
 __pycache__/
-node_modules
+*.pyc
 node_modules/
+
+# local virtualenvs
+venv/
+.venv/
+
+# packaging artifacts from `pip install -e .`
+*.egg-info/
+build/
+dist/
+
+# comparison.csv, events_2019-2026.csv and flare_match_tolerance_sweep.csv are generated
+# by analysis/, but are deliberately tracked (committed in 48e7b55), so they are not
+# ignored here — a rule would be inert against already-tracked files anyway.

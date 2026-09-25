@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flarexmatch"
+version = "1.0.0"
+description = "Solar flare events scraped from LMSAL, cross-checked against NOAA/GOES X-ray event reports."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "httpx",
+    "beautifulsoup4",
+    "fastapi",
+    "uvicorn",
+    "python-multipart",
+]
+
+[project.scripts]
+# Both point at a main() that returns None. The underlying functions return a value
+# (an event mapping, a download count) and a console script's return value becomes the
+# process exit code, so wiring them up directly would make a successful run look like a failure.
+flarexmatch-lmsal = "flarexmatch.fetch.lmsal:main"
+flarexmatch-noaa = "flarexmatch.fetch.noaa:main"
+
+[tool.setuptools]
+# listed explicitly so analysis/, frontend/ and noaa_data/ are not picked up as packages
+packages = ["flarexmatch", "flarexmatch.fetch"]

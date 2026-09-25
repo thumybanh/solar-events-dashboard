@@ -1,6 +1,7 @@
 import math
-import noaa_matcher
-import json
+
+from flarexmatch import matching
+from flarexmatch.fetch import storage
 
 CDELT = 0.600000023842
 HPCCENTER = 4096.0 / 2.0
@@ -61,13 +62,13 @@ def convertHCC_HPC(x, y):
     return hpcx, hpcy
 
 
-with open('events.json', 'r') as f: 
-    events = json.load(f)
+def main():
+    events = storage.load_event_list()
 
     missing = 0
     for event in events:
         try:
-            lat, lon = noaa_matcher.convert_position(event['event_position'])
+            lat, lon = matching.convert_position(event['event_position'])
         except (IndexError, ValueError):
             # LMSAL sometimes leaves the derived position blank — no pixel coords for those
             event['pix_x'] = None
@@ -78,6 +79,9 @@ with open('events.json', 'r') as f:
         event['pix_x'] = pix_x
         event['pix_y'] = pix_y
     print(f"converted {len(events) - missing} positions, {missing} skipped (blank position)")
-    
-with open('events.json', 'w') as w: 
-    json.dump(events, w, indent = 2)
+
+    storage.save_event_list(events)
+
+
+if __name__ == '__main__':
+    main()

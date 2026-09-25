@@ -1,19 +1,15 @@
 import ftplib
-import json
 import os
 
-# absolute paths so this works from any working directory (cron and CI runners)
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-EVENTS_PATH = os.path.join(BASE_DIR, 'events.json')
-NOAA_DIR = os.path.join(BASE_DIR, 'noaa_data')
+from flarexmatch.fetch import storage
+from flarexmatch.fetch.storage import NOAA_DIR
 
 FTP_HOST = 'ftp.swpc.noaa.gov'
 FTP_DIR = 'pub/indices/events'
 
 
 def event_dates():
-    with open(EVENTS_PATH, 'r') as r:
-        events = json.load(r)
+    events = storage.load_event_list()
     return {event['event_start'][:10].replace('/', '') for event in events}
 
 
@@ -69,5 +65,15 @@ def download_missing():
     return downloaded
 
 
-if __name__ == '__main__':
+def main():
+    """Console-script entry point for flarexmatch-noaa.
+
+    Deliberately returns None: download_missing() returns a count, and a console
+    script's return value becomes the process exit code, so a successful run that
+    fetched N files would exit N.
+    """
     download_missing()
+
+
+if __name__ == '__main__':
+    main()

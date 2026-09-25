@@ -1,34 +1,15 @@
 import httpx
 from bs4 import BeautifulSoup
-import json
-import os
+from datetime import datetime, timedelta
+
+from flarexmatch.fetch import storage
+from flarexmatch.fetch.storage import EVENTS_PATH, load_events, save_events
 
 
 BASE_URL = "https://www.lmsal.com/solarsoft"
 INDEX_URL = "https://www.lmsal.com/solarsoft/latest_events_archive.html"
 
-# absolute paths so the scripts work from any working directory (cron runs them from $HOME)
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-EVENTS_PATH = os.path.join(BASE_DIR, 'events.json')
-
 ARCHIVE_START = '20150701' # oldest snapshot we care about
-
-
-def load_events():
-    try:
-        with open(EVENTS_PATH, 'r') as f:
-            existing = json.load(f)
-        return {e['event_id']: e for e in existing}
-    except FileNotFoundError:
-        return {}
-
-
-def save_events(all_events):
-    # write to a temp file first, then swap it in — a crash mid-write can't truncate events.json
-    tmp_path = EVENTS_PATH + '.tmp'
-    with open(tmp_path, 'w') as f:
-        json.dump(list(all_events.values()), f, indent=2)
-    os.replace(tmp_path, EVENTS_PATH)
 
 
 def scrape_range(cutoff):
@@ -111,5 +92,38 @@ def run_scraper():
     return scrape_range(ARCHIVE_START)
 
 
+def latest_event_date():
+    """Newest event date already in events.json, as YYYYMMDD, or None if there is nothing yet."""
+    all_events = load_events()
+    dates = [e['event_start'][:10].replace('/', '') for e in all_events.values() if e.get('event_start')]
+    return max(dates) if dates else None
+
+
+def run_daily_scraper():
+    # resume from the newest event we already have, so a missed run (laptop asleep, cron error)
+    # heals itself on the next run instead of leaving a permanent hole in events.json
+    cutoff = latest_event_date()
+
+    if cutoff is None:
+        # empty database — fall back to the full archive
+        cutoff = ARCHIVE_START
+    else:
+        # a snapshot page can list events from the previous day, so step back one day
+        cutoff = (datetime.strptime(cutoff, '%Y%m%d') - timedelta(days=1)).strftime('%Y%m%d')
+
+    print(f"resuming from {cutoff}")
+    return scrape_range(cutoff)
+
+
+def main():
+    """Console-script entry point for flarexmatch-lmsal.
+
+    Deliberately returns None: run_daily_scraper() returns the event mapping, and a
+    console script's return value becomes the process exit code, so a successful
+    run would exit non-zero.
+    """
+    run_daily_scraper()
+
+
 if __name__ == '__main__':
-    run_scraper()
+    main()

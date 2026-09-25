@@ -55,6 +55,7 @@ import sys
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE_DIR)
+sys.path.insert(0, os.path.dirname(BASE_DIR))  # repo root, for the flarexmatch package
 import window_optimization as WO
 
 SIDEBAND = (10, 60)   # lags where no pair can be the same flare

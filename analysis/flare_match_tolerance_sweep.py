@@ -26,12 +26,12 @@ finding new matches, the two catalogs genuinely disagree on that field.
  
 HOW TO RUN THIS
 ----------------
-1. Put this file in the SAME folder as events.json and the noaa_data/
-   folder (the repo root).
-2. In a terminal, in that folder, run:
-       python3 flare_match_tolerance_sweep.py
+1. This file lives in analysis/; events.json and noaa_data/ stay at the
+   repo root one level up, and it finds them from its own location.
+2. In a terminal, from anywhere in the repo, run:
+       python3 analysis/flare_match_tolerance_sweep.py
 3. It prints a short summary and writes flare_match_tolerance_sweep.csv
-   in the same folder.
+   to the repo root.
  
 No installs needed -- everything used here is in Python's standard
 library (json, re, csv, os, datetime, bisect).
@@ -44,7 +44,7 @@ from datetime import datetime, timedelta
 """
 STEP 0: setings that can be modify 
 """
-REPO_DIR = os.path.dirname(os.path.abspath(__file__)) # folder this script is in
+REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # repo root, one level up from analysis/
 EVENTS_JSON = os.path.join(REPO_DIR, "events.json")
 NOAA_DIR = os.path.join(REPO_DIR, "noaa_data")
 OUTPUT_CSV = os.path.join(REPO_DIR, "flare_match_tolerance_sweep.csv")

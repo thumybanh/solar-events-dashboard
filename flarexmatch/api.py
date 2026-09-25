@@ -5,8 +5,8 @@ from datetime import datetime, timezone
 from fastapi import FastAPI, BackgroundTasks, HTTPException, Query, Response
 from fastapi.middleware.cors import CORSMiddleware
 
-from daily_scraper import run_daily_scraper
-from scraper import EVENTS_PATH
+from flarexmatch.fetch import storage
+from flarexmatch.fetch.lmsal import run_daily_scraper
 
 DEFAULT_LIMIT = 1000
 MAX_LIMIT = 30000
@@ -35,10 +35,9 @@ _cache = {"mtime": None, "events": []}
 
 
 def get_events():
-    mtime = os.path.getmtime(EVENTS_PATH)
+    mtime = storage.events_mtime()
     if _cache["mtime"] != mtime:
-        with open(EVENTS_PATH, 'r') as f:
-            events = json.load(f)
+        events = storage.load_event_list()
         # newest first, so page 1 is the most recent data. sorted once here rather than per
         # request, and it has to happen before pagination slices the list.
         # event_start is "YYYY/MM/DD HH:MM:SS", so a plain string sort is chronological.
@@ -89,7 +88,7 @@ def stats():
         "quality_low": sum(1 for e in events if e.get('quality_flag') == 'LOW'),
         "with_coordinates": sum(1 for e in events if e.get('pix_x') is not None),
         "data_updated": datetime.fromtimestamp(
-            os.path.getmtime(EVENTS_PATH), tz=timezone.utc
+            storage.events_mtime(), tz=timezone.utc
         ).isoformat(),
     }
 

@@ -232,7 +232,7 @@ parseable start time, events with a GOES class, and events on dates with a NOAA 
 1. Commit (nothing has been committed; suggested split: pipeline fixes / API + frontend / automation)
 2. Push — the workflow cannot run until it is on GitHub
 3. Pick a host — Railway is dead (404). Render free tier: start command
-   `uvicorn api:app --host 0.0.0.0 --port $PORT`
+   `uvicorn flarexmatch.api:app --host 0.0.0.0 --port $PORT`
 4. Point `API_BASE` in `frontend/src/App.jsx` at the deployed URL
 5. Set `SCRAPE_TOKEN` in the host's env if `/scrape` should be reachable remotely
 6. Decide on 4c (duplicate files), 4d (flag semantics for the 699), 4e (denominator)
@@ -241,9 +241,14 @@ parseable start time, events with a GOES class, and events on dates with a NOAA 
 
 ```bash
 # backend
-/opt/miniconda3/bin/python -m uvicorn api:app --port 8000 --reload
+/opt/miniconda3/bin/python -m uvicorn flarexmatch.api:app --port 8000 --reload
 # frontend
 cd frontend && npm run dev
 ```
 
-Pipeline order: `daily_scraper.py` → `noaa_downloader.py` → `noaa_matcher.py` → `coordinates.py`
+Pipeline order: `flarexmatch-lmsal` → `flarexmatch-noaa` → `python -m flarexmatch.matching` → `python -m flarexmatch.coordinates`
+
+Section 4 below and the table in section 2 name the pre-restructure module paths
+(`scraper.py`, `daily_scraper.py`, `noaa_downloader.py`, `noaa_matcher.py`). They are a
+record of what was changed when, so they are left as written; the mapping to the current
+layout is in the README's Project Structure.

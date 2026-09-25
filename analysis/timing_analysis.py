@@ -9,11 +9,13 @@ import re
 import statistics
 import sys
 
-sys.path.insert(0, '/Users/mybanh/Desktop/LMSAL')
-from noaa_matcher import parse_noaa_file
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, BASE_DIR)  # so this runs from a checkout without `pip install -e .`
+from flarexmatch.matching import parse_noaa_file
+from flarexmatch.fetch import storage
 
-EVENTS = '/Users/mybanh/Desktop/LMSAL/events.json'
-NOAA_DIR = '/Users/mybanh/Desktop/LMSAL/noaa_data'
+EVENTS = storage.EVENTS_PATH
+NOAA_DIR = storage.NOAA_DIR
 
 # noaa_data also holds duplicate copies named "...events 2.txt" / " 3" / " 4" whose dates
 # parse to garbage. Only the canonical filenames are read here.

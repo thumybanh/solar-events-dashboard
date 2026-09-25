@@ -1,0 +1,72 @@
+name: Daily data update
+
+on:
+  schedule:
+    # 06:00 UTC daily — after LMSAL has posted its 00:01 snapshot
+    - cron: '0 6 * * *'
+  workflow_dispatch:        # lets you trigger a run by hand from the Actions tab
+
+permissions:
+  contents: write           # needed to commit the refreshed data back to the repo
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Record starting event count
+        id: before
+        run: |
+          echo "count=$(python -c 'import json;print(len(json.load(open("events.json"))))')" >> "$GITHUB_OUTPUT"
+
+      - name: Scrape LMSAL events
+        run: python daily_scraper.py
+
+      - name: Download NOAA event files
+        # NOAA's FTP server is occasionally unreachable. A miss is harmless — the next run
+        # retries every date it is still missing — so don't fail the whole workflow over it.
+        continue-on-error: true
+        run: python noaa_downloader.py
+
+      - name: Assign quality flags
+        run: python noaa_matcher.py
+
+      - name: Add pixel coordinates
+        run: python coordinates.py
+
+      - name: Verify the data did not shrink
+        # the pipeline only ever adds events, so a drop means something parsed wrong
+        # (an LMSAL layout change, a truncated download) and must not be committed
+        run: |
+          BEFORE=${{ steps.before.outputs.count }}
+          AFTER=$(python -c 'import json;print(len(json.load(open("events.json"))))')
+          echo "events: $BEFORE -> $AFTER"
+          if [ "$AFTER" -lt "$BEFORE" ]; then
+            echo "::error::Event count dropped from $BEFORE to $AFTER — refusing to commit."
+            exit 1
+          fi
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add events.json noaa_data
+          if git diff --staged --quiet; then
+            echo "No new data today."
+            exit 0
+          fi
+          COUNT=$(python -c 'import json;print(len(json.load(open("events.json"))))')
+          LATEST=$(python -c 'import json;print(max(e["event_start"][:10] for e in json.load(open("events.json"))))')
+          git commit -m "Daily data update: $COUNT events, latest $LATEST"
+          git push

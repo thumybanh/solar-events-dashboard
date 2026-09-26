@@ -73,23 +73,22 @@ def scrape_range(cutoff):
 
         all_tables = snapshot_soup.find_all('table')
 
-    # some older snapshot pages might be structured differently (like have fewer tables), therefore we skip those
+    # the event table is the one with gev_ names AND a position column. the position column is named
+    # differently over the years ("Derived Position (EIT High Cadence Wavelength)", "Derived Position
+    # (SXI-GOES12 or ...)", plain "Derived Position"), but the columns are always in the same order.
+    # some pages also have note/caption tables that quote a gev_ row or even the header, so take
+    # the matching table with the most gev_ rows. pages with no such table (gaps in the archive,
+    # broken snapshots) are skipped.
         events_table = None
+        most_events = 0
         for table in all_tables:
-            if 'gev_' in table.get_text():
+            cells = [cell.get_text(' ', strip=True) for cell in table.find_all(['th', 'td'])]
+            n_events = sum(c.startswith('gev_') for c in cells)
+            if n_events > most_events and any(c.startswith('Derived Position') for c in cells):
                 events_table = table
-                break
+                most_events = n_events
         if events_table is None:
             print(f"skipping {snapshot_url} - no event table")
-            skipped += 1
-            continue
-
-    # the position column is named differently over the years ("Derived Position (EIT High Cadence
-    # Wavelength)", "Derived Position (SXI-GOES12 or ...)", plain "Derived Position"), but the
-    # columns are always in the same order. if it's missing, the layout changed — skip the page.
-        headers = [cell.get_text(' ', strip=True) for cell in events_table.find_all(['th', 'td'])[:7]]
-        if len(headers) < 7 or not headers[6].startswith('Derived Position'):
-            print(f"skipping {snapshot_url} - unexpected columns {headers}")
             skipped += 1
             continue
 

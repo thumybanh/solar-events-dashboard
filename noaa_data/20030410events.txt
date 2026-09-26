@@ -1,0 +1,69 @@
+:Product: 20030410events.txt
+:Created: 2003 Apr 13 0302 UT
+:Date: 2003 04 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Apr 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7310      A0018   ////     B1555  HOL  2   DSF  ////      20      B.0A      0000
+
+7110       0030   0030     A0120  HOL  3   FLA  S10E77    3F                0000
+
+7120 +     0135   0137      0137  LEA  G   RBR  245       170                   
+7120       0137   ////      0142  LEA  C   RSP  025-088   III/1                 
+
+7130 +     0141   0145      0147  LEA  G   RBR  245       240                   
+
+7140       0201   0201      0202  LEA  G   RBR  245       85                    
+
+7150 +     0309   0309      0310  LEA  G   RBR  245       86                    
+
+7160       0332   ////      0332  CUL  C   RSP  30-90     III/1                 
+
+7170       0348   ////      0348  CUL  C   RSP  30-90     III/1                 
+
+7180       0425   ////      0425  CUL  C   RSP  30-180    III/1                 
+
+7200 +     0537   ////      0538  LEA  C   RSP  025-180   III/1                 
+
+7210       0557   0557      0557  SVI  G   RBR  245       50                    
+
+7220       0614   0615      0615  SVI  G   RBR  245       51                    
+
+7230       0742   0742      0742  LEA  G   RBR  245       96                    
+
+7240       0829   0829      0832  SVI  G   RBR  245       58                    
+
+7250 +     1031   1035      1042  G10  5   XRA  1-8A      B7.3    3.3E-04       
+
+7260       1348   1348      1348  SAG  G   RBR  245       100                   
+
+7270       1445   ////      1445  SAG  C   RSP  030-080   III/1                 
+
+7280 +     1551   1554      1556  G10  5   XRA  1-8A      B2.6    6.0E-05       
+
+7290       1617   1620      1622  G10  5   XRA  1-8A      B2.3    5.2E-05       
+
+7300 +     1628   1631      1633  G10  5   XRA  1-8A      B2.1    5.4E-05       
+
+7320 +     1652   1655      1657  G10  5   XRA  1-8A      B2.3    5.5E-05       
+
+7330       2024   ////      2024  PAL  C   RSP  025-100   III/1                 
+
+7340       2027   2028      2028  PAL  G   RBR  245       430                   
+
+7350       2029   2029      2029  PAL  G   RBR  410       48                    
+
+7370       2243   ////      2243  CUL  C   RSP  30-90     III/1                 
+
+7360       2310   2310      2310  PAL  G   RBR  245       100                   
+
+7380 +     2332   ////      2332  CUL  C   RSP  18-180    III/1                 
+
+7390 +     2341   2341      2342  PAL  G   RBR  245       65                    

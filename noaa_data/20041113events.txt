@@ -1,0 +1,32 @@
+:Product: 20041113events.txt
+:Created: 2004 Nov 16 0302 UT
+:Date: 2004 11 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Nov 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5340       0538   0542      0547  G10  5   XRA  1-8A      B2.0    1.0E-04       
+
+5350 +     0606   0610      0613  G12  5   XRA  1-8A      B2.7    1.0E-04   0700
+5350       0610   0612      0612  G12  5   XFL  N06W15    1.8E+02 3.5E+02   0700
+
+5360       0839   0843      0845  G10  5   XRA  1-8A      B2.1    6.7E-05       
+
+5400      A0905   ////     B2235  LEA  3   DSF  N28E21    09      B.0A          
+
+5370 +     1357   1401      1411  G12  5   XRA  1-8A      B1.7    1.4E-04   0700
+5370       1402   1406      1410  G12  5   XFL  N04W26    2.5E+02 4.6E+02   0700
+
+5380 +     1738   1744      1751  G12  5   XRA  1-8A      B6.5    3.6E-04       
+5380       1742   1746      1750  G12  5   XFL  N08W66    9.0E+02 2.6E+03       
+
+5390 +     2116   2123      2134  G12  5   XRA  1-8A      B4.3    3.3E-04       
+5390       2119   2128      2132  G12  5   XFL  N07W69    6.8E+02 1.8E+03       
+
+5410      A2217   ////     B1929  HOL  3   DSF  N14E24    17      B.0A          

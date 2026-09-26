@@ -1,0 +1,60 @@
+:Product: 20030212events.txt
+:Created: 2003 Feb 15 0302 UT
+:Date: 2003 02 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7080 +     0142   0151      0202  GO8  5   XRA  1-8A      C8.7    5.6E-03   0280
+7080       0145   0157      0248  LEA  3   FLA  S05W43    1F      PRB       0280
+7080 +     0149   0150      0150  LEA  G   RBR  606       89                0280
+7080 +     0150   0150      0150  LEA  G   RBR  410       130               0280
+7080 +     0150   0152      0159  LEA  G   RBR  245       7900              0280
+7080 +     0154   0154      0157  LEA  G   RBR  1415      97                0280
+7080 +     0154   ////      0201  LEA  C   RSP  050-180   II/1    632       0280
+7080       0156   0157      0158  PAL  G   RBR  2695      56                0280
+7080       0156   0157      0158  PAL  G   RBR  4995      68                0280
+7080       0157   0157      0157  PAL  G   RBR  8800      44                0280
+
+7090 +     0525   0528      0530  GO8  5   XRA  1-8A      B7.2    1.9E-04   0283
+
+7100 +     0536   0542      0549  GO8  5   XRA  1-8A      C2.4    1.3E-03   0282
+7100 +     0539   0539      0601  LEA  2   FLA  N10W22    SF      ERU       0282
+
+7110       0744   0751      0757  GO8  5   XRA  1-8A      B8.0    5.6E-04       
+7110 +     0751   ////      0752  LEA  C   RSP  040-131   III/1                 
+
+7190       0954   1001      1009  GO8  5   XRA  1-8A      B7.5    6.3E-04       
+
+7120 +     1354   1400      1415  GO8  5   XRA  1-8A      B7.7    8.3E-04   0282
+7120      B1356  U1356      1423  RAM  3   FLA  N11W26    SF      ERU       0282
+
+7130 +     1426   ////      1426  HOL  C   RSP  042-129   III/1                 
+
+7150 +     1601   1612      1620  GO8  5   XRA  1-8A      C2.9    2.1E-03   0280
+7150      B1603  U1603      1607  RAM  3   FLA  S03W54    SF                0280
+
+7180      B1604  U1604      1639  RAM  3   FLA  N11W29    SF      ERU       0282
+
+7150       1606   ////      1609  HOL  C   RSP  025-180   III/1             0280
+
+7160       1645   1645      1645  SAG  G   RBR  245       97                    
+
+7170 +     1745   1748      1750  GO8  5   XRA  1-8A      B7.2    1.7E-04   0280
+
+7210       1846   1855      1906  GO8  5   XRA  1-8A      B5.0    5.1E-04   0282
+
+7310      A2022   ////     B1259  RAM  3   DSF  ////      13      B.0A      0000
+
+7320      A2022   ////     B1259  RAM  3   DSF  ////      11      B.0A      0283
+
+7200 +     2101   2112      2123  GO8  5   XRA  1-8A      C2.3    2.1E-03   0282
+7200       2105   ////      2106  HOL  C   RSP  049-141   III/1                 
+
+7220 +     2318   ////      2318  PAL  C   RSP  025-180   III/1                 

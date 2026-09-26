@@ -1,0 +1,95 @@
+:Product: 19981121events.txt
+:Created: 1998 Nov 24 0303 UT
+:Date: 1998 11 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5180 +     0030   0042      0059  GO8  5   XRA  1-8A      C1.3    1.8E-03       
+5180       0035   ////      0045  COM  C   RSP  30 - 8    III/2                 
+
+5360       0055   ////      0055  COM  C   RSP  30 - 8    III/2                 
+
+5270       0142   0144      0146  COM  3   FLA  S27W66    SF                8384
+
+5300       0243   0243      0243  COM  G   RBR  410       120                   
+
+5310       0334   ////      0335  COM  C   RSP  30 - 5    III/1                 
+
+5320       0436   ////      0439  COM  C   RSP  30 - 8    III/2                 
+
+5900       0448   ////      0449  CUL  C   RSP  23-100    III/1                 
+
+5330       0619   ////      0620  COM  C   RSP  40 - 6    III/1                 
+
+5220 +     0634   0641      0710  GO8  5   XRA  1-8A      C2.2    3.8E-03       
+5220 +     0636   ////      0639  CUL  C   RSP  20-150    III/3                 
+5220 +     0636   ////      0639  CUL  C   RSP  20-150    III/3                 
+5220       0637   0640      0647  COM  3   FLA  S17E34    SF                8391
+
+5370       0657   0658      0711  COM  3   FLA  S17E34    SF                8391
+
+5230 +     0805   0808      0810  GO8  5   XRA  1-8A      C1.5    3.1E-04       
+5230       0806   ////      0808  COM  C   RSP  30 - 8    III/3                 
+5230       0806   0807      0807  COM  G   RBR  245       580               8391
+5230 +     0809   0810      0810  COM  G   RBR  410       76                    
+
+5340       0858   ////      0859  COM  C   RSP  35 - 6    III/1                 
+
+5240 +     1125   1132      1144  GO8  5   XRA  1-8A      C1.1    1.2E-03       
+5240       1128   1133      1137  COM  3   FLA  S28W70    SF                8384
+5240       1144   ////      1148  COM  C   RSP  35 - 8    V/2                   
+5240       1144   1144      1145  SVI  G   RBR  245       83                    
+
+5280       1154   1155      1159  COM  3   FLA  S28W70    SF                8384
+
+5250 +     1223   1227      1230  GO8  5   XRA  1-8A      B9.5    3.4E-04       
+
+5410       1231   1236      1236  SAG  G   RBR  245       210                   
+
+5290       1250   1300      1321  COM  3   FLA  S17E29    SF                8391
+
+5380 +     1548   1616      1626  GO8  5   XRA  1-8A      C3.0    3.5E-03       
+5380 +     1613   1615      1627  COM  3   FLA  S28W77    SF                8384
+
+5390 +     1654   1658      1701  GO8  5   XRA  1-8A      C1.2    4.6E-04       
+5390       1656   1657      1708  COM  3   FLA  S28W77    SF                8384
+
+5400       1723   1724      1727  HMN  3   FLA  S30W71    SF                8384
+
+5500       1855   1900      1907  COM  3   FLA  S29W75    SF                8384
+
+5420 +     1914   1918      1924  GO8  5   XRA  1-8A      C1.3    6.0E-04       
+5420 +     1917   1919      1931  COM  3   FLA  S30W72    SF                8384
+5420       1917   1919      1931  COM  5   FLA            SF                8384
+
+5430 +     1955   2000      2002  GO8  5   XRA  1-8A      C1.7    4.7E-04       
+5430       1959   2010      2027  COM  3   FLA  S28W80    1F      SE        8384
+
+5440 +     2006   2010      2013  GO8  5   XRA  1-8A      C1.3    4.2E-04       
+5440       2010   2010      2014  COM  3   FLA  S14W93    SF                8383
+
+5510       2023   2023      2030  COM  3   FLA  S30W72    SF                8384
+
+5910       2043   ////      2043  CUL  C   RSP  40-130    III/1                 
+
+5470       2047   ////      2050  CUL  C   RSP  20-180    III/2                 
+5470       2047   ////      2050  CUL  C   RSP  20-180    III/2                 
+
+5450 +     2051   2055      2057  GO8  5   XRA  1-8A      C1.2    3.2E-04       
+5450       2054   2054      2100  COM  3   FLA  S30W72    SF                8384
+
+5460 +     2121   2124      2126  GO8  5   XRA  1-8A      C1.7    3.8E-04       
+
+5480       2247   2247      2248  COM  G   RBR  1415      61                    
+5480       2248   2248      2301  COM  3   FLA  S30W72    SF                8384
+
+5920       2319   ////      2319  CUL  C   RSP  30-80     III/1                 
+
+5490 +     2328   2358      0010  GO8  5   XRA  1-8A      C3.2    6.7E-03       

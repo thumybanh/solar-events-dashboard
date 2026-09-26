@@ -1,0 +1,27 @@
+:Product: 20001110events.txt
+:Created: 2000 Nov 13 0302 UT
+:Date: 2000 11 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Nov 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1020       0144   0150      0152  PAL  G   RBR  4995      6100                  
+1020       0149   0149      0150  PAL  G   RBR  245       830                   
+
+1030       0405   0415      0445  G10  5   XRA  1-8A      C2.0    4.6E-03       
+
+1040 +     0456   0501      0509  GO8  5   XRA  1-8A      C2.8    2.0E-03       
+
+1050 +     1218   1225      1234  GO8  5   XRA  1-8A      C2.4    1.8E-03       
+
+1060 +     1634   1639      1645  GO8  5   XRA  1-8A      C1.7    9.9E-04       
+
+1070 +     2236   ////      2238  LEA  C   RSP  025-180   III/2                 
+
+1080 +     2359   0012      0017  GO8  5   XRA  1-8A      C2.3    1.9E-03   9218

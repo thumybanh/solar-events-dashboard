@@ -1,0 +1,49 @@
+:Product: 20010731events.txt
+:Created: 2001 Aug 03 0302 UT
+:Date: 2001 07 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jul 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1140 +     0113   0120      0126  GO8  5   XRA  1-8A      B7.3    4.5E-04   9557
+1140       0116   0116      0121  HOL  3   FLA  S22E26    SF      ERU       9557
+
+1150 +     0153   0157      0201  GO8  5   XRA  1-8A      B5.6    2.1E-04       
+
+1160 +     0357   0407      0416  GO8  5   XRA  1-8A      C6.0    4.3E-03       
+1160       0400   0401      0403  PAL  G   RBR  245       620                   
+1160 +     0401   ////      0404  CUL  C   RSP  57-300    III/2                 
+
+1170 +     0413   ////      0415  CUL  C   RSP  57-160    III/1                 
+
+1190 +     0639   ////      0750  LEA  3   DSF  S32E05    15      B.0A          
+
+1180 +     0901   0907      0915  GO8  5   XRA  1-8A      B6.5    4.8E-04       
+
+1350      A0938   ////     B0252  LEA  3   DSF  S39E07    36      B.0A          
+
+1200 +     1155   1206      1221  GO8  5   XRA  1-8A      C1.8    2.1E-03   9561
+1200       1201   1211      1222  SVI  3   FLA  S12E58    SF      ERU       9561
+1200       1220   ////      1220  SAG  C   RSP  030-055   III/1             9561
+
+1210       1652   1653      1655  RAM  3   FLA  S20E13    SF                9557
+
+1230      A1707   ////     B1119  SVI  3   DSF  S20W10    15      B.0A          
+
+1220 +     1707   1720      1729  GO8  5   XRA  1-8A      C2.6    2.2E-03   9561
+1220 +     1713   1719      1731  RAM  3   FLA  S12E53    SF      ERU       9561
+1220       1720   ////      1720  HOL  C   RSP  025-138   III/1             9561
+
+1250       1810   1816      1825  HOL  3   FLA  N03E56    SF                9562
+
+1260 +     2039   2039      2039  PAL  G   RBR  245       610                   
+
+1270 +     2241   ////      2242  CUL  C   RSP  57-240    III/2                 
+
+1280       2318   ////      2320  CUL  C   RSP  57-170    III/1                 

@@ -1,0 +1,41 @@
+:Product: 20000413events.txt
+:Created: 2000 Apr 16 0303 UT
+:Date: 2000 04 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Apr 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+270        0008   ////      0009  LEA  C   RSP  030-06    III/2                 
+
+280  +     0011   0023      0032  GO8  5   XRA  1-8A      C2.9    2.8E-03   8948
+280  +     0014   0020      0055  HOL  3   FLA  S16W36    SF                8948
+
+290  +     0747   0748      0748  SVI  G   RBR  410       100                   
+
+300        0856   ////      0856  SVI  C   RSP  035-06    III/1                 
+
+310        0933   0933      0933  SVI  G   RBR  410       160                   
+
+320  +     1240   1251      1254  GO8  5   XRA  1-8A      C1.5    1.1E-03       
+320  +     1254   ////      1258  SAG  C   RSP  030-08    III/2                 
+
+330        1509   ////      1513  SAG  C   RSP  030-06    III/2                 
+
+340        1713   ////      1714  SAG  C   RSP  030-06    III/1                 
+
+350        1728   1730      1733  HOL  3   FLA  S22E49    SF                8955
+
+360  +     1923   ////      1923  SAG  C   RSP  030-08    III/1                 
+
+370  +     2050   2130      2246  GO8  5   XRA  1-8A      C1.0    5.9E-03       
+
+380        2204   2207      2211  HOL  3   FLA  S25E44    SF                8955
+
+390        2311   2312      2315  LEA  G   RBR  245       52                    
+390        2311   ////      2312  LEA  C   RSP  035-07    III/1                 

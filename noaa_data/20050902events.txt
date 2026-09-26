@@ -1,0 +1,27 @@
+:Product: 20050902events.txt
+:Created: 2005 Sep 05 0329 UT
+:Date: 2005 09 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Sep 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7590 +     0532   0536      0540  G12  5   XRA  1-8A      B1.3    5.1E-05   0803
+7590       0536   0536      0536  G12  5   XFL  N12W35    1.8E+02 3.4E+02   0803
+
+7600       0740   ////      0930  LEA  2   EPL  ////      0.2     B.9A          
+
+7610 +     1123   1132      1144  G12  5   XRA  1-8A      B1.9    1.9E-04       
+
+7620 +     1337   1341      1347  G12  5   XRA  1-8A      B1.3    6.4E-05       
+
+7630       1704   1705      1705  SAG  G   RBR  245       77                    
+
+7640 +     2017   2022      2032  G12  5   XRA  1-8A      B1.4    1.0E-04       
+
+7650       2345   2346      0053  PAL  G   RNS  245       100                   

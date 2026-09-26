@@ -1,0 +1,50 @@
+:Product: 20030107events.txt
+:Created: 2003 Jan 10 0302 UT
+:Date: 2003 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1320       0226   0226      0229  LEA  G   RBR  245       73                    
+1320       0226   0229      0229  LEA  G   RBR  410       120                   
+1320 +     0226   0234      0244  GO8  5   XRA  1-8A      C3.5    3.2E-03       
+
+1380       0724   0724      0729  LEA  3   FLA  S08E00    SF      ERU       0242
+
+1330 +     0729   0750      0811  GO8  5   XRA  1-8A      M1.0    1.9E-02   0244
+1330       0732   0750      0839  LEA  3   FLA  S24E07    1F      PRB       0244
+1330 +     0756   ////      0000  CUL  C   RSP  20-130    III/2             0244
+
+1340 +     0828   0833      0838  GO8  5   XRA  1-8A      C7.7    3.9E-03   0242
+
+1390 +     0838   0839      0851  LEA  3   FLA  S08W01    SF      ERU       0242
+
+1490      A0914   ////     B0048  LEA  3   DSF  N03W31    13      B.0A      0000
+
+1350 +     0932   0936      0946  GO8  5   XRA  1-8A      C2.3    1.7E-03       
+
+1360       1308   1312      1329  RAM  3   FLA  S22E04    SF      ERU       0244
+
+1420       1506   ////     B1744  RAM  2   DSF  S11E00    05      B.0A      0242
+
+1400 +     1730   1736      1743  GO8  5   XRA  1-8A      C2.8    1.8E-03       
+
+1410       1753   1754      1757  HOL  3   FLA  S07W05    SF      ERU       0242
+
+1430       1923   1936      1942  GO8  5   XRA  1-8A      C1.6    1.6E-03   0244
+1430      B1930  U1932     A1941  HOL  3   FLA  S21E02    SF      ERU       0244
+1430 +     1935   1935      1935  SAG  G   RBR  245       390               0244
+
+1440       2233   2233      2237  HOL  3   FLA  S11W07    SF      ERU       0242
+
+1450 +     2325   2333      2340  GO8  5   XRA  1-8A      M4.9    2.3E-02   0251
+1450       2331   2332      2332  LEA  G   RBR  2695      81                0251
+1450      B2331  U2342     A2350  HOL  3   FLA  S81E14    SF                0251
+1450       2331   2332      2333  LEA  G   RBR  4995      120               0251
+1450       2331   2332      2332  LEA  G   RBR  8800      76                0251

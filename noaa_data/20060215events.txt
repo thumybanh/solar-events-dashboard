@@ -1,0 +1,20 @@
+:Product: 20060215events.txt
+:Created: 2006 Feb 18 0329 UT
+:Date: 2006 02 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Feb 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 810 +     0106   0107      0107  PAL  G   RBR  245       130                   
+ 810 +     0106   0106      0107  PAL  G   RBR  410       90                    
+ 810 +     0106   ////      0107  PAL  C   RSP  025-172   III/1                 
+
+ 820       1733   ////      2054  HOL  2   EPL  ////      0.17    B.5A          
+
+ 830      B2302   ////      0020  LEA  3   BSL  ////      0.19    B.8A          

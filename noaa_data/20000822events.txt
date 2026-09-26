@@ -1,0 +1,56 @@
+:Product: 20000822events.txt
+:Created: 2000 Aug 25 0302 UT
+:Date: 2000 08 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3890 +     0008   0021      0040  GO8  5   XRA  1-8A      C2.5    3.6E-03       
+
+3900 +     0202   ////      0202  CUL  C   RSP  25-180    III/1                 
+
+3910       0216   0233      0241  GO8  5   XRA  1-8A      C1.2    1.6E-03       
+3910 +     0232   ////      0235  CUL  C   RSP  28-90     III/2                 
+
+3920 +     0342   ////      0344  LEA  C   RSP  025-142   III/3                 
+
+3930 +     0513   0516      0521  GO8  5   XRA  1-8A      C1.1    4.5E-04   9131
+3930       0513   ////      0516  SVI  C   RSP  025-175   V/1               9131
+3930 +     0513   ////      0517  CUL  C   RSP  18-180    III/3             9131
+3930 +     0515   0515      0515  LEA  G   RBR  245       80                9131
+3930       0516   0516      0526  LEA  3   FLA  N15W34    SF                9131
+
+3940 +     0558   0602      0608  GO8  5   XRA  1-8A      C1.3    6.9E-04   9129
+3940 +     0601   0602      0610  LEA  3   FLA  S06W48    SF      ERU       9129
+
+3950 +     0829   0843      0939  GO8  5   XRA  1-8A      C2.3    7.8E-03       
+3950 +     0913   ////      0915  LEA  C   RSP  025-180   III/1                 
+3950 +     0914   0914      0914  SVI  G   RBR  245       130                   
+
+3970 +     0939   0944      0948  GO8  5   XRA  1-8A      C2.7    1.2E-03   9131
+3970 +     0939   ////      0945  SVI  C   RSP  025-180   III/1             9131
+3970 +     0940   0941      0941  SVI  G   RBR  245       120               9131
+3970       0940   0941      0941  SVI  G   RBR  410       110               9131
+3970 +     0941   0944      0951  SVI  3   FLA  N16W36    SF      ERU       9131
+
+3980 +     1428   ////      1434  SVI  C   RSP  028-082   III/1                 
+
+3990       1523   ////      1528  SVI  C   RSP  030-156   III/1                 
+
+4000       1716   1735      1754  GO8  5   XRA  1-8A      C1.5    2.5E-03   9139
+4000       1734   1734      1738  HOL  3   FLA  S09E00    SF                9139
+
+4010 +     1811   1823      1848  GO8  5   XRA  1-8A      C2.9    5.0E-03       
+
+4040       2151   ////      2152  CUL  C   RSP  35-180    III/1                 
+
+4020 +     2152   2159      2207  GO8  5   XRA  1-8A      B9.8    7.7E-04   9131
+4020       2154   2159      2214  HOL  3   FLA  N14W46    SF                9131
+
+4030 +     2332   ////      2334  LEA  C   RSP  025-138   III/1                 

@@ -1,0 +1,60 @@
+:Product: 19990614events.txt
+:Created: 1999 Jun 17 0302 UT
+:Date: 1999 06 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jun 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+160  +     0012   0029      0054  HOL  3   FLA  N26E05    SF                8582
+
+170  +     0302   0331      0411  GO8  5   XRA  1-8A      C1.4    5.5E-03   8569
+170        0304   0307      0315  LEA  3   FLA  N22W44    SF                8569
+170        0323   0323      0323  LEA  U   RBR  245       53                8569
+
+180        0404   0404      0407  LEA  3   FLA  S12E43    SF                8583
+
+190  +     0457   0459      0506  LEA  3   FLA  N26E01    SF      ERU       8582
+
+200  +     0547   0549      0601  LEA  3   FLA  N26E01    SF                8582
+
+210  +     0636   0637      0647  LEA  3   FLA  N24E00    SF      ERU       8582
+
+220        0658   0701      0703  LEA  3   FLA  N24E00    SF      ERU       8582
+
+230  +     0839   0840      0840  SVI  G   RBR  245       65                    
+
+240       B1133  U1133     A1207  RAM  3   FLA  N24W04    SF      ERU       8582
+240  +     1156   1156      1157  SVI  G   RBR  245       75                8582
+
+250  +     1214   1217      1223  GO8  5   XRA  1-8A      C1.1    5.3E-04       
+250       B1217  U1221     A1230  RAM  3   FLA  N26W01    SF                8582
+
+260        1258   1258      1304  RAM  3   FLA  S27W49    SF                8576
+
+270        1315   ////      1315  SAG  C   RSP  030-06    III/1                 
+
+320        1324   ////      1634  SVI  C   RSP  035-08    CTM/1                 
+
+300        1334   ////      1419  SAG  C   RSP  030-06    CTM/1                 
+
+280        1354   ////      1354  SVI  C   RSP  036-07    III/2                 
+
+310        1435   1436      1450  RAM  3   FLA  N26W03    SF                8582
+
+330        1517   1522      1528  SVI  3   FLA  N26W05    SF                8582
+
+340        1703   1704      1707  RAM  3   FLA  S29W48    SF                8576
+
+350  +     1714   1714      1722  HOL  3   FLA  N17W59    SF                8569
+
+360  +     1800   1833      1851  RAM  3   FLA  N17W70    SF                8578
+
+380        2240   ////      2242  CUL  C   RSP  30-70     III/1                 
+
+390        2252   ////      2256  CUL  C   RSP  25-90     III/1                 

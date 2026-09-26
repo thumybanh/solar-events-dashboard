@@ -1,0 +1,24 @@
+:Product: 20050919events.txt
+:Created: 2005 Sep 22 0329 UT
+:Date: 2005 09 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Sep 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 820      A0022   ////     B1501  HOL  2   DSF  N50W04    09      B.0A          
+
+ 800       0339   0350      0416  G12  5   XRA  1-8A      C3.8    5.8E-03       
+
+ 850       0713   ////      0713  CUL  C   RSP  23-57     III/1                 
+
+ 810 +     1636   1642      1646  G12  5   XRA  1-8A      B3.2    1.6E-04       
+
+ 830 +     1728   1731      1735  G12  5   XRA  1-8A      B3.2    1.1E-04       
+
+ 840 +     2014   2022      2030  G12  5   XRA  1-8A      C1.2    8.2E-04       

@@ -1,0 +1,44 @@
+:Product: 20030914events.txt
+:Created: 2003 Sep 17 0302 UT
+:Date: 2003 09 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Sep 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7240       0041   ////      0041  CUL  C   RSP  20-60     III/2                 
+
+7120 +     0115   0127      0133  G12  5   XRA  1-8A      C4.4    2.1E-03   0456
+7120       0124   0125      0143  LEA  3   FLA  S07W61    SF      ERU       0456
+
+7130 +     0346   0349      0353  G12  5   XRA  1-8A      B2.7    9.6E-05       
+
+7250       0437   ////      0437  CUL  C   RSP  50-120    III/1                 
+
+7140       0439   0443      0445  G10  5   XRA  1-8A      B3.5    9.1E-05       
+
+7150       0533   0538      0542  G10  5   XRA  1-8A      B3.3    1.6E-04       
+
+7260       0703   ////      0703  CUL  C   RSP  80-180    III/1                 
+
+7380      A1611   ////     B0505  SVI  3   DSF  N35W03    23      B.0A      0000
+
+7170 +     1754   1758      1803  G12  5   XRA  1-8A      B4.7    2.1E-04       
+
+7200       1837   ////      1952  HOL  3   DSF  N26W14    19      B.0A      0000
+
+7180 +     1911   1915      1917  G12  5   XRA  1-8A      B4.6    1.2E-04       
+
+7190 +     1957   2004      2013  G12  5   XRA  1-8A      B3.5    3.1E-04       
+
+7230       2010   ////      2204  HOL  3   DSF  N17W29    16      B.0A      0000
+
+7210 +     2134   2138      2141  G12  5   XRA  1-8A      B3.7    1.4E-04       
+
+7220 +     2235   2247      2252  G12  5   XRA  1-8A      C3.6    2.3E-03   0456
+7220       2239   2241      2248  HOL  3   FLA  S08W73    SF                0456

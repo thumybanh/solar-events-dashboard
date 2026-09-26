@@ -1,0 +1,99 @@
+:Product: 19991112events.txt
+:Created: 1999 Nov 15 0303 UT
+:Date: 1999 11 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Nov 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1350      B0004  U0015      0026  LEA  2   FLA  S18E59    SF                8763
+
+1360 +     0121   0130      0138  GO8  5   XRA  1-8A      C4.6    3.6E-03       
+1360       0140   ////      0759  COM  C   RSP  40-360    IV/2                  
+
+1440 +     0212   0212      0510  LEA  G   RNS  410       56                    
+
+1380       0240   0240      0241  LEA  G   RBR  410       220                   
+1380 +     0240   0240      0241  LEA  G   RBR  606       120                   
+1380 +     0240   0241      0241  LEA  G   RBR  1415      420                   
+
+1390      B0350  U0350     A0408  LEA  2   FLA  S14E55    SF                8763
+
+1410       0416   0450      0518  LEA  3   FLA  N18W35    SF      ERU       8753
+
+1450       0441   0442      0458  LEA  3   FLA  N18W30    SF                8764
+
+1460       0450   0453      0457  LEA  3   FLA  N09E12    SF                8759
+
+1470       0515   0519      0524  LEA  3   FLA  S11E67    SF                8765
+
+1420       0526   0527      0531  LEA  3   FLA  N09E12    SF                8759
+
+1480       0532   0538      0551  LEA  3   FLA  N09E12    SF                8759
+
+1430       0536   0536      0550  LEA  3   FLA  N12W21    SF                8760
+
+1510       0555   0555      0602  LEA  3   FLA  N09E12    SF                8759
+
+1490       0556   ////      0558  LEA  C   RSP  030-06    III/1             8760
+1490       0557   0559      0617  LEA  3   FLA  N12W22    SF                8760
+
+1520       0621   0622      0640  LEA  3   FLA  N12W22    SF                8760
+
+1500       0636   0636      0640  LEA  3   FLA  S11E66    SF                8765
+
+1530       0650   ////      0652  LEA  C   RSP  045-06    III/1                 
+
+1540 +     0703   ////      0704  LEA  C   RSP  030-07    III/2                 
+
+1550 +     0822   0833      0842  GO8  5   XRA  1-8A      C8.6    7.7E-03       
+1550 +     0823   0825      0834  SVI  G   RBR  4995      36                    
+1550 +     0823   0826      0833  SVI  G   RBR  8800      27                    
+1550       0824   0825      0839  SVI  G   RBR  2695      20                    
+1550       0832   0832      0833  SVI  U   RBR  245       110                   
+1550 +     0832   0832      0832  SVI  G   RBR  410       400                   
+1550       0832   0832      0832  SVI  G   RBR  606       46                    
+
+1560 +     0852   0852      0852  LEA  G   RBR  245       770                   
+
+1570       0854   0916      0936  GO8  5   XRA  1-8A      M1.7    3.2E-02   8759
+1570 +     0906   0911      0921  SVI  G   RBR  1415      210                   
+1570       0912   0916      0916  LEA  G   RBR  2695      32                    
+
+1580 +     0948   0949      0951  SVI  G   RBR  410       120                   
+1580 +     0949   0949      0951  SVI  G   RBR  606       110                   
+
+1590       1036   1037      1037  SVI  G   RBR  606       100                   
+
+1610       1141   ////      1141  SVI  C   RSP  060-07    III/1                 
+
+1600       1150   1154      1157  GO8  5   XRA  1-8A      M1.1    4.0E-03       
+1600       1152   1154      1200  RAM  3   FLA  N10E17    SF                8759
+
+1620      B1238   1238      1244  RAM  3   FLA  N08E06    SF                8759
+
+1630       1424   1427      1438  HOL  3   FLA  N07E12    SF                8759
+
+1660 +     1427   1441      1507  HOL  3   FLA  S15E53    SF                8763
+
+1640       1440   1441      1450  HOL  3   FLA  N13W27    SF                8760
+
+1670       1617   1726      1820  HOL  3   FLA  S17E48    1F      ERU       8763
+
+1440 +     1759   1945      1959  PAL  G   RNS  245       280                   
+
+1680       1826   1828      1838  HOL  3   FLA  S14E52    SF                8763
+
+1710       1827   1827      1848  HOL  3   FLA  N11E16    SF                8759
+
+1690       1843   1843      1847  HOL  3   FLA  S15E50    SF                8763
+
+1700       1849   1849      1903  HOL  3   FLA  N12E12    SF                8759
+
+1720       2340   2341      2352  HOL  2   FLA  N07E00    SF      ERU       8759
+1720       2340   2345      2356  GO8  5   XRA  1-8A      C1.6    1.5E-03   8759

@@ -1,0 +1,20 @@
+:Product: 20021227events.txt
+:Created: 2002 Dec 30 0300 UT
+:Date: 2002 12 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  70      B1333  U1333      1347  RAM  3   FLA  S07W66    SF      ERU       0230
+
+  80       1641   1652      1700  GO8  5   XRA  1-8A      B6.5    5.9E-04   0000
+  80 +     1649   1651      1656  HOL  3   FLA  N17W24    SF                0236
+
+  90 +     2150   2158      2205  GO8  5   XRA  1-8A      B6.3    4.6E-04   0235
+  90       2154   2154      2207  HOL  3   FLA  N14E02    SF      PRB       0235

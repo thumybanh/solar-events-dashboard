@@ -1,0 +1,53 @@
+:Product: 20040820events.txt
+:Created: 2004 Aug 23 0302 UT
+:Date: 2004 08 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Aug 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 390 +     0031   0107      0136  G12  5   XRA  1-8A      C2.8    8.7E-03       
+ 390       0034   0128      0135  G12  5   XFL  S12W90    3.5E+03 1.1E+04       
+ 390       0047   ////      0047  CUL  C   RSP  27-45     III/1                 
+
+ 400       0158   ////      0211  CUL  C   RSP  23-80     III/1                 
+
+ 410       0250   ////      0255  CUL  C   RSP  27-90     III/1                 
+
+ 420 +     0300   ////      0301  CUL  C   RSP  18-180    III/2                 
+
+ 430       0438   ////      0438  LEA  C   RSP  025-105   III/1                 
+
+ 440 +     0611   ////      0614  LEA  C   RSP  025-111   III/1                 
+
+ 450 +     0704   ////      0704  LEA  C   RSP  025-108   III/1                 
+
+ 460 +     0724   ////      0725  LEA  C   RSP  025-180   III/1                 
+
+ 470       0753   ////      0753  SVI  C   RSP  025-141   III/1                 
+
+ 480 +     0817   ////      0817  SVI  C   RSP  025-180   III/1                 
+
+ 490       1040   ////      1040  SAG  C   RSP  025-054   III/1                 
+
+ 500       1205   1205      1205  SAG  G   RBR  8800      51                    
+
+ 510 +     1253   ////      1254  SVI  C   RSP  025-141   III/1                 
+
+ 530       1341   ////      1342  SVI  C   RSP  025-083   III/1                 
+ 530       1341   ////      1349  SAG  U   RSP  025-146   V/1                   
+
+ 540       1347   ////      1350  SVI  C   RSP  025-180   V/3                   
+ 540       1350   ////      1350  SAG  U   RSP  025-066   III/1                 
+
+ 560       1456   ////      1457  SVI  C   RSP  025-082   III/1                 
+
+ 550       1457   ////      1457  SAG  U   RSP  025-066   III/1                 
+
+ 570 +     1523   ////      1531  SVI  C   RSP  025-142   III/1                 
+ 570       1529   1529      1529  SVI  G   RBR  245       130                   

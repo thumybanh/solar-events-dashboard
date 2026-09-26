@@ -1,0 +1,88 @@
+:Product: 19980724events.txt
+:Created: 1998 Jul 27 0302 UT
+:Date: 1998 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5710 +     0311   0338      0358  GO9  5   XRA  1-8A      C8.2    1.6E-02   8280
+
+5700 +     0314   0315      0316  LEA  G   RBR  1415      11                    
+5700 +     0314   0315      0317  LEA  G   RBR  2695      11                    
+5700 +     0314   0315      0317  LEA  G   RBR  4995      13                    
+5700 +     0314   0315      0317  LEA  G   RBR  8800      19                    
+5700 +     0314   0315      0316  PAL  G   RBR  15400     29                    
+
+5710 +     0325   0330      0335  LEA  G   RBR  245       90                8280
+5710 +     0325   0329      0335  LEA  G   RBR  410       32                8280
+5710 +     0325   0332      0352  LEA  G   RBR  2695      65                8280
+5710 +     0325   0332      0348  LEA  G   RBR  4995      69                8280
+5710       0326   0328      0333  LEA  G   RBR  606       20                8280
+5710 +     0326   0332      0340  LEA  G   RBR  1415      15                8280
+5710 +     0326   0332      0353  LEA  G   RBR  8800      39                8280
+5710 +     0326   ////      0636  LEA  C   RSP  030-08    CTM/2             8280
+5710 +     0331   0332      0336  LEA  G   RBR  15400     14                8280
+5710       0333   0334      0345  LEA  3   FLA  S26E57    SF      ERU       8280
+
+5720       0402   0402      0404  PAL  G   RBR  2695      26                    
+5720       0402   0402      0404  PAL  G   RBR  4995      39                    
+5720       0402   0402      0403  PAL  G   RBR  8800      52                    
+5720       0402   0402      0404  PAL  G   RBR  15400     100                   
+
+5730       0613   0620      0634  SVI  3   FLA  S20E53    SF                8280
+5730       0633   ////      1749  SVI  C   RSP  035-08    CTM/2             8280
+
+5740       0652   ////      0652  SVI  C   RSP  039-04    III/1                 
+
+5750       0734   ////      0736  LEA  C   RSP  030-04    III/1                 
+
+5760       0747   0751      0837  SVI  3   FLA  N30E51    SF                8282
+
+5770       0839   0844      0854  SVI  3   FLA  N33E48    SF                8282
+
+5860       0900   0000      1200       F   RNS  204       10                    
+
+5820       0943   0945      0955       F   RBR  204       180                   
+
+5780       1003   1005      1010  SVI  3   FLA  N17E41    SF                8281
+
+5790       1037   1042      1054  SVI  3   FLA  N29E50    SF                8282
+
+5800       1111   1122      1128  SVI  3   FLA  N29E50    SF                8282
+
+5810       1135   1148      1156  SVI  3   FLA  N29E50    SF                8282
+
+5830       1235   1236      1240  SVI  3   FLA  N16E40    SF                8281
+
+5840       1326   ////      1326  SVI  C   RSP  036-08    III/3                 
+
+5910       1423   ////      1945  SAG  C   RSP  030-05    CTM/1                 
+
+5850       1513   1513      1521  SVI  3   FLA  N16E39    SF                8281
+
+5870       1602   1604      1610  SVI  3   FLA  N28E47    SF                8282
+
+5880       1640   ////      1642  SAG  C   RSP  030-06    III/1                 
+
+5890 +     1656   1712      1721  GO9  5   XRA  1-8A      C1.3    1.4E-03       
+
+5900 +     1757   1757      1757  SAG  G   RBR  245       56                    
+
+5920 +     1938   1944      1948  GO9  5   XRA  1-8A      C2.1    9.2E-04       
+
+5930       1958   ////      2205  SAG  C   RSP  030-04    CTM/8                 
+5930       2004   ////      2004  SAG  C   RSP  030-05    III/2                 
+
+5960       2009   ////      0044  PAL  C   RSP  030-04    CTM/1                 
+
+5930 +     2050   2053      2055  GO9  5   XRA  1-8A      C1.1    3.1E-04       
+
+5940 +     2122   2127      2135  GO9  5   XRA  1-8A      B9.6    6.6E-04       
+
+5950       2343   2344      2344  LEA  G   RBR  245       60                    

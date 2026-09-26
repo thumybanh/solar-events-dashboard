@@ -1,0 +1,45 @@
+:Product: 20031105events.txt
+:Created: 2003 Nov 06 2102 UT
+:Date: 2003 11 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Nov 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8190 +     0237   0241      0245  G12  5   XRA  1-8A      M1.6    5.2E-03   0486
+8190       0238   0241      0250  LEA  3   FLA  S19W89    SF      LPS       0486
+8190       0240   0240      0240  PAL  G   RBR  8800      150               0486
+8190       0240   0240      0240  PAL  G   RBR  15400     260               0486
+
+8200       0301   ////      0301  CUL  C   RSP  57-180    III/2                 
+
+8210 +     0508   ////      0508  CUL  C   RSP  18-180    III/3                 
+
+8270       0528   ////      0528  CUL  C   RSP  30-140    III/1                 
+
+8280       0538   ////      0538  CUL  C   RSP  50-150    III/1                 
+
+8290       0632   ////      0632  CUL  C   RSP  50-200    III/1                 
+
+8220 +     0704   ////      0705  CUL  C   RSP  20-180    III/3                 
+
+8230 +     0754   0759      0803  G12  5   XRA  1-8A      C4.7    2.1E-03       
+
+8240 +     0829   ////      0829  SVI  C   RSP  075-165   III/1                 
+
+8250      B0907   ////      1043  SVI  3   LPS  ////      0.13    B.6A      0488
+
+8260 +     1046   1052      1056  G12  5   XRA  1-8A      M5.3    1.7E-02   0486
+8260       1049   1049      1050  SVI  G   RBR  15400     590               0486
+8260      U1050  U1050      1050  SVI  G   RBR  4995      47                0486
+8260      U1050  U1050      1050  SVI  G   RBR  8800      140               0486
+8260       1051   1051      1058  SVI  3   FLA  S16W90    SF                0486
+
+8340       1629   1648      1709  G12  5   XRA  1-8A      C1.9    3.8E-03       
+
+8300       2042   ////      2042  CUL  C   RSP  130-180   III/1                 

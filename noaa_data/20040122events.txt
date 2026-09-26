@@ -1,0 +1,34 @@
+:Product: 20040122events.txt
+:Created: 2004 Jan 25 0300 UT
+:Date: 2004 01 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jan 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 380 +     0930   0935      0940  G12  5   XRA  1-8A      B5.7    2.9E-04   0544
+ 380       0933   0938      0938  G12  5   XFL  N08W12    5.5E+02 1.1E+03   0544
+
+ 390       1702   1702      1702  SAG  G   RBR  245       52                    
+
+ 400 +     1705   1713      1726  G12  5   XRA  1-8A      B8.1    8.9E-04       
+ 400       1709   1714      1725  G12  5   XFL  N17W25    7.5E+01 1.3E+02       
+
+ 410       1732   1732      1732  SAG  G   RBR  245       81                    
+
+ 420       1749   1749      1750  PAL  G   RBR  245       360                   
+ 420       1749   1749      1749  PAL  G   RBR  410       61                    
+
+ 430       1802   1802      1803  PAL  G   RBR  245       57                    
+
+ 460       2055   ////      2056  CUL  C   RSP  25-120    III/1                 
+
+ 440       2107   2107      2108  PAL  G   RBR  245       130                   
+ 440       2107   ////      2108  CUL  C   RSP  100-260   III/1                 
+
+ 450       2114   2114      2114  PAL  G   RBR  245       53                    

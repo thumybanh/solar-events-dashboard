@@ -1,0 +1,48 @@
+:Product: 19990406events.txt
+:Created: 1999 Apr 09 0302 UT
+:Date: 1999 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4620       0004   0028      0029  PAL  G   RNS  245       170                   
+
+4610       0101   ////      0101  PAL  C   RSP  043-05    III/1                 
+
+4630       0156   ////      0156  PAL  C   RSP  045-05    III/1                 
+
+4640 +     0255   0259      0301  GO8  5   XRA  1-8A      B5.8    1.7E-04       
+
+4650       0308   0308      0308  PAL  G   RBR  410       81                    
+
+4660 +     0413   0417      0420  GO8  5   XRA  1-8A      B7.7    2.7E-04       
+
+4670 +     0652   0705      0722  GO8  5   XRA  1-8A      C3.5    4.8E-03   8508
+4670       0700   0704      0725  SVI  3   FLA  N22E47    SF      ERU       8508
+
+4680       0749   ////      0750  SVI  U   RSP  035-07    III/2                 
+
+4720 +     1008   1011      1019  COM  3   FLA  S34E57    SF                    
+
+4690       1009   1015      1037  SVI  3   FLA  S24W36    SF                8506
+
+4700       1050   1051      1056  SVI  3   FLA  N10E24    SF                8507
+
+4730       1219   1223      1238  SVI  3   FLA  N10E24    SF                8507
+
+4740 +     1354   1358      1408  RAM  3   FLA  N10E23    SF                8507
+
+4760 +     2035   2040      2042  GO8  5   XRA  1-8A      B7.5    2.7E-04   8507
+4760       2038   2039      2047  RAM  3   FLA  N11E18    SF                8507
+
+4890      A2154   ////      1150  RAM  3   DSF  S30E56    07      B.0A      8510
+
+4770 +     2257   2300      2303  GO8  5   XRA  1-8A      B7.0    2.3E-04       
+
+4950       2335   0003      0115  GO8  5   XRA  1-8A      C1.6    7.6E-03       

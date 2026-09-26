@@ -1,0 +1,48 @@
+:Product: 19981022events.txt
+:Created: 1998 Oct 25 0302 UT
+:Date: 1998 10 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8350       0144   0144      0148  LEA  3   FLA  S27W35    SF                8365
+
+8360 +     0501   ////      0502  CUL  C   RSP  18-180    III/1                 
+
+8370 +     0509   0515      0520  GO8  5   XRA  1-8A      B8.1    4.8E-04   8365
+8370       0509   0515      0522  LEA  3   FLA  S27W37    SF                8365
+
+8480       0654   ////      0656  CUL  C   RSP  19-180    III/1                 
+
+8380 +     0655   ////      0655  LEA  C   RSP  030-07    III/2                 
+
+8390 +     0720   0727      0744  GO8  5   XRA  1-8A      C1.0    1.3E-03   8365
+8390       0724   0726      0743  SVI  3   FLA  S26W38    SF                8365
+
+8400       0749   0750      0750  SVI  U   RBR  245       54                    
+
+8410       0924   ////      0925  SVI  C   RSP  035-06    III/2                 
+
+8420       0935   0935      0939  SVI  3   FLA  S26W39    SF                8365
+
+8430 +     0944   0949      0959  GO8  5   XRA  1-8A      C1.5    1.2E-03   8365
+8430       0947   0950      0958  SVI  3   FLA  S26W39    SF                8365
+
+8440 +     1133   1141      1150  GO8  5   XRA  1-8A      C1.2    9.9E-04       
+
+8450 +     1159   1202      1208  GO8  5   XRA  1-8A      C1.1    5.2E-04       
+8450       1201   1201      1208  SVI  3   FLA  S26W42    SF                8365
+
+8540      A1521   ////      0747  SVI  3   DSF  N17W47    11      B.0A          
+
+8460 +     1633   1644      1652  GO8  5   XRA  1-8A      C1.0    9.5E-04       
+
+8470       2155   2200      2205  GO8  5   XRA  1-8A      B8.8    4.2E-04       
+
+8490 +     2345   2349      2353  GO8  5   XRA  1-8A      B5.2    2.0E-04       

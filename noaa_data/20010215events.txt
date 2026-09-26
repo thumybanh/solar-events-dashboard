@@ -1,0 +1,34 @@
+:Product: 20010215events.txt
+:Created: 2001 Feb 18 0302 UT
+:Date: 2001 02 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Feb 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8460      A0018   ////      1407  HOL  3   DSF  N20E20    15      B.0A          
+
+8410       0216   0217      0217  LEA  G   RBR  245       94                    
+
+8420       0220   0220      0221  LEA  G   RBR  245       63                    
+
+8430       0324   0324      0324  LEA  G   RBR  245       58                    
+
+8470       0531   0533      0536  GO8  5   XRA  1-8A      B6.4    1.4E-04       
+
+8540 +    A0944   ////      2317  LEA  3   DSF  S25E17    07      B.0A          
+
+8500      A0949   ////      2346  LEA  3   DSF  S45E21    25      B.0A          
+
+8440 +     1040   1043      1046  GO8  5   XRA  1-8A      B4.6    1.4E-04       
+
+8450       1308   1416      1518  GO8  5   XRA  1-8A      B8.8    6.0E-03       
+8450       1436   ////      1436  SAG  C   RSP  030-080   III/2                 
+
+8490       2020   2106      2131  GO8  5   XRA  1-8A      B8.5    2.8E-03       
+8490       2053   ////      2053  CUL  C   RSP  23-80     III/1                 

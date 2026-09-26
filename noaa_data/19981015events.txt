@@ -1,0 +1,47 @@
+:Product: 19981015events.txt
+:Created: 1998 Oct 18 0302 UT
+:Date: 1998 10 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6930 +     0040   0047      0052  GO8  5   XRA  1-8A      C2.6    1.1E-03   8359
+6930       0042   ////      0045  CUL  C   RSP  18-180    III/1             8359
+6930 +     0043   0044      0044  LEA  G   RBR  1415      51                8359
+6930       0044   0048      0059  LEA  3   FLA  N26W63    SF                8359
+
+6970       0120   ////      0230  PAL  C   RSP  044-06    CTM/1                 
+
+6980 +     0320   0326      0332  GO8  5   XRA  1-8A      B7.1    3.9E-04       
+
+6940 +     0706   1619      2359  COM  G   RNS  245       230                   
+6940 +     0708   0716      1226  SVI  U   RNS  410       120                   
+
+7010       0727   ////      0825  SVI  C   RSP  065-08    CTM/1                 
+
+7030       0941   ////      0947  SVI  C   RSP  035-07    III/1                 
+
+7040       0947   ////      1037  SVI  C   RSP  035-08    CTM/1                 
+
+7050       1105   ////      1157  SVI  C   RSP  062-08    CTM/2                 
+
+7070       1202   ////      1256  SAG  C   RSP  030-08    CTM/1                 
+
+7080 +     1730   1730      1731  SAG  G   RBR  245       300                   
+
+7090       1737   ////      1741  SAG  C   RSP  030-07    III/1                 
+
+7110 +     1820   ////      2140  SAG  C   RSP  030-08    CTM/2                 
+
+7100 +     1917   1920      1925  GO8  5   XRA  1-8A      B6.3    2.7E-04       
+
+7120       2129   2144      2137  HOL  3   FLA  S20W23    SF                8360
+7120 +     2130   2134      2136  GO8  5   XRA  1-8A      C1.9    4.1E-04       
+
+7150       2208   ////      1011  LEA  C   RSP  030-08    CTM/1                 

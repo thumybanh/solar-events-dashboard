@@ -1,0 +1,27 @@
+:Product: 19990925events.txt
+:Created: 1999 Sep 28 0302 UT
+:Date: 1999 09 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9970       0155   0155      0156  LEA  G   RBR  245       97                    
+9970       0155   ////      0156  LEA  C   RSP  047-08    III/2                 
+
+10         0237   0237      0237  LEA  G   RBR  245       98                    
+
+9980       0414   ////      0414  LEA  C   RSP  030-05    III/1                 
+
+9990 +     1318   1325      1329  GO8  5   XRA  1-8A      B7.3    3.8E-04       
+
+20         1653   ////      1654  SAG  C   RSP  030-06    III/1                 
+
+30   +     1932   1935      1944  GO8  5   XRA  1-8A      B4.5    2.9E-04       
+
+40         2345   0033      0052  GO8  5   XRA  1-8A      C1.0    3.4E-03       

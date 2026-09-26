@@ -1,0 +1,48 @@
+:Product: 20091221events.txt
+:Created: 2009 Dec 24 0332 UT
+:Date: 2009 12 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2009 Dec 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3440       0108   0113      0116  G14  5   XRA  1-8A      B1.6    5.4E-05       
+
+3450       0137   0142      0146  G14  5   XRA  1-8A      B1.8    6.7E-05       
+
+3460       0155   0159      0204  G14  5   XRA  1-8A      B2.9    9.4E-05       
+
+3470       0655   0659      0702  SVI  U   RBR  245       270                   
+
+3560 +     0704   0832      0936  SVI  G   RNS  245       220                   
+
+3480       0709   0717      0722  G14  5   XRA  1-8A      C2.5    1.0E-03       
+
+3490 +     0826   ////      0826  LEA  C   RSP  025-109   III/1                 
+
+3500       0916   0926      0932  G14  5   XRA  1-8A      C1.0    6.2E-04       
+
+3510       1026   1040      1048  G14  5   XRA  1-8A      B3.9    3.9E-04       
+
+3520       1102   1111      1124  G14  5   XRA  1-8A      B8.6    8.7E-04       
+
+3530       1159   1202      1204  G14  5   XRA  1-8A      B6.1    9.4E-05       
+
+3540       1255   1302      1307  G14  5   XRA  1-8A      B2.9    1.4E-04       
+
+3550       1428   1456      1512  G14  5   XRA  1-8A      B8.4    1.5E-03       
+
+3570       1904   1907      1909  G14  5   XRA  1-8A      B1.6    2.4E-05       
+
+3580       2152   ////      2152  PAL  C   RSP  025-180   III/1                 
+
+3590 +     2304   ////      2304  CUL  C   RSP  30-180    III/1                 
+
+3600       2334   2338      2340  G14  5   XRA  1-8A      B4.1    7.5E-05       
+
+3610       2346   ////      2346  CUL  C   RSP  20-180    III/1                 

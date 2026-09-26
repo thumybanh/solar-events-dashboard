@@ -1,0 +1,88 @@
+:Product: 20040105events.txt
+:Created: 2004 Jan 08 0302 UT
+:Date: 2004 01 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jan 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7060       0000   ////      0000  CUL  C   RSP  18-230    CTM/3                 
+
+6860 +     0006   0016      0031  G12  5   XRA  1-8A      C7.5    8.3E-03   0536
+6860       0009   0025      0030  G12  5   XFL  S12E38    7.2E+03 3.0E+04   0536
+6860      B0010   0018      0037  CUL  3   FLA  S11E39    SF                0536
+
+7070      B0039   0054     A0054  CUL  3   FLA  S12E41    SF                    
+
+7080      B0100   0105      0137  CUL  3   FLA  S12E41    SF                    
+
+6870       0217   0217      0217  LEA  G   RBR  245       65                    
+
+6900      B0240   0322      0558  CUL  3   FLA  S08E38    2N                    
+
+6910       0250   0345      0520  G12  5   XRA  1-8A      M6.9    3.2E-01       
+6910       0307   0320      0401  LEA  G   RBR  1415      240                   
+6910 +     0307   0320      0413  LEA  G   RBR  4995      530                   
+6910 +     0307   0320      0420  LEA  G   RBR  8800      420                   
+6910       0309   0322      0421  LEA  G   RBR  410       1400                  
+6910       0309   0320      0401  LEA  G   RBR  2695      400                   
+
+6880 +     0310   0310      0310  LEA  G   RBR  245       71                    
+6880       0310   0337      0402  LEA  G   RBR  606       450                   
+6880       0310   0320      0431  LEA  G   RBR  15400     250                   
+
+6890       0311   0311      0319  PAL  G   RBR  15400     99                    
+
+6900 +     0322   ////      0325  CUL  C   RSP  18-45     III/3                 
+
+6910 +     0328   ////      0507  LEA  C   RSP  025-180   IV/2                  
+6910 +     0330   ////      0340  CUL  C   RSP  20-900    III/2                 
+
+6920       0349   ////      0000  CUL  C   RSP  18-180    CTM/3                 
+
+6930       0507   ////      0507  LEA  C   RSP  072-180   CTM/1                 
+
+6980 +     0637   1008     U1027  SVI  G   RNS  245       190                   
+
+6990       0702   ////      1510  SVI  C   RSP  054-180   CTM/1                 
+
+6940       0708   0710      0710  SVI  G   RBR  15400     58                    
+
+6950       0906   ////      0910  SVI  C   RSP  025-043   III/1                 
+
+6960       1002   ////      1002  SVI  C   RSP  025-043   III/1                 
+
+6970       1018   ////      1021  SVI  C   RSP  025-039   III/1                 
+
+7010       1825   2021      2052  G12  5   XRA  1-8A      C2.6    1.6E-02       
+
+7000       1934   1934      1934  SAG  G   RBR  245       57                    
+
+7010 +     2013   2013      2013  PAL  G   RBR  4995      52                    
+7010 +     2013   2018      2018  PAL  G   RBR  245       270                   
+7010 +     2013   2014      2018  PAL  G   RBR  410       130                   
+7010 +     2013   2013      2018  PAL  G   RBR  606       78                    
+7010 +     2015   2015      2015  PAL  G   RBR  1415      52                    
+
+7090       2017   ////      2022  CUL  C   RSP  60-650    III/1                 
+
+7100       2023   ////      2023  CUL  C   RSP  20-180    III/1                 
+
+7030       2053   2112      2127  G12  5   XRA  1-8A      C4.2    6.7E-03       
+7030       2107   ////      2110  CUL  C   RSP  23-120    III/1                 
+
+7230       2115   ////      2117  CUL  C   RSP  20-120    III/1                 
+
+7050       2149   ////      2348  HOL  C   RSP  075-180   CTM/1                 
+
+7040       2206   2209      2212  PAL  G   RBR  245       88                    
+7040 +     2206   ////      2206  CUL  C   RSP  20-170    III/3                 
+
+7110       2250   ////      2251  CUL  C   RSP  23-100    III/1                 
+
+7120       2350   ////      2350  CUL  C   RSP  20-40     III/1                 

@@ -1,0 +1,47 @@
+:Product: 20020117events.txt
+:Created: 2002 Jan 20 0300 UT
+:Date: 2002 01 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9420 +     0107   0116      0124  GO8  5   XRA  1-8A      C3.9    3.3E-03       
+
+9430       0200   ////      0200  CUL  C   RSP  57-180    III/1                 
+
+9440       0213   0216      0221  GO8  5   XRA  1-8A      C2.9    1.3E-03   9775
+9440       0215   0219      0224  LEA  3   FLA  S08W91    SF      ERU       9775
+
+9450 +     0306   0312      0318  GO8  5   XRA  1-8A      C4.2    2.4E-03   9775
+9450       0309   0311      0319  LEA  3   FLA  S09W78    SF      ERU       9775
+
+9460       0323   ////      0323  CUL  C   RSP  57-90     III/1                 
+
+9470       0432   0435      0437  G10  5   XRA  1-8A      C3.0    8.1E-04       
+
+9480 +     0517   0521      0525  GO8  5   XRA  1-8A      C3.1    1.3E-03       
+
+9490       0543   ////      0544  LEA  C   RSP  030-068   III/1                 
+
+9500       0612   0612      0612  LEA  U   RBR  245       130                   
+9500       0612   0612      0612  LEA  U   RBR  410       44                    
+
+9560       0755   ////      0756  CUL  C   RSP  65-90     III/1                 
+
+9510       0935   ////      0938  LEA  C   RSP  068-180   III/1                 
+
+9520 +     1142   1146      1152  GO8  5   XRA  1-8A      C2.5    1.3E-03       
+
+9530       1208   1215      1218  GO8  5   XRA  1-8A      C2.4    1.3E-03   9783
+9530       1210   1215      1228  RAM  3   FLA  S11E23    SF      ERU       9783
+
+9540       2213   2218      2218  PAL  G   RBR  245       460                   
+9540       2214   2214      2215  PAL  G   RBR  410       32                    
+
+9550       2221   2221      2222  PAL  G   RBR  245       200                   

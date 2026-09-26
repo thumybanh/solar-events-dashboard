@@ -1,0 +1,30 @@
+:Product: 20070122events.txt
+:Created: 2007 Jan 26 2332 UT
+:Date: 2007 01 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7690 +     0242   0245      0247  G12  5   XRA  1-8A      B1.6    3.6E-05   0939
+7690       0246   0246      0246  G12  5   XFL  S03W33    3.3E+02 6.7E+02   0939
+
+7700 +     0306   0313      0317  G12  5   XRA  1-8A      B1.0    6.1E-05   0939
+7700       0309   0313      0313  G12  5   XFL  S03W34    3.3E+02 6.2E+02   0939
+
+7710 +     0542   0548      0555  G12  5   XRA  1-8A      B1.2    8.0E-05   0939
+7710       0549   0554      0554  G12  5   XFL  S03W35    1.8E+02 3.1E+02   0939
+
+7720 +     0812   0815      0819  G12  5   XRA  1-8A      B1.0    3.8E-05   0939
+7720       0816   0816      0818  G12  5   XFL  S03W37    1.0E+02 1.7E+02   0939
+
+7730 +     0906   0909      0911  G12  5   XRA  1-8A      B1.2    2.4E-05   0939
+7730 +     0907   0907      0909  SVI  G   RBR  245       1200              0939
+7730 +     0907   0907      0907  SVI  G   RBR  410       540               0939
+7730 +     0907   ////      0909  LEA  U   RSP  033-180   III/2             0939
+7730       0910   0910      0910  G12  5   XFL  S03W38    7.5E+01 1.3E+02   0939

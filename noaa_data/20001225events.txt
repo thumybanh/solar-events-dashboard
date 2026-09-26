@@ -1,0 +1,59 @@
+:Product: 20001225events.txt
+:Created: 2000 Dec 28 0302 UT
+:Date: 2000 12 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+460  +     0056   0108      0116  GO8  5   XRA  1-8A      C1.6    1.7E-03       
+
+470        0119   ////      0119  LEA  C   RSP  027-044   III/1                 
+
+480        0257   ////      0257  LEA  C   RSP  027-044   III/1                 
+
+490        0328   ////      0329  LEA  C   RSP  028-040   III/1                 
+
+520        0352   ////      0432  LEA  3   DSF  S36W45    20      B.0A          
+
+500        0358   0358      0402  LEA  3   FLA  S15E48    SF                9283
+
+510  +     0541   0545      0551  GO8  5   XRA  1-8A      C1.2    6.3E-04       
+510        0551   ////      0551  LEA  C   RSP  027-040   III/1                 
+
+530  +     0556   0601      0608  GO8  5   XRA  1-8A      C2.9    1.6E-03   9283
+530        0559   0602      0613  LEA  3   FLA  S13E50    SF                9283
+
+540  +     0630   0635      0639  GO8  5   XRA  1-8A      C2.1    9.1E-04   9280
+540        0633   0634      0640  LEA  3   FLA  N12E06    SF      ERU       9280
+540        0636   ////      0636  SVI  C   RSP  135-165   III/1             9280
+
+630        0824   ////      0909  SVI  U   RSP  042-138   CTM/1                 
+
+550  +     0843   0846      0849  GO8  5   XRA  1-8A      B9.5    3.0E-04   9283
+550        0845   0845      0850  LEA  3   FLA  S12E46    SF                9283
+
+650        0936   1002      1013  GO8  5   XRA  1-8A      C1.4    2.2E-03       
+
+640        1148   ////      1333  SVI  U   RSP  037-167   CTM/1                 
+
+570  +     1214   1219      1224  GO8  5   XRA  1-8A      C1.8    8.6E-04   9283
+570        1216   1223      1243  RAM  3   FLA  S11E48    SF      ERU       9283
+
+580        1356   1422      1432  GO8  5   XRA  1-8A      C1.2    2.1E-03   9283
+580        1405   1422      1425  RAM  3   FLA  S13E43    SF                9283
+
+590        1444   ////      1502  SVI  U   RSP  032-017   CTM/1                 
+
+600  +     1555   1600      1605  GO8  5   XRA  1-8A      C5.4    2.0E-03   9283
+600        1557   1605      1615  RAM  3   FLA  S12E42    SF      ERU       9283
+
+610  +     1630   1639      1653  GO8  5   XRA  1-8A      C3.2    3.3E-03   9283
+610        1632   1635      1651  RAM  3   FLA  S10E43    SF      ERU       9283
+
+620        2258   ////      2258  LEA  C   RSP  026-096   III/1                 

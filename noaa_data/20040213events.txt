@@ -1,0 +1,53 @@
+:Product: 20040213events.txt
+:Created: 2004 Feb 16 0300 UT
+:Date: 2004 02 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Feb 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3460       0005   0005      0005  LEA  G   RBR  245       86                    
+
+3470       0028   0028      0028  LEA  G   RBR  245       100                   
+
+3480       0105   0106      0106  LEA  G   RBR  245       53                    
+
+3490       0115   ////      0116  CUL  C   RSP  20-180    III/1                 
+
+3500       0122   ////      0122  CUL  C   RSP  40-180    III/1                 
+
+3510       0231   0231      0231  LEA  G   RBR  245       71                    
+
+3520       0327   ////      0328  CUL  C   RSP  23-40     V/3                   
+3520 +     0335   ////      0335  CUL  C   RSP  23-100    III/2                 
+
+3530       0430   0430      0431  LEA  G   RBR  245       180                   
+3530       0430   ////      0431  LEA  C   RSP  054-180   III/1                 
+
+3540       0438   0438      0438  LEA  G   RBR  245       150                   
+
+3550       0554   0554      0555  LEA  G   RBR  245       690                   
+3550       0554   0554      0554  LEA  G   RBR  410       370                   
+3550       0554   ////      0555  LEA  C   RSP  025-180   III/1                 
+
+3560       0609   ////      0700  SVI  C   RSP  117-153   CTM/1                 
+3560       0610   0610      0610  LEA  G   RBR  245       61                    
+
+3570 +     0823   ////      0826  LEA  C   RSP  025-180   III/1                 
+
+3610       1105   1106      1108  IZM  F   RBR  204       200                   
+
+3630 +     1206  U1333      0000  SAG  G   RNS  245       97                    
+
+3620       1710   ////      1711  HOL  C   RSP  025-126   III/1                 
+
+3640       2110   ////      2112  HOL  C   RSP  025-116   III/1                 
+
+3650       2158   ////      2205  HOL  C   RSP  025-085   III/1                 
+
+3660 +     2240   ////      2242  PAL  C   RSP  025-086   III/1                 

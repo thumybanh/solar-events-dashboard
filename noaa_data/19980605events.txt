@@ -1,0 +1,77 @@
+:Product: 19980605events.txt
+:Created: 1998 Jun 08 0302 UT
+:Date: 1998 06 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6910       0029   0031      0036  HOL  3   FLA  N27E45    SF                8233
+
+6920 +     0231   ////      0233  LEA  C   RSP  030-08    III/2                 
+
+6930 +     0302   0308      0313  GO9  5   XRA  1-8A      B6.7    4.0E-04       
+
+6940 +     0419   ////      0420  CUL  C   RSP  20-150    III/1                 
+
+6950 +     0439   0445      0451  GO9  5   XRA  1-8A      C1.4    6.8E-04   8232
+6950       0444   0444      0450  LEA  3   FLA  S26E43    SF                8232
+
+6960       0525   ////      0525  LEA  C   RSP  030-04    III/1                 
+
+7230      A0548   ////      0640  SVI  3   DSF  S39E05    21      B.0A          
+
+7220 +    A0548   ////      0640  SVI  3   DSF  S41W18    14      B.0A          
+
+7500       0600   0000      1200       F   RNS  204       10                    
+
+6980       0634   ////      0635  SVI  U   RSP  058-08    III/1                 
+
+6990 +     0643   0648      0654  GO9  5   XRA  1-8A      B9.0    5.2E-04   8232
+6990       0647  U0648     A0655  SVI  3   FLA  S25E45    SF      ERU       8232
+
+7000 +     0815   ////      0816  LEA  C   RSP  030-08    III/2                 
+
+7010       0837   0838      0900  SVI  3   FLA  N26E40    SF                8233
+
+7020 +     0947   0953      0957  GO9  5   XRA  1-8A      C1.2    5.5E-04   8232
+7020       0948   0951      0957       F   RBR  3000      34                8232
+7020       0949   ////      0955  SVI  C   RSP  035-08    CTM/3             8232
+7020       0950   0951      0958  SVI  3   FLA  S23E43    SF      ERU       8232
+7020 +     0952   0953      0953  SVI  G   RBR  245       81                8232
+
+7070       1234   ////      1234  SVI  U   RSP  036-04    III/2                 
+
+7080       1344   ////      1345  SVI  C   RSP  036-08    III/3                 
+
+7090 +     1415   1420      1423  GO9  5   XRA  1-8A      C1.1    3.5E-04   8232
+7090       1417   1417      1419  SAG  G   RBR  245       22                8232
+7090 +     1417   1419      1420  SAG  G   RBR  410       18                8232
+7090 +     1417   1419      1420  SAG  G   RBR  606       52                8232
+7090 +     1419   1419      1427  SVI  3   FLA  S24E41    SF      ERU       8232
+
+7120       1448   ////      1448  SVI  C   RSP  036-08    III/2                 
+
+7130 +     1503   1508      1514  GO9  5   XRA  1-8A      B6.8    3.6E-04       
+
+7140       1743   1744      1744  SVI  G   RBR  245       58                    
+
+7150       1852   ////      1852  SAG  C   RSP  030-05    III/1                 
+
+7160       1925   ////      1932  PAL  C   RSP  028-06    III/1                 
+
+7170       2038   2038      2038  SAG  G   RBR  245       54                    
+7170       2038   ////      2038  PAL  C   RSP  026-07    III/2                 
+
+7180       2203   2203      2203  PAL  G   RBR  245       64                    
+
+7190 +     2253   2253      2253  PAL  G   RBR  245       98                    
+
+7200       2254   2254      2257  HOL  3   FLA  S23E37    SF                8232
+
+7210       2305   2305      2305  PAL  G   RBR  245       53                    

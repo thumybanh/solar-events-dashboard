@@ -1,0 +1,50 @@
+:Product: 19990615events.txt
+:Created: 1999 Jun 18 0302 UT
+:Date: 1999 06 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jun 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+400  +     0028   0031      0035  GO8  5   XRA  1-8A      C1.0    3.7E-04   8583
+400  +     0030   0031      0036  HOL  3   FLA  S11E30    SF                8583
+
+410        0034   0037      0041  HOL  3   FLA  N26W10    SF                8582
+
+420  +     0054   0102      0124  HOL  3   FLA  N25W09    SF      ERU       8582
+
+430        0155   0155      0156  LEA  U   RBR  410       59                    
+
+440        0440   0442      0445  LEA  3   FLA  N25W13    SF                8582
+440  +     0443   ////      0444  SVI  C   RSP  038-06    III/2             8582
+
+510        1103   1114      1150  GO8  5   XRA  1-8A      C1.2                  
+
+470       B1300   ////      1435  RAM  3   DSF  S23W44    08      B.7A          
+
+450        1310   1311      1319  RAM  3   FLA  S19W04    SF      ERU       8580
+
+460        1410   ////      1410  SVI  C   RSP  037-06    III/2                 
+
+480        1637   1639      1644  RAM  3   FLA  N18W69    SF                8569
+
+490        1647   1647      1650  RAM  3   FLA  S12E22    SF                8583
+
+500        1655   1655      1655  SAG  G   RBR  410       360                   
+
+520        1711   1712      1712  SAG  G   RBR  410       96                    
+
+530        1718   1719      1719  SAG  G   RBR  410       140                   
+
+540        1733   1734      1734  SAG  G   RBR  410       190                   
+
+550        1954   ////      1955  PAL  C   RSP  030-05    III/1                 
+
+560        2104   2105      2109  PAL  G   RBR  410       160                   
+
+570        2327   ////      2327  PAL  C   RSP  029-03    III/1                 

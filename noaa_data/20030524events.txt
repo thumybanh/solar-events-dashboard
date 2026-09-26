@@ -1,0 +1,20 @@
+:Product: 20030524events.txt
+:Created: 2003 May 27 0302 UT
+:Date: 2003 05 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 May 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5090 +     1144   1147      1150  G12  5   XRA  1-8A      B5.0    1.6E-04   0363
+
+5100 +     1413   1417      1419  G12  5   XRA  1-8A      B4.9    1.5E-04   0368
+
+5110 +     1424   1428      1432  G12  5   XRA  1-8A      B7.1    2.7E-04   0366
+
+5120       2220   2229      2237  GO8  5   XRA  1-8A      B7.1    6.5E-04   0366

@@ -1,0 +1,27 @@
+:Product: 19990102events.txt
+:Created: 1999 Jan 05 0302 UT
+:Date: 1999 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5410 +     0041   0041      0042  LEA  G   RBR  410       380                   
+
+5430 +     0321   0328      0354  GO8  5   XRA  1-8A      C2.8    4.6E-03   8421
+5430       0325   0329      0344  LEA  3   FLA  N27W40    SF      BPT       8421
+
+5440       0409   ////      0415  LEA  3   BSL  N25W90    0.15    B.9A      8419
+
+5450       0615   0619      0629  G10  5   XRA  1-8A      C1.0    7.8E-04       
+
+5480 +     1645   1650      1653  GO8  5   XRA  1-8A      C1.3    5.7E-04       
+
+5490       2015   2021      2121  RAM  3   FLA  N22W53    SF                8421
+
+5500 +     2124   2127      2139  GO8  5   XRA  1-8A      C1.2    9.9E-04       

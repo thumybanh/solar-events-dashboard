@@ -1,0 +1,40 @@
+:Product: 20061119events.txt
+:Created: 2006 Nov 22 0329 UT
+:Date: 2006 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 660       0207   ////      0207  CUL  C   RSP  23-60     III/1                 
+
+ 670       0313   ////      0313  CUL  C   RSP  23-60     III/1                 
+
+ 570       0351   ////      0452  LEA  C   RSP  075-180   CTM/1                 
+ 570       0411   0411      0412  LEA  G   RBR  245       130                   
+
+ 580 +     0411   0453      0453  LEA  G   RNS  245       230                   
+
+ 590       0646   0646      0647  LEA  G   RBR  245       150                   
+
+ 600       0649   0649      0649  SVI  G   RBR  245       110                   
+
+ 580       0700   ////      1200  IZM  F   RNS  204       20                    
+
+ 680       0746   ////      0746  CUL  C   RSP  45-180    III/1                 
+
+ 610       1214   ////      1214  SVI  C   RSP  025-125   III/1                 
+
+ 620 +     1436   ////      1436  SVI  C   RSP  025-160   III/1                 
+
+ 630 +     1457   1513      1525  G12  5   XRA  1-8A      B1.4    2.1E-04       
+ 630       1500   1500      1516  G12  5   XFL  N86E90    5.0E+01 1.7E+02       
+
+ 640       2229   2229      2233  LEA  3   FLA  S05W74    SF                0923
+
+ 650       2258   ////      2258  LEA  C   RSP  025-126   III/1                 

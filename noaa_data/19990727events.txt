@@ -1,0 +1,49 @@
+:Product: 19990727events.txt
+:Created: 1999 Jul 30 0303 UT
+:Date: 1999 07 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jul 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3960       0058   0254      0451  GO8  5   XRA  1-8A      C2.1    2.4E-02       
+3960      B0110   ////      0127  HOL  2   EPL  N37E90    0.43    B.9A          
+
+3980       0737   ////      0739  LEA  C   RSP  030-07    III/1             8646
+3980       0737   ////      0743  SVI  C   RSP  036-08    V/2               8646
+3980 +     0738   0747      0750  LEA  4   FLA  N13W50    SF      BPT       8646
+3980 +     0741   0742      0742  SVI  G   RBR  245       680               8646
+3980 +     0741   0742      0742  SVI  G   RBR  410       110               8646
+
+3990       0745   0745      0746  SVI  G   RBR  245       100                   
+
+4000       0815   0815      0815  SVI  G   RBR  245       90                    
+
+4010 +     0852   0857      0902  GO8  5   XRA  1-8A      C2.7    1.2E-03   8645
+4010 +     0854   0857      0915  LEA  4   FLA  S26E40    SF      PRB       8645
+
+4020 +     0946   0950      0952  GO8  5   XRA  1-8A      C1.4    4.0E-04       
+
+4030 +     1258   1405      1420  GO8  5   XRA  1-8A      M3.0    6.5E-02   8636
+4030 +     1309   1323      1442  HOL  3   FLA  N23W50    1N      ERU       8636
+
+4040       1439   1439      1439  SAG  G   RBR  245       58                    
+
+4050 +     1442   1442      1450  RAM  3   FLA  N12W54    SF                8646
+
+4060 +     1457   1501      1501  SAG  G   RBR  245       300               8646
+4060 +     1457   1501      1501  SAG  G   RBR  410       2000              8646
+4060       1457   1501      1501  SAG  G   RBR  606       48                8646
+4060 +     1500   1501      1504  RAM  3   FLA  N12W54    SF                8646
+4060 +     1500   ////      1502  SVI  C   RSP  035-08    III/3             8646
+
+4080 +     2023   ////      2024  PAL  C   RSP  025-06    III/1                 
+
+4090       2323   ////      2323  PAL  C   RSP  030-05    III/1                 
+
+4100       2324   ////      2324  CUL  C   RSP  23-70     III/1                 

@@ -1,0 +1,43 @@
+:Product: 20040221events.txt
+:Created: 2004 Feb 24 0300 UT
+:Date: 2004 02 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Feb 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4470 +     0646   0651      0720  G12  5   XRA  1-8A      B1.8    3.2E-04       
+4470       0650   0716      0718  G12  5   XFL  N08W18    7.5E+01 1.3E+02       
+
+4480 +     1437   1444      1449  G12  5   XRA  1-8A      B6.2    2.9E-04   0564
+4480       1440   1447      1448  G12  5   XFL  N16E47    1.3E+03 3.7E+03   0564
+
+4490 +     1525   1540      1546  G12  5   XRA  1-8A      B3.1    2.6E-04   0564
+4490       1528   1542      1546  G12  5   XFL  N16E47    9.0E+02 2.1E+03   0564
+
+4500 +     1721   1726      1731  G12  5   XRA  1-8A      B5.5    2.3E-04   0562
+4500       1724   1725      1725  SAG  G   RBR  245       130               0562
+4500       1724   1726      1730  G12  5   XFL  S03E41    7.8E+02 2.8E+03   0562
+4500       1725   ////      1727  HOL  C   RSP  025-180   III/1             0562
+
+4510 +     1933   1937      1939  G12  5   XRA  1-8A      B2.6    7.6E-05   0564
+4510 +     1935   ////      1936  HOL  C   RSP  025-180   III/1             0564
+4510       1936   1936      1938  G12  5   XFL  N14E40    1.5E+02 2.8E+02   0564
+
+4520 +     2023   2026      2028  G12  5   XRA  1-8A      B2.7    6.4E-05   0564
+4520       2026   2026      2027  G12  5   XFL  N14E39    1.8E+02 3.6E+02   0564
+
+4530 +     2224   ////      2224  HOL  C   RSP  025-180   III/1                 
+
+4540 +     2249   ////      2249  PAL  C   RSP  025-180   III/1                 
+
+4550       2250   2250      2250  PAL  G   RBR  245       61                    
+
+4560 +     2352   2356      2358  G12  5   XRA  1-8A      B2.0    6.5E-05   0564
+4560       2354   ////      2358  LEA  C   RSP  025-100   III/1             0564
+4560       2355   2356      2356  G12  5   XFL  N15E40    1.0E+02 1.7E+02   0564

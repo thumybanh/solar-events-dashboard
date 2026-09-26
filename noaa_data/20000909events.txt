@@ -1,0 +1,38 @@
+:Product: 20000909events.txt
+:Created: 2000 Sep 12 0302 UT
+:Date: 2000 09 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Sep 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7780 +     0040   ////      0042  LEA  C   RSP  038-180   III/1                 
+7780 +     0041   0042      0042  LEA  G   RBR  245       130                   
+
+7790 +     0326   ////      0328  LEA  C   RSP  025-180   III/2                 
+
+7800       0510   0520      0525  G10  5   XRA  1-8A      C1.0    7.9E-04   9154
+7800       0519   0520      0525  LEA  3   FLA  S19W52    SF                9154
+
+7810       0550   0550      0551  SVI  G   RBR  410       56                    
+
+7820       0825   0845      0850       F   RBR  3000      33                9151
+7820       0828   0849      0905  GO8  5   XRA  1-8A      M1.6    2.3E-02   9151
+7820 +     0830   0834      0835  SVI  G   RBR  1415      89                9151
+7820       0830   0836      0921  LEA  3   FLA  N07W67    1N      ERU       9151
+7820 +     0831   0835      0837  SVI  G   RBR  606       90                9151
+7820 +     0833   0834      0834  SVI  G   RBR  410       29                9151
+7820 +     0835   0836      0842  SVI  G   RBR  245       530               9151
+7820 +     0840   ////      0855  COM  C   RSP  30-80     II/2    1095      9151
+
+7830       1624   ////      1625  HOL  C   RSP  025-086   III/1                 
+
+7840       1704   1723      1732  GO8  5   XRA  1-8A      C1.1    1.3E-03       
+
+7850       2349   0010      0044  GO8  5   XRA  1-8A      C1.8    4.4E-03   9158
+7850       2359   0006      0046  LEA  3   FLA  N23E37    SF      PRB       9158

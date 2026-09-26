@@ -1,0 +1,47 @@
+:Product: 19990306events.txt
+:Created: 1999 Mar 09 0302 UT
+:Date: 1999 03 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9110 +     0051   0100      0141  GO8  5   XRA  1-8A      B7.4    1.9E-03       
+
+9130       0242   ////      0535  LEA  C   RSP  059-08    CTM/1                 
+
+9120 +     0251   0258      0305  GO8  5   XRA  1-8A      B8.1    5.6E-04       
+
+9140       0612   ////      0612  LEA  C   RSP  030-06    III/2                 
+
+9150       0646   ////      0930  LEA  C   RSP  030-08    CTM/1                 
+
+9240      A0954   ////      2307  LEA  2   DSF  N30W35    11      B.0A      8475
+
+9160       1241   1241      1246  RAM  4   FLA  N30W39    SF                8475
+
+9170 +     1401   1410      1418  GO8  5   XRA  1-8A      C1.4    1.2E-03       
+
+9180       1421   1422      1422  SAG  G   RBR  245       82                    
+
+9190       1524   1525      1526  SAG  G   RBR  410       68                    
+9190       1525   1525      1526  SAG  G   RBR  245       20                    
+
+9200       1555   1556      1557  SAG  G   RBR  245       56                    
+
+9210       1916   1917      1920  RAM  4   FLA  S17W79    SF                8478
+
+9220       1956   1956      2009  RAM  4   FLA  S29E07    SF                8477
+
+9230       2105   2111      2118  RAM  4   FLA  S29E06    SF                8477
+9230 +     2111   2114      2115  PAL  G   RBR  245       140               8477
+
+9390       2255   ////      2303  CUL  C   RSP  20-90     III/1                 
+
+9250       2305   2323      2354  GO8  5   XRA  1-8A      C2.7    6.9E-03   8475
+9250       2309   2326      2351  LEA  3   FLA  N30W46    SF      BPT       8475

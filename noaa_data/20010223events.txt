@@ -1,0 +1,43 @@
+:Product: 20010223events.txt
+:Created: 2001 Feb 26 0302 UT
+:Date: 2001 02 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Feb 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8970       0547   ////      0547  LEA  C   RSP  025-119   III/1                 
+
+8980 +     0611   0631      0638  GO8  5   XRA  1-8A      B8.3    1.1E-03       
+8980 +     0623   ////      0628  LEA  C   RSP  025-180   III/2                 
+8980 +     0624   0625      0626  SVI  G   RBR  245       150                   
+
+8990       0802   0805      0805  SVI  U   RBR  245       220                   
+
+9000 +     1224   1228      1233  GO8  5   XRA  1-8A      B6.2    3.0E-04       
+
+9010 +     1256   1309      1322  GO8  5   XRA  1-8A      C1.1    1.5E-03       
+
+9020 +     1417   1423      1428  GO8  5   XRA  1-8A      C1.4    8.6E-04   9359
+9020       1419   1421      1436  RAM  3   FLA  N11E44    SF      ERU       9359
+
+9030 +     1613   1617      1620  GO8  5   XRA  1-8A      B5.6    2.0E-04       
+9030       1614   1615      1617  SAG  G   RBR  245       140                   
+9030       1614   ////      1615  SAG  C   RSP  030-080   V/2                   
+9030       1614   ////      1618  HOL  C   RSP  025-180   III/1                 
+
+9040 +     1622   1626      1629  GO8  5   XRA  1-8A      B8.2    2.7E-04   9357
+9040       1625   1627      1632  RAM  3   FLA  S26W27    SF      DSD       9357
+
+9050       1800   1801      1801  SAG  G   RBR  245       65                    
+
+9070      B2147  U2319     A0006  GO8  5   XRA  1-8A      C2.2    1.0E-02       
+
+9080      B2300   2327      0008  LEA  4   FLA  S12E46    SF      ERU           
+
+9060 +     2305   ////      2314  HOL  C   RSP  025-140   III/1                 

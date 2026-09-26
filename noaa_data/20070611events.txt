@@ -1,0 +1,19 @@
+:Product: 20070611events.txt
+:Created: 2007 Jun 15 2332 UT
+:Date: 2007 06 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jun 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3840 +     0355   0400      0406  G11  5   XRA  1-8A      B1.3    6.8E-05   0960
+3840       0357   0359      0404  LEA  3   FLA  S09W47    SF      ERU       0960
+
+3850 +     1255   1259      1302  G11  5   XRA  1-8A      B2.4    5.8E-05       
+
+3860       2141   2145      2153  G10  5   XRA  1-8A      B1.0    7.2E-05       

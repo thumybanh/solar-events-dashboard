@@ -1,0 +1,46 @@
+:Product: 20030907events.txt
+:Created: 2003 Sep 10 0302 UT
+:Date: 2003 09 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Sep 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6590 +     0417   0421      0428  G12  5   XRA  1-8A      B4.7    2.6E-04   0450
+6590       0419   ////      0420  CUL  C   RSP  27-160    III/1             0450
+
+6650       0514   ////      0514  CUL  C   RSP  27-180    III/1                 
+
+6600       1146   ////      1146  SVI  C   RSP  025-180   III/1                 
+
+6610       1201   1201      1201  SVI  G   RBR  8800      96                    
+
+6620       1338   1407      1518  G12  5   XRA  1-8A      C5.3    1.6E-02   0450
+6620 +     1403   1404      1404  SAG  G   RBR  245       180               0450
+6620 +     1403   ////      1406  SVI  C   RSP  025-180   III/1             0450
+6620       1403   ////      1406  SAG  C   RSP  030-070   V/1               0450
+6620 +     1403   1404      1433  HOL  3   FLA  S16W69    SF      ERU       0450
+6620       1404   1404      1404  SAG  G   RBR  410       29                0450
+6620 +     1404   1404      1404  SAG  G   RBR  1415      29                0450
+6620 +     1404   1404      1404  SAG  G   RBR  2695      32                0450
+6620 +     1404   1404      1404  SAG  G   RBR  4995      23                0450
+
+6630       1416   1417      1417  SVI  G   RBR  410       60                    
+
+6710       1430   ////      1716  HOL  3   DSF  S38W18    19      B.0A      0000
+
+6730      A1527   ////     B0453  SVI  3   DSF  S25W26    10      B.0A      0000
+
+6690       2217   2230      2311  PAL  G   RNS  245       88                    
+
+6660       2320   ////      2320  CUL  C   RSP  130-180   III/1                 
+
+6670       2325   2325      2325  LEA  G   RBR  245       65                    
+6670 +     2325   ////      2327  CUL  C   RSP  18-220    III/3                 
+
+6680       2327   ////      2333  LEA  C   RSP  025-180   III/1                 

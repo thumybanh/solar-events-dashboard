@@ -1,0 +1,40 @@
+:Product: 19990308events.txt
+:Created: 1999 Mar 11 0302 UT
+:Date: 1999 03 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9410 +     0008   0031      0036  GO8  5   XRA  1-8A      C7.9    4.9E-03       
+
+9420 +     0352   0355      0358  GO8  5   XRA  1-8A      B5.8    1.9E-04       
+
+9430 +     0553   0559      0602  GO8  5   XRA  1-8A      B6.2    2.9E-04       
+
+9440 +     0630   0637      0643  GO8  5   XRA  1-8A      M2.6    1.0E-02   8484
+9440       0634   0635      0636  LEA  G   RBR  1415      49                    
+9440       0634   0635      0636  LEA  G   RBR  2695      64                    
+9440       0634   0635      0636  LEA  G   RBR  4995      140                   
+9440       0634   0635      0636  LEA  G   RBR  8800      590                   
+9440       0635   0635      0635  LEA  G   RBR  15400     320                   
+9440       0635   0635      0650  LEA  3   FLA  S24E93    SF                    
+9440       0638   ////      0650  CUL  C   RSP  25-200    II/3                  
+
+9450       1257   1257      1257  SAG  G   RBR  245       260                   
+9450       1257   1257      1257  SAG  G   RBR  410       95                    
+
+9460       1317   1317      1317  SAG  G   RBR  245       390                   
+
+9470       1436   ////      1436  SAG  C   RSP  030-04    III/1                 
+
+9480 +     1540   1542      1546  RAM  3   FLA  N22E71    SF                    
+
+9490       1647   1648      1650  SAG  G   RBR  410       96                    
+9490       1648   1648      1650  SAG  G   RBR  245       44                    
+9490       1648   ////      1650  SAG  C   RSP  030-06    V/2                   

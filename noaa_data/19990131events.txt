@@ -1,0 +1,48 @@
+:Product: 19990131events.txt
+:Created: 1999 Feb 03 0302 UT
+:Date: 1999 01 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1820 +     0033   ////      0033  CUL  C   RSP  20-80     III/1                 
+
+1830 +     0044   0047      0049  GO8  5   XRA  1-8A      B5.6    1.5E-04       
+
+1840       0656   ////      0656  LEA  C   RSP  030-06    III/2                 
+
+1850 +     0709   0712      0715  GO8  5   XRA  1-8A      B7.8    2.5E-04   8449
+1850       0711   0712      0715  LEA  3   FLA  N23W78    SF                8449
+
+1860       1044   ////      1044  SVI  C   RSP  055-06    III/1                 
+
+1870 +     1140   1143      1145  GO8  5   XRA  1-8A      B5.8    1.5E-04       
+
+1880       1150   1205      1219  GO8  5   XRA  1-8A      B8.8    1.2E-03       
+
+1890 +     1223   ////      1226  SVI  C   RSP  036-07    III/2                 
+
+1900       1341   1344      1349  G10  5   XRA  1-8A      B7.3    3.2E-04       
+
+1910       1423   ////      1423  SAG  C   RSP  030-04    III/1                 
+
+1920       1437   ////      1437  SAG  C   RSP  030-05    III/1                 
+
+1930 +     1625   1628      1630  GO8  5   XRA  1-8A      B4.4    1.1E-04       
+
+1940       1639   ////      1639  SAG  C   RSP  030-08    III/1                 
+
+1950 +     1713   1717      1721  GO8  5   XRA  1-8A      B5.8    2.3E-04       
+
+1960 +     1938   1942      1945  GO8  5   XRA  1-8A      B7.0    2.2E-04   8446
+1960       1941   1943      1948  RAM  3   FLA  N19W66    SF                8446
+
+1980 +     2043   2048      2053  GO8  5   XRA  1-8A      B5.9    3.0E-04       
+
+2020      A2057   ////      1243  RAM  3   DSF  S22W55    07      B.0A          

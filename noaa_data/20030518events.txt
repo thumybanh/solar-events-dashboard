@@ -1,0 +1,21 @@
+:Product: 20030518events.txt
+:Created: 2003 May 21 0302 UT
+:Date: 2003 05 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 May 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4500 +     1049   1057      1108  G12  5   XRA  1-8A      B9.8    7.9E-04       
+
+4510 +     1711   1716      1724  G12  5   XRA  1-8A      B5.3    3.2E-04   0357
+4510       1715   1715      1718  HOL  3   FLA  S18W16    SF                0357
+
+4520 +     1928   1939      1952  G10  5   XRA  1-8A      B6.3    7.8E-04       
+
+4540      B2348   ////      0446  LEA  3   BSL  ////      0.16    B.5A      0000

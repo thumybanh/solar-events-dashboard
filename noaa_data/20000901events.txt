@@ -1,0 +1,81 @@
+:Product: 20000901events.txt
+:Created: 2000 Sep 04 0302 UT
+:Date: 2000 09 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Sep 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6220       0106   0106      0106  LEA  G   RBR  245       120                   
+
+6230       0108   0108      0110  LEA  G   RBR  245       98                    
+
+6240       0118   0118      0121  LEA  G   RBR  245       91                    
+
+6250       0129   0129      0129  LEA  G   RBR  245       100                   
+
+6260       0233   0234      0234  LEA  G   RBR  245       71                    
+
+6270       0411   0413      0413  LEA  G   RBR  245       79                    
+
+6280       0423   0424      0425  LEA  G   RBR  245       68                    
+6280       0425   0505      0525  GO8  5   XRA  1-8A      C1.1    1.4E-03       
+
+6290       0459   ////      0500  LEA  C   RSP  025-146   III/1                 
+
+6300       0526   0606      0644  GO8  5   XRA  1-8A      C1.6    6.7E-03   9143
+6300 +     0540   0541      0545  LEA  G   RBR  245       86                9143
+6300 +     0540   0543      0544  LEA  G   RBR  410       43                9143
+6300 +     0541   0542      0543  LEA  G   RBR  1415      48                9143
+6300       0542   0545      0555  LEA  4   FLA  S20W18    SF      ERU       9143
+
+6310       0607   ////      0607  SVI  C   RSP  027-051   III/1                 
+
+6320 +     0608   0608      0608  LEA  G   RBR  245       100                   
+
+6340       0830   ////      0831  LEA  C   RSP  053-116   III/1                 
+
+6350 +     0849   ////      0849  SVI  C   RSP  025-063   III/2                 
+
+6360       0905   ////      0905  LEA  C   RSP  025-138   III/1                 
+
+6370       1010   1010      1010  SVI  G   RBR  245       79                    
+
+6380 +     1215   1219      1222  GO8  5   XRA  1-8A      B8.4    2.8E-04       
+6380       1217   1218      1218  SAG  G   RBR  245       160                   
+
+6390       1304   ////      1305  SVI  U   RSP  025-040   III/2                 
+
+6400       1320   1321      1325  RAM  3   FLA  S20W27    SF      DSD       9143
+
+6410 +     1534   1534      1534  SAG  G   RBR  245       85                    
+6410       1534   ////      1535  SAG  C   RSP  030-065   III/1                 
+
+6420       1645   ////      1649  HOL  C   RSP  025-063   III/1                 
+
+6430 +     1805   1820      1830  GO8  5   XRA  1-8A      C9.1    7.9E-03   9140
+6430       1810   1816      1851  HOL  3   FLA  N10W60    1N      YSR       9140
+6430       1814   1816      1823  SAG  G   RBR  245       65                9140
+6430 +     1814   1815      1823  SAG  G   RBR  1415      31                9140
+6430 +     1814   1814      1821  SAG  G   RBR  2695      110               9140
+6430 +     1815   1815      1823  SAG  G   RBR  410       33                9140
+6430 +     1815   1817      1823  SAG  G   RBR  606       42                9140
+6430       1815   1820      1823  SAG  G   RBR  4995      25                9140
+6430       1815   1821      1823  SAG  G   RBR  8800      20                9140
+6430       1816   ////      1819  HOL  C   RSP  025-073   III/1             9140
+6430 +     1827   ////      1836  SAG  C   RSP  030-075   II/2    500       9140
+
+6450 +     1847   ////      1852  SAG  C   RSP  030-052   II/2    500           
+
+6620      A2031   ////      1150  RAM  3   DSF  S35E47    10      B.0A          
+
+6630      A2031   ////      1150  RAM  3   DSF  S30W02    12      B.0A          
+
+6460 +     2252   ////      2254  HOL  C   RSP  025-092   III/1                 
+
+6470 +     2341   ////      2342  LEA  C   RSP  025-180   III/1                 

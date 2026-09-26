@@ -1,0 +1,48 @@
+:Product: 19990417events.txt
+:Created: 1999 Apr 20 0302 UT
+:Date: 1999 04 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6220       0653   0654      0704  SVI  3   FLA  S28W56    SF                8512
+
+6240       0654   0655      0706  SVI  3   FLA  S29W50    SF                8514
+
+6230       0720   ////      0723  SVI  C   RSP  035-08    V/3                   
+
+6260       1230   1230      1230  SAG  G   RBR  245       51                    
+
+6370      A1634   ////      0739  SVI  3   DSF  N18E05    25      B.0A          
+
+6310       1640   ////      1830  RAM  3   DSF  S32W15    20      B.9A          
+
+6270       1712   ////      1713  SAG  C   RSP  030-06    III/1                 
+
+6300 +     1818   ////      1824  SAG  C   RSP  030-06    III/1                 
+
+6280       1819   1819      1820  SAG  G   RBR  245       62                    
+
+6290       1821   1822      1831  RAM  3   FLA  N17W28    SF                8519
+
+6320 +     2030   2038      2044  GO8  5   XRA  1-8A      B4.6    3.2E-04   8514
+6320       2033   2034      2042  RAM  3   FLA  S31W55    SF                8514
+
+6330 +     2112   2119      2125  GO8  5   XRA  1-8A      B3.4    2.2E-04       
+
+6390      A2130   ////      1126  RAM  3   DSF  N19E03    21      B.0A          
+
+6400      A2130   ////      1126  RAM  3   DSF  S33W42    07      B.0A          
+
+6410      A2130   ////      1126  RAM  3   DSF  S17W52    11      B.0A      8513
+
+6340 +     2217   2223      2232  GO8  5   XRA  1-8A      B3.5    2.7E-04       
+
+6350 +     2335   2342      2347  GO8  5   XRA  1-8A      B6.0    3.1E-04   8514
+6350       2338   2342      2347  HOL  3   FLA  S33W55    SF                8514

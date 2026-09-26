@@ -1,0 +1,63 @@
+:Product: 20031230events.txt
+:Created: 2003 Dec 31 2102 UT
+:Date: 2003 12 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Dec 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5700       0403   0405      0525  LEA  G   RNS  245       60                    
+
+5710 +     0723   ////      0725  LEA  C   RSP  025-180   III/1                 
+
+5720 +     0741   ////      0741  LEA  C   RSP  025-180   III/1                 
+
+5730       0827   0827      0827  LEA  G   RBR  245       57                    
+
+5740 +     0902   ////      0905  LEA  C   RSP  025-180   III/1                 
+
+5750       0925   0925      0925  SVI  G   RBR  245       58                    
+
+5760       0938   ////      0939  SVI  U   RSP  028-142   III/1                 
+
+5770       1011   1011      1011  SVI  G   RBR  245       52                    
+
+5780       1030   1030      1030  SVI  G   RBR  245       58                    
+
+5790       1034   ////      1034  SVI  U   RSP  026-083   III/1                 
+
+5800 +     1148   1152      1155  G12  5   XRA  1-8A      B4.5    1.6E-04       
+5800       1149   ////      1152  SVI  C   RSP  025-151   III/1                 
+
+5810       1159   ////      1200  SVI  C   RSP  025-120   III/1                 
+
+5820 +     1247   1247      1247  SVI  G   RBR  245       59                    
+
+5830       1304   ////      1505  SVI  C   RSP  025-180   CTM/1                 
+5830       1335   ////      1335  SVI  C   RSP  026-048   III/1                 
+
+5840 +     1406   1411      1428  G12  5   XRA  1-8A      B5.2    5.8E-04   0528
+5840       1416   1416      1416  SAG  G   RBR  245       53                0528
+
+5850       1527   1527      1527  SAG  G   RBR  245       100                   
+
+5860       1540   1540      1540  SAG  G   RBR  245       74                    
+
+5870       1612   1612      1612  SAG  G   RBR  245       56                    
+
+5880       1615   1616      1616  SAG  G   RBR  245       210                   
+
+5890 +     1725   1729      1731  G12  5   XRA  1-8A      B7.9    1.9E-04   0528
+5890       1728   1728      1728  SAG  G   RBR  245       67                0528
+5890       1728   ////      1729  HOL  C   RSP  025-141   III/1             0528
+
+5900       1856   1856      1856  SAG  G   RBR  245       51                    
+
+5910 +     1934   1940      1947  G12  5   XRA  1-8A      C1.0    6.3E-04   0528
+
+5920       2134   2134      2134  PAL  G   RBR  245       120                   

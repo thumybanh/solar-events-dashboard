@@ -1,0 +1,29 @@
+:Product: 20030205events.txt
+:Created: 2003 Feb 08 0302 UT
+:Date: 2003 02 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6500      B1411  U1411      1416  RAM  3   FLA  S16E63    SF                0277
+
+6510      B1547  U1547      1553  RAM  3   FLA  N20E73    SF                0278
+
+6520      B1651  U1651      1701  RAM  3   FLA  N20E69    SF                0278
+
+6530 +     1729   1733      1739  GO8  5   XRA  1-8A      B7.7    4.2E-04       
+
+6540 +     2026   2037      2049  GO8  5   XRA  1-8A      C2.1    2.2E-03       
+
+6570       2112   ////      2112  CUL  C   RSP  23-45     III/1                 
+
+6550 +     2135   2139      2144  GO8  5   XRA  1-8A      C2.2    1.0E-03       
+
+6560       2317   2317      2317  LEA  G   RBR  245       57                    
+6560 +     2317   ////      2317  CUL  C   RSP  75-340    III/1                 

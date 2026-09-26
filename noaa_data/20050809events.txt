@@ -1,0 +1,24 @@
+:Product: 20050809events.txt
+:Created: 2005 Aug 12 0329 UT
+:Date: 2005 08 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Aug 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5230 +     0023   0028      0031  G12  5   XRA  1-8A      B2.7    9.1E-05   0792
+5230       0028   0028      0030  G12  5   XFL  N12W73    2.3E+02 4.3E+02   0792
+
+5240       0847   ////      0731  LEA  C   RSP  117-180   CTM/1                 
+
+5250 +     1143   1148      1151  G12  5   XRA  1-8A      B1.7    6.7E-05   0796
+5250       1148   1148      1150  G12  5   XFL  S07W76    1.5E+02 2.8E+02   0796
+
+5260 +     1204   1207      1209  G12  5   XRA  1-8A      B1.5    4.3E-05       
+
+5270 +     1841   1846      1853  G12  5   XRA  1-8A      B1.7    1.1E-04       

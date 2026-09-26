@@ -1,0 +1,77 @@
+:Product: 20011121events.txt
+:Created: 2001 Nov 24 0300 UT
+:Date: 2001 11 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Nov 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5300       0000   ////      0000  CUL  C   RSP  57-120    CTM/1                 
+
+5070       0125   0127      0131  GO8  5   XRA  1-8A      C1.6    5.4E-04   9704
+5070       0126   0127      0129  LEA  3   FLA  S18W12    SF      ERU       9704
+
+5080       0249   0249      0249  LEA  G   RBR  1415      83                    
+
+5090       0409   0411      0418  LEA  G   RBR  1415      95                9704
+5090       0410   0428      0449  GO8  5   XRA  1-8A      C2.4    4.3E-03   9704
+5090       0414   0418      0502  LEA  2   FLA  S14W12    SF      ERU       9704
+
+5200 +    A0710   ////     B2216  LEA  2   DSF  N33W04    16      B.0A      9704
+
+5100 +     0729   0734      0747  GO8  5   XRA  1-8A      C3.5    2.8E-03       
+5100       0730   0734      0740       F   RBR  3000      15                    
+5100 +     0731   0734      0737  SVI  G   RBR  4995      72                    
+5100 +     0733   0733      0734  LEA  G   RBR  8800      75                    
+5100       0733   0734      0734  SVI  G   RBR  15400     35                    
+
+5110 +     0827   0833      0839  GO8  5   XRA  1-8A      C3.7    2.0E-03   9704
+5110      B0833  U0837      0842  SVI  3   FLA  S18W15    SF      ERU       9704
+
+5120 +     0850   0900      0904  GO8  5   XRA  1-8A      C2.7    1.7E-03       
+
+5130 +     0947   0951      0954  GO8  5   XRA  1-8A      C1.4    5.1E-04   9704
+5130       0949   0951      0954  SVI  3   FLA  S21W15    SF                9704
+
+5140 +     1005   1008      1013  GO8  5   XRA  1-8A      C1.8    7.2E-04   9704
+5140       1007   1007      1013  SVI  3   FLA  S18W17    SF                9704
+
+5150 +     1100   1110      1119  GO8  5   XRA  1-8A      C4.4    3.3E-03   9704
+5150 +     1106  U1111      1130  SVI  3   FLA  S20W17    SF      ERU       9704
+
+5200       1207   1458      1650  GO8  5   XRA  1-8A      C4.7    5.8E-02   9704
+
+5160       1214   ////      1216  SVI  C   RSP  052-180   III/1                 
+
+5200 +     1239   1520      1602  COM  3   FLA  S14W19    SF      ERU       9704
+5200 +     1255   1437      1647  SAG  G   RNS  245       330               9704
+5200       1256   ////      1324  SVI  C   RSP  025-180   CTM/1             9704
+
+5180       1308   1308      1311  RAM  3   FLA  S20W17    SF                9704
+
+5190       1314   1316      1320  RAM  3   FLA  S13W18    SF                9704
+
+5230       1338   1338      1338  SAG  G   RBR  410       72                    
+
+5220 +     1348   1430      1448  SAG  G   RNS  410       110                   
+
+5200       1355   ////      1808  HOL  C   RSP  064-180   IV/1              9704
+
+5460      A1458   ////     B0653  SVI  3   DSF  S27W01    11      B.0A          
+
+5210       1504   1505      1516  RAM  3   FLA  S20W18    SF                9704
+
+5270       1517   1527      1611  RAM  3   FLA  S15W20    SF      ERU       9704
+
+5250       1748   1752      1758  GO8  5   XRA  1-8A      C2.8    1.6E-03   9704
+5250       1751   1752      1755  RAM  3   FLA  S20W21    SF      ERU       9704
+
+5260       1805   1818      1824  GO8  5   XRA  1-8A      C6.3    5.3E-03   9704
+5260 +     1808   1818      1838  RAM  3   FLA  S20W21    SF      ERU       9704
+
+5460       2035   2040      2048  GO8  5   XRA  1-8A      C1.4    1.1E-03       

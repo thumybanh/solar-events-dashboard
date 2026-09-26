@@ -1,0 +1,60 @@
+:Product: 20030104events.txt
+:Created: 2003 Jan 07 0302 UT
+:Date: 2003 01 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 730       0002   0003      0008  LEA  3   FLA  S23E51    SF      ERU       0244
+
+ 740       0141   0141      0141  PAL  G   RBR  245       360                   
+ 740       0141   0141      0141  PAL  G   RBR  410       77                    
+
+ 750       0142   0142      0142  LEA  G   RBR  245       290                   
+ 750       0142   0142      0142  LEA  G   RBR  410       73                    
+ 750 +     0142   ////      0142  LEA  C   RSP  065-180   III/1                 
+
+ 760       0358   0402      0426  LEA  3   FLA  S19W37    SF      ERU       0243
+
+ 770 +     0521   0524      0528  GO8  5   XRA  1-8A      B9.0    3.4E-04   0243
+ 770       0521   0524      0538  LEA  3   FLA  S20W39    SF      ERU       0243
+
+ 780       0610   0630      0643  GO8  5   XRA  1-8A      B9.2    1.5E-03   0243
+ 780       0619   0619      0626  LEA  3   FLA  S19W39    SF                0243
+
+ 790 +     0806   0813      0819  GO8  5   XRA  1-8A      C1.0    7.0E-04   0243
+ 790       0810   0815      0826  LEA  3   FLA  S20W41    SF      ERU       0243
+
+ 800 +     0853   0903      0916  GO8  5   XRA  1-8A      C1.9    2.0E-03   0244
+ 800 +     0858   0904      0917  SVI  3   FLA  S28E47    SF                0244
+
+ 810       0930   0932      0941  LEA  2   FLA  S23E48    SF                0244
+
+ 820       1000   1000      1000  LEA  G   RBR  245       62                    
+ 820       1000   1000      1000  LEA  G   RBR  410       70                    
+
+ 830 +     1050   1057      1107  GO8  5   XRA  1-8A      C1.0    8.8E-04   0243
+
+ 840 +     1127   1132      1138  GO8  5   XRA  1-8A      C1.4    7.7E-04   0243
+ 840      B1132  U1132      1136  RAM  2   FLA  S20W40    SF      ERU       0243
+
+ 850       1508   1511      1514  RAM  3   FLA  S20W44    SF      ERU       0243
+
+ 860       1516   1533     A1544  RAM  3   FLA  S19W43    SF                0243
+ 860       1525   1530      1534  GO8  5   XRA  1-8A      B7.0    3.6E-04   0243
+
+ 870       1638   1703      1720  GO8  5   XRA  1-8A      C1.3    2.4E-03   0244
+ 870       1649   1657      1715  RAM  3   FLA  S23E43    SF                0244
+
+ 880       1800   1808      1814  GO8  5   XRA  1-8A      B8.3    6.5E-04   0243
+ 880       1801   1806      1816  RAM  3   FLA  S19W45    SF      ERU       0243
+
+1020      A2046   ////     B1125  RAM  2   DSF  ////      23      B.0A      0000
+
+ 900 +     2319   2322      2324  GO8  5   XRA  1-8A      B6.5    1.6E-04   0243

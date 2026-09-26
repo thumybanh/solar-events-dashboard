@@ -1,0 +1,50 @@
+:Product: 20050821events.txt
+:Created: 2005 Aug 24 0329 UT
+:Date: 2005 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6250 +    B0000   2346     A2359  COM  G   RNS  245       200                   
+
+6180 +     0054   0100      0105  G12  5   XRA  1-8A      B8.0    4.2E-04   0798
+6180       0058   0104      0104  G12  5   XFL  S09W37    4.0E+02 7.5E+02   0798
+
+6250 +     0125   0235      0407  PAL  G   RNS  410       93                    
+
+6260       0425   ////      1719  SVI  C   RSP  025-180   CTM/1                 
+
+6190 +     0558   ////      0605  CUL  C   RSP  20-180    III/2                 
+
+6200 +     0613   ////      0616  CUL  C   RSP  20-180    III/3                 
+
+6210       0634   0634      0634  SVI  U   RBR  245       400                   
+
+6220 +     1006   1019      1024  G12  5   XRA  1-8A      C2.8    1.5E-03   0798
+6220       1010   1022      1022  G12  5   XFL  S09W42    2.2E+03 7.3E+03   0798
+6220       1017   ////      2315  SAG  C   RSP  112-180   CTM/1             0798
+
+6230       1352   ////      1352  SAG  C   RSP  030-180   III/1                 
+
+6240 +     1431   1437      1443  G12  5   XRA  1-8A      B4.6    2.7E-04   0799
+6240       1438   1442      1442  G12  5   XFL  S10W90    3.8E+02 7.7E+02   0799
+
+6270 +     1501   1505      1507  G12  5   XRA  1-8A      B4.0    1.2E-04   0799
+6270       1506   1506      1506  G12  5   XFL  S10W90    1.3E+02 2.2E+02   0799
+
+6320       1654   ////      0100  PAL  C   RSP  081-180   CTM/1                 
+
+6280       1943   1946      1948  G12  5   XRA  1-8A      B2.4    6.0E-05       
+
+6290       1955   ////      1955  PAL  C   RSP  025-062   III/1                 
+
+6300 +     2230   2234      2239  G12  5   XRA  1-8A      B3.9    1.9E-04   0798
+6300       2236   2238      2238  G12  5   XFL  S10W49    2.0E+02 3.7E+02   0798
+
+6330       2246   ////      0059  LEA  C   RSP  067-180   CTM/1                 

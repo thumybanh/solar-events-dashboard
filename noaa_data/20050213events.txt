@@ -1,0 +1,56 @@
+:Product: 20050213events.txt
+:Created: 2005 Feb 16 0302 UT
+:Date: 2005 02 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Feb 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7250       0000   ////      0000  CUL  C   RSP  20-100    CTM/1                 
+
+7260      B0003   0010      0014  CUL  3   FLA  S09E50    1F                    
+
+7270       0020   ////      0020  CUL  C   RSP  18-90     III/3                 
+
+7280      B0240   0240      0244  CUL  3   FLA  S08E48    SF                    
+
+7210       0700   ////      1200  IZM  F   RNS  204       103                   
+
+7170 +     1028   1040      1051  G12  5   XRA  1-8A      C2.7    2.2E-03   0733
+7170       1030   ////      1034  SVI  C   RSP  025-180   III/1             0733
+7170       1032   1043      1050  G12  5   XFL  S11E09    3.4E+03 1.4E+04   0733
+7170       1033   1034      1037  SVI  U   RBR  245       580               0733
+7170       1033   1033      1055  SVI  U   RBR  410       150               0733
+7170 +     1035   1036      1039  SVI  G   RBR  2695      40                0733
+7170       1036   1036      1040  SVI  G   RBR  4995      29                0733
+7170       1037   1037      1038  SVI  G   RBR  1415      25                0733
+7170 +     1041   ////      1047  LEA  C   RSP  025-058   II/1    813       0733
+7170       1042   1058      1102  SVI  U   RBR  606       240               0733
+
+7210 +    U1205   1711     U2125  SAG  G   RNS  245       170                   
+
+7180       1209   1213      1218  G10  5   XRA  1-8A      B4.1    2.0E-04       
+
+7190       1339   1342      1345  SAG  G   RBR  245       250                   
+
+7200      U1415  U1415      1415  SAG  G   RBR  245       200                   
+
+7220 +     1450   1458      1504  G12  5   XRA  1-8A      C1.4    7.7E-04   0734
+7220       1453   1501      1503  G12  5   XFL  S06E21    1.9E+03 4.3E+03   0734
+7220       1454   1454      1503  HOL  3   FLA  S05E23    SF      ERU       0734
+
+7290       1720   ////      0411  PAL  C   RSP  108-180   CTM/1                 
+
+7230 +     1724   1729      1733  G12  5   XRA  1-8A      B5.6    2.0E-04   0734
+7230       1728   1731      1732  G12  5   XFL  S05E19    3.8E+02 8.4E+02   0734
+
+7240 +     2223   2230      2250  G12  5   XRA  1-8A      B3.3    4.8E-04       
+7240      B2223   2230      2236  CUL  3   FLA  S10E37    SF                    
+7240       2228   2228      2248  G12  5   XFL  S54W90                          
+7240       2230   ////      0401  LEA  C   RSP  082-180   CTM/1                 
+7240       2238   2239      2239  PAL  G   RBR  410       74                    

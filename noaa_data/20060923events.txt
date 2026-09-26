@@ -1,0 +1,19 @@
+:Product: 20060923events.txt
+:Created: 2006 Sep 26 0329 UT
+:Date: 2006 09 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Sep 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6200 +     0001   0003      0004  LEA  3   FLA  S08W08    SF      ERU       0910
+
+6210       1059   ////      1106  SVI  C   RSP  025-083   III/1                 
+6210       1106   ////      1114  SVI  C   RSP  025-140   II/1    711           
+
+6220       1145   ////      1146  SAG  C   RSP  030-180   III/1                 

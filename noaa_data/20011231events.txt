@@ -1,0 +1,47 @@
+:Product: 20011231events.txt
+:Created: 2005 Jul 27 2016 UT
+:Date: 2001 12 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5850       0015   0015      0016  LEA  G   RBR  1415      84                    
+
+5870       0130   ////      0130  LEA  C   RSP  037-180   III/1                 
+
+5880 +     0415   0419      0422  GO8  5   XRA  1-8A      C3.8    1.2E-03       
+
+5890       0457   0457      0458  LEA  G   RBR  606       250               9767
+5890       0457   0458      0503  LEA  3   FLA  S20E74    SF                9767
+
+5900       0515   0515      0516  LEA  G   RBR  410       180                   
+
+5910       0616   0619      0626  LEA  3   FLA  S20E68    SF                9767
+
+5920       1145   ////      1147  SVI  C   RSP  025-124   III/1                 
+
+5930 +     1234   1238      1240  GO8  5   XRA  1-8A      C3.7    9.6E-04       
+
+5950       1504   1504      1508  RAM  3   FLA  N06W56    SF      ERU       9751
+
+5960       1611   1611      1613  SAG  G   RBR  245       53                    
+
+5970       1632   1633      1633  SAG  G   RBR  245       100                   
+
+5980       1642   1642      1642  SAG  G   RBR  245       58                    
+
+5990       1655   1655      1655  SAG  G   RBR  245       110                   
+
+6000       1838   1844      1859  RAM  3   FLA  S09W46    1F      ERU       9754
+6000 +     1841   1845      1849  GO8  5   XRA  1-8A      C6.7    2.4E-03   9754
+6000       1843   1843      1844  SAG  G   RBR  1415      34                9754
+6000       1843   1843      1844  SAG  G   RBR  2695      49                9754
+6000       1843   1843      1844  SAG  G   RBR  4995      44                9754
+
+6010       1920   1923      2014  RAM  3   FLA  S31E11    SF      ERU       9756

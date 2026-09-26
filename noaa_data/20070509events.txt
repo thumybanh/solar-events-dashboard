@@ -1,0 +1,20 @@
+:Product: 20070509events.txt
+:Created: 2007 May 13 2332 UT
+:Date: 2007 05 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 May 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 150       0014   ////      0014  CUL  C   RSP  30-80     III/1                 
+
+ 160 +     0137   0156      0208  G11  5   XRA  1-8A      B7.7    9.7E-04       
+
+ 170       0734   0734      0734  LEA  G   RBR  245       120                   
+
+ 180 +     1336   1401      1428  G11  5   XRA  1-8A      B6.3    1.5E-03       

@@ -1,0 +1,55 @@
+:Product: 19981016events.txt
+:Created: 1998 Oct 19 0302 UT
+:Date: 1998 10 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7160 +     0142   0142      0142  LEA  U   RBR  245       130                   
+
+7170       0223   0224      0224  LEA  U   RBR  245       55                    
+
+7180       0247   0248      0248  PAL  U   RBR  245       74                    
+
+7210       0340   0340      0340  PAL  U   RBR  245       56                    
+
+7220       0349   ////      0349  LEA  C   RSP  030-04    III/1                 
+
+7230       0358   0358      0359  LEA  U   RBR  245       58                    
+
+7240 +     0507   0511      0513  GO8  5   XRA  1-8A      B6.5    2.0E-04       
+
+7270 +     0514   0528      2359  COM  G   RNS  245       270                   
+
+7250       0519   0519      0526  LEA  3   FLA  N15W32    SF                8358
+
+7280       0519   0520      0535  LEA  3   FLA  S19W30    SF                8360
+
+7270       0526   0526      0549  SVI  G   RNS  410       150                   
+
+7260 +     0539   0542      0546  GO8  5   XRA  1-8A      B5.8    2.2E-04       
+
+7290       0607   0640      0718  SVI  3   FLA  S19W31    SF      ERU       8360
+7290 +     0637   0645      0700  GO8  5   XRA  1-8A      C1.0    1.3E-03   8360
+
+7300 +     0709   0711      0723  SVI  3   FLA  N16W29    SF      ERU       8358
+
+7310       0822   0846      0926  GO8  5   XRA  1-8A      C1.1    3.5E-03       
+
+7320       1200   1204      1204  SAG  G   RBR  245       76                    
+
+7330       1359   1412      1420  SVI  3   FLA  N15W35    SF                8358
+
+7340 +     1450   1453      1456  GO8  5   XRA  1-8A      B7.2    2.4E-04       
+7340 +     1452   1452      1500  RAM  3   FLA  S19W34    SF                8360
+
+7480      A1639   ////      1149  RAM  3   DSF  N31W03    10      B.0A          
+
+7350 +     2123   2131      2136  GO8  5   XRA  1-8A      C2.7    1.5E-03   8358
+7350       2126   2131      2150  HOL  3   FLA  N15W38    SF                8358

@@ -1,0 +1,77 @@
+:Product: 19991216events.txt
+:Created: 1999 Dec 19 0302 UT
+:Date: 1999 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1990       0034   ////      0034  LEA  C   RSP  045-05    III/1                 
+
+2000       0249   0251      0306  LEA  4   FLA  S15E49    SF                8798
+
+2050       0258   0258      0259  LEA  G   RBR  245       77                    
+
+2040 +     0301   0302      0305  LEA  G   RBR  245       180                   
+2040 +     0301   0302      0303  LEA  G   RBR  410       63                    
+
+2010       0308   0308      0308  LEA  G   RBR  245       190                   
+
+2020 +     0309   0314      0318  GO8  5   XRA  1-8A      C2.5    1.1E-03   8798
+2020       0311   0313      0332  LEA  4   FLA  S15E48    SF                8798
+
+2030       0450   0452      0452  LEA  G   RBR  245       340                   
+2030       0450   ////      0453  LEA  C   RSP  030-08    III/2                 
+
+2060 +     0651   0651      0653  LEA  G   RBR  245       260                   
+2060       0652   ////      0652  LEA  C   RSP  043-08    III/2                 
+
+2070 +     0703   0703      0703  LEA  G   RBR  245       230                   
+
+2080 +     0720   0724      0729  GO8  5   XRA  1-8A      C2.4    1.1E-03   8798
+2080       0723   0723      0734  LEA  4   FLA  S13E46    SF      ERU       8798
+
+2090 +     0735   0736      0739  SVI  G   RBR  410       570                   
+2090       0736   0737      0742  SVI  G   RBR  606       34                    
+2090 +     0736   0740      0741  SVI  G   RBR  245       2800                  
+2090 +     0736   0737      0742  SVI  G   RBR  606       34                    
+2090       0736   0737      0737  LEA  U   RBR  15400     25                    
+2090 +     0736   0737      0744  SVI  G   RBR  1415      140                   
+2090 +     0736   0737      0737  SVI  G   RBR  8800      63                    
+2090 +     0736   0737      0745  SVI  G   RBR  2695      140                   
+2090 +     0736   0737      0740  SVI  G   RBR  4995      100                   
+2090       0737   ////      0738  LEA  C   RSP  051-08    III/1                 
+2090       0744   ////      0747  LEA  C   RSP  050-07    II/1    500           
+
+2110 +     0820   ////      0820  LEA  C   RSP  045-08    III/2                 
+
+2120 +     0831   0836      0845  GO8  5   XRA  1-8A      C2.2    1.5E-03   8794
+2120       0833   0836      0851  LEA  3   FLA  S15W17    SF      ERU       8794
+
+2130       0838   0838      0844  LEA  3   FLA  S14E46    SF      ERU       8798
+
+2140       0958   0959      0959  SVI  G   RBR  245       57                    
+2140       0958   0959      0959  SVI  G   RBR  410       20                    
+2140       0959   0959      0959  SVI  G   RBR  8800      49                    
+
+2150       1048   1049      1049  SVI  G   RBR  245       270                   
+
+2160       1053   1053      1054  SVI  G   RBR  245       95                    
+
+2170       1715   1722      1748  HOL  3   FLA  S13E37    SF                8798
+
+2180       1913   1914      1914  PAL  G   RBR  245       310                   
+
+2190 +     1952   1953      1953  PAL  G   RBR  245       330                   
+
+2200 +     2010   2015      2019  GO8  5   XRA  1-8A      C3.5    1.5E-03       
+2200 +     2012   2014      2018  PAL  G   RBR  245       3200                  
+2200       2013   ////      2013  PAL  C   RSP  129-18    III/1                 
+2200       2016   2016      2017  PAL  G   RBR  1415      22                    
+2200       2016   2016      2017  PAL  G   RBR  2695      27                    
+2200       2016   2018      2018  PAL  G   RBR  4995      73                    

@@ -1,0 +1,48 @@
+:Product: 20030430events.txt
+:Created: 2003 May 02 0302 UT
+:Date: 2003 04 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Apr 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1280       0001   0001      0003  LEA  G   RBR  245       64                    
+
+1300 +     0125   0128      0131  G10  5   XRA  1-8A      C1.0    3.1E-04   0349
+
+1310       0356   ////      0356  CUL  C   RSP  30-180    III/1                 
+
+1320 +     0506   0509      0512  G10  5   XRA  1-8A      B8.8    2.8E-04   0349
+
+1330 +     0730   0731      0731  SVI  G   RBR  2695      51                    
+
+1340 +     0842   0846      0848  G10  5   XRA  1-8A      B8.5    2.4E-04   0349
+
+1350 +     1250   1250      1250  SVI  G   RBR  245       210               0340
+1350 +     1250   ////      1251  SVI  C   RSP  025-078   III/2             0340
+1350       1251   1252      1259  SVI  3   FLA  S12W52    SF                0340
+
+1370 +     1335   ////      1335  SAG  C   RSP  030-080   III/2                 
+
+1380 +     1448   1448      1449  SAG  G   RBR  410       270                   
+1380       1448   1449      1449  SAG  G   RBR  606       49                    
+
+1390 +     1513   ////      1521  SVI  C   RSP  025-175   III/1                 
+
+1400       1549   1553      1558  G10  5   XRA  1-8A      B9.2    4.5E-04   0349
+
+1410 +     1611   ////      1611  HOL  C   RSP  025-073   III/1                 
+
+1450       1718   1815      1919  G10  5   XRA  1-8A      C1.1    6.9E-03   0345
+
+1420 +     1915   1915      1915  SAG  G   RBR  245       79                    
+
+1430       2031   2031      2031  SAG  G   RBR  245       51                    
+
+1440 +     2250   2254      2300  G10  5   XRA  1-8A      B7.8    4.1E-04   0349
+1440       2300   ////      2301  HOL  C   RSP  025-070   III/1                 

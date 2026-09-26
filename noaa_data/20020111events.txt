@@ -1,0 +1,55 @@
+:Product: 20020111events.txt
+:Created: 2002 Jan 13 0300 UT
+:Date: 2002 01 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8070       0138   ////      0139  LEA  C   RSP  025-180   III/1                 
+
+8080       0155   ////      0155  LEA  C   RSP  025-089   III/1                 
+
+8090 +     0324   0328      0335  GO8  5   XRA  1-8A      C3.7    2.2E-03       
+
+8100       0650   0653      0658  LEA  3   FLA  S06W08    SF                9775
+
+8110 +     0753   0807      0831  GO8  5   XRA  1-8A      M1.0    1.7E-02   9767
+
+8150       0755   0800      0809  LEA  3   FLA  N30E36    SF      ERU       9779
+
+8110       0756   0757      0810  LEA  G   RBR  1415      27                9767
+8110 +     0757   0801      0816  LEA  3   FLA  S19W79    SF                9767
+8110       0757   0757      0810  LEA  G   RBR  2695      25                9767
+
+8120       0918   0918      0931  LEA  2   FLA  N12W26    SF                9773
+
+8130       0945   0947      0952  LEA  2   FLA  N31E35    SF                9779
+
+8140       0954   0957      0958  LEA  2   FLA  N15W21    SF                9773
+
+8160 +     1222   1236      1242  GO8  5   XRA  1-8A      C4.2    3.8E-03   9773
+8160 +     1224   1236      1245  COM  3   FLA  N13W27    SF      ERU       9773
+
+8170 +     1319   1329      1337  GO8  5   XRA  1-8A      C6.1    5.8E-03   9773
+8170       1321   1328      1340  RAM  3   FLA  N17W22    SF                9773
+
+8180       1333   1334      1342  RAM  3   FLA  S04W09    SF                9775
+
+8190 +     1844   1848      1850  GO8  5   XRA  1-8A      C3.7    9.7E-04   9775
+8190 +     1847   1848      1855  RAM  3   FLA  S06W16    SF                9775
+
+8200 +     1955   2007      2020  GO8  5   XRA  1-8A      C7.3    7.6E-03   9773
+8200       1958   2007      2019  HOL  3   FLA  N16W27    SF      ERU       9773
+
+8210       2038   2052      2057  GO8  5   XRA  1-8A      C4.8    4.2E-03   9775
+8210       2049   2053      2100  HOL  3   FLA  S05W15    SF      ERU       9775
+
+8220       2311   2311      2311  PAL  G   RBR  410       160                   
+
+8230       2313   2313      2313  PAL  G   RBR  245       53                    

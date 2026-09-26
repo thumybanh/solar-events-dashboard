@@ -1,0 +1,61 @@
+:Product: 19980802events.txt
+:Created: 1998 Aug 05 0302 UT
+:Date: 1998 08 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Aug 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7660 +     0009   0015      0019  G10  5   XRA  1-8A      B7.0    2.8E-04       
+
+7680 +     0422   0432      0438  GO8  5   XRA  1-8A      B5.1    4.2E-04       
+
+7690 +     0450   0513      0532  G10  5   XRA  1-8A      C1.7    2.7E-03       
+7690 +     0511   ////      0511  SVI  C   RSP  035-05    III/2                 
+
+7700 +     0711   0715      0717  GO8  5   XRA  1-8A      B8.2    1.8E-04       
+7700       0714   0715      0717  SVI  3   FLA  S18E79    SF                    
+
+7710 +     0814   0818      0822  GO8  5   XRA  1-8A      B6.1    2.1E-04       
+7710 +     0817   0817      0818  LEA  G   RBR  606       76                    
+
+7720 +     0846   0852      0854  GO8  5   XRA  1-8A      B9.2    3.1E-04       
+7720       0849   0855      0910  SVI  3   FLA  S19E78    1F                    
+7720 +     0851   0851      0851  LEA  G   RBR  606       130                   
+7720       0851   ////      0859  SVI  C   RSP  035-05    III/2                 
+
+7730       0943   ////      0943  SVI  C   RSP  035-05    III/1                 
+
+7740 +     1014   1019      1029  G10  5   XRA  1-8A      B5.8    4.2E-04       
+
+7750       1044   ////      1045  SAG  C   RSP  030-05    III/1                 
+
+7760 +     1151   1156      1201  G10  5   XRA  1-8A      B8.9    3.8E-04       
+
+7770 +     1411   1415      1419  GO8  5   XRA  1-8A      B3.5    1.5E-04       
+
+7780 +     1424   ////      1426  SVI  C   RSP  035-06    III/2                 
+
+7790 +     1459   1503      1506  GO8  5   XRA  1-8A      B3.6    1.2E-04       
+
+7800       1521   1523      1524  SAG  G   RBR  245       51                    
+
+7810 +     1525   1530      1536  GO8  5   XRA  1-8A      B3.8    2.3E-04   8293
+7810 +     1527   1530      1534  HOL  3   FLA  S21E74    SF                8293
+
+8030      A1556   ////      0504  SVI  3   DSF  S39W44    14      B.0A          
+
+7820 +     1619   1623      1626  GO8  5   XRA  1-8A      B6.5    1.9E-04       
+
+7850       2212   ////      2214  CUL  C   RSP  26-170    III/1                 
+
+8040      A2238   ////      1045  RAM  3   DSF  S57W06    12      B.0A          
+
+7860       2250   ////      2251  CUL  C   RSP  50-170    III/1                 
+
+7830      A2329   ////      1526  HOL  3   DSF  N11E05    11      B.0A          

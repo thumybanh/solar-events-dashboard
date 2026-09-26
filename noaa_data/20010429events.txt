@@ -1,0 +1,65 @@
+:Product: 20010429events.txt
+:Created: 2001 May 02 0302 UT
+:Date: 2001 04 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Apr 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3990 +     0029   ////      0030  CUL  C   RSP  35-280    III/1                 
+
+4210       0120   ////      0120  CUL  C   RSP  50-160    III/1                 
+
+4220       0259   ////      0259  CUL  C   RSP  50-180    III/1                 
+
+4000 +     0351   0354      0356  GO8  5   XRA  1-8A      C1.8    4.5E-04   9433
+4000       0354   0355      0401  LEA  3   FLA  N18W46    SF                9433
+
+4010       0405   0408      0418  LEA  3   FLA  N23E71    SF                9445
+
+4230       0650   ////      0650  CUL  C   RSP  50-180    III/1                 
+
+4020       0654   0655      0655  LEA  U   RBR  410       62                    
+
+4030 +     0823   0828      0831  GO8  5   XRA  1-8A      C2.1    8.6E-04       
+
+4040 +     0844   ////      0850  LEA  C   RSP  025-180   III/1                 
+
+4050 +     0906   ////      0906  LEA  C   RSP  025-150   III/1                 
+
+4060 +     0908   0930      0938  GO8  5   XRA  1-8A      C3.0    4.2E-03       
+
+4070 +     1057   1101      1107  GO8  5   XRA  1-8A      C1.9    9.4E-04       
+
+4080       1247   1249      1251  SVI  3   FLA  N18W52    SF      ERU       9433
+
+4090 +     1414   1417      1422  HOL  3   FLA  N23E70    SF                9445
+
+4100 +     1455   ////      1458  SVI  C   RSP  025-180   III/2                 
+
+4110 +     1635   1639      1643  GO8  5   XRA  1-8A      C2.0    8.5E-04       
+
+4120       1725   1727      1732  GO8  5   XRA  1-8A      C1.4    5.4E-04   9445
+4120 +     1726   1727      1731  RAM  3   FLA  N19E63    SF                9445
+
+4130 +     1742   1746      1748  GO8  5   XRA  1-8A      C2.4    6.7E-04   9445
+4130 +     1743   1745      1749  HOL  3   FLA  N23E67    SF                9445
+
+4140 +     1921   1924      1926  GO8  5   XRA  1-8A      C2.7    5.9E-04   9445
+4140       1922   1925      1932  HOL  3   FLA  N25E60    SF                9445
+
+4180       2004   2046      2115  GO8  5   XRA  1-8A      C2.6    8.4E-03       
+4180       2054   ////      2055  SAG  C   RSP  030-070   III/1                 
+
+4160       2120   2125      2130  HOL  3   FLA  N18E61    SF                9445
+
+4170       2159   2200      2207  HOL  3   FLA  N18E61    SF                9445
+
+4190       2210   2214      2215  HOL  3   FLA  N18E59    SF                9445
+
+4200 +     2323   2327      2329  GO8  5   XRA  1-8A      C3.2    7.0E-04       

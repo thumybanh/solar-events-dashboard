@@ -1,0 +1,46 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0502 UT 7 Dec 1997
+
+EDITED EVENTS for 1997 Dec 04
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+320        0010   0010      0011  LEA  G   RBR  245       71
+320  +     0011   ////      0011  CUL  C   RSP  20-180    III/2
+
+330  +     0048   ////      0048  LEA  C   RSP  030-07    III/2
+330        0051   ////      0051  LEA  C   RSP  030-05    V/1
+
+350  +     0121   0129      0141  GO9  5   XRA  1-8A      B7.1    6.6E-04   8113
+350        0127   0127      0133  LEA  3   FLA  N20W15    SF                8113
+
+360  +     0212   ////      0218  LEA  C   RSP  030-08    III/2
+
+370        0523   ////      0524  LEA  C   RSP  030-08    V/3
+370        0524   ////      0524  CUL  C   RSP  20-170    III/3
+
+380  +     0541   0554      0606  GO9  5   XRA  1-8A      C1.4    1.7E-03   8113
+380        0543   0550      0604  LEA  3   FLA  N21W17    SF                8113
+380        0547   0552      0554  LEA  G   RBR  410       41                8113
+380        0547   0550      0554  LEA  G   RBR  2695      32                8113
+380        0547   0550      0554  LEA  G   RBR  4995      14                8113
+380        0548   0552      0554  LEA  G   RBR  245       38                8113
+380        0548   0549      0554  LEA  G   RBR  606       25                8113
+380        0548   0551      0554  LEA  G   RBR  1415      19                8113
+
+390        0645   ////      0645  LEA  C   RSP  030-08    III/2
+
+400        0720   ////      0721  LEA  C   RSP  030-05    III/1
+
+410        1300   1300      1300  SAG  G   RBR  245       53
+
+420  +     1402   1402      1403  SAG  G   RBR  245       66
+
+430  +     1415   1415      1415  SAG  G   RBR  245       50
+
+440  +     1432   ////      1434  SVI  C   RSP  035-08    V/3
+
+450        2101   ////      2102  PAL  C   RSP  025-04    III/1
+
+460  +     2325   2332      2338  GO9  5   XRA  1-8A      B4.1    2.6E-04   8113
+460        2329   2333      2344  LEA  3   FLA  N22W25    SF      ERU       8113

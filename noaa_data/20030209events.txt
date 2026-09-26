@@ -1,0 +1,17 @@
+:Product: 20030209events.txt
+:Created: 2003 Feb 12 0302 UT
+:Date: 2003 02 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6960      B1503  U1503      1510  RAM  3   FLA  S08W06    SF      ERU       0280
+
+6970 +     2040   2050      2058  GO8  5   XRA  1-8A      B9.4    8.3E-04   0276
+6970      B2043  U2043      2051  RAM  3   FLA  S14W23    SF      ERU       0276

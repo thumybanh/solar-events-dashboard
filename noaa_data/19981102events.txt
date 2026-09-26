@@ -1,0 +1,42 @@
+:Product: 19981102events.txt
+:Created: 1998 Nov 05 0302 UT
+:Date: 1998 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9500      B0241   ////      0309  LEA  4   EPL  N57E90    0.16    B.6A          
+
+9510 +     0716   ////      0717  CUL  C   RSP  23-110    III/2                 
+
+9520 +     0749   ////      0750  LEA  C   RSP  030-08    III/2                 
+
+9530 +     0956   0959      1003  GO8  5   XRA  1-8A      B5.8    2.2E-04       
+
+9540 +     1348   1358      1518  RAM  3   FLA  S25E45    1F      PRB           
+
+9550 +     1355   1409      1433  GO8  5   XRA  1-8A      C4.4    8.5E-03       
+
+9540 +     1356   ////      1402  SAG  C   RSP  030-08    V/2                   
+9540 +     1356   1356      1358  SVI  G   RBR  410       76                    
+9540 +     1357   1358      1415  SAG  G   RBR  1415      140                   
+9540 +     1357   1358      1415  SAG  G   RBR  2695      140                   
+9540 +     1357   1401      1415  SAG  G   RBR  4995      54                    
+9540 +     1358   1359      1401  SAG  G   RBR  245       19                    
+9540 +     1358   1400      1409  SAG  G   RBR  606       20                    
+9540 +     1358   1404      1413  SAG  G   RBR  8800      33                    
+9540       1358   1402      1405  SAG  G   RBR  15400     24                    
+
+9550      B1402  U1406      1604  HOL  3   FLA  S25E44    1N      PRB           
+9550       1404   ////      1409  SAG  C   RSP  030-06    III/2                 
+
+9560       1448   ////      1449  SAG  C   RSP  030-08    III/1                 
+
+9570       2017   2021      2029  HOL  3   FLA  N19E16    SF                8375
+9570       2025   ////      2026  CUL  C   RSP  35-100    III/2             8375

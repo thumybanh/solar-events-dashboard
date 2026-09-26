@@ -1,0 +1,64 @@
+:Product: 20011205events.txt
+:Created: 2005 Jul 27 2004 UT
+:Date: 2001 12 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9370       0124   0126      0126  PAL  G   RBR  4995      610                   
+
+9380       0133   0133      0133  PAL  G   RBR  245       73                    
+
+9390       0311   0311      0318  LEA  3   FLA  S06W47    SF      ERU       9716
+
+9400       0352   0355      0406  LEA  3   FLA  S06W50    SF                9716
+9400 +     0400   0403      0405  GO8  5   XRA  1-8A      C2.5    6.1E-04   9716
+9400       0402   ////      0402  CUL  C   RSP  57-150    III/1             9716
+
+9410 +     0653   0656      0658  GO8  5   XRA  1-8A      C2.3    5.6E-04   9716
+9410       0656   0656      0701  LEA  3   FLA  S07W48    SF                9716
+
+9530      A0701   ////     B2212  LEA  2   DSF  S31W12    10      B.0A          
+
+9540      A0701   ////     B2212  LEA  2   DSF  N46W34    22      B.0A          
+
+9420 +     0804   0810      0818  GO8  5   XRA  1-8A      C2.6    1.9E-03   9715
+
+9430       0936   ////      0936  LEA  C   RSP  025-109   III/1                 
+
+9630      A0951   ////     B0711  SVI  3   DSF  N42W57    24      B.0A          
+
+9640      A0951   ////     B0711  SVI  3   DSF  S39E12    10      B.0A          
+
+9440 +     1141   1144      1147  GO8  5   XRA  1-8A      C2.1    6.1E-04   9715
+9440       1144   1144      1149  RAM  3   FLA  N04W71    SF                9715
+
+9450       1511   1511      1513  HOL  3   FLA  N02W74    SF                9715
+
+9460 +     1725   1728      1734  GO8  5   XRA  1-8A      C2.6    1.2E-03   9716
+9460       1726   1730      1741  HOL  3   FLA  S06W54    1F      ERU       9716
+
+9470       1830   ////      1830  HOL  C   RSP  025-076   III/1                 
+
+9480 +     1847   1848      1920  RAM  3   FLA  S22E47    SF                9727
+
+9490       1904   1905      1908  HOL  3   FLA  S20E47    SF                9727
+
+9500 +     2035   2038      2041  GO8  5   XRA  1-8A      C1.7    5.5E-04   9718
+9500       2037   2037      2042  RAM  3   FLA  S05W23    SF      ERU       9718
+
+9510       2205   2211      2217  GO8  5   XRA  1-8A      C2.6    1.8E-03   9727
+9510      B2207  U2208     A2215  HOL  3   FLA  S21E41    SF                9727
+
+9550       2216   2216     A2240  HOL  3   FLA  S22E44    1F      ERU       9727
+
+9520 +     2320   2325      2330  GO8  5   XRA  1-8A      C1.9    1.0E-03   9727
+9520       2323   2323      2332  LEA  3   FLA  S19E40    SF                9727
+
+9560       2356   2356      2356  LEA  G   RBR  245       340                   

@@ -1,0 +1,27 @@
+:Product: 20050307events.txt
+:Created: 2005 Mar 08 1229 UT
+:Date: 2005 03 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Mar 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  50       1304   1311      1315  G10  5   XRA  1-8A      B1.1    7.2E-05       
+
+  60       1711   ////      1711  SAG  C   RSP  030-055   III/1                 
+
+  70 +     2019   2023      2025  G12  5   XRA  1-8A      B2.3    6.0E-05   0742
+  70       2022   2023      2023  G12  5   XFL  S07E67    1.0E+02 1.9E+02   0742
+
+ 150       2106   ////      2106  CUL  C   RSP  40-180    III/1                 
+
+ 160      B2108   2112      2113  CUL  3   FLA  N16E35    SF                    
+
+ 170       2145   ////      2145  CUL  C   RSP  23-80     III/1                 
+
+ 180       2231   ////      2231  CUL  C   RSP  50-180    III/1                 

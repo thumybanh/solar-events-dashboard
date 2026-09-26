@@ -1,0 +1,44 @@
+:Product: 20050524events.txt
+:Created: 2005 May 25 1229 UT
+:Date: 2005 05 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 May 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 830       0004   0006      0006  G12  5   XFL  N13E51    7.5E+02 2.1E+03   0766
+
+ 840       0011   0012      0025  LEA  3   FLA  N13E45    SF                0766
+
+ 850       0305   0313      0327  G10  5   XRA  1-8A      B1.3    1.6E-04       
+ 850       0320   ////      0321  CUL  C   RSP  30-180    III/1                 
+
+ 860 +     0437   0451      0506  G12  5   XRA  1-8A      B4.9    5.5E-04   0767
+ 860       0444   0458      0504  G12  5   XFL  S09E48    8.5E+02 2.1E+03   0767
+ 860 +     0448   ////      0448  CUL  C   RSP  20-180    III/3             0767
+
+ 870 +     0513   0516      0518  G12  5   XRA  1-8A      B5.0    1.1E-04   0767
+ 870 +     0515   0515      0515  LEA  G   RBR  410       1800              0767
+ 870       0515   0515      0516  SVI  G   RBR  245       39                0767
+ 870       0516   0516      0522  LEA  3   FLA  S05E53    SF                0767
+
+ 940       0522   ////      0537  CUL  C   RSP  23-180    III/1                 
+
+ 880       0536   ////      0537  SVI  C   RSP  028-144   III/1                 
+
+ 890 +     0857   0905      0908  G12  5   XRA  1-8A      B6.3    2.8E-04   0767
+ 890       0900   0906      0906  G12  5   XFL  S08E46    1.1E+03 3.3E+03   0767
+
+ 900 +     1500   ////      1501  SVI  C   RSP  025-064   III/1                 
+
+ 910 +     1503   1509      1516  G12  5   XRA  1-8A      B2.4    1.7E-04   0767
+ 910       1508   1515      1515  G12  5   XFL  S09E42    1.3E+02 2.2E+02   0767
+
+ 920       1829   1831      1833  HOL  3   FLA  S08E39    SF      BPT       0767
+
+ 930       2218   ////      2218  SAG  C   RSP  030-180   III/1                 

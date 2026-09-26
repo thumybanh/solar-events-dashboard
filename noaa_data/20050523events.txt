@@ -1,0 +1,47 @@
+:Product: 20050523events.txt
+:Created: 2005 May 24 1229 UT
+:Date: 2005 05 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 May 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 700       0222   ////      0222  CUL  C   RSP  30-90     III/1                 
+
+ 710       0228   ////      0228  CUL  C   RSP  18-120    III/2                 
+
+ 720       0249   ////      0249  CUL  C   RSP  20-160    III/1                 
+
+ 730 +     0838   0845      0851  G12  5   XRA  1-8A      B3.9    2.1E-04   0766
+ 730       0844   0848      0850  G12  5   XFL  N13E60    9.5E+02 2.2E+03   0766
+
+ 740 +     1044   1049      1052  G12  5   XRA  1-8A      B2.6    1.1E-04   0766
+ 740       1048   1050      1050  G12  5   XFL  N12E59    4.5E+02 8.5E+02   0766
+
+ 750 +     1248   1254      1301  G12  5   XRA  1-8A      B1.1    8.2E-05       
+
+ 760 +     1329   1333      1337  G12  5   XRA  1-8A      B1.1    4.9E-05       
+
+ 770 +     1519   1523      1526  G12  5   XRA  1-8A      B1.1    4.0E-05       
+
+ 780 +     1908   1914      1922  G12  5   XRA  1-8A      B1.6    1.2E-04       
+ 780 +     1910   1910      1910  SAG  G   RBR  245       290                   
+
+ 810       2212   ////      2212  CUL  C   RSP  30-130    III/1                 
+
+ 790       2213   2231      2310  G10  5   XRA  1-8A      B5.0    1.3E-03       
+ 790 +     2229   ////      2230  CUL  C   RSP  45-180    III/1                 
+
+ 820       2331   ////      2331  CUL  C   RSP  60-180    III/1                 
+
+ 800 +     2344   2349      2353  G12  5   XRA  1-8A      B7.2    2.5E-04   0767
+ 800 +     2347   2347      2349  PAL  G   RBR  245       160               0767
+ 800 +     2347   ////      2349  CUL  C   RSP  30-180    III/3             0767
+ 800       2348   2348      2352  G12  5   XFL  S08E48    7.8E+02 2.8E+03   0767
+
+ 830 +     2359   0005      0008  G12  5   XRA  1-8A      B4.0    1.6E-04   0766

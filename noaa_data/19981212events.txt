@@ -1,0 +1,64 @@
+:Product: 19981212events.txt
+:Created: 1998 Dec 15 0302 UT
+:Date: 1998 12 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+620        0205   0208      0216  LEA  3   FLA  S20E13    SF      DSD       8408
+
+630        0237   0239      0245  LEA  3   FLA  S20E12    SF      DSD       8408
+
+640        0246   0248      0255  LEA  3   FLA  S20E12    SF                8408
+
+650        0353   0409      0415  LEA  3   FLA  S16W09    SF      DSD       8405
+650  +     0414   ////      0414  CUL  C   RSP  80-160    III/1             8405
+
+740        0418   0420      0425  LEA  3   FLA  S26E20    SF                8409
+
+660  +     0422   0428      0431  GO8  5   XRA  1-8A      C1.1    5.1E-04   8409
+660  +     0425   0429      0439  LEA  3   FLA  S20E12    SF                8408
+
+670  +     0509   0513      0515  GO8  5   XRA  1-8A      C1.0    3.0E-04   8409
+670        0511   0513      0519  LEA  3   FLA  S28E21    SF                8409
+
+680        0611   0616      0622  LEA  3   FLA  S28E20    SF                8409
+
+690        0626   0632      0636  LEA  3   FLA  S27E20    SF      BPT       8409
+
+700        0701   0703      0710  LEA  3   FLA  S30E62    SF                8411
+
+710        0737   0738      0743  LEA  3   FLA  S26E19    SF                8409
+710        0737   0737      0737  LEA  G   RBR  245       66                8409
+710  +     0737   ////      0738  CUL  C   RSP  50-250    III/2             8409
+
+720        0943   0943      0946  LEA  2   FLA  S17E07    SF                8408
+
+730        0947   0952      1004  LEA  2   FLA  S17W12    SF                8405
+
+760        1248   1251      1253  GO8  5   XRA  1-8A      C1.3    3.7E-04   8409
+760       B1250  U1250     A1254  RAM  3   FLA  S29E26    SF                8409
+
+770        1459   1500      1505  RAM  3   FLA  S22W74    SF                8404
+
+780        1603   1603      1613  RAM  3   FLA  S18E04    SF                8408
+
+790  +     1918   1922      1926  GO8  5   XRA  1-8A      C1.3    5.5E-04   8404
+790        1920   1922      1927  HOL  3   FLA  S20W69    SF                8404
+
+1050       2025   ////      2028  CUL  C   RSP  20-100    III/1                 
+
+800  +     2108   2112      2114  GO8  5   XRA  1-8A      C2.5    6.3E-04       
+
+810  +     2312   2312      2319  LEA  3   FLA  S22W73    SF                8404
+810  +     2317   2320      2322  GO8  5   XRA  1-8A      C1.6    4.0E-04   8404
+810        2318   ////      2319  CUL  C   RSP  600-10    III/1             8404
+
+820  +     2323   2328      2332  GO8  5   XRA  1-8A      C3.0    1.2E-03       
+820  +     2325   2327      2341  LEA  3   FLA  S16W18    1F                8405

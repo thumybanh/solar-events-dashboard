@@ -1,0 +1,28 @@
+:Product: 20040123events.txt
+:Created: 2004 Jan 26 0300 UT
+:Date: 2004 01 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jan 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 470       0001   0002      0002  LEA  G   RBR  245       56                    
+
+ 510       0700   ////      1200  IZM  F   RNS  204       25                    
+
+ 480       0739   ////      1032  LEA  U   RSP  115-180   CTM/1                 
+
+ 520       1115   1122      1127  G12  5   XRA  1-8A      B2.7    1.8E-04   0542
+
+ 490       1249   1249      1249  SAG  G   RBR  245       53                    
+
+ 500       1447   1447      1447  SAG  G   RBR  245       51                    
+
+ 530       1611   1619      1624  G12  5   XRA  1-8A      B3.3    2.3E-04   0540
+
+ 540       1800   1804      1808  G12  5   XRA  1-8A      B2.5    1.2E-04   0544

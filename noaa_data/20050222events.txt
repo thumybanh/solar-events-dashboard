@@ -1,0 +1,50 @@
+:Product: 20050222events.txt
+:Created: 2005 Feb 23 1229 UT
+:Date: 2005 02 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Feb 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9420       0120   ////      0120  CUL  C   RSP  60-80     III/1                 
+
+9410       0340   0340      0340  PAL  G   RBR  245       66                    
+
+9430 +     0458   ////      0501  CUL  C   RSP  20-180    III/1                 
+
+9440 +     0518   ////      0519  CUL  C   RSP  20-320    III/1                 
+
+9560       0619   ////      0619  CUL  C   RSP  50-120    III/1                 
+
+9570       0658   ////      0658  CUL  C   RSP  23-90     III/1                 
+
+9450      B0748   ////     B0934  LEA  2   EPL  ////      0.28    B.9A          
+
+9460 +     1232   ////      1232  SVI  U   RSP  025-083   III/1                 
+
+9470 +     1303   ////      1303  SVI  C   RSP  025-180   III/2                 
+
+9480       1320   1320      1320  SAG  G   RBR  410       62                    
+
+9490 +     1402   ////      1403  SVI  C   RSP  025-180   III/2             0734
+
+9500       1409   ////      1410  SVI  C   RSP  025-180   III/2                 
+
+9490 +     1409   1414      1424  G12  5   XRA  1-8A      B2.6    2.0E-04   0734
+9490       1414   1418      1423  G12  5   XFL  S10W82    3.5E+02 5.9E+02   0734
+
+9510 +     1624   1628      1637  G12  5   XRA  1-8A      B2.1    1.5E-04   0736
+9510       1627   1634      1635  G12  5   XFL  N17W90    1.0E+02 1.8E+02   0736
+
+9520       1806   1859      1936  G10  5   XRA  1-8A      B8.9    2.8E-03       
+
+9530 +     2043   ////      2044  CUL  C   RSP  20-320    III/2                 
+
+9540       2115   2119      2122  G10  5   XRA  1-8A      B4.1    1.6E-04       
+
+9550       2156   2156      2157  PAL  G   RBR  410       120                   

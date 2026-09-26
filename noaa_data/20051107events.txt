@@ -1,0 +1,44 @@
+:Product: 20051107events.txt
+:Created: 2005 Nov 10 0329 UT
+:Date: 2005 11 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Nov 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2210       0232   0235      0239  G12  5   XRA  1-8A      B1.0    3.9E-05   0820
+
+2220       0356   0400      0410  G12  5   XRA  1-8A      B1.0    8.2E-05   0820
+
+2230 +     0740   0805      0821  G12  5   XRA  1-8A      B2.2    4.9E-04   0820
+2230       0754   0754      0754  G12  5   XFL  N62E51    5.0E+01 1.3E+02   0820
+
+2240 +     1648   1655      1707  G12  5   XRA  1-8A      B1.6    1.5E-04       
+
+2250 +     1930   ////      1931  PAL  C   RSP  025-070   III/1                 
+
+2260 +     1934   1938      1940  G12  5   XRA  1-8A      B1.6    4.0E-05   0819
+
+2290       2008   ////      2009  CUL  C   RSP  20-57     III/1                 
+
+2300       2035   ////      2035  CUL  C   RSP  20-50     III/1                 
+
+2270 +     2043   ////      2045  CUL  C   RSP  18-57     III/3                 
+
+2280 +     2052   2059      2107  G12  5   XRA  1-8A      B4.3    2.7E-04   0820
+2280       2058   2104      2105  G12  5   XFL  S16W55    9.3E+02 1.9E+03   0820
+
+2310 +     2141   ////      2142  CUL  C   RSP  18-57     III/2                 
+
+2320       2200   ////      2200  CUL  C   RSP  20-57     III/1                 
+
+2330 +     2229   2234      2237  G12  5   XRA  1-8A      B3.4    1.1E-04   0819
+2330       2234   2236      2236  G12  5   XFL  S10W78    4.5E+02 1.0E+03   0819
+
+2340 +     2323   ////      2327  LEA  C   RSP  025-180   III/2                 
+2340       2323   2323      2323  LEA  G   RBR  410       64                    

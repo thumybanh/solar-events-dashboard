@@ -1,0 +1,75 @@
+:Product: 20011229events.txt
+:Created: 2005 Jul 27 2016 UT
+:Date: 2001 12 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5510       0339   ////      0340  LEA  C   RSP  122-180   III/1                 
+
+5520       0403   ////      0404  LEA  C   RSP  025-058   III/1                 
+5520       0404   0411      0423  GO8  5   XRA  1-8A      M2.1    2.3E-02       
+
+5530       0513   0513      0521  LEA  3   FLA  N00W30    SF      ERU       9751
+
+5540       0529   0546      0559  LEA  3   FLA  N02W32    1F      ERU       9751
+5540       0540   0545      0550  GO8  5   XRA  1-8A      M1.1    7.5E-03   9751
+
+5550       0608   0611      0614  LEA  3   FLA  N08E65    SF      ERU       9763
+
+5560       0705   0706      0711  LEA  2   FLA  S01E17    SF                9755
+
+5570 +     0905   0916      0928  GO8  5   XRA  1-8A      M1.8    2.1E-02       
+
+5580 +     0938   0945      1006  GO8  5   XRA  1-8A      M9.3    1.1E-01   9748
+5580 +     0939   ////      0943  LEA  C   RSP  025-180   III/3             9748
+5580 +     0939   0944      0946  SVI  G   RBR  245       8000              9748
+5580 +     0939   0942      0943  SVI  G   RBR  410       350               9748
+5580 +     0939   0941      0942  SVI  G   RBR  606       59                9748
+5580 +     0939   0940      0943  SVI  G   RBR  1415      57                9748
+5580 +     0939   0939      0943  SVI  G   RBR  2695      100               9748
+5580 +     0939   0941      0951  SVI  G   RBR  4995      140               9748
+5580 +     0939   0943      0951  SVI  G   RBR  8800      220               9748
+5580 +     0939   0939      0945  SVI  G   RBR  15400     75                9748
+5580 +     0941   0942      0950  SVI  3   FLA  S07W85    SF                9748
+5580 +     0943   ////      0956  SVI  C   RSP  025-180   II/2    1227      9748
+
+5610 +     0951   0951      1005  SVI  G   RBR  4995      120                   
+5610 +     0951   0951      1005  SVI  G   RBR  8800      160                   
+5610 +     0951   0951      0953  SVI  G   RBR  15400     34                    
+
+5580 +     0956   ////      1056  SVI  C   RSP  025-180   IV/2              9748
+
+5700      A1031   ////     B2232  LEA  2   DSF  S14E09    13      B.0A          
+
+5590 +     1152   1157      1204  GO8  5   XRA  1-8A      M1.4    8.5E-03       
+5590      B1154  U1156      1205  SVI  3   FLA  S26E87    SF                    
+5590       1204   ////      1204  SVI  U   RSP  042-066   III/1                 
+
+5630 +     1633   1647      1702  GO8  5   XRA  1-8A      M3.3    4.3E-02       
+5630       1635   1639      1651  SAG  G   RBR  8800      320                   
+5630       1637   1639      1651  SAG  G   RBR  15400     87                    
+
+5640 +     1834   1834      1834  PAL  G   RBR  245       150                   
+5640       1835   1835      1835  PAL  G   RBR  410       39                    
+
+5660 +     1930   1930      1934  SAG  G   RBR  2695      52                    
+
+5730       1950   2127      2355  GO8  5   XRA  1-8A      M1.8    1.9E-01       
+
+5670 +     2007   2009      2010  PAL  G   RBR  410       200                   
+
+5750       2158   ////      0538  LEA  C   RSP  078-180   CTM/1                 
+
+5680       2242   2246      2250  HOL  3   FLA  S09W15    SF      ERU       9754
+
+5690       2249  U2301     A2308  HOL  3   FLA  S24E88    1F                9767
+5690 +     2251   2256      2308  GO8  5   XRA  1-8A      M2.8    2.6E-02   9767
+
+5720       2348   ////      2348  LEA  C   RSP  025-088   III/1                 

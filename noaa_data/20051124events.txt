@@ -1,0 +1,26 @@
+:Product: 20051124events.txt
+:Created: 2005 Nov 27 0329 UT
+:Date: 2005 11 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Nov 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5150 +     0346   0356      0404  G12  5   XRA  1-8A      B4.9    3.4E-04   0822
+5150       0350   0402      0403  G12  5   XFL  S08W79    8.3E+03 3.2E+04   0822
+5150      U0355  U0355      0355  LEA  G   RBR  15400     71                0822
+
+5160 +     0547   0550      0552  G12  5   XRA  1-8A      B1.3    3.5E-05   0822
+5160       0550   0551      0551  G12  5   XFL  S08W77    4.8E+03 1.4E+04   0822
+
+5170 +     1111   1118      1124  G12  5   XRA  1-8A      B1.9    1.3E-04   0822
+5170       1117   1120      1123  G12  5   XFL  S08W84    5.0E+03 1.3E+04   0822
+
+5180 +     1606   1611      1621  G12  5   XRA  1-8A      B1.5    1.2E-04   0822
+5180       1608   ////      1609  SAG  C   RSP  030-153   III/2             0822
+5180       1609   1612      1620  G12  5   XFL  S08W90    5.7E+03 1.9E+04   0822

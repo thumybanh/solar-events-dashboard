@@ -1,0 +1,30 @@
+:Product: 19990505events.txt
+:Created: 1999 May 08 0302 UT
+:Date: 1999 05 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 May 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8640       0520   ////      1103  SVI  U   RSP  057-08    CTM/2                 
+
+8670       0818   0831      0844  GO8  5   XRA  1-8A      C1.2    1.8E-03       
+
+8680       1234   1245      1304  GO8  5   XRA  1-8A      C1.0    1.6E-03       
+
+8690       1512   1530      1540  GO8  5   XRA  1-8A      C1.4    1.8E-03       
+
+8700       1820   1955      0550  COM  5   PRO            14                    
+
+8650       1925   1925      1927  SAG  G   RBR  410       55                    
+
+8630 +     1933   1933      2051  SAG  G   RNS  245       52                    
+
+8660       2116   2117      2117  SAG  G   RBR  245       59                    
+
+8710       2324   2325      2325  PAL  G   RBR  245       120                   

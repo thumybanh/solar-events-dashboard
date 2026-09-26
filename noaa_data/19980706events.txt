@@ -1,0 +1,54 @@
+:Product: 19980706events.txt
+:Created: 1998 Jul 09 0302 UT
+:Date: 1998 07 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2910 +     0114   0114      0115  LEA  G   RBR  245       110                   
+2910 +     0115   ////      0117  PAL  C   RSP  035-05    III/1                 
+
+2920       0117   0117      0118  LEA  G   RBR  245       53                    
+
+2930       0137   ////      0226  LEA  C   RSP  030-04    CTM/1                 
+
+2940       0759   ////      0759  SVI  C   RSP  035-06    III/2                 
+
+3040       0910   0000      1200       F   RNS  204       20                    
+
+2950 +     0919   0920      0920  SVI  G   RBR  245       110                   
+
+2960 +     1113   1123      1140  GO9  5   XRA  1-8A      B8.8    1.1E-03       
+
+3040       1114   1629      2345  SAG  G   RNS  245       440                   
+
+2960       1117   1118      1118  SVI  U   RBR  245       66                    
+
+2970       1151   1151      1151  SAG  G   RBR  410       65                    
+
+2980       1257   ////      1258  SAG  C   RSP  030-05    III/1                 
+2980       1258   1304      1314  GO8  5   XRA  1-8A      B6.2    5.5E-04       
+2980       1301   1301      1302  SVI  U   RBR  245       110                   
+
+2990 +     1350   1400      1411  GO9  5   XRA  1-8A      C1.2    1.3E-03       
+
+3050       1432   ////      2359  SAG  C   RSP  030-08    CTM/2                 
+
+3000       1437   1437      1437  SVI  U   RBR  245       190                   
+
+3010       1743   ////      1832  PAL  C   RSP  028-05    III/1                 
+
+3020       1919   1919      1919  PAL  G   RBR  245       220                   
+
+3030       1938   1948      2001  GO8  5   XRA  1-8A      B6.4    7.8E-04       
+
+3060 +     2319   2319      2320  PAL  G   RBR  245       560                   
+
+3070       2336   ////      2336  LEA  C   RSP  030-03    III/1                 
+3070       2336   ////      2336  LEA  C   RSP  030-03    III/1                 

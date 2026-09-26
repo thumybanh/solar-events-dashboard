@@ -1,0 +1,53 @@
+:Product: 20040825events.txt
+:Created: 2004 Aug 28 0302 UT
+:Date: 2004 08 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Aug 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 930 +     0102   0106      0110  G12  5   XRA  1-8A      B3.0    1.3E-04       
+ 930       0104   0104      0104  LEA  G   RBR  245       100                   
+ 930       0105   0105      0109  G12  5   XFL  S08E86                          
+
+ 940       0151   0151      0151  LEA  G   RBR  245       60                    
+
+ 950       0154   0156      0156  LEA  G   RBR  245       110                   
+ 950       0156   0156      0156  LEA  G   RBR  1415      63                    
+
+ 960       0209   0209      0209  LEA  G   RBR  245       82                    
+
+ 970       0217   0217      0217  LEA  G   RBR  2695      58                    
+
+ 980       0219   0219      0219  LEA  G   RBR  245       100                   
+
+1000       0357   ////      0357  CUL  C   RSP  27-180    III/1                 
+
+ 990 +     0359   0403      0407  G12  5   XRA  1-8A      B3.1    1.3E-04   0661
+ 990 +     0400   0400      0400  LEA  G   RBR  245       65                0661
+ 990       0404   0406      0406  G12  5   XFL  N05W81    5.0E+01 8.5E+01   0661
+
+1020       0515   0515      0515  LEA  G   RBR  245       100                   
+
+1010 +     0515   0521      0526  G12  5   XRA  1-8A      C1.3    5.8E-04   0661
+1010       0518   0524      0525  G12  5   XFL  N08W77    1.8E+03 5.9E+03   0661
+
+1030 +     0922   0926      0930  G12  5   XRA  1-8A      B3.2    1.4E-04       
+1030       0925   0928      0928  G12  5   XFL  S09E82    1.0E+03 2.1E+03       
+
+1050       1459   1504      1509  G12  5   XRA  1-8A      B2.0    1.2E-04       
+
+1040       1842   1842      1842  PAL  G   RBR  245       72                    
+
+1060       1858   1910      1914  G12  5   XRA  1-8A      B2.4    2.3E-04       
+
+1070       2205   ////      2206  CUL  C   RSP  20-90     III/1                 
+
+1100       2230   2241      2245  G12  5   XRA  1-8A      B3.0    2.2E-04       
+
+1080 +     2256   2306      2312  G12  5   XRA  1-8A      B3.4    2.9E-04       

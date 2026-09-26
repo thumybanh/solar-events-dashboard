@@ -1,0 +1,36 @@
+:Product: 20051225events.txt
+:Created: 2005 Dec 28 0329 UT
+:Date: 2005 12 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8490       0037   0037      0038  PAL  G   RBR  410       110                   
+
+8500 +     0242   0251      0301  G12  5   XRA  1-8A      B3.6    3.4E-04   0841
+8500       0246   0258      0259  G12  5   XFL  N11E81    1.1E+04 4.5E+04   0841
+
+8510       0345   ////      0351  LEA  U   RSP  039-121   II/1    504           
+
+8520 +     1005   1014      1021  G12  5   XRA  1-8A      C1.2    7.8E-04   0842
+8520       1008   1011      1031  LEA  2   FLA  S08E42    SF      PRB       0842
+8520       1010   ////      1013  SVI  C   RSP  026-039   III/1                 
+8520       1010   1014      1019  G12  5   XFL  N12E78    1.1E+04 3.7E+04   0841
+
+8530       1040   ////      1040  LEA  C   RSP  059-094   III/1                 
+
+8540 +     1912   1918      1935  G12  5   XRA  1-8A      B4.2    4.6E-04   0841
+8540       1915   1918      1934  G12  5   XFL  N12E75    9.8E+03 3.8E+04   0841
+
+8550       2303   ////      2304  LEA  C   RSP  025-122   III/2                 
+
+8560 +     2311   ////      2312  LEA  C   RSP  025-180   III/2                 
+8560       2311   2311      2311  PAL  G   RBR  245       150                   
+
+8570       2356   ////      2357  PAL  C   RSP  025-180   III/1                 

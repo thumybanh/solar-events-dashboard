@@ -1,0 +1,38 @@
+:Product: 20060424events.txt
+:Created: 2006 Apr 27 0329 UT
+:Date: 2006 04 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Apr 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4200 +     0030   0033      0035  G12  5   XRA  1-8A      B2.5    6.0E-05   0875
+4200       0034   0034      0034  G12  5   XFL  S07E72    1.5E+02 2.6E+02   0875
+
+4210 +     0356   0404      0413  G12  5   XRA  1-8A      C1.0    7.3E-04   0875
+4210       0400   0408      0412  G12  5   XFL  S07E70    2.2E+03 6.8E+03   0875
+
+4220       0701   0701      0701  LEA  G   RBR  4995      64                    
+
+4230       0901   0903      0905  LEA  3   FLA  S07E68    SF      PRB       0875
+
+4240       0906   0908      0921  LEA  3   FLA  S08E68    SF      PRB       0875
+
+4250 +     0935   0938      0941  G12  5   XRA  1-8A      B3.9    1.3E-04   0875
+4250       0940   0940      0940  G12  5   XFL  S07E67    1.4E+03 2.8E+03   0875
+
+4260 +     0949   0952      0957  G12  5   XRA  1-8A      B3.8    1.6E-04   0875
+4260       0952   0952      0956  G12  5   XFL  S07E67    1.3E+03 2.5E+03   0875
+
+4280 +     1440   1445      1451  G12  5   XRA  1-8A      B4.2    2.3E-04   0875
+4280       1444   1448      1450  G12  5   XFL  S07E65    1.6E+03 3.1E+03   0875
+
+4290 +     1628   1631      1633  G12  5   XRA  1-8A      B2.7    7.1E-05   0875
+4290       1632   1632      1632  G12  5   XFL  S06E63    7.3E+02 1.5E+03   0875
+
+4300       1745   ////      1745  SAG  C   RSP  030-049   III/1                 

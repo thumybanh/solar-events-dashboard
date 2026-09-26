@@ -1,0 +1,86 @@
+:Product: 20020330events.txt
+:Created: 2002 Apr 02 0300 UT
+:Date: 2002 03 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5540       0114   ////      1010  LEA  C   RSP  103-180   CTM/1                 
+
+5550       0217   ////      0218  LEA  C   RSP  025-088   III/1                 
+
+5560 +     0247   ////      0253  LEA  C   RSP  025-180   III/1                 
+5560 +     0248   0248      0248  LEA  G   RBR  245       64                    
+
+5570 +     0340   0343      0345  GO8  5   XRA  1-8A      C1.5    4.0E-04       
+
+5580       0649   0652      0659  LEA  3   FLA  N11E37    SF      ERU       9885
+
+5590 +     0702   0711      0724  GO8  5   XRA  1-8A      C9.1    8.9E-03       
+
+5600 +     0726   ////      0728  LEA  C   RSP  025-075   III/1                 
+
+5610       0848   0852      0855  GO8  5   XRA  1-8A      C1.9    7.0E-04   9885
+5610       0851   0851      0854  SVI  3   FLA  N11E39    SF                9885
+
+5620       1141   1142      1148  SVI  3   FLA  N10E31    SF                9885
+
+5630 +     1155   1200      1204  GO8  5   XRA  1-8A      C5.1    1.8E-03   9885
+5630 +    B1159  U1159      1219  RAM  3   FLA  N10E34    SF      ERU       9885
+
+5640       1217   1218      1222  SVI  3   FLA  N10E33    SF                9885
+
+5650       1235   1238      1240  RAM  3   FLA  N11E33    SF                9885
+
+5670 +     1245   1301      1314  GO8  5   XRA  1-8A      M3.4    3.0E-02   9885
+5670 +     1247   1302      1410  RAM  3   FLA  N11E33    1N      ERU       9885
+5670 +     1256   1257      1320  SAG  G   RBR  8800      120               9885
+5670 +     1256   1258      1259  SVI  G   RBR  4995      50                9885
+5670 +     1256   1257      1323  SVI  G   RBR  15400     98                9885
+5670       1258   1258      1258  SVI  G   RBR  2695      24                9885
+
+5680 +     1402   1402      1402  SAG  G   RBR  245       280                   
+
+5690       1413   1413      1420  SVI  3   FLA  N11E36    SF                9885
+
+5700       1442   1442      1442  SVI  G   RBR  410       69                    
+
+5730 +     1535   1539      1543  RAM  3   FLA  S19E05    SF                9884
+5730 +     1538   1539      1539  SAG  G   RBR  245       710               9884
+5730 +     1539   1539      1539  SAG  G   RBR  410       40                9884
+
+5800       1542   1542      1545  SVI  3   FLA  S14E61    SF                9888
+
+5740 +     1551   1551      1552  SAG  G   RBR  410       66                    
+5740 +     1551   1551      1552  SAG  G   RBR  606       66                    
+
+5750       1647   1651      1657  RAM  3   FLA  N11E33    SF                9885
+
+5760       1754   1754      1757  RAM  3   FLA  N11E32    SF      ERU       9885
+
+5770       1808   1813      1820  RAM  3   FLA  N10E31    SF      ERU       9885
+
+5780 +     1823   ////      1824  HOL  C   RSP  025-150   III/1                 
+
+5960       1930   ////      1931  HOL  C   RSP  025-160   III/1                 
+
+5720 +     1936   1939      1941  GO8  5   XRA  1-8A      C4.5    1.2E-03   9885
+5720       1938   1939      1943  RAM  3   FLA  N11E32    SF                9885
+
+5790       1942   1944      1953  RAM  3   FLA  N00E53    SF      ERU       9887
+
+5810       2057   2100      2106  RAM  3   FLA  N11E32    SF                9885
+
+5820       2104   2107      2122  RAM  3   FLA  S02E52    SF      ERU       9887
+
+5840       2112   2119      2124  RAM  3   FLA  N11E30    SF                9885
+
+5830 +     2219   2226      2234  GO8  5   XRA  1-8A      M1.0    6.3E-03       
+
+5850 +     2331   ////      2335  LEA  C   RSP  025-085   III/1                 

@@ -1,0 +1,59 @@
+:Product: 20030428events.txt
+:Created: 2003 May 01 0302 UT
+:Date: 2003 04 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Apr 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 800       0010   0010      0011  LEA  G   RBR  245       69                    
+
+ 810       0155   0155      0155  LEA  G   RBR  410       71                    
+
+ 990       0221   ////      0221  CUL  C   RSP  30-140    III/1                 
+
+ 820       0234   0234      0235  LEA  G   RBR  245       350                   
+ 820       0234   ////      0235  CUL  C   RSP  230-360   III/1                 
+
+ 830       0245   0245      0245  LEA  G   RBR  245       66                    
+
+ 840       0256   0256      0256  LEA  G   RBR  245       81                    
+
+ 890 +     0357   0436      0520  G10  5   XRA  1-8A      C4.4    1.7E-02   0337
+
+ 850 +     0400   ////      0402  CUL  C   RSP  20-180    III/2                 
+
+ 870       0415   0415      0415  LEA  G   RBR  245       70                    
+
+ 880 +     0437   ////      0445  LEA  U   RSP  025-180   III/1                 
+
+ 920       1010   1017      1026  G10  5   XRA  1-8A      C1.5    1.2E-03   0338
+
+ 930       1340   1346      1349  G10  5   XRA  1-8A      B8.9    4.2E-04   0337
+
+ 940       1405   1417      1423  G10  5   XRA  1-8A      C1.3    1.1E-03   0338
+
+ 900       1510   1546      1602  G10  5   XRA  1-8A      C2.1    5.4E-03   0337
+ 900       1523   1523      1550  HOL  3   FLA  S14W43    SF      ERU       0337
+
+ 910 +     1714   1719      1726  G10  5   XRA  1-8A      C2.0    1.2E-03   0338
+ 910       1718   ////      1732  RAM  3   LPS  ////      0.01    B.9A      0338
+ 910       1719   1719      1719  PAL  G   RBR  245       89                0338
+
+ 860 +     1719   1741      1741  SAG  G   RNS  245       68                    
+
+ 950 +     1811   1818      1824  G10  5   XRA  1-8A      C3.3    1.9E-03   0344
+ 950       1815   1815      1826  HOL  3   FLA  N16W13    SF      ERU       0344
+
+ 960 +     2122   2130      2142  G10  5   XRA  1-8A      C1.8    1.7E-03       
+
+ 970 +     2152   ////      2152  CUL  C   RSP  27-180    III/1                 
+
+ 980 +     2211   2215      2222  G10  5   XRA  1-8A      B9.3    5.4E-04       
+
+1000       2312   ////      2312  CUL  C   RSP  30-180    III/1                 

@@ -1,0 +1,55 @@
+:Product: 20020126events.txt
+:Created: 2002 Jan 29 0300 UT
+:Date: 2002 01 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+730  +     0000   0003      0005  GO8  5   XRA  1-8A      C4.5    1.1E-03       
+
+740        0019   ////      0022  LEA  C   RSP  035-180   III/1                 
+
+750  +     0802   0802      0802  SVI  G   RBR  245       85                    
+750  +     0802   ////      0802  LEA  C   RSP  054-180   III/1                 
+
+760        0830   ////      0831  LEA  C   RSP  042-180   III/1                 
+
+770  +     0858   ////      0859  SVI  C   RSP  025-180   III/1                 
+
+780        0921   0921      0921  SVI  G   RBR  410       73                    
+
+900       A1030   ////     B2303  LEA  3   DSF  N33W33    10      B.0A          
+
+790  +     1235   1237      1300  RAM  3   FLA  N06E57    SF      ERU       9800
+
+810        1254   1300      1313  SVI  3   FLA  N15W49    SF                9788
+
+800        1308   ////      1309  SVI  U   RSP  129-180   III/1                 
+
+820  +     1351   1352      1403  RAM  3   FLA  N19W49    SF      ERU       9788
+
+1010      A1439   ////     B0711  SVI  3   DSF  N36W32    08      B.0A          
+
+830  +     1447   1451      1454  GO8  5   XRA  1-8A      C2.7    1.0E-03       
+
+840  +     1824   ////      1824  SAG  C   RSP  030-063   III/2                 
+
+850        1916   ////      1917  HOL  C   RSP  025-147   III/1                 
+
+860  +     1926   2005      2034  GO8  5   XRA  1-8A      M1.3    3.7E-02   9802
+860        1947   1947      1950  HOL  3   FLA  S15E78    SF      ERU       9802
+
+870  +     2101   2105      2115  RAM  3   FLA  N20W55    SF                9788
+
+880  +     2118   ////      2120  HOL  C   RSP  025-180   III/1                 
+
+890  +     2224   2228      2234  GO8  5   XRA  1-8A      C6.2    3.3E-03   9788
+890        2225   2226      2234  HOL  3   FLA  N19W57    SF      ERU       9788
+
+910  +     2358   0006      0014  GO8  5   XRA  1-8A      C4.3    3.8E-03       

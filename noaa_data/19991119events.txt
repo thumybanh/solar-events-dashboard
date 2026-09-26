@@ -1,0 +1,84 @@
+:Product: 19991119events.txt
+:Created: 1999 Nov 22 0303 UT
+:Date: 1999 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4310 +     0007   0011      0013  GO8  5   XRA  1-8A      C2.1    6.5E-04       
+
+4320       0123   0124      0128  LEA  3   FLA  S09W27    SF                8765
+
+4330       0157   0158      0200  LEA  3   FLA  S09W28    SF                8765
+
+4340       0315   0352      0359  LEA  3   FLA  S09W29    SF                8765
+
+4370       0317   0317      0343  LEA  3   FLA  S18W39    SF                8763
+
+4380       0317   0317      0343  LEA  3   FLA  S14W51    SF                8770
+
+4350       0406   0406      0409  LEA  3   FLA  S09W29    SF                8765
+
+4360       0420   0420      0430  LEA  3   FLA  N17W06    SF                8766
+
+4390       0541   0542      0545  LEA  4   FLA  S09W30    SF                8765
+
+4400       0624   0626      0631  LEA  4   FLA  S09W30    1F                8765
+
+4420       0625   0626      0629  LEA  4   FLA  S19E33    SF                8771
+
+4410       0636   0637      0700  LEA  4   FLA  S09W30    SF                8765
+
+4430       0640   0642      0653  LEA  4   FLA  S19E33    SF                8771
+
+4440       0706   0706      0709  LEA  4   FLA  S19E33    SF                8771
+
+4470       0706   0708      0709  LEA  4   FLA  S09W30    SF                8765
+
+4450 +     0737   0745      0838  GO8  5   XRA  1-8A      C2.1    6.8E-03   8768
+4450       0739   0743      0844  LEA  4   FLA  N18W24    1N      PRB       8768
+
+4480       0739   0752      0814  LEA  4   FLA  S09W31    SF                8765
+
+4450       0754   ////      0754  SVI  C   RSP  036-04    III/1             8768
+4450 +     0810   0814      0816  SVI  G   RBR  410       65                8768
+
+4490       0824   0825      0829  LEA  4   FLA  S19E32    SF                8771
+
+4500       0940   0940      0952  LEA  3   FLA  N09W85    SF                8759
+
+4630      A1007   ////      2217  LEA  3   DSF  S35E26    12      B.0A          
+
+4510       1031   ////      1033  SVI  C   RSP  035-08    III/2                 
+
+4520 +     1047   1052      1100  GO8  5   XRA  1-8A      C1.9    1.4E-03       
+
+4580       1203   ////      1838  SAG  C   RSP  030-08    CTM/1                 
+
+4530 +     1501   1505      1508  GO8  5   XRA  1-8A      C1.9    7.5E-04   8765
+4530       1503   1506      1515  HOL  3   FLA  S11W26    SF                8765
+
+4540 +     1558   1601      1604  GO8  5   XRA  1-8A      C1.9    6.0E-04   8771
+4540       1600   1601      1604  HOL  3   FLA  S16E38    SF                8771
+
+4550       1601   1603      1604  HOL  3   FLA  S14W59    SF                8770
+
+4560       1703   ////      0000  PAL  U   RSP  025-05    CTM/1                 
+
+4460 +     1703   1813      2104  PAL  G   RNS  245       220                   
+
+4560 +     1751   ////      1754  SAG  C   RSP  030-08    III/2                 
+
+4570       1847   1849      1852  HOL  3   FLA  S14W33    SF                8765
+
+4590 +     1915   ////      1916  PAL  C   RSP  025-05    III/1                 
+
+4740       2343   ////      0732  LEA  C   RSP  040-08    CTM/1                 
+
+4600       2350   ////      2355  LEA  C   RSP  030-08    III/2                 

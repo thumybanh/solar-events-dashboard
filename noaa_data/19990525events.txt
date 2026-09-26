@@ -1,0 +1,87 @@
+:Product: 19990525events.txt
+:Created: 1999 May 28 0303 UT
+:Date: 1999 05 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 May 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3810 +     0225   ////      0225  PAL  C   RSP  025-07    III/2                 
+
+3820 +     0429   ////      0430  CUL  C   RSP  30-180    III/2                 
+
+3830       0602   0604      0612  SVI  3   FLA  S14E06    SF      ERU       8550
+
+3910       0658   0658      0702       F   RBR  204       200                   
+3910       0700   ////      1010  SVI  C   RSP  035-08    CTM/1                 
+
+3840 +     0708   0710      0716  LEA  4   FLA  N23E67    SF                8552
+3840       0708   0710      0751  GO8  5   XRA  1-8A      C1.1              8552
+
+3850       0743   0743      0743  SVI  U   RBR  245       58                    
+
+3860       0751   0751      0752  SVI  G   RBR  410       39                    
+3860 +     0751   0752      0755       F   RBR  204       200                   
+
+3920       0833   0833      0834       F   RBR  204       200                   
+3920       0833   0834      0839  SVI  3   FLA  S15E03    SF      DSD       8550
+
+4120       0910   0911      0911  SVI  U   RBR  245       100                   
+
+4130       0943   0944      0945  SVI  U   RBR  245       410                   
+
+3870 +     1003   1004      1004  SAG  G   RBR  245       170                   
+3870 +     1003   1004      1005  SVI  G   RBR  410       140                   
+
+3880 +     1005   1006      1006  SVI  G   RBR  410       150                   
+3880 +     1006   1006      1007  SAG  G   RBR  245       96                    
+3880       1006   1006      1007  SAG  G   RBR  606       30                    
+
+3890       1016   1016      1016  SAG  G   RBR  245       270                   
+
+4030       1029   1039      1051  GO8  5   XRA  1-8A      C1.1                  
+
+3900       1052   1052      1053  SAG  G   RBR  245       63                    
+
+4140       1143   ////      1148  SVI  C   RSP  035-06    III/1                 
+
+4230       1238   1239      1241  SVI  3   FLA  N18E62    SF                8552
+
+3930       1255   1303      1320  GO8  5   XRA  1-8A      C1.2              8552
+3930       1300   1301      1307  RAM  3   FLA  N21E58    SF                8552
+
+3950       1629   1641      1656  HMN  3   FLA  N37W53    SF                8545
+3950       1633   1635      1644  GO8  5   XRA  1-8A      C1.0              8545
+
+3960       1658   1700      1703  HMN  3   FLA  N37W53    SF                8545
+
+3940 +     1709   1722      1739  GO8  5   XRA  1-8A      C1.6    2.4E-03       
+3940 +     1714   1722      1734  HMN  3   FLA  S14E00    SF                8550
+
+3980       1729   1729      1734  RAM  3   FLA  N20E56    SF                8552
+
+3990       1735   1736      1739  HMN  3   FLA  S14E00    SF                8550
+
+3970       1801   1809      1820  GO8  5   XRA  1-8A      C1.4              8545
+3970 +     1806   1814      1838  HMN  3   FLA  S20W54    SF                8548
+
+4000       1821   1841      1904  HMN  3   FLA  N36W60    SF                8545
+
+4020       1901   1903      1913  HMN  3   FLA  S13E05    SF                8550
+
+4010 +     2009   2016      2021  GO8  5   XRA  1-8A      C2.5    1.4E-03       
+4010       2013   2015      2040  COM  3   FLA  N38W53    SF                8545
+
+4040       2056   ////      2226  SAG  C   RSP  030-08    CTM/1                 
+4040       2127   2137      2221  GO8  5   XRA  1-8A      C1.6                  
+
+4050       2249   2249      2252  HOL  3   FLA  N38W55    SF                8545
+
+4060       2316   2316      2324  HOL  3   FLA  S23W56    SF                8548
+
+4070       2356   2359      0005  HOL  3   FLA  N38W57    SF                8545

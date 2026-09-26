@@ -1,0 +1,42 @@
+:Product: 20040513events.txt
+:Created: 2004 May 16 0302 UT
+:Date: 2004 05 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 May 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8550 +     0038   0046      0104  G12  5   XRA  1-8A      B4.1    5.4E-04       
+
+8570       0232   ////      0232  CUL  C   RSP  20-70     III/1                 
+
+8580       0328   ////      0329  CUL  C   RSP  25-120    III/1                 
+
+8560 +     0337   0341      0345  G12  5   XRA  1-8A      B4.5    1.6E-04   0609
+8560       0340   0342      0344  G12  5   XFL  S01E34    8.0E+02 2.2E+03   0609
+
+8590 +     0729   0745      0821  G12  5   XRA  1-8A      C1.7    3.5E-03   0609
+8590       0732   0750      0820  G12  5   XFL  S02E31    1.9E+03 8.6E+03   0609
+8590       0741   0743      0800  LEA  3   FLA  S03E33    SF      ERU       0609
+
+8600       0839   ////      0845  SVI  U   RSP  025-058   III/1                 
+
+8610 +     0930   0940      0952  G12  5   XRA  1-8A      C1.3    1.5E-03   0609
+8610       0933   0942      0951  G12  5   XFL  S01E31    2.7E+03 8.9E+03   0609
+
+8620       0954   ////      0956  SVI  C   RSP  025-147   III/1                 
+
+8630       1025   ////      1025  SVI  C   RSP  025-063   III/1                 
+
+8640 +     1324   1334      1340  G12  5   XRA  1-8A      C7.7    4.0E-03   0609
+8640       1327   1336      1339  G12  5   XFL  S02E29    3.5E+03 2.2E+04   0609
+8640       1328   1330      1412  HOL  3   FLA  S02E30    SF      ERU       0609
+
+8650 +     1954   ////      1954  PAL  C   RSP  025-056   III/1                 
+
+8680       2322   ////      0911  LEA  C   RSP  074-180   CTM/1                 

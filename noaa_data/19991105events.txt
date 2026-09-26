@@ -1,0 +1,50 @@
+:Product: 19991105events.txt
+:Created: 1999 Nov 08 0302 UT
+:Date: 1999 11 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Nov 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9050       0338   0402      0414  GO8  5   XRA  1-8A      C1.6    2.9E-03       
+
+9060       0448   0509      0519  GO8  5   XRA  1-8A      C1.4    2.5E-03       
+
+9070       0607   0639      0707  GO8  5   XRA  1-8A      C3.3    7.7E-03       
+9070       0608   ////      0609  SVI  C   RSP  036-06    III/1                 
+
+9030       0802   ////      0803  LEA  C   RSP  030-06    III/1                 
+
+9080       1142   1144      1205  RAM  3   FLA  N09W41    SF                8747
+
+9090       1443   1444      1445  SVI  G   RBR  245       77                    
+9090       1443   1443      1444  SVI  G   RBR  410       49                    
+
+9100       1642   1643      1644  SAG  G   RBR  245       34                    
+9100       1642   1643      1644  SAG  G   RBR  410       56                    
+
+9110 +     1712   1718      1722  GO8  5   XRA  1-8A      M1.2    3.8E-03       
+9110       1715   1716      1719  PAL  G   RBR  1415      57                    
+9110 +     1715   1716      1811  HOL  3   FLA  S19W45    1F                8749
+9110       1715   1716      1719  PAL  G   RBR  2695      60                    
+
+9120       1803   1804      1804  PAL  G   RBR  245       150                   
+9120       1803   1804      1804  PAL  G   RBR  410       45                    
+9120 +     1804   1829      1944  GO8  5   XRA  1-8A      M3.0    1.3E-01       
+
+9130       1837   1837      1838  PAL  G   RBR  245       310                   
+
+9140       1905   1907      1910  HOL  3   FLA  S16W61    SF                8745
+
+9150 +     1913   1918      2007  HOL  3   FLA  S13W64    SF                8745
+9150 +     1914   1917      1923  SAG  G   RBR  410       84                    
+9150 +     1917   1918      1923  SAG  G   RBR  245       36                    
+
+9160       2116   2118      2125  HOL  3   FLA  S24W50    SF                8749
+
+9170       2138   2138      2146  PAL  G   RBR  245       92                    

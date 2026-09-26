@@ -1,0 +1,48 @@
+:Product: 20000624events.txt
+:Created: 2000 Jun 27 0302 UT
+:Date: 2000 06 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jun 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3460       0001   0001      0002  LEA  G   RBR  245       180                   
+
+3470 +     0031   0044      0120  LEA  4   FLA  N22W32    SF      ERU       9046
+3470       0032   ////      0252  PAL  C   RSP  025-18    CTM/1             9046
+3470       0040   0040      0040  PAL  G   RBR  245       66                9046
+3470       0040   0040      0040  PAL  G   RBR  410       84                9046
+3470       0040   ////      0041  PAL  C   RSP  025-18    III/1             9046
+
+3480       0322   ////      0322  LEA  C   RSP  074-17    III/1                 
+
+3490 +     0801   0804      0812  GO8  5   XRA  1-8A      C1.2    7.0E-04   9049
+3490       0802   0804      0808       F   RBR  3000      21                9049
+3490       0803   0804      0815  LEA  4   FLA  S35W28    SF      ERU       9049
+
+3500       0906   ////      0906  SVI  C   RSP  035-05    III/1                 
+
+3510 +     0927   0927      0927  SVI  G   RBR  245       450                   
+
+3520       1013   1013      1013  SVI  G   RBR  410       70                    
+
+3530 +     1037   1038      1039  SAG  G   RBR  606       160                   
+
+3550       1358   1401      1402  HOL  3   FLA  N09E13    SF                9054
+
+3560       1438   ////      1438  SVI  C   RSP  036-08    III/1                 
+
+3570       1541   1548      1558  HOL  3   FLA  N09E12    SF                9054
+3570       1552   ////      1552  SVI  U   RSP  047-06    III/1             9054
+
+3580       1605   1606      1607  HOL  3   FLA  N22W80    SF                9042
+
+3590       1824   ////      1826  HOL  C   RSP  025-08    III/1                 
+3590 +     1824   ////      1827  SAG  C   RSP  030-08    V/2                   
+
+3600       2014   2019      2025  GO8  5   XRA  1-8A      C1.3    7.4E-04       

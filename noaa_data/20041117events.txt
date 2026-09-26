@@ -1,0 +1,61 @@
+:Product: 20041117events.txt
+:Created: 2004 Nov 20 0302 UT
+:Date: 2004 11 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Nov 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6000 +     0108   0111      0113  G12  5   XRA  1-8A      B3.5    9.3E-05       
+6000       0108   0109      0109  LEA  G   RBR  245       130                   
+
+6010       0108   0108      0109  PAL  G   RBR  245       95                    
+6010       0109   ////      0110  CUL  C   RSP  30-1100   III/1                 
+
+6000       0111   0111      0111  G12  5   XFL  N67E90                          
+
+6030       0139   ////      0141  CUL  C   RSP  60-460    III/1                 
+
+6040       0153   ////      0153  CUL  C   RSP  60-180    III/1                 
+
+6050       0226   ////      0227  CUL  C   RSP  100-400   III/1                 
+
+6020 +     0241   0245      0247  G12  5   XRA  1-8A      B6.3    1.5E-04   0700
+6020 +     0243   ////      0246  CUL  C   RSP  18-240    III/3             0700
+6020       0245   0246      0246  G12  5   XFL  N06W69    4.3E+02 9.4E+02   0700
+
+6060       0437   0437      0437  LEA  G   RBR  245       170                   
+6060       0437   ////      0437  CUL  C   RSP  100-550   III/1                 
+
+6070 +     0935   0938      0941  G12  5   XRA  1-8A      B4.4    1.2E-04   0700
+6070 +     0937   0937      0938  SVI  G   RBR  1415      67                0700
+6070       0938   0940      0940  G12  5   XFL  N06W73    2.3E+02 4.6E+02   0700
+
+6080       1025   1028      1031  G10  5   XRA  1-8A      B2.8    9.1E-05       
+
+6090 +     1100   1103      1108  G12  5   XRA  1-8A      B3.4    1.4E-04   0700
+6090       1103   1106      1106  G12  5   XFL  N06W74    1.0E+02 1.8E+02   0700
+
+6100 +     1355   1359      1402  G12  5   XRA  1-8A      B3.6    1.2E-04   0700
+6100       1358   1358      1401  G12  5   XFL  N05W86    3.0E+02 5.4E+02   0700
+
+6110       1743   1746      1750  G10  5   XRA  1-8A      B2.4    9.4E-05       
+
+6160       2020   ////      2023  CUL  C   RSP  20-180    III/3                 
+
+6120       2110   2117      2120  G12  5   XRA  1-8A      B3.7    1.7E-04       
+
+6170       2226   ////      2229  CUL  C   RSP  20-180    III/1                 
+
+6370       2324   2332      0015  LEA  3   FLA  S14W35    SF      ERU       0699
+
+6130       2328   2328      2332  LEA  3   FLA  S09W27    SF      ERU       0702
+
+6150       2332   2337      2340  LEA  3   FLA  S09W27    SF      ERU       0702
+
+6140       2348   2349      2359  LEA  3   FLA  N13E51    SF                    

@@ -1,0 +1,86 @@
+:Product: 20000411events.txt
+:Created: 2000 Apr 14 0302 UT
+:Date: 2000 04 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Apr 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9700 +     0008   ////      0008  LEA  C   RSP  030-06    III/2                 
+
+9710       0016   0017      0022  LEA  3   FLA  S20E86    SF                8955
+
+9720 +     0058   0103      0112  GO8  5   XRA  1-8A      C1.1    8.8E-04       
+9720       0059   ////      0109  PAL  C   RSP  028-14    III/1                 
+
+9730 +     0138   0143      0149  GO8  5   XRA  1-8A      C1.3    7.8E-04   8939
+9730       0140   0141      0149  LEA  3   FLA  N25W78    SF                8939
+9730       0146   ////      0146  PAL  C   RSP  030-08    III/1             8939
+
+9740       0237   0302      0348  GO8  5   XRA  1-8A      C1.7    5.7E-03   8948
+9740       0244   0304      0326  LEA  3   FLA  S14W11    SF                8948
+
+9750       0345   ////      0345  LEA  C   RSP  030-05    III/1                 
+
+9780       0446   ////      0834  SVI  C   RSP  035-07    CTM/1                 
+
+9760       0501   0515      0539  LEA  3   FLA  S15W13    SF                8948
+
+9790 +     0703   ////      0710  LEA  C   RSP  030-08    III/2                 
+
+9770 +     0706   0710      0713  GO8  5   XRA  1-8A      C1.3    4.5E-04   8948
+9770       0709   0712      0720  LEA  3   FLA  S17W14    SF                8948
+
+9800       0731   0734      0736  LEA  3   FLA  S14W13    SF                8948
+
+9810 +     0738   ////      0738  CUL  C   RSP  35-90     III/1             8948
+
+9820 +     0740   0750      0812  LEA  4   FLA  S15W14    SF      ERU       8948
+9820 +     0747   0751      0757  GO8  5   XRA  1-8A      C2.2    1.1E-03   8948
+9820       0754   ////      0755  SVI  C   RSP  035-08    III/1             8948
+
+9830       0844   0844      0850  LEA  3   FLA  N16E73    SF                    
+
+9840       1003   ////      1014  SVI  C   RSP  035-07    V/1                   
+9840 +     1004   1010      1024  GO8  5   XRA  1-8A      C2.3    2.2E-03       
+9840       1004   1005      1010       F   RBR  3000      43                    
+9840       1004   1004      1006       F   RBR  204       80                    
+
+9860 +     1118   1122      1127  GO8  5   XRA  1-8A      C1.5    6.9E-04       
+
+9870       1143   ////      1143  SAG  C   RSP  030-05    III/1                 
+
+9880       1314   1315      1315  SVI  G   RBR  245       90                    
+
+9890       1345   ////      1346  SVI  C   RSP  035-06    III/1                 
+
+9900 +     1400   1401      1401  SAG  G   RBR  245       57                    
+
+180       A1537   ////      0848  SVI  3   DSF  S34W58    15      B.0A          
+
+9910 +     1624   1627      1630  GO8  5   XRA  1-8A      C1.0    3.3E-04       
+
+9920       1645   1649      1653  HOL  3   FLA  N32E62    SF                8954
+
+9930 +     1757   1810      1817  GO8  5   XRA  1-8A      M1.0    8.0E-03   8948
+9930 +     1800   1810      1845  HOL  3   FLA  S16W18    1N                8948
+9930       1801   ////      1804  SAG  C   RSP  030-06    V/2               8948
+
+9940       1918   1919      1928  HOL  3   FLA  S16W20    SF                8948
+
+9950       1957   1958      2001  HOL  3   FLA  S20E70    SF                8955
+
+9960       2104   2105      2105  SAG  G   RBR  245       52                    
+
+9980       2106   ////      2106  CUL  C   RSP  35-90     III/1                 
+
+9990       2222   ////      2222  CUL  C   RSP  30-90     III/1                 
+
+9970 +     2329   2337      2345  GO8  5   XRA  1-8A      M1.1    7.0E-03   8948
+9970 +     2333   2333      2333  PAL  G   RBR  606       57                8948
+9970       2333   2334      0029  LEA  3   FLA  S15W22    1N      ERU       8948

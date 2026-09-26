@@ -1,0 +1,35 @@
+:Product: 19990202events.txt
+:Created: 1999 Feb 05 0302 UT
+:Date: 1999 02 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Feb 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2060       0008   ////      0008  CUL  C   RSP  65-160    III/1                 
+
+2070 +     0154   ////      0155  LEA  C   RSP  030-06    III/2                 
+
+2080 +     0208   0212      0215  GO8  5   XRA  1-8A      B9.8    3.3E-04       
+
+2090 +     0506   0509      0511  GO8  5   XRA  1-8A      B5.5    1.5E-04       
+
+2100 +     0516   0531      0540  GO8  5   XRA  1-8A      B9.2    1.1E-03       
+
+2110       0853   ////      0853  LEA  C   RSP  037-07    III/1                 
+
+2120       1233   ////      1234  SVI  C   RSP  038-08    III/2                 
+
+2130       1449   ////      1449  SVI  U   RSP  033-07    III/1                 
+
+2140       1855   1855      1859  RAM  3   FLA  S26E47    SF                8453
+
+2150       1920   ////      1922  PAL  C   RSP  025-05    III/1                 
+
+2160 +     2130   2134      2138  GO8  5   XRA  1-8A      B4.3    1.8E-04   8453
+2160       2134   2135      2142  HOL  3   FLA  S25E46    SF                8453

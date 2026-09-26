@@ -1,0 +1,44 @@
+:Product: 20041111events.txt
+:Created: 2004 Nov 14 0302 UT
+:Date: 2004 11 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Nov 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5200 +     0229   0235      0243  G12  5   XRA  1-8A      B6.9    4.4E-04   0696
+5200       0232   0238      0242  G12  5   XFL  N08W62    8.8E+02 1.9E+03   0696
+
+5210       0538   ////      0538  LEA  C   RSP  025-097   III/1                 
+
+5220       0605   0608      0612  G10  5   XRA  1-8A      B4.7    1.8E-04       
+
+5230       0835   0847      0854  G10  5   XRA  1-8A      B7.2    6.6E-04       
+
+5240      U1029  U1029      1033  SVI  G   RBR  1415      53                    
+5240      U1029  U1029      1033  SVI  G   RBR  4995      150                   
+5240      U1029  U1029      1033  SVI  G   RBR  8800      250                   
+5240      U1029  U1029      1033  SVI  G   RBR  2695      100                   
+
+5250 +     1156   1216      1224  G12  5   XRA  1-8A      B6.8    9.2E-04   0696
+5250       1159   1218      1223  G12  5   XFL  N09W72    2.4E+03 5.3E+03   0696
+
+5260 +     1317   1317      1317  SVI  G   RBR  245       77                    
+5260 +     1317   ////      1317  SAG  C   RSP  114-180   III/1                 
+
+5270 +     1508   1523      1532  G12  5   XRA  1-8A      B9.0    9.3E-04   0696
+5270       1511   1526      1531  G12  5   XFL  N08W72    2.5E+03 5.8E+03   0696
+5270       1531   1531      1531  SAG  G   RBR  245       130               0696
+
+5300 +     1538   1554      1602  G12  5   XRA  1-8A      C1.1    1.2E-03   0696
+
+5280       1543   1544      1545  SAG  G   RBR  245       410                   
+
+5290       1548   1548      1548  SAG  G   RBR  245       130                   
+
+5300       1555   1555      1601  HOL  3   FLA  N08W69    SF      ERU       0696

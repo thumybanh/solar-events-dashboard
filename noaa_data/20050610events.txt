@@ -1,0 +1,54 @@
+:Product: 20050610events.txt
+:Created: 2005 Jun 11 1229 UT
+:Date: 2005 06 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jun 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4680       0205   ////      0205  CUL  C   RSP  20-90     III/2                 
+
+4690       0217   ////      0217  CUL  C   RSP  20-150    III/2                 
+
+4700 +     0304   0310      0319  G12  5   XRA  1-8A      C2.0    1.2E-03   0772
+4700       0308   0312      0318  G12  5   XFL  S16W78    1.8E+03 7.1E+03   0772
+
+4760 +     0323   0617      0929  LEA  G   RNS  245       170                   
+
+4770       0341   ////      1755  SVI  C   RSP  025-180   CTM/1                 
+
+4710       0611   0614      0615  SVI  U   RBR  410       94                    
+
+4720       0659   0659      0700  SVI  U   RBR  410       89                    
+
+4730       0838   0839      0839  SVI  U   RBR  410       57                0776
+4730       0839   0839      0842  LEA  3   FLA  S05E08    SF                0776
+
+4740 +     0843   0846      0848  G12  5   XRA  1-8A      B6.5    1.5E-04   0776
+4740       0846   0846      0846  G12  5   XFL  S09E18    4.3E+02 1.2E+03   0776
+
+4780       0929   ////      2013  SAG  C   RSP  120-180   CTM/1                 
+
+4750       1332   1333      1333  SAG  G   RBR  245       370                   
+
+4790       1908   ////      1908  SAG  C   RSP  030-053   III/1                 
+
+4800       1922   1922      1922  SAG  G   RBR  245       51                    
+
+4810       1930   1930      1930  SAG  G   RBR  245       190                   
+4810       1930   1930      1930  SAG  G   RBR  410       27                    
+
+4820       1931   1931      1931  PAL  G   RBR  245       230                   
+
+4830       2150   2150      2150  SAG  G   RBR  245       77                    
+
+4840 +     2214   2218      2222  PAL  G   RBR  245       260                   
+4840       2215   2215      2216  SAG  G   RBR  15400     23                    
+4840       2216   2216      2216  SAG  G   RBR  4995      21                    
+
+4850       2220   2220      2220  SAG  G   RBR  245       100                   

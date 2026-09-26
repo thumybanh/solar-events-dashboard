@@ -1,0 +1,42 @@
+:Product: 20030213events.txt
+:Created: 2003 Feb 16 0302 UT
+:Date: 2003 02 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7230       0109   ////      0111  LEA  C   RSP  025-180   III/1                 
+
+7240       0115   0129      0135  GO8  5   XRA  1-8A      B8.4    8.1E-04   0280
+7240       0123   0125      0133  LEA  2   FLA  S03W55    SF      ERU       0280
+
+7250 +     0243   ////      0243  LEA  C   RSP  025-180   III/1                 
+
+7260 +     0450   0502      0510  GO8  5   XRA  1-8A      C1.8    1.4E-03   0282
+7260 +     0453   ////      0454  LEA  C   RSP  025-180   III/1             0282
+7260       0457   0505      0509  LEA  2   FLA  N09W39    SF      ERU       0282
+
+7270 +     0822   ////      0822  LEA  C   RSP  025-066   III/1                 
+
+7280 +     0833   ////      0834  LEA  C   RSP  025-093   III/1                 
+
+7360      A1005   ////     B2320  LEA  3   DSF  ////      37      B.0A      0000
+
+7290 +     1110   1120      1143  GO8  5   XRA  1-8A      B7.1    1.2E-03   0282
+
+7300       1454   ////      1454  HOL  C   RSP  030-082   III/1                 
+
+7330 +     1547   1551      1554  GO8  5   XRA  1-8A      B5.4    2.0E-04   0276
+
+7340 +     1613   1618      1709  GO8  5   XRA  1-8A      B8.2    2.5E-03   0282
+7340      B1616  U1616      1625  RAM  3   FLA  N11W42    SF      ERU       0282
+7340       1622   ////      1622  HOL  C   RSP  110-127   III/1             0282
+
+7350 +     2324   2332      2337  GO8  5   XRA  1-8A      C2.2    1.1E-03   0284
+7350       2327   2328      2339  LEA  3   FLA  N13W84    SF      ERU       0284

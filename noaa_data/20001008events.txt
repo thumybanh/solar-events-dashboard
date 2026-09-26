@@ -1,0 +1,55 @@
+:Product: 20001008events.txt
+:Created: 2000 Oct 11 0302 UT
+:Date: 2000 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5430 +     0111   0118      0126  GO8  5   XRA  1-8A      C2.0    1.4E-03       
+
+5440 +     0211   0212      0212  LEA  G   RBR  245       510                   
+5440       0211   0212      0212  LEA  G   RBR  410       40                    
+5440 +     0212   ////      0213  CUL  C   RSP  100-420   III/2                 
+
+5450       0403   0404      0404  LEA  G   RBR  245       65                    
+
+5460       0408   0408      0408  LEA  G   RBR  245       54                    
+
+5470       0441   0447      0452  G10  5   XRA  1-8A      C1.6    8.3E-04       
+
+5480       0551   0553      0602  LEA  3   FLA  S09W65    SF                9176
+
+5490      B0612  U0613      0621  LEA  3   FLA  N23E65    SF                    
+
+5610       0631   ////      0631  CUL  C   RSP  23-90     III/1                 
+
+5500       0647   0649      0651  LEA  3   FLA  S11W67    SF      ERU       9176
+
+5510       0656   0656      0657  LEA  G   RBR  245       71                    
+5510       0656   0656      0657  LEA  G   RBR  410       48                    
+
+5520       0850   0850      0855  LEA  3   FLA  S11W69    SF                9176
+
+5530       1111   1116      1119  RAM  3   FLA  S09W72    SF                9176
+
+5540       1152   1153      1157  SAG  G   RBR  245       71                    
+
+5570       1626   1627      1629  SAG  G   RBR  245       63                    
+
+5580       1652   1652      1702  SAG  G   RNS  245       100                   
+
+5590       2010   ////      2024  HOL  C   RSP  025-151   III/1                 
+
+5620       2041   ////      2041  CUL  C   RSP  50-80     III/1                 
+
+5750 +    A2045   ////      2313  COM  3   DSF  N40E28    14      B.0A          
+
+5600       2247   ////      2255  HOL  C   RSP  025-163   III/1                 
+
+5630       2340   2344      2353  LEA  3   FLA  S27W11    SF                9181

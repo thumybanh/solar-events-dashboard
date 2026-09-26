@@ -1,0 +1,31 @@
+:Product: 20021206events.txt
+:Created: 2002 Dec 09 0300 UT
+:Date: 2002 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6060       0406   ////      0407  LEA  C   RSP  025-180   III/1                 
+
+6070       0546   0547      0549  LEA  4   FLA  N12E33    SF      ERU       0212
+
+6090 +     0850   0856      0901  GO8  5   XRA  1-8A      C2.1    9.1E-04   0214
+6090       0854   0855      0903  LEA  3   FLA  N12W34    SF      ERU       0214
+
+6100 +     1035   1046      1059  GO8  5   XRA  1-8A      C1.7    1.7E-03       
+
+6110       1640   1640      1640  SAG  G   RBR  245       67                    
+
+6120       2226   ////      2226  LEA  C   RSP  025-138   III/1                 
+
+6130 +     2230   2237      2246  GO8  5   XRA  1-8A      B8.6    6.9E-04       
+
+6140       2339   ////      2339  LEA  C   RSP  025-180   III/2                 
+
+6150 +     2356   ////      0005  GO8  5   XRA  1-8A      B8.4    3.7E-04       

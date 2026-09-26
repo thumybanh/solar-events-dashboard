@@ -1,0 +1,41 @@
+:Product: 20010205events.txt
+:Created: 2001 Feb 08 0302 UT
+:Date: 2001 02 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Feb 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7720       0057   0104      0107  GO8  5   XRA  1-8A      B8.0    3.9E-04   9339
+7720       0103   0104      0107  LEA  3   FLA  S09E78    SF                9339
+
+7730 +     0222   0226      0228  GO8  5   XRA  1-8A      B9.5    2.8E-04   9334
+7730       0224   0225      0229  LEA  3   FLA  N12E32    SF      ERU       9334
+
+7740       0443   0443      0443  LEA  U   RBR  2695      66                    
+
+7760 +     1505   1520      1535  GO8  5   XRA  1-8A      C8.2    1.0E-02   9335
+7760 +     1510   1519      1522  SAG  G   RBR  245       64                9335
+7760 +     1510   1510      1522  SAG  G   RBR  1415      36                9335
+7760 +     1510   1512      1522  SAG  G   RBR  2695      68                9335
+7760 +     1511   1514      1522  SAG  G   RBR  4995      36                9335
+7760 +     1513   ////      1524  HOL  C   RSP  040-170   II/1    650       9335
+7760       1514   1516      1522  SAG  G   RBR  8800      34                9335
+7760       1514   ////      1523  SAG  C   RSP  030-080   V/1               9335
+7760 +     1517   1519      1556  RAM  3   FLA  N07E38    1F      ERU       9335
+7760 +     1518   1519      1522  SAG  G   RBR  410       54                9335
+7760       1518   1519      1522  SAG  G   RBR  606       42                9335
+
+7770       1547   1548      1549  SAG  G   RBR  245       88                    
+
+7780 +     1644   1652      1700  GO8  5   XRA  1-8A      C1.9    1.6E-03   9327
+7780       1645   1647      1647  SAG  G   RBR  606       52                9327
+7780 +     1647   1652      1658  HOL  3   FLA  N21W74    SF                9327
+
+7790       2315   2321      2330  GO8  5   XRA  1-8A      C1.2    1.1E-03   9335
+7790       2316   2319      2325  HOL  3   FLA  N13E44    SF      ERU       9335

@@ -1,0 +1,25 @@
+:Product: 20070718events.txt
+:Created: 2007 Jul 22 2332 UT
+:Date: 2007 07 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jul 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5480 +     0138   ////      0139  LEA  C   RSP  027-090   III/1             0963
+5480       0139   0141      0149  LEA  3   FLA  S02W63    1F                0963
+
+5490       0318   0325      0331  LEA  3   FLA  S04W60    SF                0963
+
+5500       1334   ////      1335  SAG  C   RSP  030-075   III/1                 
+
+5510       1347   ////      135572508  C   RSP  030-064   III/1             0963
+5510       1350   1354      1400  G11  5   XRA  1-8A      B1.9    8.3E-05   0963
+5510       1353   1353      1357  HOL  3   FLA  S03W64    SF      ERU       0963
+
+5520       1451   ////      1452  SVI  U   RSP  034-056   III/1                 

@@ -1,0 +1,59 @@
+:Product: 19991229events.txt
+:Created: 2000 Jan 01 0302 UT
+:Date: 1999 12 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Dec 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6250      A0001   ////      1529  HOL  4   DSF  S13E19    08      B.0A          
+
+6100 +     0131   0139      0145  GO8  5   XRA  1-8A      B9.8    7.3E-04   8806
+6100       0133   0138      0146  LEA  3   FLA  N20W70    SF                8806
+
+6110       0208   0208      0209  LEA  G   RBR  245       230                   
+
+6120 +     0307   0307      0308  LEA  G   RBR  245       460                   
+6120       0307   0307      0308  LEA  G   RBR  410       83                    
+
+6130       0430   0430      0430  LEA  G   RBR  245       120                   
+
+6140       0541   ////      0541  LEA  C   RSP  032-04    III/1                 
+
+6150       0642   0642      0642  LEA  G   RBR  410       96                    
+
+6160       0655   0655      0656  LEA  G   RBR  410       54                    
+
+6180       0902   0902      0907  LEA  3   FLA  S28W14    SF      ERU           
+
+6190 +     0922   0927      0931  GO8  5   XRA  1-8A      C8.8    2.6E-03   8806
+6190 +     0924   0925      0926  SVI  G   RBR  4995      330               8806
+6190 +     0924   ////      0927  SVI  C   RSP  035-08    V/3               8806
+6190 +     0924   0925      0930  SVI  G   RBR  410       210               8806
+6190 +     0925   0925      0926  SVI  G   RBR  8800      390               8806
+6190 +     0925   0925      0926  SVI  G   RBR  15400     160               8806
+6190 +     0925   0926      0939  LEA  3   FLA  N22W66    1B      BPT       8806
+6190 +     0925   0925      0926  LEA  G   RBR  245       290               8806
+6190 +     0925   0925      0926  SVI  G   RBR  606       59                8806
+6190 +     0925   0925      0926  SVI  G   RBR  1415      61                8806
+6190 +     0925   0925      0926  SVI  G   RBR  2695      140               8806
+
+6270       0932   0932      0941  SVI  G   RBR  410       53                    
+
+6190 +     0937   ////      1022  SVI  C   RSP  042-08    IV/2              8806
+
+6220       1400   1400      1400  SVI  G   RBR  245       58                    
+
+6230       1609   ////      1611  SAG  C   RSP  030-07    V/1                   
+
+6240 +     1710   1717      1723  GO8  5   XRA  1-8A      C1.7    1.0E-03       
+
+6260 +     2144   2151      2153  GO8  5   XRA  1-8A      C2.9    1.1E-03   8806
+6260       2148   2152      2159  HOL  3   FLA  N23W72    SF                8806
+
+6280       2200   ////      2329  HOL  3   BSL  N27W83    0.28    B.9A      8806

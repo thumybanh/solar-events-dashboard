@@ -1,0 +1,95 @@
+:Product: 19990805events.txt
+:Created: 1999 Aug 08 0303 UT
+:Date: 1999 08 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8120 +     0038   0053      0057  GO8  5   XRA  1-8A      C4.9    3.5E-03       
+
+8150       0126   ////      0135  CUL  C   RSP  20-70     III/1                 
+
+8130 +     0255   ////      0300  PAL  C   RSP  025-07    III/3                 
+8130       0255   ////      0257  LEA  C   RSP  030-07    V/2                   
+
+8140 +     0338   0342      0346  GO8  5   XRA  1-8A      C4.9    1.5E-03   8647
+8140       0340   0343      0346  LEA  3   FLA  S15W74    SF                8647
+
+8210       0501   0515      0526  SVI  3   FLA  S24W79    SF                8645
+
+8160 +     0523   0527      0533  LEA  4   FLA  N25W33    SF                8651
+
+8380       0616   ////      0616  CUL  C   RSP  30-70     III/1                 
+
+8170       0632   0633      0635  SVI  3   FLA  S25W91    SF                8644
+8170       0633   ////      0633  CUL  C   RSP  30-70     III/1             8644
+
+8180 +     0759   0803      0807  GO8  5   XRA  1-8A      C1.7    7.6E-04       
+
+8190       1128   1132      1137  RAM  3   FLA  N20W14    SF                8656
+
+8200       1231   1245      1315  RAM  3   FLA  S21W81    SF                8647
+
+8220       1350   1353      1400  SVI  3   FLA  S17W74    SF                8647
+
+8230 +     1436   ////      1440  SVI  C   RSP  035-08    III/3             8645
+8230 +     1439   1439      1440  SAG  G   RBR  245       110               8645
+8230       1440   1443      1449  RAM  3   FLA  S31W69    SF      DSD       8645
+
+8240       1457   ////      1458  SAG  C   RSP  030-04    III/1                 
+
+8250 +     1505   1505      1505  SAG  G   RBR  410       60                    
+
+8260 +     1509   1514      1527  RAM  3   FLA  S17W81    SF                8647
+
+8290 +     1517   1517      1534  RAM  3   FLA  N27W37    SF                8651
+
+8300       1520   1520      1525  RAM  3   FLA  S30W67    SF                8645
+8300 +     1526   1527      1527  SAG  G   RBR  245       76                8645
+
+8270       1529   1529      1537  SVI  3   FLA  S31W71    SF      ERU       8645
+8270       1534   1534      1534  SAG  G   RBR  245       62                8645
+
+8280 +     1543   ////      1610  SVI  3   BSL  S33W74    0.16    B.9A      8645
+8280 +     1543   1551      1612  RAM  3   FLA  S25W77    1F      DSD       8645
+8280 +     1544   1545      1546  SAG  G   RBR  245       110               8645
+
+8310       1555   1623      1633  GO8  5   XRA  1-8A      M1.9    2.6E-02   8645
+8310       1607   1618      1638  SAG  G   RBR  4995      59                8645
+8310 +     1615   1620      1633  RAM  3   FLA  S31W69    SF      DSD       8645
+8310       1617   1619      1638  SAG  G   RBR  2695      23                8645
+8310       1617   1618      1638  SAG  U   RBR  8800      23                8645
+8310       1619   1624      1637  SAG  G   RBR  15400     14                8645
+
+8320       1837   1851      1901  HOL  3   FLA  S27W80    1N                8645
+8320 +     1847   1852      1856  GO8  5   XRA  1-8A      C3.4    1.6E-03   8645
+
+8330       1939   1944      1950  G10  5   XRA  1-8A      C2.2    1.4E-03   8651
+8330       1941   1946      1956  HOL  3   FLA  N26W41    SF                8651
+
+8340 +     2018   ////      2018  PAL  C   RSP  025-06    III/1                 
+
+8390       2202   ////      2204  CUL  C   RSP  20-180    III/2                 
+
+8350 +     2212   2224      2232  GO8  5   XRA  1-8A      M1.1    8.1E-03       
+8350 +     2214   ////      2218  CUL  C   RSP  23-450    III/2                 
+
+8360 +     2234   2239      2244  GO8  5   XRA  1-8A      M1.5    7.8E-03       
+8360       2238   2238      2239  SAG  G   RBR  2695      27                    
+8360       2238   2238      2239  SAG  G   RBR  4995      41                    
+8360       2238   2238      2239  SAG  U   RBR  8800      50                    
+8360 +     2238   ////      2243  CUL  C   RSP  18-180    III/3                 
+
+8400       2247   ////      2248  CUL  C   RSP  80-170    III/1                 
+
+8410       2302   ////      2303  CUL  C   RSP  30-80     III/1                 
+
+8420       2320   ////      2320  CUL  C   RSP  30-80     III/1                 
+
+8370 +     2327   2331      2335  GO8  5   XRA  1-8A      C8.6    3.0E-03       

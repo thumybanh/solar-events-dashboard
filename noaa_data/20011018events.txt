@@ -1,0 +1,109 @@
+:Product: 20011018events.txt
+:Created: 2001 Oct 21 0303 UT
+:Date: 2001 10 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Oct 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3960 +     0009   ////      0014  LEA  C   RSP  025-180   III/3                 
+
+3970       0047   ////      0047  LEA  C   RSP  025-143   III/2                 
+
+3980 +     0142   0142      0144  LEA  G   RBR  245       57                    
+
+3990 +     0155   0158      0200  GO8  5   XRA  1-8A      C2.7    7.3E-04       
+
+4000 +     0302   0315      0329  GO8  5   XRA  1-8A      C2.3    3.3E-03       
+
+4010 +     0423   0426      0429  GO8  5   XRA  1-8A      C2.3    7.5E-04       
+
+4020       0456   ////      0456  LEA  C   RSP  025-180   III/3                 
+
+4030 +     0529   0533      0535  GO8  5   XRA  1-8A      C3.1    7.6E-04       
+
+4040       0608   ////      0613  SVI  C   RSP  025-180   III/1                 
+4040       0608   0610      0615       F   RBR  204       200                   
+
+4050 +     0818   ////      0822  LEA  C   RSP  025-180   III/3                 
+
+4060 +     0831   0836      0840  GO8  5   XRA  1-8A      C3.1    1.3E-03       
+
+4070 +     0849   ////      0849  LEA  C   RSP  025-144   III/1                 
+
+4350      A0937   ////     B2240  LEA  2   DSF  N28E57    05      B.0A          
+
+4080 +     0945   ////      0950  LEA  C   RSP  043-180   III/1                 
+
+4090 +     1213   1213      1213  SVI  G   RBR  410       140                   
+
+4100       1240   1240      1253  RAM  3   FLA  N17W12    SF      ERU       9661
+4100 +     1245   1245      1245  SVI  G   RBR  1415      70                9661
+
+4120       1324   1350      1400  RAM  3   FLA  S16W37    1N      ERU       9658
+4120 +     1346   1349      1352  GO8  5   XRA  1-8A      C6.5    2.0E-03   9658
+4120 +     1347   1350      1352  SAG  G   RBR  245       3000              9658
+4120 +     1347   1350      1352  SAG  G   RBR  410       300               9658
+4120       1347   ////      1352  HOL  C   RSP  025-180   III/2             9658
+4120 +     1347   ////      1352  SAG  C   RSP  030-080   V/3               9658
+4120 +     1349   1349      1350  SAG  G   RBR  606       520               9658
+
+4130 +     1404   1404      1405  SAG  G   RBR  245       160                   
+
+4140 +     1405   ////      1409  SVI  C   RSP  025-148   III/1             9658
+4140       1405   1417      1436  RAM  3   FLA  S16W37    SF      ERU       9658
+
+4150 +     1449   ////      1449  SAG  C   RSP  030-051   III/2                 
+
+4160 +     1508   1510      1515  RAM  3   FLA  S18E46    SF                9670
+4160       1513   1513      1513  SVI  G   RBR  245       50                9670
+
+4210 +     1513   1807      1922  SAG  G   RNS  245       300                   
+
+4170       1531   1532      1535  RAM  3   FLA  N10W47    SF      ERU       9662
+
+4180       1536   1537      1542  HOL  3   FLA  N16W12    SF                9661
+
+4190 +     1605   1609      1642  HOL  3   FLA  N16W13    SF      ERU       9661
+4190       1606   1612      1620  G10  5   XRA  1-8A      C4.7    3.5E-03   9661
+
+4220       1708   ////      1709  SAG  C   RSP  030-048   III/1                 
+
+4230       1726   ////      1726  SAG  C   RSP  030-048   III/1                 
+
+4240       1737   ////      1738  SAG  C   RSP  030-067   III/2                 
+
+4250       1743   1744      1748  HOL  3   FLA  N16W14    SF      ERU       9661
+
+4260       1805   1808      1813  HOL  3   FLA  S16W37    SF      DSD       9658
+4260       1805   1807      1809  PAL  G   RBR  245       360               9658
+4260       1806   1806      1809  PAL  G   RBR  410       140               9658
+
+4270 +     1858   1905      1911  GO8  5   XRA  1-8A      C8.5    4.7E-03   9672
+4270       1907   1908      1919  HOL  3   FLA  S17E69    SF                9672
+
+4570       1938   1938      1949  HOL  3   FLA  N15W18    SF                9661
+
+4290       1949   1959      2044  HOL  3   FLA  N15W18    SF      YSR       9661
+
+4280       2003   ////      2003  SAG  C   RSP  030-050   III/1                 
+
+4300       2048   2048      2056  HOL  3   FLA  N17W17    SF      ERU       9661
+
+4310       2103   ////      2104  SAG  C   RSP  035-070   III/2                 
+
+4320       2117   2119      2125  HOL  3   FLA  S15W38    SF                9658
+
+4330       2147   2147      2200  HOL  3   FLA  N15W15    SF      ERU       9661
+
+4390       2206   ////      0058  LEA  C   RSP  054-180   CTM/1                 
+
+4340       2259   2259      2304  HOL  3   FLA  S17W43    SF                9658
+
+4360       2337   2337      2348  HOL  3   FLA  N18W19    SF      ERU       9661
+4360       2337   2344      2348  GO8  5   XRA  1-8A      C3.0    1.7E-03   9661

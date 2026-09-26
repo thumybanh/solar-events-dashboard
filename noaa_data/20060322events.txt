@@ -1,0 +1,40 @@
+:Product: 20060322events.txt
+:Created: 2006 Mar 25 0329 UT
+:Date: 2006 03 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Mar 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1490 +     0038   0045      0050  G12  5   XRA  1-8A      B2.6    1.6E-04   0862
+1490       0041   0045      0049  G12  5   XFL  S06W41    8.5E+02 1.8E+03   0862
+
+1500 +     0059   0107      0112  G12  5   XRA  1-8A      B4.6    2.5E-04   0862
+1500       0102   0110      0111  G12  5   XFL  S06W41    1.3E+03 3.5E+03   0862
+
+1510 +     0201   0210      0219  G12  5   XRA  1-8A      B3.6    3.3E-04   0862
+1510       0205   0209      0218  G12  5   XFL  S06W41    1.3E+03 3.4E+03   0862
+
+1520 +     0235   0239      0242  G12  5   XRA  1-8A      B2.6    9.1E-05   0862
+1520       0239   0239      0239  G12  5   XFL  S06W42    1.0E+03 2.3E+03   0862
+
+1530       0408   0408      0408  LEA  G   RBR  245       68                    
+
+1540       0535   0541      0544  G10  5   XRA  1-8A      B1.2    6.0E-05       
+
+1550       0658   0720      0729  G10  5   XRA  1-8A      B1.8    2.9E-04       
+
+1560       0829   0835      0840  G12  5   XRA  1-8A      B2.3    1.0E-04       
+
+1570       0909   0916      0923  G12  5   XRA  1-8A      B1.8    1.2E-04       
+
+1580 +     1059   1104      1112  G12  5   XRA  1-8A      B2.8    1.6E-04       
+
+1590 +     1243   1250      1258  G12  5   XRA  1-8A      B2.3    1.6E-04       
+
+1600 +     1538   1548      1553  G12  5   XRA  1-8A      B2.3    1.5E-04       

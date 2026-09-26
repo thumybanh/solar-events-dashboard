@@ -1,0 +1,45 @@
+:Product: 20061112events.txt
+:Created: 2006 Nov 15 0329 UT
+:Date: 2006 11 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Nov 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9370 +     0015   0018      0021  G12  5   XRA  1-8A      B1.8    5.4E-05       
+
+9380       0138   0151      0158  G11  5   XRA  1-8A      B2.4    2.2E-04   0923
+9380       0148   ////      0149  LEA  C   RSP  025-156   III/2                 
+
+9390 +     0237   0240      0243  G12  5   XRA  1-8A      B2.6    7.2E-05   0923
+
+9400 +     0704   ////      0705  LEA  C   RSP  025-115   III/2                 
+
+9410 +     0732   0738      0742  G12  5   XRA  1-8A      C1.0    3.7E-04   0923
+
+9420       0758   ////      0800  SVI  C   RSP  025-136   III/2                 
+
+9430 +     0939   0946      0952  G12  5   XRA  1-8A      C1.0    5.1E-04   0923
+
+9440       1007   ////      1107  SVI  C   RSP  025-180   CTM/1                 
+9440 +     1038   1047      1054  G12  5   XRA  1-8A      C1.1    6.2E-04   0923
+9440       1044   1044      1044  SVI  G   RBR  410       230                   
+
+9450       1137   ////      1142  SVI  C   RSP  025-083   III/1                 
+
+9460       1958   ////      1958  PAL  U   RSP  025-088   III/1                 
+
+9470       2115   2118      2120  G11  5   XRA  1-8A      B1.2    3.3E-05       
+
+9480 +     2145   2155      2203  G12  5   XRA  1-8A      C3.3    2.2E-03   0923
+9480       2149   2149      2151  PAL  G   RBR  410       420                   
+9480       2152   2152      2152  PAL  G   RBR  245       220                   
+
+9490       2208   ////      2214  LEA  C   RSP  025-158   III/1                 
+
+9500 +     2228   ////      2229  LEA  C   RSP  025-170   V/2                   

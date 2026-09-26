@@ -1,0 +1,36 @@
+:Product: 20071209events.txt
+:Created: 2007 Dec 13 2359 UT
+:Date: 2007 12 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center.
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Dec 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7010       0145   0148      0158  LEA  3   FLA  S10E40    SF                0978
+
+7020 +     0224   0236      0255  G11  5   XRA  1-8A      B4.5    6.0E-04   0978
+7020       0229   0235      0245  LEA  3   FLA  S11E33    SF                0978
+
+7030       0937   0938      0949  LEA  3   FLA  S11E34    SF                0978
+
+7040       0954   1002      1008  LEA  3   FLA  S11E35    SF                0978
+
+7050 +     1132   1139      1141  G11  5   XRA  1-8A      B1.2    5.8E-05       
+
+7060 +     1546   1606      1613  G11  5   XRA  1-8A      B9.4    8.8E-04   0978
+7060       1603  U1607     A1621  HOL  3   FLA  S10E25    SF                0978
+
+7070       1643   1649      1653  G11  5   XRA  1-8A      B8.4    3.2E-04   0978
+7070      B1646  U1646     A1714  HOL  3   FLA  S10E25    SF                0978
+
+7080       1833   1838      1854  G11  5   XRA  1-8A      B2.3    2.2E-04       
+
+7090       1954   2003      2009  G11  5   XRA  1-8A      B1.5    1.2E-04       
+
+7100       2013   2018      2021  G11  5   XRA  1-8A      B4.8    1.5E-04   0978
+7100       2017   2017      2034  HOL  3   FLA  S10E23    SF                0978

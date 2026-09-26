@@ -1,0 +1,42 @@
+:Product: 20040303events.txt
+:Created: 2004 Mar 06 0300 UT
+:Date: 2004 03 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Mar 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6780       0000   ////      0000  CUL  C   RSP  20-180    CTM/1                 
+
+6650       0123   0123      0123  LEA  G   RBR  245       80                0567
+6650 +     0123   0127      0134  G12  5   XRA  1-8A      B2.7    1.5E-04   0567
+6650       0126   0126      0130  G12  5   XFL  S10W07                      0567
+
+6670       0309   0309      0309  PAL  G   RBR  245       57                    
+
+6680       0655   0655      0655  SVI  G   RBR  245       59                    
+
+6690 +     0741   ////      0741  LEA  C   RSP  025-090   III/1                 
+
+6700       0855   0855      0856  SVI  G   RBR  245       52                    
+6700       0855   ////      0856  SVI  C   RSP  025-059   III/1                 
+
+6710 +     0916   0917      0919  SVI  G   RBR  245       61                    
+
+6720       1158   ////      1158  SVI  C   RSP  025-061   III/1                 
+
+6870      A1244   ////     B0601  SVI  3   DSF  S16W22    06      B.0A          
+
+6740 +     1534   ////      1535  SVI  C   RSP  028-071   III/1                 
+
+6750       1813   1813      1813  SAG  G   RBR  245       54                    
+
+6760 +     2256   2301      2304  G12  5   XRA  1-8A      B2.8    1.1E-04   0567
+6760       2300   2302      2302  G12  5   XFL  S14W13    2.3E+02 4.6E+02   0567
+
+6770       2314   ////      2314  HOL  C   RSP  025-111   III/1                 

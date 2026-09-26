@@ -1,0 +1,52 @@
+:Product: 20020713events.txt
+:Created: 2002 Jul 16 0300 UT
+:Date: 2002 07 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jul 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1720       0000   0000      0000  PAL  G   RBR  8800      48                0030
+
+1730       0039   0049      0103  HOL  3   FLA  N22E38    1F      ERU       0030
+1730 +     0044   0050      0055  GO8  5   XRA  1-8A      C6.7    3.5E-03   0030
+1730 +     0047   0047      0047  LEA  G   RBR  4995      50                0030
+1730 +     0047   0047      0047  LEA  G   RBR  8800      74                0030
+1730       0047   0047      0047  LEA  G   RBR  15400     39                0030
+
+1840      A0118   ////     B1346  HOL  3   DSF  S39E60    37      B.0A      0000
+
+1740 +     0330   0334      0337  GO8  5   XRA  1-8A      C1.6    5.2E-04       
+
+1750 +     0401   0406      0411  GO8  5   XRA  1-8A      C1.4    6.9E-04   0030
+1750       0404   0404      0410  LEA  3   FLA  N19E37    SF      ERU       0030
+
+1760 +     0550   0554      0556  GO8  5   XRA  1-8A      C1.7    4.1E-04   0030
+1760       0554   0555      0557  LEA  2   FLA  N18E36    SF      ERU       0030
+
+1770 +     0626   ////      0631  LEA  C   RSP  025-138   III/1                 
+
+1780       0642   0644      0649  LEA  3   FLA  N12E51    SF      PRB       0031
+
+1790 +     0750   0753      0755  GO8  5   XRA  1-8A      C1.6    4.2E-04   0030
+1790 +     0752   0754      0757  LEA  3   FLA  N19E36    SF                0030
+
+1800 +     0812   0815      0818  GO8  5   XRA  1-8A      C2.2    5.7E-04   0030
+1800 +     0814   0815      0823  SVI  3   FLA  N17E35    SF                0030
+
+1810 +     0827   ////      0827  SVI  C   RSP  025-180   III/2                 
+
+1820 +     1500   ////      1501  SVI  C   RSP  025-180   III/2                 
+
+1850 +     1716   ////      1722  SVI  C   RSP  025-180   III/1             0030
+
+1830 +     1720   1724      1728  GO8  5   XRA  1-8A      B8.6    3.6E-04   0030
+1830 +     1722   1724      1729  HOL  3   FLA  N21E21    SF      ERU       0030
+
+1860 +     2342   2346      2352  GO8  5   XRA  1-8A      B7.2    3.8E-04   0030
+1860       2344   2348      2353  HOL  3   FLA  N18E19    SF                0030

@@ -1,0 +1,17 @@
+:Product: 20080426events.txt
+:Created: 2008 Apr 29 2332 UT
+:Date: 2008 04 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2008 Apr 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9610       1354   1408      1438  G10  5   XRA  1-8A      B3.8    7.1E-04       
+9610       1358   1400      1425  HOL  3   FLA  N08E09    SF      ERU           
+9610 +     1404   ////      1410  SVI  C   RSP  025-143   III/1                 
+9610 +     1416   ////      1422  SVI  C   RSP  025-045   II/2    608           

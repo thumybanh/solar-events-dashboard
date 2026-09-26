@@ -1,0 +1,44 @@
+:Product: 20020322events.txt
+:Created: 2002 Mar 25 0300 UT
+:Date: 2002 03 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3980       0056   ////      0056  CUL  C   RSP  57-230    III/1                 
+
+3990       0247   ////      0247  CUL  C   RSP  65-150    III/1                 
+
+4000       0526   ////      0527  LEA  C   RSP  025-170   III/1                 
+
+4010       0539   ////      0539  SVI  U   RSP  081-086   III/1                 
+
+4020       0542   ////      0544  LEA  C   RSP  025-102   III/1                 
+
+4030       0600   ////      0601  LEA  C   RSP  068-160   III/1                 
+
+4040 +     0609   0618      0638  GO8  5   XRA  1-8A      C8.0    1.1E-02       
+4040       0638   ////      0641  LEA  C   RSP  025-180   III/1                 
+
+4050       0639   ////      0640  SVI  U   RSP  028-151   III/1                 
+
+4060       0745   ////      0746  SVI  U   RSP  071-176   III/1                 
+
+4120      A0853   ////     B2315  LEA  3   DSF  S33W50    05      B.0A          
+
+4080 +     1012   1114      1152  GO8  5   XRA  1-8A      M1.6    4.9E-02       
+4080       1055   1105      1115       F   RBR  3000      24                    
+
+4100       1253   ////      1256  SAG  C   RSP  030-080   III/1                 
+
+4110       1816   1819      1822  GO8  5   XRA  1-8A      C1.5    5.0E-04   9876
+4110       1818   1820      1824  HOL  3   FLA  S14E47    SF                9876
+
+4130       2254   ////      1016  LEA  C   RSP  072-180   CTM/1             9871
+4130       2353   2357      0006  HOL  3   FLA  S18W39    SF                9871

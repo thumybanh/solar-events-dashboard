@@ -1,0 +1,47 @@
+:Product: 20031114events.txt
+:Created: 2003 Nov 15 2102 UT
+:Date: 2003 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9380 +     0045   0048      0051  G12  5   XRA  1-8A      B5.8    1.7E-04   0501
+
+9390 +     0220   0226      0232  G12  5   XRA  1-8A      B6.3    3.7E-04   0501
+
+9400 +     0237   0240      0245  G12  5   XRA  1-8A      B5.1    2.2E-04   0501
+
+9410       0751   ////      0752  SVI  C   RSP  025-144   III/1                 
+
+9420 +     0905   0914      0928  G12  5   XRA  1-8A      B5.0    6.0E-04   0501
+9420       0917   ////      0917  SVI  C   RSP  025-043   III/1             0501
+
+9430 +     1030   1042      1046  G12  5   XRA  1-8A      C1.0    6.2E-04   0501
+9430       1031   ////      1031  SVI  C   RSP  025-123   III/1             0501
+9430       1036   1036      1037  SVI  G   RBR  245       260               0501
+
+9440 +     1248   1257      1301  G12  5   XRA  1-8A      C1.4    6.8E-04   0501
+9440 +     1252   ////      1254  SVI  C   RSP  025-081   III/2             0501
+9440 +     1253   1254      1254  SVI  G   RBR  4995      55                0501
+9440       1254   1254      1254  SVI  G   RBR  2695      29                0501
+9440       1254   1254      1254  SVI  G   RBR  8800      35                0501
+
+9450 +     1344   1359      1409  G12  5   XRA  1-8A      C1.4    1.4E-03   0501
+
+9460 +     1410   1415      1419  G12  5   XRA  1-8A      C1.7    7.2E-04   0501
+
+9470 +     1708   1715      1732  G12  5   XRA  1-8A      B8.2    9.0E-04   0501
+
+9480 +     1830   ////      1831  SAG  C   RSP  030-055   III/2                 
+
+9490 +     2002   2005      2009  G12  5   XRA  1-8A      B3.4    1.3E-04   0501
+
+9500 +     2019   2028      2031  G12  5   XRA  1-8A      B9.6    4.8E-04   0501
+
+9510 +     2249   2253      2255  G12  5   XRA  1-8A      B6.0    1.7E-04   0501

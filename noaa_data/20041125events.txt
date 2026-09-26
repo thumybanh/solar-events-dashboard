@@ -1,0 +1,43 @@
+:Product: 20041125events.txt
+:Created: 2004 Nov 28 0302 UT
+:Date: 2004 11 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Nov 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6620 +     0005   0009      0012  G12  5   XRA  1-8A      B7.3    2.7E-04   0705
+6620       0008   0009      0011  G12  5   XFL  S06W90    6.5E+02 1.5E+03   0705
+
+6630 +     0014   ////      0016  CUL  C   RSP  20-180    III/2                 
+
+6640       0048   ////      0048  CUL  C   RSP  50-140    III/1                 
+
+6650 +     0104   ////      0104  CUL  C   RSP  18-200    III/3                 
+
+6660 +     0106   0113      0122  G12  5   XRA  1-8A      B9.8    7.6E-04   0704
+6660       0109   0116      0121  G12  5   XFL  N10W01    1.3E+03 3.3E+03   0704
+6660       0111   ////      0112  CUL  C   RSP  25-90     III/1             0704
+
+6670       0137   0140      0142  G10  5   XRA  1-8A      B5.2    1.4E-04       
+
+6680       0339   ////      0339  CUL  C   RSP  40-140    III/1                 
+
+6690 +     0535   0604      0625  G12  5   XRA  1-8A      B7.4    1.8E-03   0707
+6690       0537   0553      0621  G12  5   XFL  S14E58    4.0E+02 8.3E+02   0707
+6690 +     0603   ////      0604  CUL  C   RSP  20-180    III/2             0707
+
+6700 +     0940   ////      0941  LEA  C   RSP  025-111   III/1                 
+
+6710 +     1041   1101      1115  G12  5   XRA  1-8A      C2.6    4.3E-03       
+6710       1044   1110      1113  G12  5   XFL  N10E81    2.8E+03 1.2E+04       
+
+6720 +     1438   1443      1449  G12  5   XRA  1-8A      B5.3    3.0E-04   0704
+6720       1441   1448      1448  G12  5   XFL  N11W09    4.8E+02 8.8E+02   0704
+
+6730 +     2307   2321      0031  G12  5   XRA  1-8A      B4.8    2.2E-03       

@@ -1,0 +1,71 @@
+:Product: 20020128events.txt
+:Created: 2002 Jan 31 0300 UT
+:Date: 2002 01 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1340       0001   ////      0001  CUL  C   RSP  65-90     III/1                 
+
+1070 +     0300   0310      0327  GO8  5   XRA  1-8A      C9.6    1.2E-02   9788
+1070       0305   0309      0313  LEA  2   FLA  N19W71    SF      ERU       9788
+
+1080 +     0447   ////      0451  CUL  C   RSP  57-180    III/2                 
+
+1090 +     0542   ////      0543  LEA  C   RSP  025-180   III/1                 
+
+1100       0608   ////      0608  LEA  C   RSP  034-057   III/1                 
+
+1120       0656   0657      0700  SVI  G   RBR  245       310               9787
+1120 +     0656   ////      0701  CUL  C   RSP  57-280    III/2             9787
+1120       0658   0659      0659  SVI  G   RBR  410       74                9787
+1120       0659   0703      0712  LEA  2   FLA  S06W55    SF                9787
+
+1350       0707   ////      0708  CUL  C   RSP  57-180    III/1                 
+
+1130       0717   0718      0721  LEA  2   FLA  N13W32    SF                9794
+
+1140       0818   0818      0825  LEA  2   FLA  S09W51    SF                9787
+
+1150       0828   0831      0833  LEA  2   FLA  S09W51    SF      ERU       9787
+
+1160       0852   0852      0852  SVI  G   RBR  245       55                    
+
+1320      A1025   ////     B2325  LEA  3   DSF  N34E30    26      B.0A          
+
+1170 +     1105   1110      1116  GO8  5   XRA  1-8A      C4.6    2.7E-03       
+
+1180       1209   1209      1210  SVI  G   RBR  245       170                   
+
+1210      B1318  U1318      1324  RAM  3   FLA  S04W55    SF                9787
+
+1220      B1400  U1400     A1406  RAM  3   FLA  S06W60    SF                9787
+
+1240 +     1749   1754      1759  GO8  5   XRA  1-8A      C8.1    3.3E-03   9800
+
+1250       1912   ////      1915  HOL  C   RSP  025-172   III/1                 
+1250 +     1914   1914      1914  SAG  G   RBR  245       90                    
+1250 +     1914   1914      1914  SAG  G   RBR  410       210                   
+
+1260 +     1948   1948      1949  PAL  G   RBR  245       50                    
+1260 +     1949   ////      1950  PAL  C   RSP  025-180   III/1                 
+
+1270       2005   ////      2005  SAG  C   RSP  041-048   III/1                 
+
+1360       2029   ////      2030  CUL  C   RSP  57-150    III/1                 
+
+1280 +     2144   ////      2145  HOL  U   RSP  025-121   III/1                 
+
+1290 +     2234   2237      2242  GO8  5   XRA  1-8A      C2.6    1.1E-03   9800
+1290       2236   2238      2240  HOL  3   FLA  N05E20    SF                9800
+1290 +     2256   ////      2257  HOL  C   RSP  025-180   III/1             9800
+
+1310 +     2342   2349      2353  GO8  5   XRA  1-8A      C9.6    3.9E-03       
+
+1330      A2352   ////     B1451  HOL  3   DSF  S39E39    16      B.0A          

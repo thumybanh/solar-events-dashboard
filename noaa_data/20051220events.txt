@@ -1,0 +1,53 @@
+:Product: 20051220events.txt
+:Created: 2005 Dec 23 0329 UT
+:Date: 2005 12 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7800       0102   0102      0102  PAL  G   RBR  245       66                    
+
+7810       0108   0108      0108  PAL  G   RBR  245       53                    
+
+7820       0111   0112      0112  PAL  G   RBR  410       57                    
+
+7830       0132   0132      0132  PAL  G   RBR  245       96                    
+
+7840       0145   0145      0145  PAL  G   RBR  245       90                    
+
+7850       0212   0215      0219  G12  5   XRA  1-8A      B1.0    3.9E-05   0835
+7850       0215   0216      0216  G12  5   XFL  N20W56    1.9E+03 5.5E+03   0835
+
+7860       0402   ////      0402  LEA  C   RSP  025-114   III/2                 
+
+7880       0432   ////      1048  LEA  C   RSP  075-180   CTM/1                 
+
+7870 +     0500   0509      0554  LEA  G   RNS  245       62                    
+7870       0700   ////      1200  IZM  F   RNS  204       35                    
+
+7890       0812   0812      0812  SVI  G   RBR  245       58                    
+
+7900 +     0839   0845      0854  G12  5   XRA  1-8A      B1.4    1.1E-04   0837
+7900       0843   0852      0852  G12  5   XFL  S10W13    2.3E+03 7.2E+03   0837
+
+7910       1142   ////      1143  SVI  C   RSP  032-126   III/1                 
+
+7920 +     1527   1531      1536  G12  5   XRA  1-8A      B1.4    6.8E-05   0835
+7920       1531   1535      1535  G12  5   XFL  N20W65    2.4E+03 7.4E+03   0835
+
+7930       1800   1805      1808  G10  5   XRA  1-8A      B1.3    5.2E-05       
+
+7940 +     1851   1855      1858  G12  5   XRA  1-8A      B1.3    3.8E-05   0837
+7940 +     1853   1853      1854  SAG  G   RBR  245       180               0837
+7940 +     1853   ////      1855  PAL  C   RSP  025-180   III/1             0837
+7940       1856   1856      1857  G12  5   XFL  S10W18    1.1E+03 2.6E+03   0837
+
+7950 +     2248   ////      2249  LEA  C   RSP  040-180   III/2                 
+
+7960       2335   2339      2345  G10  5   XRA  1-8A      B1.0    5.7E-05       

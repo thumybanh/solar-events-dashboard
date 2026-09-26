@@ -1,0 +1,47 @@
+:Product: 20040922events.txt
+:Created: 2004 Sep 25 0302 UT
+:Date: 2004 09 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Sep 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4720 +     0048   ////      0048  LEA  C   RSP  025-180   III/1                 
+
+4730       0133   0133      0133  LEA  G   RBR  245       57                    
+
+4740 +     0145   0145      0146  LEA  G   RBR  245       78                    
+
+4750 +     0157   0157      0157  LEA  G   RBR  245       91                    
+
+4770 +     0655   0705      0712  G12  5   XRA  1-8A      B7.8    5.8E-04   0672
+4770       0659   0710      0711  G12  5   XFL  N04W90    1.8E+03 5.6E+03   0672
+4770 +     0701   ////      0701  CUL  C   RSP  20-140    III/2             0672
+
+4780       0818   0829      0836  G12  5   XRA  1-8A      B7.9    6.0E-04   0672
+4780       0822   0831      0835  G12  5   XFL  N05W90    1.8E+03 5.3E+03   0672
+
+4790       0854   0920      0936  G12  5   XRA  1-8A      C3.2    5.7E-03   0673
+4790       0857   0926      0935  G12  5   XFL  S14W09    4.8E+03 1.8E+04   0673
+4790       0903  U0907     A0925  SVI  2   FLA  S13W08    SF      ERU       0673
+
+4810       1509   1509      1509  SAG  U   RBR  2695      52                    
+
+4820 +     1601   1606      1617  G12  5   XRA  1-8A      B4.4    3.8E-04   0673
+4820       1606   1615      1615  G12  5   XFL  S13W13    4.5E+02 8.6E+02   0673
+
+4830 +     1707   1714      1719  G12  5   XRA  1-8A      B6.2    2.7E-04   0672
+4830       1710   1715      1717  HOL  3   FLA  N03W86    SF                0672
+4830       1710   1715      1718  G12  5   XFL  N04W90    1.2E+03 3.0E+03   0672
+4830       1718   1719      1722  HOL  3   FLA  N03W90    SF                0672
+
+4840 +     1823   1827      1831  G12  5   XRA  1-8A      B3.8    1.5E-04   0672
+4840       1826   1827      1830  G12  5   XFL  N05W90    8.5E+02 1.9E+03   0672
+
+4850 +     1844   1901      1910  G12  5   XRA  1-8A      B8.2    9.7E-04   0672
+4850       1848   1906      1910  G12  5   XFL  N05W90    1.5E+03 3.9E+03   0672

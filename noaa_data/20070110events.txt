@@ -1,0 +1,66 @@
+:Product: 20070110events.txt
+:Created: 2007 Jan 14 2332 UT
+:Date: 2007 01 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6550       0008   ////      0008  LEA  C   RSP  025-050   III/1                 
+
+6560 +     0022   ////      0022  LEA  C   RSP  025-070   III/1                 
+
+6570       0032   ////      0032  LEA  C   RSP  025-050   III/1                 
+
+6580       0122   ////      0129  LEA  C   RSP  025-062   III/1                 
+
+6590 +     0134   ////      0139  LEA  C   RSP  025-135   III/1                 
+
+6600       0226   ////      0227  LEA  C   RSP  025-066   III/1                 
+
+6610 +     0243   ////      0243  CUL  C   RSP  20-80     III/1                 
+
+6710       0455   ////      0455  CUL  C   RSP  20-60     III/1                 
+
+6720       0748   ////      0748  CUL  C   RSP  20-70     III/1                 
+
+6730       0759   ////      0759  CUL  C   RSP  20-80     III/1                 
+
+6620 +     0834   0840      0842  G12  5   XRA  1-8A      B1.8    6.5E-05   0933
+6620       0839   0841      0841  G12  5   XFL  S02W64    3.3E+02 6.6E+02   0933
+
+6630       0847   ////      0847  LEA  C   RSP  025-058   III/1                 
+
+6640 +     0901   0905      0907  G12  5   XRA  1-8A      B1.3    3.7E-05   0933
+6640       0905   0905      0905  G12  5   XFL  S02W64    5.0E+01 8.3E+01   0933
+
+6650 +     0914   0951      1000  G12  5   XRA  1-8A      C1.7    2.2E-03   0933
+6650       0921   0951      0957  G12  5   XFL  S02W62    3.7E+03 1.1E+04   0933
+6650 +     0924   0931      0933  LEA  3   FLA  S04W59    SF      ERU       0933
+6650       0950   0950      0950  LEA  U   RBR  606       140               0933
+
+6660       1010   1013      1016  LEA  3   FLA  S05W61    SF      ERU       0933
+
+6670 +     1053   1056      1058  G12  5   XRA  1-8A      B3.9    6.1E-05   0933
+6670       1055   ////      1055  SVI  C   RSP  049-082   III/1             0933
+6670       1056   1056      1056  G12  5   XFL  S02W65    8.0E+02 1.8E+03   0933
+
+6680       1341   ////      1341  SAG  C   RSP  030-037   III/1                 
+
+6740       2008   ////      2008  CUL  C   RSP  20-130    III/1                 
+
+6690 +     2159   2210      2215  G12  5   XRA  1-8A      B1.4    1.2E-04   0933
+6690       2207   2207      2207  G12  5   XFL  S01W77    5.0E+01 8.3E+01   0933
+
+6750       2218   ////      2218  CUL  C   RSP  23-90     III/1                 
+
+6760       2245   ////      2250  CUL  C   RSP  20-70     III/1                 
+
+6700 +     2322   2326      2330  G12  5   XRA  1-8A      B1.1    4.8E-05       
+
+6770       2335   ////      2343  CUL  C   RSP  23-60     III/1                 

@@ -1,0 +1,42 @@
+:Product: 20240314events.txt
+:Created: 2024 Mar 17 0357 UT
+:Date: 2024 03 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Mar 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5430 +     0204   0215      0222  G16  5   XRA  1-8A      C3.7    2.5E-03   3599
+5430       0211   ////      0211  PAL  C   RSP  025-180   III/1                 
+
+5440 +     0355   0404      0410  G16  5   XRA  1-8A      C1.7    1.3E-03   3599
+
+5450       0511   0516      0522  G18  5   XRA  1-8A      C1.0    6.6E-04   3599
+
+5460 +     0552   0604      0611  G16  5   XRA  1-8A      M1.0    5.5E-03   3599
+5460       0600   ////      0600  SVI  C   RSP  036-135   III/1             3599
+5460       0600   ////      0613  LEA  C   RSP  025-180   VI/1              3599
+5460      B0604  U0608      0609  SVI  3   FLA  S11W82    SF                3599
+
+5470       0718   ////      0851  SVI  3   DSF  N37W10    9                     
+
+5480 +     1041   1059      1118  G16  5   XRA  1-8A      C4.0    7.7E-03   3599
+
+5490 +     1125   ////      1126  SVI  C   RSP  057-160   III/1                 
+
+5500       1243   ////      1244  SVI  C   RSP  076-151   III/1                 
+
+5510 +     1404   ////      1418  SVI  C   RSP  025-139   VI/2                  
+
+5520       1522   ////      1523  SVI  C   RSP  053-085   III/1                 
+
+5570      A1612   ////     A0542  SVI  3   DSF  N32W38    7                     
+
+5530 +     1747   1758      1809  G16  5   XRA  1-8A      C3.0    2.8E-03   3599
+
+5540 +     2048   2057      2103  G16  5   XRA  1-8A      C1.8    1.4E-03   3599

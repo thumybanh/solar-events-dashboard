@@ -1,0 +1,49 @@
+:Product: 19981203events.txt
+:Created: 1998 Dec 06 0302 UT
+:Date: 1998 12 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8580 +     0434   0438      0444  GO8  5   XRA  1-8A      C1.0    5.4E-04   8397
+8580       0439   0440      0443  LEA  3   FLA  N14E34    SF      ERU       8397
+
+8640       0700   0808      0900       F   RBR  204       130                   
+
+8590 +     0724   ////      0728  CUL  C   RSP  35-160    III/1                 
+
+8640 +     0740   ////      0740  CUL  C   RSP  40-160    III/1                 
+
+8600       0851   ////      0900  LEA  C   RSP  030-08    III/1                 
+
+8610       1129   ////      1129  SVI  C   RSP  059-08    III/1                 
+
+8620       1147   ////      1148  SVI  C   RSP  056-07    III/1                 
+
+8630 +     1159   1207      1220  GO8  5   XRA  1-8A      C2.0    1.9E-03   8395
+8630       1204   1205      1237  RAM  2   FLA  N19W25    SF      ERU       8395
+
+8650       1330   ////      1330  SVI  C   RSP  076-08    III/1                 
+
+8660       1732   ////      1733  SAG  C   RSP  030-05    III/1                 
+8660       1732   1736      1736  SAG  G   RBR  245       65                    
+
+8670       2019   2019      2025  HOL  3   FLA  N12W15    SF                8401
+
+8730       2103   ////      2104  CUL  C   RSP  55-260    III/1                 
+
+8680 +     2113   ////      2118  CUL  C   RSP  18-220    III/2             8402
+8680       2115   2119      2125  HOL  3   FLA  N14E43    SF                8402
+
+8690 +     2123   ////      2124  CUL  C   RSP  18-90     III/2                 
+
+8700       2211   2219      2235  HOL  3   FLA  N20E38    SF                8402
+8700 +     2226   ////      2226  CUL  C   RSP  18-90     III/2             8402
+
+8710 +     2309   ////      2310  LEA  C   RSP  030-08    III/2                 

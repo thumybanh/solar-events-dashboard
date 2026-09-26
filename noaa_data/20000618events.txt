@@ -1,0 +1,86 @@
+:Product: 20000618events.txt
+:Created: 2000 Jun 21 0302 UT
+:Date: 2000 06 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jun 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1110       0003   ////      0005  CUL  C   RSP  20-140    III/1                 
+
+810  +     0152   0159      0203  GO8  5   XRA  1-8A      X1.0    3.4E-02   9033
+810  +     0154   0158      0202  LEA  G   RBR  245       11000             9033
+810  +     0155   0157      0159  LEA  G   RBR  4995      310               9033
+810  +     0155   0157      0159  LEA  G   RBR  8800      570               9033
+810  +     0155   0157      0159  PAL  G   RBR  2695      300               9033
+810  +     0156   0157      0200  LEA  G   RBR  606       170               9033
+810        0156   0157      0213  LEA  4   FLA  N23W85    SF                9033
+810  +     0156   0157      0200  LEA  G   RBR  1415      230               9033
+810  +     0156   0157      0158  LEA  G   RBR  15400     530               9033
+810        0156   ////      0233  LEA  4   BSL  N19W90    0.21    B.9A      9033
+810  +     0157   0158      0159  LEA  G   RBR  410       1900              9033
+810  +     0157   ////      0204  CUL  C   RSP  18-180    III/3             9033
+810  +     0157   ////      0211  CUL  C   RSP  30-650    II/3              9033
+
+820  +     0209   0209      0209  LEA  G   RBR  245       41                    
+820  +     0209   0209      0209  LEA  G   RBR  410       72                    
+
+840  +     0239   0240      0240  LEA  G   RBR  245       51                    
+
+850        0351   0353      0401  LEA  4   FLA  N25E12    SF                9042
+
+860        0450   0458      0500  LEA  G   RBR  245       79                    
+860        0459   ////      0500  CUL  C   RSP  60-180    III/1                 
+
+1120       0518   ////      0520  CUL  C   RSP  28-150    III/1                 
+
+870        0524   0524      0524  LEA  G   RBR  245       77                    
+
+880        0551   0555      0556  LEA  G   RBR  245       64                    
+
+890  +     0557   ////      0557  CUL  C   RSP  28-90     III/1                 
+
+1030      A0614   ////      0619  SVI  3   DSF  N50E45    14      B.0A          
+
+930  +     0648   1124      2057  COM  G   RNS  245       240                   
+
+910  +     0718   ////      0718  SVI  C   RSP  035-08    III/1                 
+
+920  +     0805   ////      0807  LEA  C   RSP  030-08    III/2             9037
+920        0812   0819      0847  LEA  3   FLA  N24W47    SF      ERU       9037
+
+940        1031   ////      1031  SVI  C   RSP  035-05    III/1                 
+
+950        1116   ////      1116  SVI  C   RSP  035-05    III/1                 
+
+960        1137   ////      1137  SVI  C   RSP  035-05    III/1                 
+
+980        1440   ////      1442  HOL  C   RSP  025-15    III/1                 
+
+990        1502   ////      1503  SAG  C   RSP  030-06    III/1                 
+
+1000       1558   1558      1558  SVI  G   RBR  410       64                    
+
+1010       1637   1644      1644  SVI  G   RBR  410       53                    
+
+1020 +     1659   1703      1706  GO8  5   XRA  1-8A      C1.4    5.3E-04       
+
+1090      A1831   ////      2155  RAM  2   DSF  N46E77    31      B.0A          
+
+1040 +     2127   ////      2128  CUL  C   RSP  30-180    III/1                 
+
+1050       2219   2219      2220  SAG  G   RBR  410       34                    
+1050       2220   2220      2221  SAG  G   RBR  245       100                   
+
+1060       2232   2236      2239  HOL  3   FLA  N18E33    SF      ERU       9046
+
+1070       2250   ////      2253  PAL  C   RSP  025-06    III/1                 
+
+1080 +     2300   2300      2300  PAL  G   RBR  245       590                   
+
+1100       2322   2322      2323  SAG  G   RBR  245       99                    

@@ -1,0 +1,41 @@
+:Product: 20000211events.txt
+:Created: 2000 Feb 14 0302 UT
+:Date: 2000 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2520       0000   0000      0007  HOL  3   FLA  S25E59    SF                8869
+
+2420       0330   ////      0331  LEA  C   RSP  030-08    III/1                 
+
+2430       0924   ////      0925  SVI  C   RSP  035-07    III/1                 
+
+2440       1048   ////      1048  SVI  U   RSP  035-08    III/1                 
+
+2450       1216   1217      1217  SVI  G   RBR  410       65                    
+2450       1216   1217      1217  SVI  G   RBR  606       180                   
+
+2460       1221   1237      1240  SVI  G   RBR  410       450                   
+2460       1222   1231      1241  SVI  G   RBR  606       13000                 
+2460 +     1222   1231      1241  SVI  G   RBR  606       13000                 
+2460 +     1225   1234      1244  G10  5   XRA  1-8A      C2.3    2.4E-03       
+2460       1225   1231      1233  SVI  G   RBR  1415      76                    
+2460 +     1225   1231      1233  SVI  G   RBR  1415      76                    
+
+2470 +     1455   1459      1504  GO8  5   XRA  1-8A      C1.8    7.8E-04   8858
+2470       1457   1459      1507  HOL  3   FLA  N24W18    SF                8858
+
+2480       1719   1722      1738  HOL  3   FLA  S15E37    SF      ERU       8863
+
+2490       1934   1935      1939  HOL  3   FLA  N24W21    SF                8858
+
+2500       1946   1947      1950  HOL  3   FLA  N24W20    SF                8858
+
+2510       1955   1956      1959  HOL  3   FLA  N24W21    SF                8858

@@ -1,0 +1,40 @@
+:Product: 20021026events.txt
+:Created: 2002 Oct 29 0300 UT
+:Date: 2002 10 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Oct 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5450 +     0319   0327      0330  GO8  5   XRA  1-8A      C2.8    1.5E-03       
+
+5460       0600   ////      0900  IZM  F   RNS  204       30                    
+
+5470 +     1429   1433      1438  GO8  5   XRA  1-8A      B8.7    4.3E-04       
+
+5760      A1512   ////     B0654  SVI  3   DSF  ////      11      B.0A      0000
+
+5770 +    A1512   ////     B2317  COM  3   DSF  ////      15      B.0A      0000
+
+5760 +    A1512   ////     B2317  COM  3   DSF  ////      10      B.0A      0000
+
+5480       1643   ////      1643  HOL  C   RSP  025-139   III/1                 
+
+5490       1647   1647      1647  SAG  G   RBR  245       53                    
+
+5500       1753   1753      1753  SAG  G   RBR  245       63                    
+
+5520       1813   1817      1824  SAG  G   RBR  245       180                   
+
+5510 +     1828   1838      1850  GO8  5   XRA  1-8A      C2.3    2.6E-03       
+
+5530       2034   ////      2035  HOL  C   RSP  025-180   III/1                 
+
+5540       2053   ////      2053  HOL  C   RSP  025-164   III/1                 
+
+5550       2121   2121      2121  PAL  G   RBR  410       110                   

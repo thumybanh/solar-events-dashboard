@@ -1,0 +1,56 @@
+:Product: 20010106events.txt
+:Created: 2001 Jan 09 0302 UT
+:Date: 2001 01 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3710 +     0012   ////      0013  LEA  C   RSP  036-180   III/1                 
+
+3720       0040   ////      0040  LEA  C   RSP  051-102   III/1                 
+
+3730       0135   ////      0136  LEA  C   RSP  025-162   V/3                   
+3730       0135   ////      0136  PAL  C   RSP  025-180   III/2                 
+
+3740       0215   ////      0216  LEA  C   RSP  025-101   III/1                 
+
+3750       0358   ////      0359  LEA  C   RSP  025-158   III/1                 
+
+3760 +     0623   0630      0641  GO8  5   XRA  1-8A      C1.4    1.4E-03       
+3760       0626   0628      0632  LEA  3   FLA  N25E64    SF      ERU           
+
+3770       0656   ////      0657  LEA  C   RSP  025-161   III/1                 
+
+3780 +     0932   ////      0932  LEA  C   RSP  025-139   III/1                 
+
+3790       1000   1001      1001  SVI  G   RBR  245       66                    
+
+3800       1205   ////      1337  SVI  U   RSP  030-157   CTM/1                 
+
+3810 +     1351   ////      1359  SVI  C   RSP  031-180   III/2                 
+3810 +     1357   1357      1358  SAG  G   RBR  245       69                    
+
+3820       1420   ////      1420  SVI  C   RSP  034-145   III/1                 
+
+3830       1449   1520      1548  G10  5   XRA  1-8A      C3.6    9.2E-03   9302
+
+3850 +     1503   1522      1602  RAM  3   FLA  S11W67    SF                9291
+
+3830       1530   1533      1541  HOL  3   FLA  N21E58    SF                9302
+
+3860       1757   1802      1808  PAL  G   RBR  2695      31                    
+3860 +     1808   1808      1808  SAG  G   RBR  245       63                    
+
+3870 +     2122   2130      2140  GO8  5   XRA  1-8A      C2.2    1.9E-03       
+
+3880       2244   ////      2248  LEA  C   RSP  046-180   III/1                 
+3880       2247   2247      2247  LEA  G   RBR  245       140                   
+
+3890 +     2335   2350      0011  GO8  5   XRA  1-8A      C5.5    9.0E-03       
+3890       2337   ////      2338  LEA  C   RSP  030-090   III/1                 

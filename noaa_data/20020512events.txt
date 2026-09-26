@@ -1,0 +1,99 @@
+:Product: 20020512events.txt
+:Created: 2002 May 15 0300 UT
+:Date: 2002 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7740       0002   0002      0003  LEA  G   RBR  245       100                   
+
+7750 +     0013   ////      0014  LEA  C   RSP  025-180   III/1                 
+
+8060       0055   ////      0055  CUL  C   RSP  57-90     III/1                 
+
+7760       0059   0059      0100  LEA  G   RBR  245       110                   
+7760       0100   0120      0140  GO8  5   XRA  1-8A      C1.4    2.7E-03       
+7760       0134   ////      0134  CUL  C   RSP  57-90     III/1                 
+
+8070       0155   ////      0159  CUL  C   RSP  60-180    III/1                 
+
+7860 +     0224   0246      0600  LEA  G   RNS  245       64                    
+
+7790       0229   0316      0400  GO8  5   XRA  1-8A      C2.2    9.0E-03   9928
+
+7770       0252   ////      0252  LEA  C   RSP  124-180   III/1                 
+
+7790       0253   ////      0253  CUL  C   RSP  120-260   III/1             9928
+
+7780 +     0258   ////      0258  LEA  C   RSP  030-099   III/1                 
+
+7790      B0310   ////      0334  LEA  3   EPL  N17W90    0.27    B.8A      9928
+
+8080       0415   ////      0415  CUL  C   RSP  70-160    III/1                 
+
+8090       0546   ////      0547  CUL  C   RSP  240-380   III/1                 
+
+7800 +     0640   0641      0641  LEA  G   RBR  245       70                    
+
+7810 +     0659   0659      0700  LEA  G   RBR  245       100                   
+
+7820 +     0824   0824      0824  SVI  G   RBR  245       51                    
+7820       0824   ////      0824  LEA  C   RSP  108-180   III/1                 
+
+7830 +     0843   0843      0844  SVI  G   RBR  245       79                    
+
+7880       0925   0953      1012  GO8  5   XRA  1-8A      C3.7    6.5E-03       
+
+7840       0930   0930      0930  SVI  G   RBR  245       61                    
+
+7850       1157   1157      1157  SAG  G   RBR  245       69                    
+7850 +     1157   ////      1157  SVI  C   RSP  025-180   III/1                 
+
+7890       1214   1215      1220  RAM  4   FLA  S16W70    SF                9934
+
+7910 +     1338   ////      1339  HOL  C   RSP  025-072   III/1                 
+
+7920       1344   1344      1345  SAG  G   RBR  245       50                    
+
+7930       1354   1354      1355  SAG  G   RBR  245       120                   
+
+7940 +     1402   1402      1402  SAG  G   RBR  245       140                   
+
+7950       1403   1404      1409  RAM  4   FLA  S16W70    SF                9934
+7950       1408   1408      1408  SAG  G   RBR  245       65                9934
+
+7960       1418   1418      1418  SVI  G   RBR  410       65                    
+
+7970 +     1445   1451      1510  RAM  4   FLA  S16W64    SF      ERU       9934
+7970       1446   1451      1500  G10  5   XRA  1-8A      C1.2    9.3E-04   9934
+
+7980 +     1647   1647      1647  SAG  G   RBR  245       77                    
+
+7990 +     1650   1653      1659  GO8  5   XRA  1-8A      C1.2    5.9E-04   9934
+7990 +     1651   1652      1652  SAG  G   RBR  2695      520               9934
+7990       1652   1653      1656  RAM  3   FLA  S16W66    SF                9934
+7990 +     1658   1658      1658  SAG  G   RBR  245       230               9934
+
+8000       1702   1702      1710  RAM  4   FLA  S16W71    SF                9934
+
+8010 +     1935   1935      1935  SAG  G   RBR  245       51                9934
+8010 +     1935   1938      1941  GO8  5   XRA  1-8A      C1.0    3.3E-04   9934
+8010 +     1937   1937      1950  RAM  4   FLA  S16W72    SF      ERU       9934
+
+8050       1943   1957      2014  GO8  5   XRA  1-8A      C1.4    2.2E-03       
+
+8040       2026   2127      2216  SAG  G   RNS  245       99                    
+
+8020 +     2103   2104      2118  RAM  4   FLA  S25E56    SF      ERU       9948
+
+8030       2127   2127      2128  PAL  G   RBR  245       90                    
+
+8100       2339   ////      2339  CUL  C   RSP  57-130    III/1                 
+
+8110       2349   ////      2352  CUL  C   RSP  57-180    III/1                 

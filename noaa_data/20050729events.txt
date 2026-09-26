@@ -1,0 +1,46 @@
+:Product: 20050729events.txt
+:Created: 2005 Jul 30 1229 UT
+:Date: 2005 07 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jul 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3700      A0108   ////     B1324  HOL  3   DSF  S25E33    13      B.0A          
+
+3600       0439   0439      0439  LEA  G   RBR  410       60                    
+
+3610       0605   0605      0605  LEA  G   RBR  410       63                    
+
+3640       0910   0913      0916  G10  5   XRA  1-8A      B3.5    1.1E-04       
+
+3650 +     0932   0935      0938  G12  5   XRA  1-8A      B4.4    1.3E-04   0792
+3650       0935   0937      0937  G12  5   XFL  N10E73    6.8E+02 1.5E+03   0792
+
+3660       1118   ////      1118  SVI  C   RSP  025-081   III/1                 
+
+3670 +     1146   1151      1156  G12  5   XRA  1-8A      B3.4    1.9E-04   0792
+3670       1149   1153      1155  G12  5   XFL  N10E72    3.8E+02 7.4E+02   0792
+
+3680 +     1208   1212      1217  G12  5   XRA  1-8A      B6.0    2.4E-04   0792
+3680       1211   1213      1215  G12  5   XFL  N10E72    9.0E+02 2.1E+03   0792
+
+3690       1220   ////      1220  SVI  C   RSP  025-054   III/1                 
+
+3710 +     1342   1424      1517  G12  5   XRA  1-8A      B7.6    3.3E-03   0792
+3710       1345   1455      1515  G12  5   XFL  N09E71    1.0E+03 2.2E+03   0792
+
+3720 +     1723   1732      1739  G12  5   XRA  1-8A      C3.4    2.2E-03   0792
+3720 +     1727   1727      1727  PAL  G   RBR  4995      57                0792
+3720       1727   1735      1737  G12  5   XFL  N12E69    7.5E+03 2.2E+04   0792
+3720       1730   1730      1730  SAG  G   RBR  1415      21                0792
+3720 +     1730   1731      1731  SAG  G   RBR  8800      63                0792
+3720 +     1730   1731      1731  SAG  G   RBR  15400     130               0792
+3720       1739   ////      1825  HOL  3   EPL  ////      0.25    B.9A      0792
+
+3730 +     1921   ////      1921  PAL  C   RSP  025-146   III/1                 

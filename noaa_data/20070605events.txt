@@ -1,0 +1,95 @@
+:Product: 20070605events.txt
+:Created: 2007 Jun 09 2332 UT
+:Date: 2007 06 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jun 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2760       0012   ////      0012  LEA  C   RSP  025-092   III/1                 
+
+2810       0013   ////      0013  CUL  C   RSP  18-90     III/1                 
+
+2770       0029   ////      0029  LEA  C   RSP  049-180   III/1                 
+
+2820       0030   ////      0030  CUL  C   RSP  50-180    III/1                 
+
+2780 +     0134   ////      0135  LEA  C   RSP  025-110   III/1                 
+
+2830       0143   ////      0146  CUL  C   RSP  20-80     III/1                 
+
+2840       0159   ////      0201  CUL  C   RSP  20-140    III/1                 
+
+2790       0200   ////      0200  LEA  C   RSP  069-180   III/1                 
+
+2800 +     0209   ////      0210  LEA  C   RSP  025-157   III/1                 
+
+2850       0215   ////      0217  CUL  C   RSP  23-70     III/1                 
+
+2860       0302   ////      0302  CUL  C   RSP  20-70     III/1                 
+
+2870 +     0315   ////      0315  CUL  C   RSP  18-100    III/3                 
+
+2880       0401   0406      0409  LEA  3   FLA  S07E36    SF                0960
+
+2890 +     0415   0423      0429  G11  5   XRA  1-8A      C1.2    6.5E-04       
+
+2900       0415   ////      0424  CUL  C   RSP  27-100    III/1             0960
+2900      B0416  U0419     A0433  LEA  3   FLA  S07E33    SF                0960
+
+3100       0433   ////      0433  CUL  C   RSP  50-80     III/1                 
+
+2910 +     0456   0459      0503  G11  5   XRA  1-8A      B1.6    5.9E-05   0960
+2910 +     0458   ////      0500  CUL  C   RSP  18-150    III/3             0960
+2910       0501   0502      0504  LEA  3   FLA  S05E27    SF      ERU       0960
+
+2920       0506   0506      0518  LEA  3   FLA  S05E27    SF      DSD       0960
+
+2930       0519   0520      0523  LEA  3   FLA  S09E37    SF                0960
+
+2940       0524   0525      0527  LEA  3   FLA  S08E32    SF                0960
+
+2950 +     0536   ////      0536  LEA  C   RSP  025-180   III/1                 
+
+2960 +     0627   ////      0627  LEA  C   RSP  025-106   III/1                 
+
+3110       0628   ////      0628  CUL  C   RSP  27-100    III/1                 
+
+2970 +     0703   ////      0704  LEA  C   RSP  025-180   III/1                 
+
+2980 +     0744   ////      0750  SVI  C   RSP  025-151   III/1                 
+
+2990       0812   0812      0812  LEA  G   RBR  245       110                   
+
+3000       0836   ////      0839  SVI  C   RSP  025-180   III/1                 
+
+3010 +     0854   ////      0854  LEA  C   RSP  025-180   III/1                 
+
+3020 +     0911   0911      0911  SVI  G   RBR  245       120               0960
+3020 +     0920   0927      0939  G11  5   XRA  1-8A      B4.7    4.7E-04   0960
+3020 +     0923   0927      0930  LEA  3   FLA  S10E32    SF                0960
+
+3030       1026   ////      1031  SVI  C   RSP  025-180   III/1                 
+
+3040 +     1204   1207      1209  G11  5   XRA  1-8A      B2.0    5.1E-05       
+
+3060 +     1529   1613      1625  G11  5   XRA  1-8A      C6.6    7.8E-03   0960
+
+3050       1541   ////      1546  SVI  C   RSP  025-180   III/1                 
+3050       1543   1544      1544  SVI  G   RBR  245       260                   
+
+3060       1556   1612      1641  HOL  3   FLA  S07E30    1F      YSR       0960
+
+3070 +     1717   ////      1718  SVI  C   RSP  037-180   III/1                 
+
+3080 +     1726   1731      1733  G11  5   XRA  1-8A      B3.2    1.1E-04       
+3080       1731   1731      1731  PAL  G   RBR  245       100                   
+
+3120       2213   ////      2213  CUL  C   RSP  23-70     III/1                 
+
+3090 +     2320   2330      2340  G11  5   XRA  1-8A      B1.6    1.7E-04       

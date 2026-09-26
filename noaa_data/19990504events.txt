@@ -1,0 +1,57 @@
+:Product: 19990504events.txt
+:Created: 1999 May 07 0302 UT
+:Date: 1999 05 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 May 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8430       0415   0416      0417  SVI  U   RBR  15400     68                    
+
+8520       0600   0000      1200       F   RNS  204       30                    
+
+8440       0605   0605      0605  SVI  U   RBR  245       51                    
+
+8450       0634   ////      0635  SVI  C   RSP  035-05    III/2                 
+
+8460       0636   0643      0655  G10  5   XRA  1-8A      C1.1    1.1E-03       
+
+8470       0750   0750      0753  SVI  G   RBR  245       55                    
+
+8480 +     1009   1015      1027  GO8  5   XRA  1-8A      C1.1    1.1E-03       
+
+8490 +     1125   1128      1133  GO8  5   XRA  1-8A      B9.3    4.0E-04       
+
+8500 +     1258   1302      1306  GO8  5   XRA  1-8A      C1.0    4.1E-04       
+
+8530       1312   ////      1615  SVI  C   RSP  052-08    CTM/2                 
+
+8510       1424   1425      1426  SVI  G   RBR  245       62                    
+
+8520 +    B1425   2311      2323  COM  G   RNS  245       280                   
+
+8540 +     1746   1750      1754  GO8  5   XRA  1-8A      C1.0    4.3E-04       
+
+8550 +     1801   1805      1808  GO8  5   XRA  1-8A      C1.1    4.3E-04       
+
+8570 +     1816   1858      1916  GO8  5   XRA  1-8A      C2.8    7.4E-03       
+8570       1820   ////      1820  SAG  C   RSP  030-06    III/1                 
+
+8560       1831   1844      1846  HOL  3   FLA  N23E23    SF                8527
+
+8570 +     1846   1858      1924  HOL  3   FLA  N24E24    1F      ERU       8527
+
+8580       1929   1931      1935  HOL  3   FLA  N23E26    SF                8527
+
+8590 +     2104   2109      2111  GO8  5   XRA  1-8A      C1.3    4.3E-04       
+
+8600 +     2138   2143      2145  GO8  5   XRA  1-8A      C1.7    5.4E-04       
+
+8610 +     2246   2249      2251  GO8  5   XRA  1-8A      C1.2    2.9E-04       
+
+8620 +     2341   2344      2346  GO8  5   XRA  1-8A      C1.7    3.9E-04       

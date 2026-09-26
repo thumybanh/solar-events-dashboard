@@ -1,0 +1,74 @@
+:Product: 20011112events.txt
+:Created: 2001 Nov 15 0300 UT
+:Date: 2001 11 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Nov 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3250       0042   ////      0042  CUL  C   RSP  70-300    III/1                 
+
+3260 +     0110   ////      0116  CUL  C   RSP  57-300    III/2             9692
+3260       0112   0115      0119  LEA  3   FLA  N08W62    SF      ERU       9692
+
+3270 +     0202   0207      0209  GO8  5   XRA  1-8A      C5.4    1.4E-03   9690
+3270       0206   0207      0212  LEA  3   FLA  S17W04    SF      ERU       9690
+
+3280 +     0247   0301      0312  GO8  5   XRA  1-8A      C4.8    5.2E-03   9692
+3280 +     0250   0304      0324  LEA  3   FLA  N07W73    SF      ERU       9692
+
+3290       0320   ////      0322  CUL  C   RSP  57-90     III/1                 
+
+3300 +     0345   ////      0352  LEA  C   RSP  025-180   III/1             9697
+3300       0347   0355      0400  LEA  3   FLA  N13E71    SF                9697
+
+3310 +     0440   ////      0442  CUL  C   RSP  57-300    III/2                 
+
+3470       0728   ////      0728  CUL  C   RSP  57-90     III/1                 
+
+3320 +     0732   0736      0738  GO8  5   XRA  1-8A      C2.3    6.6E-04   9690
+3320       0734   0736      0736  SVI  G   RBR  8800      69                9690
+3320       0736   0736      0736  SVI  G   RBR  4995      28                9690
+3320 +     0736   0736      0736  SVI  G   RBR  15400     60                9690
+3320       0736   0736      0740  LEA  3   FLA  S17W07    SF      ERU       9690
+
+3330 +     0752   0757      0801  GO8  5   XRA  1-8A      M1.6    5.2E-03   9692
+3330 +     0755   0755      0756  SVI  G   RBR  4995      120               9692
+3330 +     0755   0755      0757  SVI  G   RBR  8800      230               9692
+3330 +     0755   0755      0758  SVI  G   RBR  15400     280               9692
+3330       0755   0756      0816  LEA  3   FLA  N07W74    1B      ERU       9692
+
+3340       0833   0938      1009  GO8  5   XRA  1-8A      C7.0    2.5E-02       
+
+3350       1353   1353      1353  SAG  G   RBR  245       80                    
+3350 +     1353   ////      1353  HOL  C   RSP  058-180   III/1                 
+
+3400 +     1353   1602      1602  SAG  G   RNS  245       410                   
+
+3360       1354   1354      1354  SAG  G   RBR  1415      29                    
+
+3370       1355   1400      1410  RAM  3   FLA  S16W16    SF                9690
+
+3380       1507   1508      1509  SVI  G   RBR  1415      45                    
+3380       1509   1510      1511  SVI  G   RBR  15400     91                    
+
+3390       1602   ////      1602  HOL  C   RSP  060-180   III/1                 
+
+3430       1932   1947      1958  GO8  5   XRA  1-8A      C2.5    3.4E-03       
+
+3410       2024   2033      2037  GO8  5   XRA  1-8A      C2.4    1.6E-03   9690
+3410       2042   2042      2045  HOL  3   FLA  S16W16    SF      ERU       9690
+
+3420       2152   2155      2158  GO8  5   XRA  1-8A      C2.0    6.4E-04   9690
+3420       2154   2155      2157  HOL  3   FLA  S16W16    SF      ERU       9690
+
+3450 +     2226   ////      2229  LEA  C   RSP  030-146   III/1                 
+
+3480       2255   ////      0057  LEA  C   RSP  081-180   CTM/1                 
+
+3460 +     2315   2319      2322  GO8  5   XRA  1-8A      C5.2    1.5E-03       

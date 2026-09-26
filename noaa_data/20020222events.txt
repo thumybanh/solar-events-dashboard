@@ -1,0 +1,49 @@
+:Product: 20020222events.txt
+:Created: 2002 Feb 25 0300 UT
+:Date: 2002 02 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Feb 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7200 +     0056   ////      0058  CUL  C   RSP  57-220    III/2                 
+
+7350       0213   0229      0240  GO8  5   XRA  1-8A      C6.0    7.8E-03       
+
+7220       0300   0300      0301  LEA  G   RBR  410       130                   
+
+7230 +     0620   0630      0646  GO8  5   XRA  1-8A      C5.0    6.9E-03       
+
+7240       0801   0805      0817  LEA  3   FLA  S18W30    SF      DSD       9830
+7240       0807   ////      0809  LEA  C   RSP  032-095   III/1             9830
+
+7250 +     0831   ////      0834  LEA  C   RSP  025-151   V/2                   
+
+7360       0906   0918      0925  GO8  5   XRA  1-8A      C2.7    2.8E-03       
+
+7260 +     1107   1112      1117  GO8  5   XRA  1-8A      C2.2    1.1E-03       
+
+7270 +     1433   ////      1433  HOL  C   RSP  025-065   III/1                 
+
+7280       1457   1457      1502  HOL  3   FLA  S20W34    SF                9830
+
+7290 +     1549   ////      1549  HOL  C   RSP  025-086   III/1                 
+
+7370       1810   1839      1919  GO8  5   XRA  1-8A      C2.2    7.1E-03       
+
+7300 +     1935   1936      1946  HOL  3   FLA  N10E49    SF      ERU       9837
+
+7310       2107   2107      2107  SAG  G   RBR  245       70                    
+
+7320       2205   2208      2217  HOL  3   FLA  S17W40    SF      ERU       9830
+
+7330       2223   2241      2250  GO8  5   XRA  1-8A      C2.7    3.5E-03   9830
+7330       2231   2235      2251  HOL  3   FLA  S21W33    SF      ERU       9830
+
+7340       2240   2240      2248  HOL  3   FLA  N11E47    SF      ERU       9837
+7340 +     2334   2339      2345  GO8  5   XRA  1-8A      C2.9    1.5E-03   9837

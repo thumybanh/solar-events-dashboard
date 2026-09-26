@@ -1,0 +1,68 @@
+:Product: 19980930events.txt
+:Created: 1999 Jan 20 1716 UT
+:Date: 1998 09 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Sep 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4530 +     0207   0224      0234  GO8  5   XRA  1-8A      B6.2    8.6E-04       
+4530       0210   ////      0211  CUL  C   RSP  110-18    III/1                 
+
+4540       0514   0517      0521  G10  5   XRA  1-8A      B4.4    1.6E-04   8346
+4540       0517   0519      0526  LEA  3   FLA  S29W28    SF                8346
+
+4550       0605   0606      0610  SVI  3   FLA  S30W26    SF                8346
+
+4560       0711   ////      1005  LEA  C   RSP  040-08    CTM/1                 
+4560 +     0745   0749      0759  GO8  5   XRA  1-8A      B5.4    3.8E-04       
+
+4580      B0940   ////      1130  SVI  3   DSF  S22E15    07      B.9A          
+
+4620       1115   ////      1335  SAG  C   RSP  030-06    CTM/1                 
+
+4590       1308   ////      1315  SAG  C   RSP  030-06    V/2               8340
+4590 +     1308   1350      1448  GO8  5   XRA  1-8A      M2.8    1.1E-01   8340
+4590 +     1309   1332      1410  SVI  G   RBR  1415      220               8340
+4590 +     1311   1331      1406  SVI  G   RBR  2695      450               8340
+4590 +     1312   1317      1320  SAG  G   RBR  606       180               8340
+4590       1312   1317      1410  SVI  G   RBR  410       64                8340
+4590 +     1312   1312      1320  SAG  G   RBR  245       78                8340
+4590 +     1315   1331      1406  SVI  G   RBR  4995      340               8340
+4590 +     1321   ////      1400  SVI  3   BSL  N26W90    0.34    B.9A      8340
+
+4610       1322   1338      1350  RAM  3   FLA  S28W35    SF                8346
+
+4590 +     1322   ////      1330  SVI  C   RSP  035-08    II/3    1200      8340
+
+4600       1324   1334      1339  RAM  3   FLA  N21W71    SF                8345
+
+4590       1324   1331      1410  SVI  G   RBR  8800      150               8340
+4590       1325   1333      1410  SVI  G   RBR  15400     100               8340
+4590       1327   ////      1407  SVI  C   RSP  035-08    IV/3              8340
+
+4600       1335   ////      1558  SAG  C   RSP  030-08    IV/3              8340
+
+4590 +     1402   1434      1545  RAM  3   FLA  N23W81    2N      ERU       8340
+
+4630 +     1410   1419      1420  SAG  G   RBR  606       26                8340
+4630 +     1410   1411      1418  SAG  G   RBR  1415      35                8340
+4630 +     1410   1413      1418  SAG  G   RBR  2695      52                8340
+4630 +     1411   1411      1411  SVI  G   RBR  4995      16                8340
+
+4640       1430   ////      1434  SVI  C   RSP  035-07    III/2             8340
+
+4590       1431   ////      1438  RAM  3   EPL  N14W90    0.15    B.9A      8340
+
+4640       1439   1440      1443  SAG  G   RBR  245       71                8340
+
+4650       1449   1450      1451  SAG  G   RBR  245       52                8340
+
+4590 +     1450   ////      0035  COM  3   LPS  N20W90    0.04    B.9A      8340
+
+4660       1648   ////      1648  SAG  C   RSP  030-07    III/1                 

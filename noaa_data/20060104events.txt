@@ -1,0 +1,37 @@
+:Product: 20060104events.txt
+:Created: 2006 Jan 07 0329 UT
+:Date: 2006 01 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Jan 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9270 +     0036   ////      0036  LEA  C   RSP  025-160   III/2                 
+
+9280 +     0054   ////      0056  LEA  C   RSP  025-108   III/2                 
+
+9290       0158   ////      0202  LEA  C   RSP  025-104   III/1                 
+
+9300       0300   ////      0301  LEA  C   RSP  025-056   III/1                 
+
+9310       0326   ////      0327  LEA  C   RSP  025-155   III/2                 
+
+9320       0503   ////      0504  LEA  U   RSP  025-095   III/2                 
+
+9330       0633   ////      0638  LEA  C   RSP  025-147   III/2                 
+
+9340 +     0835   ////      0836  LEA  C   RSP  045-075   III/2                 
+
+9350 +     0844   ////      0845  LEA  U   RSP  035-145   III/1                 
+
+9360       0939   ////      0943  LEA  C   RSP  025-155   III/2             0841
+9360       0940   0944      0947  G12  5   XRA  1-8A      B1.4    4.2E-05   0841
+9360       0942   ////      0943  SVI  C   RSP  029-141   V/2               0841
+9360       0944   0946      0946  G12  5   XFL  N15W74    9.5E+02 2.9E+03   0841
+
+9370 +     2252   ////      2255  PAL  C   RSP  025-180   III/1                 

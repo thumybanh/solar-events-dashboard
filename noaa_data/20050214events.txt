@@ -1,0 +1,85 @@
+:Product: 20050214events.txt
+:Created: 2005 Feb 17 0302 UT
+:Date: 2005 02 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Feb 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7300       0000   ////      0000  CUL  C   RSP  20-130    CTM/1                 
+
+7310       0051   ////      0054  CUL  C   RSP  18-200    III/3                 
+
+7320 +     0358   0408      0422  G12  5   XRA  1-8A      C1.9    2.2E-03   0734
+7320 +     0401   ////      1045  LEA  C   RSP  025-180   IV/2              0734
+7320       0401   0413      0421  G12  5   XFL  S03E13    2.1E+03 8.3E+03   0734
+7320      B0402   0408      0423  CUL  3   FLA  S02E13    SF                0734
+
+7520       0430   ////      0554  CUL  C   RSP  18-180    CTM/3                 
+7520       0507   ////      0512  CUL  C   RSP  18-420    III/1                 
+
+7530 +     0554   ////      0618  CUL  C   RSP  18-130    CTM/2                 
+
+7370 +     0641   ////      0642  CUL  C   RSP  18-130    III/3                 
+
+7360       0700   ////      1200  IZM  F   RNS  204       80                    
+
+7330 +     1152   1158      1206  G12  5   XRA  1-8A      C1.5    8.1E-04   0733
+7330       1155   1159      1205  G12  5   XFL  S11W05    1.8E+03 7.0E+03   0733
+7330       1156   1157      1157  SVI  U   RBR  245       130               0733
+7330       1156   1156      1159  SVI  U   RBR  410       25                0733
+7330 +     1156   1156      1157  SVI  G   RBR  2695      33                0733
+7330       1156   ////      1158  SVI  C   RSP  025-147   III/1             0733
+7330 +     1201   ////      1207  SVI  U   RSP  025-084   II/2    904       0733
+
+7360 +     1204   1204      2150  SAG  G   RNS  245       150                   
+
+7380       1209   ////      1458  SAG  C   RSP  113-180   IV/2                  
+
+7340       1256   1256      1256  SVI  U   RBR  245       63                    
+
+7350       1318   ////      1318  SAG  C   RSP  030-054   III/1                 
+
+7390 +     1526   1529      1533  G12  5   XRA  1-8A      B2.8    1.0E-04   0732
+7390       1531   1531      1532  G12  5   XFL  N13W41    2.3E+02 4.1E+02   0732
+
+7410       1722   1722      1722  SAG  G   RBR  245       120                   
+
+7420       1755   1756      1756  SAG  G   RBR  245       150                   
+
+7430       1834   ////      1837  PAL  C   RSP  025-180   III/1                 
+
+7440       1900   1900      1900  SAG  G   RBR  245       150                   
+
+7450       1923   1924      1924  SAG  G   RBR  245       170                   
+
+7460       1928   1928      1929  SAG  G   RBR  245       480                   
+
+7470       1935   1935      1935  SAG  G   RBR  245       120                   
+
+7490 +     1947   1954      2003  G12  5   XRA  1-8A      B3.6    3.0E-04   0735
+7490       1950   1955      2000  G12  5   XFL  S08E20    5.0E+01 8.5E+01   0735
+
+7480       1951   ////      1953  PAL  C   RSP  025-180   III/2                 
+7480 +     1953   1953      1953  PAL  G   RBR  245       1600                  
+7480       1953   1953      1953  PAL  G   RBR  410       73                    
+
+7500       2048   ////      2057  CUL  C   RSP  18-350    III/3                 
+7500 +     2052   2053      2053  PAL  G   RBR  245       190                   
+7500       2052   2052      2052  PAL  G   RBR  410       72                    
+
+7540      B2109   2109      2128  CUL  3   FLA  S08E25    SF                    
+7540       2113   ////      2113  CUL  C   RSP  18-50     III/3                 
+
+7550      B2208   2208      2214  CUL  3   FLA  S09E25    1F                    
+
+7510 +     2257   ////      2300  CUL  C   RSP  18-100    III/3                 
+
+7560      B2305   2342      2343  CUL  3   FLA  S09E24    SF                    
+
+7570       2347   ////      2347  CUL  C   RSP  18-90     III/2                 

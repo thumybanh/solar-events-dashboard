@@ -1,0 +1,102 @@
+:Product: 20020509events.txt
+:Created: 2002 May 12 0300 UT
+:Date: 2002 05 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6580 +     0021   0027      0035  GO8  5   XRA  1-8A      C1.9    1.4E-03       
+6580       0022   ////      0022  CUL  C   RSP  57-160    III/1                 
+
+6590 +     0042   0047      0054  GO8  5   XRA  1-8A      C2.4    1.4E-03       
+
+6600       0215   ////      0218  CUL  C   RSP  57-90     III/1                 
+
+6610       0423   ////      0423  CUL  C   RSP  57-180    III/1                 
+
+6910       0433   ////      0442  CUL  C   RSP  57-180    III/1                 
+
+6920       0630   ////      0630  CUL  C   RSP  57-160    III/1                 
+
+6630 +     0640   0640      0640  LEA  G   RBR  410       63                    
+
+6890       0647   0650      0655  GO8  5   XRA  1-8A      B9.8    4.5E-04       
+
+6790       0656   0657      0659  IZM  F   RBR  204       200                   
+6790       0656   ////      0659  CUL  C   RSP  130-220   III/1                 
+
+6640       0659   0659      0659  LEA  G   RBR  245       52                    
+
+6930       0711   ////      0716  CUL  C   RSP  57-180    III/2                 
+
+6650 +     0711   ////      0715  LEA  C   RSP  025-180   V/2               9937
+6650       0712   0715      0720  GO8  5   XRA  1-8A      B9.5    4.2E-04   9937
+6650       0713   0716      0735  LEA  3   FLA  S09W01    SF      ERU       9937
+6650 +     0714   0714      0714  LEA  G   RBR  245       58                9937
+
+6660 +     0734   0734      0734  SVI  G   RBR  245       64                    
+
+6670 +     0756   0800      0806  GO8  5   XRA  1-8A      C1.4    7.5E-04   9937
+6670       0758   0759      0809  LEA  3   FLA  S08W03    SF      ERU       9937
+6670 +     0801   0801      0801  SVI  G   RBR  245       66                9937
+
+6760 +     0805   ////      0937  LEA  C   RSP  025-180   CTM/1                 
+
+6680       0834   ////      0835  SVI  C   RSP  025-155   V/2                   
+
+6690       0847   0847      0847  SVI  G   RBR  606       66                    
+
+6710       1047   1051      1057  GO8  5   XRA  1-8A      C1.1    5.9E-04   9943
+
+6700       1049   ////      1049  SVI  C   RSP  025-180   V/2                   
+6700       1049   1051      1052  IZM  F   RBR  204       60                    
+
+6710       1050   1052      1059  RAM  3   FLA  S09E16    SF      ERU       9943
+
+6720       1133   1133      1133  SVI  G   RBR  245       83                    
+
+6730 +     1143   1143      1143  SVI  G   RBR  245       120                   
+
+6860       1143   1143      1143  SAG  G   RNS  410       76                    
+
+6730       1143   1143      1145  SVI  G   RBR  410       61                    
+6730       1143   ////      1145  SVI  C   RSP  025-180   III/1                 
+
+6740       1219   1219      1219  SVI  G   RBR  245       56                    
+
+6750       1231   ////      1234  SVI  C   RSP  025-081   III/1                 
+
+6770       1244   1244      1244  SVI  G   RBR  245       59                    
+
+6780       1246   1246      1246  SVI  G   RBR  245       59                    
+
+6800       1329   ////      1329  HOL  C   RSP  025-086   III/1                 
+
+6810       1409   1409      1409  SVI  G   RBR  245       99                    
+6810       1409   ////      1409  SVI  C   RSP  028-075   III/1                 
+
+6820 +     1438   ////      1443  SVI  C   RSP  025-174   III/1                 
+6820       1440   1441      1441  SVI  G   RBR  245       48                    
+6820       1440   1440      1440  SVI  G   RBR  410       75                    
+
+6830       1526   ////      1527  HOL  C   RSP  025-140   III/1                 
+
+6840       1654   1654      1654  SVI  G   RBR  245       53                    
+
+6860 +     1654   1654      1828  SAG  G   RNS  245       110                   
+
+6850       1658   1658      1659  SVI  G   RBR  245       51                    
+
+6870       1820   1820      1826  RAM  3   FLA  S19W39    SF      ERU       9934
+
+6900       2001   2003      2005  GO8  5   XRA  1-8A      C1.6    3.4E-04       
+
+6880       2051   2051      2051  SAG  G   RBR  245       64                    
+
+6940       2055   ////      2101  CUL  C   RSP  57-160    III/1                 

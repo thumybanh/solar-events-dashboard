@@ -1,0 +1,27 @@
+:Product: 20021229events.txt
+:Created: 2003 Jan 01 0300 UT
+:Date: 2002 12 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 140       0057   ////      0058  PAL  C   RSP  025-180   III/1                 
+ 140       0058   0058      0100  PAL  G   RBR  245       100                   
+
+ 150 +     0155   0205      0226  GO8  5   XRA  1-8A      B9.9    1.5E-03       
+
+ 160       0328   ////      0329  LEA  C   RSP  027-036   III/1                 
+
+ 170       0336   ////      0336  LEA  C   RSP  029-094   III/1                 
+
+ 180 +     0441   0446      0504  GO8  5   XRA  1-8A      B3.5    4.4E-04       
+
+ 190 +     0728   ////      0729  LEA  C   RSP  025-180   III/1                 
+
+ 220 +    A1424   ////     B0718  SVI  3   DSF  ////      08      B.0A      0000

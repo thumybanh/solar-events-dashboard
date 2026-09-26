@@ -1,0 +1,47 @@
+:Product: 19981201events.txt
+:Created: 1998 Dec 04 0302 UT
+:Date: 1998 12 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8310 +     0009   ////      0010  CUL  C   RSP  18-80     III/1                 
+
+8320       0409   0411      0416  LEA  3   FLA  S23W44    SF                8392
+
+8330       0522   0528      0538  GO8  5   XRA  1-8A      C1.0    9.5E-04   8395
+8330       0526   0529      0532  LEA  3   FLA  N22E14    SF                8395
+
+8340       0646   0650      0655  GO8  5   XRA  1-8A      C1.2    6.2E-04   8395
+8340       0649   0649      0654  LEA  3   FLA  N22E13    SF                8395
+
+8440      A1001   ////      2223  LEA  3   DSF  N06E18    06      B.0A      8401
+
+8350 +     1116   1122      1127  GO8  5   XRA  1-8A      C2.1    1.1E-03       
+8350      B1120  U1120     A1132  SVI  2   FLA  N22E09    SF      ERU       8395
+
+8360 +     1315   1321      1331  GO8  5   XRA  1-8A      C1.1    9.7E-04       
+
+8370       1620   1626      1630  G10  5   XRA  1-8A      C1.3    6.6E-04   8397
+8370 +     1622   1623      1632  HOL  3   FLA  N15E58    SF                8397
+
+8380       1632   1633      1637  HOL  3   FLA  N16E57    SF                8397
+
+8390 +     1721   1727      1742  GO8  5   XRA  1-8A      C1.2    1.3E-03       
+
+8400 +     1800   1816      1841  GO8  5   XRA  1-8A      C5.0    9.0E-03   8402
+8400 +     1806   1807      1810  SAG  G   RBR  2695      200               8402
+8400 +     1807   1807      1808  SAG  G   RBR  4995      47                8395
+8400       1807   1809      1854  HOL  3   FLA  N21W01    1F      PRB       8395
+
+8420 +     1810   1812      1821  HOL  3   FLA  N17E67    SF                8402
+
+8410       1822   1824      1850  HOL  3   FLA  N18E68    SF                8402
+
+8430 +     2043   2050      2100  GO8  5   XRA  1-8A      C2.0    1.7E-03       

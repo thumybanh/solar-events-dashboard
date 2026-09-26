@@ -1,0 +1,32 @@
+:Product: 20010221events.txt
+:Created: 2001 Feb 24 0302 UT
+:Date: 2001 02 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Feb 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8890       0000   0004      0009  LEA  5   FLA  S08W34    SF                9354
+
+8840 +     0758   0802      0806  GO8  5   XRA  1-8A      B6.2    2.7E-04       
+
+8850 +     0807   0820      0828  GO8  5   XRA  1-8A      C3.0    2.9E-03       
+
+8860 +     1411   1427      1440  GO8  5   XRA  1-8A      C6.2    7.1E-03   9354
+8860 +     1416   1426      1447  RAM  3   FLA  S08W29    SF      ERU       9354
+8860 +     1420   1420      1420  SAG  G   RBR  606       160               9354
+8860 +     1425   1425      1426  SAG  G   RBR  245       2400              9354
+8860 +     1425   1425      1428  SAG  G   RBR  4995      47                9354
+8860 +     1425   1425      1428  SAG  G   RBR  8800      100               9354
+8860 +     1425   1425      1428  SAG  G   RBR  15400     57                9354
+8860 +     1425   ////      1426  HOL  C   RSP  037-180   III/1             9354
+
+8870 +     2005   2010      2014  GO8  5   XRA  1-8A      C1.2    4.8E-04   9354
+8870       2009   2010      2031  RAM  3   FLA  S08W31    SF      ERU       9354
+
+8880 +     2251   2259      2306  GO8  5   XRA  1-8A      C1.8    1.3E-03       

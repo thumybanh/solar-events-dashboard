@@ -1,0 +1,58 @@
+:Product: 20040418events.txt
+:Created: 2004 Apr 21 0302 UT
+:Date: 2004 04 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4770       0101   ////      0102  HOL  C   RSP  025-180   III/1                 
+
+4780 +     0609   ////      0610  LEA  C   RSP  025-180   III/1                 
+
+4790 +     0714   ////      0717  LEA  C   RSP  025-180   III/1                 
+
+4800       0906   ////      0911  SVI  C   RSP  025-152   III/1                 
+
+4810       0933   0938      0945  G10  5   XRA  1-8A      B2.1    1.4E-04       
+
+4820       1043   ////      1043  SVI  C   RSP  025-083   III/1                 
+
+4830       1119   ////      1119  SVI  U   RSP  075-180   III/1                 
+
+4840 +     1200   1200      1200  SVI  G   RBR  245       56                    
+4840 +     1200   1200      1200  SVI  G   RBR  410       37                    
+4840       1200   ////      1200  SVI  C   RSP  043-180   III/1                 
+
+4850       1247   ////      1248  SVI  C   RSP  025-072   III/1                 
+
+4860       1323   ////      1323  SVI  U   RSP  025-083   III/1                 
+
+4870 +     1341   ////      1342  SVI  C   RSP  025-180   III/1                 
+
+4890 +     1416   1419      1421  G12  5   XRA  1-8A      B2.9    7.7E-05       
+4890 +     1416   ////      1418  SVI  C   RSP  025-180   III/1                 
+4890 +     1417   1417      1417  SAG  G   RBR  245       67                    
+4890       1420   1420      1420  G12  5   XFL  S15W77    2.0E+02 4.4E+02       
+
+4900 +     1456   1459      1501  G12  5   XRA  1-8A      B2.7    7.0E-05       
+4900 +     1458   1458      1458  SAG  G   RBR  410       410                   
+
+4910 +     1555   1559      1621  G12  5   XRA  1-8A      B9.1    1.0E-03   0596
+4910       1558   1616      1620  G12  5   XFL  S08E64    1.5E+03 3.1E+03       
+4910       1559   ////      1600  SVI  C   RSP  025-083   III/1                 
+
+4920       1656   1659      1702  G10  5   XRA  1-8A      B3.2    1.0E-04       
+
+4930       1755   ////      1755  HOL  C   RSP  025-180   III/1                 
+
+4940       1820   ////      1822  HOL  C   RSP  025-180   III/1                 
+
+4950       2219   ////      2220  HOL  C   RSP  025-065   III/1                 
+
+4960       2231   ////      2232  HOL  C   RSP  025-063   III/1                 

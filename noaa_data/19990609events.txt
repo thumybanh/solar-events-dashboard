@@ -1,0 +1,64 @@
+:Product: 19990609events.txt
+:Created: 1999 Jun 12 0302 UT
+:Date: 1999 06 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jun 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8830       0007   0017      0031  GO8  5   XRA  1-8A      C1.2    1.5E-03   8578
+8830       0010   0021      0036  HOL  3   FLA  N21E05    SF                    
+8830       0010   ////      0021  CUL  C   RSP  18-300    III/2                 
+8830       0017   0018      0018  LEA  U   RBR  245       160                   
+8830 +     0025   ////      0039  CUL  C   RSP  90-30     II/2              8578
+
+8850       0654   0654      0657  SVI  U   RBR  245       100                   
+8850       0654   0656      0656  SVI  U   RBR  410       36                    
+
+8860      B1149  U1149      1154  RAM  3   FLA  S16W88    SF                8562
+
+8870       1231   ////      1232  SVI  U   RSP  041-05    III/1                 
+
+8880       1334   1352      1404  GO8  5   XRA  1-8A      C1.8    2.5E-03   8574
+8880 +     1339   1347      1359  HOL  3   FLA  N30W06    SF                8574
+
+8890 +     1407   1424      1510  HOL  3   FLA  N27W05    SF      ERU       8574
+8890       1414   1414      1420  SVI  G   RBR  245       140               8574
+8890       1418   1423      1442  GO8  5   XRA  1-8A      C1.3    1.8E-03   8574
+
+8930       1515   ////      1519  SAG  C   RSP  030-07    III/1                 
+
+8900 +     1545   ////      1547  SVI  U   RSP  040-08    III/2                 
+
+8910       1615   ////      1619  SAG  C   RSP  030-07    III/1                 
+
+8940 +     1707   1712      1721  GO8  5   XRA  1-8A      C1.2    9.1E-04   8574
+8940       1708   1710      1721  HOL  3   FLA  N29W06    SF                8574
+
+8960 +     1853   1903      1912  GO8  5   XRA  1-8A      C3.0    2.6E-03   8574
+8960       1856   1858      1910  HOL  3   FLA  N30W08    SF      ERU       8574
+
+8970       1922   1927      1942  HOL  3   FLA  N30W07    SF      ERU       8574
+
+8980       1950   ////      1951  SAG  C   RSP  030-07    III/2                 
+
+8990       2029   2030      2031  SAG  G   RBR  245       120                   
+
+9000       2032   2032      2032  SAG  G   RBR  245       140                   
+
+9010       2037   2038      2038  SAG  G   RBR  245       120                   
+
+9020       2044   2044      2044  SAG  G   RBR  245       97                    
+
+9030       2050   ////      2051  SAG  C   RSP  030-07    III/1                 
+
+9040       2230   ////      2231  CUL  C   RSP  23-180    III/2                 
+
+9050       2235   ////      2235  CUL  C   RSP  28-80     III/1                 
+
+9060       2326   ////      2332  CUL  C   RSP  20-90     III/1                 

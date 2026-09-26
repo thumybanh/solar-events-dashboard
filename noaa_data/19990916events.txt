@@ -1,0 +1,45 @@
+:Product: 19990916events.txt
+:Created: 1999 Sep 19 0303 UT
+:Date: 1999 09 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8470 +     0016   ////      0018  CUL  C   RSP  30-90     III/1                 
+
+8450 +     0022   0026      0029  GO8  5   XRA  1-8A      C1.0    4.0E-04       
+
+8480 +     0127   0134      0139  GO8  5   XRA  1-8A      C1.9    1.0E-03   8699
+8480       0131   0131      0139  LEA  3   FLA  N22W26    SF      ERU       8699
+
+8490 +     0209   0212      0214  GO8  5   XRA  1-8A      C1.0    2.7E-04       
+
+8500 +     0323   0331      0335  GO8  5   XRA  1-8A      C7.7    3.1E-03   8700
+8500       0325   0330      0346  LEA  3   FLA  N13E46    SF                8700
+
+8510 +     0531   0536      0540  GO8  5   XRA  1-8A      C1.2    5.9E-04   8699
+8510       0534   0534      0541  LEA  3   FLA  N22W28    SF                8699
+
+8520       0612   0614      0615  LEA  G   RBR  245       54                    
+8520 +     0612   ////      0615  SVI  C   RSP  035-08    III/2                 
+
+8530 +     0958   1004      1008  GO8  5   XRA  1-8A      C1.3    6.3E-04       
+
+8560 +     1300   1304      1308  GO8  5   XRA  1-8A      B9.9    4.1E-04   8692
+8560       1303   ////      1303  SAG  C   RSP  030-05    III/1             8692
+8560       1304   1305      1313  RAM  3   FLA  S26W35    SF                8692
+
+8630 +     1508   ////      1615  COM  3   DSF  N45W25    50      B.6A          
+
+8580       1516   1516      1516  SAG  G   RBR  245       99                    
+
+8610       2145   2145      2146  SAG  G   RBR  245       190                   
+
+8620       2207   2219      2223  GO8  5   XRA  1-8A      C1.1    9.2E-04   8692
+8620      B2218   2220      2227  HOL  3   FLA  S25W46    SF                8692

@@ -1,0 +1,60 @@
+:Product: 20000218events.txt
+:Created: 2000 Feb 21 0302 UT
+:Date: 2000 02 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3240 +     0016   0021      0025  GO8  5   XRA  1-8A      C1.7    7.8E-04       
+
+3250       0206   0206      0207  LEA  G   RBR  245       50                    
+3250 +     0206   ////      0208  LEA  C   RSP  030-08    III/3                 
+
+3260       0509   0538      0619  GO8  5   XRA  1-8A      C2.7    8.5E-03       
+
+3270       0645   ////      0647  LEA  C   RSP  030-08    III/2                 
+
+3330       0700   0000      1200       F   RNS  204       50                    
+
+3280       0706   0707      0711  LEA  G   RBR  245       55                    
+3280       0707   0708      0713  LEA  G   RBR  8800      25                    
+
+3290 +     0726   0730      0735  GO8  5   XRA  1-8A      C1.3    6.4E-04       
+
+3300 +     0838   0844      0858  GO8  5   XRA  1-8A      C1.4    1.3E-03   8869
+3300       0840   0842      0852  LEA  3   FLA  S20W26    SF                8869
+
+3310       0909   0910      0911  LEA  G   RBR  245       130                   
+
+3320 +     0919   ////      0951  SVI  C   RSP  035-08    II/2    1400      8867
+3320       0921   0927      0938  GO8  5   XRA  1-8A      C1.1    1.1E-03   8867
+3320       0922   0922      0922  LEA  G   RBR  245       96                8867
+3320       0923   ////      0925  LEA  C   RSP  030-08    III/3             8867
+
+3330       0933   0946      1023  LEA  G   RNS  245       100                   
+
+3320      B0938  U0939      0943  LEA  3   FLA  S16W78    SF                8867
+
+3340       1803   1805      1807  HOL  3   FLA  S18W31    SF      ERU       8869
+
+3350 +     1850   1853      1857  GO8  5   XRA  1-8A      B6.9    2.6E-04       
+
+3360       1938   ////      1944  PAL  C   RSP  025-07    III/2             8869
+3360       1943   1946      1952  HOL  3   FLA  S19W33    SF      ERU       8869
+
+3370 +     1957   2003      2010  HOL  3   FLA  S18W33    SF      ERU       8869
+3370 +     1958   2002      2005  GO8  5   XRA  1-8A      B9.0    2.9E-04   8869
+
+3380 +     2212   2215      2217  GO8  5   XRA  1-8A      B6.7    1.7E-04       
+
+3530      B2321   ////      1447  HOL  3   DSF  N16W53    07      B.0A          
+
+3390 +     2336   2340      2342  GO8  5   XRA  1-8A      B7.8    2.4E-04       
+
+3400 +     2349   2352      2355  GO8  5   XRA  1-8A      B8.8    2.9E-04       

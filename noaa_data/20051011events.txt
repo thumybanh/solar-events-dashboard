@@ -1,0 +1,26 @@
+:Product: 20051011events.txt
+:Created: 2005 Oct 14 0329 UT
+:Date: 2005 10 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Oct 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1630       1713   ////      1714  SAG  C   RSP  030-053   III/1                 
+
+1640 +     1720   1727      1732  G12  5   XRA  1-8A      C1.1    4.8E-04   0814
+1640 +     1723   ////      1725  PAL  C   RSP  025-180   III/1                 
+
+1650 +     1735   ////      1744  SAG  C   RSP  030-066   II/2    437           
+
+1660 +     2207   2212      2217  G12  5   XRA  1-8A      B3.5    1.3E-04       
+1660 +     2210   ////      2211  PAL  C   RSP  025-085   III/1                 
+
+1670 +     2341   ////      2341  LEA  C   RSP  025-110   III/1                 
+
+1680 +     2351   ////      2352  LEA  C   RSP  025-098   III/1                 

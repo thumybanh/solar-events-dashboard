@@ -1,0 +1,38 @@
+:Product: 20030814events.txt
+:Created: 2003 Aug 17 0302 UT
+:Date: 2003 08 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Aug 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3950       0212   0224      0247  G12  5   XRA  1-8A      C1.9    3.5E-03   0431
+3950       0213   0223      0236  LEA  3   FLA  S14E10    SF      ERU       0431
+
+3960       0611   0651      0734  G12  5   XRA  1-8A      C6.8    2.4E-02   0431
+3960       0630   0639      0719  LEA  3   FLA  S14E08    SF      ERU       0431
+3960       0634   0634      0634  LEA  G   RBR  4995      28                0431
+3960 +     0634   0634      0634  LEA  G   RBR  8800      55                0431
+3960 +     0634   0634      0634  LEA  G   RBR  15400     79                0431
+
+3970 +     1355   1355      1355  SAG  G   RBR  410       170                   
+3970 +     1355   1355      1355  SAG  G   RBR  606       75                    
+
+3980 +     1755   1755      1755  SAG  G   RBR  245       79                    
+
+3990 +     1833   1838      1842  SAG  G   RBR  410       66                    
+3990 +     1835   1838      1839  SAG  G   RBR  606       36                    
+3990 +     1836   1838      1838  SAG  G   RBR  245       23                    
+3990 +     1836   1837      1838  SAG  G   RBR  1415      41                    
+
+4000       2109   ////      2109  CUL  C   RSP  100-180   III/1                 
+
+4180       2229   2244      2317  G12  5   XRA  1-8A      C4.6    1.0E-02   0431
+
+4010       2330   ////      0928  LEA  C   RSP  040-180   CTM/1                 
+4010       2354   0018      0045  G12  5   XRA  1-8A      C7.7    1.7E-02   0431

@@ -1,0 +1,57 @@
+:Product: 19991017events.txt
+:Created: 1999 Oct 20 0302 UT
+:Date: 1999 10 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Oct 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3610 +     0025   0029      0031  GO8  5   XRA  1-8A      C3.8    7.5E-04       
+
+3620 +     0100   0104      0107  GO8  5   XRA  1-8A      C1.8    6.9E-04       
+
+3630 +     0212   0228      0237  GO8  5   XRA  1-8A      C2.8    3.0E-03       
+
+3640 +     0255   0300      0304  GO8  5   XRA  1-8A      C2.3    9.9E-04       
+
+3720       0524   0621      0938  SVI  G   RNS  245       230                   
+
+3660       0644   ////      0645  SVI  C   RSP  035-07    III/1                 
+
+3670 +     0731   0737      0749  GO8  5   XRA  1-8A      C1.3    1.2E-03       
+3670       0734   0744      0811  SVI  3   FLA  N10W12    SF      ERU       8731
+
+3680 +     0758   0801      0804  GO8  5   XRA  1-8A      C1.5    4.6E-04       
+
+3770       0844   ////      0936  COM  C   RSP  35-44     CTM/1                 
+
+3700 +     0957   1000      1002  GO8  5   XRA  1-8A      C1.5    3.5E-04       
+3700       0959   0959      0959  SVI  G   RBR  606       60                    
+
+3710       1004   1004      1005  SVI  G   RBR  1415      51                    
+3710       1004   1004      1004  SVI  G   RBR  2695      23                    
+3710       1004   1004      1005  SVI  G   RBR  4995      31                    
+3710       1004   1004      1004  SVI  G   RBR  8800      30                    
+
+3730       1123   ////      1123  SVI  C   RSP  038-07    III/2                 
+
+3740      B1211  U1211      1217  COM  3   FLA  N18W18    SF                8732
+
+3750      B1458   1459      1505  SVI  3   FLA  N20W34    SF      ERU       8728
+
+3760 +     1832   1842      1847  GO8  5   XRA  1-8A      C3.6    2.2E-03       
+
+3810       2055   ////      2103  CUL  C   RSP  20-90     III/2                 
+
+3820       2224   ////      2224  CUL  C   RSP  20-80     III/1                 
+
+3780 +     2317   ////      2320  LEA  C   RSP  035-08    III/2                 
+3780       2318   ////      2333  CUL  C   RSP  18-45     II/1                  
+
+3790 +     2322   2325      2336  GO8  5   XRA  1-8A      C1.2    9.0E-04       
+3790 +     2324   ////      2325  CUL  C   RSP  18-90     III/2                 

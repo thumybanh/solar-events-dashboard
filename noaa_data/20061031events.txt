@@ -1,0 +1,30 @@
+:Product: 20061031events.txt
+:Created: 2006 Nov 03 0329 UT
+:Date: 2006 10 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Oct 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7260 +     0149   0153      0155  G12  5   XRA  1-8A      B1.4    4.0E-05       
+
+7270 +     0400   0404      0408  G12  5   XRA  1-8A      B2.2    9.5E-05       
+
+7310       0527   0542      0552  G12  5   XRA  1-8A      B1.0    1.2E-04       
+
+7280 +     1233   1248      1301  G12  5   XRA  1-8A      B4.4    5.0E-04       
+
+7380      A1520   ////     B0616  SVI  3   DSF  S40W26    10      B.0A          
+
+7290 +     1532   1538      1540  G12  5   XRA  1-8A      B1.7    6.5E-05       
+
+7320       1625   1632      1638  G12  5   XRA  1-8A      B1.1    6.8E-05       
+
+7330       1952   2028      2058  G12  5   XRA  1-8A      B1.7    4.6E-04       
+
+7300 +     2341   ////      2341  CUL  C   RSP  23-150    III/1                 

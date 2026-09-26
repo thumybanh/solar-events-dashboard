@@ -1,0 +1,40 @@
+:Product: 20050628events.txt
+:Created: 2005 Jun 29 1229 UT
+:Date: 2005 06 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jun 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8010 +     0513   0517      0520  G12  5   XRA  1-8A      B1.0    3.9E-05   0781
+8010       0516   ////      0517  LEA  C   RSP  066-108   III/1             0781
+8010       0516   0516      0516  G12  5   XFL  N13E78    7.5E+01 1.3E+02   0781
+
+8020 +     0548   ////      0548  LEA  C   RSP  025-162   III/1                 
+
+8030 +     0657   ////      0657  SVI  C   RSP  040-150   III/1                 
+
+8040 +     1018   1023      1026  G12  5   XRA  1-8A      B1.5    5.7E-05   0781
+8040       1023   1023      1025  G12  5   XFL  N13E68    1.5E+02 2.9E+02   0781
+
+8050 +     1030   1035      1038  G12  5   XRA  1-8A      B1.1    4.8E-05       
+
+8060 +     1110   1116      1121  G12  5   XRA  1-8A      B2.9    1.3E-04   0781
+8060       1111   ////      1113  SVI  C   RSP  025-180   III/1             0781
+8060       1115   1117      1120  G12  5   XFL  N13E70    2.3E+02 5.0E+02   0781
+
+8070       1510   ////      1511  SAG  C   RSP  030-061   III/1                 
+
+8080       1534   1537      1540  G10  5   XRA  1-8A      B1.7    4.1E-05       
+8080 +     1536   ////      1537  SVI  C   RSP  025-180   III/1                 
+
+8090       1650   ////      1650  SVI  C   RSP  047-072   III/1                 
+
+8100       1706   ////      1708  SVI  C   RSP  025-045   III/1                 
+
+8110       1720   1721      1721  PAL  G   RBR  245       89                    

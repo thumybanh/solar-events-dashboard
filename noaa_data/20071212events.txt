@@ -1,0 +1,43 @@
+:Product: 20071212events.txt
+:Created: 2007 Dec 16 2359 UT
+:Date: 2007 12 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center.
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Dec 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7390 +     0107   0110      0120  G11  5   XRA  1-8A      B1.9    1.3E-04       
+
+7400 +     0526   0532      0544  G11  5   XRA  1-8A      B2.4    2.4E-04   0978
+7400       0539   0540      0541  LEA  3   FLA  S10W09    SF                0978
+
+7410       1015   1016      1023  LEA  3   FLA  S13W09    SF                0978
+
+7420 +     1112   1115      1118  G11  5   XRA  1-8A      B1.8    5.4E-05       
+
+7430 +     1137   1142      1149  G11  5   XRA  1-8A      B1.8    1.1E-04       
+
+7440 +     1336   1340      1349  G11  5   XRA  1-8A      B2.5    1.5E-04       
+
+7450       1435   1438      1443  G11  5   XRA  1-8A      B1.6    7.1E-05       
+
+7460 +     1454   1458      1501  G11  5   XRA  1-8A      B3.1    1.1E-04       
+
+7470 +     1635   1639      1653  G11  5   XRA  1-8A      B1.3    1.3E-04       
+
+7480 +     1656   1704      1710  G11  5   XRA  1-8A      B2.2    1.6E-04       
+
+7490 +     1800   1805      1810  G11  5   XRA  1-8A      B3.5    1.7E-04   0978
+7490       1806   1806      1812  HOL  3   FLA  S09W10    SF                0978
+
+7500       1901   1905      1923  HOL  3   FLA  S12W12    SF                0978
+
+7510 +     2221   2231      2236  G11  5   XRA  1-8A      B4.7    2.7E-04   0978
+7510 +     2223   2254      2317  LEA  3   FLA  S11W15    SF                0978
+
+7520 +     2244   2247      2250  G11  5   XRA  1-8A      B2.8    8.8E-05       

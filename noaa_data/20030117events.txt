@@ -1,0 +1,47 @@
+:Product: 20030117events.txt
+:Created: 2003 Jan 20 0302 UT
+:Date: 2003 01 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3480       0051   ////      0051  CUL  C   RSP  35-90     III/1                 
+
+3490       0137   ////      0137  CUL  C   RSP  40-160    III/1                 
+
+3500 +     0450   0453      0455  GO8  5   XRA  1-8A      B7.7    1.8E-04       
+3500       0452   ////      0452  LEA  C   RSP  025-086   III/1                 
+
+3510 +     0556   0600      0602  GO8  5   XRA  1-8A      B8.4    2.2E-04       
+3510       0558   ////      0559  LEA  C   RSP  025-180   III/1                 
+
+3520 +     0631   ////      0634  LEA  C   RSP  025-180   III/1                 
+
+3530       0707   ////      0710  LEA  C   RSP  025-134   III/1                 
+
+3540 +     0731   0734      0737  GO8  5   XRA  1-8A      B7.6    2.0E-04       
+3540 +     0733   ////      0734  LEA  C   RSP  025-180   III/1                 
+
+3550       0745   ////      0745  SVI  C   RSP  025-180   V/1                   
+3550       0745   ////      0746  LEA  C   RSP  025-180   III/1                 
+
+3600       1524   1533      1546  GO8  5   XRA  1-8A      B6.6    7.7E-04       
+
+3560 +     1723   1728      1732  GO8  5   XRA  1-8A      B7.7    3.3E-04   0259
+3560 +     1726   1727      1731  HOL  3   FLA  N09E30    SF      ERU       0259
+
+3570 +     2036   2040      2043  GO8  5   XRA  1-8A      B6.4    2.3E-04       
+
+3580 +     2106   2110      2113  GO8  5   XRA  1-8A      B9.2    2.7E-04       
+
+3590       2150   ////      2150  HOL  C   RSP  025-081   III/1                 
+
+3610 +     2329   2334      2338  GO8  5   XRA  1-8A      C1.1    4.9E-04       
+
+3620       2348   2348      2349  PAL  G   RBR  410       66                    

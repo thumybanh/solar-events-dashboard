@@ -1,0 +1,50 @@
+:Product: 20021007events.txt
+:Created: 2002 Oct 10 0300 UT
+:Date: 2002 10 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Oct 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 640       0121   0121      0121  LEA  G   RBR  410       53                    
+
+ 650       0901   0901      0901  SVI  G   RBR  410       140                   
+
+ 660 +     1303   1304      1304  SVI  G   RBR  245       71                    
+
+ 770       1304   ////      1603  SVI  C   RSP  025-018   CTM/1                 
+
+ 720 +     1307   1702      2057  COM  G   RNS  245       330                   
+
+ 670       1312   1312      1312  SVI  G   RBR  410       58                    
+
+ 690       1315   ////      1316  SAG  C   RSP  030-055   III/1                 
+
+ 700       1329   1329      1329  SAG  G   RBR  410       52                    
+
+ 710       1508   1508      1508  SAG  G   RBR  245       59                    
+
+ 730       1547   1548      1548  SAG  G   RBR  245       63                    
+
+ 740 +     1549   1556      1604  GO8  5   XRA  1-8A      C1.4    1.1E-03   0140
+ 740       1553   1555      1608  RAM  3   FLA  S12E41    SF      ERU       0140
+
+ 750       1621   1621      1622  SAG  G   RBR  245       60                    
+
+ 760       1632   1632      1636  SAG  G   RBR  245       65                    
+ 760       1636   1657      1729  GO8  5   XRA  1-8A      C3.1    7.9E-03       
+
+ 790       2137   2156      2216  GO8  5   XRA  1-8A      C1.8    3.4E-03       
+
+ 780       2231   2232      2238  LEA  G   RBR  245       180                   
+
+ 800       2241   2241      2241  LEA  G   RBR  245       84                    
+
+ 810       2242   ////      2242  LEA  C   RSP  025-180   III/1                 
+
+ 820       2338   2338      2338  LEA  G   RBR  245       79                    

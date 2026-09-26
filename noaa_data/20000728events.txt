@@ -1,0 +1,68 @@
+:Product: 20000728events.txt
+:Created: 2000 Jul 31 0302 UT
+:Date: 2000 07 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jul 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8110 +     0000   0008      0019  GO8  5   XRA  1-8A      C4.2    4.3E-03       
+
+8120       0356   ////      0357  LEA  C   RSP  025-180   III/1                 
+
+8130 +     0400   0404      0410  GO8  5   XRA  1-8A      C1.4    7.7E-04       
+
+8140 +     0412   0417      0422  GO8  5   XRA  1-8A      C2.3    1.2E-03       
+
+8150       0641   ////      0641  SVI  C   RSP  035-050   III/1                 
+
+8160       0711   0712      0712  SVI  G   RBR  245       56                    
+8160 +     0711   0720      0730  GO8  5   XRA  1-8A      C2.8    2.6E-03       
+
+8170       0732   0732      0733  SVI  G   RBR  245       76                    
+
+8180       0830   ////      0832  SVI  C   RSP  035-061   III/1                 
+
+8190       0943   0944      0944  SVI  G   RBR  245       53                    
+
+8200       0957   0959      1000  SVI  G   RBR  245       66                    
+
+8210 +     1008   1013      1018  GO8  5   XRA  1-8A      C1.9    8.9E-04       
+
+8220       1200   ////      1200  SVI  C   RSP  035-054   III/1                 
+
+8230       1238   ////      1240  SVI  C   RSP  036-049   III/1                 
+
+8240       1243   1246      1251  G10  5   XRA  1-8A      C1.3    5.5E-04       
+
+8250       1303   1303      1303  SAG  G   RBR  245       51                    
+
+8260       1304   ////      1304  SVI  C   RSP  036-040   III/1                 
+
+8270       1332   1344      1420  RAM  3   FLA  N10E08    SF      ERU       9103
+8270       1420   ////      1421  SVI  C   RSP  035-053   III/1             9103
+
+8280       1451   1453      1456  RAM  3   FLA  N16W87    SF                9090
+8280       1451   ////      1451  SVI  C   RSP  035-057   III/1             9090
+
+8290 +     1631   1635      1639  GO8  5   XRA  1-8A      C1.7    7.3E-04       
+
+8430      A1724   ////      0508  SVI  3   DSF  N25E72    16      B.0A          
+
+8300 +     1937   1937      1938  PAL  G   RBR  245       140                   
+8300 +     1937   ////      1938  PAL  C   RSP  025-084   III/1                 
+
+8310       2024   2026      2036  RAM  3   FLA  N08W54    SF      ERU       9097
+
+8320      B2040   ////      2055  RAM  3   DSF  N17E58    09      B.0A      9105
+8320       2058   2109      2155  RAM  3   FLA  N19E65    SF      PRB       9105
+8320 +     2107   2112      2118  GO8  5   XRA  1-8A      C3.5    1.9E-03   9105
+
+8330 +     2141   ////      2142  PAL  C   RSP  025-065   III/1                 
+
+8360       2222   ////      2224  CUL  C   RSP  32-88     II/1                  

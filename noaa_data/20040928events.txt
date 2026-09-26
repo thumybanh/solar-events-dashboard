@@ -1,0 +1,23 @@
+:Product: 20040928events.txt
+:Created: 2004 Oct 01 0302 UT
+:Date: 2004 09 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Sep 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5210 +     1301   1312      1320  G12  5   XRA  1-8A      B1.9    2.0E-04   0673
+5210       1307   1307      1319  G12  5   XFL  S13W90                      0673
+
+5220      U1942   1943      1944  SAG  G   RBR  245       74                    
+
+5240      U1942   1942      1944  SAG  G   RBR  410       37                    
+
+5220      U1943   1943      1943  SAG  G   RBR  410       34                    
+
+5230      U1944   1944      1944  SAG  G   RBR  245       50                    

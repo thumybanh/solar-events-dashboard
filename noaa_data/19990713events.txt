@@ -1,0 +1,59 @@
+:Product: 19990713events.txt
+:Created: 1999 Jul 16 0302 UT
+:Date: 1999 07 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jul 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+580        0113   ////      0114  PAL  C   RSP  025-05    III/1                 
+
+590        0226   ////      0227  PAL  C   RSP  025-06    III/1                 
+
+600  +     0402   0405      0413  GO8  5   XRA  1-8A      C1.2    7.4E-04       
+
+610        0432   0432      0432  LEA  U   RBR  245       61                    
+
+620        0439   0439      0440  LEA  U   RBR  245       54                    
+
+700        0522   0546      0609  GO8  5   XRA  1-8A      C2.9    5.4E-03       
+
+630  +     0556   0557      0601  SVI  G   RBR  245       570               8628
+630  +     0557   0558      0559  SVI  G   RBR  606       100               8628
+630  +     0557   0557      0559  SVI  G   RBR  410       170               8628
+630        0557   ////      0558  SVI  C   RSP  035-08    III/2             8628
+630        0558   0558      0601  SVI  G   RBR  1415      38                8628
+630  +     0559   0600      0608  LEA  3   FLA  N16E06    SF                8628
+
+640  +     0602   ////      0606  CUL  C   RSP  40-130    II/2                  
+
+650        0620   0620      0621  SVI  U   RBR  245       75                    
+
+660        0650   ////      0938  SVI  U   RSP  035-08    CTM/2                 
+660        0736   0737      0737  LEA  U   RBR  245       86                    
+
+670  +     0851   0855      0903  GO8  5   XRA  1-8A      B7.8    5.1E-04       
+
+680        0911   0912      0917  LEA  U   RBR  245       57                    
+
+760  +     1103   1325      1852  SAG  G   RNS  245       120                   
+
+710        1251   ////      1251  SAG  C   RSP  050-06    III/1                 
+
+720  +     1301   1302      1307  RAM  3   FLA  N18E02    SF                8628
+720        1307   ////      1702  SVI  C   RSP  035-08    CTM/2             8628
+
+730        1318   1320      1325  HOL  3   FLA  N19E03    SF                8628
+
+740        1350   1350      1356  HOL  3   FLA  S15E16    SF                8627
+
+750        1419   ////      1425  SAG  C   RSP  030-08    III/1                 
+
+770        1441   ////      1442  SAG  C   RSP  030-08    III/1                 
+
+780  +     1657   1703      1712  GO8  5   XRA  1-8A      B9.0    6.7E-04       

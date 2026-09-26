@@ -1,0 +1,65 @@
+:Product: 19981207events.txt
+:Created: 1998 Dec 10 0302 UT
+:Date: 1998 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9710 +     0006   0006      0007  LEA  G   RBR  245       110                   
+9710 +     0007   ////      0007  CUL  C   RSP  23-240    III/2                 
+
+9720 +     0038   ////      0038  CUL  C   RSP  20-110    III/1                 
+
+9730 +     0140   ////      0143  LEA  C   RSP  030-07    III/2                 
+
+9740 +     0357   0408      0416  GO8  5   XRA  1-8A      C1.7    1.6E-03   8402
+9740       0400   0409      0434  LEA  3   FLA  N16W08    SF      ERU       8402
+9740 +     0403   ////      0403  CUL  C   RSP  50-150    III/1             8402
+
+9750       0455   0456      0456  LEA  G   RBR  245       96                    
+
+9760       0516   ////      0517  LEA  C   RSP  030-08    III/2                 
+
+9770       0532   ////      0542  LEA  C   RSP  030-05    III/1                 
+
+9780       0614   0617      0620  GO8  5   XRA  1-8A      B8.9    3.0E-04   8405
+9780       0616   0616      0620  LEA  3   FLA  S16E58    SF                8405
+
+9790 +     0624   0624      0625  LEA  G   RBR  245       590                   
+9790       0624   ////      0625  LEA  C   RSP  040-08    III/2                 
+
+9800       0635   0635      0635  LEA  G   RBR  245       43                    
+
+9810 +     0847   0847      0847  LEA  G   RBR  245       70                    
+
+9820       0849   ////      0850  SVI  U   RSP  035-06    V/1                   
+
+9830       0853   0858      0903  GO8  5   XRA  1-8A      B9.0    4.8E-04   8402
+9830       0855   0856      0901  LEA  3   FLA  N17W08    SF                8402
+
+9840 +     0902   0903      0907  LEA  3   FLA  N17W08    SF                8402
+
+9930       0946   1001      1014  GO8  5   XRA  1-8A      C1.3    2.0E-03   8402
+9930       0949   0950      0955  LEA  3   FLA  N17W09    SF                8402
+
+9850       0953   0956      1001  LEA  2   FLA  S23W03    SF                8404
+
+9860       1156   ////      1156  SVI  U   RSP  035-06    III/1                 
+
+9880 +     1434   1442      1506  GO8  5   XRA  1-8A      C2.3    3.8E-03       
+
+9890       1537   1538      1543  HOL  3   FLA  S16E55    SF                8405
+
+9900       1629   1633      1643  GO8  5   XRA  1-8A      C1.9    1.5E-03   8405
+9900       1632   1634      1643  HOL  3   FLA  S13E53    SF                8405
+
+9940       2121   ////      2121  CUL  C   RSP  20-80     III/1                 
+
+9910 +     2143   2154      2210  GO8  5   XRA  1-8A      C3.9    4.6E-03   8405
+9910       2146   2150      2217  HOL  3   FLA  S15E51    SF                8405

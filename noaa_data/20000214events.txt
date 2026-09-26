@@ -1,0 +1,21 @@
+:Product: 20000214events.txt
+:Created: 2000 Feb 17 0302 UT
+:Date: 2000 02 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2640       0530   0530      0535  LEA  3   FLA  N27W51    SF                8858
+
+2650       0928   0929      0929  SVI  U   RBR  245       55                    
+
+2660 +     1001   1004      1013  GO8  5   XRA  1-8A      B8.0    5.0E-04   8872
+2660       1003   1003      1012  LEA  2   FLA  S29E51    SF                8872
+
+2770      A2032   ////      1216  RAM  3   DSF  S23W08    10      B.0A          

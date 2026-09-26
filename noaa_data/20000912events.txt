@@ -1,0 +1,42 @@
+:Product: 20000912events.txt
+:Created: 2000 Sep 15 0302 UT
+:Date: 2000 09 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Sep 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7990 +     0045   0055      0116  GO8  5   XRA  1-8A      C1.1    1.9E-03       
+
+8010 +     0536   0542      0546  GO8  5   XRA  1-8A      B9.8    4.3E-04   9158
+8010       0538   0542      0557  LEA  3   FLA  N24E07    SF                9158
+
+8020       0611   0612      0612  SVI  G   RBR  410       55                    
+
+8030       0855   0921      0940  GO8  5   XRA  1-8A      C4.6    8.5E-03       
+
+8050 +    A1050   ////      1230  SVI  3   DSF  S12W18    23      B.0A          
+8050 +     1130   1133      1137  SVI  G   RBR  410       61                    
+8050 +     1131   1213      1313  GO8  5   XRA  1-8A      M1.0    4.5E-02       
+8050 +     1135   1142      1207       F   RBR  204       45                    
+8050 +     1143   ////      1152  SVI  C   RSP  025-048   II/1    1029          
+8050       1152   ////      1156  SVI  U   RSP  060-075   III/2                 
+8050       1152   1215      1309  SVI  G   RBR  15400     46                    
+8050 +     1154   1222      1341  SVI  G   RBR  4995      48                    
+8050       1154   1222      1327  SVI  G   RBR  8800      45                    
+8050 +     1158   1222      1327  SVI  G   RBR  2695      40                    
+8050       1206   ////      1210  SAG  C   RSP  030-080   V/2                   
+
+8120       1207   ////      1213  SVI  C   RSP  025-045   II/1    719           
+
+8060 +     1215   1215      1220  SVI  G   RBR  410       290                   
+8060       1216   ////      1224  SVI  C   RSP  025-040   III/1                 
+
+8050 +    B1240  U1240     A1315  RAM  1   FLA  S17W09    2N      PRB           
+
+8080       1300   1300      1302  SVI  G   RBR  410       96                    

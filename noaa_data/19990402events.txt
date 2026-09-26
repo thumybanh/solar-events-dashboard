@@ -1,0 +1,41 @@
+:Product: 19990402events.txt
+:Created: 1999 Apr 05 0302 UT
+:Date: 1999 04 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3720       0603   ////      0605  SVI  C   RSP  036-05    III/1                 
+
+3730       0745   ////      0745  SVI  C   RSP  035-05    III/1                 
+
+3740 +     0806   0821      0829  GO8  5   XRA  1-8A      M1.1    9.3E-03       
+3740       0812   ////      0814  SVI  C   RSP  035-08    V/2                   
+
+3750 +     1011   1017      1026  GO8  5   XRA  1-8A      B4.9    4.0E-04       
+
+3760       1526   1534      1541  G10  5   XRA  1-8A      B4.3    3.6E-04       
+
+3770 +     1542   ////      1543  SVI  C   RSP  036-05    III/2                 
+
+3780       1604   ////      1609  SAG  C   RSP  030-05    III/1                 
+
+3790 +     1618   1624      1632  GO8  5   XRA  1-8A      B6.2    4.4E-04       
+
+3800       2001   ////      2003  PAL  C   RSP  031-03    III/1                 
+
+3810 +     2042   2046      2049  GO8  5   XRA  1-8A      B7.1    2.4E-04       
+
+4000       2050   ////      2051  SAG  C   RSP  030-05    III/1                 
+
+3820       2051   ////      2051  PAL  C   RSP  028-04    III/1                 
+
+3840 +     2234   2240      2247  GO8  5   XRA  1-8A      B9.9    5.9E-04       
+
+3850       2257   ////      2301  PAL  C   RSP  025-07    III/1                 

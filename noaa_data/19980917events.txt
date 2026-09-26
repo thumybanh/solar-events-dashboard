@@ -1,0 +1,53 @@
+:Product: 19980917events.txt
+:Created: 1998 Sep 20 0302 UT
+:Date: 1998 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+750        0015   ////      0015  CUL  C   RSP  22-45     III/1                 
+
+760        0229   ////      0230  CUL  C   RSP  35-180    III/1                 
+
+780  +     0441   ////      0444  LEA  C   RSP  030-08    III/2                 
+
+790  +     0503   ////      0503  CUL  C   RSP  19-130    III/2                 
+
+920        0508   ////      0508  CUL  C   RSP  35-85     III/1                 
+
+800  +     0518   ////      0518  CUL  C   RSP  25-150    III/1                 
+
+930        0535   ////      0544  CUL  C   RSP  25-90     III/1                 
+
+810  +     0536   ////      0542  LEA  C   RSP  030-05    III/2                 
+
+820        0544   ////      0544  LEA  C   RSP  030-05    III/1                 
+
+830  +     0616   ////      0616  CUL  C   RSP  25-130    III/2                 
+
+840  +     0740   0744      0746  GO8  5   XRA  1-8A      B5.7    1.6E-04       
+840        0741   ////      0744  LEA  C   RSP  030-06    III/2                 
+
+850  +     0818   ////      0818  LEA  C   RSP  030-05    III/1                 
+
+950       A0923   ////      2302  LEA  3   DSF  S29W15    05      B.0A          
+
+860  +     1036   1039      1043  GO8  5   XRA  1-8A      B5.2    1.9E-04       
+
+1020      A1121   ////      0617  SVI  3   DSF  S28E16    06      B.0A          
+
+870  +     1348   ////      1349  SAG  C   RSP  035-05    III/1                 
+
+880        1523   ////      1524  SVI  C   RSP  036-06    III/1                 
+
+900        1839   1843      1919  SAG  G   RNS  410       110                   
+
+890  +     1922   1925      1927  GO8  5   XRA  1-8A      B4.8    1.2E-04       
+
+910        2221   ////      2250  HOL  3   EPL  S90W24    0.17    B.9A          

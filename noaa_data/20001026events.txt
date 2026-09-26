@@ -1,0 +1,51 @@
+:Product: 20001026events.txt
+:Created: 2000 Oct 29 0302 UT
+:Date: 2000 10 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8510       0314   ////      0314  LEA  C   RSP  025-083   III/1                 
+
+8520       0341   ////      0347  LEA  C   RSP  025-107   III/1                 
+
+8480 +     0500   0517      0522  GO8  5   XRA  1-8A      C3.7    3.5E-03       
+8480       0506   ////      0508  LEA  C   RSP  025-116   III/1                 
+
+8490 +     0604   0615      0624  GO8  5   XRA  1-8A      C4.3    3.8E-03   9209
+8490       0606   0610      0638  LEA  3   FLA  S25E71    SF      ERU       9209
+8490 +     0620   ////      0621  LEA  C   RSP  075-160   III/1             9209
+
+8530       0729   0730      0749  LEA  3   FLA  N15W85    SF                9203
+8530 +     0730   0742      0751  GO8  5   XRA  1-8A      C3.1    3.0E-03   9203
+8530       0736   ////      0744  LEA  C   RSP  032-140   III/1             9203
+
+8540 +     0836   0836      0837  SVI  G   RBR  245       70                    
+
+8550 +     0953   ////      0955  LEA  C   RSP  030-171   III/1                 
+
+8560       1111   1111      1111  SVI  G   RBR  410       51                    
+
+8570 +     1131   1137      1147  GO8  5   XRA  1-8A      C6.9    4.5E-03   9203
+8570       1135   1139      1143  SVI  3   FLA  N17W77    SF                9203
+
+8580       1341   1343      1346  RAM  3   FLA  N17W92    SF                    
+
+8590 +     1539   1543      1552  GO8  5   XRA  1-8A      C1.4    9.8E-04       
+8590       1545   1547      1551  SAG  U   RBR  410       75                    
+
+8600 +     1555   1611      1642  GO8  5   XRA  1-8A      C8.5    1.7E-02   9209
+8600       1557   1607      1740  HOL  3   FLA  S20E64    1N      ERU       9209
+8600       1609   1610      1615  SAG  G   RBR  2695      59                9209
+8600       1610   1610      1615  SAG  G   RBR  4995      36                9209
+8600 +     1632   1632      1633  SAG  G   RBR  410       58                9209
+
+8610       1654   1654      1655  SAG  G   RBR  245       76                    
+
+8620       1745   1753      1756  HOL  3   FLA  S17E64    SF                9209

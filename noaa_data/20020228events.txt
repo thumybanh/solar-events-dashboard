@@ -1,0 +1,82 @@
+:Product: 20020228events.txt
+:Created: 2002 Mar 03 0300 UT
+:Date: 2002 02 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Feb 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8840      B0005   ////     B0041  HOL  2   EPL  S27W90    0.34    B.9A          
+
+8830       0009   ////      0009  LEA  C   RSP  025-061   III/1                 
+
+8840       0041   ////      0042  LEA  C   RSP  025-125   III/1                 
+
+8850       0238   0238      0245  LEA  3   FLA  N22W24    SF      ERU       9844
+
+8860       0338   ////      0339  CUL  C   RSP  65-110    III/1                 
+
+8870       0523   0532      0557  LEA  3   FLA  N22W25    SF      ERU       9844
+
+8880       0711   0711      0721  LEA  3   FLA  S19E02    SF      ERU       9848
+
+8890       0922   0927      0932  GO8  5   XRA  1-8A      C4.0    1.7E-03   9848
+8890 +     0923   ////      0925  LEA  C   RSP  073-180   III/1             9848
+8890       0924   0925      0927  SVI  G   RBR  4995      69                9848
+8890       0925   0925      0925  SVI  G   RBR  8800      25                9848
+8890       0925   0927      0938  SVI  3   FLA  S21E02    SF      ERU       9848
+
+8900 +     1206   1209      1212  GO8  5   XRA  1-8A      C4.2    1.3E-03       
+
+8920       1344   ////      1346  SAG  C   RSP  030-080   III/3                 
+
+8910 +     1413   1416      1418  GO8  5   XRA  1-8A      C5.5    1.3E-03       
+8910 +     1413   1414      1415  SAG  G   RBR  245       230                   
+8910       1414   1414      1415  SAG  G   RBR  410       34                    
+8910 +     1414   ////      1415  SVI  C   RSP  025-180   V/3                   
+8910       1414   ////      1416  SAG  C   RSP  030-080   III/3                 
+
+8930       1436   1436      1438  SAG  G   RBR  245       61                    
+
+9210 +    A1521   ////     B0808  SVI  3   DSF  N22W41    08      B.0A          
+
+8980       1649   1708      1755  SAG  G   RNS  245       83                    
+
+8940       1656   1656      1700  RAM  3   FLA  N19W84    SF                    
+
+8950       1704   1706      1710  RAM  3   FLA  N19W84    SF                    
+
+8990       1712   1712      1712  SAG  G   RBR  410       52                    
+
+8960       1714   1715      1718  RAM  3   FLA  N19W85    SF                    
+
+8970 +     1905   1910      1915  GO8  5   XRA  1-8A      C7.6    3.3E-03   9844
+8970 +     1908   1910      1921  HOL  3   FLA  N22W30    SF      ERU       9844
+
+9000       1940   1940      1940  PAL  U   RBR  245       620                   
+9000 +     1940   1940      1940  PAL  G   RBR  410       190                   
+9000 +     1940   1940      1940  PAL  G   RBR  606       130                   
+
+9010 +     2037   ////      2041  CUL  C   RSP  57-150    III/1                 
+
+9310      A2052   ////     B1739  RAM  3   DSF  N40E06    10      B.0A          
+
+9020       2055   2056      2057  SAG  G   RBR  245       340                   
+9020       2055   2055      2055  SAG  G   RBR  410       25                    
+9020 +     2056   ////      2057  CUL  C   RSP  57-230    III/3                 
+
+9030 +     2230   2240      2300  GO8  5   XRA  1-8A      C7.4    9.9E-03       
+
+9040       2230   ////      2231  CUL  C   RSP  57-130    III/1                 
+
+9030       2235   ////      0122  LEA  C   RSP  089-180   CTM/1                 
+9030 +     2238   ////      2240  HOL  C   RSP  025-163   III/1                 
+
+9050       2340   ////      2340  CUL  C   RSP  57-90     III/1                 
+
+9060       2359   ////      2359  LEA  C   RSP  049-111   III/1                 

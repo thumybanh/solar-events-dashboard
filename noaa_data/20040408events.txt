@@ -1,0 +1,56 @@
+:Product: 20040408events.txt
+:Created: 2004 Apr 11 0302 UT
+:Date: 2004 04 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3360 +     0034   0038      0043  G12  5   XRA  1-8A      B2.4    1.1E-04       
+
+3390       0055   ////      0055  CUL  C   RSP  60-180    III/1                 
+
+3510      A0057   ////     B1431  HOL  2   DSF  N13W19    08      B.0A          
+
+3400       0121   ////      0122  CUL  C   RSP  50-180    III/1                 
+
+3370 +     0141   0151      0159  G12  5   XRA  1-8A      C1.2    9.3E-04       
+3370 +     0144   ////      0146  CUL  C   RSP  30-180    III/1                 
+3370 +     0148   ////      0158  PAL  C   RSP  025-180   II/2    709           
+
+3380       0440   0444      0449  G10  5   XRA  1-8A      B3.5    1.4E-04       
+
+3410 +     0556   0601      0604  G12  5   XRA  1-8A      B3.2    1.3E-04       
+
+3420 +     0816   0821      0832  G12  5   XRA  1-8A      B2.9    2.3E-04       
+
+3430 +     0953   1019      1047  G12  5   XRA  1-8A      C7.4    1.5E-02   0588
+3430 +     0959   0959      1000  SVI  G   RBR  245       32                0588
+3430 +     0959   1001      1010  SVI  G   RBR  2695      190               0588
+3430       1000   1007      1013  SVI  G   RBR  410       100               0588
+3430       1002   1005      1006  SVI  G   RBR  4995      41                0588
+3430       1003   1012      1014  SVI  G   RBR  1415      330               0588
+3430       1003   1005      1024  SVI  3   FLA  S15W11    SF      ERU       0588
+
+3440       1223   ////      1223  SVI  C   RSP  025-038   III/1                 
+
+3450       1233   ////      1233  SVI  C   RSP  025-037   III/1                 
+
+3490       1249   ////      1331  SVI  3   DSF  S15W14    06      B.0A      0588
+
+3460       1300   1301      1302  SAG  G   RBR  606       110                   
+3460       1301   ////      1310  SVI  C   RSP  025-180   III/1                 
+
+3470       1303   ////      1308  HOL  C   RSP  025-172   III/1                 
+3470       1305   1305      1305  SVI  G   RBR  410       78                    
+3470 +     1305   1320      1335  G12  5   XRA  1-8A      C1.3    2.0E-03   0588
+
+3500       1409   ////      1410  SVI  C   RSP  025-045   III/1                 
+
+3520 +     2257   2301      2307  G12  5   XRA  1-8A      B2.5    1.4E-04   0590
+3520       2301   2303      2303  G12  5   XFL  S10W86    3.0E+02 6.5E+02   0590

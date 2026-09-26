@@ -1,0 +1,60 @@
+:Product: 20001206events.txt
+:Created: 2000 Dec 09 0302 UT
+:Date: 2000 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6510       0112   ////      0113  LEA  C   RSP  025-064   III/1                 
+
+6520       0246   ////      0246  PAL  C   RSP  025-095   III/1                 
+
+6530 +     0806   0810      0816  GO8  5   XRA  1-8A      C1.0    5.2E-04       
+
+6540 +     0853   0853      0854  SVI  G   RBR  245       75                    
+
+6550 +     0902   0902      0903  SVI  G   RBR  245       72                    
+
+6560       0926   0934      0939  GO8  5   XRA  1-8A      B8.5    5.6E-04   9246
+6560       0932   0934      0940  LEA  3   FLA  S10W64    SF                9246
+
+6610       1003   ////      1322  SVI  U   RSP  029-082   CTM/1                 
+
+6570       1020   1021      1021  SVI  G   RBR  245       62                    
+
+6580 +     1036   1044      1052  GO8  5   XRA  1-8A      C2.0    1.5E-03       
+
+6590       1211   ////      1211  SVI  U   RSP  028-170   III/1                 
+
+6600 +     1247   1254      1259  GO8  5   XRA  1-8A      C2.4    1.2E-03       
+
+6620 +     1324   1324      1325  SVI  G   RBR  245       50                    
+
+6630 +     1403   1403      1404  SVI  G   RBR  245       47                    
+
+6640 +     1422   1422      1422  SAG  G   RBR  245       96                    
+
+6650 +     1512   1518      1522  GO8  5   XRA  1-8A      C7.1    2.3E-03       
+6650       1513   1513      1514  SAG  G   RBR  245       54                    
+6650 +     1516   ////      1517  SAG  C   RSP  030-080   III/2                 
+
+6660       1550   1551      1551  SAG  G   RBR  245       57                    
+
+6670 +     1750   1755      1826  GO8  5   XRA  1-8A      C2.7    4.7E-03   9246
+6670       1814   1815      1821  RAM  3   FLA  S09W68    SF      DSD       9246
+
+6680 +     2216   2230      2251  GO8  5   XRA  1-8A      M1.6    2.2E-02   9246
+6680 +     2223   2226      2231  PAL  G   RBR  606       64                9246
+6680 +     2223   2230      2231  PAL  G   RBR  2695      36                9246
+6680 +     2223   2227      2231  PAL  G   RBR  4995      86                9246
+6680       2223   2227      2231  PAL  G   RBR  8800      75                9246
+6680       2223   2225      2231  PAL  G   RBR  15400     58                9246
+6680       2223   2233      2247  HOL  3   FLA  S10W66    SF      ERU       9246
+6680 +     2233   2235      2241  PAL  G   RBR  410       390               9246
+6680 +     2234   2241      2241  PAL  G   RBR  245       250               9246

@@ -1,0 +1,22 @@
+:Product: 19990331events.txt
+:Created: 1999 Apr 03 0302 UT
+:Date: 1999 03 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3580       0519   0524      0529  G10  5   XRA  1-8A      B4.3    1.9E-04       
+
+3590       1441   ////      1442  SVI  U   RSP  036-06    III/2                 
+
+3600 +     1850   ////      1854  SAG  C   RSP  030-08    V/3                   
+
+3610 +     2027   2030      2033  GO8  5   XRA  1-8A      B1.3    4.2E-05       
+
+3620       2128   ////      2128  CUL  C   RSP  30-50     III/1                 

@@ -1,0 +1,58 @@
+:Product: 20000907events.txt
+:Created: 2000 Sep 10 0302 UT
+:Date: 2000 09 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Sep 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7510 +     0547   ////      0552  CUL  C   RSP  23-140    III/1                 
+
+7520 +     0635   ////      0636  LEA  C   RSP  025-180   III/3                 
+
+7530 +     0728   ////      0728  CUL  C   RSP  55-140    III/1                 
+
+7540       0806   ////      0813  LEA  C   RSP  025-092   III/1                 
+
+7550       1004   1006      1007  SVI  G   RBR  410       70                    
+
+7560       1013   1013      1013  SVI  G   RBR  410       52                    
+
+7570 +     1054   1115      1134  GO8  5   XRA  1-8A      C4.4    8.0E-03   9151
+7570       1058   1103      1142  RAM  3   FLA  N08W43    SF      ERU       9151
+7570 +     1127   ////      1127  SVI  C   RSP  025-082   III/1             9151
+
+7580       1149   1149      1154  RAM  3   FLA  N12W36    SF                9150
+
+7590 +     1303   1310      1321  GO8  5   XRA  1-8A      C2.7    2.7E-03   9151
+7590       1303   1306      1331  RAM  3   FLA  N08W45    SF      ERU       9151
+
+7600 +     1540   ////      1541  SAG  C   RSP  030-070   III/2                 
+
+7610 +     1851   1858      1909  GO8  5   XRA  1-8A      C1.6    1.3E-03   9149
+7610       1854   1855      1902  HOL  4   FLA  N12W58    SF                9149
+
+7620 +     1957   2001      2003  GO8  5   XRA  1-8A      C2.2    5.4E-04       
+
+7630 +     2032   2055      2112  GO8  5   XRA  1-8A      C7.2    1.3E-02   9151
+7630       2035   2036      2038  SAG  G   RBR  245       58                9151
+7630       2035   2037      2141  RAM  3   FLA  N06W47    SF                9151
+7630 +     2036   ////      2036  SAG  C   RSP  030-080   III/2             9151
+7630 +     2044   ////      0000  PAL  C   RSP  025-180   II/2    510           
+
+7650       2045   ////      2047  SAG  C   RSP  050-080   III/2                 
+
+7630 +     2046   ////      2105  COM  C   RSP  30-80     II/2    500       9151
+
+7660       2053   ////      2103  CUL  C   RSP  35-180    III/3                 
+
+7630       2057   2057      2057  SAG  G   RBR  1415      80                9151
+
+7640      B2121  U2122      2126  HOL  3   FLA  N12W55    SF                9149
+
+7670       2244   ////      0341  LEA  C   RSP  073-180   CTM/1                 

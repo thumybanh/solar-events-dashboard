@@ -1,0 +1,77 @@
+:Product: 20011223events.txt
+:Created: 2005 Jul 27 2016 UT
+:Date: 2001 12 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3340 +     0344   0357      0418  GO8  5   XRA  1-8A      C4.9    7.9E-03   9748
+3340       0347   ////      0348  LEA  C   RSP  025-117   III/1             9748
+3340       0347   0350      0456  LEA  2   FLA  S13W02    SF      ERU       9748
+
+3350       0457   0500      0502  LEA  2   FLA  S13W02    SF                9748
+
+3360       0511   ////      0511  LEA  C   RSP  025-081   III/1                 
+
+3370       0623   ////      0624  LEA  C   RSP  025-180   III/1                 
+
+3380       0651   ////      0654  LEA  C   RSP  025-064   III/1                 
+3380       0654   0655      0706  LEA  2   FLA  S02E64    SF      ERU           
+
+3390 +     0753   ////      0755  LEA  C   RSP  025-104   III/1                 
+
+3400 +     0811   0816      0821  GO8  5   XRA  1-8A      C3.1    1.5E-03   9748
+3400 +     0815   0817      0821  SVI  3   FLA  S10W01    SF      ERU       9748
+
+3410       0937   0938      0944  LEA  2   FLA  S09W01    SF      ERU       9748
+
+3420 +     1039   1043      1052  GO8  5   XRA  1-8A      C3.2    2.1E-03       
+
+3430 +     1100   1110      1118  GO8  5   XRA  1-8A      C7.1    5.6E-03       
+
+3440       1124   ////      1124  SVI  C   RSP  110-147   III/1                 
+
+3450 +     1247   1252      1257  GO8  5   XRA  1-8A      C5.0    2.4E-03       
+
+3460 +     1426   1426      1426  SAG  G   RBR  245       190                   
+
+3480       1434   1435      1435  SAG  G   RBR  245       56                    
+
+3490       1549   ////      1558  HOL  C   RSP  025-180   III/1                 
+
+3500       1600   1607      1617  HOL  3   FLA  S11E36    SF      ERU       9749
+
+3510       1719   ////      1720  HOL  C   RSP  025-106   III/1                 
+
+3520       1739   1745      1753  HOL  3   FLA  N10W24    SF                9742
+
+3530       1811   1813      1818  HOL  3   FLA  S06E63    SF                9754
+
+3550 +    U1840   1940      1958  SAG  G   RNS  245       580                   
+
+3540       1842   1843      1843  SAG  G   RBR  245       100                   
+
+3560 +     1912   1918      1928  GO8  5   XRA  1-8A      C3.9    3.3E-03       
+
+3570       2000   2005      2013  HOL  3   FLA  N11W25    SF                9742
+
+3580       2059   2112      2118  HOL  3   FLA  N11W26    SF                9742
+
+3610       2106   2108      2111  HOL  3   FLA  S20E49    SF                9753
+
+3590       2137   ////      2138  HOL  C   RSP  025-134   III/1                 
+
+3600       2148   2148      2151  HOL  3   FLA  S05E55    SF                    
+
+3620 +     2238   2247      2252  GO8  5   XRA  1-8A      C4.8    3.4E-03       
+3620 +     2240   ////      2242  HOL  C   RSP  025-113   III/1                 
+
+3630       2308   2336      2353  GO8  5   XRA  1-8A      M1.2    2.2E-02   9748
+3630       2312   2312      2315  LEA  G   RBR  245       79                9748
+3630      B2322  U2334      0015  LEA  2   FLA  S14W12    SF      ERU       9748

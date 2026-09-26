@@ -1,0 +1,42 @@
+:Product: 20040403events.txt
+:Created: 2004 Apr 06 0302 UT
+:Date: 2004 04 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2410       0904   ////      0909  SVI  C   RSP  025-044   III/1                 
+
+2420       0914   ////      0914  SVI  C   RSP  025-038   III/1                 
+
+2430       1021   ////      1024  SVI  C   RSP  025-044   III/1                 
+
+2440 +     1026   1034      1043  G12  5   XRA  1-8A      B4.6    3.9E-04   0588
+2440 +     1027   1027      1027  SVI  G   RBR  245       59                0588
+2440       1027   1027      1028  SVI  G   RBR  410       36                0588
+2440       1027   ////      1033  SVI  C   RSP  113-180   III/1             0588
+
+2450 +     1611   ////      1611  SVI  C   RSP  025-140   III/1                 
+
+2460 +     1747   1808      1823  G12  5   XRA  1-8A      B7.2    1.2E-03   0587
+2460 +     1750   1750      1750  SAG  G   RBR  245       58                0587
+2460 +     1750   1750      1750  SAG  G   RBR  1415      64                0587
+
+2470 +     1937   ////      1939  HOL  C   RSP  025-180   III/1                 
+
+2480       2008   2008      2008  PAL  G   RBR  245       69                    
+
+2490 +     2034   ////      2034  HOL  C   RSP  025-070   III/1                 
+
+2500 +     2053   2057      2102  G12  5   XRA  1-8A      B3.8    1.6E-04       
+
+2510 +     2241   ////      2242  PAL  C   RSP  025-055   III/1                 
+2510       2242   2242      2242  PAL  G   RBR  245       310                   
+
+2520 +     2325   2330      2336  G12  5   XRA  1-8A      B4.9    2.5E-04       

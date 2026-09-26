@@ -1,0 +1,76 @@
+:Product: 20021116events.txt
+:Created: 2002 Nov 19 0300 UT
+:Date: 2002 11 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Nov 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1580       0258   0259      0306  LEA  3   FLA  S16E51    SF      ERU       0195
+
+1590       0404   0411      0414  LEA  3   FLA  S16E47    SF      ERU       0195
+
+1600 +     0620   0624      0627  GO8  5   XRA  1-8A      C1.5    5.4E-04   0195
+1600       0623   0624      0632  LEA  3   FLA  S15E45    SF      ERU       0195
+
+1610 +     0632   0636      0642  GO8  5   XRA  1-8A      C1.9    9.8E-04   0191
+1610       0634   0635      0644  LEA  3   FLA  S19W18    SF      ERU       0191
+
+1620       0645   0647      0653  LEA  3   FLA  S16E45    SF      ERU       0195
+
+1760       0655   ////      1509  SVI  U   RSP  031-180   CTM/1                 
+
+1630       0741   0811      0824  LEA  3   FLA  N12W53    SF      ERU       0192
+
+1640       0832   0832      0832  LEA  G   RBR  245       72                    
+
+1650       0851   0852      0856  LEA  3   FLA  N12W53    SF                0192
+
+1660       0926   0926      0930  LEA  3   FLA  S18E67    SF                0198
+
+1670       0934   0937      0942  LEA  3   FLA  N12W53    SF                0192
+
+1770       1007   1012      1039  GO8  5   XRA  1-8A      C1.8    3.0E-03       
+
+1680       1057   1102      1104  GO8  5   XRA  1-8A      C5.4    1.5E-03   0192
+1680       1059   1100      1101  SVI  G   RBR  15400     110               0192
+1680      B1100  U1102     A1113  RAM  3   FLA  N13W50    SF                0192
+
+1690       1136   ////      1136  SVI  C   RSP  029-149   III/1                 
+
+1700       1221   ////      1222  SVI  U   RSP  034-180   III/2                 
+
+1710       1226   1227      1232  RAM  3   FLA  S15E73    SF                0198
+
+1720 +     1354   1359      1411  GO8  5   XRA  1-8A      C8.6    5.4E-03   0191
+1720       1357   1358      1358  SAG  G   RBR  2695      62                0191
+1720       1357   1358      1358  SAG  G   RBR  4995      100               0191
+1720       1357   1358      1358  SAG  G   RBR  8800      64                0191
+1720 +     1358   1359      1415  RAM  3   FLA  S20W21    SF      ERU       0191
+
+1780       1421   1421      1428  HOL  3   FLA  S19W22    SF                0191
+
+1730       1422   1426      1435  HOL  3   FLA  S14E42    SF                0195
+
+1740       1515   1515      1521  HOL  3   FLA  S13E42    SF                0195
+
+1750 +     1536   1541      1546  HOL  3   FLA  S13E41    SF                0195
+
+1790       1609   1612      1623  RAM  3   FLA  S14E40    SF                0195
+
+1850       1617   1640      1649  RAM  3   FLA  N13W56    SF                0192
+
+1800       1638   1640      1645  HOL  3   FLA  N15W55    SF                0192
+
+1810       1856   1856      1858  PAL  G   RBR  410       75                    
+
+1820       1951   1952      2002  HOL  3   FLA  S14E39    SF      ERU       0195
+
+1840 +     2212   0705      1005  LEA  G   RNS  245       540                   
+
+1830 +     2314   ////      2314  HOL  C   RSP  025-180   III/1                 

@@ -1,0 +1,30 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 29 Aug 1997
+
+EDITED EVENTS for 1997 Aug 26
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+4080       0003   0007      0009  GO9  5   XRA  1-8A      B2.6    7.8E-05
+
+4090       0051   0054      0056  GO8  5   XRA  1-8A      C4.0    6.6E-04   8076
+4090 +     0053   0053      0054  LEA  G   RBR  4995      37                8076
+4090 +     0053   0053      0054  LEA  G   RBR  8800      49                8076
+4090 +     0053   0053      0054  LEA  G   RBR  15400     63                8076
+4090       0054   0054      0101  LEA  3   FLA  N21E57    SF                8076
+
+4100       0505   0508      0512  10   5   XRA  1-8A      B2.2    8.3E-05
+
+4110 +     0526   0532      0535  GO9  5   XRA  1-8A      C4.5    1.2E-03   8076
+4110      B0531  U0532      0614  SVI  2   FLA  N26E55    SF      ERU       8076
+
+4130       1216   ////      1225  SAG  C   RSP  030-05    III/1
+4130       1216   ////      1225  SAG  C   RSP  030-05    III/1
+4130       1218   1222      1227  GO9  5   XRA  1-8A      B2.3    1.2E-04
+
+4140       1958   2001      2005  GO8  5   XRA  1-8A      B5.3    1.6E-04
+
+4150       2008   2013      2019  GO9  5   XRA  1-8A      B8.8    4.5E-04   8076
+4150       2010   2013      2042  HOL  3   FLA  N29E54    SF      HSS       8076
+
+4160       2308   2310      2316  HOL  3   FLA  N29E53    SF                8076

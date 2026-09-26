@@ -1,0 +1,72 @@
+:Product: 20061108events.txt
+:Created: 2006 Nov 11 0329 UT
+:Date: 2006 11 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Nov 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8150       0022   ////      0023  LEA  C   RSP  025-080   III/1                 
+
+8160       0024   ////      0025  CUL  C   RSP  20-80     III/1                 
+
+8170       0034   ////      0034  LEA  C   RSP  025-097   III/1                 
+
+8180 +     0036   ////      0036  CUL  C   RSP  20-100    III/1                 
+
+8190       0105   ////      0106  LEA  C   RSP  025-063   III/1                 
+
+8200 +     0129   0136      0141  G12  5   XRA  1-8A      B4.4    2.7E-04   0923
+
+8210 +     0207   0212      0215  G12  5   XRA  1-8A      B6.4    2.0E-04   0923
+
+8220 +     0302   ////      0305  LEA  C   RSP  025-146   III/1                 
+
+8230       0329   ////      0331  LEA  U   RSP  025-180   III/1                 
+
+8240 +     0358   ////      0401  LEA  U   RSP  025-122   III/1                 
+
+8250 +     0431   0440      0445  G12  5   XRA  1-8A      B4.3    3.1E-04   0923
+8250       0435   0435      0435  LEA  G   RBR  245       100                   
+8250       0435   ////      0528  LEA  C   RSP  058-075   IV/1                  
+8250 +     0435   ////      0435  CUL  C   RSP  20-300    III/1                 
+
+8260 +     0457   0508      0514  G12  5   XRA  1-8A      B4.5    4.0E-04   0923
+8260 +     0503   ////      0508  LEA  C   RSP  025-180   III/2                 
+8260       0505   0506      0506  LEA  G   RBR  245       200                   
+
+8270       0524   ////      0532  LEA  C   RSP  029-067   III/1                 
+
+8400       0726   ////      0726  CUL  C   RSP  23-60     III/1                 
+
+8410       0731   ////      0731  CUL  C   RSP  23-90     III/1                 
+
+8300       0833   ////      0833  SVI  C   RSP  025-044   III/1                 
+
+8280       1150   1153      1158  G11  5   XRA  1-8A      B1.9    8.5E-05   0921
+
+8290 +     1223   1233      1242  G12  5   XRA  1-8A      B6.6    5.9E-04   0923
+
+8310 +     1451   1455      1459  G12  5   XRA  1-8A      B3.1    1.1E-04   0923
+
+8320 +     1724   1730      1733  G12  5   XRA  1-8A      B4.3    1.4E-04   0921
+
+8330 +     1734   ////      1734  PAL  C   RSP  025-180   III/1                 
+
+8340 +     1955   1959      2001  G12  5   XRA  1-8A      B1.9    5.8E-05       
+
+8350 +     2009   2051      2055  G12  5   XRA  1-8A      B2.8    6.0E-04       
+8350       2049   ////      2049  PAL  C   RSP  025-062   III/1                 
+
+8360       2100   2100      2101  PAL  G   RBR  245       280                   
+
+8370 +     2244   ////      2244  CUL  C   RSP  23-350    III/1                 
+
+8380 +     2308   ////      2309  CUL  C   RSP  20-180    III/1                 
+
+8390 +     2357   0002      0006  G12  5   XRA  1-8A      B2.3    1.1E-04       

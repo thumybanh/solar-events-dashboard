@@ -1,0 +1,93 @@
+:Product: 20030803events.txt
+:Created: 2003 Aug 06 0302 UT
+:Date: 2003 08 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Aug 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2050       0135   0141      0153  LEA  3   FLA  S18E62    SF                0424
+
+2060 +     0220   0231      0236  G12  5   XRA  1-8A      C2.5    1.4E-03   0424
+2060 +     0223   0230      0250  LEA  3   FLA  S18E62    SF      ERU       0424
+
+2070 +     0258   0305      0315  LEA  3   FLA  S18E62    1F      ERU       0424
+2070 +     0301   0305      0310  G12  5   XRA  1-8A      C1.1    4.4E-04   0424
+
+2080 +     0410   0418      0426  G12  5   XRA  1-8A      B6.5    5.5E-04       
+2080       0423   0423      0423  LEA  G   RBR  245       63                    
+
+2090       0438   0450      0457  LEA  3   FLA  S18E61    SF      ERU       0424
+
+2100       0514   0517      0523  LEA  3   FLA  S18E60    SF      ERU       0424
+
+2110       0531   0531      0534  LEA  3   FLA  S18E60    SF      ERU       0424
+
+2120 +     0543   0543      0544  LEA  G   RBR  245       73                    
+
+2220       0600   ////      1200  IZM  F   RNS  204       5                     
+
+2370       0602   ////      0604  CUL  C   RSP  27-180    III/1                 
+
+2130       0608   0609      0612  SVI  3   FLA  S19E58    SF                0424
+
+2140 +     0618   0622      0626  G12  5   XRA  1-8A      B4.7    2.0E-04   0427
+
+2150       0701   0702      0705  SVI  3   FLA  S18E59    SF                0424
+
+2160 +     0749   0754      0756  G12  5   XRA  1-8A      C1.5    4.7E-04   0427
+2160 +     0752   0754      0758  LEA  3   FLA  N04W08    SF                0427
+
+2170       0809   ////      0809  SVI  C   RSP  025-056   III/1                 
+
+2180       0810   0811      0814  SVI  3   FLA  S18E58    SF                0424
+
+2190       0923   ////      0930  SVI  C   RSP  025-162   III/1                 
+2190       0927   ////      1119  SVI  C   RSP  025-180   CTM/1                 
+
+2200 +     0931   0939      0950  G12  5   XRA  1-8A      C1.3    1.3E-03   0424
+2200       0934   0936      0948  SVI  3   FLA  S22E60    SF                0424
+
+2210 +     1157   1157      1157  SVI  G   RBR  245       65                    
+2210 +     1157   ////      1205  SVI  C   RSP  025-162   III/2                 
+
+2250       1308   1321      1341  G12  5   XRA  1-8A      B8.8    4.2E-03   0427
+
+2230 +     1340   ////      1340  SVI  U   RSP  025-083   III/1                 
+
+2240 +     1420   1424      1428  SAG  G   RBR  245       83                    
+
+2260       1500   ////      1507  SVI  C   RSP  025-067   III/1                 
+
+2220       1522   1527      1527  SAG  G   RNS  245       67                    
+
+2270 +     1730   ////      1731  HOL  C   RSP  025-180   III/1                 
+
+2280 +     1755   ////      1755  PAL  C   RSP  025-054   III/1                 
+
+2290 +     1801   1809      1819  G12  5   XRA  1-8A      C1.0    9.2E-04   0424
+
+2300 +     1853   ////      1859  HOL  C   RSP  025-087   III/1                 
+
+2310 +     1909   1914      1916  G12  5   XRA  1-8A      C2.6    5.8E-04   0424
+2310       1912   1914      1920  HOL  3   FLA  S16E53    SF                0424
+
+2320 +     1938   1943      1950  G12  5   XRA  1-8A      B6.2    3.8E-04   0424
+
+2330       2008   2009      2009  PAL  G   RBR  245       150                   
+
+2340       2014   2014      2014  PAL  G   RBR  245       190                   
+
+2350       2029   ////      2030  HOL  C   RSP  025-180   III/1                 
+
+2360 +     2136   ////      2136  CUL  C   RSP  20-160    III/3                 
+
+2380 +     2254   2259      2302  G12  5   XRA  1-8A      B8.4    3.3E-04   0424
+2380       2257   ////      2257  CUL  C   RSP  27-140    III/1                 
+
+2390 +     2342   ////      2351  CUL  C   RSP  20-200    III/2                 

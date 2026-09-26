@@ -1,0 +1,55 @@
+:Product: 19991214events.txt
+:Created: 1999 Dec 17 0302 UT
+:Date: 1999 12 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Dec 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1570       0013   ////      0013  LEA  C   RSP  030-07    III/1                 
+
+1580 +     0209   0209      0209  LEA  G   RBR  245       61                    
+
+1590 +     0305   ////      0306  LEA  C   RSP  030-08    III/2                 
+
+1600       0342   0342      0343  LEA  G   RBR  245       81                    
+
+1610       0435   0436      0437  LEA  G   RBR  245       75                    
+
+1620       0443   ////      0444  LEA  C   RSP  030-08    III/2                 
+
+1630       0457   ////      0457  LEA  C   RSP  058-08    III/1                 
+
+1640       0655   0700      0705  G10  5   XRA  1-8A      C1.1    6.0E-04       
+
+1650 +     0957   1001      1005  GO8  5   XRA  1-8A      B9.6    3.9E-04       
+1650       0959   0959      0959  LEA  G   RBR  410       81                    
+
+1660 +     1127   1132      1137  GO8  5   XRA  1-8A      C1.0    5.7E-04       
+
+1670       1158   1158      1159  SVI  G   RBR  245       170                   
+
+1680       1503   1504      1506  HOL  3   FLA  S13E63    SF                8798
+
+1690       1649   1657      1713  HOL  3   FLA  S14E63    SF                8798
+1690       1657   1659      1702  GO8  5   XRA  1-8A      C1.1    2.7E-04   8798
+
+1700       1901   1907      1913  HOL  2   FLA  S14E62    SF                8798
+
+1710       1923   1925      1928  HOL  2   FLA  S14E62    SF                8798
+
+1720 +     1945   1947      1948  PAL  G   RBR  410       200                   
+1720 +     1945   1947      1951  PAL  G   RBR  606       12                    
+1720 +     1946   1946      1951  PAL  G   RBR  245       77                    
+1720       1946   1947      1949  PAL  G   RBR  1415      5                     
+
+1860      A2055   ////      1258  RAM  3   DSF  N48W16    09      B.0A          
+
+1870      A2055   ////      1258  RAM  3   DSF  N24E28    05      B.0A          
+
+1730       2245   ////      2245  PAL  C   RSP  030-03    III/1                 

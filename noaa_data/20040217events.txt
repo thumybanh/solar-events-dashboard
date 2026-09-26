@@ -1,0 +1,26 @@
+:Product: 20040217events.txt
+:Created: 2004 Feb 20 0300 UT
+:Date: 2004 02 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Feb 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4310       0000   ////      2046  CUL  C   RSP  20-180    CTM/1                 
+
+4260       0008   0013      0019  G10  5   XRA  1-8A      B1.6    9.9E-05   0554
+
+4270 +     0536   ////      0537  CUL  C   RSP  30-100    III/1                 
+
+4300       1230   1243      1246  G12  5   XRA  1-8A      B2.1    1.8E-04   0554
+
+4280       1914   ////      1914  HOL  C   RSP  025-093   III/1                 
+
+4290       1934   2006      2047  G12  5   XRA  1-8A      B4.9    1.7E-03       
+4290       2001   ////      2006  HOL  C   RSP  025-180   III/1                 
+4290       2004   ////      2105  HOL  C   RSP  076-086   CTM/1                 

@@ -1,0 +1,39 @@
+:Product: 20011230events.txt
+:Created: 2005 Jul 27 2016 UT
+:Date: 2001 12 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5740       0004   ////      0022  LEA  3   EPL  ////      0.2     B.6A      9767
+
+5760       0653   0725      0734  GO8  5   XRA  1-8A      C6.1    1.3E-02   9751
+5760       0656   0659      0710  LEA  3   FLA  N02W49    SF                9751
+
+5770 +     1216   1227      1235  RAM  3   FLA  N04W45    SF                9751
+
+5780       1216   1220      1236  RAM  3   FLA  S07W23    SF                9754
+
+5790       1342   1347      1359  GO8  5   XRA  1-8A      C3.2    3.1E-03   9751
+5790       1343   1343      1359  RAM  3   FLA  N03W43    SF                9751
+
+5800 +     1431   1431      1432  SAG  G   RBR  245       100                   
+5800 +     1431   1431      1432  SAG  G   RBR  410       130                   
+
+5810 +     1435   1436      1437  SAG  G   RBR  245       880                   
+
+5820 +     1502   1506      1511  GO8  5   XRA  1-8A      C5.0    2.3E-03   9767
+5820       1506   1506      1512  RAM  3   FLA  S23E82    SF                9767
+
+5940      A1904   ////     B1222  RAM  3   DSF  N12E38    05      B.0A          
+
+5830 +     2153   2157      2201  GO8  5   XRA  1-8A      C4.2    1.8E-03   9767
+5830       2155   2158      2203  HOL  3   FLA  S24E77    1F      ERU       9767
+
+5840       2349   2349      2352  LEA  2   FLA  S11E55    SF      ERU           

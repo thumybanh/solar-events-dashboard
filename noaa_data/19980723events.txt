@@ -1,0 +1,71 @@
+:Product: 19980723events.txt
+:Created: 1998 Jul 26 0302 UT
+:Date: 1998 07 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5470 +     0401   0410      0422  GO9  5   XRA  1-8A      B8.8    9.4E-04       
+5470       0406   0406      0406  SVI  G   RBR  245       220                   
+5470       0406   0406      0406  SVI  G   RBR  410       47                    
+
+5500       0452   0453      0453  SVI  G   RBR  245       450                   
+5500       0453   0453      0453  SVI  G   RBR  410       85                    
+
+5480       0527   0527      0527  SVI  G   RBR  245       64                    
+5480       0527   0527      0527  SVI  G   RBR  410       10                    
+5480       0527   0527      0527  SVI  G   RBR  606       27                    
+5480       0527   0527      0527  SVI  G   RBR  1415      10                    
+
+5490       0540   0541      0541  SVI  G   RBR  245       130                   
+5490       0540   0541      0541  SVI  G   RBR  410       20                    
+5490       0540   0541      0541  SVI  G   RBR  606       24                    
+5490       0540   0541      0541  SVI  G   RBR  1415      10                    
+
+5510 +     0736   ////      0736  SVI  C   RSP  036-08    III/2                 
+
+5520       0738   ////      0738  LEA  C   RSP  030-06    III/1                 
+
+5530       0745   0748      0750  GO9  5   XRA  1-8A      B7.1    1.8E-04       
+
+5540       0754   ////      0755  LEA  C   RSP  030-04    III/1                 
+5540       0754   0754      0754  SVI  U   RBR  410       360                   
+5540       0754   0754      0754  SVI  U   RBR  245       75                    
+
+5550       0758   ////      0758  LEA  C   RSP  030-06    III/1                 
+
+5560       0759   0759      0759  SVI  U   RBR  245       67                    
+5560       0759   0759      0759  SVI  U   RBR  410       420                   
+5560       0759   0759      0759  SVI  U   RBR  606       18                    
+
+5570       0818   0818      0818  SVI  U   RBR  245       180                   
+5570       0818   0818      0818  SVI  U   RBR  410       150                   
+
+5600 +     1151   ////      1151  SVI  C   RSP  036-07    III/2                 
+
+5630       1227   ////      1628  SVI  C   RSP  035-05    CTM/2                 
+
+5610       1247   ////      1249  SVI  U   RSP  035-05    III/1             8281
+5610       1248   1255      1305  SVI  3   FLA  N14E51    SF      ERU       8281
+
+5620       1425   ////      1425  SAG  C   RSP  030-06    III/1                 
+
+5640       1549   ////      1554  SAG  C   RSP  030-05    III/1                 
+
+5650 +     1558   1605      1612  GO9  5   XRA  1-8A      C1.4    8.5E-04   8280
+5650 +     1602   1603      1614  RAM  4   FLA  S24E54    SF      ERU       8280
+
+5660 +     1624   1630      1634  GO9  5   XRA  1-8A      C1.1    5.9E-04   8281
+5660 +     1630   1631      1635  RAM  4   FLA  N17E48    SF      ERU       8281
+5660       1643   ////      1644  SVI  U   RSP  070-08    III/3             8281
+
+5680 +     1738   1745      1753  GO9  5   XRA  1-8A      C1.0    7.4E-04       
+5680       1742   1749      1758  RAM  4   FLA  N29E53    SF      ERU           
+
+5690 +     2319   2324      2329  GO9  5   XRA  1-8A      B6.9    3.4E-04       

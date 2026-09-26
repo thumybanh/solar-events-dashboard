@@ -1,0 +1,47 @@
+:Product: 20240305events.txt
+:Created: 2024 Mar 08 0357 UT
+:Date: 2024 03 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Mar 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4230       0005   ////      0009  LEA  C   RSP  025-117   III/1                 
+
+4240       0100   ////      0100  PAL  C   RSP  025-075   III/2                 
+
+4250       0222   ////      0224  LEA  C   RSP  036-110   III/1                 
+
+4260       0233   ////      0239  LEA  1   BSL  ////      0.14                  
+
+4270       0943   0952      0957  G16  5   XRA  1-8A      C1.1    7.3E-04       
+
+4280       1036   ////      1037  SVI  C   RSP  025-083   III/2                 
+
+4290 +     1108   1125      1138  G16  5   XRA  1-8A      C2.6    3.2E-03   3598
+
+4300 +     1239   ////      1240  SVI  C   RSP  075-180   III/1                 
+
+4310 +     1335   ////      1335  SAG  C   RSP  025-088   III/1                 
+
+4320 +     1416   1423      1427  G16  5   XRA  1-8A      C1.9    8.1E-04   3599
+4320 +     1421   1423      1434  SVI  3   FLA  S13E30    SF                3599
+
+4330 +     1448   1456      1501  G16  5   XRA  1-8A      C1.0    3.0E-04   3600
+4330       1455   1455      1508  HOL  3   FLA  S17E37    SF                3600
+
+4340       1501   1504      1509  G16  5   XRA  1-8A      C1.0    5.3E-04   3600
+
+4330 +     1502   ////      1502  SVI  C   RSP  080-160   III/1             3600
+
+4350 +     1825   ////      1826  SAG  C   RSP  039-180   III/1                 
+
+4360       2228   ////      2235  PAL  C   RSP  075-180   V/2                   
+
+4370 +     2346   2351      2357  G16  5   XRA  1-8A      C1.4    9.0E-04   3595
+4370 +     2346   ////      2349  PAL  C   RSP  025-180   III/2                 

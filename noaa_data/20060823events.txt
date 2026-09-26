@@ -1,0 +1,39 @@
+:Product: 20060823events.txt
+:Created: 2006 Aug 26 0329 UT
+:Date: 2006 08 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Aug 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3740 +     0024   ////      0025  LEA  C   RSP  025-135   III/1                 
+
+3750 +     0035   0041      0050  G12  5   XRA  1-8A      B7.6    4.3E-04   0905
+3750       0038   0042      0048  G12  5   XFL  S07E59    1.2E+03 3.7E+03   0905
+3750       0040   0041      0047  HOL  3   FLA  S07E58    SF                0905
+
+3760       0206   ////      0206  LEA  C   RSP  025-133   III/1                 
+
+3770       0208   ////      0208  CUL  C   RSP  30-80     III/1                 
+
+3780 +     0229   ////      0236  LEA  C   RSP  025-151   V/1                   
+3780       0235   ////      0236  CUL  C   RSP  18-100    III/1                 
+
+3850       0601   ////      0000  CUL  C   RSP  25-90     CTM/1                 
+
+3790       0616   ////      0617  LEA  C   RSP  025-101   III/1                 
+
+3800       0620   ////      0629  LEA  C   RSP  025-081   III/1                 
+
+3810       0632   ////      0638  LEA  C   RSP  025-075   III/1                 
+
+3820 +     0652   ////      0654  LEA  C   RSP  025-180   III/2                 
+
+3840       1615   ////      1631  SAG  C   RSP  030-061   III/1                 
+
+3830       1622   ////      1623  SVI  C   RSP  025-081   III/1                 

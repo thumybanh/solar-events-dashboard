@@ -1,0 +1,17 @@
+:Product: 20080107events.txt
+:Created: 2008 Jan 10 2332 UT
+:Date: 2008 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2008 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8530       0226   0234      0245  G11  5   XRA  1-8A      B1.2    1.2E-04       
+
+8540       1449   1527      1556  G11  5   XRA  1-8A      C1.4    3.4E-03   0980
+8540      B1530  U1530     A1616  HOL  3   FLA  S08W02    SF                0980

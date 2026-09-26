@@ -1,0 +1,47 @@
+:Product: 20030116events.txt
+:Created: 2003 Jan 19 0302 UT
+:Date: 2003 01 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3330       0047   ////      0047  CUL  C   RSP  18-45     III/1                 
+
+3320 +     0102   0108      0115  GO8  5   XRA  1-8A      C5.3    2.5E-03   0255
+3320       0105   0108      0118  LEA  3   FLA  S11W27    1N      PRB       0255
+3320       0107   ////      0110  CUL  C   RSP  130-240   III/1             0255
+
+3390       0205   ////      1032  LEA  C   RSP  075-137   CTM/1                 
+
+3340       0301   ////      0302  CUL  C   RSP  60-160    III/1                 
+
+3350       0350   ////      0351  CUL  C   RSP  30-90     III/1                 
+
+3360       0404   ////      0404  LEA  C   RSP  025-055   III/1                 
+
+3370       0405   ////      0405  CUL  C   RSP  30-60     III/1                 
+
+3380 +     0442   0450      0457  GO8  5   XRA  1-8A      C1.8    1.2E-03   0258
+3380      B0445  U0448     A0448  LEA  3   FLA  N10E52    1F                0258
+
+3450       0605   ////      0607  CUL  C   RSP  35-80     III/1                 
+
+3460       0712   ////      0712  CUL  C   RSP  25-80     III/1                 
+
+3400       1022   1022      1022  SVI  G   RBR  245       160                   
+
+3410 +     1112   1218      1254  GO8  5   XRA  1-8A      C2.0    7.7E-03       
+
+3420       1638   1638      1639  SAG  G   RBR  245       79                    
+
+3430       2023   2031      2037  GO8  5   XRA  1-8A      B7.5    5.6E-04       
+
+3470       2328   ////      2338  CUL  C   RSP  30-90     III/1                 
+
+3440      A2338   ////     B1452  HOL  2   DSF  S03W04    04      B.0A      0000

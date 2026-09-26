@@ -1,0 +1,35 @@
+:Product: 20050107events.txt
+:Created: 2005 Jan 10 0302 UT
+:Date: 2005 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 850 +     0743   0749      0800  G12  5   XRA  1-8A      B1.2    1.1E-04       
+ 850       0747   0747      0756  G12  5   XFL  N46E90                          
+
+ 860       1109   1115      1120  G10  5   XRA  1-8A      B1.9    1.1E-04       
+
+ 870 +     1211   1216      1222  G12  5   XRA  1-8A      B1.9    1.0E-04       
+ 870       1216   1216      1220  G12  5   XFL  S51E90                          
+
+ 880 +     1553   1558      1602  G12  5   XRA  1-8A      B2.0    7.9E-05       
+ 880       1556   1556      1600  G12  5   XFL  S72W51                          
+
+ 890 +     1610   1615      1619  G12  5   XRA  1-8A      B2.4    9.9E-05       
+ 890       1616   1616      1616  G12  5   XFL  S09E79                          
+
+ 900 +     1647   1655      1712  G12  5   XRA  1-8A      B2.9    3.2E-04   0719
+ 900       1651   1659      1709  G12  5   XFL  S10E79    4.3E+02 8.1E+02   0719
+
+ 910 +     1837   1846      1853  G12  5   XRA  1-8A      B6.8    4.1E-04   0719
+ 910       1840   1849      1851  G12  5   XFL  S08E80    9.3E+02 2.4E+03   0719
+
+ 920 +     2035   2041      2048  G12  5   XRA  1-8A      B2.3    1.3E-04   0719
+ 920       2039   2041      2045  G12  5   XFL  S09E80    1.0E+02 1.7E+02   0719

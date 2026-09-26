@@ -1,0 +1,51 @@
+:Product: 20040324events.txt
+:Created: 2004 Mar 27 0302 UT
+:Date: 2004 03 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Mar 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 250 +     0413   0416      0420  G12  5   XRA  1-8A      B2.9    1.1E-04   0578
+ 250       0417   0418      0419  G12  5   XFL  N16E06    1.3E+02 2.4E+02   0578
+
+ 260       0536   0544      0551  G10  5   XRA  1-8A      B4.4    3.4E-04       
+
+ 270       1345   1345      1345  SAG  G   RBR  245       74                    
+
+ 280 +     1417   1426      1438  G12  5   XRA  1-8A      C5.7    4.7E-03   0577
+ 280 +     1420   1424      1429  SAG  G   RBR  2695      95                0577
+ 280       1421   1425      1426  SAG  G   RBR  245       320               0577
+ 280 +     1421   1423      1429  SAG  G   RBR  4995      96                0577
+ 280 +     1421   ////      1426  HOL  C   RSP  025-180   III/1             0577
+ 280 +     1421   1426      1442  HOL  3   FLA  N00W06    SF      PRB       0577
+ 280       1421   1428      1437  G12  5   XFL  N01W08    3.1E+03 2.2E+04   0577
+ 280       1422   1426      1427  SAG  G   RBR  606       110               0577
+ 280       1423   1423      1425  SVI  G   RBR  15400     32                0577
+ 280       1423   1426      1426  SAG  G   RBR  410       150               0577
+ 280 +     1423   1424      1424  SAG  G   RBR  1415      25                0577
+ 280 +     1423   1423      1426  SAG  G   RBR  8800      54                0577
+
+ 290 +     1454   ////      1454  HOL  C   RSP  025-180   III/1                 
+
+ 300 +     1845   1851      1857  G12  5   XRA  1-8A      C1.5    8.9E-04   0582
+ 300 +     1848   1850      1856  COM  5   XFL  N15E90    1.9E+03 5.8E+03   0582
+
+ 310 +     2007   2018      2028  G12  5   XRA  1-8A      C7.4    4.8E-03   0582
+ 310 +     2011   2020      2027  COM  5   XFL  N15E90    3.2E+03 1.6E+04   0582
+
+ 340       2126   ////      2126  CUL  C   RSP  20-90     III/1                 
+
+ 320 +     2127   2138      2148  G12  5   XRA  1-8A      C1.9    2.0E-03   0577
+ 320       2130   2144      2147  G12  5   XFL  N01W12    1.8E+03 9.4E+03   0577
+
+ 350       2301   ////      2302  CUL  C   RSP  50-300    III/1                 
+
+ 330 +     2314   2329      2335  G12  5   XRA  1-8A      M1.5    7.5E-03   0582
+ 330       2317   2332      2334  G12  5   XFL  N15E90    4.5E+03 3.1E+04   0582
+ 330 +     2325   2327      2339  COM  3   FLA  N15E77    SF                0582

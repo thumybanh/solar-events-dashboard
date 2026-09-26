@@ -1,0 +1,68 @@
+:Product: 19980525events.txt
+:Created: 1998 May 28 0303 UT
+:Date: 1998 05 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 May 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4570       0007   0011      0011  LEA  G   RBR  245       52                    
+
+4760       0443   ////      0444  CUL  C   RSP  20-45     III/1                 
+
+4580 +     0537   0537      0538  LEA  G   RBR  245       200                   
+
+4680       0600   0000      1200       F   RNS  204       70                    
+
+4590 +     0803   0808      0814  GO9  5   XRA  1-8A      B3.4    2.0E-04       
+
+4600 +     0832   0839      0849  GO9  5   XRA  1-8A      B5.2    4.6E-04       
+4600 +     0849   0850      0851  LEA  G   RBR  245       380                   
+4600 +     0849   0851      0852  LEA  G   RBR  410       150                   
+
+4610 +     0850   ////      0852  SVI  C   RSP  035-08    III/2                 
+
+4620 +     0932   0937      0940  GO9  5   XRA  1-8A      B6.5    2.2E-04       
+
+4680 +     0935  U1853      1906  SAG  G   RNS  245       190                   
+
+4630 +     1242   1246      1252  GO9  5   XRA  1-8A      B7.0    3.2E-04       
+4630 +     1243   1244      1244  SVI  U   RBR  245       290                   
+4630       1244   1244      1244  SVI  U   RBR  410       39                    
+
+4640 +     1417   1419      1421  SAG  G   RBR  410       52                    
+
+4650       1424   ////      1425  SAG  C   RSP  030-05    III/1                 
+
+4660       1503   1504      1505  SVI  U   RBR  245       120                   
+4660       1503   1503      1503  SVI  U   RBR  410       68                    
+
+4670       1511   ////      1511  SVI  C   RSP  036-05    III/2                 
+4670       1511   ////      1512  SAG  C   RSP  030-05    V/1                   
+
+4690 +     1842   1846      1849  GO9  5   XRA  1-8A      B3.6    1.2E-04       
+
+4700       2014   2014      2015  SAG  U   RBR  245       81                    
+
+4710       2037   2037      2038  SAG  U   RBR  245       55                    
+
+4720 +     2039   2044      2047  GO9  5   XRA  1-8A      B3.3    1.3E-04       
+4720       2043   ////      2045  SAG  C   RSP  030-05    III/1                 
+
+4730       2114   2115      2115  SAG  U   RBR  245       60                    
+
+4740 +     2133   2133      2133  PAL  U   RBR  245       360                   
+
+4750       2236   2238      2238  SAG  U   RBR  245       50                    
+
+4770       2310   ////      2312  CUL  C   RSP  20-150    III/1                 
+
+4780 +     2337   ////      2338  PAL  C   RSP  027-06    III/1                 
+
+4790       2354   ////      2355  LEA  C   RSP  030-04    III/1                 
+4790       2354   ////      2355  PAL  C   RSP  027-05    V/1                   

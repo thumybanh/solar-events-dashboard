@@ -1,0 +1,48 @@
+:Product: 20010303events.txt
+:Created: 2001 Mar 06 0302 UT
+:Date: 2001 03 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Mar 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9490 +     0019   0023      0029  GO8  5   XRA  1-8A      B6.6    3.5E-04       
+
+9500 +     0105   0108      0111  GO8  5   XRA  1-8A      B5.6    1.7E-04       
+9500       0107   0107      0108  LEA  U   RBR  245       330                   
+
+9510       0436   0438      0440  LEA  3   FLA  S26E38    SF                9366
+
+9520       0515   0515      0528  LEA  3   FLA  N16W40    SF      ERU       9369
+
+9530       0537   0542      0546  GO8  5   XRA  1-8A      B8.1    3.8E-04       
+9530       0541   ////      0606  SVI  C   RSP  025-075   CTM/1                 
+9530       0542   0549      0551  LEA  3   FLA  N17W41    SF      ERU       9369
+
+9540 +     0608   0614      0622  GO8  5   XRA  1-8A      B7.4    5.1E-04       
+
+9550       0639   ////      1215  SVI  C   RSP  025-155   CTM/1                 
+
+9560       1126   1129      1157  RAM  3   FLA  N17W43    SF                9369
+9560       1133   1139      1150  G10  5   XRA  1-8A      B5.9    5.4E-04       
+
+9570       1208   1208      1217  RAM  3   FLA  N17W44    SF      ERU       9369
+
+9580       1237   ////      1238  SVI  U   RSP  029-082   III/1                 
+
+9590       1252   1309      1318  GO8  5   XRA  1-8A      B7.7    9.3E-04       
+9590       1306   1314      1319  RAM  3   FLA  N17W45    SF                9369
+
+9600       1434   1436      1439  HOL  3   FLA  N18W43    SF                9369
+
+9610 +     1440   1441      1441  SAG  G   RBR  245       74                    
+
+9620 +     1807   1812      1816  GO8  5   XRA  1-8A      B8.3    3.8E-04       
+9620       1808   1808      1810  SAG  G   RBR  410       72                    
+
+9630       2154   ////      2154  SAG  C   RSP  030-080   III/1                 

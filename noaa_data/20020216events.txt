@@ -1,0 +1,44 @@
+:Product: 20020216events.txt
+:Created: 2002 Feb 19 0300 UT
+:Date: 2002 02 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Feb 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5960 +     0036   0048      0051  GO8  5   XRA  1-8A      C1.7    1.0E-03       
+5960       0050   0050      0050  LEA  G   RBR  245       57                    
+
+5970       0053   ////      0048  LEA  C   RSP  071-180   III/1                 
+5970       0053   ////      0058  LEA  C   RSP  096-180   II/1    447           
+
+5980       0415   0416      0416  LEA  G   RBR  245       55                    
+
+5990       0921   ////      0921  SVI  U   RSP  032-144   III/1                 
+
+6000 +     1019   1025      1031  GO8  5   XRA  1-8A      C2.0    1.1E-03       
+
+6010       1348   1348      1348  SAG  G   RBR  410       74                    
+
+6020       1423   1423      1424  SAG  G   RBR  410       100                   
+
+6070 +     1530   1530      1532  SAG  G   RBR  245       130                   
+
+6090       1830   1830      1830  SAG  G   RBR  245       69                    
+
+6100       1855   1855      1855  SAG  G   RBR  410       89                    
+
+6110 +     1859   1859      1859  SAG  G   RBR  410       66                    
+
+6120       2227   2228      2231  HOL  3   FLA  S17E45    SF                9830
+
+6130       2241   2242     A2313  HOL  3   FLA  S29W68    SF                9819
+
+6140 +     2326   2332      2338  GO8  5   XRA  1-8A      C2.7    1.4E-03       
+
+6150       2344   2344      2344  PAL  G   RBR  245       170                   

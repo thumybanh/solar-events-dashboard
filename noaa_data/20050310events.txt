@@ -1,0 +1,49 @@
+:Product: 20050310events.txt
+:Created: 2005 Mar 11 1229 UT
+:Date: 2005 03 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Mar 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 590       0001   ////      0005  CUL  C   RSP  100-180   III/1                 
+
+ 600       0026   ////      0026  CUL  C   RSP  100-180   III/1                 
+
+ 610       0159   ////      0200  CUL  C   RSP  60-180    III/1                 
+
+ 620 +     0326   ////      0326  CUL  C   RSP  23-350    III/3                 
+
+ 700       0506   ////      0506  CUL  C   RSP  20-180    III/2                 
+
+ 630 +     1136   1142      1144  G12  5   XRA  1-8A      C7.3    1.3E-03   0741
+ 630 +     1138   1139      1143  SVI  G   RBR  245       490               0741
+ 630 +     1139   1140      1143  SVI  G   RBR  410       140               0741
+ 630       1139   ////      1143  SVI  C   RSP  025-180   III/3             0741
+ 630 +     1139   ////      1143  SVI  C   RSP  025-180   V/3               0741
+ 630       1139   1143      1143  G12  5   XFL  N12W07    3.1E+03 2.4E+04   0741
+ 630 +     1140   1140      1140  SVI  G   RBR  4995      56                0741
+ 630       1140   1140      1140  SVI  G   RBR  8800      62                0741
+ 630       1140   1140      1140  SVI  G   RBR  15400     28                0741
+
+ 640 +     1202   1211      1223  G12  5   XRA  1-8A      B7.0    7.0E-04       
+ 640       1206   1211      1222  G12  5   XFL  N49E54    3.0E+02 2.4E+03       
+
+ 650 +     1555   1601      1612  G12  5   XRA  1-8A      B3.1    2.7E-04       
+ 650       1559   1559      1611  G12  5   XFL  N31E47                          
+
+ 660       1822   1822      1822  SAG  G   RBR  245       150                   
+
+ 670 +     1837   1842      1848  G12  5   XRA  1-8A      B6.0    2.7E-04   0742
+ 670       1841   1847      1847  G12  5   XFL  S04E33    9.8E+02 2.1E+03   0742
+
+ 680 +     2026   2036      2055  G12  5   XRA  1-8A      B7.3    9.4E-04   0742
+ 680       2030   2038      2055  G12  5   XFL  S04E33    1.5E+03 4.7E+03   0742
+
+ 690 +     2239   2244      2251  G12  5   XRA  1-8A      B3.1    2.0E-04   0742
+ 690       2242   2246      2250  G12  5   XFL  S04E31    7.3E+02 1.5E+03   0742

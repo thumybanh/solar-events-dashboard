@@ -1,0 +1,63 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 12 Apr 1998
+
+EDITED EVENTS for 1998 Apr 09
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+6010       0005   0005      0010  HOL  3   FLA  S31E60    SF                8198
+
+6020       0022   0024      0033  HOL  3   FLA  S30E36    SF                8195
+
+6050 +     0352   ////      0353  CUL  C   RSP  18-120    III/2
+
+6060 +     0400   ////      0400  CUL  C   RSP  30-90     III/1
+
+6070 +     0404   0408      0414  GO9  5   XRA  1-8A      B8.6    4.6E-04
+
+6080 +     0422   0430      0437  GO9  5   XRA  1-8A      C2.4    1.7E-03
+6080 +     0422   0422      0423  LEA  G   RBR  245       48
+6080 +     0422   0422      0423  LEA  G   RBR  410       63
+6080 +     0423   ////      0423  LEA  C   RSP  030-07    III/2
+
+6100       0545   0545      0545  LEA  G   RBR  245       150
+
+6110 +     0758   0759      0759  SVI  G   RBR  245       260
+6110       0758   0759      0759  SVI  G   RBR  410       24
+6110 +     0758   ////      0815  SVI  C   RSP  035-08    III/2
+
+6120       0807   ////      0815  LEA  C   RSP  030-08    III/2
+
+6130 +     1242   ////      1242  SAG  C   RSP  030-05    III/1
+
+6150       1417   1422      1431  GO9  5   XRA  1-8A      B8.9    6.8E-04
+6150       1417   1422      1431  GO9  5   XRA  1-8A      B8.9    6.8E-04
+6150       1427   ////      1428  SAG  C   RSP  030-05    III/1
+
+6160       1504   ////      1505  SAG  C   RSP  030-05    III/1
+
+6170       1708   1713      1724  HOL  3   FLA  S22E08    SF
+
+6180       1740   1742      1746  HOL  3   FLA  S22E08    SF                8200
+6180       1742   ////      1742  PAL  C   RSP  025-07    III/2             8200
+
+6190       1802   1804      1808  HOL  3   FLA  S22E08    SF                8200
+
+6200 +     1810   1815      1819  GO9  5   XRA  1-8A      C2.9    9.9E-04   8198
+6200       1814   1815      1821  RAM  3   FLA  S29E47    SF      ERU       8198
+
+6210 +     1919   1919      1921  SAG  G   RBR  245       110
+
+6220 +     1934   ////      1942  PAL  C   RSP  025-07    III/3             8200
+6220 +     1935   1942      1948  GO9  5   XRA  1-8A      C1.3    8.1E-04   8200
+6220 +     1936   1937      1939  PAL  G   RBR  245       1100              8200
+6220 +     1936   1937      1939  PAL  G   RBR  410       67                8200
+6220 +     1937   1942      1955  HOL  3   FLA  S22E05    SF                8200
+
+6420      A2147   ////      1028  RAM  3   DSF  S50E31    04      B.0A
+
+6240       2155   2155      2200  HOL  3   FLA  S30E44    SF                8198
+
+6250       2234   2237      2240  HOL  3   FLA  S29E40    SF                8198
+
+6260 +     2324   2327      2330  GO9  5   XRA  1-8A      B8.5    2.6E-04

@@ -1,0 +1,79 @@
+:Product: 19981020events.txt
+:Created: 1998 Oct 23 0302 UT
+:Date: 1998 10 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7990       0028   0041      0047  GO8  5   XRA  1-8A      C1.3    1.3E-03       
+7990 +     0030   ////      0030  LEA  C   RSP  030-06    III/2                 
+
+8000 +     0144   0150      0153  GO8  5   XRA  1-8A      C5.1    1.7E-03       
+
+8010       0249   0250      0253  LEA  3   FLA  N14W68    SF                8361
+
+8020 +     0338   0343      0400  GO8  5   XRA  1-8A      C1.4    1.5E-03   8365
+8020       0342   0343      0346  LEA  3   FLA  N14W69    SF                8361
+
+8040       0342   0343      0349  LEA  3   FLA  N16W80    SF                8358
+
+8030       0343   0358      0407  LEA  3   FLA  S29W04    SF                8365
+
+8050 +     0512   0515      0517  GO8  5   XRA  1-8A      B6.8    1.8E-04       
+
+8060 +     0519   0522      0525  GO8  5   XRA  1-8A      B9.0    3.0E-04   8358
+8060       0519   0522      0527  LEA  3   FLA  N16W80    SF                8358
+
+8070       0622   0632      0638  LEA  3   FLA  N16W81    SF                8358
+
+8080       0629   0630      0634  LEA  3   FLA  N14W72    SF                8361
+
+8090       0845   ////      0848  LEA  C   RSP  030-06    III/1                 
+
+8100 +     0926   0929      0932  GO8  5   XRA  1-8A      C1.0    3.3E-04       
+
+8110 +     1003   1007      1011  GO8  5   XRA  1-8A      B8.4    3.3E-04       
+
+8120 +     1116   1136      1149  GO8  5   XRA  1-8A      C1.1    2.1E-03       
+
+8150 +     1421   1429      1437  GO8  5   XRA  1-8A      C3.3    2.2E-03       
+8150       1422   1423      1424  SAG  G   RBR  245       52                    
+8150       1422   1423      1424  SAG  G   RBR  410       16                    
+8150       1422   1423      1424  SAG  G   RBR  606       9                     
+8150       1422   1423      1424  SAG  G   RBR  1415      24                    
+8150 +     1423   ////      1425  SAG  C   RSP  030-08    V/2                   
+
+8160       1525   ////      1531  SAG  C   RSP  030-06    V/1                   
+
+8170 +     1753   1801      1805  GO8  5   XRA  1-8A      C3.2    1.2E-03       
+
+8180       1909   1913      1916  G10  5   XRA  1-8A      B6.5    2.5E-04       
+
+8190       2027   ////      2114  CUL  C   RSP  18-180    IV/1                  
+
+8200       2029   2029      2024  SAG  G   RNS  245       130                   
+
+8190 +     2030   2103      2148  GO8  5   XRA  1-8A      C7.4    2.6E-02       
+8190       2040   ////      2053  CUL  C   RSP  20-90     III/1                 
+8190 +     2047   2100      2105  PAL  G   RBR  2695      80                    
+8190 +     2047   2102      2105  PAL  G   RBR  1415      110                   
+8190 +     2047   2101      2105  PAL  G   RBR  4995      77                    
+
+8240       2047   ////      0128  PAL  C   RSP  025-04    CTM/1                 
+
+8190       2051   2101      2105  PAL  G   RBR  15400     57                    
+8190 +     2056   2102      2105  PAL  G   RBR  8800      48                    
+
+8210 +     2258   ////      2259  CUL  C   RSP  18-160    III/1                 
+
+8220       2316   ////      2318  PAL  C   RSP  025-05    V/2                   
+8220 +     2316   ////      2318  CUL  C   RSP  18-130    III/2                 
+
+8230       2322   ////      2323  PAL  C   RSP  035-04    III/1                 
+8230 +     2322   ////      2324  CUL  C   RSP  35-45     II/1                  

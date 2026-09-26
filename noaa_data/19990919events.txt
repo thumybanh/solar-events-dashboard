@@ -1,0 +1,57 @@
+:Product: 19990919events.txt
+:Created: 1999 Sep 22 0302 UT
+:Date: 1999 09 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9160 +     0030   ////      0032  LEA  C   RSP  030-07    III/2                 
+
+9170 +     0309   0316      0324  GO8  5   XRA  1-8A      C1.7    1.3E-03   8700
+9170       0312   0316      0324  LEA  4   FLA  N14E03    SF      ERU       8700
+
+9180       0451   0451      0455  LEA  3   FLA  N11E04    SF                8700
+
+9190 +     0642   0645      0648  GO8  5   XRA  1-8A      C1.2    3.6E-04   8699
+9190 +     0645   0645      0652  SVI  3   FLA  N22W67    SF                8699
+
+9200       0726   ////      0727  LEA  C   RSP  030-04    III/1                 
+
+9210       0800   ////      0800  SVI  U   RSP  045-05    III/1                 
+
+9220       1006   ////      1008  SVI  C   RSP  035-06    V/2                   
+
+9230 +     1034   1124      1154  GO8  5   XRA  1-8A      C3.2    1.0E-02   8699
+9230       1100   ////      1101  SVI  C   RSP  035-04    III/1             8699
+9230      B1116  U1116     A1135  RAM  3   FLA  N21W68    SF                8699
+
+9240 +     1210   ////      1211  SAG  C   RSP  030-06    III/1                 
+
+9250       1225   1227      1230  RAM  3   FLA  S26W75    SF                8692
+
+9260       1322   1324      1326  RAM  3   FLA  S30W71    SF                8692
+
+9270       1350   ////      1432  RAM  3   DSF  N24W64    08      B.9A      8699
+9270 +     1407   1440      1501  GO8  5   XRA  1-8A      C4.9    1.1E-02   8699
+
+9290 +     1409   1411      1416  RAM  3   FLA  S30W73    SF                8692
+
+9270       1410   ////      1414  SVI  C   RSP  035-06    III/2             8699
+9270       1410   ////      1434  SVI  C   RSP  035-06    V/2               8699
+9270 +     1418   1439      1503  HOL  3   FLA  N21W71    SF                8699
+9270 +     1420   ////      1445  SVI  C   RSP  035-08    CTM/2             8699
+
+9360 +    A2151   ////      1047  RAM  3   DSF  S26E08    10      B.0A          
+
+9370      A2151   ////      1047  RAM  3   DSF  N36E38    19      B.0A          
+
+9300       2207   ////      2211  PAL  C   RSP  025-05    III/2                 
+
+9310 +     2303   2312      2320  GO8  5   XRA  1-8A      C9.6    6.3E-03   8699
+9310 +     2306   2308      2321  HOL  3   FLA  N21W76    1F                8699

@@ -1,0 +1,38 @@
+:Product: 20030420events.txt
+:Created: 2003 Apr 23 0302 UT
+:Date: 2003 04 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Apr 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8720 +     0217   0224      0229  G10  5   XRA  1-8A      B7.6    3.9E-04       
+
+8730 +     0307   0312      0319  G10  5   XRA  1-8A      B6.2    3.9E-04       
+
+8740       0357   0357      0357  PAL  G   RBR  245       57                    
+
+8750       0359   0400      0409  PAL  G   RBR  245       190                   
+
+8760       0413   0413      0415  PAL  G   RBR  245       130                   
+
+8770       0728   0730      0732  LEA  3   FLA  S13E67    SF                0337
+
+8790       1759   1802      1806  G10  5   XRA  1-8A      B6.1    2.3E-04       
+
+8800 +     1918   1923      1928  G10  5   XRA  1-8A      C4.4    1.5E-03   0339
+8800       1921   1922      1937  HOL  3   FLA  N18W49    SF      ERU       0339
+8800 +     1921   ////      1922  HOL  C   RSP  025-180   III/1             0339
+
+8810       2104   ////      2118  HOL  3   EPL  ////      0.15    B.6A      0000
+
+8820       2127   ////      2128  HOL  C   RSP  025-099   III/1                 
+
+8830       2146   2146      2155  HOL  3   FLA  N17W42    SF      ERU       0339
+
+8840 +     2258   2301      2305  G10  5   XRA  1-8A      B4.8    1.8E-04       

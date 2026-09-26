@@ -1,0 +1,55 @@
+:Product: 19990512events.txt
+:Created: 1999 May 15 0302 UT
+:Date: 1999 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+410        0024   ////      0024  CUL  C   RSP  35-75     III/1                 
+
+400        0053   ////      0000  PAL  C   RSP  040-05    CTM/1                 
+
+420        0201   ////      0202  PAL  C   RSP  030-05    III/1                 
+
+430  +     0430   0437      0449  GO8  5   XRA  1-8A      C2.2    2.2E-03       
+
+440        0456   0456      0457  SVI  G   RBR  245       180                   
+440        0456   0456      0457  SVI  G   RBR  410       58                    
+440        0456   0456      0456  SVI  G   RBR  606       30                    
+
+450        0456   ////      0921  SVI  C   RSP  035-08    CTM/3                 
+
+510  +     0600   0000      1200       F   RNS  204       20                    
+
+500        1021   ////      1356  SVI  C   RSP  035-06    CTM/2                 
+
+460        1209   ////      1212  SAG  C   RSP  030-06    III/1                 
+
+470        1303   ////      1304  SAG  C   RSP  030-06    III/1                 
+
+480        1324   ////      1324  SAG  C   RSP  030-06    III/1                 
+
+550        1336   ////      2034  SAG  C   RSP  030-08    CTM/2                 
+
+490  +     1344   1344      1345  SAG  G   RBR  245       60                    
+
+520        1519   ////      1648  SVI  C   RSP  035-08    CTM/2                 
+
+510  +     1720   2249      0429  PAL  G   RNS  245       280                   
+
+560        1722   ////      2049  PAL  C   RSP  035-07    CTM/2                 
+
+530        1928   1930      1938  HOL  3   FLA  S16W18    SF                8534
+530        1928   1930      1933  GO8  5   XRA  1-8A      C1      3.0E-04   8534
+
+540        2015   2016      2016  SAG  G   RBR  410       55                    
+
+570        2205   ////      2211  PAL  C   RSP  030-05    III/2                 
+
+580        2337   2337      2337  PAL  G   RBR  410       66                    

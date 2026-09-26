@@ -1,0 +1,43 @@
+:Product: 20000630events.txt
+:Created: 2000 Jul 03 0302 UT
+:Date: 2000 06 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jun 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5220       0724   ////      0724  SVI  C   RSP  035-04    III/1                 
+
+5230 +     0813   0817      0821  SVI  G   RBR  410       66                    
+5230       0817   ////      0817  LEA  C   RSP  116-17    III/1                 
+5230       0817   0817      0817  LEA  G   RBR  606       67                    
+
+5310       0854   0901      0909  GO8  5   XRA  1-8A      C1.7    1.3E-03       
+
+5320       0952   1006      1018  GO8  5   XRA  1-8A      C1.6    2.2E-03       
+
+5240 +     0955   0956      0956  SVI  G   RBR  245       110                   
+5240 +     0955   0956      0958  SVI  G   RBR  410       77                    
+
+5250 +     1142   1142      1150  SVI  G   RBR  245       860                   
+5250 +     1142   1142      1146  SVI  G   RBR  410       57                    
+
+5330       1520   1531      1558  GO8  5   XRA  1-8A      C1.1    2.4E-03       
+
+5260       1659   1702      1706  RAM  3   FLA  N16W27    SF                9057
+
+5270 +     1849   1850      1850  SAG  G   RBR  245       170                   
+5270 +     1849   ////      1850  HOL  C   RSP  063-18    III/1                 
+
+5280       2042   2042      2046  HOL  3   FLA  N15W68    SF                9054
+
+5290       2048   2050      2053  HOL  3   FLA  N15W69    SF                9054
+
+5300 +     2101   2107      2110  GO8  5   XRA  1-8A      C1.5    6.1E-04       
+
+5340 +     2333   2337      2342  GO8  5   XRA  1-8A      C2.7    1.0E-03       

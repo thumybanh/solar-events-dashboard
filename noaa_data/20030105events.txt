@@ -1,0 +1,65 @@
+:Product: 20030105events.txt
+:Created: 2003 Jan 08 0302 UT
+:Date: 2003 01 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1060       0123   ////      0123  CUL  C   RSP  57-180    III/1                 
+
+910  +     0130   ////      0130  CUL  C   RSP  80-190    III/1                 
+
+920        0132   0133      0137  LEA  3   FLA  S09E31    SF                0242
+
+930        0140   0145      0148  GO8  5   XRA  1-8A      B8.7    3.4E-04   0242
+930        0143   0144      0153  LEA  3   FLA  S08E30    SF      ERU       0242
+
+940        0458   0458      0458  LEA  G   RBR  410       52                    
+
+950  +     0504   0508      0510  GO8  5   XRA  1-8A      B8.5    2.3E-04   0242
+950        0504   0504      0509  LEA  G   RBR  245       59                0242
+950        0504   0504      0509  LEA  G   RBR  410       87                0242
+950        0508   0508      0511  LEA  3   FLA  S08E32    SF                0242
+
+960  +     0551   0617      0627  GO8  5   XRA  1-8A      C5.8    8.4E-03   0243
+960  +     0555   0610      0632  LEA  3   FLA  S20W51    SF      ERU       0243
+
+1070       0723   ////      0736  CUL  C   RSP  20-180    III/3                 
+
+970        0727   ////      0812  LEA  3   BSL  S30E90    0.26    B.9A      0000
+970        0754   0758      0802  GO8  5   XRA  1-8A      C1.0    4.8E-04   0242
+970        0756   0758      0805  LEA  3   FLA  S08E27    SF      ERU       0242
+970        0758   ////      0758  CUL  C   RSP  30-80     III/1             0000
+
+1030       0848   ////      1005  SVI  3   DSF  N26E09    23      B.0A      0000
+
+980        0924   0928      0932  GO8  5   XRA  1-8A      B9.2    3.9E-04   0243
+980        0929   0929      0933  LEA  3   FLA  S19W55    SF      ERU       0243
+
+990  +     1151   1154      1158  GO8  5   XRA  1-8A      C1.3    5.2E-04       
+
+1000       1205   1205      1205  SVI  G   RBR  245       53                    
+1000       1205   1205      1206  SVI  G   RBR  1415      48                    
+1000       1205   1205      1206  SVI  G   RBR  2695      27                    
+1000       1205   1205      1206  SVI  G   RBR  4995      23                    
+
+1010       1355   1402      1412  GO8  5   XRA  1-8A      B7.7    7.6E-04   0244
+1010       1359   1401      1410  RAM  3   FLA  S22E31    SF                0244
+
+1220      A1700   ////     B1203  RAM  3   DSF  S29W42    11      B.0A      0243
+
+1170       1701   1703      1705  GO8  5   XRA  1-8A      B5.7    1.3E-04   0243
+
+1080       2014   ////      2014  CUL  C   RSP  25-80     III/1                 
+
+1090       2019   ////      2019  CUL  C   RSP  23-70     III/1                 
+
+1100       2141   ////      2141  CUL  C   RSP  20-130    III/1                 
+
+1050      A2341   ////     B1453  HOL  3   DSF  N26E10    22      B.0A      0000

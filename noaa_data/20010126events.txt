@@ -1,0 +1,54 @@
+:Product: 20010126events.txt
+:Created: 2001 Jan 29 0302 UT
+:Date: 2001 01 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6850 +     0253   0300      0309  GO8  5   XRA  1-8A      C1.6    1.4E-03       
+
+6860 +     0553   0607      0613  GO8  5   XRA  1-8A      M1.0    5.5E-03   9325
+6860       0558   0607      0630  LEA  3   FLA  N10E63    1B                9325
+6860       0603   0606      0606  LEA  U   RBR  2695      79                9325
+6860       0603   0604      0606  LEA  U   RBR  4995      54                9325
+6860       0603   0606      0606  LEA  U   RBR  8800      49                9325
+6860 +     0604   ////      0605  LEA  C   RSP  025-180   III/3             9325
+6860       0604   0604      0605  LEA  G   RBR  245       350               9325
+6860       0604   ////      0617  LEA  C   RSP  039-180   II/2    534       9325
+
+6870 +     0850   0856      0904  GO8  5   XRA  1-8A      C1.3    9.6E-04   9313
+6870 +     0851   0852      0852  SVI  G   RBR  245       130               9313
+6870 +     0851   0851      0852  SVI  G   RBR  410       75                9313
+6870       0851   0851      0852  SVI  G   RBR  606       18                9313
+6870       0851   0852      0852  SVI  G   RBR  1415      19                9313
+6870 +     0851   0852      0852  SVI  G   RBR  2695      30                9313
+6870 +     0851   0852      0852  SVI  G   RBR  4995      93                9313
+6870       0851   0852      0852  SVI  G   RBR  15400     21                9313
+6870 +     0853   0854      0854  SVI  G   RBR  8800      1                 9313
+6870       0853   0853      0907  LEA  3   FLA  S07W28    SF                9313
+
+6880       1024   1024      1025  SVI  G   RBR  245       210                   
+
+6890 +     1150   1206      1220  GO8  5   XRA  1-8A      C1.6    2.4E-03   9320
+6890       1157   ////      1201  SVI  U   RSP  025-084   III/2             9320
+6890       1157   ////      1207  SVI  U   RSP  025-084   II/2    676       9320
+6890 +     1220   1222      1226  RAM  3   FLA  S23W57    SF                9320
+
+6900 +     1421   1426      1431  GO8  5   XRA  1-8A      B8.9    4.6E-04   9313
+6900       1424   1425      1429  RAM  3   FLA  S04W32    SF      PRB       9313
+
+6910 +     1454   1458      1505  RAM  3   FLA  S27W35    SF      PRB       9323
+
+6950       1556   1752      1915  GO8  5   XRA  1-8A      C1.37   1.4E-02       
+
+6920 +     2006   2012      2016  GO8  5   XRA  1-8A      C2.4    1.0E-03   9313
+6920       2010   2010      2010  SAG  G   RBR  245       130               9313
+6920       2010   2010      2010  SAG  G   RBR  410       100               9313
+6920       2010   2010      2010  SAG  G   RBR  4995      45                9313
+6920       2010   2012      2017  HOL  3   FLA  S05W35    SF      ERU       9313

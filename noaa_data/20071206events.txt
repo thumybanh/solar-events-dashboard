@@ -1,0 +1,36 @@
+:Product: 20071206events.txt
+:Created: 2007 Dec 10 2359 UT
+:Date: 2007 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center.
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6540       0004   ////      0004  CUL  C   RSP  20-50     III/1                 
+
+6530       0009   0010      0019  LEA  3   FLA  S11E76    SF                    
+
+6550 +     0053   ////      0053  CUL  C   RSP  20-80     III/1                 
+
+6560       0157   0157      0159  LEA  3   FLA  S12E80    SF                    
+
+6570       0313   0313      0320  LEA  3   FLA  S11E78    SF                    
+
+6580 +     0326   ////      0327  CUL  C   RSP  20-80     III/1                 
+
+6590       0433   0437      0439  LEA  3   FLA  S12E79    SF                    
+
+6600       0442   0447      0450  LEA  3   FLA  S10E76    SF                    
+
+6610       0735   0738      0740  LEA  3   FLA  S12E76    SF                    
+
+6620       2247   2249      2251  LEA  3   FLA  S10E67    SF                0978
+
+6630       2252   2253      2257  LEA  3   FLA  S10E67    1F                0978
+
+6640       2300   0050      0234  LEA  3   FLA  S10E66    2F                0978

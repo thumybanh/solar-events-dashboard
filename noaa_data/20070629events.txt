@@ -1,0 +1,40 @@
+:Product: 20070629events.txt
+:Created: 2007 Jul 03 2332 UT
+:Date: 2007 06 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jun 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4020 +     0023   0028      0033  G11  5   XRA  1-8A      B1.4    6.2E-05       
+
+4030 +     0055   0100      0105  G11  5   XRA  1-8A      B1.4    6.3E-05       
+
+4040 +     0115   0124      0130  G11  5   XRA  1-8A      B3.2    2.1E-04       
+
+4050 +     0230   0239      0245  G11  5   XRA  1-8A      B3.7    2.1E-04   0962
+4050       0231   0238      0252  LEA  3   FLA  S08E66    SF                0962
+
+4060 +     0450   0454      0457  G11  5   XRA  1-8A      B1.0    4.0E-05   0962
+4060       0450   0455      0501  LEA  3   FLA  S09E64    SF                0962
+
+4070       0610   ////      0610  LEA  C   RSP  043-110   III/1                 
+
+4080       0754   0754      0758  LEA  3   FLA  S09E24    SF                0961
+
+4090 +     0805   0814      0829  G11  5   XRA  1-8A      B3.0    3.3E-04   0962
+4090       0807   0823      0837  LEA  3   FLA  S08E63    SF                0962
+
+4100 +     1001   1008      1014  G11  5   XRA  1-8A      B9.5    4.5E-04   0962
+
+4110 +     1828   1836      1841  G11  5   XRA  1-8A      B2.5    1.3E-04   0962
+4110       1832   1836      1839  HOL  3   FLA  S09E57    SF                0962
+
+4120 +     1942   1947      1959  G11  5   XRA  1-8A      B1.3    1.1E-04       
+
+4130 +     2004   2013      2017  G11  5   XRA  1-8A      C1.1    4.8E-04   0962

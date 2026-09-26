@@ -1,0 +1,75 @@
+:Product: 20021125events.txt
+:Created: 2002 Nov 28 0300 UT
+:Date: 2002 11 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Nov 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3910       0124   ////      0124  LEA  C   RSP  025-138   III/1                 
+
+3920       0219   ////      0220  LEA  C   RSP  025-165   III/2                 
+
+3930       0253   ////      0253  LEA  C   RSP  025-131   III/1                 
+
+3940 +     0651   ////      0652  SVI  C   RSP  025-123   III/1                 
+
+3950       0804   0804      0804  LEA  G   RBR  245       51                    
+3950       0804   ////      0804  SVI  U   RSP  025-048   III/1                 
+
+3960       0812   0812      0812  SVI  G   RBR  245       57                    
+
+3970 +     0819   0821      0825  SVI  G   RBR  245       810                   
+3970       0819   0821      0821  SVI  G   RBR  410       150                   
+
+3980       0820   0821      0821  SVI  G   RBR  606       37                    
+3980       0820   ////      0821  SVI  C   RSP  025-180   III/1                 
+
+3990       0827   0827      0827  SVI  G   RBR  245       71                    
+
+4040 +     0840   0858     U1030  SVI  G   RNS  245       110                   
+
+4000 +     1038   1042      1045  GO8  5   XRA  1-8A      C1.3    4.0E-04       
+
+4010       1237   1237      1241  SAG  G   RBR  245       110                   
+
+4020       1258   1258      1258  SAG  G   RBR  245       56                    
+
+4030       1327   1327      1327  SAG  G   RBR  245       53                    
+
+4050       1536   1537      1541  RAM  3   FLA  N25W68    SF                0197
+
+4060       1619   1619      1619  SAG  G   RBR  245       62                    
+
+4110       1623   1710      1800  GO8  5   XRA  1-8A      C1.3    5.2E-03       
+
+4070       1630   1630      1630  SAG  G   RBR  245       66                    
+
+4080       1641   1641      1641  SAG  G   RBR  245       76                    
+
+4090       1706   1706      1706  SAG  G   RBR  245       60                    
+
+4100 +     1712   1714      1719  SAG  G   RBR  245       150                   
+
+4120       1748   1748      1749  PAL  G   RBR  410       61                    
+
+4130       1750   1750      1750  PAL  G   RBR  245       48                    
+
+4140       1833   1833      1833  PAL  G   RBR  410       51                    
+
+4150 +     1914   1914      1916  SAG  G   RBR  245       78                    
+
+4160       1935   1935      1935  SAG  G   RBR  245       70                    
+
+4170 +     1949   1950      1950  PAL  G   RBR  410       110                   
+
+4180 +     2025   2033      2044  GO8  5   XRA  1-8A      C1.2    1.2E-03       
+
+4190 +     2230   2233      2235  GO8  5   XRA  1-8A      C1.0    2.7E-04       
+
+4200 +     2342   2357      0012  GO8  5   XRA  1-8A      C1.7    2.6E-03       

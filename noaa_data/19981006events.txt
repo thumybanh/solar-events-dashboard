@@ -1,0 +1,46 @@
+:Product: 19981006events.txt
+:Created: 1998 Oct 09 0303 UT
+:Date: 1998 10 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5050       0037   ////      0037  CUL  C   RSP  60-250    III/1                 
+5050 +     0037   0037      0037  LEA  G   RBR  245       50                    
+
+5080 +     0258   ////      0359  CUL  C   RSP  25-80     III/1                 
+5080       0314   0315      0316  LEA  G   RBR  245       60                    
+
+5060       0315   0315      0315  PAL  G   RBR  245       86                    
+
+5070       0339   ////      0340  CUL  C   RSP  100-30    III/1                 
+5070 +     0339   0339      0340  LEA  G   RBR  245       250                   
+
+5090 +     0407   ////      0407  CUL  C   RSP  23-80     III/1                 
+
+5100       0432   0436      0441  G10  5   XRA  1-8A      B5.5    2.2E-04       
+5100 +     0432   ////      0432  CUL  C   RSP  25-180    III/1                 
+
+5120 +     0502   ////      0503  CUL  C   RSP  35-180    III/1                 
+
+5130 +     0535   0538      0540  GO8  5   XRA  1-8A      B3.3    8.5E-05       
+
+5140 +     0732   0740      0742  GO8  5   XRA  1-8A      B7.2    3.0E-04       
+
+5150 +     0832   0833      0833  LEA  G   RBR  245       57                    
+
+5380      A1504   ////      1002  SVI  3   DSF  S12W13    06      B.0A          
+
+5350      A2136   ////      1132  RAM  3   DSF  S13W26    11      B.0A          
+
+5160       2148   ////      2148  CUL  C   RSP  25-45     III/2                 
+
+5170 +     2232   2236      2242  GO8  5   XRA  1-8A      B4.5    2.5E-04       
+
+5180 +     2341   2345      2348  GO8  5   XRA  1-8A      B4.2    1.5E-04       

@@ -1,0 +1,75 @@
+:Product: 20050503events.txt
+:Created: 2005 May 04 1229 UT
+:Date: 2005 05 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 May 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6420 +     0008   0024      0028  LEA  G   RBR  1415      79                    
+6420       0008   0016      0018  LEA  G   RBR  2695      57                    
+
+6410       0021   0021      0021  PAL  G   RBR  1415      52                    
+
+6440       0029   ////      0031  CUL  C   RSP  23-100    III/2                 
+
+6430 +     0055   ////      0104  CUL  C   RSP  18-150    III/3                 
+6430      B0100   0106      0132  CUL  3   FLA  S06E72    SF                    
+
+6450       0125   ////      0126  CUL  C   RSP  18-100    III/2                 
+
+6460       0136   ////      0136  CUL  C   RSP  20-90     III/2                 
+
+6600      B0148   0152     A0152  CUL  3   FLA  S07E72    SF                    
+
+6610      B0201   0201      0212  CUL  3   FLA  S07E72    1F                    
+
+6470       0440   ////      0445  LEA  C   RSP  025-172   V/2                   
+6470       0440   ////      0445  CUL  C   RSP  20-180    III/3                 
+
+6620       0452   ////      0454  CUL  C   RSP  20-180    III/2                 
+
+6630       0511   ////      0512  CUL  C   RSP  18-140    III/3                 
+
+6640       0524   ////      0527  CUL  C   RSP  18-160    III/3                 
+
+6650       0531   ////      0533  CUL  C   RSP  18-150    III/3                 
+
+6660       0620   ////      0623  CUL  C   RSP  20-90     III/2                 
+
+6480       0846   ////      0855  SVI  C   RSP  025-082   III/1                 
+
+6490       0945   ////      0950  SVI  C   RSP  025-083   III/1                 
+
+6500       1018   ////      1018  SVI  C   RSP  025-040   III/1                 
+
+6510 +     1028   1036      1045  G12  5   XRA  1-8A      C2.7    1.9E-03   0758
+6510       1030   1031      1032  IZM  F   RBR  3000      32                0758
+6510       1031   1043      1045  G12  5   XFL  S07E72    3.7E+03 1.4E+04   0758
+6510       1032   1032      1032  SVI  G   RBR  4995      56                0758
+6510       1038   ////      1042  SVI  C   RSP  025-054   III/1             0758
+
+6520 +     1256   1256      1256  SVI  G   RBR  245       79                    
+
+6530 +     1259   ////      1301  SAG  C   RSP  030-180   V/2                   
+
+6540 +     1419   1423      1448  G12  5   XRA  1-8A      B4.4    6.8E-04   0758
+6540       1423   1423      1447  G12  5   XFL  S11E71    4.5E+02 9.1E+02   0758
+
+6550 +     1643   1649      1651  G12  5   XRA  1-8A      B4.6    1.8E-04   0758
+6550       1647   1648      1648  G12  5   XFL  S11E62    3.0E+02 6.9E+02   0758
+6550 +     1648   1648      1648  SAG  G   RBR  245       150               0758
+
+6560 +     1836   1843      1853  G12  5   XRA  1-8A      B8.1    6.4E-04   0758
+6560       1839   1848      1851  G12  5   XFL  S08E68    2.1E+03 5.1E+03   0758
+
+6570       1918   1918      1918  PAL  G   RBR  2695      67                    
+
+6580 +     1948   1948      1948  PAL  G   RBR  606       250                   
+
+6590       2045   2045      2045  PAL  G   RBR  245       110                   

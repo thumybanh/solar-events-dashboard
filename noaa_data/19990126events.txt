@@ -1,0 +1,72 @@
+:Product: 19990126events.txt
+:Created: 1999 Jan 29 0302 UT
+:Date: 1999 01 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1520       0002   ////      0002  CUL  C   RSP  20-70     III/1                 
+
+1300 +     0008   ////      0008  CUL  C   RSP  20-70     III/1                 
+
+1360 +     0049   ////      0051  CUL  C   RSP  18-70     III/1                 
+
+1310 +     0120   ////      0121  CUL  C   RSP  30-150    III/1                 
+1310 +     0127   0129      0131  LEA  G   RBR  245       100                   
+
+1370       0148   0453      0712  LEA  G   RNS  245       110                   
+
+1320       0231   ////      0231  LEA  C   RSP  032-06    III/1                 
+1320       0231   ////      0231  LEA  C   RSP  032-06    III/1                 
+
+1330       0346   ////      0346  LEA  C   RSP  060-08    III/1                 
+
+1340       0359   ////      0400  LEA  C   RSP  030-05    III/1                 
+
+1350 +     0406   0415      0432  GO8  5   XRA  1-8A      C2.2    3.1E-03       
+
+1440       0651   ////      1149  SVI  C   RSP  036-06    CTM/1                 
+
+1380 +     0819   0819      0819  SVI  G   RBR  245       95                    
+
+1390       0823   ////      0824  LEA  C   RSP  030-06    III/1                 
+
+1400       0858   0858      0858  LEA  G   RBR  410       95                    
+
+1410       1020   1020      1020  LEA  G   RBR  410       58                    
+
+1420       1026   1026      1026  LEA  G   RBR  410       61                    
+
+1430       1040   1121      1156  G10  5   XRA  1-8A      C5.4    1.6E-02       
+1430       1041   1041      1042  LEA  U   RBR  15400     64                    
+
+1450 +     1436   1436      1439  SVI  3   FLA  N19W73    SF                8447
+
+1470       1835   1835      1835  SAG  G   RBR  245       65                    
+
+1480 +     1836   1844      1854  GO8  5   XRA  1-8A      C7.9    5.3E-03   8447
+1480 +     1840   1841      1842  SAG  G   RBR  4995      78                8447
+1480 +     1840   1841      1843  SAG  G   RBR  8800      160               8447
+1480 +     1840   1841      1843  SAG  G   RBR  15400     96                8447
+1480 +     1840   1841      1902  HOL  3   FLA  N19W70    1N                8447
+1480 +     1841   1842      1843  SAG  G   RBR  410       73                8447
+1480 +     1841   1841      1843  SAG  G   RBR  606       39                8447
+1480       1841   1841      1842  SAG  G   RBR  2695      44                8447
+1480 +     1842   1842      1843  SAG  G   RBR  245       46                8447
+
+1490 +     1908   1908      1908  SAG  G   RBR  2695      67                    
+1490       1908   1909      1927  RAM  3   FLA  N27E01    SF      ERU           
+
+1500       2022   2022      2032  RAM  3   FLA  N27W01    SF                    
+
+1610      A2038   ////      1243  RAM  3   DSF  N23W61    07      B.0A      8444
+
+1510       2109   ////      2109  PAL  C   RSP  027-04    III/1                 
+
+1530       2110   ////      2110  CUL  C   RSP  18-70     III/1                 

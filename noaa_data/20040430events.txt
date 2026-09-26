@@ -1,0 +1,46 @@
+:Product: 20040430events.txt
+:Created: 2004 May 03 0302 UT
+:Date: 2004 04 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6890       0145   ////      0147  CUL  C   RSP  130-240   III/1                 
+
+6900       0155   ////      0155  CUL  C   RSP  30-50     III/1                 
+
+6910 +     0540   0547      0551  G12  5   XRA  1-8A      C1.7    6.5E-04       
+6910       0543   0548      0550  G12  5   XFL  S15W42    1.6E+03 9.6E+03       
+
+6920 +     0739   0746      0751  G12  5   XRA  1-8A      B2.0    1.2E-04       
+6920       0742   0748      0750  G12  5   XFL  S14W44    3.3E+02 8.1E+02       
+
+7070      A0820   ////     B0559  SVI  2   DSF  S26W22    10      B.0A          
+
+6930       1109   1122      1135  G10  5   XRA  1-8A      B1.9    2.5E-04       
+
+6940 +     1255   1301      1312  G12  5   XRA  1-8A      B2.7    2.1E-04       
+6940       1258   1304      1310  G12  5   XFL  S10W15    5.5E+02 1.3E+03       
+
+6950 +     1330   1333      1337  G12  5   XRA  1-8A      B1.5    5.5E-05       
+6950       1333   1334      1336  G12  5   XFL  S14W46    2.8E+02 5.8E+02       
+
+6960 +     1444   1448      1501  G12  5   XRA  1-8A      B1.0    9.6E-05       
+
+6970       1635   1638      1640  G10  5   XRA  1-8A      B1.0    2.7E-05       
+6970 +     1637   1637      1637  SAG  G   RBR  410       62                    
+6970       1637   ////      1637  SVI  C   RSP  025-076   III/1                 
+
+6980       1731   ////      1734  HOL  C   RSP  025-072   III/1                 
+
+6990       1813   1813      1813  PAL  G   RBR  245       50                    
+6990 +     1813   ////      1814  PAL  C   RSP  025-180   III/1                 
+
+7000 +     2203   2212      2222  G12  5   XRA  1-8A      B2.2    2.0E-04   0601
+7000       2208   2212      2221  G12  5   XFL  S11W21    4.0E+02 8.5E+02   0601

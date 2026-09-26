@@ -1,0 +1,63 @@
+:Product: 19980716events.txt
+:Created: 1998 Jul 19 0302 UT
+:Date: 1998 07 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4590 +     0015   0023      0027  GO9  5   XRA  1-8A      C6.5    2.1E-03   8270
+4590       0022   0022      0033  LEA  3   FLA  S20W01    SF                8270
+
+4630 +     0106   0112      0121  GO9  5   XRA  1-8A      C1.5    1.1E-03       
+
+4650       0221   ////      0221  CUL  C   RSP  40-180    III/1                 
+
+4640 +     0312   0315      0318  GO9  5   XRA  1-8A      B4.3    1.3E-04       
+
+4660 +     0340   0345      0349  GO9  5   XRA  1-8A      B7.2    2.8E-04       
+
+4670 +     0444   0504      0516  GO9  5   XRA  1-8A      B7.2    1.2E-03       
+
+4680 +     0647   0650      0653  GO9  5   XRA  1-8A      B4.0    1.2E-04       
+
+4690 +     0658   ////      0658  LEA  C   RSP  030-04    III/1                 
+
+4700 +     0751   0800      0813  GO9  5   XRA  1-8A      C2.3    2.2E-03   8270
+4700       0755   0759      0815  LEA  3   FLA  S20W05    SF                8270
+
+4710 +     0906   0916      0932  GO9  5   XRA  1-8A      C1.4    1.6E-03       
+
+4720 +     1018   1029      1041  GO9  5   XRA  1-8A      C1.1    1.1E-03   8272
+4720      B1023  U1025     A1037  SVI  2   FLA  S31E52    SF      ERU       8272
+
+4730 +     1206   1212      1220  GO9  5   XRA  1-8A      B9.2    6.4E-04       
+
+4740 +     1244   1252      1301  GO9  5   XRA  1-8A      C1.4    1.1E-03       
+
+4750 +     1307   1311      1317  GO9  5   XRA  1-8A      C1.6    8.6E-04   8270
+4750       1315   1319      1325  HOL  3   FLA  S22W06    SF      ERU       8270
+
+4760       1349   1351      1354  HOL  3   FLA  S28E49    SF      ERU       8272
+
+4770 +     1557   1604      1607  GO9  5   XRA  1-8A      B5.6    2.8E-04   8270
+4770       1559   1605      1614  HOL  3   FLA  S21W09    SF                8270
+
+4780 +     1616   1625      1636  GO9  5   XRA  1-8A      C3.5    2.6E-03   8270
+4780 +     1621   1624      1647  RAM  4   FLA  S22W07    SF      ERU       8270
+
+4790 +     1859   1906      1915  GO9  5   XRA  1-8A      B7.9    6.2E-04   8272
+4790       1907   1909      1914  HOL  3   FLA  S29E47    SF                8272
+
+4800       1922   1922      1932  HOL  3   FLA  S20W09    SF                8270
+
+4810 +     2021   2033      2045  GO9  5   XRA  1-8A      C5.0    5.2E-03   8270
+4810       2024   2034      2101  HOL  3   FLA  S21W10    1F                8270
+4810       2029   2029      2029  PAL  G   RBR  245       60                8270
+
+4820 +     2227   2230      2239  GO9  5   XRA  1-8A      B3.4    2.1E-04       

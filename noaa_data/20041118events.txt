@@ -1,0 +1,55 @@
+:Product: 20041118events.txt
+:Created: 2004 Nov 21 0302 UT
+:Date: 2004 11 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Nov 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6180 +     0332   ////      0333  CUL  C   RSP  18-180    III/1                 
+
+6190 +     0459   0502      0507  G12  5   XRA  1-8A      B3.5    1.5E-04   0700
+6190       0502   0506      0506  G12  5   XFL  N02W90    5.8E+02 1.2E+03   0700
+
+6200 +     0631   ////      0631  LEA  C   RSP  025-180   III/1                 
+
+6300       0632   ////      0632  CUL  C   RSP  18-320    III/3                 
+
+6210 +     0722   ////      0723  CUL  C   RSP  20-90     III/2                 
+
+6310       0732   ////      0733  CUL  C   RSP  20-150    III/3                 
+
+6220       0923   ////      0923  SVI  C   RSP  025-047   III/1                 
+
+6230       1124   1128      1132  G10  5   XRA  1-8A      B3.7    1.6E-04       
+
+6240 +     1246   ////      1247  SVI  C   RSP  025-084   III/1                 
+
+6250 +     1449   1456      1458  G12  5   XRA  1-8A      C3.6    8.8E-04   0700
+6250       1452   1456      1457  G12  5   XFL  N06W90    2.2E+03 9.9E+03   0700
+6250 +     1453   1455      1456  SAG  G   RBR  1415      72                0700
+6250 +     1454   1455      1455  SAG  G   RBR  245       73                0700
+6250 +     1454   1455      1455  SAG  G   RBR  410       360               0700
+6250 +     1454   1455      1456  SAG  G   RBR  606       270               0700
+6250 +     1454   1455      1456  SAG  G   RBR  2695      82                0700
+6250 +     1454   ////      1455  SAG  C   RSP  117-180   III/1             0700
+6250 +     1455   1455      1456  SAG  G   RBR  4995      50                0700
+6250       1455   1455      1456  SAG  G   RBR  8800      27                0700
+6250       1455   1455      1455  SAG  G   RBR  15400     23                0700
+
+6260       1712   1718      1728  G10  5   XRA  1-8A      B5.0    4.3E-04       
+
+6270       1817   1817      1817  PAL  G   RBR  410       52                    
+
+6280 +     1944   1948      1951  G12  5   XRA  1-8A      C1.9    4.7E-04   0700
+6280       1947   1949      1950  G12  5   XFL  N06W90    1.7E+03 5.4E+03   0700
+
+6320       2257   ////      2300  CUL  C   RSP  23-180    III/1                 
+
+6290 +     2258   2305      2311  G12  5   XRA  1-8A      C1.9    9.4E-04   0700
+6290       2301   2309      2310  G12  5   XFL  N06W90    2.1E+03 8.2E+03   0700

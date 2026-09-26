@@ -1,0 +1,42 @@
+:Product: 19990809events.txt
+:Created: 1999 Aug 12 0303 UT
+:Date: 1999 08 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9470 +     0035   0036      0057  COM  3   FLA  S14E33    SF                8662
+9470       0037   0048      0057  GO8  5   XRA  1-8A      B9.6    1.0E-03   8662
+
+9490       0119   0134      0149  GO8  5   XRA  1-8A      C1.0    1.7E-03       
+9490       0123   ////      0123  CUL  C   RSP  30-80     III/1                 
+
+9500 +     0246   0258      0330  GO8  5   XRA  1-8A      C4.3    7.9E-03       
+9500 +     0248   0259      0339  COM  3   FLA  S29W11    1F                8657
+9500       0249   0251      0253  PAL  G   RBR  1415      51                    
+9500       0250   0250      0251  PAL  G   RBR  2695      29                    
+9500 +     0251   0251      0252  PAL  G   RBR  410       32                8657
+9500 +     0251   0258      0303  PAL  G   RBR  606       93                8657
+9500 +     0254   0257      0302  PAL  G   RBR  245       570               8657
+
+9530      B1133  U1133     A1141  RAM  2   FLA  S15E26    SF                8662
+
+9580       1419   1435      1511  GO8  5   XRA  1-8A      C1.1    2.8E-03       
+
+9570       1626   1846      1942  GO8  5   XRA  1-8A      C2.1    1.9E-02       
+
+9540       1825   1827      1833  RAM  3   FLA  S14E15    SF      ERU       8662
+
+9550 +     1842   1844      1918  HOL  3   FLA  S29W18    SF                8657
+
+9560       1844   ////      1945  SAG  C   RSP  030-05    CTM/1                 
+
+9590 +     2228   2233      2242  GO8  5   XRA  1-8A      C1.4    9.4E-04       
+
+9600 +     2318   2337      2348  GO8  5   XRA  1-8A      C4.5    4.3E-03       

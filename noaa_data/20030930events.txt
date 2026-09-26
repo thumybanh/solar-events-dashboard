@@ -1,0 +1,74 @@
+:Product: 20030930events.txt
+:Created: 2003 Oct 03 0302 UT
+:Date: 2003 09 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Sep 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9630       0002   ////      0005  CUL  C   RSP  18-180    III/3                 
+
+9580 +     0003   ////      0003  LEA  C   RSP  025-144   III/1                 
+
+9590       0029   0032      0049  LEA  3   FLA  N09W40    SF                0464
+9590 +     0041   ////      0050  CUL  C   RSP  18-200    III/3             0464
+9590 +     0046   0046      0046  LEA  G   RBR  245       56                0464
+
+9640       0059   ////      0100  CUL  C   RSP  20-90     III/1                 
+
+9650       0103   ////      0103  CUL  C   RSP  30-80     III/1                 
+
+9600 +     0107   0110      0112  G12  5   XRA  1-8A      C2.4    5.5E-04   0464
+
+9610 +     0258   0302      0306  G12  5   XRA  1-8A      C1.6    5.9E-04   0464
+
+9620 +     0314   0340      0401  G12  5   XRA  1-8A      C5.1    1.0E-02   0464
+9620       0354   ////      0405  CUL  C   RSP  20-90     III/2                 
+
+9660       0419   ////      0419  CUL  C   RSP  27-180    III/1                 
+
+9670       0426   ////      0427  CUL  C   RSP  27-150    III/1                 
+
+9760       0443   ////      0443  CUL  C   RSP  27-75     III/1                 
+
+9680       0507   0513      0530  G10  5   XRA  1-8A      C3.3    3.0E-03   0464
+9680       0512   0512      0525  LEA  3   FLA  N04W43    SF      ERU       0464
+
+9770       0543   ////      0549  CUL  C   RSP  30-130    III/1                 
+
+9780       0553   ////      0557  CUL  C   RSP  20-180    III/1                 
+
+9790       0620   ////      0626  CUL  C   RSP  27-160    III/1                 
+
+9800       0654   ////      0654  CUL  C   RSP  23-120    III/2                 
+
+9810       0717   ////      0718  CUL  C   RSP  23-150    III/3                 
+
+9690 +     0737   0801      0815  G12  5   XRA  1-8A      C2.8    3.6E-03   0464
+9690       0757   0801      0808  LEA  3   FLA  N06W52    SF                0464
+
+9700       0837   0840      0842  G12  5   XRA  1-8A      C1.8    4.9E-04       
+
+9710       0846   0852      0856  G12  5   XRA  1-8A      C3.2    1.4E-03   0464
+9710       0847   ////      0902  LEA  C   RSP  025-180   III/2             0464
+9710 +     0848   0848      0849  LEA  G   RBR  245       210               0464
+9710       0848   0848      0849  LEA  G   RBR  410       75                0464
+9710       0849   0853      0905  LEA  3   FLA  N09W45    1F      ERU       0464
+9710       0849   0851      0900  IZM  F   RBR  3000      14                0464
+
+9720 +     1247   1250      1253  G12  5   XRA  1-8A      C3.0    9.1E-04   0464
+
+9730 +     2009   2021      2041  G12  5   XRA  1-8A      C4.9    7.1E-03   0471
+9730       2017   2019      2023  HOL  3   FLA  S02E75    SF      ERU       0471
+9730       2026   ////      2034  HOL  3   EPL  ////      0.15    B.9A      0471
+
+9740       2050   ////      2105  HOL  3   EPL  ////      0.18    B.9A      0471
+
+9750 +     2317   2326      2340  G12  5   XRA  1-8A      C3.9    4.0E-03   0464
+9750 +     2320   2321      2349  HOL  3   FLA  N05W61    SF      ERU       0464
+9750 +     2322   ////      2322  CUL  C   RSP  20-180    III/1             0464

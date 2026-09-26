@@ -1,0 +1,92 @@
+:Product: 20020909events.txt
+:Created: 2002 Sep 12 0300 UT
+:Date: 2002 09 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Sep 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2340       0019   ////      0019  CUL  C   RSP  57-90     III/1                 
+
+2350       0032   ////      0032  CUL  C   RSP  57-120    III/1                 
+
+2360       0125   ////      0130  CUL  C   RSP  57-180    III/1                 
+
+2370       0141   ////      0141  CUL  C   RSP  57-180    III/1                 
+
+2380       0208   ////      0209  CUL  C   RSP  57-180    III/1                 
+
+2310 +     0227   0239      0257  GO8  5   XRA  1-8A      C3.6    5.5E-03       
+
+2320       0309   0309      0318  LEA  3   FLA  N16E02    SF                0103
+
+2330 +     0326   ////      0329  CUL  C   RSP  65-180    III/1                 
+
+2570       0451   ////      0451  CUL  C   RSP  57-180    III/1                 
+
+2390 +     0632   0633      0633  LEA  G   RBR  245       220                   
+
+2400       0732   0734      0734  SVI  G   RBR  245       61                    
+
+2410       0839   ////      0839  LEA  C   RSP  110-180   III/1                 
+
+2420       1041   ////      1041  SVI  U   RSP  113-147   III/1                 
+
+2430       1150   1152      1157  IZM  F   RBR  3000      18                    
+
+2440 +     1333   1335      1336  SVI  G   RBR  245       320                   
+
+2450       1402   1402      1402  SAG  G   RBR  245       68                    
+
+2460       1437   ////      1437  HOL  C   RSP  025-151   III/1                 
+
+2470       1504   1504      1505  SAG  G   RBR  245       65                    
+
+2480       1545   1546      1551  HOL  3   FLA  S20W30    SF                0100
+
+2490 +     1628   1632     A1704  HOL  3   FLA  S18W49    SF                0096
+2490       1628   1635      1641  GO8  5   XRA  1-8A      C2.1    1.5E-03   0096
+
+2500       1718   1729      1733  HOL  3   FLA  S06E49    SF      ERU       0105
+
+2510 +     1740   1752      1801  GO8  5   XRA  1-8A      M2.1    1.7E-02   0105
+2510 +     1742   1752      1828  HOL  3   FLA  S09E54    2N      PRB       0105
+2510 +     1745   1745      1752  SAG  G   RBR  245       480               0105
+2510 +     1745   1745      1745  SAG  G   RBR  410       36                0105
+2510       1745   1754      1756  SAG  G   RBR  4995      71                0105
+2510       1745   1754      1800  SAG  G   RBR  8800      98                0105
+2510       1750   1754      1758  SAG  G   RBR  15400     51                0105
+
+2530       1753   1753      1757  HOL  3   FLA  N14W03    SF      ERU       0103
+
+2540       1800   1803      1808  HOL  3   FLA  S14W55    SF                0096
+
+2550       1817   1817      1817  SAG  G   RBR  245       52                    
+
+2560       1817   1821      1821  SAG  G   RNS  245       68                    
+
+2580       2039   ////      2039  CUL  C   RSP  57-90     III/1                 
+
+2590 +     2042   ////      2043  CUL  C   RSP  57-180    III/1                 
+
+2600       2122   ////      2131  CUL  C   RSP  57-140    III/1                 
+2600 +     2126   2131      2135  GO8  5   XRA  1-8A      C2.1    9.9E-04       
+
+2610       2140   2140      2140  SAG  G   RBR  245       65                    
+
+2620 +     2153   2153      2158  PAL  G   RBR  245       880                   
+2620       2155   ////      2158  CUL  C   RSP  65-280    III/1                 
+
+2630       2246   ////      2254  CUL  C   RSP  57-90     III/1                 
+
+2640       2321   2322      2322  LEA  G   RBR  245       91                    
+
+2650       2325   2325      2325  PAL  G   RBR  245       66                    
+
+2660       2331   2334      2337  GO8  5   XRA  1-8A      C1.2    4.2E-04   0103
+2660       2332   2332      2337  LEA  3   FLA  N16W08    SF                0103

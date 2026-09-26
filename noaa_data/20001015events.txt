@@ -1,0 +1,55 @@
+:Product: 20001015events.txt
+:Created: 2000 Oct 18 0302 UT
+:Date: 2000 10 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7040 +     0107   0116      0124  GO8  5   XRA  1-8A      C2.3    2.0E-03       
+
+7050       0126   ////      0127  LEA  C   RSP  025-069   III/1                 
+
+7060       0215   0229      0237  GO8  5   XRA  1-8A      C2.2    2.4E-03       
+7060 +     0220   ////      0225  CUL  C   RSP  18-300    III/2                 
+7060       0221   0221      0222  LEA  G   RBR  245       150                   
+7060       0222   0222      0222  LEA  G   RBR  410       31                    
+
+7070       0310   ////      0310  LEA  C   RSP  028-094   III/1                 
+
+7080       0455   ////      0455  CUL  C   RSP  30-80     III/1                 
+
+7090 +     0707   ////      0709  CUL  C   RSP  30-140    III/1                 
+
+7100       0720   0724      0729  G10  5   XRA  1-8A      C3.4    1.5E-03       
+
+7160       0817   0836      0912  GO8  5   XRA  1-8A      C3.6    1.0E-02       
+
+7110 +     0924   ////      0924  LEA  C   RSP  025-118   III/1                 
+
+7120       0953   0954      0955  LEA  G   RBR  245       62                    
+
+7150       1710   1728      1740  HOL  3   FLA  S29E58    SF                9198
+
+7170       1737   1744      1750  GO8  5   XRA  1-8A      C1.7    1.2E-03   9198
+7170       1740   1741      1809  HOL  3   FLA  S29E59    SF      ERU       9198
+
+7180       1819   1822      1827  HOL  3   FLA  S29E57    SF      ERU       9198
+
+7190       1833   1842      1904  HOL  3   FLA  S29E57    SF      ERU       9198
+7190       1838   1843      1853  G10  5   XRA  1-8A      C1.7    1.4E-03   9198
+
+7200       1906   1912      1928  HOL  3   FLA  S33E64    SF                9198
+
+7210       1929   1929      1934  HOL  3   FLA  S29E57    SF                9198
+
+7240       2131   2212      2304  GO8  5   XRA  1-8A      C2.7    1.2E-02       
+
+7230       2306   2312      2325  HOL  3   FLA  S29E56    SF      BPT       9198
+
+7250       2342   ////      2342  CUL  C   RSP  60-90     III/1                 

@@ -1,0 +1,47 @@
+:Product: 20240310events.txt
+:Created: 2024 Mar 13 0357 UT
+:Date: 2024 03 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Mar 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4980 +     1107   1117      1123  G16  5   XRA  1-8A      C1.6    1.2E-03   3599
+
+4990 +     1200   1213      1220  G16  5   XRA  1-8A      M7.4    3.5E-02   3599
+4990       1208   ////      1216  SAG  C   RSP  025-180   V/3                   
+4990       1208   1209      1215  SVI  G   RBR  245       7500    CastelliU     
+4990       1208   1209      1217  SVI  G   RBR  4995      680     CastelliU     
+4990       1208   1208      1215  SVI  G   RBR  8800      1500    CastelliU     
+4990       1208   1209      1215  SVI  G   RBR  15400     2400    CastelliU     
+4990       1208   1209      1212  SVI  G   RBR  2695      340     CastelliU     
+4990       1208   1211      1213  SVI  G   RBR  410       2300    CastelliU     
+4990 +     1208   ////      1234  SVI  C   RSP  025-180   II/3    714           
+4990       1209   1209      1211  SVI  G   RBR  610       690     CastelliU     
+4990       1209   1209      1210  SVI  G   RBR  1415      290     CastelliU     
+
+5000 +     1412   1418      1420  G16  5   XRA  1-8A      C1.0    7.9E-04   3599
+5000       1417   1418      1422  HOL  3   FLA  S14W40    SF                3599
+
+5040       1420   1424      1428  G16  5   XRA  1-8A      C1.1    3.8E-04   3599
+5040       1427   1427      1429  HOL  3   FLA  S14W40    SF                3599
+
+5010 +     1522   1538      1557  G16  5   XRA  1-8A      C6.9    8.6E-03   3599
+5010       1530   1534      1610  HOL  3   FLA  S13W36    1F      PRB       3599
+5010       1530   ////      1535  HOL  3   DSF  S19W35    8                 3599
+5010       1530   1532      1534  SVI  G   RBR  4995      320               3599
+5010       1530   1532      1533  SVI  G   RBR  2695      150               3599
+5010       1532   1532      1533  SVI  G   RBR  8800      130               3599
+
+5020       1619   1619      1619  SVI  G   RBR  245       140               3599
+
+5050 +     2239   2259      2317  G16  5   XRA  1-8A      C1.2    4.9E-04   3603
+5050 +     2241   ////      2246  PAL  C   RSP  025-160   III/1             3603
+5050       2249   2250      2304  HOL  3   FLA  N13W25    SF      ERU       3603
+
+5060 +     2322   2335      2349  G16  5   XRA  1-8A      C1.2    1.8E-03   3599

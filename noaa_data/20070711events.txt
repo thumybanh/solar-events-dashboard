@@ -1,0 +1,25 @@
+:Product: 20070711events.txt
+:Created: 2007 Jul 15 2332 UT
+:Date: 2007 07 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jul 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5350 +     0005   0009      0013  G11  5   XRA  1-8A      B1.3    5.1E-05   0963
+5350       0008   0010      0017  LEA  3   FLA  S07E39    SF      ERU       0963
+
+5360 +     0535   0535      0535  LEA  G   RBR  245       110                   
+
+5370       0537   0541      0548  G10  5   XRA  1-8A      B1.1    6.2E-05       
+
+5380       0812   ////      0903  SVI  C   RSP  113-180   CTM/1                 
+
+5400       1002   1020      1032  G11  5   XRA  1-8A      B2.2    3.5E-04       
+
+5390 +     1141   1206      1226  G11  5   XRA  1-8A      B7.8    1.4E-03       

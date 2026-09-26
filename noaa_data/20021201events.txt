@@ -1,0 +1,42 @@
+:Product: 20021201events.txt
+:Created: 2002 Dec 04 0300 UT
+:Date: 2002 12 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5160 +     0239   ////      0239  CUL  C   RSP  18-140    III/1                 
+
+5170       0251   ////      0251  LEA  C   RSP  025-078   III/1                 
+
+5260       0252   ////      0252  CUL  C   RSP  20-90     III/1                 
+
+5180 +     0313   ////      0324  LEA  C   RSP  025-180   III/2                 
+
+5190 +     0352   0358      0402  GO8  5   XRA  1-8A      C1.7    7.2E-04   0209
+5190       0355   0356      0406  LEA  3   FLA  S21E61    SF                0209
+
+5200       0405   ////      0405  LEA  C   RSP  025-103   III/1                 
+
+5270       0406   ////      0406  CUL  C   RSP  18-180    III/1                 
+
+5220       0528   0541      0554  GO8  5   XRA  1-8A      C1.3    1.9E-03       
+
+5210 +     0955   0959      1005  GO8  5   XRA  1-8A      B7.1    3.9E-04       
+
+5230      B1229   1238      1254  RAM  3   FLA  N10E50    SF      ERU       0208
+5230 +     1235   1238      1240  GO8  5   XRA  1-8A      C1.0    2.7E-04   0208
+5230 +     1237   1237      1237  SVI  G   RBR  410       80                0208
+
+5240       1310   1347      1405  GO8  5   XRA  1-8A      C1.1    2.7E-03       
+
+5250 +     1519   1528      1533  GO8  5   XRA  1-8A      C5.5    3.0E-03   0208
+5250      B1525   1533      1539  RAM  3   FLA  N10E49    SF      ERU       0208
+
+5280       2112   ////      2112  CUL  C   RSP  18-130    III/1                 

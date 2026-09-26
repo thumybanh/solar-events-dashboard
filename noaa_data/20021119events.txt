@@ -1,0 +1,55 @@
+:Product: 20021119events.txt
+:Created: 2002 Nov 22 0300 UT
+:Date: 2002 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2380       0207   0208      0211  LEA  3   FLA  N32E43    SF                0000
+
+2390       0216   0217      0220  LEA  3   FLA  N31E41    SF      ERU       0000
+
+2400       0351   0351      0406  LEA  3   FLA  S21E37    SF      ERU       0198
+
+2420       0601   ////      0700  SVI  C   RSP  025-168   CTM/1                 
+
+2430 +     0728   0737      0753  GO8  5   XRA  1-8A      C4.9    5.6E-03       
+
+2440       0903   ////      0903  SVI  U   RSP  032-042   III/1                 
+
+2450       0955   ////      0956  SVI  U   RSP  029-084   III/2                 
+
+2460       1138   ////      1139  SVI  U   RSP  025-082   V/1                   
+
+2550       1205   1208      1210  G10  5   XRA  1-8A      C1.8    4.7E-04       
+
+2470 +     1205   1214      1216  GO8  5   XRA  1-8A      C2.5    1.2E-03       
+
+2480       1236   1236      1236  SAG  G   RBR  245       79                    
+
+2490       1240   1240      1240  SAG  G   RBR  245       56                    
+
+2600       1326   1411      1820  SAG  G   RNS  245       410                   
+
+2500 +     1332   1332      1332  SVI  G   RBR  245       77                    
+
+2510       1344  U1348      1351  RAM  3   FLA  S20W66    SF      ERU       0191
+
+2520       1438  U1445     A1454  RAM  3   FLA  S18W64    SF      ERU       0191
+
+2530      B1528  U1528      1532  RAM  3   FLA  S20E32    SF                0198
+
+2570 +     1915   ////      1916  HOL  C   RSP  025-177   III/1                 
+
+2580 +     1947   1952      1959  GO8  5   XRA  1-8A      C1.7    1.0E-03   0198
+2580 +     1950   1951      1957  HOL  3   FLA  S19E36    SF      ERU       0198
+
+2590      B2050   2052      2101  RAM  3   FLA  S19E30    SF                0198
+
+2540 +     2122   2150      2312  PAL  U   RNS  245       570                   

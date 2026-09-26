@@ -1,0 +1,47 @@
+:Product: 20020707events.txt
+:Created: 2002 Jul 10 0300 UT
+:Date: 2002 07 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jul 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+460  +     0334   0401      0427  GO8  5   XRA  1-8A      C3.5    6.3E-03       
+460  +     0336   ////      0344  LEA  C   RSP  025-180   III/1                 
+460       U0358  U0358      0359  SVI  U   RBR  8800      65                    
+460        0358   0358      0405  LEA  G   RBR  245       1800                  
+460  +     0358   0358      0359  LEA  G   RBR  4995      110                   
+460        0358   0358      0359  PAL  G   RBR  2695      53                    
+460  +     0358   ////      0405  PAL  C   RSP  025-180   V/2                   
+460       U0401  U0401      0401  SVI  U   RBR  15400     43                    
+460        0405   0405      0405  LEA  G   RBR  410       57                    
+
+470        0446   0447      0447  PAL  G   RBR  245       80                    
+
+600        0541   0602      0624  GO8  5   XRA  1-8A      C1.2    2.7E-03       
+
+480  +     1039   ////      1050  RAM  3   EPL  S13W90    0.19    B.8A      0000
+
+530        1112   1115      1116  IZM  F   RBR  204       55                    
+
+490        1114   1114      1114  SAG  G   RBR  245       62                    
+490        1114   ////      1117  SVI  C   RSP  025-180   III/1                 
+
+530  +     1115   1143      1317  GO8  5   XRA  1-8A      M1.0    6.2E-02       
+530        1117   ////      1117  SAG  C   RSP  030-055   III/1                 
+
+520        1243   ////      1244  SVI  C   RSP  025-050   III/1                 
+
+540        1301   1303      1312  RAM  3   FLA  S19E46    SF      ERU       0025
+
+560       A1605   ////     B1733  COM  3   DSF  N11W49    35      B.0A      0000
+560        1610   1622      1639  GO8  5   XRA  1-8A      C1.8    3.0E-03   0000
+
+550        1759   ////      1759  HOL  C   RSP  048-093   III/1                 
+
+570        1817   ////      1817  HOL  C   RSP  025-039   III/1                 

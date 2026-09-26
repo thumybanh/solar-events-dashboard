@@ -1,0 +1,76 @@
+:Product: 20021025events.txt
+:Created: 2002 Oct 28 0300 UT
+:Date: 2002 10 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Oct 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5330 +     0127   0440      0730  LEA  G   RNS  245       330                   
+
+5200 +     0608   0611      0613  GO8  5   XRA  1-8A      C1.0    2.6E-04       
+
+5210       0644   ////      0645  SVI  C   RSP  025-180   III/1                 
+
+5220      U0700  U0702      0702  SVI  U   RBR  245       100               0162
+5220       0702   0703      0705  LEA  3   FLA  N28W02    SF                0162
+5220 +     0702   0702      0702  LEA  G   RBR  410       57                0162
+5220 +     0702   0702      0702  LEA  G   RBR  606       86                0162
+5220       0702   0702      0702  SVI  G   RBR  1415      48                0162
+5220       0702   0702      0702  SVI  G   RBR  4995      32                0162
+5220       0702   0702      0702  SVI  G   RBR  8800      38                0162
+
+5230       0722   ////      0723  SVI  U   RSP  034-126   III/1                 
+
+5240      U0750  U0750      0750  SVI  U   RBR  245       52                    
+
+5250       0840   0840      0840  LEA  G   RBR  245       100                   
+
+5260       0856   0858      0858  LEA  G   RBR  245       94                    
+
+5270 +     0915   0919      0921  GO8  5   XRA  1-8A      B9.4    2.8E-04       
+
+5280 +     0956   0956      0956  SVI  G   RBR  606       59                    
+
+5290       1056   ////      1101  SVI  U   RSP  031-180   III/1                 
+
+5300       1148   1148      1148  SAG  G   RBR  245       110                   
+
+5310       1152   1152      1153  SAG  G   RBR  245       50                    
+
+5320      U1200   1202     U1204  SVI  U   RBR  245       230                   
+5320       1202   1205      1206  SVI  G   RBR  410       74                    
+
+5350       1300   ////      1300  SVI  U   RSP  032-143   III/1                 
+
+5360 +     1313   1319      1328  GO8  5   XRA  1-8A      C1.1    9.4E-04   0162
+5360       1320   1321      1335  RAM  3   FLA  N24W16    SF      ERU       0162
+
+5370       1403   ////      1408  SAG  C   RSP  030-075   V/1                   
+5370       1404   ////      1408  HOL  C   RSP  025-180   III/1                 
+5370      U1404  U1404      1404  SVI  U   RBR  245       49                    
+5370       1404   1404      1404  SVI  G   RBR  410       59                    
+5370       1404   1404      1404  SVI  G   RBR  606       21                    
+
+5380 +     1409   1411      1418  RAM  3   FLA  N24W28    SF      ERU       0162
+
+5390       1448   ////      1448  SVI  U   RSP  075-083   III/1                 
+
+5400       1521   1521      1526  HOL  3   FLA  N25W14    SF                0162
+
+5410       1620   1643      1703  HOL  3   FLA  N27W10    1F      ERU       0162
+5410 +     1633   1643      1651  GO8  5   XRA  1-8A      C1.6    1.4E-03   0162
+
+5420 +     1723   1747      1822  GO8  5   XRA  1-8A      M1.5    3.5E-02   0162
+5420       1726   1737      1907  RAM  3   FLA  N28W11    1F      ERU       0162
+5420 +     1744   ////      1748  PAL  C   RSP  025-180   II/1    780       0162
+5420 +     1754   ////      1901  PAL  C   RSP  025-180   IV/1              0162
+
+5430       1843   1843      1844  SAG  G   RBR  245       1100                  
+
+5440       2147   ////      2148  HOL  C   RSP  025-134   III/1                 

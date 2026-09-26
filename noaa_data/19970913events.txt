@@ -1,0 +1,59 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 16 Sep 1997
+
+EDITED EVENTS for 1997 Sep 13
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+8010       0056   0103      0114  GO9  5   XRA  1-8A      B6.6    6.0E-04
+8010       0110   0110      0110  LEA  G   RBR  245       83
+
+8020 +     0119   ////      0119  LEA  C   RSP  033-06    III/2
+
+8030       0131   ////      0718  LEA  C   RSP  030-03    CTM/1
+8030       0141   ////      0141  LEA  C   RSP  030-04    III/1
+8030 +     0226   0226      0226  LEA  G   RBR  245       110
+
+8040       0506   0507      0508  SVI  U   RBR  245       58
+8040       0507   ////      0513  LEA  C   RSP  030-07    III/1
+
+8050       0517   ////      0519  LEA  C   RSP  035-05    III/1
+
+8060 +     0623   0630      0640  GO9  5   XRA  1-8A      B8.4    6.8E-04   8086
+8060 +     0629   0632      0638  SVI  3   FLA  N21W26    SF                8084
+
+8070 +     0642   0642      0642  SVI  U   RBR  245       58
+
+8080      B0653  U0653     A0730  SVI  3   FLA  N29E61    SF                8086
+
+8090 +     0841   0842      0902  LEA  3   FLA  N23E61    SF                8086
+
+8100      B0942  U0948     A0955  SVI  3   FLA  N28E60    SF                8086
+
+8110       1056   ////      1056  SVI  U   RSP  037-05    III/2
+
+8120       1212  U1215     A1227  SVI  3   FLA  N22W28    SF                8084
+8120 +     1213   ////      1215  SAG  C   RSP  030-08    III/2             8084
+
+8130       1226   1227      1227  SAG  G   RBR  245       43
+
+8140       1439   ////      1440  SAG  C   RSP  030-04    III/1
+
+8150 +     1531   1533      1542  RAM  4   FLA  N29E58    SF                8086
+
+8160 +     1747   1757      1801  GO9  5   XRA  1-8A      B4.9    3.3E-04
+
+8170       1945   1956      2001  GO8  5   XRA  1-8A      C2.4    1.4E-03
+8170 +     1948   1949      1951  PAL  G   RBR  245       28
+8170 +     1948   1950      1952  PAL  G   RBR  1415      19
+8170 +     1948   1950      1956  PAL  G   RBR  2695      8
+8170 +     1948   1950      1955  PAL  G   RBR  4995      19
+8170       1948   1950      1951  SAG  G   RBR  8800      11
+8170 +     1949   1950      1951  PAL  G   RBR  410       210
+8170 +     1949   1950      1955  PAL  G   RBR  606       17
+8170 +     1949   ////      1955  SAG  C   RSP  030-08    III/2
+
+8180       2239   ////      2239  PAL  C   RSP  027-05    III/1
+
+8190       2336   2342      2356  GO9  5   XRA  1-8A      B6.6    6.6E-04
+8190       2343   ////      2343  PAL  C   RSP  027-04    III/1

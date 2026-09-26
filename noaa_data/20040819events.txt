@@ -1,0 +1,74 @@
+:Product: 20040819events.txt
+:Created: 2004 Aug 22 0302 UT
+:Date: 2004 08 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Aug 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 140 +     0002   0006      0009  G12  5   XRA  1-8A      C2.6    9.0E-04   0656
+ 140       0005   0008      0008  G12  5   XFL  S14W90    6.5E+03 2.1E+04   0656
+
+ 190       0018   ////      0018  CUL  C   RSP  30-140    III/1                 
+
+ 160 +     0115   0119      0126  G12  5   XRA  1-8A      C4.7    2.6E-03   0656
+ 160       0118   0120      0125  G12  5   XFL  S14W90    7.7E+03 3.0E+04   0656
+
+ 200       0136   ////      0139  CUL  C   RSP  120-400   III/1                 
+
+ 170 +     0138   0138      0138  LEA  G   RBR  410       80                    
+
+ 210       0205   ////      0225  CUL  C   RSP  20-230    III/1                 
+
+ 180       0223   0224      0228  LEA  3   FLA  N09E07    SF      ERU       0661
+
+ 350       0452   ////      0502  CUL  C   RSP  20-80     III/1                 
+
+ 360       0559   ////      0600  CUL  C   RSP  20-60     III/1                 
+
+ 230 +     0635   0701      0718  G12  5   XRA  1-8A      M3.0    4.0E-02   0656
+
+ 370       0635   ////      0651  CUL  C   RSP  20-90     III/1                 
+
+ 230       0638   0708      0717  G12  5   XFL  S13W90    9.8E+03 6.3E+04       
+ 230       0650   0655      0700  IZM  F   RBR  3000      26                    
+ 230 +     0653   0653      0656  LEA  G   RBR  15400     90                    
+ 230 +     0655   0655      0656  LEA  G   RBR  4995      54                    
+ 230 +     0655   0656      0656  LEA  G   RBR  8800      100                   
+
+ 240       1146   ////      1147  SVI  C   RSP  025-082   III/1                 
+
+ 250 +     1228   1239      1248  G12  5   XRA  1-8A      C3.0    2.9E-03   0656
+ 250       1231   1246      1247  G12  5   XFL  S13W90    4.4E+03 1.5E+04   0656
+
+ 270 +     1250   1307      1325  G12  5   XRA  1-8A      C4.2    7.5E-03   0656
+ 270       1253   1324      1324  G12  5   XFL  S13W90    4.6E+03 1.9E+04   0656
+
+ 260       1303   ////      1305  SVI  C   RSP  075-180   III/1                 
+ 260 +     1305   1305      1305  SVI  G   RBR  245       57                    
+
+ 270       1310   ////      1310  SVI  C   RSP  075-150   III/1                 
+
+ 280 +     1329   1351      1416  G12  5   XRA  1-8A      M2.1    4.1E-02   0656
+ 280       1332   1412      1415  G12  5   XFL  S13W90    9.0E+03 5.1E+04   0656
+
+ 290       1559   ////      1600  SVI  C   RSP  025-151   III/1                 
+
+ 520       2027   2105      2147  G12  5   XRA  1-8A      C2.1    7.8E-03       
+
+ 300 +     2113   ////      2115  CUL  C   RSP  20-100    III/2                 
+
+ 310 +     2252   ////      2254  CUL  C   RSP  18-180    III/3                 
+
+ 320       2300   2300      2300  PAL  G   RBR  410       210                   
+
+ 330       2307   2307      2307  PAL  G   RBR  245       71                    
+
+ 340 +     2317   ////      2317  CUL  C   RSP  20-100    III/1                 
+
+ 380       2350   ////      2350  CUL  C   RSP  20-90     III/1                 

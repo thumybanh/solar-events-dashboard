@@ -1,0 +1,46 @@
+:Product: 20060709events.txt
+:Created: 2006 Jul 12 0329 UT
+:Date: 2006 07 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Jul 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  40 +     0506   ////      0506  LEA  C   RSP  059-180   III/2                 
+
+ 150       0513   ////      0514  CUL  C   RSP  20-80     III/1                 
+
+ 160       0631   ////      0634  CUL  C   RSP  20-90     III/1                 
+
+  50 +     0633   ////      0634  LEA  C   RSP  025-040   III/1                 
+
+  60 +     0743   ////      0743  LEA  C   RSP  025-113   III/1                 
+
+  70 +     1108   1112      1114  G12  5   XRA  1-8A      B5.0    9.8E-05   0898
+  70       1110   ////      1112  SVI  C   RSP  025-084   V/2               0898
+  70       1112   1112      1112  G12  5   XFL  S04W80    5.8E+02 1.6E+03   0898
+  70 +     1114   ////      1118  SVI  C   RSP  025-061   III/1             0898
+
+  80 +     1334   ////      1338  SVI  C   RSP  025-142   III/2                 
+
+  90 +     1407   ////      1408  SVI  C   RSP  025-062   III/1                 
+
+ 100 +     1427   ////      1428  SVI  C   RSP  025-062   III/2                 
+
+ 130       1521   ////      1527  SAG  C   RSP  030-070   III/1                 
+
+ 110       1522   ////      1526  SVI  C   RSP  025-082   III/1             0898
+ 110 +     1523   1527      1529  G12  5   XRA  1-8A      B2.4    5.5E-05   0898
+ 110       1527   1527      1527  G12  5   XFL  S04W83    2.8E+02 6.0E+02   0898
+
+ 120       1612   1612      1612  SAG  G   RBR  245       28                    
+ 120 +     1632   ////      1633  SVI  C   RSP  025-126   III/2                 
+
+ 140       1820   ////      1820  SAG  C   RSP  030-047   III/1                 
+
+ 170       2357   ////      2358  LEA  C   RSP  025-081   III/1                 

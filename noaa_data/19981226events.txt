@@ -1,0 +1,80 @@
+:Product: 19981226events.txt
+:Created: 1998 Dec 29 0302 UT
+:Date: 1998 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3670 +     0019   0019      0019  LEA  G   RBR  245       120                   
+
+3680 +     0031   ////      0031  LEA  C   RSP  030-08    III/2                 
+
+3690 +     0044   0047      0049  GO8  5   XRA  1-8A      C1.3    3.3E-04       
+3690 +     0045   0046      0047  LEA  G   RBR  245       1000                  
+3690 +     0045   0047      0047  LEA  G   RBR  410       210                   
+3690       0046   0047      0048  LEA  G   RBR  606       30                    
+3690 +     0046   0047      0048  LEA  G   RBR  1415      41                    
+3690       0047   0047      0047  LEA  G   RBR  2695      36                    
+
+3700       0054   0138      0222  GO8  5   XRA  1-8A      C2.0    7.8E-03   8421
+3700       0137   0137      0149  LEA  3   FLA  N29E56    SF      BPT       8421
+
+3710       0337   0337      0341  LEA  4   FLA  N29E54    SF                8421
+
+3720 +     0507   0512      0515  GO8  5   XRA  1-8A      C2.4    7.4E-04   8421
+3720       0510   0511      0520  LEA  4   FLA  N28E52    SF      BPT       8421
+
+3730       0554   0554      0554  LEA  G   RBR  245       300                   
+3730       0554   ////      0559  LEA  C   RSP  030-08    III/3                 
+
+3740 +     0555   0559      0601  GO8  5   XRA  1-8A      C7.8    1.2E-03   8422
+3740       0557   0558      0559  LEA  G   RBR  245       6900              8422
+3740       0558   0559      0559  LEA  G   RBR  410       140               8422
+3740       0558   0558      0602  LEA  4   FLA  S21E64    SF                8422
+
+3900       0707   0731      0803  GO8  5   XRA  1-8A      C1.7    4.3E-03       
+
+3750 +     0819   0819      0819  LEA  G   RBR  245       64                    
+
+3760 +     0919   0934      0955  GO8  5   XRA  1-8A      C2.9    5.2E-03   8421
+3760       0922   0924      0929  LEA  3   FLA  N27E53    SF      ERU       8421
+
+3920      A1026   ////      2242  LEA  3   DSF  N03E55    18      B.0A          
+
+3770 +     1447   1507      1524  GO8  5   XRA  1-8A      C4.4    7.0E-03   8421
+3770 +     1447   1457      1559  RAM  3   FLA  N25E46    1F      ERU       8421
+
+3780       1619   1619      1623  HOL  3   FLA  N32E53    SF      ERU       8421
+
+3790 +     1628   1634      1645  HOL  3   FLA  N27W08    SF                8419
+3790       1633   1633      1633  SAG  G   RBR  245       63                8419
+
+3880       1634   1635      1639  RAM  3   FLA  N26E42    SF                8421
+
+3890       1705   1710      1716  RAM  3   FLA  N28E44    SF                8421
+
+3800 +     1712   1713      1716  HOL  3   FLA  N21W36    SF                8415
+
+3810       1721   1721      1727  RAM  3   FLA  N21W09    SF                8416
+
+3820 +     1821   1830      1840  GO8  5   XRA  1-8A      C3.5    3.0E-03   8419
+3820 +     1823   1827      1853  HOL  3   FLA  N26W10    SF                8419
+
+3830 +     1921   1924      1930  HOL  3   FLA  N28E47    SF                8421
+
+3840 +     1936   1940      1948  HOL  3   FLA  N28E46    SF                8421
+3840 +     1943   1943      1943  PAL  G   RBR  245       120               8421
+
+3850 +     2030   2039      2048  GO8  5   XRA  1-8A      C2.4    2.0E-03       
+3850 +     2031   2040      2119  HOL  3   FLA  N27W10    SF                8419
+
+3910 +     2336   2344      2349  GO8  5   XRA  1-8A      C7.8    3.8E-03       
+3910       2338   2344      0003  LEA  4   FLA  N26W11    SF      ERU       8419
+3910       2342   2343      2343  LEA  G   RBR  4995      26                    
+3910       2342   2343      2343  LEA  G   RBR  8800      23                    

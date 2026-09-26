@@ -1,0 +1,59 @@
+:Product: 19990906events.txt
+:Created: 1999 Sep 09 0303 UT
+:Date: 1999 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5840       0115   ////      0116  PAL  C   RSP  025-06    III/1                 
+
+6080       0245   ////      0245  CUL  C   RSP  28-90     III/1                 
+
+5850 +     0318   ////      0318  CUL  C   RSP  50-80     III/2                 
+
+5860 +     0327   ////      0328  CUL  C   RSP  30-90     III/2                 
+
+5870       0620   ////      0620  SVI  C   RSP  046-06    III/2                 
+
+5880 +     0757   ////      0758  SVI  C   RSP  035-06    III/2                 
+
+5900       0848   ////      0853  SVI  U   RSP  035-07    III/1                 
+
+5910       1012   ////      1012  SVI  U   RSP  035-08    III/2                 
+
+5920       1137   ////      1138  SVI  C   RSP  035-08    III/2                 
+
+5930 +     1207   1213      1219  GO8  5   XRA  1-8A      B6.2    4.1E-04   8682
+5930       1209   1211      1218  RAM  3   FLA  N17W36    SF      ERU       8682
+
+5940 +     1301   ////      1305  SAG  C   RSP  030-05    III/1                 
+
+5950       1437   ////      1438  SAG  C   RSP  030-08    III/2                 
+
+5960 +     1448   ////      1449  SAG  C   RSP  030-06    III/1                 
+
+5970       1513   1513      1513  SAG  G   RBR  245       53                    
+
+6260      A1731   ////      1120  RAM  3   DSF  N44E22    12      B.0A          
+
+5980 +     1732   ////      1737  SAG  C   RSP  030-07    III/1                 
+
+5990 +     1907   ////      1908  SAG  C   RSP  030-05    III/1                 
+
+6000 +     2006   ////      2006  PAL  C   RSP  025-06    III/1                 
+
+6010       2035   ////      2036  SAG  C   RSP  030-05    III/1                 
+6010       2036   ////      2036  PAL  C   RSP  025-05    V/1                   
+
+6030 +     2101   2112      2118  GO8  5   XRA  1-8A      C1.7    1.2E-03       
+
+6040       2125   ////      2131  PAL  C   RSP  025-07    V/1                   
+6040       2125   ////      2130  SAG  C   RSP  030-08    III/1                 
+
+6090       2247   2249      2250  LEA  G   RBR  245       81                    

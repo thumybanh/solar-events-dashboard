@@ -1,0 +1,60 @@
+:Product: 20001231events.txt
+:Created: 2001 Jan 03 0302 UT
+:Date: 2000 12 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2080       0039   ////      0039  LEA  C   RSP  026-115   III/1                 
+
+2280       0111   0119      0124  GO8  5   XRA  1-8A      C1.1    7.5E-04       
+
+2090       0207   ////      0207  LEA  C   RSP  028-038   III/1                 
+
+2100       0240   ////      0240  LEA  C   RSP  026-099   III/1                 
+
+2210       0325   0327      0734  LEA  G   RNS  245       68                    
+
+2110       0402   ////      0412  LEA  C   RSP  025-059   III/1                 
+
+2120       0415   ////      0419  LEA  C   RSP  026-100   III/1                 
+
+2130 +     0431   0435      0438  GO8  5   XRA  1-8A      C1.1    4.0E-04       
+
+2140       0452   ////      0452  LEA  C   RSP  025-058   III/1                 
+
+2150       0519   ////      0522  LEA  C   RSP  025-089   III/1                 
+
+2160       0647   0653      0655  GO8  5   XRA  1-8A      B6.4    3.0E-04       
+2160       0649   0650      0656  LEA  3   FLA  N21E67    SF                    
+2160       0650   0650      0650  LEA  G   RBR  245       100                   
+
+2190       0700   0000      1200       F   RNS  204       10                    
+
+2170       0802   ////      0809  SVI  U   RSP  031-154   III/1                 
+
+2180       0820   0820      0821  LEA  G   RBR  245       81                    
+
+2190 +     0840   0840      0914  LEA  G   RNS  245       270                   
+
+2220       1401   ////      1401  SVI  U   RSP  038-083   III/1                 
+
+2230       1425   ////      1426  SVI  U   RSP  035-083   III/1                 
+
+2240       1511   1511      1511  SAG  G   RBR  245       81                    
+
+2250 +     1927   ////      1928  PAL  C   RSP  025-148   III/2                 
+
+2270       1938   1957      2009  GO8  5   XRA  1-8A      C1.1    1.7E-03       
+
+2260 +     1941   ////      1944  PAL  C   RSP  025-180   III/2                 
+
+2290       2340   ////      2341  LEA  C   RSP  025-102   III/1                 
+
+2300       2343   ////      2346  LEA  C   RSP  025-113   III/2                 

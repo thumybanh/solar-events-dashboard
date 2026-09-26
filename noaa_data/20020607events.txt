@@ -1,0 +1,35 @@
+:Product: 20020607events.txt
+:Created: 2002 Jun 10 0300 UT
+:Date: 2002 06 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3890       0202   ////      0202  LEA  C   RSP  025-116   III/1             0000
+
+3900       0222   0222      0222  LEA  G   RBR  410       88                0000
+
+3910 +     0308   0314      0319  GO8  5   XRA  1-8A      B7.8    4.3E-04   0000
+3910 +     0308   ////      0312  CUL  C   RSP  57-260    III/1             0000
+
+3930       0401   0401      0401  LEA  G   RBR  606       200               0000
+
+3940       0402   ////      0402  CUL  C   RSP  600-850   III/1             0000
+
+3950       0413   0413      0414  LEA  G   RBR  245       110               0000
+3950 +     0413   ////      0415  CUL  C   RSP  60-750    III/1             0000
+3950       0414   0414      0414  LEA  G   RBR  410       59                0000
+
+3960       0713   ////      0714  LEA  C   RSP  025-075   III/1             0000
+
+3970 +     0744   0756      0814  GO8  5   XRA  1-8A      B9.1    1.4E-03   0000
+
+3980 +     0941   0946      0949  GO8  5   XRA  1-8A      C1.0    4.0E-04   0000
+
+4000 +     2330   ////      2330  LEA  C   RSP  025-180   III/1             0000

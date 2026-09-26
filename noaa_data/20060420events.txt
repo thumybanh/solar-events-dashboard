@@ -1,0 +1,18 @@
+:Product: 20060420events.txt
+:Created: 2006 Apr 23 0329 UT
+:Date: 2006 04 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Apr 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3940 +     1727   1731      1738  G12  5   XRA  1-8A      B1.6    8.4E-05   0871
+3940       1730   1732      1736  G12  5   XFL  S05W90    2.0E+02 3.8E+02   0871
+
+3950 +     1857   1904      1910  G12  5   XRA  1-8A      B2.2    1.3E-04   0871
+3950       1900   1908      1908  G12  5   XFL  S05W90    5.5E+02 1.4E+03   0871

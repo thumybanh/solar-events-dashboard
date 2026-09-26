@@ -1,0 +1,33 @@
+:Product: 20081104events.txt
+:Created: 2008 Nov 07 2332 UT
+:Date: 2008 11 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2008 Nov 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  20 +     0034   ////      0036  CUL  C   RSP  18-120    III/2                 
+
+  40       0311   ////      0311  CUL  C   RSP  20-70     III/1                 
+
+  30       0317   0330      0336  G10  5   XRA  1-8A      C1.0    6.2E-04   1007
+  30 +     0324   ////      0327  LEA  C   RSP  025-160   III/1             1007
+  30       0326   0329      0332  LEA  3   FLA  N35W38    SF                1007
+
+  50       0537   0541      0544  G10  5   XRA  1-8A      B1.0    3.2E-05       
+  50 +     0540   ////      0541  LEA  C   RSP  025-180   III/1                 
+
+  60       0656   ////      0656  LEA  C   RSP  025-128   III/1                 
+
+  70 +     0657   ////      0657  CUL  C   RSP  20-160    III/1                 
+
+  80       1026   ////      1026  SVI  C   RSP  025-077   III/1                 
+
+  90 +     1301   ////      1309  SAG  C   RSP  030-045   III/1                 
+
+ 100       2059   ////      2059  CUL  C   RSP  20-80     III/1                 

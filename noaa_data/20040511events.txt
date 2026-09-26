@@ -1,0 +1,25 @@
+:Product: 20040511events.txt
+:Created: 2004 May 14 0302 UT
+:Date: 2004 05 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 May 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8450       0531   ////      0533  CUL  C   RSP  20-80     III/1                 
+
+8460       0655   ////      0655  CUL  C   RSP  30-150    III/1                 
+
+8440       0743   0747      0752  G12  5   XRA  1-8A      B1.0    5.0E-05       
+8440       0747   0747      0751  G12  5   XFL  S42W29                          
+
+8470       2212   ////      2212  CUL  C   RSP  20-70     III/1                 
+
+8480       2309   ////      2309  CUL  C   RSP  20-100    III/1                 
+
+8490       2346   ////      2347  CUL  C   RSP  20-60     III/1                 

@@ -1,0 +1,30 @@
+:Product: 20030415events.txt
+:Created: 2003 Apr 18 0302 UT
+:Date: 2003 04 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Apr 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8310       0018   ////      0020  HOL  C   RSP  025-180   III/1                 
+
+8320 +     0140   ////      0140  CUL  C   RSP  35-180    III/1                 
+
+8330 +     0738   0741      0746  G10  5   XRA  1-8A      B1.8    7.8E-05   0334
+
+8340 +     1348   1356      1400  G10  5   XRA  1-8A      B4.4    2.2E-04   0330
+8340 +     1348   ////      1354  HOL  C   RSP  025-180   III/1                 
+
+8350       1604   ////      1707  SVI  C   RSP  029-119   III/1                 
+8350       1641   1641      1641  PAL  G   RBR  15400     51                    
+
+8400      A1717   ////     B1138  RAM  2   DSF  ////      08      B.0A      0000
+
+8360 +     1932   1938      1944  G10  5   XRA  1-8A      B3.7    1.9E-04   0334
+
+8370      A2341   ////     B1542  HOL  3   DSF  ////      11      B.0A      0000

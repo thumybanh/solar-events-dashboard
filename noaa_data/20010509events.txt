@@ -1,0 +1,37 @@
+:Product: 20010509events.txt
+:Created: 2001 May 12 0302 UT
+:Date: 2001 05 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5860 +     0512   0516      0520  GO8  5   XRA  1-8A      B6.7    2.9E-04       
+
+5880 +     0532   0603      0620  GO8  5   XRA  1-8A      C1.1    2.7E-03   9445
+
+5870       0533   0535      0544  LEA  3   FLA  N22W60    SF                9445
+
+5880 +     0557   0558      0619  LEA  3   FLA  N26W57    SF                9445
+
+5890 +     0815   0816      0816  SVI  G   RBR  410       160                   
+
+5900 +     0847   0853      0902  GO8  5   XRA  1-8A      C1.5    1.0E-03   9445
+5900       0856   ////      0856  SVI  C   RSP  025-038   III/1             9445
+5900      B0857   0857      0909  SVI  3   FLA  N26W56    SF      ERU       9445
+
+5910 +     1234   1238      1241  GO8  5   XRA  1-8A      B7.2    2.6E-04       
+
+5920 +     1513   1517      1519  GO8  5   XRA  1-8A      B8.8    2.4E-04       
+
+5930 +     1633   1637      1640  GO8  5   XRA  1-8A      B8.5    2.9E-04       
+
+5940 +     1752   1752      1752  SAG  G   RBR  245       61                    
+5940 +     1752   1752      1753  SAG  G   RBR  410       73                    
+
+5950 +     1800   1803      1807  GO8  5   XRA  1-8A      B8.4    3.2E-04       

@@ -1,0 +1,30 @@
+:Product: 19980717events.txt
+:Created: 1998 Jul 20 0302 UT
+:Date: 1998 07 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4830 +     0000   0007      0016  GO9  5   XRA  1-8A      B5.0    3.7E-04   8270
+4830       0004   0004      0013  HOL  3   FLA  S21W11    SF                8270
+4830       0004   0004      0004  PAL  G   RBR  8800      65                8270
+
+4840 +     0152   0158      0207  GO9  5   XRA  1-8A      B5.9    3.9E-04       
+
+4850 +     0647   0655      0706  GO9  5   XRA  1-8A      B4.4    4.0E-04       
+
+4860       1510   1517      1526  GO8  5   XRA  1-8A      B3.7    3.2E-04   8272
+4860 +     1514   1521      1527  HOL  3   FLA  S29E37    SF                8272
+
+4870 +     1530   1534      1540  GO9  5   XRA  1-8A      B4.0    2.2E-04   8270
+4870       1532   1532      1544  SVI  3   FLA  S21W21    SF      ERU       8270
+
+4880       1718   1720      1726  SVI  3   FLA  S19W23    SF      ERU       8270
+
+4890 +     2102   ////      2102  PAL  C   RSP  040-05    III/1                 

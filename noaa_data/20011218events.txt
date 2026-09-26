@@ -1,0 +1,53 @@
+:Product: 20011218events.txt
+:Created: 2005 Jul 27 2016 UT
+:Date: 2001 12 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2460       0111   0111      0114  LEA  3   FLA  S13W57    SF      ERU       9739
+
+2470       0409   0415      0421  LEA  3   FLA  S15W06    SF      ERU       9738
+
+2480       0435   0444      0454  LEA  3   FLA  N12W50    SF      ERU       9733
+2480 +     0439   0444      0449  GO8  5   XRA  1-8A      C3.0    1.5E-03   9733
+2480       0442   0442      0445  LEA  U   RBR  4995      27                9733
+2480       0442   0442      0445  LEA  U   RBR  8800      22                9733
+
+2490       0451   0451      0457  LEA  3   FLA  N16E71    SF                9745
+
+2500       0504   0505      0513  LEA  3   FLA  N16E71    SF                9745
+2500       0508   ////      0509  LEA  C   RSP  038-142   III/1             9742
+
+2550       0512   0514      0520  LEA  3   FLA  N12E43    SF      ERU       9742
+
+2510       0559   0600      0609  LEA  3   FLA  N12W55    SF      ERU       9733
+
+2590 +     0732   0736      0742  GO8  5   XRA  1-8A      C1.6    8.8E-04       
+
+2520       0734   0754      0815  LEA  3   FLA  N12W55    1N      ERU       9733
+
+2530 +     0740   ////      0741  SVI  C   RSP  025-180   III/2                 
+
+2520       0748   0753      080734502  F   RBR  3000      20                9733
+2520 +     0749   0754      0807  GO8  5   XRA  1-8A      C4.8    4.0E-03   9733
+
+2540       0842   0844      0852  LEA  3   FLA  N09E41    SF      ERU       9742
+
+2560 +     1605   1607      1616  RAM  3   FLA  N13E37    SF      ERU       9742
+
+2570       1931   1936      1944  HOL  3   FLA  N04E42    SF      ERU       9742
+
+2580 +     1959   2003      2007  GO8  5   XRA  1-8A      C3.7    1.4E-03   9742
+2580       2001   2001      2001  SAG  G   RBR  410       32                9742
+2580       2001   2001      2011  HOL  3   FLA  N10E37    SF      ERU       9742
+2580 +     2001   2001      2001  PAL  G   RBR  245       250               9742
+2580       2001   2001      2001  PAL  G   RBR  4995      76                9742
+2580       2001   2001      2001  PAL  G   RBR  8800      43                9742
+2580       2001   2001      2001  PAL  G   RBR  15400     44                9742

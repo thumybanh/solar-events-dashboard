@@ -1,0 +1,63 @@
+:Product: 19991215events.txt
+:Created: 1999 Dec 18 0302 UT
+:Date: 1999 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1740 +     0028   0028      0029  LEA  G   RBR  245       75                    
+
+1750       0059   ////      0100  LEA  C   RSP  030-05    III/1                 
+
+1760 +     0157   0157      0202  LEA  G   RBR  245       250                   
+1760       0200   ////      0200  PAL  C   RSP  120-15    III/1                 
+
+1770       0252   0252      0253  LEA  G   RBR  245       57                    
+1770 +     0252   0252      0253  LEA  G   RBR  410       100                   
+
+1780       0307   0318      0328  LEA  3   FLA  S15E61    SF                8798
+1780       0312   0312      0312  LEA  G   RBR  245       130               8798
+
+1790       0514   0514      0514  LEA  G   RBR  245       68                    
+
+1800 +     0755   0755      0755  SVI  G   RBR  245       53                    
+
+1810 +     0800   0801      0801  SVI  G   RBR  245       64                    
+
+1820 +     0933   ////      0934  SVI  C   RSP  035-08    III/2                 
+
+1830       1122   1122      1122  SVI  G   RBR  245       88                    
+1830       1122   1122      1122  SVI  G   RBR  410       44                    
+
+1840 +     1217   1221      1223  GO8  5   XRA  1-8A      C1.2    3.6E-04       
+
+1850 +     1412   1417      1419  GO8  5   XRA  1-8A      C2.5    6.7E-04   8798
+1850       1415   1416      1439  RAM  3   FLA  S15E51    SF                8798
+
+1880 +     1520   1524      1527  GO8  5   XRA  1-8A      C1.3    4.7E-04   8798
+1880 +     1521   1530      1536  HOL  3   FLA  S14E52    SF                8798
+
+1900       1619   1620      1620  SAG  G   RBR  245       54                    
+
+1910       1622   1626      1639  HOL  3   FLA  S14E53    SF                8798
+
+1920       1641   1644      1650  HOL  3   FLA  S14E53    SF                8798
+
+1930       1702   1703      1706  HOL  3   FLA  S14E53    SF                8798
+
+1940 +     1800   1800      1800  SAG  G   RBR  245       67                    
+
+1950       1805   1805      1805  PAL  G   RBR  245       65                    
+
+1960       1815   1815      1816  PAL  G   RBR  245       95                    
+
+1970       1829   1831      1835  HOL  3   FLA  S14E52    SF                8798
+
+1980       2229   2230      2231  LEA  G   RBR  410       980                   
+1980       2231   2231      2231  LEA  G   RBR  245       65                    

@@ -1,0 +1,64 @@
+:Product: 20050612events.txt
+:Created: 2005 Jun 13 1229 UT
+:Date: 2005 06 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jun 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5130       0025   0025      0025  LEA  G   RBR  245       56                    
+
+5140 +     0110   0115      0121  G12  5   XRA  1-8A      B4.9    2.5E-04       
+5140       0116   0116      0116  G12  5   XFL  N32E90    1.3E+02 4.9E+02       
+5140       0117   0117      0117  LEA  G   RBR  245       65                    
+
+5150       0201   ////      0437  PAL  C   RSP  025-180   CTM/2             0775
+5150 +     0206   0209      0210  LEA  G   RBR  245       77                0775
+5150       0206   0213      0234  LEA  3   FLA  N06W21    SF      ERU       0775
+
+5260       0224   0232      0254  LEA  3   FLA  S05W15    SF      ERU       0776
+
+5150 +     0230   0236      0248  G12  5   XRA  1-8A      C3.5    3.3E-03   0775
+
+5160 +     0230   0230      0231  LEA  G   RBR  1415      92                    
+
+5150       0234   0246      0246  G12  5   XFL  N06W24    3.1E+03 8.6E+03   0775
+
+5170       0250   0251      0303  LEA  G   RBR  1415      100               0775
+5170       0250   0251      0334  LEA  3   FLA  N11W21    SF      ERU       0775
+5170       0257   0257      0259  LEA  G   RBR  606       55                0775
+5170       0259   0259      0300  LEA  G   RBR  410       57                0775
+
+5270       0334   0406      0417  LEA  3   FLA  N10W19    SF      ERU       0775
+
+5180       0409   ////      1430  SVI  C   RSP  025-180   CTM/1                 
+
+5190 +     0524   0524      0524  LEA  G   RBR  245       96                    
+
+5250 +     0600   ////      1200  IZM  F   RNS  204       35                    
+
+5200       0644   0644      0644  LEA  G   RBR  245       52                    
+
+5250 +     0657   0714      0929  LEA  G   RNS  245       150                   
+
+5210       0706   0706      0706  LEA  G   RBR  410       54                    
+
+5220 +     0816   0817      0817  LEA  G   RBR  410       250                   
+
+5230       0929   ////      1415  SAG  C   RSP  030-180   CTM/1                 
+
+5240       1053   1053      1053  SAG  G   RBR  245       51                    
+
+5280       1507   1609      1759  G12  5   XRA  1-8A      C3.0    1.6E-02   0775
+5280       1603   1605      1614  HOL  3   FLA  N09W32    SF      ERU       0775
+
+5290       1615   1615      1624  HOL  3   FLA  N09W32    SF      ERU       0775
+
+5300       1924   1924      1924  SAG  G   RBR  245       60                    
+
+5310 +     2056   2056      2102  PAL  G   RBR  245       110                   

@@ -1,0 +1,31 @@
+:Product: 20050622events.txt
+:Created: 2005 Jun 23 1229 UT
+:Date: 2005 06 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jun 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7610 +     0422   0428      0434  G12  5   XRA  1-8A      B2.5    1.5E-04   0780
+7610       0429   0433      0433  G12  5   XFL  S10E08    2.3E+02 4.1E+02   0780
+
+7620       0929   ////      0932  SVI  C   RSP  025-083   III/2                 
+
+7630       1133   ////      1133  SVI  C   RSP  025-061   III/1                 
+
+7640       1146   ////      1146  SVI  C   RSP  025-066   III/1                 
+
+7650       1215   1215      1215  SAG  G   RBR  8800      190                   
+
+7660 +     1437   1449      1506  G12  5   XRA  1-8A      B2.0    3.0E-04       
+7660       1457   1457      1457  G12  5   XFL  N43W90    5.0E+01 3.8E+02       
+7660 +     1506   1506      1506  SAG  G   RBR  245       140                   
+
+7670 +     1623   1633      1644  G12  5   XRA  1-8A      C1.8    1.4E-03   0780
+7670       1629   1630      1646  HOL  3   FLA  S09E02    SF      ERU       0780
+7670       1629   1641      1643  G12  5   XFL  S09E01    3.5E+03 1.3E+04   0780

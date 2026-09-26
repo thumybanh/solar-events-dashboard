@@ -1,0 +1,55 @@
+:Product: 20011119events.txt
+:Created: 2001 Nov 22 0300 UT
+:Date: 2001 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4660 +     0201   ////      0204  LEA  C   RSP  025-114   III/1                 
+
+4670       0234   0234      0238  LEA  3   FLA  S14E15    SF                9704
+
+4680       0248   0250      0252  LEA  G   RBR  245       88                    
+
+4690       0259   0259      0259  LEA  G   RBR  245       130                   
+
+4750       0301   0305      0517  LEA  G   RNS  245       55                    
+
+4700 +     0530   0538      0558  GO8  5   XRA  1-8A      C1.6    2.4E-03       
+
+4710 +     0648   0701      0713  GO8  5   XRA  1-8A      C4.5    5.1E-03   9704
+4710 +     0649   0650      0655  LEA  G   RBR  8800      130               9704
+4710 +     0650   0650      0651  LEA  G   RBR  4995      49                9704
+4710 +     0650   0650      0651  LEA  G   RBR  15400     140               9704
+4710       0650   0701      0742  LEA  3   FLA  S18E11    SF      ERU       9704
+
+4720       0800   0800      0800  LEA  G   RBR  15400     65                    
+
+4730 +     0802   0805      0807  GO8  5   XRA  1-8A      C1.5    3.6E-04       
+4730       0804   0804      0804  SVI  G   RBR  15400     67                    
+
+4740 +     1157   1204      1207  GO8  5   XRA  1-8A      C2.7    1.3E-03       
+
+5040       1230   0010      1420  COM  5   PRO            34                9704
+
+4760 +     1852   1855      1858  GO8  5   XRA  1-8A      C1.6    5.3E-04   9697
+4760       1854   1854      1900  RAM  3   FLA  N14W29    SF      ERU       9697
+
+4770       1938   1938      1944  RAM  3   FLA  S17E03    SF      ERU       9704
+
+4780 +     1959   2009      2017  GO8  5   XRA  1-8A      C3.6    2.9E-03   9704
+4780 +     2002   2010      2030  RAM  3   FLA  S19E04    SF      ERU       9704
+
+4810       2034   ////      2036  CUL  C   RSP  57-180    III/1                 
+
+4790 +     2126   2134      2148  GO8  5   XRA  1-8A      C1.7    1.9E-03       
+
+4800 +     2318   2324      2331  GO8  5   XRA  1-8A      C1.7    1.2E-03   9704
+4800       2323   2325      2339  LEA  3   FLA  S16E01    SF      ERU       9704
+4800       2326   ////      2326  CUL  C   RSP  130-180   III/1             9704

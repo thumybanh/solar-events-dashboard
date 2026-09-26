@@ -1,0 +1,47 @@
+:Product: 20020304events.txt
+:Created: 2002 Mar 07 0300 UT
+:Date: 2002 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9760 +     0414   ////      0416  LEA  C   RSP  025-150   III/1                 
+
+9880       0509   ////      0509  CUL  C   RSP  57-90     III/1                 
+
+9770 +     0604   0610      0616  GO8  5   XRA  1-8A      C1.4    8.8E-04   9845
+9770       0608   0609      0613  LEA  2   FLA  N13W45    SF      ERU       9845
+
+9780       0629   0629      0629  LEA  U   RBR  245       170                   
+
+9790 +     0729   0733      0735  GO8  5   XRA  1-8A      C3.2    6.8E-04       
+9790 +     0731   0731      0734  SVI  G   RBR  245       350                   
+9790       0731   ////      0738  CUL  C   RSP  60-420    III/1                 
+9790 +     0734   0734      0734  SVI  G   RBR  410       70                    
+9790 +     0734   0734      0734  SVI  G   RBR  606       29                    
+
+9800       0852   0853      0853  SVI  G   RBR  410       81                    
+
+9810       1338   1338      1338  SAG  G   RBR  410       65                    
+
+9820       1356   1406      1411  GO8  5   XRA  1-8A      B9.5    7.9E-04   9845
+9820       1403   1406      1409  RAM  3   FLA  N19W50    SF                9845
+
+9830 +     1750   ////      1752  HOL  C   RSP  025-180   III/1                 
+9830       1751   ////      1751  SAG  C   RSP  030-065   V/1                   
+
+9840       1815   ////      1816  PAL  C   RSP  025-180   III/1                 
+
+9850 +     2052   2055      2057  GO8  5   XRA  1-8A      C1.4    2.9E-04       
+
+9890       2151   ////      2151  CUL  C   RSP  57-140    III/1                 
+
+9860 +     2211   ////      2214  CUL  C   RSP  57-230    III/1                 
+
+9870 +     2330   ////      2330  LEA  C   RSP  025-103   III/1                 

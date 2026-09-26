@@ -1,0 +1,17 @@
+:Product: 20070128events.txt
+:Created: 2007 Feb 01 2332 UT
+:Date: 2007 01 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8280 +     1506   1516      1526  G12  5   XRA  1-8A      B1.6    1.6E-04   0940
+8280       1513   1524      1524  G12  5   XFL  S02E52    4.5E+02 9.0E+02   0940
+
+8290 +     2245   2303      2319  G12  5   XRA  1-8A      B1.7    3.3E-04   0940

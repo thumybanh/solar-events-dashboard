@@ -1,0 +1,24 @@
+:Product: 20071231events.txt
+:Created: 2008 Jan 03 1559 UT
+:Date: 2007 12 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center.
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Dec 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8380       0037   0111      0138  G11  5   XRA  1-8A      C8.3    2.1E-02       
+
+8370 +     0053   ////      0058  PAL  U   RSP  058-121   II/2    682           
+
+8380 +     0059   ////      0114  LEA  C   RSP  025-177   IV/1                  
+
+8390       1158   1202      1207  G11  5   XRA  1-8A      B1.5    7.1E-05       
+
+8400       1258   1305      1310  G11  5   XRA  1-8A      B3.8    2.5E-04       
+
+8410       1956   1959      2004  G11  5   XRA  1-8A      B1.0    4.5E-05       

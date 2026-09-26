@@ -1,0 +1,39 @@
+:Product: 20000911events.txt
+:Created: 2000 Sep 14 0302 UT
+:Date: 2000 09 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Sep 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7950      A0019   ////      1330  HOL  3   DSF  N41E17    10      B.0A          
+
+7890 +     0219   0222      0224  GO8  5   XRA  1-8A      B6.6    1.7E-04   9154
+7890       0222   0223      0229  LEA  4   FLA  S18W77    SF                9154
+
+7900 +     0307   0313      0320  GO8  5   XRA  1-8A      C1.2    7.1E-04       
+7900 +     0313   0313      0313  LEA  G   RBR  245       230                   
+
+7910 +     0702   0715      0734  GO8  5   XRA  1-8A      C4.2    5.8E-03   9154
+7910       0720   0722      0730  LEA  4   FLA  S22W87    SF      ERU       9154
+
+7960       0752   0752      0756  LEA  3   FLA  N05E62    SF                9161
+
+8000      A0907   ////      2342  LEA  4   DSF  N41E13    14      B.0A          
+
+7980 +    A0907   ////      2342  LEA  4   DSF  N43W09    26      B.0A          
+
+7920       0914   0921      0929  GO8  5   XRA  1-8A      C2.0    1.4E-03   9154
+7920       0918   0920      0922  LEA  3   FLA  S19W88    SF                9154
+
+7930 +     1303   1307      1310  GO8  5   XRA  1-8A      B6.6    2.2E-04       
+
+8090      A1534   ////      0629  SVI  3   DSF  N23E13    12      B.0A          
+
+7970       1743   1813      1836  GO8  5   XRA  1-8A      C1.3    3.3E-03   9158
+7970       1754   1810      1830  HOL  3   FLA  N30E17    SF      ERU       9158

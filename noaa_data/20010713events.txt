@@ -1,0 +1,25 @@
+:Product: 20010713events.txt
+:Created: 2001 Jul 16 0302 UT
+:Date: 2001 07 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jul 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9080       0044   0046      0051  GO8  5   XRA  1-8A      B5.0    2.0E-04       
+
+9090 +     0747   0750      0753  GO8  5   XRA  1-8A      B7.3    2.2E-04   9533
+9090 +     0750   0750      0756  SVI  3   FLA  S08W17    SF      ERU       9533
+
+9100 +     2136   ////      2138  PAL  C   RSP  025-095   III/1                 
+
+9110 +     2218   ////      2218  PAL  C   RSP  025-076   III/1                 
+
+9120       2318   2319      2323  HOL  3   FLA  N16E69    SF                9541
+
+9130       2326   2328      2330  HOL  3   FLA  N16E68    SF                9541

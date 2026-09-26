@@ -1,0 +1,51 @@
+:Product: 20010820events.txt
+:Created: 2001 Aug 23 0302 UT
+:Date: 2001 08 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Aug 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5640       0017   ////      0018  CUL  C   RSP  57-90     III/1                 
+
+5650       0028   ////      0029  CUL  C   RSP  65-180    III/1                 
+
+5660       0250   0302      0316  GO8  5   XRA  1-8A      C1.2    1.8E-03   9585
+5660       0255   0257      0305  LEA  3   FLA  N15E33    SF      ERU       9585
+
+5670 +     0516   0525      0534  GO8  5   XRA  1-8A      C2.0    1.8E-03   9582
+5670       0519   0527      0547  LEA  3   FLA  N28E23    SF      ERU       9582
+
+5680       0546   0548      0600  LEA  3   FLA  N16E34    SF      YSR       9585
+
+5710       0600   0600      0604  LEA  3   FLA  N29E22    SF                9582
+
+5690       0750   0750      0756  LEA  3   FLA  N14E13    SF                    
+
+5700 +     0807   0821      0844  LEA  3   FLA  N28E20    1F      ERU       9582
+5700 +     0817   0822      0825  GO8  5   XRA  1-8A      C3.6    1.2E-03   9582
+
+5720       1408   1408      1408  SAG  G   RBR  410       60                    
+
+5770       1452   1454      1459  HOL  3   FLA  S14E26    SF                9587
+
+5730 +     1811   1811      1811  PAL  G   RBR  410       260                   
+5730       1811   1811      1811  SAG  G   RBR  245       50                    
+
+5760 +     1919   1937      2102  GO8  5   XRA  1-8A      C2.3    1.2E-02       
+5760 +     1921   1921      1922  PAL  G   RBR  1415      28                    
+5760 +     1921   1921      1922  PAL  G   RBR  2695      120                   
+5760 +     1921   1921      1922  PAL  G   RBR  4995      63                    
+5760       1921   1921      1921  SAG  G   RBR  8800      41                    
+5760 +     1922   1924      1925  PAL  G   RBR  410       1800                  
+5760 +     1923   1925      1927  PAL  G   RBR  245       8100                  
+5760 +     1924   ////      1934  PAL  C   RSP  073-180   II/1    663           
+
+5780       2041   ////      2042  SAG  C   RSP  030-080   III/1                 
+
+5790       2357   2358      0005  LEA  3   FLA  N15E25    SF                9585

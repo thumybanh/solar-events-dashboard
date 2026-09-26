@@ -1,0 +1,44 @@
+:Product: 20050829events.txt
+:Created: 2005 Sep 01 0329 UT
+:Date: 2005 08 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Aug 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7340 +     0151   0158      0202  G12  5   XRA  1-8A      B4.4    1.9E-04   0803
+7340       0156   0157      0200  G12  5   XFL  N10E21    8.3E+02 1.9E+03   0803
+
+7350 +     0225   0229      0231  G12  5   XRA  1-8A      B5.0    9.4E-05   0803
+7350       0229   0229      0229  G12  5   XFL  N09E25    4.8E+02 1.1E+03   0803
+
+7360 +     0543   0551      0558  G12  5   XRA  1-8A      B2.6    1.9E-04   0803
+7360       0549   0549      0549  G12  5   XFL  N11E20    5.0E+01 8.6E+01   0803
+
+7370 +     1637   ////      1637  SVI  C   RSP  025-135   III/1                 
+
+7380 +     1655   1703      1711  G12  5   XRA  1-8A      C1.3    8.3E-04   0806
+7380       1700   1705      1709  G12  5   XFL  S16E51    1.2E+03 5.0E+03   0806
+
+7390 +     1829   1840      1852  G12  5   XRA  1-8A      B5.6    6.3E-04   0806
+7390       1833   1848      1849  G12  5   XFL  S18E50    1.3E+03 3.2E+03   0806
+
+7400 +     2031   ////      2032  PAL  C   RSP  025-159   III/1                 
+
+7410 +     2148   2155      2202  G12  5   XRA  1-8A      C6.5    3.0E-03   0806
+7410       2152   2154      2204  HOL  3   FLA  S16E50    SF      ERU       0806
+7410       2152   2156      2201  G12  5   XFL  S16E49    2.8E+03 1.9E+04   0806
+
+7420 +     2244   2248      2251  G12  5   XRA  1-8A      B5.7    2.0E-04   0806
+7420       2248   2248      2249  G12  5   XFL  S17E48    1.6E+03 3.7E+03   0806
+
+7430 +     2301   2307      2314  G12  5   XRA  1-8A      B7.5    5.0E-04   0806
+7430       2304   2308      2312  G12  5   XFL  S16E48    1.6E+03 4.6E+03   0806
+
+7440 +     2355   0001      0006  G12  5   XRA  1-8A      C1.2    5.3E-04   0806
+7440 +     2359   0002      0023  LEA  3   FLA  S17E49    SF      ERU       0806

@@ -1,0 +1,97 @@
+:Product: 19990124events.txt
+:Created: 1999 Jan 27 0302 UT
+:Date: 1999 01 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1110       0019   ////      0019  CUL  C   RSP  18-100    III/1                 
+
+770  +     0115   ////      0115  CUL  C   RSP  20-120    III/1                 
+
+780        0200   ////      0201  LEA  C   RSP  030-06    III/2                 
+
+790        0214   ////      0215  LEA  C   RSP  030-06    III/2                 
+
+900  +     0249   0253      0807  LEA  G   RNS  245       94                    
+
+810        0253   0253      0254  PAL  G   RBR  245       79                    
+
+860        0305   ////      0848  LEA  C   RSP  030-07    CTM/1                 
+
+820        0317   0317      0317  PAL  G   RBR  245       52                    
+
+830  +     0455   0501      0509  GO8  5   XRA  1-8A      C4.3    2.9E-03       
+
+840  +     0521   ////      0523  LEA  C   RSP  030-08    III/2                 
+
+870        0716   ////      1113  SVI  C   RSP  035-08    CTM/1             8444
+870        0733   ////      0734  CUL  C   RSP  20-50     III/1             8444
+
+850  +     0812   0820      0825  GO8  5   XRA  1-8A      C5.5    2.9E-03   8444
+850  +     0816   0819      0831  LEA  3   FLA  N19W32    SF      BPT       8444
+
+880  +     0842   ////      0848  LEA  C   RSP  030-08    III/2                 
+
+890        1106  U1121     A1205  SVI  3   FLA  N21W30    SF      ERU       8444
+890        1142   ////      1149  SVI  C   RSP  035-08    III/2             8444
+
+910  +     1221   1237      1250  GO8  5   XRA  1-8A      C2.0    3.1E-03   8439
+910        1228   ////      1228  SVI  C   RSP  055-06    III/1             8439
+
+920        1230   1231      1235  SVI  3   FLA  N21W69    SF                8440
+
+910  +     1235   1237      1247  SVI  3   FLA  S25W68    SF                8439
+910        1246   1246      1247  SVI  G   RBR  245       150               8439
+
+960        1341   ////      1533  SVI  C   RSP  035-08    CTM/2                 
+
+930        1408   ////      1412  SAG  C   RSP  030-05    III/1                 
+930  +     1412   1415      1415  SAG  G   RBR  245       63                    
+
+940        1449   ////      1450  SAG  C   RSP  030-08    V/1                   
+
+950        1523   1524      1529  RAM  3   FLA  N21W71    SF                8440
+
+1020       1528   1539      1601  RAM  3   FLA  N20W35    SF                8444
+
+1040       1555   1712      1920  GO8  5   XRA  1-8A      C3.9    3.5E-02       
+
+970        1617   ////      1620  SAG  C   RSP  030-06    III/1                 
+
+980        1650   1650      1712  RAM  3   FLA  S29W84    SF                8439
+
+990        1730   1731      1734  PAL  G   RBR  245       180                   
+
+1000       1737   1737      1739  PAL  G   RBR  245       80                    
+
+1010       1810   1812      1820  RAM  3   FLA  N20W33    SF                8444
+
+1030       1909   1911      1924  RAM  3   FLA  N20W38    SF                8444
+
+1050       1939   ////      1939  PAL  C   RSP  025-04    III/1                 
+
+1060       2025   ////      2029  PAL  C   RSP  025-07    V/3               8447
+1060       2026   2028      2035  RAM  3   FLA  N19W43    SF                8447
+1060       2026   ////      2027  SAG  C   RSP  030-08    III/2             8447
+
+1080       2102   2103      2109  RAM  3   FLA  N20W40    SF                8444
+1080       2107   ////      2112  PAL  C   RSP  027-00    III/1             8444
+
+1090       2109   2110      2115  RAM  3   FLA  N14E22    SF                8446
+
+1100       2158   ////      2200  PAL  C   RSP  025-05    III/2                 
+
+1120       2227   ////      2230  CUL  C   RSP  18-180    III/2                 
+
+1130       2232   ////      2242  CUL  C   RSP  18-90     III/1                 
+
+1140       2304   ////      2304  CUL  C   RSP  18-90     III/1                 
+
+1150 +     2343   ////      2345  CUL  C   RSP  18-160    III/1                 

@@ -1,0 +1,51 @@
+:Product: 20050102events.txt
+:Created: 2005 Jan 05 0302 UT
+:Date: 2005 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 510       0004   0004      0004  G12  5   XFL  N09W80    4.0E+02 8.0E+02   0717
+
+ 520       0020   ////      0020  LEA  C   RSP  025-122   III/1                 
+
+ 530 +     0101   0106      0113  G12  5   XRA  1-8A      B4.0    2.6E-04   0715
+ 530       0104   0109      0111  G12  5   XFL  N04E20    6.5E+02 1.3E+03   0715
+
+ 540 +     0241   0252      0306  G12  5   XRA  1-8A      B6.5    7.9E-04   0715
+ 540 +     0245   0255      0255  G12  5   XFL  N03E18    1.1E+03 2.6E+03   0715
+
+ 620       0300   ////      0745  LEA  C   RSP  081-180   CTM/1                 
+
+ 550       0404   0404      0405  LEA  G   RBR  606       80                    
+
+ 630       0421   0505      0529  G12  5   XRA  1-8A      C2.3    7.7E-03       
+
+ 560       0432   0432      0432  LEA  G   RBR  410       78                    
+
+ 570       0436   0439      0439  LEA  G   RBR  410       100                   
+
+ 580       0451   0455      0455  LEA  G   RBR  410       110                   
+ 580       0454   0454      0457  LEA  G   RBR  245       73                    
+
+ 590       0652   0653      0654  LEA  G   RBR  410       96                    
+
+ 600 +     1256   1306      1311  G12  5   XRA  1-8A      C1.2    8.5E-04   0715
+ 600       1257   1300      1302  SVI  U   RBR  606       570               0715
+ 600 +     1259   1259      1302  SVI  G   RBR  245       87                0715
+ 600 +     1259   1259      1300  SVI  G   RBR  410       45                0715
+ 600       1259   1300      1300  SVI  G   RBR  1415      32                0715
+ 600 +     1259   1259      1301  SVI  G   RBR  2695      73                0715
+ 600       1259   1259      1300  SVI  G   RBR  4995      54                0715
+ 600       1259   1259      1259  SVI  G   RBR  8800      22                0715
+ 600 +     1259   ////      1300  SVI  C   RSP  025-082   III/1             0715
+ 600       1259   1307      1309  G12  5   XFL  N03E12    1.3E+03 4.4E+03   0715
+
+ 610 +     1601   1608      1616  G12  5   XRA  1-8A      B5.2    3.9E-04   0717
+ 610       1603   1613      1615  G12  5   XFL  N08W90    1.1E+03 2.4E+03   0717

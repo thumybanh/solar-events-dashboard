@@ -1,0 +1,49 @@
+:Product: 20050314events.txt
+:Created: 2005 Mar 15 1229 UT
+:Date: 2005 03 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Mar 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1210       0201   ////      0201  CUL  C   RSP  30-90     III/1                 
+
+1200 +     0238   0242      0244  G12  5   XRA  1-8A      B3.9    1.1E-04   0741
+1200 +     0240   0240      0240  LEA  G   RBR  245       95                0741
+1200 +     0240   ////      0241  CUL  C   RSP  40-300    III/1             0741
+1200       0241   0243      0243  G12  5   XFL  N14W54    5.0E+02 1.2E+03   0741
+
+1220       0332   0419      0435  G12  5   XRA  1-8A      B6.1    1.8E-03   0742
+1220       0418   0426      0436  LEA  3   FLA  S06W14    SF      PRB       0742
+
+1230 +     0651   0708      0725  G12  5   XRA  1-8A      C1.0    1.7E-03   0741
+1230       0655   0715      0723  G12  5   XFL  N12W60    2.2E+03 6.8E+03   0741
+
+1240 +    B0726   ////     A0836  SVI  3   EPL  ////      0.2     B.9A          
+
+1250       0937   ////      1024  LEA  C   RSP  121-180   CTM/1                 
+
+1260       1155   1155      1155  SAG  G   RBR  245       57                    
+
+1270       1217   1217      1217  SAG  G   RBR  245       100                   
+
+1320       1221   ////      1633  SVI  C   RSP  025-180   CTM/1                 
+
+1310 +     1221   1230     U1633  SVI  G   RNS  245       190                   
+
+1280 +     1259   1304      1310  G12  5   XRA  1-8A      B9.8    4.6E-04   0742
+1280       1302   1304      1310  G12  5   XFL  S02W16    1.0E+03 2.9E+03   0742
+
+1290       1342   1342      1342  SAG  G   RBR  410       52                    
+
+1300       1415   1416      1417  SVI  U   RBR  245       140                   
+1300       1416   1416      1417  SVI  U   RBR  410       79                    
+
+1310       1426   1442      1506  SVI  G   RNS  410       78                    
+
+1330       1500   ////      2119  SAG  C   RSP  108-180   CTM/1                 

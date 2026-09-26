@@ -1,0 +1,29 @@
+:Product: 19990410events.txt
+:Created: 1999 Apr 13 0302 UT
+:Date: 1999 04 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5580 +     0050   0053      0057  GO8  5   XRA  1-8A      B5.1    1.9E-04       
+
+5590 +     0253   0300      0324  GO8  5   XRA  1-8A      B8.1    1.3E-03       
+
+5600       0528   0615      0730  GO8  5   XRA  1-8A      C1.5    8.5E-03   8508
+5600       0604  U0632      0703  SVI  3   FLA  N26E01    SF      ERU       8508
+
+5610       0947   ////      0948  SVI  C   RSP  035-06    III/2                 
+
+5620       1302   ////      1302  SVI  C   RSP  038-05    III/2                 
+
+5630       1442   1444      1447  RAM  4   FLA  N20W11    SF                8508
+
+5640       1524   1524      1531  RAM  4   FLA  N20W11    SF                8508
+
+5650       1931   1934      1936  G10  5   XRA  1-8A      B4.2    1.1E-04       

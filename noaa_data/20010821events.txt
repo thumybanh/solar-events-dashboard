@@ -1,0 +1,68 @@
+:Product: 20010821events.txt
+:Created: 2001 Aug 24 0302 UT
+:Date: 2001 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5800 +     0010   0018      0028  GO8  5   XRA  1-8A      C3.0    2.9E-03       
+
+5810       0156   0200      0206  GO8  5   XRA  1-8A      C1.3    7.8E-04   9585
+5810       0157   0157      0202  LEA  3   FLA  N15E24    SF                9585
+
+5820 +     0331   0337      0346  GO8  5   XRA  1-8A      C1.9    1.5E-03       
+
+5830       0721   0748      0813  GO8  5   XRA  1-8A      C1.6    4.3E-03       
+
+5840 +     0837   0837      0837  SVI  G   RBR  245       110                   
+
+5850       1029   ////      1037  SVI  C   RSP  112-178   III/1                 
+5850 +     1035   1303      1434  GO8  5   XRA  1-8A      C2.7    3.0E-02       
+5850       1036   1038      1041  SAG  U   RBR  410       200                   
+5850 +    U1036  U1036      1037  SVI  G   RBR  245       130                   
+5850 +     1036   1037      1039  SVI  G   RBR  1415      60                    
+5850 +     1036   1037      1040  SVI  G   RBR  2695      110                   
+5850 +     1036   1037      1040  SVI  G   RBR  4995      190                   
+5850 +     1036   1037      1039  SVI  G   RBR  8800      140                   
+5850       1036   1037      1037  SVI  G   RBR  15400     70                    
+
+5860       1039   1039      1040  SVI  U   RBR  410       130                   
+5860       1040   1040      1041  SVI  G   RBR  245       350                   
+
+5850 +    B1053   ////     B1124  RAM  2   BSL  S13E90    0.19    B.9A          
+
+5870       1422   1422      1428  RAM  3   FLA  N15E14    SF      ERU       9585
+
+5880       1752   ////      1752  HOL  C   RSP  025-125   III/1                 
+
+5890       1855   ////      1857  HOL  C   RSP  025-180   III/1                 
+
+5920       2052   2057      2102  GO8  5   XRA  1-8A      C1.9    1.0E-03       
+
+5930       2106   ////      2203  PAL  C   RSP  060-180   II/1    740           
+
+5900 +     2151   2157      2200  GO8  5   XRA  1-8A      M1.5    4.7E-03       
+5900 +     2154   2157      2158  SAG  G   RBR  410       1800                  
+5900       2154   2154      2154  SAG  G   RBR  606       120                   
+5900 +     2154   2155      2156  SAG  G   RBR  4995      120                   
+
+6310 +     2154   ////      2155  PAL  C   RSP  025-180   III/1                 
+
+5900 +     2154   ////      2202  CUL  C   RSP  18-620    II/2                  
+5900 +     2155   2155      2156  SAG  G   RBR  2695      170                   
+5900       2155   2155      2155  SAG  G   RBR  8800      43                    
+5900 +     2155   2155      2157  PAL  G   RBR  1415      69                    
+5900 +     2158   2200      2200  PAL  G   RBR  245       1800                  
+
+5910       2206   2207      2213  SAG  G   RBR  410       77                    
+5910       2206   ////      2203  PAL  C   RSP  060-180   II/1    740           
+
+5940 +     2307   ////      2307  LEA  C   RSP  025-180   III/1                 
+
+5950 +     2344   ////      2344  LEA  C   RSP  025-094   III/1                 

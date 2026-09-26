@@ -1,0 +1,75 @@
+:Product: 19991206events.txt
+:Created: 1999 Dec 09 0302 UT
+:Date: 1999 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9810       0059   ////      0100  PAL  C   RSP  030-05    III/1                 
+
+9820       0101   0101      0107  COM  3   FLA  N11E61    SF                    
+
+9830 +     0232   0236      0243  GO8  5   XRA  1-8A      B9.5    5.2E-04       
+9830       0234   0238      0242  LEA  3   FLA  N11E60    SF                    
+
+9920       0305   ////      0703  COM  C   RSP  30-80     CTM/1                 
+
+9870       0358   0406      0436  LEA  3   FLA  N12E05    SF                8787
+
+9840 +     0412   0418      0424  GO8  5   XRA  1-8A      C3.4    1.7E-03       
+9840       0413   0420      0436  LEA  3   FLA  N11E60    SF                    
+
+9850       0511   0516      0521  G10  5   XRA  1-8A      C1.0    5.4E-04       
+
+70         0555   ////      0555  CUL  C   RSP  18-140    III/2                 
+
+9860       0636   0637      0640  SVI  G   RBR  245       56                    
+
+9880 +     0700   0718      0734  GO8  5   XRA  1-8A      C8.4    1.1E-02   8788
+
+9970       0700   0000      0750       F   RNS  204       15                    
+
+9880 +     0702   ////      0703  LEA  C   RSP  30-80     III/2             8788
+9880       0702   0715      0805  LEA  3   FLA  N10E43    2N      ERU       8788
+9880 +     0703   0705      0724  LEA  G   RBR  2695      350               8788
+9880 +     0703   0704      0714  LEA  G   RBR  4995      220               8788
+9880 +     0704   0705      0711  LEA  G   RBR  1415      95                8788
+9880 +     0704   0704      0705  LEA  G   RBR  8800      59                8788
+9880       0714   0714      0714  SVI  G   RBR  245       73                8788
+
+9910       0756   0758      0801  LEA  3   FLA  N11E57    SF                8790
+
+10         0833   0838      0844  GO8  5   XRA  1-8A      C1.0    6.3E-04       
+
+9930       0908   ////      0934  COM  C   RSP  30-80     III/2                 
+
+20         0940   0951      0957  GO8  5   XRA  1-8A      C1.2    1.0E-03       
+
+9640       1104   1114      1120  GO8  5   XRA  1-8A      B8.0    6.2E-04       
+
+9940       1115   1117      1117  SVI  G   RBR  245       130                   
+
+9950       1355   1355      1356  SAG  G   RBR  245       60                    
+
+9960 +     1359   1403      1407  GO8  5   XRA  1-8A      C1.1    4.5E-04       
+9960       1400   ////      1404  SAG  C   RSP  030-05    V/1                   
+
+9980 +     2004   2004      2005  PAL  G   RBR  245       160                   
+
+80         2018   ////      2018  CUL  C   RSP  20-40     III/1                 
+
+9990 +     2118   2123      2126  GO8  5   XRA  1-8A      C4.7    1.1E-03       
+9990       2121   2121      2124  PAL  G   RBR  245       510                   
+9990 +     2121   ////      2123  CUL  C   RSP  20-340    III/2                 
+
+50   +     2152   2208      2304  GO8  5   XRA  1-8A      C4.9    1.6E-02   8788
+50         2219   2220      2231  HOL  3   FLA  N11E34    SF      ERU       8788
+50         2233   ////      2233  CUL  C   RSP  20-120    III/1             8788
+
+60         2340   ////      2340  LEA  C   RSP  035-07    III/1                 

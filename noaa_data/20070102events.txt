@@ -1,0 +1,29 @@
+:Product: 20070102events.txt
+:Created: 2007 Jan 06 2332 UT
+:Date: 2007 01 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5720 +     0134   0134      0134  PAL  G   RBR  245       150                   
+
+5730       0715   0715      0715  LEA  G   RBR  245       130                   
+
+5740 +     0754   0754      0754  SVI  G   RBR  245       280                   
+5740       0754   ////      0754  SVI  C   RSP  025-037   III/1                 
+
+5750 +     1436   1441      1447  G12  5   XRA  1-8A      B1.2    6.9E-05   0933
+5750       1439   1439      1439  G12  5   XFL  S04E44    1.0E+02 1.8E+02   0933
+
+5760 +     1551   1555      1601  G12  5   XRA  1-8A      B1.4    7.8E-05       
+
+5770 +     1732   1738      1749  G11  5   XRA  1-8A      B1.7    1.5E-04       
+
+5780 +     1859   1904      1907  G12  5   XRA  1-8A      B1.4    5.2E-05   0933
+5780       1906   1906      1906  G12  5   XFL  S04E42    1.3E+02 2.3E+02   0933

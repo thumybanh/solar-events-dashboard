@@ -1,0 +1,67 @@
+:Product: 20010101events.txt
+:Created: 2001 Jan 04 0302 UT
+:Date: 2001 01 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2310 +     0007   0013      0020  GO8  5   XRA  1-8A      C1.2    8.1E-04       
+
+2470       0046   ////      0046  CUL  C   RSP  40-100    III/1                 
+
+2320 +     0118   0121      0127  GO8  5   XRA  1-8A      C1.0    4.5E-04       
+
+2350       0322   0334      0600  LEA  G   RNS  245       68                    
+
+2330       0339   0339      0339  PAL  G   RBR  245       52                    
+
+2340       0347   0349      0352  LEA  3   FLA  N25E45    SF      ERU       9292
+
+2480       0452   ////      0453  CUL  C   RSP  23-180    III/1                 
+
+2360 +     0731   0735      0739  GO8  5   XRA  1-8A      C1.2    4.3E-04   9289
+2360       0735   0735      0738  LEA  3   FLA  S09E13    SF                9289
+
+2370       0933   0951      1009  GO8  5   XRA  1-8A      C1.0    2.1E-03   9283
+2370       0946   0954      1015  LEA  2   FLA  S11W46    SF                9283
+
+2380 +     1252   1257      1301  GO8  5   XRA  1-8A      C1.0    4.9E-04       
+
+2740       1612   1612      1613  SAG  G   RBR  245       75                    
+
+2400       1628   1645      1652  GO8  5   XRA  1-8A      C1.4    1.5E-03   9283
+2400       1641   1643      1659  RAM  3   FLA  S12W52    SF      ERU       9283
+
+2410       1653   1702      1707  GO8  5   XRA  1-8A      C1.7    1.3E-03       
+
+2420       1936   ////      1936  HOL  C   RSP  025-085   III/1                 
+
+2430       1946   ////      1951  HOL  C   RSP  025-083   III/1                 
+
+2750       1954   1954      1955  SAG  G   RBR  245       120                   
+
+2440       1957   ////      1957  HOL  C   RSP  025-085   III/1                 
+
+2760       2003   2004      2005  SAG  G   RBR  245       64                    
+
+2490       2020   ////      2031  CUL  C   RSP  18-180    III/2                 
+
+2500       2041   ////      2041  CUL  C   RSP  20-90     III/1                 
+
+2510       2100   ////      2103  CUL  C   RSP  20-180    III/1                 
+
+2520       2128   ////      2128  CUL  C   RSP  23-100    III/1                 
+
+2450 +     2213   ////      2214  CUL  C   RSP  20-160    III/1                 
+
+2460 +     2225   ////      2231  CUL  C   RSP  18-180    III/2                 
+
+2530 +     2328   ////      2328  CUL  C   RSP  50-160    III/1                 
+
+2540 +     2340   ////      2340  CUL  C   RSP  35-90     III/1                 

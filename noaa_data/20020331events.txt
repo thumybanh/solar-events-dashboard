@@ -1,0 +1,41 @@
+:Product: 20020331events.txt
+:Created: 2002 Apr 03 0300 UT
+:Date: 2002 03 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5860 +     0039   0043      0053  GO8  5   XRA  1-8A      C2.8    2.0E-03       
+
+5870 +     0157   0217      0228  GO8  5   XRA  1-8A      C5.7    5.5E-03       
+5870       0214   ////      0215  LEA  C   RSP  053-152   III/1                 
+
+5880       0934   0935      0939  SVI  3   FLA  N10E22    SF      ERU       9885
+
+5890 +     1005   1010      1015  GO8  5   XRA  1-8A      C2.9    1.3E-03   9885
+5890       1008   1009      1019  SVI  3   FLA  N10E23    SF      ERU       9885
+
+5900 +     1039   1055      1115  GO8  5   XRA  1-8A      M1.0    1.6E-02   9885
+5900 +    B1050  U1102      1149  RAM  3   FLA  N10E21    1F      ERU       9885
+
+5910       1212   ////      1213  SVI  U   RSP  025-050   III/1                 
+
+5920 +     1232   1250      1259  COM  3   FLA  N10E22    SF      ERU       9885
+
+5930       1253   1256      1259  SVI  3   FLA  N12E23    SF                9885
+5930       1253   ////      1253  SVI  C   RSP  025-030   III/1             9885
+
+5940 +     1302   1302      1302  SAG  G   RBR  245       99                    
+
+5950 +     1449   1453      1455  GO8  5   XRA  1-8A      C5.2    1.1E-03   9886
+5950 +     1451   1452      1454  SAG  G   RBR  1415      84                9886
+5950 +     1452   1454      1457  RAM  3   FLA  N12E32    SF                9886
+5950       1453   1453      1453  SVI  G   RBR  606       45                9886
+
+5970 +     1627   ////      1627  HOL  C   RSP  025-088   III/1                 

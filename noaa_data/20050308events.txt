@@ -1,0 +1,40 @@
+:Product: 20050308events.txt
+:Created: 2005 Mar 09 1229 UT
+:Date: 2005 03 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Mar 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 280      B0031   0031      0037  CUL  3   FLA  N13E31    SF                    
+
+ 190       0059   0059      0059  PAL  G   RBR  245       72                    
+
+ 200       0105   0105      0105  PAL  G   RBR  245       57                    
+
+ 210 +     0258   0309      0318  G12  5   XRA  1-8A      B5.4    4.7E-04   0742
+ 210       0304   0315      0315  G12  5   XFL  S12E85    5.5E+02 1.0E+03   0742
+
+ 220       0835   0835      0836  SVI  G   RBR  245       77                    
+
+ 230       0925   0925      0925  SVI  G   RBR  245       65                    
+
+ 240 +     1613   1619      1629  G12  5   XRA  1-8A      B2.6    2.3E-04       
+ 240       1617   1617      1627  G12  5   XFL  N07W30                          
+
+ 250       1721   1729      1739  G12  5   XRA  1-8A      B4.7    4.5E-04   0742
+ 250       1726   1738      1738  G12  5   XFL  S06E63    6.8E+02 1.3E+03   0742
+
+ 260       2029   2043      2052  G12  5   XRA  1-8A      B3.7    4.4E-04   0739
+ 260       2033   2047      2051  G12  5   XFL  S05W90    7.8E+02 1.8E+03   0739
+
+ 270 +     2135   2143      2201  G12  5   XRA  1-8A      B4.7    5.9E-04   0739
+
+ 330       2135   ////      2137  CUL  C   RSP  130-180   III/1                 
+
+ 270       2138   2151      2159  G12  5   XFL  S05W90    9.5E+02 2.3E+03   0739

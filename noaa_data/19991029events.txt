@@ -1,0 +1,86 @@
+:Product: 19991029events.txt
+:Created: 1999 Nov 01 0303 UT
+:Date: 1999 10 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Oct 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7490       0000   0001      0006  LEA  4   FLA  N10E58    SF                8747
+
+7500       0036   0041      0059  G10  5   XRA  1-8A      C1.5    1.9E-03       
+
+7520 +     0111   ////      0120  CUL  C   RSP  18-180    III/2                 
+
+7550 +     0214   0224      0328  LEA  G   RNS  245       290                   
+
+7540       0321   ////      0322  CUL  C   RSP  28-90     III/1                 
+
+7560 +     0534   0534      0544  LEA  3   FLA  S11W44    SF                8739
+
+7570       0554   0554      0621  LEA  3   FLA  S12W41    SF                8739
+
+7580       0617   0618      0626  LEA  3   FLA  N09E54    SF                8747
+
+7600 +     0628   0630      0631  LEA  G   RBR  245       270                   
+
+7630 +     0633   0636      0636  LEA  G   RBR  245       95                    
+
+7610       0643   0644      0645  SVI  U   RBR  245       80                    
+
+7550 +     0644   0646      0846  LEA  G   RNS  245       160                   
+
+7690       0655   0658      0725  LEA  3   FLA  S12W42    SF      ERU       8739
+
+7700       0706   0724      0737  LEA  3   FLA  N10E54    SF                8747
+
+7650       0808   0808      0809  SVI  G   RBR  245       200                   
+
+7660       0812   ////      0812  SVI  C   RSP  35-85     III/1                 
+
+7670       0835   ////      0839  SVI  C   RSP  35-85     III/2                 
+
+7680       0926   ////      1049  SVI  C   RSP  35-85     V/2                   
+7680       0941   0952      0957  LEA  3   FLA  N09E51    SF                8747
+
+7590       1101   1114      1120  G10  5   XRA  1-8A      C2.5    2.5E-03       
+7590       1107   1112      1134  RAM  3   FLA  S11W42    SF      ERU       8739
+
+7710       1107   1109      1112  RAM  3   FLA  N11E50    SF                8747
+
+7640       1124   1128      1132  RAM  3   FLA  N11E52    SF      ERU       8747
+
+7620 +     1225   1231      1236  GO8  5   XRA  1-8A      C2.5    1.3E-03       
+7620       1228   1229      1250  RAM  3   FLA  N11E51    SF                8747
+
+7720 +     1520   1523      1605  RAM  3   FLA  S10W46    SF      ERU       8739
+
+7730       1617   1621      1625  RAM  3   FLA  S09W47    SF                8739
+
+7770       1700   1700      1706  HOL  3   FLA  N11E48    SF                8747
+
+7740 +     1703   1708      1713  GO8  5   XRA  1-8A      C2.1    1.1E-03   8739
+7740 +     1704   1706      1731  RAM  4   FLA  S09W47    SF      ERU       8739
+
+7750       1815   ////      1816  PAL  C   RSP  025-06    III/1                 
+
+7760 +     1820   1824      1829  GO8  5   XRA  1-8A      C1.2    5.6E-04   8739
+7760 +     1823   1823      1829  RAM  4   FLA  S09W49    SF      ERU       8739
+
+7780       1847   1849      1851  HOL  3   FLA  N11E48    SF                8747
+
+7790       1924   ////      1925  PAL  C   RSP  025-06    III/1                 
+
+7800 +     2004   2012      2018  GO8  5   XRA  1-8A      C1.6    1.1E-03   8747
+7800       2008   2013      2018  HOL  3   FLA  N11E46    SF                8747
+
+7810       2031   2033      2038  HOL  3   FLA  N11E47    SF                8747
+
+7820      B2212   2242      2250  LEA  3   FLA  N07E42    SF                8747
+
+7830       2345   2346      2347  LEA  G   RBR  245       67                    

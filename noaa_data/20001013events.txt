@@ -1,0 +1,42 @@
+:Product: 20001013events.txt
+:Created: 2000 Oct 16 0302 UT
+:Date: 2000 10 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6690       0414   0419      0439  LEA  3   FLA  S35W54    SF                9196
+
+6630       0435   0446      0448  LEA  3   FLA  N12W73    SF                9195
+
+6640       0506   0513      0517  LEA  3   FLA  N13W71    SF                9195
+
+6650       0519   0522      0525  LEA  3   FLA  N05W67    SF                9182
+
+6660       0540   0545      0556  LEA  3   FLA  N13W72    SF                9195
+
+6670       0602   0619      0655  LEA  3   FLA  N11W74    2N      BPT       9195
+6670 +     0614   0620      0625  GO8  5   XRA  1-8A      C6.2    2.6E-03   9195
+
+6780      A0929   ////      2256  LEA  3   DSF  N12W35    04      B.0A          
+
+6680 +     1008   1015      1025  GO8  5   XRA  1-8A      C2.1    1.8E-03       
+
+6700 +     1251   1251      1251  SVI  G   RBR  245       64                    
+
+6710       1442   1443      1447  SAG  G   RBR  8800      50                    
+6710       1443   1444      1445  SAG  G   RBR  15400     59                    
+
+6720       1809   1812      1816  RAM  3   FLA  N13W78    SF                9195
+
+6730       1840   1842      1845  RAM  3   FLA  N14W78    SF                9195
+
+6740       1914   1918      1927  RAM  3   FLA  N04W74    SF                9182
+
+6750 +     2340   2344      2346  GO8  5   XRA  1-8A      C1.8    5.7E-04       

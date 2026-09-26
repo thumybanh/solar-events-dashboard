@@ -1,0 +1,33 @@
+:Product: 20040512events.txt
+:Created: 2004 May 15 0302 UT
+:Date: 2004 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8500 +     0314   0327      0332  G12  5   XRA  1-8A      B1.2    1.2E-04   0608
+8500       0319   0326      0327  G12  5   XFL  S03E36    5.0E+01 8.4E+01   0608
+
+8510 +     0842   0852      0912  G12  5   XRA  1-8A      B2.3    3.4E-04   0609
+8510       0845   0858      0911  G12  5   XFL  S01E45    2.5E+02 5.0E+02   0609
+
+8540       1249   1309      1336  G12  5   XRA  1-8A      B2.2    4.9E-04   0606
+
+8520 +     1537   1543      1557  G12  5   XRA  1-8A      C1.3    9.9E-04   0609
+8520       1540   1550      1556  G12  5   XFL  S01E41    1.8E+03 6.4E+03   0609
+8520 +     1542   1542      1543  SAG  G   RBR  410       230               0609
+8520 +     1542   1543      1543  SAG  G   RBR  606       100               0609
+8520 +     1542   1543      1543  SAG  G   RBR  1415      48                0609
+8520 +     1542   1543      1543  SAG  G   RBR  2695      47                0609
+8520       1542   1543      1549  HOL  3   FLA  S01E40    SF      ERU       0609
+8520 +     1543   1543      1543  SAG  G   RBR  4995      21                0609
+8520 +     1544   ////      1547  HOL  C   RSP  025-120   III/1             0609
+
+8530 +     2310   2315      2320  G12  5   XRA  1-8A      B4.0    1.7E-04   0609
+8530       2313   2316      2319  G12  5   XFL  S02E37    8.8E+02 2.3E+03   0609

@@ -1,0 +1,30 @@
+:Product: 20050625events.txt
+:Created: 2005 Jun 26 1229 UT
+:Date: 2005 06 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jun 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7750      A0028   ////     B1347  HOL  3   DSF  S26E47    35      B.0A          
+
+7760      A0028   ////     B1347  HOL  3   DSF  N33W53    21      B.0A          
+
+7720 +     0331   0346      0353  G12  5   XRA  1-8A      C1.3    9.3E-04   0780
+
+7740 +    A0335   ////     B0349  LEA  3   DSF  S09W32    05      B.9A      0780
+
+7720       0337   0349      0351  G12  5   XFL  S09W33    1.9E+03 7.0E+03   0780
+7720 +     0340   0345      0359  LEA  3   FLA  S08W38    SF      YSR       0780
+
+7730 +     0400   0404      0406  G12  5   XRA  1-8A      B4.3    1.3E-04   0780
+7730       0403   0405      0405  G12  5   XFL  S09W33    5.8E+02 1.2E+03   0780
+
+7770       0924   ////      1402  SVI  3   DSF  S10E31    09      B.0A          
+
+7780 +     2028   ////      2029  PAL  C   RSP  025-062   III/1                 

@@ -1,0 +1,64 @@
+:Product: 20020514events.txt
+:Created: 2002 May 17 0300 UT
+:Date: 2002 05 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8390 +     0057   ////      0102  LEA  C   RSP  025-180   III/1                 
+
+8400 +     0345   0350      0356  GO8  5   XRA  1-8A      C3.6    1.8E-03       
+
+8410 +     0441   ////      0443  CUL  C   RSP  57-150    III/1                 
+
+8550       0453   0504      0516  GO8  5   XRA  1-8A      C1.9    2.4E-03       
+
+8420 +     0524   ////      0747  LEA  C   RSP  074-180   CTM/1                 
+
+8560       0524   ////      0525  CUL  C   RSP  57-170    III/1                 
+
+8620       0539   0603      0609  GO8  5   XRA  1-8A      C2.2    3.4E-03       
+
+8420 +     0618   ////      0618  CUL  C   RSP  57-170    III/1                 
+
+8580       0628   ////      0628  CUL  C   RSP  57-170    III/1                 
+
+8590       0655   ////      0655  CUL  C   RSP  57-140    III/1                 
+
+8430       0726   ////      0727  SVI  C   RSP  025-056   III/1                 
+
+8440       0738   ////      0746  SVI  C   RSP  040-075   II/1    543           
+
+8450 +     0747   ////      0824  LEA  C   RSP  057-180   IV/1                  
+
+8460 +     0825   0825      0825  SVI  G   RBR  245       69                    
+
+8470 +     0932   0948      0959  GO8  5   XRA  1-8A      C3.2    4.1E-03   9948
+8470       0934   0939      1002  SVI  3   FLA  S24E35    SF      ERU       9948
+
+8480       1114   ////      1114  SVI  C   RSP  025-180   III/1                 
+
+8490 +     1258   1303      1320  GO8  5   XRA  1-8A      C4.2    4.3E-03       
+8490 +     1319   ////      1321  SVI  C   RSP  025-180   III/1                 
+
+8500       1343   ////      1345  SVI  C   RSP  025-079   III/1                 
+
+8510 +     1546   1549      1553  RAM  3   FLA  S22E31    SF      DSD       9948
+
+8520       1842   1842      1842  SAG  G   RBR  606       250               9948
+8520       1842   1842      1842  SAG  G   RBR  2695      73                9948
+8520 +     1842   1843      1853  HOL  3   FLA  S25E26    SF      ERU       9948
+
+8600       2310   ////      2310  CUL  C   RSP  57-140    III/1                 
+
+8530       2323   ////      2325  LEA  C   RSP  060-147   III/1                 
+
+8540 +     2339   ////      2340  HOL  C   RSP  025-081   III/1                 
+
+8610       2353   ////      2354  LEA  C   RSP  062-180   III/1                 

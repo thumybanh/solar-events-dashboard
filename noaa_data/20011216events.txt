@@ -1,0 +1,42 @@
+:Product: 20011216events.txt
+:Created: 2005 Jul 27 2016 UT
+:Date: 2001 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2210 +     0114   0124      0129  GO8  5   XRA  1-8A      M1.5    7.9E-03   9733
+2210       0114   0121      0229  LEA  4   FLA  N15W23    2N      ERU       9733
+
+2220       0130   ////      0221  LEA  4   EPL  ////      0.16    B.0A          
+
+2230 +     0309   0328      0348  GO8  5   XRA  1-8A      M1.0    1.5E-02   9733
+2230       0317   0328      0440  LEA  3   FLA  N13W26    1F      ERU       9733
+
+2240       0404   0407      0410  LEA  3   FLA  N10E75    SF                9742
+
+2250       0434   0435      0443  LEA  3   FLA  N08E78    SF      ERU       9742
+
+2260       0531   0534      0536  LEA  4   FLA  N11E79    SF      ERU       9742
+
+2270 +     0733   0743      0757  GO8  5   XRA  1-8A      C8.5    9.6E-03   9733
+2270       0735   0741      0816  LEA  2   FLA  N13W29    SF      ERU       9733
+2270       0736   0736      0737  LEA  G   RBR  4995      51                9733
+
+2320       1043   1111      1119  GO8  5   XRA  1-8A      C2.7    4.5E-03       
+
+2280 +     1415   1424      1434  GO8  5   XRA  1-8A      C3.2    3.0E-03   9743
+
+2290       1435   1437      1441  RAM  3   FLA  S12E81    SF                9743
+
+2300       1850   1850      1850  SAG  G   RBR  245       68                    
+
+2310       1856   1858      1920  HOL  3   FLA  N11E70    SF                9742
+
+2330 +    A1932   ////     B1858  HOL  3   DSF  S17W23    15      B.0A      9739

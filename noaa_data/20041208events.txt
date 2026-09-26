@@ -1,0 +1,26 @@
+:Product: 20041208events.txt
+:Created: 2004 Dec 11 0302 UT
+:Date: 2004 12 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Dec 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7400 +     0354   0414      0431  G12  5   XRA  1-8A      C1.0    1.5E-03       
+7400       0357   0422      0430  G12  5   XFL  S07E60    2.4E+03 5.1E+03       
+
+7440      A0908   ////     B2223  LEA  3   DSF  N06E04    08      B.0A          
+
+7410       1917   ////      1942  HOL  3   DSF  N01W07    14      B.0A      0709
+7410 +     1934   1959      2044  G12  5   XRA  1-8A      C2.5    7.4E-03   0709
+7410       1937   2013      2043  G12  5   XFL  N08W03    5.5E+03 1.4E+04   0709
+7410 +     1942   1944      2010  HOL  3   FLA  N05W03    SF      ERU       0709
+7410       1945   ////      2004  PAL  C   RSP  025-085   II/1    808       0709
+7410       2006   2006      2006  PAL  G   RBR  606       200               0709
+7410       2032   2032      2032  PAL  G   RBR  245       51                0709
+7410       2032   2033      2033  PAL  G   RBR  410       56                0709

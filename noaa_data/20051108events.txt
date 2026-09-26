@@ -1,0 +1,17 @@
+:Product: 20051108events.txt
+:Created: 2005 Nov 11 0329 UT
+:Date: 2005 11 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Nov 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2350 +     0225   0237      0254  G12  5   XRA  1-8A      B2.4    3.1E-04   0820
+2350       0232   0236      0252  G12  5   XFL  S49E90    1.8E+02 1.3E+03   0820
+
+2360       0929   ////      0930  SVI  C   RSP  025-083   III/1                 

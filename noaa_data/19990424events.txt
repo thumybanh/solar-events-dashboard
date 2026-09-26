@@ -1,0 +1,28 @@
+:Product: 19990424events.txt
+:Created: 1999 Apr 27 0302 UT
+:Date: 1999 04 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7370 +     0454   ////      2313  COM  C   RSP  035-08    CTM/2                 
+
+7300 +     0547   0556      0600  GO8  5   XRA  1-8A      B2.2    1.5E-04       
+
+7310 +     1103   1106      1108  GO8  5   XRA  1-8A      B2.0    5.2E-05       
+
+7330 +     1411   1415      1419  GO8  5   XRA  1-8A      B3.1    1.2E-04   8522
+7330       1414   1415      1422  RAM  3   FLA  N17E58    SF                8522
+
+7340       1814   1814      1826  RAM  3   FLA  N16E55    SF                8522
+7340 +     1817   1823      1829  GO8  5   XRA  1-8A      B3.4    2.1E-04   8522
+
+7350       1851   1852      1857  HOL  3   FLA  N16E56    SF                8522
+
+7360       1910   1912      1917  HOL  3   FLA  N16E53    SF                8522

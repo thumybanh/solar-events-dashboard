@@ -1,0 +1,79 @@
+:Product: 20001014events.txt
+:Created: 2000 Oct 17 0302 UT
+:Date: 2000 10 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6760 +     0038   ////      0040  LEA  C   RSP  025-180   III/1                 
+
+6770 +     0042   0042      0043  LEA  G   RBR  245       130                   
+6770 +     0042   0042      0042  LEA  G   RBR  410       57                    
+
+6800 +     0115   0135      0154  GO8  5   XRA  1-8A      C3.3    5.5E-03   9197
+6800 +     0116   ////      0117  LEA  C   RSP  025-115   III/1             9197
+6800       0117   0144      0225  LEA  3   FLA  N20E59    SF      PRB       9197
+
+6810       0217   0220      0230  LEA  3   FLA  S12E48    SF      ERU       9194
+6810 +     0225   0231      0235  GO8  5   XRA  1-8A      C2.7    1.4E-03   9194
+
+6820 +     0340   0340      0340  LEA  G   RBR  245       240                   
+
+6830 +     0421   0426      0430  GO8  5   XRA  1-8A      C3.3    1.3E-03       
+
+6840       0448   0449      0449  LEA  G   RBR  245       85                    
+
+6850       0540   0545      0553  G10  5   XRA  1-8A      C1.8    1.3E-03       
+
+6860 +     0701   0705      0711  GO8  5   XRA  1-8A      C2.8    1.5E-03   9182
+6860       0704   0709      0713  LEA  3   FLA  N02W80    SF                9182
+
+6870       0736   0741      0749  LEA  3   FLA  S13E44    SF      ERU       9194
+
+6880 +     0757   0801      0807  GO8  5   XRA  1-8A      C2.4    1.3E-03       
+
+6950       0821   0822      0832  LEA  3   FLA  N09W36    SF      ERU       9193
+
+6890       0831   0840      0907  GO8  5   XRA  1-8A      M1.1    1.6E-02   9182
+6890       0835   0837      0905  LEA  3   FLA  N04W82    SF                9182
+6890       0836   0837      0837  LEA  G   RBR  4995      30                9182
+
+6900 +     1030   1053      1059  GO8  5   XRA  1-8A      C8.7    6.6E-03   9187
+6900       1050   1052      1103  RAM  3   FLA  N14W81    SF                9187
+
+6940       1140   1140      1145  RAM  3   FLA  S14E40    SF      ERU       9194
+
+6910       1141   1143      1145  RAM  3   FLA  N07W80    SF                9182
+
+6920 +     1153   1205      1214  GO8  5   XRA  1-8A      C8.4    7.6E-03   9182
+6920 +     1156   1159      1220  RAM  3   FLA  N08W81    SF      ERU       9182
+
+6930 +     1241   1248      1254  GO8  5   XRA  1-8A      C4.1    2.7E-03   9194
+6930       1246   1249      1253  RAM  3   FLA  S14E40    SF      ERU       9194
+
+6970 +     1403   1412      1429  GO8  5   XRA  1-8A      C3.9    5.0E-03   9194
+6970 +     1405   1409      1439  HOL  3   FLA  S11E40    SF                9194
+
+6980       1727   1741      1752  GO8  5   XRA  1-8A      C1.7    2.3E-03   9198
+6980 +     1733   1734      1744  RAM  3   FLA  S34E64    SF                9198
+
+6990 +     1751   1754      1803  RAM  3   FLA  S35E70    SF                9198
+
+7000       1825   1825      1830  RAM  3   FLA  S35E69    SF                9198
+
+7010       2021   2022      2027  HOL  3   FLA  S15W36    SF                9192
+
+7020       2027   2034      2036  RAM  3   FLA  S12W38    SF                9192
+
+7130      A2055   ////      1120  RAM  3   DSF  S13E05    06      B.0A      9190
+
+7140      A2055   ////      1124  RAM  3   DSF  N25W31    07      B.0A          
+
+7030 +     2247   2254      2258  GO8  5   XRA  1-8A      C3.9    1.8E-03   9198
+7030      B2250  U2255     A2309  HOL  3   FLA  S30E72    SF                9198

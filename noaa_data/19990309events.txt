@@ -1,0 +1,67 @@
+:Product: 19990309events.txt
+:Created: 1999 Mar 12 0302 UT
+:Date: 1999 03 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9500       0002   0005      0016  HOL  3   FLA  S19W30    SF                8483
+
+9510 +     0043   0046      0048  GO8  5   XRA  1-8A      B7.1    1.8E-04       
+
+9520 +     0347   0353      0359  GO8  5   XRA  1-8A      C1.6    8.4E-04       
+
+9530 +     0410   0413      0415  GO8  5   XRA  1-8A      B8.3    2.1E-04       
+
+9540       0533   0537      0540  G10  5   XRA  1-8A      B8.9    2.6E-04       
+
+9550       0542   ////      0543  LEA  C   RSP  031-05    III/2                 
+
+9700       0547   ////      0547  CUL  C   RSP  23-60     III/1                 
+
+9560 +     1054   1059      1106  GO8  5   XRA  1-8A      B7.0    4.2E-04       
+
+9570       1553   1553      1554  SAG  G   RBR  245       74                    
+9570       1553   ////      1555  SAG  C   RSP  030-06    III/1                 
+
+9640       1644   ////      1644  SAG  C   RSP  030-06    III/1                 
+
+9580 +     1744   1826      1841  HOL  3   FLA  S26E71    1F                8484
+
+9620 +     1750   1750      1750  SAG  G   RBR  245       840                   
+
+9610       1815   1818      1825  HOL  3   FLA  N20E57    SF                8485
+
+9580 +     1823   1830      1834  G10  5   XRA  1-8A      C2.0    9.7E-04   8485
+9580 +     1826   1826      1827  SAG  G   RBR  245       1000              8484
+9580 +     1826   1827      1827  SAG  G   RBR  410       100               8484
+
+9630 +     1832   1832      1833  SAG  G   RBR  245       550                   
+
+9590       1837   1837      1837  SAG  G   RBR  410       280                   
+9590       1837   1837      1837  PAL  G   RBR  245       780                   
+
+9600 +     1841   1843      1844  SAG  G   RBR  245       250               8484
+9600       1843   1847      1855  HOL  3   FLA  S24E69    SF      DSD       8484
+9600       1843   ////      1849  HOL  3   BSL  S25E64    0.19    B.9A      8484
+
+9650 +     1944   ////      1944  SAG  C   RSP  030-06    III/1                 
+
+9660 +     2004   2010      2015  GO8  5   XRA  1-8A      C1.1    6.2E-04   8484
+9660       2005   2012      2014  SAG  G   RBR  245       56                8484
+9660 +     2006   2007      2009  PAL  G   RBR  410       97                8484
+9660       2007   2010      2030  HOL  3   FLA  S24E68    SF                8484
+
+9670       2140   2147      2159  HOL  3   FLA  S24E68    SF                8484
+9670       2155   ////      2155  CUL  C   RSP  100-18    III/1             8484
+
+9680 +     2245   2257      2303  GO8  5   XRA  1-8A      C3.2    2.1E-03   8484
+9680 +     2247   2254      2322  HOL  3   FLA  S24E66    1F      UMB       8484
+
+9690 +     2323   2327      2335  GO8  5   XRA  1-8A      B8.5    5.4E-04       

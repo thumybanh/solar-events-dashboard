@@ -1,0 +1,73 @@
+:Product: 20020507events.txt
+:Created: 2002 May 10 0300 UT
+:Date: 2002 05 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6100       0000   ////      0000  CUL  C   RSP  57-1300   IV/2                  
+6100      B0002   ////     A0259  LEA  3   EPL  S39W90    0.18    B.9A          
+6100       0004   0004      0005  LEA  G   RBR  606       50                    
+
+6310       0333   ////      0340  CUL  C   RSP  57-90     III/1                 
+
+6110 +     0337   0346      0407  GO8  5   XRA  1-8A      M1.4    1.7E-02       
+6110       0341   ////      0348  CUL  C   RSP  57-420    III/2                 
+6110 +     0341   ////      0000  CUL  C   RSP  57-1400   IV/2              9937
+6110       0355   0401      0416  PAL  G   RBR  15400     78                    
+6110 +     0355   ////      0938  LEA  C   RSP  025-180   CTM/1                 
+6110 +     0358   0402      0410  LEA  G   RBR  2695      140                   
+6110 +     0358   0407      0430  LEA  G   RBR  245       1400                  
+6110 +     0358   0413      0431  LEA  G   RBR  410       210                   
+6110 +     0358   0403      0431  LEA  G   RBR  1415      200                   
+6110 +     0358   0403      0431  LEA  G   RBR  4995      93                    
+6110 +     0359   0406      0432  LEA  G   RBR  606       490                   
+6110 +     0359   0402      0431  LEA  G   RBR  8800      61                    
+
+6210       0408   ////      1456  SVI  C   RSP  025-180   CTM/1                 
+
+6120       0425   0428      0429  SVI  G   RBR  245       71                    
+
+6130       0529   0529      0529  LEA  G   RBR  245       56                    
+
+6170 +     0535   0615      0938  LEA  G   RNS  245       140                   
+6170 +     0600   0000      1200  IZM  F   RNS  204       45                    
+
+6140 +     0800   0804      0808  GO8  5   XRA  1-8A      C1.4    5.7E-04       
+
+6150 +     0846   0852      0855  GO8  5   XRA  1-8A      C2.8    1.1E-03       
+
+6160       0939   0939      0941  SVI  U   RBR  245       580                   
+
+6240       1048   1232      1346  SAG  G   RNS  245       200                   
+
+6180 +     1237   1242      1247  GO8  5   XRA  1-8A      C1.9    9.1E-04       
+
+6300       1251   1307      1314  SVI  U   RNS  410       100                   
+
+6190       1354   1358      1404  G10  5   XRA  1-8A      C1.1    6.4E-04       
+
+6200       1517   1517      1517  SAG  G   RBR  410       59                    
+
+6220       1715   1715      1715  SAG  G   RBR  245       62                    
+
+6230       1815   1848      1907  GO8  5   XRA  1-8A      C1.1    3.0E-03   9943
+6230 +     1841   1843      1847  HOL  3   FLA  S12E42    SF      ERU       9943
+
+6290       1904   1904      1904  SAG  G   RBR  245       67                    
+
+6250       2106   ////      2107  HOL  C   RSP  025-064   III/1                 
+
+6260       2114   2114      2114  PAL  G   RBR  245       59                    
+
+6270       2205   2205      2205  SAG  G   RBR  245       51                    
+6270       2205   2207      2207  SAG  G   RNS  245       58                    
+
+6280       2233   2245      2254  GO8  5   XRA  1-8A      C1.6    1.5E-03   9935
+6280       2241   2241      2252  HOL  3   FLA  S21W35    SF                9935

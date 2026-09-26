@@ -1,0 +1,24 @@
+:Product: 19990203events.txt
+:Created: 1999 Feb 06 0302 UT
+:Date: 1999 02 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Feb 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2170 +     0139   0152      0159  GO8  5   XRA  1-8A      C1.1    1.1E-03       
+
+2180       0745   ////      0922  SVI  C   RSP  035-05    CTM/1                 
+
+2190 +     0913   ////      0914  SVI  C   RSP  066-08    III/1                 
+
+2210       1201   ////      1440  SVI  C   RSP  035-05    CTM/1                 
+
+2200 +     1413   ////      1547  RAM  3   EPL  N60W90    0.21    B.6A          
+
+2220      B1424   ////      1547  SVI  3   EPL  N61W90    0.19    B.6A          

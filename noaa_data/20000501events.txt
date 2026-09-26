@@ -1,0 +1,95 @@
+:Product: 20000501events.txt
+:Created: 2000 May 04 0302 UT
+:Date: 2000 05 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5300       0039   ////      0045  LEA  C   RSP  030-05    III/1                 
+
+5330       0048   ////      0054  LEA  C   RSP  030-04    III/1                 
+
+5310       0057   0058      0058  LEA  G   RBR  245       120                   
+
+5340       0148   0148      0148  LEA  G   RBR  245       98                    
+
+5350       0156   ////      0159  LEA  C   RSP  030-08    V/1                   
+
+5360 +     0209   0212      0218  GO8  5   XRA  1-8A      B7.5    3.6E-04   8976
+5360       0211   0211      0215  LEA  2   FLA  S13W28    SF                8976
+
+5370 +     0221   0226      0231  GO8  5   XRA  1-8A      C1.4    6.7E-04       
+5370       0231   0231      0231  PAL  G   RBR  245       77                    
+
+5380       0259   ////      0300  LEA  C   RSP  030-05    III/1                 
+
+5390       0302   0302      0304  LEA  G   RBR  245       140                   
+
+5420       0311   ////      0312  LEA  C   RSP  030-08    III/2                 
+
+5430       0326   0326      0326  PAL  G   RBR  245       130                   
+
+5440       0355   ////      0357  LEA  C   RSP  030-04    III/1                 
+
+5470 +     0358   0437      0446  LEA  G   RNS  245       100                   
+
+5450       0436   0437      0437  SVI  U   RBR  245       85                    
+
+5460       0443   0445      0446  SVI  G   RBR  245       250                   
+
+5480       0541   ////      0541  LEA  C   RSP  030-05    III/2                 
+
+5490       0644   ////      0645  LEA  C   RSP  030-04    III/1                 
+
+5510 +     0835   ////      0840  SVI  C   RSP  035-08    III/2                 
+
+5520 +     1016   1027      1034  GO8  5   XRA  1-8A      M1.1    7.5E-03       
+5520       1017   1021      1025  SAG  U   RBR  606       32                    
+5520       1018   1021      1025  SAG  U   RBR  410       53                    
+5520       1018   1021      1025  SAG  U   RBR  15400     750                   
+5520       1019   1020      1023  SAG  U   RBR  245       130                   
+5520       1019   ////      1022  SAG  C   RSP  030-08    III/2                 
+5520       1021   1021      1022  SAG  U   RBR  1415      39                    
+5520 +     1026   1028      1032  SAG  U   RBR  2695      29                    
+5520 +     1026   1028      1034  SAG  U   RBR  4995      61                    
+5520 +     1027   1028      1034  SAG  U   RBR  8800      52                    
+
+5530       1057   ////      1058  SAG  C   RSP  030-06    III/1                 
+5530 +     1058   1102      1104  GO8  5   XRA  1-8A      C1.0    3.0E-04       
+
+5540       1144   ////      1144  SAG  C   RSP  030-04    III/1                 
+
+5500 +     1210   ////      1723  SVI  C   RSP  035-08    CTM/1                 
+
+5550 +     1253   1301      1308  GO8  5   XRA  1-8A      C1.3    9.1E-04       
+
+5560 +     1311   1311      1311  SVI  G   RBR  245       2000                  
+
+5570 +     1442   1442      1443  SAG  G   RBR  245       52                    
+
+5580       1549   ////      1550  SAG  C   RSP  030-06    III/1                 
+
+5590       1605   1605      1605  SVI  G   RBR  245       50                    
+
+5600       1611   1611      1612  SVI  G   RBR  245       50                    
+
+5620       1722   1722      1725  SAG  G   RBR  245       110                   
+
+5630 +     1737   1737      1737  SAG  G   RBR  245       71                    
+
+5640       1804   ////      1806  SAG  C   RSP  030-08    III/1                 
+
+5650 +     1836   1836      1836  SAG  G   RBR  245       54                    
+
+5660 +     2042   2042      2042  PAL  G   RBR  245       280                   
+
+5670 +     2126   2126      2128  SAG  G   RBR  245       120                   
+
+5680       2235   ////      2235  CUL  C   RSP  60-360    III/1                 
+5680 +     2235   2235      2236  PAL  G   RBR  245       1200                  

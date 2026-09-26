@@ -1,0 +1,58 @@
+:Product: 20020210events.txt
+:Created: 2002 Feb 13 0300 UT
+:Date: 2002 02 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Feb 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4230       0009   0025      0036  GO8  5   XRA  1-8A      C2.8    4.4E-03       
+
+4240       0108   0115      0119  GO8  5   XRA  1-8A      C1.9    1.1E-03   9821
+4240       0113   0115      0118  LEA  3   FLA  S14E01    SF      ERU       9821
+
+4250       0200   0217      0224  GO8  5   XRA  1-8A      C1.3    1.8E-03       
+4250       0200   ////      0200  CUL  C   RSP  100-310   III/1                 
+
+4260       0533   0542      0549  GO8  5   XRA  1-8A      C1.2    1.1E-03       
+
+4270       0559   0559      0559  LEA  G   RBR  410       53                    
+
+4280 +     0755   ////      0918  LEA  C   RSP  119-180   CTM/1                 
+
+4290       1159   1159      1159  SVI  G   RBR  245       57                    
+
+4300       1247   1249      1255  SVI  3   FLA  S25W12    SF      ERU       9811
+
+4310 +     1605   1606      1610  HOL  3   FLA  S28W14    SF                9811
+
+4320 +     1729   1732      1739  HOL  3   FLA  S12W08    SF      ERU       9821
+
+4330 +     1840   1848      1853  GO8  5   XRA  1-8A      M1.6    6.9E-03   9811
+4330       1843   1843      1843  SAG  G   RBR  1415      24                9811
+4330 +     1843   1843      1845  SAG  G   RBR  2695      64                9811
+4330 +     1843   1844      1850  SAG  G   RBR  4995      200               9811
+4330 +     1843   1843      1845  SAG  G   RBR  8800      100               9811
+4330 +     1844   1848      1956  HOL  3   FLA  S25W15    2F      ERU       9811
+
+4340       1856   ////      1857  HOL  C   RSP  025-180   III/1                 
+
+4350 +     1918   1928      1959  GO8  5   XRA  1-8A      C5.5    1.1E-02   9825
+4350 +     1919   1923      1952  HOL  3   FLA  N08E52    1F                9825
+
+4360 +     2008   2011      2019  HOL  3   FLA  S13W10    SF                9821
+
+4380       2049   ////      2050  CUL  C   RSP  57-110    III/2                 
+
+4390       2110   ////      2254  CUL  C   RSP  57-130    CTM/1                 
+
+4530      A2145   ////     B1130  RAM  3   DSF  S40E48    08      B.0A          
+
+4370 +     2343   2347      2351  GO8  5   XRA  1-8A      C1.8    7.3E-04   9821
+4370       2346   2347      2349  LEA  3   FLA  S14W12    SF                9821
+4370       2346   2347      2352  HOL  3   FLA  S14W12    SF      ERU       9821

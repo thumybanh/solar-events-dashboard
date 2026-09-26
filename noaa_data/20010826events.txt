@@ -1,0 +1,67 @@
+:Product: 20010826events.txt
+:Created: 2001 Aug 29 0302 UT
+:Date: 2001 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7150       0100   0114      0116  GO8  5   XRA  1-8A      C2.5    2.1E-03   9587
+7150       0110   0113      0117  LEA  2   FLA  S09W52    SF                9587
+
+7170 +     0520   ////      0521  LEA  C   RSP  025-180   III/1                 
+
+7180       0608   0611      0615  GO8  5   XRA  1-8A      C2.2    8.7E-04   9591
+7180 +     0610   0610      0614  LEA  2   FLA  S19E21    SF      ERU       9591
+
+7190 +     0715   ////      0716  LEA  C   RSP  025-180   III/2                 
+
+7200       0912   0921      0935  SVI  3   FLA  S18E21    SF      ERU       9591
+7200 +     0916   0920      0925  GO8  5   XRA  1-8A      C3.4    1.6E-03   9591
+
+7210 +     1002   1007      1016  GO8  5   XRA  1-8A      C6.1    4.2E-03   9591
+7210       1004   1007      1030  SVI  3   FLA  S19E16    SF      DSD       9591
+
+7220       1100   1100      1100  SAG  G   RBR  606       210                   
+
+7230       1120   1122      1126  RAM  3   FLA  S16E29    SF                9591
+
+7240       1206   1306      1323  GO8  5   XRA  1-8A      M1.3    2.8E-02       
+
+7250 +     1405   1411      1423  HOL  3   FLA  S22E27    SF      ERU       9591
+7250 +     1410   1413      1415  GO8  5   XRA  1-8A      C4.0    1.1E-03   9591
+
+7260 +     1427   ////      1431  HOL  C   RSP  025-054   III/1                 
+
+7270 +     1450   ////      1451  SVI  C   RSP  025-061   III/1                 
+
+7280 +     1523   ////      1523  HOL  C   RSP  025-087   III/1                 
+
+7290       1728   1730      1733  HOL  3   FLA  S20E23    SF                9591
+
+7300       1742   1743      1747  HOL  3   FLA  S17E26    SF                9591
+
+7310       1812   1812      1819  HOL  3   FLA  S20E24    SF                9591
+
+7320       1936   1937      1943  HOL  3   FLA  S22E24    SF                9591
+
+7330       2007   2007      2007  SAG  G   RBR  410       57                    
+
+7340 +     2011   2015      2023  GO8  5   XRA  1-8A      C2.4    1.5E-03   9591
+7340       2013   2015      2055  HOL  3   FLA  S22E23    SF                9591
+
+7350 +     2039   2100      2112  GO8  5   XRA  1-8A      C5.7    7.6E-03   9591
+7350       2100   2100      2107  HOL  3   FLA  S21E23    SF                9591
+
+7360       2119   2126      2130  HOL  3   FLA  S17E21    SF                9591
+
+7370       2223   2224      2228  HOL  3   FLA  S18E20    SF                9591
+
+7380       2234   2236      2240  HOL  3   FLA  S21E23    SF                9591
+
+7390       2357   ////      2357  LEA  C   RSP  038-084   III/1                 

@@ -1,0 +1,45 @@
+:Product: 20040711events.txt
+:Created: 2004 Jul 14 0302 UT
+:Date: 2004 07 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jul 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7600 +     0603   0753      0834  G12  5   XRA  1-8A      C3.6    2.1E-02       
+7600       0606   0830      0833  G12  5   XFL  S11E90    1.0E+04 2.8E+04       
+7600 +     0737   0738      0738  SVI  G   RBR  4995      110                   
+7600       0738   0738      0738  SVI  G   RBR  2695      49                    
+7600       0738   0738      0738  SVI  G   RBR  8800      46                    
+
+7620 +     0937   0944      0951  G12  5   XRA  1-8A      C4.2    2.7E-03       
+7620       0940   0948      0950  G12  5   XFL  S11E90    1.0E+04 3.1E+04       
+
+7630       1017   1029      1046  G12  5   XRA  1-8A      C2.4    3.8E-03       
+
+7640       1316   1335      1350  G12  5   XRA  1-8A      C4.2    6.2E-03       
+
+7650       1503   1508      1511  G10  5   XRA  1-8A      B8.9    3.7E-04       
+
+7660 +     1649   1658      1706  G12  5   XRA  1-8A      C2.8    2.1E-03       
+7660       1652   1704      1704  G12  5   XFL  S12E90    7.8E+03 2.2E+04       
+
+7670 +     1724   1734      1741  G12  5   XRA  1-8A      C3.3    2.4E-03       
+7670       1727   1738      1740  G12  5   XFL  S12E87    8.1E+03 2.1E+04       
+
+7680 +     1940   1950      1958  G12  5   XRA  1-8A      C3.2    2.5E-03       
+7680       1943   1954      1957  G12  5   XFL  S12E90    9.2E+03 2.4E+04       
+
+7690 +     2104   2112      2121  G12  5   XRA  1-8A      C2.5    2.2E-03       
+7690       2107   2118      2120  G12  5   XFL  S12E90    9.5E+03 2.4E+04       
+
+7700 +     2251   2259      2314  G12  5   XRA  1-8A      C1.7    2.1E-03       
+7700       2254   2308      2313  G12  5   XFL  S12E90    8.9E+03 2.3E+04       
+
+7710 +     2317   2343      0001  G12  5   XRA  1-8A      C3.0    6.5E-03       
+7710       2321   2344      0000  G12  5   XFL  S13E90    1.0E+04 2.9E+04       

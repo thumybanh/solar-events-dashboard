@@ -1,0 +1,51 @@
+:Product: 20020809events.txt
+:Created: 2002 Aug 12 0300 UT
+:Date: 2002 08 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Aug 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 780       0000   ////      0000  CUL  C   RSP  57-180    CTM/1                 
+
+ 790       0033   ////      0450  PAL  C   RSP  025-180   CTM/1                 
+
+ 880 +     0137   0137      0141  LEA  G   RNS  245       59                    
+
+ 800 +     0416   0422      0434  GO8  5   XRA  1-8A      C1.6    1.6E-03       
+
+ 810       0454   ////      0808  SVI  C   RSP  025-180   CTM/1                 
+
+ 930       0543   0543      0543  SVI  G   RBR  410       63                    
+
+ 940       0552   ////      0552  SVI  U   RSP  113-180   III/1                 
+
+ 820       0636   0650      0657  GO8  5   XRA  1-8A      C1.4    1.5E-03   0061
+ 820      B0648  U0648      0657  LEA  3   FLA  N09E08    SF                0061
+
+ 830 +     0838   0900      0919  GO8  5   XRA  1-8A      C2.0    4.0E-03       
+
+ 900       0932   ////      1735  SVI  C   RSP  025-180   CTM/1                 
+
+ 840       1139   1142      1142  SAG  G   RBR  245       51                    
+
+ 850       1237   ////      1239  SVI  C   RSP  025-056   III/1                 
+
+ 860       1304   1304      1304  SAG  G   RBR  245       60                    
+
+ 950       1331   ////      0145  HOL  C   RSP  026-169   CTM/1                 
+
+ 870       1342   1342      1342  SAG  G   RBR  245       68                    
+
+ 890 +     1501   ////      1505  HOL  C   RSP  025-088   III/1                 
+
+ 910       1537   1538      1539  SAG  G   RBR  245       75                    
+
+ 920 +     1612   1747      2059  COM  G   RNS  245       120                   
+
+1030       2309   ////      0949  LEA  C   RSP  062-180   CTM/1                 

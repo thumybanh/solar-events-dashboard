@@ -1,0 +1,51 @@
+:Product: 20050219events.txt
+:Created: 2005 Feb 22 0302 UT
+:Date: 2005 02 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Feb 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8760       0033   0041      0048  G12  5   XRA  1-8A      B4.4    3.3E-04   0732
+8760       0039   0044      0047  G12  5   XFL  N13W90    1.8E+02 3.0E+02   0732
+
+8900       0214   0220      0222  G12  5   XRA  1-8A      B3.7    1.5E-04       
+
+8770 +     0317   0321      0332  G12  5   XRA  1-8A      B3.2    2.6E-04   0732
+8770       0322   0324      0331  G12  5   XFL  N11W90    2.3E+02 3.9E+02   0732
+
+8780 +     0423   0432      0456  G12  5   XRA  1-8A      B7.7    1.2E-03   0732
+8780       0430   0444      0455  G12  5   XFL  N12W90    1.4E+03 3.1E+03   0732
+
+8790       0559   ////      0651  SVI  C   RSP  158-180   CTM/1             0732
+8790       0603   0609      0615  G12  5   XRA  1-8A      C1.2    7.7E-04   0732
+8790       0606   0614      0614  G12  5   XFL  N11W90    1.5E+03 3.2E+03   0732
+
+8800       0716   0717      0717  SVI  U   RBR  245       120                   
+
+8810 +     0909   0915      0921  G12  5   XRA  1-8A      B3.8    2.5E-04       
+
+8820       0923   ////      0924  SVI  C   RSP  025-043   III/1                 
+
+8830 +     1036   1101      1113  G12  5   XRA  1-8A      M3.3    3.5E-02   0732
+8830       1039   1108      1112  G12  5   XFL  N12W90    9.2E+03 7.1E+04   0732
+
+8840       1417   ////      1417  SVI  C   RSP  025-043   III/1                 
+
+8860 +     1513   ////      1513  SVI  C   RSP  025-071   III/1                 
+
+8870       1714   ////      1715  SAG  C   RSP  030-081   III/1                 
+
+8880 +     2053   2056      2059  G12  5   XRA  1-8A      B1.8    5.9E-05       
+8880       2057   2057      2057  G12  5   XFL  S65E90                          
+
+8890 +     2142   2146      2150  G12  5   XRA  1-8A      B2.0    8.4E-05       
+8890       2143   ////      2145  PAL  C   RSP  025-134   III/1                 
+8890       2147   2147      2147  G12  5   XFL  N24E43                          
+
+8910       2257   2300      2304  G12  5   XRA  1-8A      B1.6    6.0E-05       

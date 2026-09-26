@@ -1,0 +1,59 @@
+:Product: 20070109events.txt
+:Created: 2007 Jan 13 2332 UT
+:Date: 2007 01 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6500       0500   ////      0500  CUL  C   RSP  20-90     III/1                 
+
+6340       0657   ////      0758  SVI  C   RSP  028-180   CTM/1                 
+
+6510       0657   ////      0658  CUL  C   RSP  18-90     III/1                 
+
+6430 +     0658   0713      0819  SVI  G   RNS  245       240                   
+6430       0700   ////      1200  IZM  F   RNS  204       35                    
+
+6520       0706   ////      0706  CUL  C   RSP  20-40     III/1                 
+
+6530       0710   ////      0710  CUL  C   RSP  20-40     III/1                 
+
+6340 +     0719   0723      0728  G12  5   XRA  1-8A      B1.2    5.7E-05       
+
+6540       0739   ////      0745  CUL  C   RSP  23-80     III/1                 
+
+6350       0832   0846      0859  G10  5   XRA  1-8A      B2.5    3.0E-04       
+6350       0859   ////      0859  LEA  C   RSP  025-062   III/1                 
+
+6360       0920   ////      0929  LEA  C   RSP  025-070   III/1                 
+
+6370       1054   1057      1102  G11  5   XRA  1-8A      B1.0    4.8E-05       
+
+6380       1117   1117      1117  SVI  G   RBR  245       100                   
+
+6390       1143   1143      1143  SVI  G   RBR  245       110                   
+
+6400 +     1152   1156      1200  G12  5   XRA  1-8A      B1.2    5.4E-05       
+
+6410       1211   1211      1211  SVI  G   RBR  245       110                   
+
+6440       1240   ////      1514  SVI  C   RSP  119-180   CTM/1                 
+
+6420 +     1301   1308      1314  G12  5   XRA  1-8A      B1.2    8.3E-05       
+
+6450 +     1447   1454      1500  G12  5   XRA  1-8A      B1.4    9.4E-05       
+
+6460       1934   ////      1934  PAL  C   RSP  025-054   III/1                 
+
+6470 +     2149   2204      2213  G12  5   XRA  1-8A      B2.6    2.8E-04   0933
+6470       2153   2211      2211  G12  5   XFL  S02W55    2.3E+02 3.9E+02   0933
+
+6480       2309   ////      2319  LEA  C   RSP  025-058   III/1                 
+
+6490       2348   ////      2348  LEA  C   RSP  025-057   III/1                 

@@ -1,0 +1,39 @@
+:Product: 20020307events.txt
+:Created: 2002 Mar 10 0300 UT
+:Date: 2002 03 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+210        0034   ////      0035  CUL  C   RSP  57-280    III/1                 
+
+200  +     0152   ////      0152  CUL  C   RSP  57-180    III/1                 
+
+270        0807   0822      0838  GO8  5   XRA  1-8A      C2.5    4.3E-03       
+
+280        1113   1122      1135  GO8  5   XRA  1-8A      C1.8    1.9E-03       
+
+260        1250   1250      1254  RAM  3   FLA  N06W67    SF      ERU       9862
+
+220  +     1338   1359      1440  GO8  5   XRA  1-8A      C2.7    8.5E-03       
+
+230  +     1621   1625      1629  GO8  5   XRA  1-8A      C1.8    7.2E-04       
+
+290        1709   1714      1718  GO8  5   XRA  1-8A      C1.6    7.8E-04       
+
+240  +     1748   1755      1808  GO8  5   XRA  1-8A      C2.5    2.4E-03       
+240  +     1750   1750      1750  SAG  G   RBR  245       160                   
+
+310        2037   ////      2037  CUL  C   RSP  57-80     III/1                 
+
+250  +     2046   2104      2129  GO8  5   XRA  1-8A      C6.3    1.3E-02       
+250  +     2047   2047      2047  PAL  G   RBR  245       150                   
+
+300        2216   2240      2255  GO8  5   XRA  1-8A      C7.8    1.2E-02       
+300        2231   ////      2247  CUL  C   RSP  57-90     III/1                 

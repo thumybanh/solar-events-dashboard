@@ -1,0 +1,35 @@
+:Product: 20001006events.txt
+:Created: 2000 Oct 09 0302 UT
+:Date: 2000 10 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5230       0008   0010      0013  LEA  G   RBR  410       82                    
+
+5260       0018   0027      0215  LEA  G   RNS  410       100                   
+
+5240       0042   ////      0050  LEA  C   RSP  025-180   III/1                 
+
+5250       0114   0114      0114  LEA  G   RBR  245       88                    
+
+5270 +     0744   0749      0754  GO8  5   XRA  1-8A      B8.7    4.7E-04   9176
+5270       0746   0747      0757  LEA  3   FLA  S10W42    SF      ERU       9176
+
+5280       0904   0905      0905  LEA  G   RBR  245       55                    
+
+5290 +     1005   1011      1016  GO8  5   XRA  1-8A      C2.4    1.4E-03       
+
+5300 +     1323   1323      1324  SAG  G   RBR  245       140                   
+5300 +     1323   ////      1324  SAG  C   RSP  030-080   III/2                 
+
+5310 +     1901   ////      1905  HOL  C   RSP  025-180   III/1             9182
+5310       1905   1909      1916  RAM  3   FLA  S03E21    SF      DSD       9182
+
+5320 +     1940   ////      1940  HOL  C   RSP  025-180   III/1                 

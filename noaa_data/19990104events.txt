@@ -1,0 +1,65 @@
+:Product: 19990104events.txt
+:Created: 1999 Jan 07 0302 UT
+:Date: 1999 01 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5910       0000   ////      0000  CUL  C   RSP  20-150    CTM/1                 
+
+5920       0117   ////      0117  LEA  C   RSP  030-05    III/1                 
+
+5880 +     0148   ////      1053  LEA  C   RSP  030-05    CTM/1                 
+
+5740       0215   ////      0222  CUL  C   RSP  20-50     III/1                 
+
+5840       0353   ////      0405  CUL  C   RSP  25-90     III/1                 
+
+5930       0611   ////      0616  CUL  C   RSP  23-80     III/1                 
+
+5710       0630   0630      0635  COM  3   FLA  N15E13    SF                8426
+
+5700 +     0830   0836      0839  GO8  5   XRA  1-8A      C3.6    1.1E-03       
+
+5720 +     0914   0919      0923  GO8  5   XRA  1-8A      C1.1    5.6E-04       
+
+5730 +     0948   0948      0948  SVI  G   RBR  245       71                    
+
+5750       1008   1010      1012  SVI  G   RBR  245       58                    
+
+5760       1037   1037      1038  SVI  G   RBR  245       210                   
+
+5780       1259   ////      1510  SVI  C   RSP  043-05    CTM/2                 
+
+5770 +    B1325   ////      1340  COM  3   BSL  N32W90    0.16    B.9A      8421
+
+5900       1337   1337      1337  SAG  G   RBR  245       79                    
+
+5790       1522   ////      1543  HOL  3   BSL  N30W90    0.15    B.9A          
+
+5800       1601   1602      1604  HOL  3   FLA  N20W71    SF                8420
+
+5810       1718   1721      1726  RAM  3   FLA  N22W32    SF                8428
+
+5820       1916   ////      1916  SAG  C   RSP  030-05    III/1                 
+
+5830       1917   ////      1918  PAL  C   RSP  025-04    III/1                 
+
+5850 +     2057   2101      2106  GO8  5   XRA  1-8A      C1.4    7.0E-04       
+
+5860 +     2235   2239      2241  GO8  5   XRA  1-8A      C1.7    4.2E-04       
+5860       2238   ////      2239  CUL  C   RSP  80-250    III/1                 
+
+5870       2243   ////      2243  LEA  C   RSP  030-04    III/1                 
+
+5940       2308   ////      2308  LEA  C   RSP  030-04    III/1                 
+
+6020       2317   ////      0934  LEA  C   RSP  030-06    CTM/1                 
+
+5950 +     2332   ////      2333  LEA  C   RSP  030-08    III/2                 

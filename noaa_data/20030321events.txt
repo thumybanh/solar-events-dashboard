@@ -1,0 +1,40 @@
+:Product: 20030321events.txt
+:Created: 2003 Mar 24 0302 UT
+:Date: 2003 03 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Mar 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3960 +     0556   0601      0605  GO8  5   XRA  1-8A      B4.9    2.2E-04       
+
+3970 +     0858   0910      0917  GO8  5   XRA  1-8A      C1.1    8.5E-04   0314
+
+3980 +     0915   ////      0955  SVI  3   DSF  ////      13      B.9A      0000
+
+3990       0925   ////      0955  SVI  3   DSF  ////      13      B.9A      0000
+
+4000 +     1415   1429      1441  GO8  5   XRA  1-8A      C1.8    1.9E-03   0314
+
+4010 +     1600   1604      1609  GO8  5   XRA  1-8A      B5.2    2.3E-04   0314
+
+4020 +     1650   1654      1657  GO8  5   XRA  1-8A      B3.5    1.3E-04   0314
+
+4030 +     1724   1728      1736  GO8  5   XRA  1-8A      B3.3    2.1E-04   0314
+
+4040 +     1750   1755      1758  GO8  5   XRA  1-8A      B4.1    1.5E-04   0314
+
+4050 +     1925   1930      1933  GO8  5   XRA  1-8A      B4.7    1.8E-04   0314
+
+4060 +     2024   2028      2031  GO8  5   XRA  1-8A      B2.8    1.1E-04   0314
+
+4070 +     2036   2042      2047  GO8  5   XRA  1-8A      B4.6    2.5E-04   0314
+
+4080 +     2100   2106      2113  GO8  5   XRA  1-8A      B3.7    2.4E-04   0314
+
+4100 +     2225   2238      2244  GO8  5   XRA  1-8A      B4.9    4.6E-04   0314

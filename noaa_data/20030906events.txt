@@ -1,0 +1,20 @@
+:Product: 20030906events.txt
+:Created: 2003 Sep 09 0302 UT
+:Date: 2003 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6550       0133   ////      0141  LEA  C   RSP  025-180   III/1                 
+
+6560       0507   0511      0515  G10  5   XRA  1-8A      B5.2    2.0E-04       
+
+6570 +     0544   0551      0559  G12  5   XRA  1-8A      B7.9    5.3E-04       
+
+6580 +     1931   ////      1933  HOL  C   RSP  025-094   III/1                 

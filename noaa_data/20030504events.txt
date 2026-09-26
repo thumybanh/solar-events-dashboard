@@ -1,0 +1,52 @@
+:Product: 20030504events.txt
+:Created: 2003 May 07 0302 UT
+:Date: 2003 05 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 May 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2660       0022   ////      0023  PAL  C   RSP  025-075   V/1                   
+
+2670       0129   0131      0131  PAL  G   RBR  245       300                   
+2670 +     0129   ////      0131  PAL  C   RSP  025-180   III/2                 
+
+2680 +     0148   0301      0333  G10  5   XRA  1-8A      C1.8    8.3E-03   0349
+
+2690 +     0624   0637      0648  G10  5   XRA  1-8A      B9.3    1.2E-03   0349
+
+2700 +     0807   0812      0820  G10  5   XRA  1-8A      C1.4    9.5E-04   0349
+2700       0810   0810      0816  LEA  3   FLA  S14W35    SF      ERU       0349
+
+2710 +     0859   ////      0859  LEA  C   RSP  025-180   III/1                 
+
+2720       1343   ////      1343  SVI  C   RSP  025-136   III/1                 
+
+2730 +     1344   1349      1355  G10  5   XRA  1-8A      C1.3    7.3E-04   0349
+
+2740 +     1500   1505      1513  G10  5   XRA  1-8A      C1.2    8.3E-04   0349
+
+2750       1712   1712      1712  SAG  G   RBR  245       58                    
+
+2760       1744   1745      1745  SAG  G   RBR  245       69                    
+
+2770       1746   1746      1746  SAG  G   RBR  245       71                    
+
+2780       1805   1805      1805  SAG  G   RBR  245       59                    
+
+2790       1816   1817      1830  HOL  3   FLA  S32W46    SF                0348
+
+2840       1819   1819      1912  SAG  G   RNS  245       79                    
+
+2800 +     1857   1857      1908  HOL  3   FLA  S34W36    SF                0348
+
+2810       1923   1926      1928  HOL  3   FLA  S33W45    SF                0348
+
+2820       1932   1940      1951  HOL  3   FLA  S32W46    SF                0348
+
+2830       2135   2135      2153  HOL  3   FLA  S32W47    SF                0348

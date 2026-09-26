@@ -1,0 +1,48 @@
+:Product: 20061216events.txt
+:Created: 2006 Dec 19 0329 UT
+:Date: 2006 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5320       0053   0058      0112  G10  5   XRA  1-8A      B1.0    1.1E-04       
+
+5330 +     0300   0344      0350  G12  5   XRA  1-8A      B2.7    5.5E-04   0930
+5330       0307   0345      0350  G12  5   XFL  S06W68    5.0E+02 9.7E+02   0930
+
+5340 +     0707   0722      0732  G12  5   XRA  1-8A      B5.9    6.0E-04   0930
+5340       0711   0722      0737  LEA  3   FLA  S07W62    SF      ERU       0930
+5340       0717   0726      0728  G12  5   XFL  S06W67    1.5E+03 3.1E+03   0930
+
+5350 +     0826   0912      0930  G12  5   XRA  1-8A      B8.8    2.8E-03   0930
+
+5370       0830   0831      0852  LEA  3   FLA  S07W62    SF      ERU       0930
+
+5350       0830   0917      0928  G12  5   XFL  S06W68    1.7E+03 3.5E+03   0930
+5350       0853   0910      0935  LEA  3   FLA  S08W67    SF      ERU       0930
+
+5360 +     1142   1146      1151  G12  5   XRA  1-8A      B1.4    6.2E-05       
+
+5380 +     1421   1425      1428  G11  5   XRA  1-8A      B1.3    4.8E-05       
+
+5390 +     1504   1508      1512  G12  5   XRA  1-8A      B1.2    5.3E-05       
+
+5400       1548   1554      1559  G10  5   XRA  1-8A      B1.5    9.4E-05       
+
+5410 +     1849   1920      1929  G12  5   XRA  1-8A      B2.3    4.3E-04   0930
+5410       1922   1924      1927  G12  5   XFL  S06W76    2.0E+02 3.4E+02   0930
+
+5420 +     2017   2023      2034  G12  5   XRA  1-8A      B3.7    2.9E-04   0930
+5420       2021   2032      2032  G12  5   XFL  S06W77    7.8E+02 1.4E+03   0930
+
+5430 +     2343   0055      0126  G12  5   XRA  1-8A      B2.4    1.2E-03   0930
+
+5440       2343   0055      0127  G10  5   XRA  1-8A      B2.6    1.2E-03       
+
+5430       2351   0002      0107  G12  5   XFL  S06W79    5.3E+02 9.4E+02   0930

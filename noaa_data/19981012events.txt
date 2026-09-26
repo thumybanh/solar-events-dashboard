@@ -1,0 +1,32 @@
+:Product: 19981012events.txt
+:Created: 1998 Oct 15 0302 UT
+:Date: 1998 10 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6530 +     0041   ////      0041  LEA  C   RSP  030-08    III/2                 
+
+6540       0042   ////      0042  CUL  C   RSP  18-180    III/1                 
+
+6550 +     0337   ////      0337  LEA  C   RSP  030-06    III/2                 
+
+6560 +     1043   1105      1124  GO8  5   XRA  1-8A      C2.2    4.1E-03       
+
+6570 +     1406   1410      1416  GO8  5   XRA  1-8A      B3.8    2.1E-04   8354
+6570 +     1407   1409      1414  HOL  3   FLA  S21W63    SF                8354
+
+6580 +     1939   1944      1946  GO8  5   XRA  1-8A      C1.0    2.6E-04   8355
+6580 +     1943   1945      1955  HOL  3   FLA  S21E03    SF                8355
+
+6680      A2033   ////      1047  RAM  3   DSF  S44E32    29      B.0A          
+
+6590       2310   ////      2310  CUL  C   RSP  65-170    III/1                 
+
+6600       2326   ////      2328  CUL  C   RSP  75-180    III/1                 

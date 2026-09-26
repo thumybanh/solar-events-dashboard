@@ -1,0 +1,32 @@
+:Product: 20030716events.txt
+:Created: 2003 Jul 19 0302 UT
+:Date: 2003 07 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jul 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8480 +     0029   0039      0053  G12  5   XRA  1-8A      B7.0    8.4E-04       
+
+8530      A0106   ////     B1323  HOL  3   DSF  ////      10      B.0A      0000
+
+8490 +     0523   0530      0534  G12  5   XRA  1-8A      B5.4    2.9E-04       
+
+8510 +     1215   1223      1236  G12  5   XRA  1-8A      C1.3    1.3E-03   0410
+8510       1220   1223      1240  SVI  3   FLA  S15E29    SF      ERU       0410
+8510 +     1222   1222      1222  SAG  G   RBR  410       200               0410
+
+8520 +     1338   1343      1353  G12  5   XRA  1-8A      B8.1    6.5E-04   0410
+8520       1342   1344      1402  HOL  3   FLA  S11E31    SF      ERU       0410
+
+8560       1355   1408      1425  G12  5   XRA  1-8A      C1.2    1.8E-03   0406
+
+8540 +     1601   1610      1624  G12  5   XRA  1-8A      C1.2    1.3E-03   0410
+8540       1604   1609      1625  HOL  3   FLA  S11E30    SF      ERU       0410
+
+8550 +     1628   1635      1642  G12  5   XRA  1-8A      C2.9    1.8E-03   0410

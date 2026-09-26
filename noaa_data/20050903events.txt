@@ -1,0 +1,16 @@
+:Product: 20050903events.txt
+:Created: 2005 Sep 06 0329 UT
+:Date: 2005 09 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Sep 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7660 +     0405   0410      0413  G12  5   XRA  1-8A      B6.1    1.6E-04   0805
+7660       0410   0410      0417  LEA  3   FLA  S14W09    SF      ERU       0805
+7660       0410   0410      0411  G12  5   XFL  S11W09    9.0E+02 3.4E+03   0805

@@ -1,0 +1,51 @@
+:Product: 20020219events.txt
+:Created: 2002 Feb 22 0300 UT
+:Date: 2002 02 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Feb 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6430       0046   0047      0053  LEA  3   FLA  S18E13    SF                9830
+
+6440 +     0146   ////      0147  LEA  C   RSP  025-112   III/1                 
+
+6500       0430   ////      0550  LEA  3   DSF  S24E21    10      B.0A          
+
+6450 +     0443   ////      0443  LEA  U   RSP  029-063   III/1                 
+
+6460 +     0504   ////      0504  LEA  C   RSP  025-064   III/2                 
+
+6470       0526   0529      0532  LEA  3   FLA  S17E10    SF      ERU       9830
+
+6480       0557   0557      0600  LEA  3   FLA  S20E16    SF                9830
+
+6490       0625   0625      0633  LEA  3   FLA  S20E16    SF      ERU       9830
+
+6510       0734   0735      0738  LEA  3   FLA  S20E15    SF      ERU       9830
+
+6520       0825   ////      0825  LEA  C   RSP  075-087   III/1                 
+
+6530       1137   ////      1137  SVI  C   RSP  053-180   III/1                 
+
+6540       1152   1219      1249  GO8  5   XRA  1-8A      C2.7    7.8E-03       
+
+6800      A1411   ////     B0633  SVI  3   DSF  N42E28    09      B.0A          
+
+6550 +     1559   1603      1606  GO8  5   XRA  1-8A      C2.9    8.0E-04   9825
+6550       1601   1602      1607  HOL  3   FLA  N18W66    1F                9825
+
+6560 +     1738   1738      1738  SAG  G   RBR  245       57                    
+
+6600 +     1843   2042     U2115  SAG  G   RNS  245       140                   
+
+6570       2024   2024      2024  SAG  G   RBR  4995      66                    
+
+6580 +     2227   2231      2233  GO8  5   XRA  1-8A      C1.3    4.3E-04       
+
+6590       2317   2319      2323  HOL  3   FLA  S13W59    SF                9828

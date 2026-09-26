@@ -1,0 +1,61 @@
+:Product: 19980609events.txt
+:Created: 1998 Jun 12 0302 UT
+:Date: 1998 06 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8220       0022   ////      0727  LEA  C   RSP  030-04    CTM/1                 
+
+8110 +     0412   0412      0414  LEA  G   RBR  410       120                   
+
+8120 +     0423   0423      0424  LEA  G   RBR  245       63                    
+
+8160       0425   0432      0441  GO9  5   XRA  1-8A      B6.1    5.6E-04       
+
+8130       0610   ////      0611  SVI  C   RSP  048-08    III/1                 
+
+8330       0657   ////      0657  CUL  C   RSP  35-160    III/1                 
+
+8140       0728   ////      0728  LEA  C   RSP  057-07    III/1                 
+
+8170       0810   ////      0813  SVI  U   RSP  035-05    III/2                 
+
+8180       0835   0839      0846  GO8  5   XRA  1-8A      B4.0    2.4E-04       
+
+8250 +     1141   ////      1142  SVI  C   RSP  035-05    III/2                 
+
+8320 +     1400   1400      1401  SAG  G   RBR  245       120                   
+8320       1400   ////      1401  SVI  C   RSP  039-08    III/2                 
+8320       1400   ////      1401  SVI  C   RSP  039-08    III/2                 
+
+8240       1416   ////      1458  SVI  C   RSP  055-08    CTM/2                 
+
+8230       1430   1430      1431  SVI  U   RBR  245       60                    
+
+8240 +     1441   ////      1443  SVI  C   RSP  048-08    III/2                 
+8240 +     1442   1442      1443  SAG  G   RBR  245       590                   
+
+8280 +     1548   1557      1625  SAG  G   RNS  245       120                   
+
+8310 +     1601   1603      1604  SAG  G   RBR  410       130                   
+
+8210       1610   1613      1615  GO8  5   XRA  1-8A      B4.3    1.1E-04       
+8210 +     1611   1612      1614  SAG  G   RBR  245       860                   
+8210 +     1611   1612      1614  SAG  G   RBR  245       860                   
+8210 +     1612   1612      1613  SAG  G   RBR  410       130                   
+8210 +     1612   1612      1613  SAG  G   RBR  410       130                   
+
+8260       1645   ////      1646  PAL  C   RSP  028-05    III/1                 
+
+8270       1655   ////      1656  PAL  C   RSP  028-05    III/1                 
+
+8290 +     1833   1834      1836  SAG  G   RBR  245       120                   
+
+8300       1853   ////      1853  SAG  C   RSP  030-05    III/1                 

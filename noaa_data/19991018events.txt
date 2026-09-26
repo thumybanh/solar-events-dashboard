@@ -1,0 +1,73 @@
+:Product: 19991018events.txt
+:Created: 1999 Oct 21 0303 UT
+:Date: 1999 10 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Oct 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3800 +     0001   0004      0007  GO8  5   XRA  1-8A      C1.0    3.4E-04       
+3800       0003   ////      0004  CUL  C   RSP  18-160    III/2                 
+
+3910       0004   ////      0014  CUL  C   RSP  30-90     III/1                 
+
+3830 +     0104   0114      0117  GO8  5   XRA  1-8A      C6.6    2.6E-03       
+
+3840 +     0124   ////      0124  CUL  C   RSP  18-90     III/1                 
+
+3850 +     0147   0155      0202  GO8  5   XRA  1-8A      C2.8    1.7E-03       
+
+3860       0218   ////      0221  LEA  C   RSP  030-07    III/2                 
+
+3870 +     0224   0232      0247  GO8  5   XRA  1-8A      C1.7    2.1E-03       
+3870       0238   ////      0242  LEA  C   RSP  030-05    III/1                 
+
+3890       0611   ////      0611  LEA  C   RSP  030-05    III/1                 
+
+3900 +     0627   ////      0629  LEA  C   RSP  030-06    III/2                 
+
+3930 +     0732   ////      0747  COM  C   RSP  30-80     CTM/2                 
+
+3920       0840   0905      0923  GO8  5   XRA  1-8A      C1.5    3.2E-03       
+
+3940 +     1555   1557      1620  COM  3   FLA  N19W34    SF                8732
+
+3950       1653   1700      1705  HOL  3   FLA  N19W35    SF                8732
+
+3960       1716   1720      1732  HOL  3   FLA  N20W32    SF                8732
+
+3970 +     1733   1739      1745  GO8  5   XRA  1-8A      C2.7    1.7E-03   8731
+3970 +     1734   1735      1807  HOL  3   FLA  N10W25    SF                8731
+
+4060       1743   1748      1758  HOL  3   FLA  N19W35    SF                8732
+
+3980       1852   1857      1903  GO8  5   XRA  1-8A      C1.5    9.1E-04   8728
+3980       1854   1858      1909  HOL  3   FLA  N22W50    SF      ERU       8728
+
+3990       1923   1923      1928  HOL  3   FLA  N20W33    SF                8732
+
+4000       1952   1953      1959  HOL  3   FLA  N22W51    SF      ERU       8728
+
+4010       1958   1958      2001  HOL  3   FLA  N19W37    SF                8732
+
+4030       2020   2021      2024  HOL  3   FLA  N19W36    SF                8732
+
+4040       2032   2032      2043  HOL  3   FLA  N19W38    SF                8732
+
+4050       2045   2045      2049  HOL  3   FLA  N19W36    SF                8732
+
+4080       2144   ////      2144  CUL  C   RSP  30-140    III/1                 
+
+4070 +     2149   2155      2203  GO8  5   XRA  1-8A      C1.8    1.3E-03   8732
+4070       2153   2154      2205  HOL  3   FLA  N19W38    SF                8732
+
+4090       2235   ////      2235  CUL  C   RSP  30-90     III/1                 
+
+4100       2304   2306      2310  HOL  3   FLA  N19W39    SF                8732
+
+4110 +     2338   2345      0000  COM  3   FLA  S14E29    SF                8736

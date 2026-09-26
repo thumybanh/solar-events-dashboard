@@ -1,0 +1,44 @@
+:Product: 19981013events.txt
+:Created: 1998 Oct 16 0302 UT
+:Date: 1998 10 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6610 +     0053   0103      0119  GO8  5   XRA  1-8A      B8.9    1.2E-03   8356
+6610       0057   0101      0110  LEA  3   FLA  N22W54    SF                8356
+
+6620 +     0605   0608      0611  GO8  5   XRA  1-8A      B4.0    1.2E-04       
+
+6630 +     0753   ////      0754  LEA  C   RSP  030-08    III/2                 
+
+6640       0920   ////      0920  SVI  C   RSP  056-07    III/1                 
+
+6650       1004   1004      1006  LEA  G   RBR  1415      60                    
+
+6660 +     1045   1101      1112  GO8  5   XRA  1-8A      C1.2    1.4E-03   8356
+6660      B1051  U1056     A1115  RAM  2   FLA  N20W58    SF      ERU       8356
+
+6720      A1152   ////      1541  RAM  3   DSF  S39E26    12      B.0A          
+
+6670 +     1153   1157      1201  GO8  5   XRA  1-8A      B7.9    2.9E-04       
+6670       1156   1156      1156  SAG  G   RBR  606       13                    
+6670 +     1156   1156      1157  SVI  G   RBR  245       190                   
+6670 +     1156   1156      1157  SVI  G   RBR  410       22                    
+6670 +     1156   ////      1157  SVI  C   RSP  035-08    III/2                 
+
+6690       1703   1704      1711  HOL  3   FLA  N20W67    SF                8350
+
+6700 +     1839   1844      1850  GO8  5   XRA  1-8A      B6.8    3.7E-04   8359
+6700       1841   ////      1843  PAL  C   RSP  025-07    III/3             8359
+6700       1841   ////      1843  SAG  C   RSP  030-08    V/2               8359
+6700       1842   1843      1853  HOL  3   FLA  N23W44    SF                8359
+
+6710       1929   1949      2003  GO8  5   XRA  1-8A      C1.0    1.6E-03   8358
+6710       1944   1949      2014  HOL  3   FLA  N16E03    SF      ERU       8358

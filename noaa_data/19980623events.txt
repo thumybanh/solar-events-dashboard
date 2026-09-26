@@ -1,0 +1,52 @@
+:Product: 19980623events.txt
+:Created: 1998 Jun 26 0302 UT
+:Date: 1998 06 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+490        0102   0117      0153  HOL  3   FLA  N17E76    SF                8253
+
+500  +     0254   0304      0324  GO9  5   XRA  1-8A      B5.2    8.3E-04       
+
+510        0527   0529      0548  SVI  2   FLA  N16E76    SF      DSD       8253
+
+520  +     0928   0935      0946  GO9  5   XRA  1-8A      B3.9    3.8E-04   8253
+520        0931   0932      0944  SVI  3   FLA  N17E73    SF      ERU       8253
+
+530  +     1030   1033      1037  GO9  5   XRA  1-8A      C1.3    3.6E-04   8253
+530        1031   1033      1041  SVI  3   FLA  N16E72    SF      ERU       8253
+530        1032   1032      1032  SAG  G   RBR  245       240               8253
+
+610  +     1510   1510      1511  SAG  G   RBR  245       890                   
+610  +     1510   1510      1515  SAG  G   RBR  410       78                    
+
+620  +     1516   1519      1521  GO9  5   XRA  1-8A      B3.0    7.2E-05   8253
+620        1518   1518      1518  SVI  U   RBR  410       44                8253
+620  +     1518   1518      1519  SAG  G   RBR  245       210               8253
+620  +     1518   1519      1527  HOL  3   FLA  N14E70    SF                8253
+
+630  +     1521   1524      1527  GO9  5   XRA  1-8A      B7.1    1.7E-04   8253
+630  +     1521   1521      1522  SAG  G   RBR  245       1200                  
+630  +     1521   1521      1522  SAG  G   RBR  410       290                   
+630  +     1521   1521      1522  SAG  G   RBR  606       41                    
+
+640  +     1657   1700      1702  GO9  5   XRA  1-8A      B2.6    6.8E-05       
+
+650  +     1915   1923      1927  GO9  5   XRA  1-8A      C1.9    5.9E-04   8253
+650        1918   1922      1930  HOL  3   FLA  N15E68    SF                8253
+
+660        2147   ////      2147  CUL  C   RSP  23-70     III/1                 
+
+670        2239   2242      2245  GO8  5   XRA  1-8A      B2.5    8.5E-05       
+
+680        2259   2300      2301  SAG  G   RBR  410       61                    
+680        2300   2300      2302  SAG  G   RBR  245       63                    
+
+690        2302   2303      2308  HOL  3   FLA  N16W68    SF                8249

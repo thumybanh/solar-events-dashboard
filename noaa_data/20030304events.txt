@@ -1,0 +1,34 @@
+:Product: 20030304events.txt
+:Created: 2003 Mar 07 0302 UT
+:Date: 2003 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 390 +     0516   ////      0517  CUL  C   RSP  60-200    III/1                 
+
+ 450       0748   0802      0809  GO8  5   XRA  1-8A      B6.4    6.5E-04       
+
+ 460       0844   0856      0908  GO8  5   XRA  1-8A      B6.7    7.9E-04       
+
+ 400       1651   1651      1651  SAG  G   RBR  245       120                   
+
+ 470       1824   1831      1835  GO8  5   XRA  1-8A      B6.6    3.4E-04       
+
+ 480       1842   1848      1853  GO8  5   XRA  1-8A      B5.0    3.1E-04       
+
+ 410 +     2111   2112      2112  PAL  G   RBR  245       160                   
+
+ 420 +     2116   2117      2117  PAL  G   RBR  245       310                   
+
+ 440       2130   2132      2137  SAG  G   RNS  245       270                   
+
+ 490       2244   ////      2244  CUL  C   RSP  40-90     III/1                 
+
+ 430       2312   2312      2312  PAL  G   RBR  410       100                   

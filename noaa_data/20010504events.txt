@@ -1,0 +1,54 @@
+:Product: 20010504events.txt
+:Created: 2001 May 07 0302 UT
+:Date: 2001 05 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5300       0136   0136      0137  LEA  U   RBR  245       61                    
+
+5310       0404   0406      0420  LEA  U   RNS  245       64                    
+
+5390       0511   ////      1724  SVI  U   RSP  025-180   CTM/1                 
+
+5310       0600   0000      1200       F   RNS  204       20                    
+
+5320 +     0732   ////      0733  LEA  C   RSP  025-180   III/2                 
+
+5330       1044   1058      1104  GO8  5   XRA  1-8A      C1.4    1.5E-03   9445
+5330       1046   1048      1058  SVI  3   FLA  N25E07    SF                9445
+
+5360 +     1436   1504      1552  SVI  3   FLA  N25E03    SF      ERU       9445
+
+5340 +     1440   1500      1555  GO8  5   XRA  1-8A      C4.1    1.5E-02   9447
+5340       1442   1447      1510  SVI  3   FLA  N12W35    SF      ERU       9447
+
+5370       1530   1530      1535  HOL  3   FLA  N25E07    SF      ERU       9445
+
+5350       1541   1549      1555  HOL  3   FLA  N24W03    SF      ERU       9445
+
+5380       1640   1641      1642  SAG  G   RBR  245       53                    
+
+5400       1720   ////      1720  HOL  C   RSP  025-090   III/1                 
+
+5420       1818   1926      2000  G10  5   XRA  1-8A      C3.0    1.5E-02       
+
+5410       1904   1905      1910  HOL  3   FLA  N12W38    SF      ERU       9447
+
+5430 +     1946   ////      1947  HOL  C   RSP  025-150   III/1                 
+
+5440       2055   2055      2055  SAG  G   RBR  245       67                    
+
+5450       2132   ////      2132  SAG  C   RSP  030-080   III/1                 
+
+5460       2257   ////      2259  HOL  C   RSP  025-172   III/1                 
+
+5510       2300   ////      0940  LEA  C   RSP  025-180   CTM/1                 
+
+5470       2313   ////      2314  LEA  C   RSP  025-180   III/1                 

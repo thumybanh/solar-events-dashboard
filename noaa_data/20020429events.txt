@@ -1,0 +1,78 @@
+:Product: 20020429events.txt
+:Created: 2002 May 02 0300 UT
+:Date: 2002 04 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Apr 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4380       0026   0026      0026  LEA  G   RBR  245       260                   
+
+4390 +     0040   ////      0044  LEA  C   RSP  025-180   III/1                 
+
+4400       0059   0059      0059  LEA  G   RBR  245       54                    
+
+4450 +     0123   0427      0457  LEA  G   RNS  245       74                    
+
+4410 +     0146   0146      0146  LEA  G   RBR  245       190                   
+
+4420 +     0223   ////      0224  LEA  C   RSP  025-180   III/1                 
+
+4430       0311   0311      0316  LEA  3   FLA  N14W03    SF                9919
+
+4440       0339   0339      0342  LEA  3   FLA  N10W43    SF                9915
+
+4460       0528   0528      0528  LEA  G   RBR  245       55                    
+
+4470       0530   0537      0602  G10  5   XRA  1-8A      C2.2    3.9E-03       
+4470       0534   0534      0534  SVI  G   RBR  245       59                    
+4470 +     0551   ////      0552  LEA  C   RSP  054-180   III/1                 
+
+4480 +     0646   ////      0647  LEA  C   RSP  065-180   III/1                 
+4480       0647   0647      0647  SVI  G   RBR  245       60                    
+
+4490 +     0801   ////      0801  LEA  C   RSP  054-180   III/1                 
+
+4500       0822   ////      0824  SVI  C   RSP  025-061   III/2                 
+
+4510       0902   0902      0902  SVI  U   RBR  410       58                    
+
+4520 +     0922   0928      0931  GO8  5   XRA  1-8A      C3.4    1.4E-03       
+4520       0926   0926      0926  SVI  U   RBR  245       150                   
+4520       0926   ////      0926  LEA  C   RSP  072-180   III/1                 
+
+4530 +     0935   0940      0944  GO8  5   XRA  1-8A      C4.8    1.8E-03       
+4530 +     0936   0936      0936  LEA  G   RBR  245       220                   
+4530       0936   ////      0938  LEA  C   RSP  041-180   III/1                 
+4530       0937   0938      0938  SVI  U   RBR  410       56                    
+
+4540       0955   0955      0955  SVI  U   RBR  410       51                    
+
+4550       1005   ////      1005  SVI  C   RSP  025-147   III/1                 
+
+4560       1010   1010      1011  SVI  U   RBR  245       170                   
+
+4580       1025   ////      1258  SVI  C   RSP  025-180   CTM/1                 
+
+4570 +     1032   1058      1101  GO8  5   XRA  1-8A      C4.1    3.6E-03       
+
+4590 +     1201   ////      1214  SVI  C   RSP  044-152   II/1    395           
+
+4600 +     1257   1303      1315  GO8  5   XRA  1-8A      C2.2    2.0E-03       
+
+4610       1353   ////      1354  HOL  C   RSP  025-148   III/1                 
+
+4620 +     1404   ////      1405  HOL  C   RSP  025-132   III/1                 
+
+4630       1706   1706      1707  SVI  G   RBR  245       59                    
+
+4640       1709   1709      1710  SVI  G   RBR  245       76                    
+
+4650 +     2005   2015      2037  GO8  5   XRA  1-8A      C2.7    4.3E-03   9915
+4650       2006   ////      2007  HOL  C   RSP  025-123   III/1             9915
+4650       2010   2012      2013  HOL  3   FLA  N10W49    SF                9915

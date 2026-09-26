@@ -1,0 +1,42 @@
+:Product: 20040525events.txt
+:Created: 2004 May 28 0302 UT
+:Date: 2004 05 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 May 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 400       0042   ////      0042  CUL  C   RSP  20-70     III/1                 
+
+ 410       0053   ////      0053  CUL  C   RSP  20-75     III/1                 
+
+ 420 +     1022   1027      1037  G12  5   XRA  1-8A      B2.8    2.3E-04   0618
+ 420       1027   1034      1035  G12  5   XFL  S10E09    2.3E+02 4.0E+02   0618
+
+ 430 +     1135   1141      1144  G12  5   XRA  1-8A      B9.0    2.9E-04   0618
+ 430       1138   1142      1143  G12  5   XFL  S09E09    1.6E+03 4.4E+03   0618
+
+ 440 +     1152   1200      1203  G12  5   XRA  1-8A      B5.1    2.4E-04   0618
+ 440       1155   1200      1202  G12  5   XFL  S10E08    8.8E+02 2.0E+03   0618
+
+ 450 +     1319   1323      1329  G12  5   XRA  1-8A      B3.0    1.6E-04   0618
+ 450       1322   1324      1327  G12  5   XFL  S11E01    7.5E+01 1.3E+02   0618
+
+ 490       1501   1506      1508  G12  5   XRA  1-8A      B2.7    1.1E-04   0618
+
+ 460 +     1716   1722      1732  G12  5   XRA  1-8A      B3.8    3.1E-04   0618
+
+ 500       1843   1847      1850  G12  5   XRA  1-8A      B3.8    1.4E-04   0618
+
+ 470       2218   2218      2218  SAG  G   RBR  4995      65                    
+
+ 480       2300   2303      2305  G12  5   XRA  1-8A      B2.7    7.5E-05   0618
+ 480       2303   2303      2303  PAL  G   RBR  410       73                0618
+ 480       2303   2303      2303  G12  5   XFL  S10E01                      0618
+
+ 510       2345   2348      2350  G12  5   XRA  1-8A      B3.1    7.5E-05   0618

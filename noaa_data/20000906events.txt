@@ -1,0 +1,56 @@
+:Product: 20000906events.txt
+:Created: 2000 Sep 09 0302 UT
+:Date: 2000 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7320       0012   ////      0012  LEA  C   RSP  038-129   III/1                 
+
+7330 +     0021   0025      0028  GO8  5   XRA  1-8A      C1.5    5.2E-04   9149
+7330       0024   0025      0035  LEA  3   FLA  N12W36    SF      ERU       9149
+
+7340 +     0133   0142      0200  GO8  5   XRA  1-8A      C2.7    3.5E-03   9149
+
+7400       0134   ////      0405  LEA  C   RSP  070-098   CTM/1                 
+
+7340 +     0136   0143      0150  LEA  3   FLA  S17W11    SF      ERU       9154
+
+7350       0148   0152      0217  LEA  3   FLA  N13W40    SF      ERU       9149
+
+7360 +     0338   0357      0402  GO8  5   XRA  1-8A      C1.7    1.7E-03   9154
+7360 +     0341   0357      0401  COM  3   FLA  S22W14    SF      ERU       9154
+
+7490       0442   ////      0442  CUL  C   RSP  30-140    III/1                 
+
+7370       0549   0549      0549  SVI  G   RBR  245       76                    
+7370 +     0549   ////      0550  CUL  C   RSP  28-300    III/2                 
+
+7380       1014   ////      1014  SVI  C   RSP  026-040   III/1                 
+
+7390       1040   ////      1040  SVI  C   RSP  025-083   III/1                 
+
+7410 +     1335   1340      1343  GO8  5   XRA  1-8A      C2.2    6.7E-04   9154
+7410       1338   1342      1348  RAM  3   FLA  S18W15    SF                9154
+
+7420       1357   1357      1402  HOL  3   FLA  S18W15    SF      ERU       9154
+
+7430       1403   1403      1406  HOL  3   FLA  S18W15    SF      ERU       9154
+
+7440       1459   1529      1601  GO8  5   XRA  1-8A      C2.2    6.0E-03   9154
+7440 +     1516   1539      1545  RAM  3   FLA  S20W19    SF                9154
+
+7460 +     1741   1741      1741  SAG  G   RBR  245       88                    
+
+7480       1844   1850      1857  GO8  5   XRA  1-8A      C1.2    8.5E-04       
+
+7470 +     1903   ////      1904  SAG  C   RSP  030-070   III/1                 
+
+7500 +     2232   2241      2249  GO8  5   XRA  1-8A      C2.3    2.0E-03       
+7500       2244   2245      2252  HOL  3   FLA  N28E78    SF                    

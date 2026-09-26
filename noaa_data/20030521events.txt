@@ -1,0 +1,28 @@
+:Product: 20030521events.txt
+:Created: 2003 May 24 0302 UT
+:Date: 2003 05 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 May 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4780 +     0542   0604      0621  G12  5   XRA  1-8A      C1.2    2.1E-03   0362
+
+4790 +     1243   ////      1246  HOL  C   RSP  025-180   III/1                 
+
+4800       1522   1526      1530  G10  5   XRA  1-8A      B6.5    2.9E-04       
+
+4810       1642   ////      1642  HOL  C   RSP  025-068   III/1                 
+
+4820 +     1851   ////      1852  SAG  C   RSP  030-065   III/2                 
+
+4830 +     1923   ////      1924  SAG  C   RSP  030-070   III/2                 
+
+4840       2203   2203      2204  PAL  G   RBR  245       130                   
+
+4850 +     2341   ////      2341  LEA  C   RSP  025-180   III/1                 

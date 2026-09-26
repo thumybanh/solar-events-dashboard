@@ -1,0 +1,46 @@
+:Product: 19981119events.txt
+:Created: 1998 Nov 22 0302 UT
+:Date: 1998 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4710 +     0048   ////      0051  COM  C   RSP  30-70     III/1                 
+
+4720 +     0139   ////      0139  COM  C   RSP  30-60     III/1                 
+
+4730       0219   ////      0230  COM  C   RSP  30-80     CTM/2                 
+4730       0219   ////      0230  LEA  C   RSP  30-80     III/2                 
+
+4740       0313   ////      0315  COM  C   RSP  30-55     III/2                 
+
+4750       0339   ////      0343  COM  C   RSP  30-55     III/2                 
+
+4760       0506   ////      0509  COM  C   RSP  30-66     III/2                 
+
+4770       0557   ////      0557  COM  C   RSP  30-54     III/1                 
+
+4640 +     0604   0613      0621  GO8  5   XRA  1-8A      B8.5    6.9E-04       
+4640       0616   ////      0616  COM  C   RSP  30-46     III/2                 
+
+4780       0654   ////      0655  COM  C   RSP  30-46     III/3                 
+
+4790       0806   0806      0806  COM  G   RBR  245       56                    
+
+4800       0823   ////      0825  COM  C   RSP  35-45     III/2                 
+
+4820       1332   ////      1336  COM  C   RSP  35-85     III/2                 
+
+4860       1627   1735      1809  COM  G   RNS  245       430                   
+
+4830       1654   1654      1657  COM  3   FLA  S18E54    SF                8391
+
+4840       2018   2018      2018  COM  G   RBR  8800      55                    
+
+4850 +     2322   2327      2351  GO8  5   XRA  1-8A      B3.8    5.8E-04       

@@ -1,0 +1,25 @@
+:Product: 20060930events.txt
+:Created: 2006 Oct 03 0329 UT
+:Date: 2006 09 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Sep 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6330 +     1643   1703      1726  G12  5   XRA  1-8A      B7.2    1.3E-03   0915
+6330       1656   1659     A1743  HOL  2   FLA  S06W55    SF                0915
+
+6340 +     1834   ////      1834  PAL  U   RSP  025-054   III/1                 
+
+6350 +     1949   ////      1949  PAL  U   RSP  025-054   III/1                 
+
+6360 +     2043   ////      2043  PAL  U   RSP  025-054   III/1                 
+
+6370       2131   ////      2132  PAL  C   RSP  025-046   III/1                 
+
+6380       2244   ////      2248  LEA  C   RSP  025-116   III/1                 

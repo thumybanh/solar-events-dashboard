@@ -1,0 +1,32 @@
+:Product: 19990923events.txt
+:Created: 1999 Sep 26 0302 UT
+:Date: 1999 09 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9810       0018   0020      0020  LEA  G   RBR  245       89                    
+9810 +     0018   ////      0020  CUL  C   RSP  18-150    III/2                 
+9810 +     0019   0028      0034  GO8  5   XRA  1-8A      C1.2    7.8E-04       
+
+9830       0306   0306      0306  LEA  G   RBR  245       110                   
+
+9840       0819   0819      0819  SVI  G   RBR  410       160                   
+
+9890      A0922   ////      2345  LEA  3   DSF  S24W32    15      B.0A          
+
+9850       1232   1234      1237  RAM  3   FLA  N11W56    SF                8700
+
+9860 +     1428   1430      1434  RAM  3   FLA  N11W58    SF                8700
+
+9870       1504   ////      1529  RAM  3   DSF  S14W47    16      B.0A          
+
+9880       2119   2120      2120  PAL  G   RBR  410       1                     
+
+9920       2305   ////      2306  CUL  C   RSP  90-180    III/1                 

@@ -1,0 +1,92 @@
+:Product: 20021120events.txt
+:Created: 2002 Nov 23 0300 UT
+:Date: 2002 11 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Nov 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2610       0028   0028      0028  LEA  G   RBR  410       73                    
+
+2620       0140   ////      0140  LEA  C   RSP  027-088   III/1                 
+
+2630 +     0141   0146      0206  GO8  5   XRA  1-8A      C1.7    2.3E-03       
+
+2920       0302   0312      0316  GO8  5   XRA  1-8A      C1.4    1.1E-03       
+
+2650       0308   0308      0308  LEA  G   RBR  410       130                   
+2650       0308   ////      0308  CUL  C   RSP  360-470   III/1                 
+
+2950       0331   ////      0331  CUL  C   RSP  100-300   III/1                 
+
+2660       0440   0441      0441  LEA  G   RBR  245       71                    
+
+2930       0442   0450      0457  GO8  5   XRA  1-8A      C1.1    9.1E-04       
+
+2670       0447   0447      0447  LEA  G   RBR  245       82                    
+
+2680 +     0606   0607      0608  LEA  G   RBR  245       390                   
+
+2690 +     0708   ////      0709  LEA  C   RSP  025-078   III/1                 
+
+2700 +     0742   0742      0742  SVI  G   RBR  245       190                   
+
+2710       0754   0754      0754  SVI  G   RBR  245       53                    
+2710       0754   0754      0754  SVI  G   RBR  410       23                    
+
+2720 +     0847   0847      0847  SVI  G   RBR  245       52                    
+
+2730 +     0850   0851      0854  SVI  G   RBR  245       150                   
+
+2740 +     0900   ////      0900  LEA  C   RSP  048-120   III/1                 
+
+2750       0913   0913      0914  SVI  G   RBR  245       84                    
+
+2760       0924   0924      0924  SVI  G   RBR  245       57                    
+
+2640 +     0927   1059      1107  SVI  G   RNS  245       260                   
+
+2770       0950   ////      0951  SVI  U   RSP  030-081   III/1                 
+
+2780      B1110  U1122     A1141  RAM  3   FLA  S19E22    SF      ERU       0198
+2780       1115   1124      1131  GO8  5   XRA  1-8A      C1.3    1.1E-03   0198
+
+2790       1201   1201      1201  SVI  U   RBR  245       92                    
+
+2800 +     1210   1211      1213  SAG  G   RBR  245       450                   
+
+2810       1419   1419      1419  SVI  U   RBR  245       59                    
+
+2820       1446   ////      1446  HOL  C   RSP  025-086   III/1                 
+
+2830       1451   1451      1451  SVI  U   RBR  245       92                    
+
+2840       1520   1525      1530  GO8  5   XRA  1-8A      C1.0    5.8E-04   0198
+2840      B1522  U1522      1529  RAM  3   FLA  S16E20    SF      ERU       0198
+
+2850 +     1625   1633      1636  GO8  5   XRA  1-8A      C3.8    1.6E-03       
+
+2860 +     1715   1807      1809  GO8  5   XRA  1-8A      M1.4    1.1E-02   0198
+2860 +     1800   1806      1819  HOL  3   FLA  S19E24    SN      ERU       0198
+2860       1814   1814      1814  SAG  G   RBR  245       59                0198
+
+2880 +     1821   ////      1822  HOL  C   RSP  025-090   III/1                 
+
+2890       1854   1854      1854  SAG  G   RBR  245       110                   
+
+2900       1924   1929      1934  GO8  5   XRA  1-8A      C1.6    8.3E-04   0198
+2900       1927   1929      1934  HOL  3   FLA  S19E21    SF      ERU       0198
+
+2910       1938   ////      1948  HOL  3   SPY  ////      0.17    B.0A      0191
+
+2960       2045   ////      2046  CUL  C   RSP  20-40     III/1                 
+
+2970       2102   ////      2102  CUL  C   RSP  20-40     III/1                 
+
+2940 +     2351   2356      2359  GO8  5   XRA  1-8A      C5.2    1.3E-03   0198
+2940       2356   2356      2359  LEA  3   FLA  S19E12    SF                0198

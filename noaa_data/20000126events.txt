@@ -1,0 +1,49 @@
+:Product: 20000126events.txt
+:Created: 2000 Jan 29 0302 UT
+:Date: 2000 01 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+300        0103   ////      0103  CUL  C   RSP  120-18    III/1                 
+
+130        0230   ////      0231  LEA  C   RSP  040-06    III/1                 
+
+140  +     0253   ////      0253  LEA  C   RSP  030-08    III/3                 
+
+290        0421   0432      0544  GO8  5   XRA  1-8A      C1.1    6.7E-03       
+290        0432   ////      0433  CUL  C   RSP  23-90     III/1                 
+
+150        0504   0504      0510  LEA  5   FLA  S14E22    SF                8845
+
+160  +     0602   0606      0610  GO8  5   XRA  1-8A      C1.1    4.9E-04   8845
+160        0604   0605      0616  LEA  5   FLA  S14E21    SF                8845
+
+170        0738   0738      0739  SVI  U   RBR  245       60                    
+
+180  +     0805   ////      0805  LEA  C   RSP  030-05    III/2                 
+
+190        1029   1029      1029  SVI  G   RBR  245       95                    
+
+200        1057   1057      1058  SVI  U   RBR  245       89                    
+
+210        1106   1157      1247  GO8  5   XRA  1-8A      C1.0    6.7E-03       
+210        1115   1140      1210  SVI  G   RNS  245       210                   
+210        1119   1137      1203  SVI  G   RNS  410       120                   
+210        1125   ////      1312  SVI  C   RSP  035-08    CTM/2                 
+
+220        1302   1304      1305  SVI  G   RBR  245       78                    
+
+240        1347   ////      1353  SVI  C   RSP  071-08    III/1                 
+
+250        1420   1421      1421  SAG  G   RBR  245       51                    
+
+260  +     1802   1813      1817  GO8  5   XRA  1-8A      C1.0    7.7E-04       
+
+280        2025   2025      2028  HOL  3   FLA  N04W47    SF                8844

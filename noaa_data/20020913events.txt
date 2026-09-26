@@ -1,0 +1,69 @@
+:Product: 20020913events.txt
+:Created: 2002 Sep 16 0300 UT
+:Date: 2002 09 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Sep 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3700       0211   0213      0222  LEA  3   FLA  S07E03    SF                0114
+3700       0218   0218      0218  LEA  G   RBR  245       270               0114
+
+3860       0447   ////      1643  SVI  C   RSP  025-180   CTM/1                 
+
+3840       0600   ////      1200  IZM  F   RNS  204       30                    
+
+3710       0657   0717      0740  GO8  5   XRA  1-8A      C2.8    5.5E-03   0105
+3710 +     0721   0721      0721  LEA  G   RBR  245       71                0105
+
+3730       1101   1101      1101  SVI  G   RBR  245       62                    
+
+3740       1148   1148      1148  SVI  G   RBR  245       52                    
+
+3750 +     1230   1230      1230  SVI  G   RBR  245       79                    
+
+3770       1253   1253      1253  SAG  G   RBR  245       52                    
+
+3780       1310   1310      1310  SAG  G   RBR  245       52                    
+
+3790       1320   ////      1322  HOL  C   RSP  025-083   III/1                 
+
+3800       1345   ////      1353  SAG  C   RSP  030-060   III/1                 
+3800       1352   1352      1352  SAG  G   RBR  245       69                    
+
+3810       1356   1356      1356  SVI  G   RBR  245       50                    
+
+3820       1444   1444      1444  SAG  G   RBR  245       57                    
+
+3830       1500   1500      1500  SAG  G   RBR  2695      50                    
+
+3870       1506   1506      1506  SVI  G   RBR  245       77                    
+
+4160 +     1506   1556      0654  COM  G   RNS  245       340                   
+
+3880       1627   1627      1627  SVI  G   RBR  245       110                   
+
+3890 +     1738   1739      1739  SAG  G   RBR  1415      75                    
+3890       1739   1739      1739  PAL  G   RBR  4995      21                    
+3890       1739   1739      1739  PAL  G   RBR  8800      21                    
+
+3900 +     2004   ////      2004  HOL  C   RSP  025-086   III/1                 
+
+3920       2058   2058      2058  SAG  G   RBR  245       100                   
+
+3930       2101   2105      2106  PAL  G   RBR  245       430                   
+
+3940       2111   ////      2111  PAL  C   RSP  025-066   III/1                 
+
+3950       2121   2121      2121  SAG  G   RBR  245       140                   
+
+3960       2153   2153      2153  PAL  G   RBR  245       59                    
+
+3990       2239   ////      0855  LEA  C   RSP  040-180   CTM/1                 
+
+3970       2318   ////      2318  HOL  C   RSP  025-131   III/1                 

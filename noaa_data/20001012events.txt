@@ -1,0 +1,54 @@
+:Product: 20001012events.txt
+:Created: 2000 Oct 15 0302 UT
+:Date: 2000 10 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6470       0141   ////      0144  LEA  C   RSP  025-180   III/1                 
+
+6540       0240   0451      0625  LEA  G   RNS  245       100                   
+
+6610       0728   ////      0728  CUL  C   RSP  28-70     III/1                 
+
+6490 +     0732   ////      0733  LEA  C   RSP  025-107   III/1                 
+
+6500       0827   ////      0827  LEA  C   RSP  025-115   III/1                 
+
+6510       0959   0959      1000  SVI  G   RBR  245       56                    
+
+6520       1024   ////      1024  SVI  U   RSP  028-160   III/1                 
+
+6550 +     1116   ////      1552  SVI  C   RSP  025-180   CTM/1                 
+
+6530       1126   1140      1152  GO8  5   XRA  1-8A      C1.1    1.4E-03   9182
+6530 +     1131   1137      1147  COM  3   FLA  N03W59    1F                9182
+
+6560       1441   1442      1442  SAG  G   RBR  245       69                    
+
+6570 +     1740   1746      1752  GO8  5   XRA  1-8A      C2.3    1.4E-03       
+
+6580 +     2026   2049      2145  GO8  5   XRA  1-8A      M1.5    5.2E-02   9182
+6580 +     2027   2028      2029  PAL  G   RBR  1415      40                9182
+6580 +     2027   2036      2041  PAL  G   RBR  2695      170               9182
+6580 +     2027   2036      2044  PAL  G   RBR  4995      240               9182
+6580 +     2033   2036      2041  PAL  G   RBR  8800      180               9182
+6580 +     2034   2035      2038  PAL  G   RBR  410       76                9182
+6580       2034   2036      2039  PAL  G   RBR  15400     94                9182
+6580 +     2035   2036      2037  PAL  G   RBR  606       64                9182
+
+6620       2115   ////      2328  CUL  C   RSP  25-160    CTM/1                 
+
+6580      B2117  U2127      2139  HOL  2   FLA  N02W56    SF                9182
+6580       2118   ////      2118  PAL  C   RSP  025-075   V/1               9182
+6580 +     2118   ////      2118  CUL  C   RSP  18-140    III/2             9182
+
+6590      B2235  U2245      2300  LEA  2   FLA  N13W72    SF                9195
+
+6600 +     2347   2350      2354  LEA  3   FLA  N20E74    SF                9197

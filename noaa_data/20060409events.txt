@@ -1,0 +1,25 @@
+:Product: 20060409events.txt
+:Created: 2006 Apr 12 0329 UT
+:Date: 2006 04 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Apr 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3660       0230   ////      0233  CUL  C   RSP  20-120    III/1                 
+
+3620       0231   ////      0231  LEA  C   RSP  025-137   III/2                 
+
+3630       0232   ////      0233  LEA  C   RSP  025-125   III/2                 
+
+3640       0537   ////      0618  SVI  C   RSP  038-146   CTM/1             0868
+3640 +     0547   0552      0610  G12  5   XRA  1-8A      B2.6    3.3E-04   0868
+3640       0550   0554      0604  G12  5   XFL  S07W51    2.5E+02 5.2E+02   0868
+3640 +     0608   ////      0608  LEA  C   RSP  025-102   III/2             0868
+
+3650       0646   ////      0647  SVI  C   RSP  025-078   III/1                 

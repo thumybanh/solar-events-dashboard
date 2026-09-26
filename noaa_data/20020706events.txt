@@ -1,0 +1,95 @@
+:Product: 20020706events.txt
+:Created: 2002 Jul 09 0300 UT
+:Date: 2002 07 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jul 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+160        0032   ////      0032  HOL  C   RSP  025-088   III/1                 
+
+170        0034   0034      0034  LEA  G   RBR  245       120                   
+
+180  +     0047   0051      0054  GO8  5   XRA  1-8A      B8.0    3.0E-04       
+
+190        0144   0144      0144  LEA  G   RBR  245       69                    
+
+200  +     0328   0342      0355  GO8  5   XRA  1-8A      M1.8    2.0E-02       
+
+350  +     0345   0416      0641  COM  G   RNS  245       890                   
+
+200  +     0346   0346      0346  LEA  G   RBR  245       94                    
+
+210        0419   0419      0419  LEA  G   RBR  245       99                    
+
+220        0440   ////      0440  SVI  U   RSP  114-164   III/1                 
+
+230  +     0506   0506      0506  LEA  G   RBR  245       62                    
+
+240        0507   ////      0510  SVI  U   RSP  025-082   III/2                 
+
+250        0515   0517      0517  SVI  G   RBR  245       90                    
+
+260  +     0706   0706      0706  LEA  G   RBR  245       67                    
+
+270  +     0830   ////      0833  LEA  C   RSP  050-180   III/1                 
+270  +     0832   0833      0833  SVI  G   RBR  245       160                   
+
+360        0919   ////      0930  SVI  3   DSF  S19W14    04      B.9A      0019
+
+280        0922   0922      0922  LEA  G   RBR  245       52                    
+280        0922   ////      0923  SVI  U   RSP  025-082   III/1                 
+
+290  +     0927   0938      0943  GO8  5   XRA  1-8A      C6.0    3.2E-03   0019
+290       U0931  U0937      0939  SVI  U   RBR  410       540               0019
+290        0931   0937      0939  SVI  G   RBR  2695      57                0019
+290        0931   0937      0939  SVI  G   RBR  4995      230               0019
+290        0931   0937      1002  SVI  3   FLA  S19W12    1N      ERU       0019
+290  +     0935   0937      0939  SVI  G   RBR  245       320               0019
+290        0935   0937      0939  SVI  G   RBR  606       890               0019
+290  +     0935   ////      0939  SVI  C   RSP  025-180   III/2             0019
+290        0936   0937      0939  SVI  G   RBR  8800      190               0019
+290        0937   0937      0938  SVI  G   RBR  1415      410               0019
+290        0937   0937      0939  SVI  G   RBR  15400     97                0019
+290        0937   ////      0958  SVI  C   RSP  031-180   II/1    445       0019
+
+300        0947   0947      0947  SVI  G   RBR  245       69                    
+
+310        0951   ////      0955  SVI  C   RSP  025-180   III/1                 
+
+320        1009   1009      1010  SVI  G   RBR  245       67                    
+
+330        1022   ////      1024  SVI  U   RSP  025-082   III/2                 
+
+340        1059   ////      1059  SVI  C   RSP  025-054   III/1                 
+
+380  +     1240   1247      1252  GO8  5   XRA  1-8A      C2.0    1.1E-03   0000
+380        1242   1242      1242  SAG  G   RBR  606       32                0000
+380  +     1242   1242      1242  SVI  G   RBR  1415      54                0000
+380  +     1242   1242      1242  SVI  G   RBR  2695      66                0000
+380  +     1242   1245      1302  RAM  3   FLA  N09E25    SF      ERU       0000
+
+390        1303   ////      1303  SVI  C   RSP  025-082   III/1                 
+
+400  +     1447   ////      1448  HOL  C   RSP  037-144   III/1                 
+
+410  +     1556   ////      1556  HOL  C   RSP  025-146   III/1                 
+410        1556   ////      1556  SAG  C   RSP  030-040   V/1                   
+
+510       A1723   ////     B0444  SVI  3   DSF  N12E31    07      B.0A      0000
+
+420  +     1933   2003      2036  GO8  5   XRA  1-8A      C1.0    3.3E-03       
+420  +     1935   ////      1936  HOL  C   RSP  025-130   III/1                 
+
+430  +     2046   2046      2047  PAL  G   RBR  245       88                    
+
+440  +     2047   ////      2047  PAL  C   RSP  025-087   III/1                 
+
+450  +     2316   ////      2316  HOL  C   RSP  025-072   III/1                 
+
+590        2349   0026      0044  GO8  5   XRA  1-8A      C1.8    3.8E-03       

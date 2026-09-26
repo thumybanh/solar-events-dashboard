@@ -1,0 +1,24 @@
+:Product: 20060826events.txt
+:Created: 2006 Aug 29 0329 UT
+:Date: 2006 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3910 +     0500   ////      0502  LEA  C   RSP  025-175   III/1                 
+
+3920       0937   ////      0937  SVI  C   RSP  025-058   III/1                 
+
+3930 +     1552   1607      1631  G12  5   XRA  1-8A      B3.0    5.6E-04       
+
+3940 +     1952   2007      2032  G12  5   XRA  1-8A      C2.5    3.1E-03   0905
+3940       2001   2008      2028  HOL  3   FLA  S11E10    SF      ERU       0905
+3940       2001   2007      2031  G12  5   XFL  S10E08    2.5E+03 1.2E+04   0905
+3940 +     2033   ////      2038  SAG  C   RSP  030-075   V/1               0905
+3940       2255   ////      0000  LEA  C   RSP  064-180   CTM/1             0905

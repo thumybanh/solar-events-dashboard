@@ -1,0 +1,61 @@
+:Product: 20000814events.txt
+:Created: 2000 Aug 17 0302 UT
+:Date: 2000 08 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2120       0012   0014      0029  LEA  3   FLA  N21E25    SF      ERU       9125
+
+2130       0018   0018      0021  LEA  3   FLA  N07W73    SF                9126
+
+2140       0226   0227      0238  LEA  4   FLA  N07W74    SF                9126
+
+2150 +     0456   0508      0529  GO8  5   XRA  1-8A      C8.1    1.1E-02   9126
+2150 +     0458   0503      0530  LEA  4   FLA  N06W75    1F      ERU       9126
+
+2160 +     0711   ////      0716  CUL  C   RSP  28-180    III/1                 
+
+2170 +     0737   0742      0745  GO8  5   XRA  1-8A      C5.5    1.7E-03   9129
+2170       0738   0743      0750  LEA  4   FLA  S06E47    1F                9129
+
+2180       1204   ////      1205  SVI  C   RSP  025-044   III/1                 
+
+2190 +     1251   1256      1300  GO8  5   XRA  1-8A      C2.2    9.2E-04   9129
+2190 +     1254   1254      1302  RAM  3   FLA  S05E56    SF                9129
+
+2200       1331   1332      1332  SAG  G   RBR  410       62                    
+
+2210       1333   1333      1339  RAM  3   FLA  N26E24    SF      ERU       9125
+
+2220       1431   1431      1436  RAM  3   FLA  N23E21    SF      ERU       9125
+
+2230       1541   1548      1608  RAM  3   FLA  N24E21    SF                9125
+2230       1546   ////      1553  HOL  C   RSP  025-062   III/1             9125
+
+2240       1633   ////      1633  HOL  C   RSP  025-068   III/1                 
+
+2250       1659   ////      1700  HOL  C   RSP  025-079   III/1                 
+
+2260       1821   1821      1829  RAM  3   FLA  S38W14    SF                9127
+
+2270       1917   1921      1923  HOL  3   FLA  S37W13    SF                9127
+
+2280       1918   1948      2005  GO8  5   XRA  1-8A      C1.6    5.4E-03   9125
+2280 +     1921   1946      2016  RAM  3   FLA  N22E17    SF                9125
+
+2290       1959   2013      2045  RAM  3   FLA  S23W23    SF                9130
+
+2450      A2215   ////      1050  RAM  3   DSF  S03E32    08      B.0A          
+
+2310       2326   2326      2332  HOL  3   FLA  N20W41    SF                9122
+
+2300 +     2331   2335      2339  GO8  5   XRA  1-8A      C1.6    6.5E-04   9129
+2300       2334   2334      2342  HOL  3   FLA  S04E50    SF                9129
+2300 +     2335   ////      2338  CUL  C   RSP  30-90     III/1             9129

@@ -1,0 +1,64 @@
+:Product: 20051120events.txt
+:Created: 2005 Nov 23 0329 UT
+:Date: 2005 11 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Nov 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4480 +     0009   0013      0016  G12  5   XRA  1-8A      B3.4    1.1E-04   0822
+4480       0014   0014      0014  G12  5   XFL  S07W13    7.9E+03 2.6E+04   0822
+
+4490       0023   ////      0023  PAL  C   RSP  025-062   III/1                 
+
+4500       0056   0057      0059  PAL  G   RBR  410       170                   
+
+4510       0112   ////      0113  LEA  C   RSP  025-104   III/1                 
+
+4520       0122   ////      0122  LEA  C   RSP  025-180   III/1                 
+
+4530       0148   ////      0149  LEA  C   RSP  025-070   III/1                 
+
+4540       0209   ////      0211  LEA  C   RSP  025-058   III/1                 
+
+4550       0246   ////      0246  PAL  C   RSP  104-180   III/1                 
+
+4690       0645   ////      0645  CUL  C   RSP  20-80     III/1                 
+
+4630 +     0700   ////      1200  IZM  F   RNS  204       25                    
+
+4570 +     0723   0736      0749  G12  5   XRA  1-8A      C2.5    2.8E-03   0822
+4570       0726   0742      0747  G12  5   XFL  S09W17    1.8E+04 1.0E+05   0822
+
+4580 +     0845   ////      0846  SVI  C   RSP  025-180   III/2                 
+
+4590       0929   ////      0929  SVI  C   RSP  025-075   III/2                 
+
+4600       1059   1104      1108  G10  5   XRA  1-8A      B1.9    9.2E-05       
+
+4610       1119   ////      1120  SVI  C   RSP  025-073   III/1                 
+
+4630       1203   1335      2035  SAG  G   RNS  245       350                   
+
+4620       1248   ////      1505  SVI  C   RSP  123-180   CTM/1                 
+
+4640 +     1506   1520      1530  G12  5   XRA  1-8A      C1.5    1.5E-03   0822
+4640       1509   1524      1528  G12  5   XFL  S08W22    1.1E+04 5.5E+04   0822
+4640       1513   ////      1513  SAG  C   RSP  030-051   III/1             0822
+
+4650       1753   ////      1958  SAG  C   RSP  112-170   CTM/1                 
+
+4660       1850   1850      1943  SAG  G   RNS  410       63                    
+
+4700       2150   ////      1013  LEA  C   RSP  089-180   CTM/1                 
+
+4670 +     2151   2155      2201  G12  5   XRA  1-8A      B2.8    1.5E-04   0822
+4670       2155   2156      2200  G12  5   XFL  S07W26    7.0E+03 2.2E+04   0822
+
+4680 +     2347   2355      0001  G12  5   XRA  1-8A      B7.5    4.3E-04   0822
+4680       2351   2359      0000  G12  5   XFL  S06W29    6.1E+03 3.1E+04   0822

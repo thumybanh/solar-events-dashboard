@@ -1,0 +1,56 @@
+:Product: 20001220events.txt
+:Created: 2000 Dec 23 0302 UT
+:Date: 2000 12 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9200 +     0053   0056      0100  GO8  5   XRA  1-8A      C1.7    6.8E-04       
+
+9210 +     0206   0210      0215  GO8  5   XRA  1-8A      C1.8    8.8E-04   9278
+9210       0207   0207      0215  LEA  3   FLA  N07E34    SF      ERU       9278
+
+9220 +     0510   0515      0520  GO8  5   XRA  1-8A      C3.3    1.5E-03   9278
+9220       0512   0515      0522  LEA  3   FLA  N07E33    1F      ERU       9278
+
+9230 +     0601   0606      0627  GO8  5   XRA  1-8A      C4.7    5.5E-03       
+9230       0603   0603      0604  LEA  G   RBR  1415      320                   
+9230       0603   0603      0604  LEA  G   RBR  2695      37                    
+9230       0603   0603      0604  LEA  G   RBR  4995      71                    
+
+9240       0651   ////      0651  LEA  C   RSP  025-180   III/1                 
+
+9250 +     0753   ////      0753  LEA  C   RSP  025-117   III/1                 
+
+9280       0946   ////      1500  SVI  U   RSP  025-158   CTM/1                 
+
+9260 +     1138   1202      1223  GO8  5   XRA  1-8A      C2.4    5.7E-03       
+9260       1149   ////      1151  SVI  C   RSP  025-147   III/1                 
+9260       1150   1151      1151  SVI  G   RBR  410       140                   
+
+9270 +     1335   1343      1358  GO8  5   XRA  1-8A      C2.3    2.7E-03       
+
+9290 +     1545   1549      1554  GO8  5   XRA  1-8A      C2.7    1.3E-03   9279
+9290       1548   1548      1603  HOL  3   FLA  S13E48    SF      ERU       9279
+
+9300 +     1933   1938      1958  GO8  5   XRA  1-8A      C2.6    3.4E-03   9272
+9300       1935   1936      1943  HOL  3   FLA  N14W60    SF      ERU       9272
+
+9310       2035   2043      2051  GO8  5   XRA  1-8A      C3.5    3.0E-03   9279
+9310       2038   2045      2057  HOL  3   FLA  S10E48    SF      ERU       9279
+
+9490      B2048   ////      2125  HOL  2   EPL  N23W90    0.24    B.9A      9279
+
+9320 +     2300   2303      2305  GO8  5   XRA  1-8A      C2.2    5.9E-04   9280
+9320       2302   2303      2309  LEA  3   FLA  N09E64    SF                9280
+
+9500       2317   2332      0005  GO8  5   XRA  1-8A      C2.5    6.5E-03   9280
+9500       2337   2340      2348  LEA  3   FLA  N06E61    SF                9280
+
+9340       2353   ////      2353  LEA  C   RSP  073-164   III/1                 

@@ -1,0 +1,88 @@
+:Product: 20011103events.txt
+:Created: 2001 Nov 06 0300 UT
+:Date: 2001 11 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Nov 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+60   +     0229   0233      0235  GO8  5   XRA  1-8A      C2.7    7.3E-04   9684
+60         0232   0232      0238  LEA  3   FLA  N04W10    SF      ERU       9684
+
+70   +     0240   0243      0245  GO8  5   XRA  1-8A      C2.1    5.9E-04   9687
+
+80   +     0247   0252      0256  GO8  5   XRA  1-8A      C3.0    1.3E-03   9684
+80         0249   0250      0258  LEA  3   FLA  N03W03    SF      ERU       9684
+
+90         0416   0416      0417  LEA  G   RBR  245       130                   
+
+100  +     0432   0435      0438  GO8  5   XRA  1-8A      C2.3    6.9E-04   9684
+100        0434   0435      0439  LEA  3   FLA  N05W07    SF                9684
+
+110  +     0530   0535      0539  GO8  5   XRA  1-8A      C2.4    1.2E-03   9687
+
+120  +     0738   0741      0743  GO8  5   XRA  1-8A      C5.1    1.3E-03   9687
+
+290        0740   0741      0752  LEA  3   FLA  N13W42    SF      ERU       9682
+
+130        0833   0834      0838  LEA  3   FLA  N13W44    SF      ERU       9682
+
+140        0914   0915      0915  LEA  G   RBR  245       160                   
+
+150        0927   0927      0927  LEA  G   RBR  245       56                    
+
+160  +     0936   0936     A0950  SVI  3   FLA  N12W43    SF      ERU       9682
+
+170  +     1019   1029      1037  GO8  5   XRA  1-8A      C2.7    2.3E-03   9687
+170       B1022  U1023     A1038  SVI  2   FLA  S21E54    SF                9687
+
+180        1151   1152      1153  SAG  U   RBR  245       180                   
+
+190        1343   1344      1344  SAG  G   RBR  245       88                    
+
+200        1407   1408      1410  SVI  3   FLA  N12W47    SF                9682
+
+210       B1411  U1412     A1419  SVI  2   FLA  N12W47    SF                9682
+
+550  +    A1508   ////     B0629  COM  3   DSF  N02W30    09      B.0A          
+
+230        1512   1513      1513  SAG  G   RBR  245       110                   
+
+240  +     1523   1527      1531  GO8  5   XRA  1-8A      C2.4    1.0E-03   9684
+240        1525   1526      1534  HOL  3   FLA  N03W09    SF                9684
+240        1533   1533      1533  SAG  G   RBR  245       50                9684
+
+260        1537   1538      1540  HOL  3   FLA  N02W10    SF                9684
+
+270        1645   1645      1645  SAG  G   RBR  245       75                    
+
+280        1700   1700      1700  SAG  G   RBR  245       50                    
+
+300        1758   1758      1758  SAG  G   RBR  245       54                    
+
+310        1811   1811      1811  SAG  G   RBR  245       140                   
+310        1811   1811      1811  SAG  G   RBR  410       91                    
+310        1812   1812      1813  SAG  G   RBR  606       140                   
+310        1812   1813      1813  SAG  G   RBR  1415      140                   
+
+330        1819   1821      1825  HOL  3   FLA  N10W49    SF                9682
+
+340        1826   1826      1829  HOL  3   FLA  N10W49    SF                9682
+340        1827   1827      1827  SAG  G   RBR  245       55                9682
+
+350  +     1833   ////      1833  HOL  C   RSP  025-087   III/1                 
+
+360        1846   1849      1852  SAG  G   RBR  2695      62                9684
+360        1848   1851      1856  HOL  3   FLA  N04W20    SF      ERU       9684
+
+370        2015   2015      2015  SAG  U   RBR  245       81                    
+
+380  +     2029   2039      2047  GO8  5   XRA  1-8A      C3.8    3.7E-03   9682
+
+390  +     2105   2109      2112  GO8  5   XRA  1-8A      C4.1    1.5E-03   9684
+390        2108   2110      2121  HOL  3   FLA  N03W16    SF      ERU       9684

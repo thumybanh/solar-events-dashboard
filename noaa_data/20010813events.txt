@@ -1,0 +1,33 @@
+:Product: 20010813events.txt
+:Created: 2001 Aug 16 0302 UT
+:Date: 2001 08 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Aug 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4830 +     0106   ////      0107  CUL  C   RSP  57-160    III/1                 
+
+4840 +     0116   ////      0117  CUL  C   RSP  57-160    III/3                 
+
+4850       0230   ////      0233  CUL  C   RSP  57-170    III/1                 
+
+4860 +     0421   ////      0422  LEA  C   RSP  025-180   III/1                 
+
+4870       0524   0524      0525  SVI  G   RBR  410       53                    
+
+4880       0859   ////      0902  SVI  C   RSP  025-048   III/1                 
+
+4890 +     1343   1405      1427  GO8  5   XRA  1-8A      C4.6    9.2E-03       
+
+4900 +     1529   ////      1529  SVI  C   RSP  025-081   III/1                 
+
+4910 +     1816   ////      1817  HOL  C   RSP  025-164   III/1                 
+
+4920 +     1918   1921      1925  GO8  5   XRA  1-8A      C1.0    3.7E-04   9574
+4920 +     1921   1922      1929  HOL  3   FLA  S02W35    SF      ERU       9574

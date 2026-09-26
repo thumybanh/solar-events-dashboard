@@ -1,0 +1,64 @@
+:Product: 20021203events.txt
+:Created: 2002 Dec 06 0300 UT
+:Date: 2002 12 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5510       0013   ////      0013  LEA  C   RSP  025-064   III/1                 
+
+5520 +     0036   ////      0040  LEA  C   RSP  025-180   III/1                 
+
+5530 +     0204   ////      0206  LEA  C   RSP  025-180   III/2                 
+
+5540 +     0250   ////      0250  LEA  C   RSP  025-088   III/2                 
+
+5550 +     0301   ////      0302  LEA  C   RSP  025-135   III/2                 
+
+5560 +     0400   ////      0400  LEA  C   RSP  025-095   III/1                 
+
+5680       0446   ////      0446  CUL  C   RSP  25-90     III/1                 
+
+5690       0700   ////      0700  CUL  C   RSP  27-90     III/1                 
+
+5700       0745   ////      0745  CUL  C   RSP  27-90     III/1                 
+
+5710       0755   ////      0755  CUL  C   RSP  30-90     III/1                 
+
+5570 +     0811   0818      0823  GO8  5   XRA  1-8A      C8.3    3.5E-03   0208
+5570 +     0814   ////      0815  LEA  C   RSP  025-180   III/2             0208
+5570       0814   0817      0842  LEA  3   FLA  N09E25    SN      ERU       0208
+5570 +     0815   0815      0816  SVI  G   RBR  606       71                0208
+5570       0815   0816      0816  IZM  F   RBR  3000      24                0208
+
+5580       0904   ////      0904  SVI  U   RSP  025-060   III/1                 
+
+5590       1140   ////      1145  SVI  U   RSP  025-147   III/1                 
+
+5600 +     1259   1306      1313  GO8  5   XRA  1-8A      C1.2    8.3E-04       
+5600       1300   ////      1306  SVI  C   RSP  025-180   III/2                 
+
+5610       1317   1319      1323  RAM  3   FLA  N16E83    SF                0213
+
+5620       1334   1336      1350  RAM  3   FLA  S18W06    SF      ERU       0207
+
+5630       1547   1547      1547  SAG  G   RBR  245       64                    
+
+5640       1741   1741      1751  RAM  3   FLA  N10E19    SF      ERU       0208
+
+5650       1857   1857      1857  SAG  G   RBR  245       95                    
+
+5660       2007   ////      2009  HOL  U   RSP  025-180   III/1                 
+
+5670       2013   2019      2030  RAM  3   FLA  S21W04    SF                0207
+5670       2021   ////      2022  HOL  U   RSP  025-180   III/1             0207
+
+5720       2141   ////      2141  CUL  C   RSP  57-150    III/1                 
+
+5730       2149   ////      2219  LEA  C   RSP  110-180   CTM/1                 

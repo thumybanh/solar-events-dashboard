@@ -1,0 +1,36 @@
+:Product: 20050808events.txt
+:Created: 2005 Aug 11 0329 UT
+:Date: 2005 08 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Aug 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5180       0600   ////      1200  IZM  F   RNS  204       10                    
+
+5120       0633   0633      0633  LEA  G   RBR  245       51                    
+
+5130 +     0643   0643      0643  LEA  G   RBR  245       69                    
+
+5140 +     0823   ////      1152  SVI  C   RSP  025-172   CTM/1                 
+5140 +     0843   0843      0843  SVI  G   RBR  245       54                    
+
+5150       0956   0957      1000  SVI  G   RBR  245       60                    
+
+5160       1035   1040      1040  SVI  G   RBR  245       78                    
+
+5170       1149   1150      1150  SAG  G   RBR  245       67                    
+
+5190       1743   1743      1743  PAL  G   RBR  245       54                    
+
+5200 +     1807   1807      1807  SAG  G   RBR  245       50                    
+
+5210 +     2019   2023      2025  G12  5   XRA  1-8A      B2.4    7.0E-05   0792
+5210       2022   2024      2024  G12  5   XFL  N12W70    5.0E+01 9.0E+01   0792
+
+5220 +     2310   2314      2317  G12  5   XRA  1-8A      B1.6    5.9E-05       

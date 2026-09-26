@@ -1,0 +1,37 @@
+:Product: 20091219events.txt
+:Created: 2009 Dec 20 2102 UT
+:Date: 2009 12 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2009 Dec 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3220       0010   0014      0017  G14  5   XRA  1-8A      C2.9    6.0E-04   1035
+3220       0014   0014      0019  LEA  2   FLA  N30W46    SF                1035
+
+3230       0049   0053      0055  G14  5   XRA  1-8A      B2.3    5.0E-05       
+
+3240       0104   0109      0112  G14  5   XRA  1-8A      B7.4    1.8E-04       
+3240       0107   ////      0147  LEA  C   RSP  036-129   CTM/1                 
+
+3250       0123   ////      0123  PAL  C   RSP  027-110   III/1                 
+
+3260       0136   0153      0155  G14  5   XRA  1-8A      B9.1    3.2E-04   1035
+3260       0151   0153      0158  LEA  3   FLA  N31W45    SF                1035
+
+3270       0648   0653      0656  G14  5   XRA  1-8A      B1.4    4.7E-05       
+
+3320       0700   ////      1200  IZM  F   RNS  204       10                    
+
+3280       0716   0719      0722  G14  5   XRA  1-8A      B1.2    2.7E-05       
+
+3290       1030   1035      1039  G14  5   XRA  1-8A      B1.5    6.0E-05       
+
+3300       1108   1113      1119  G14  5   XRA  1-8A      B6.6    2.8E-04       
+
+3310       1133   1133      1133  SVI  U   RBR  245       120                   

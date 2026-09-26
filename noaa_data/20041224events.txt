@@ -1,0 +1,25 @@
+:Product: 20041224events.txt
+:Created: 2004 Dec 27 0302 UT
+:Date: 2004 12 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Dec 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8910       0255   0356      0504  G10  5   XRA  1-8A      C1.8    8.6E-03       
+8910      B0349   0358      0408  CUL  3   FLA  S23E45    SF                    
+
+8930      B0428   0428      0521  CUL  3   FLA  S22E44    SF                    
+
+8890       1140   ////      1144  SVI  C   RSP  054-137   III/1                 
+
+8900       1332   ////      1334  SVI  C   RSP  025-155   III/1                 
+
+8970      A1445   ////     B0721  SVI  3   DSF  N03E15    06      B.0A          
+
+8920       2321   ////      2322  LEA  C   RSP  025-141   III/1                 

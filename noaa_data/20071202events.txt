@@ -1,0 +1,35 @@
+:Product: 20071202events.txt
+:Created: 2007 Dec 06 2359 UT
+:Date: 2007 12 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center.
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Dec 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6370       0205   0205      0210  LEA  3   FLA  S06E64    SF                0977
+
+6380       0212   0217      0225  LEA  3   FLA  S06E65    SF      BPT       0977
+
+6390       0226   0228      0231  LEA  3   FLA  S06E64    SF      BPT       0977
+
+6400       0237   0238      0243  LEA  3   FLA  S06E64    SF      DSD       0977
+
+6410       0300   0300      0304  LEA  3   FLA  S06E64    SF                0977
+
+6420       0320   0323      0325  LEA  3   FLA  S06E64    SF                0977
+
+6430       0330   0338      0341  LEA  3   FLA  S06E64    SF                0977
+
+6440       0350   0352      0355  LEA  3   FLA  S06E64    SF                0977
+
+6450       0403   0408      0411  LEA  3   FLA  S06E63    SF                0977
+
+6460       1954   2005      2009  G11  5   XRA  1-8A      B7.0    3.4E-04   0977
+6460       1959   2005      2017  HOL  3   FLA  S07E66    SF                0977
+
+6470       2256   2256      2300  LEA  3   FLA  S07E65    SF                0977

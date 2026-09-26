@@ -1,0 +1,52 @@
+:Product: 20040914events.txt
+:Created: 2004 Sep 17 0302 UT
+:Date: 2004 09 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Sep 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3590       0000   ////      0000  CUL  C   RSP  20-180    CTM/1                 
+
+3500       0020   ////      0020  CUL  C   RSP  20-180    III/1                 
+
+3510       0032   ////      0000  CUL  C   RSP  20-180    CTM/1                 
+
+3490       0301   ////      0305  PAL  C   RSP  025-049   III/1                 
+
+3520       0340   ////      0621  LEA  C   RSP  074-135   CTM/1                 
+
+3530 +     0549   0552      0554  G12  5   XRA  1-8A      C2.2    5.7E-04   0672
+3530       0552   0552      0554  G12  5   XFL  N02E20    8.5E+02 3.2E+03   0672
+
+3550 +     0747   0930      1000  G12  5   XRA  1-8A      M1.5    4.5E-02   0672
+3550       0751   0948      0959  G12  5   XFL  N03E16    1.2E+04 7.1E+04   0672
+3550       0854   0930      1131  SVI  3   FLA  N04E17    1F      ERU       0672
+3550 +     0858   0901      0902  LEA  G   RBR  410       260               0672
+3550 +     0904   0922      0930  SVI  G   RBR  2695      120               0672
+3550 +     0905   0924      0944  SVI  G   RBR  4995      96                0672
+3550 +     0906   0914      0927  SVI  G   RBR  1415      230               0672
+3550 +     0908   0922      0927  LEA  G   RBR  606       240               0672
+3550 +     0908   0910      0928  SVI  G   RBR  245       510               0672
+3550 +     0909   ////      1552  SVI  C   RSP  025-180   IV/1              0672
+3550       0919   0919      0919  SVI  G   RBR  15400     22                0672
+3550       0926   ////      0934  SVI  C   RSP  025-044   II/1    1018      0672
+
+3560       1047   1047      1048  SVI  G   RBR  245       260                   
+3560       1047   1047      1048  SVI  U   RBR  410       110                   
+3560       1047   ////      1048  SVI  C   RSP  025-147   III/1                 
+
+3580 +     1354   1404      1418  G12  5   XRA  1-8A      C2.3    2.6E-03       
+3580       1358   1416      1417  G12  5   XFL  S09E86    1.8E+03 4.5E+03       
+
+3600       1616   ////      2319  HOL  3   SPY  ////      0.22    B.6A          
+3600 +     1647   1655      1725  G12  5   XRA  1-8A      C1.8    3.0E-03       
+3600       1650   1656      1724  G12  5   XFL  S10E83    2.1E+03 5.8E+03       
+
+3610 +     2139   2142      2201  G12  5   XRA  1-8A      B5.7    6.8E-04       
+3610       2142   2146      2200  G12  5   XFL  S12E81    7.5E+02 1.4E+03       

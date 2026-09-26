@@ -1,0 +1,37 @@
+:Product: 20001119events.txt
+:Created: 2000 Nov 22 0302 UT
+:Date: 2000 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2370       0057   ////      0102  LEA  C   RSP  035-104   III/1                 
+
+2380       0122   0123      0128  LEA  3   FLA  S21W09    SF      ERU       9231
+
+2390 +     0201   0207      0213  GO8  5   XRA  1-8A      C9.1    4.5E-03       
+
+2400       0724   0725      0733  LEA  3   FLA  S24W06    SF      ERU       9231
+
+2410       0933   0941      0946  G10  5   XRA  1-8A      C1.7    1.2E-03       
+
+2470       0951   0957      1001  GO8  5   XRA  1-8A      C1.7    9.4E-04       
+
+2420 +     1135   1141      1146  GO8  5   XRA  1-8A      C1.5    8.6E-04   9234
+2420       1140   1141      1155  RAM  3   FLA  N20W25    1N      ERU       9234
+
+2430 +     1351   1353      1354  SAG  G   RBR  245       99                    
+
+2440 +     1403   1409      1444  GO8  5   XRA  1-8A      C2.4    5.0E-03       
+
+2450       1831   1833      1838  RAM  3   FLA  N11W29    SF      ERU       9237
+
+2460 +     2203   2208      2217  GO8  5   XRA  1-8A      C1.2    9.0E-04       
+
+2490       2352   0036      0103  GO8  5   XRA  1-8A      C7.2    1.8E-02   9231

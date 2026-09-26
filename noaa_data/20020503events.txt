@@ -1,0 +1,74 @@
+:Product: 20020503events.txt
+:Created: 2002 May 06 0300 UT
+:Date: 2002 05 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5120       0014   ////      0014  LEA  C   RSP  079-180   III/1                 
+
+5180       0336   0359      0428  LEA  3   FLA  S18E60    SF      ERU       9934
+
+5130       0354   0401      0404  GO8  5   XRA  1-8A      C2.0    9.6E-04   9932
+5130 +     0400   0401      0405  LEA  3   FLA  S30E39    SF      ERU       9932
+5130 +     0401   0401      0402  LEA  G   RBR  245       610               9932
+5130       0401   ////      0403  LEA  C   RSP  082-180   III/1             9932
+
+5140       0534   0534      0534  SVI  G   RBR  245       52                    
+
+5150 +     0642   0647      0652  GO8  5   XRA  1-8A      C3.3    1.4E-03   9926
+5150       0644   0647      0655  LEA  3   FLA  N16W48    SF      ERU       9926
+
+5240       0927   0927      0932  SVI  3   FLA  S22E53    SF                9934
+
+5250       0931   ////      1218  SVI  U   RSP  112-180   CTM/1                 
+
+5170       1047   ////      1047  SVI  U   RSP  028-050   III/1                 
+
+5330 +     1122   1216      2043  SAG  G   RNS  245       290                   
+
+5190       1125   ////      1126  SAG  C   RSP  030-080   III/2                 
+
+5200 +     1216   ////      1217  SVI  C   RSP  025-180   III/2                 
+
+5260 +     1318   ////      2126  COM  C   RSP  30-80     CTM/1                 
+
+5210       1337   ////      1337  SAG  C   RSP  030-065   III/2                 
+
+5220       1353   1353      1358  HOL  3   FLA  S17E54    SF                9934
+
+5230       1403   1404      1412  HOL  3   FLA  S17E53    SF                9934
+
+5270       1713   1715      1723  HOL  4   FLA  S17E49    SF                9934
+
+5280 +     1802   1809      1817  GO8  5   XRA  1-8A      C3.9    2.6E-03   9934
+5280       1802   ////      1804  SAG  C   RSP  030-055   V/1               9934
+5280       1803   1807      1840  HOL  3   FLA  S17E50    1F      ERU       9934
+
+5300 +     1930   ////      1930  SAG  C   RSP  030-080   III/2                 
+
+5310 +     2012   2020      2029  GO8  5   XRA  1-8A      C5.4    3.8E-03       
+5310       2016   ////      2018  HOL  C   RSP  025-151   III/1                 
+
+5320       2045   2052      2100  HOL  3   FLA  S17E48    SF                9934
+5320       2100   ////      2100  SAG  C   RSP  030-060   III/1             9934
+
+5340 +     2114   2121      2127  GO8  5   XRA  1-8A      C2.8    1.7E-03       
+
+5350       2147   2150      2154  HOL  3   FLA  S16E48    SF                9934
+
+5360       2203   2211      2218  HOL  3   FLA  S17E49    SF                9934
+
+5370       2221   2221      2221  SAG  G   RBR  245       51                    
+
+5410       2300   ////      0012  LEA  C   RSP  071-180   CTM/1                 
+
+5380 +     2330   2330      2331  PAL  G   RBR  8800      200                   
+5380 +     2330   2330      2331  PAL  G   RBR  15400     150                   
+5380 +     2331   2335      2339  GO8  5   XRA  1-8A      C3.2    1.1E-03       

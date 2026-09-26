@@ -1,0 +1,41 @@
+:Product: 20070515events.txt
+:Created: 2007 May 19 2332 UT
+:Date: 2007 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 390 +     0427   0435      0443  G11  5   XRA  1-8A      B4.2    2.5E-04   0956
+
+ 400       0509   0514      0518  G10  5   XRA  1-8A      B1.1    5.1E-05   0956
+ 400 +     0509   ////      0510  LEA  C   RSP  025-180   III/1             0956
+
+ 410 +     0541   ////      0542  LEA  C   RSP  025-118   III/1                 
+
+ 420       0944   ////      0944  SVI  C   RSP  025-055   III/1                 
+
+ 430       1009   ////      1011  SVI  C   RSP  025-059   III/1                 
+
+ 440 +     1518   1518      1518  SAG  U   RBR  245       1200                  
+
+ 450 +     1527   1537      1544  G11  5   XRA  1-8A      C1.0    6.7E-04   0956
+ 450 +     1531   ////      1535  SVI  C   RSP  025-153   III/2             0956
+ 450       1534   1534      1543  HOL  3   FLA  N00E50    SF      ERU       0956
+
+ 460 +     1657   1705      1707  G11  5   XRA  1-8A      B1.7    6.1E-05   0956
+ 460       1658   ////      1704  SVI  C   RSP  025-180   III/1                 
+
+ 470 +     1802   1809      1816  G11  5   XRA  1-8A      B3.2    1.8E-04   0956
+
+ 480       1825   ////      1826  PAL  C   RSP  025-141   III/1                 
+
+ 490 +     1902   1907      1912  G11  5   XRA  1-8A      B2.7    1.2E-04   0956
+
+ 500 +     2303   2315      2345  G11  5   XRA  1-8A      B2.0    4.0E-04   0956
+ 500 +     2341   ////      2341  PAL  C   RSP  025-154   III/1             0956

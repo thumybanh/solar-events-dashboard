@@ -1,0 +1,70 @@
+:Product: 19980727events.txt
+:Created: 1998 Jul 30 0302 UT
+:Date: 1998 07 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6530       0112   ////      0315  CUL  C   RSP  20-90     CTM/1                 
+
+6510 +     0227   0227      0227  LEA  G   RBR  245       75                    
+
+6540       0253   0253      0253  LEA  G   RBR  245       57                    
+
+6550       0257   0257      0257  LEA  G   RBR  245       99                    
+
+6560 +     0315   0315      0315  LEA  G   RBR  245       120                   
+
+6670 +     0320   0658      1200  COM  G   RNS  245       130                   
+
+6760       0456   ////      1021  SVI  C   RSP  035-08    CTM/2                 
+
+6570       0547   ////      0609  SVI  3   BSL  N16E90    0.23    B.9A          
+
+6670       0600   0000      1200       F   RNS  204       15                    
+
+6580       0644   0644      0644  SVI  U   RBR  245       71                    
+
+6690 +    A0653   ////      1124  SVI  3   DSF  N41E07    14      B.0A          
+
+6590       0657   0658      0659  SVI  U   RBR  245       190                   
+6590       0658   ////      0658  SVI  C   RSP  036-06    III/2                 
+
+6600       0701   0701      0702  SVI  G   RBR  245       57                    
+
+6620       0743   0743      0743  SVI  G   RBR  410       85                    
+6620       0744   0744      0744  SVI  G   RBR  245       120                   
+
+6630       0805   0805      0805  SVI  G   RBR  245       50                    
+6630       0805   0805      0805  SVI  G   RBR  410       85                    
+
+6640       0958   0958      0958  SVI  U   RBR  245       68                    
+
+6700 +     1055   ////      1747  SVI  C   RSP  035-08    CTM/3                 
+
+6650       1056   1058      1059  SAG  G   RBR  410       180                   
+6650       1058   1058      1058  SAG  G   RBR  245       30                    
+
+6660       1145   ////      1146  SVI  C   RSP  035-07    III/2                 
+
+6710 +     1317   1321      1326  GO8  5   XRA  1-8A      B4.1    1.7E-04       
+6710 +     1318   1319      1321  SAG  G   RBR  8800      35                    
+6710       1319   1319      1320  SVI  G   RBR  15400     39                    
+
+6720       1525   1528      1554  SVI  3   FLA  N17W01    SF      ERU       8281
+
+6740       2028   ////      2028  PAL  C   RSP  031-05    III/1                 
+
+6750 +     2040   ////      2041  SAG  C   RSP  030-06    III/1                 
+
+6930      A2217   ////      1107  RAM  3   DSF  S31E08    06      B.0A      8280
+
+6770       2257   2258      2258  SAG  G   RBR  245       59                    
+
+6780 +     2345   2349      2353  GO8  5   XRA  1-8A      B3.2    1.3E-04       

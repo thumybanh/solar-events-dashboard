@@ -1,0 +1,68 @@
+:Product: 19991028events.txt
+:Created: 1999 Oct 31 0302 UT
+:Date: 1999 10 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Oct 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7470       0000   0001      0006  LEA  4   FLA  N10E58    SF                8747
+
+7370       0027   ////      0032  CUL  C   RSP  18-360    III/3                 
+
+7260       0028   0028      0031  LEA  G   RBR  245       770                   
+7260 +     0028   ////      0032  LEA  C   RSP  030-08    III/3                 
+
+7380       0239   ////      0239  CUL  C   RSP  75-300    III/1                 
+
+7480       0444   ////      0546  CUL  C   RSP  23-170    CTM/2                 
+
+7290       0447   ////      0550  LEA  C   RSP  030-08    CTM/1                 
+
+7280       0451   0457      0507  G10  5   XRA  1-8A      C1.7    1.5E-03   8739
+7280 +     0456   ////      0457  CUL  C   RSP  18-260    III/3             8739
+7280       0457   0458      0501  LEA  3   FLA  S11W20    SF      BPT       8739
+
+7400       0600   0000      1200       F   RNS  204       20                    
+
+7300       0738   0738      0740  LEA  G   RBR  245       99                    
+
+7310 +     0808   0809      0810  SVI  G   RBR  245       61                    
+
+7320 +     0828   0836      0848  COM  3   FLA  N10E67    SF                8747
+
+7330 +     0936   0936      0936  SVI  G   RBR  245       150                   
+
+7340       0951   0951      0953  LEA  G   RBR  245       85                    
+
+7350 +     1026   1026      1032  LEA  3   FLA  N09E68    SF                8747
+
+7360 +     1131   1139      1146  COM  3   FLA  N10E64    SF                8747
+
+7400      U1202   1234      1529  SVI  U   RNS  245       150                   
+
+7390       1223   1223      1240  RAM  3   FLA  S10W31    SF                8739
+
+7410       1435   1435      1435  SVI  U   RBR  245       160                   
+
+7420 +     1439   1446      1451  GO8  5   XRA  1-8A      C1.6    1.0E-03   8747
+7420 +     1442   1443      1446  COM  3   FLA  N10E63    SF                8747
+
+7430       1459   ////      1459  SVI  C   RSP  046-06    III/2                 
+
+7510       2112   2115      2119  HOL  3   FLA  N12E59    SF                    
+
+7440       2200   2203      2205  HOL  3   FLA  N13E58    SF                8747
+
+7450       2210   2221      2233  HOL  3   FLA  N12E58    SF                8747
+
+7460       2252   2255      2258  HOL  3   FLA  N11E58    SF                8747
+
+7490       2357   2357      2358  LEA  G   RBR  245       96                    
+7490       2357   2357      2357  LEA  G   RBR  410       71                    
+7490       2357   2357      2358  LEA  G   RBR  606       41                    

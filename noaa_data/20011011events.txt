@@ -1,0 +1,50 @@
+:Product: 20011011events.txt
+:Created: 2001 Oct 14 0302 UT
+:Date: 2001 10 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Oct 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2540       0339   ////      0419  LEA  3   DSF  N22E48    03      B.0A      9657
+
+2470       0412   0425      0439  G10  5   XRA  1-8A      C4.6    5.4E-03   9657
+2470       0416   ////      0416  LEA  C   RSP  025-144   III/2             9657
+2470 +     0418   0425      0438  COM  3   FLA  N22E47    SF      PRB       9657
+2470       0424   ////      0427  LEA  C   RSP  025-160   V/3               9657
+2470       0428   ////      0439  LEA  C   RSP  025-108   II/1    416       9657
+
+2480 +     0528   ////      0529  LEA  C   RSP  025-180   III/1                 
+
+2570       0532   0729      0759  GO8  5   XRA  1-8A      C4.11   2.5E-02       
+
+2580       0748   ////     A0959  LEA  3   LPS  N11E90    0.03    B.9A      9661
+
+2490 +     0837   ////      0838  LEA  C   RSP  025-180   III/2             9661
+2490       0837   ////      0842  SVI  C   RSP  025-180   V/2               9661
+
+2500 +     0933   ////      0939  SVI  C   RSP  025-180   III/2                 
+
+2630      A0959   ////     B2235  LEA  2   DSF  N13W06    09      B.0A          
+
+2510 +     1109   1134      1139  GO8  5   XRA  1-8A      C2.6    3.9E-03       
+
+2550       1338   ////      1339  SAG  C   RSP  030-050   III/1                 
+
+2560       1352   ////      1352  HOL  C   RSP  025-131   III/1                 
+
+2590 +     1738   1743      1748  GO8  5   XRA  1-8A      C2.1    9.4E-04   9661
+2590       1741   1744      1747  HOL  3   FLA  N15E77    SF      ERU       9661
+
+2600 +     2010   ////      2011  HOL  C   RSP  025-088   III/1                 
+
+2610       2202   2208      2213  GO8  5   XRA  1-8A      C1.17   6.7E-04   9658
+2610       2207   2208      2215  HOL  3   FLA  S17E46    SF      ERU       9658
+
+2620 +     2242   2245      2247  GO8  5   XRA  1-8A      C1.3    3.2E-04   9663
+2620       2244   2245      2248  HOL  3   FLA  S14E65    SF                9663

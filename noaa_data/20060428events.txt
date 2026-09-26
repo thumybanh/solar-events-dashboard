@@ -1,0 +1,50 @@
+:Product: 20060428events.txt
+:Created: 2006 May 01 0329 UT
+:Date: 2006 04 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Apr 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4760 +     0257   0301      0304  G12  5   XRA  1-8A      B2.9    9.9E-05   0875
+4760       0300   0302      0304  G12  5   XFL  S12E27    3.0E+02 7.5E+02   0875
+
+4770 +     0325   0341      0348  G12  5   XRA  1-8A      B5.0    5.6E-04   0875
+4770       0330   0346      0346  G12  5   XFL  S06E18    1.1E+03 2.4E+03   0875
+
+4780 +     0736   0747      0803  G12  5   XRA  1-8A      B4.0    5.2E-04   0875
+4780       0744   0754      0802  G12  5   XFL  S06E16    8.3E+02 1.6E+03   0875
+
+4790 +     0818   0826      0843  G12  5   XRA  1-8A      C1.9    2.0E-03   0875
+4790       0822   0822      0839  LEA  3   FLA  S07E16    SF      PRB       0875
+4790       0822   0832      0842  G12  5   XFL  S07E16    2.7E+03 1.1E+04   0875
+
+4800       0858   0858      0858  SVI  G   RBR  245       53                    
+
+4810       0859   0859      0859  LEA  G   RBR  245       62                    
+
+4820       0953   ////      0956  SVI  C   RSP  025-180   III/2                 
+
+4830       1219   1219      1219  SVI  G   RBR  245       75                    
+4830 +     1219   ////      1220  SVI  C   RSP  025-166   III/2                 
+
+4840       1253   ////      1254  SAG  C   RSP  030-180   III/1                 
+
+4850 +     1720   ////      1721  PAL  C   RSP  025-093   III/1                 
+
+4860 +     2049   2053      2056  G12  5   XRA  1-8A      B3.6    1.3E-04       
+4860       2052   2054      2054  G12  5   XFL  N14E83    3.0E+02 6.4E+02       
+
+4880       2257   ////      0942  LEA  C   RSP  075-144   CTM/1                 
+
+4870 +     2323   2336      2352  G12  5   XRA  1-8A      C2.3    2.8E-03       
+4870       2326   2342      2352  G12  5   XFL  N16E90    2.2E+03 1.2E+04       
+4870 +     2328   2329      2329  PAL  G   RBR  245       65                    
+4870 +     2328   2328      2328  PAL  G   RBR  410       84                    
+4870 +     2328   ////      2329  LEA  C   RSP  028-180   III/2                 
+4870 +     2333   2333      2334  PAL  G   RBR  606       67                    

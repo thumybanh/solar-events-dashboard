@@ -1,0 +1,53 @@
+:Product: 20061215events.txt
+:Created: 2006 Dec 18 0329 UT
+:Date: 2006 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5140       0002   0004      0005  PAL  G   RBR  606       230                   
+5140       0002   ////      0005  CUL  C   RSP  300-850   III/1                 
+5140       0005   0005      0005  PAL  G   RBR  410       110                   
+
+5180       0237   ////      0237  CUL  C   RSP  20-90     III/1                 
+
+5190       0259   0300      0306  LEA  3   FLA  S06W51    SF      ERU       0930
+
+5200       0342   ////      0342  CUL  C   RSP  20-80     III/1                 
+
+5210       0346   ////      0347  CUL  C   RSP  25-90     III/1                 
+
+5220       0538   ////      0538  LEA  C   RSP  025-089   III/1                 
+
+5230       0628   ////      0635  LEA  C   RSP  025-084   III/1                 
+
+5240 +     0753   0806      0827  G12  5   XRA  1-8A      B7.0    1.2E-03   0930
+5240       0756   0802      0841  LEA  3   FLA  S09W49    SF      BPT       0930
+5240       0758   0813      0825  G12  5   XFL  S07W51    6.5E+02 1.3E+03   0930
+5240 +     0806   ////      1231  SVI  C   RSP  025-180   CTM/1             0930
+
+5250       0848   0909      0926  LEA  3   FLA  S09W49    SF      ERU       0930
+5250 +     0905   0905      0907  LEA  G   RBR  245       120               0930
+
+5260 +     1234   1250      1257  G12  5   XRA  1-8A      B3.3    3.4E-04   0930
+5260       1249   1256      1256  G12  5   XFL  S06W58    2.8E+02 5.0E+02   0930
+
+5270 +     1317   1338      1355  G12  5   XRA  1-8A      B7.5    1.3E-03   0930
+5270       1334   1343      1354  G12  5   XFL  S07W63    2.0E+03 3.6E+03   0930
+
+5280 +     1627   1633      1640  G12  5   XRA  1-8A      B1.8    1.2E-04       
+5280       1633   ////      1633  SAG  C   RSP  030-180   III/1                 
+
+5290 +     1750   1809      1819  G12  5   XRA  1-8A      B3.1    4.0E-04   0930
+5290       1754   1756      1814  G12  5   XFL  S05W59    1.8E+02 3.2E+02   0930
+
+5300 +     1851   1855      1903  G12  5   XRA  1-8A      B3.1    1.6E-04   0930
+5300       1857   1857      1857  G12  5   XFL  S07W62    2.3E+02 4.0E+02   0930
+
+5310       2028   2033      2040  G10  5   XRA  1-8A      B1.2    7.9E-05       

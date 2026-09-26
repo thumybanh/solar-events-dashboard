@@ -1,0 +1,82 @@
+:Product: 20061212events.txt
+:Created: 2006 Dec 15 0329 UT
+:Date: 2006 12 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Dec 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4560       0000   ////      0000  CUL  C   RSP  20-120    CTM/1                 
+
+4330 +     0022   0025      0030  G12  5   XRA  1-8A      B1.3    5.7E-05       
+
+4380       0057   ////      0530  LEA  C   RSP  042-075   CTM/1                 
+
+4340 +     0111   0115      0120  G12  5   XRA  1-8A      B1.2    6.0E-05       
+
+4350 +     0152   0201      0210  G12  5   XRA  1-8A      B1.4    1.3E-04   0930
+4350       0200   0228      0307  LEA  3   FLA  S06W10    SF      ERU       0930
+
+4360 +     0223   0226      0228  G12  5   XRA  1-8A      B1.7    4.7E-05       
+
+4370       0307   0308      0345  LEA  3   FLA  S07W11    SF      ERU       0930
+
+4510 +     0700   ////      1200  IZM  F   RNS  204       5                     
+
+4390       0710   ////      0711  LEA  C   RSP  025-132   III/1                 
+
+4400       0742   0751      0755  LEA  3   FLA  S09W10    SF                0930
+
+4410       0802   ////      0802  LEA  U   RSP  039-180   III/1                 
+
+4540       0826   0856      0908  G12  5   XRA  1-8A      B3.7    7.3E-04   0930
+
+4420       0846   0847      0855  LEA  3   FLA  S07W16    SF                0930
+
+4430 +     1310   1310      1310  SVI  G   RBR  245       200                   
+
+4440 +     1330   1333      1335  G12  5   XRA  1-8A      B1.9    4.1E-05   0930
+4440       1333   1333      1333  G12  5   XFL  S06W17    1.0E+02 1.9E+02   0930
+
+4450 +     1430   ////      1434  SVI  C   RSP  025-180   III/2                 
+4450       1430   ////      1522  SAG  U   RSP  112-180   CTM/1                 
+
+4460       1516   ////      1518  SAG  C   RSP  030-180   III/1                 
+
+4470       1554   ////      1556  SAG  C   RSP  030-180   III/1                 
+
+4480 +     1645   1708      1747  G11  5   XRA  1-8A      B7.7    2.1E-03       
+4480 +     1654   1707      1708  SAG  G   RBR  245       100                   
+4480 +     1655   1710      1710  SAG  U   RBR  410       110                   
+4480 +     1655   1706      1709  SAG  G   RBR  606       300                   
+4480 +     1659   1700      1702  SAG  G   RBR  1415      45                    
+4480       1659   ////      2044  SAG  C   RSP  030-180   CTM/2                 
+4480       1705   1705      1705  SAG  G   RBR  2695      38                    
+
+4490       1713   1713      1713  SAG  U   RBR  410       110                   
+
+4500       1716   1717      1717  SAG  G   RBR  245       120                   
+
+4510       1716   1916     U2019  SAG  G   RNS  245       2900                  
+
+4500       1717   1717      1717  SAG  U   RBR  410       100                   
+
+4510 +     1731   1913     U2003  SAG  G   RNS  606       490                   
+
+4520       1852   ////      1853  PAL  U   RSP  025-046   III/1                 
+
+4610       2152   ////      0000  LEA  C   RSP  042-180   CTM/1                 
+
+4530       2156   2157      2157  PAL  G   RBR  410       320                   
+
+4550       2319   2328      0755  LEA  U   RBR  245       350               0930
+4550       2321   2325      2345  LEA  U   RBR  410       350               0930
+4550       2323   2324      2334  LEA  U   RBR  606       170               0930
+4550       2323   2345      2348  LEA  G   RBR  1415      430               0930
+4550       2332   2335      2338  LEA  3   FLA  S06W22    2F      ERU       0930
+4550       2333   ////      2334  LEA  C   RSP  025-065   III/2             0930

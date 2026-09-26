@@ -1,0 +1,41 @@
+:Product: 20040826events.txt
+:Created: 2004 Aug 29 0302 UT
+:Date: 2004 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1090 +     0017   0021      0025  G12  5   XRA  1-8A      B3.8    1.4E-04   0661
+1090       0020   0024      0024  G12  5   XFL  N04W90    3.3E+02 6.6E+02   0661
+
+1110       0034   ////      0103  HOL  3   SPY  ////      0.17    B.9A      0661
+1110 +     0101   0101      0101  LEA  G   RBR  245       100               0661
+1110       0102   ////      0102  CUL  C   RSP  100-280   III/1             0661
+
+1130       0153   ////      0153  CUL  C   RSP  27-80     III/1                 
+
+1120 +     0208   0219      0230  G12  5   XRA  1-8A      C1.8    1.7E-03   0663
+1120       0211   0216      0229  G12  5   XFL  N10W06    2.8E+03 7.2E+03   0663
+1120       0214   0215      0224  LEA  3   FLA  N10W05    SF      ERU       0663
+
+1190       0449   0513      0517  G12  5   XRA  1-8A      B5.6    6.1E-04       
+
+1140 +     0757   0802      0810  G12  5   XRA  1-8A      B3.6    2.2E-04   0662
+1140       0801   0806      0809  G12  5   XFL  N13W76    4.8E+02 1.1E+03   0662
+
+1150       0844   ////      0845  SVI  C   RSP  025-058   III/1                 
+
+1160 +     1259   1304      1313  G12  5   XRA  1-8A      B8.4    6.1E-04       
+1160       1302   1308      1312  G12  5   XFL  S10E77    1.9E+03 5.6E+03       
+
+1170       1722   1722      1723  PAL  G   RBR  245       88                    
+
+1180       1737   1743      1751  G10  5   XRA  1-8A      B3.1    2.3E-04       
+
+1200       2321   ////      0022  LEA  C   RSP  072-147   CTM/1                 

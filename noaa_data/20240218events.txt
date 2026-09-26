@@ -1,0 +1,57 @@
+:Product: 20240218events.txt
+:Created: 2024 Feb 21 0357 UT
+:Date: 2024 02 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Feb 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1000       0006   ////      0006  LEA  C   RSP  025-060   III/1                 
+
+1010 +     0009   0016      0027  G16  5   XRA  1-8A      C2.7    2.4E-03   3583
+
+1020 +     0130   0130      0130  PAL  G   RBR  245       100                   
+
+1030       0145   0145      0145  PAL  G   RBR  245       110                   
+
+1060       0221   ////      0420  PAL  C   RSP  156-180   CTM/1                 
+
+1040       0230   0242      0250  G16  5   XRA  1-8A      C3.5    4.5E-03   3590
+1040       0241   0242      0243  LEA  3   FLA  N08W61    SF                3590
+
+1050       0250   0253      0257  G16  5   XRA  1-8A      C3.8    1.6E-03   3590
+
+1070 +     0335   0405      0418  G16  5   XRA  1-8A      C5.0    1.1E-02   3583
+
+1080 +     0418   0421      0425  G16  5   XRA  1-8A      C4.6    2.1E-03   3590
+
+1090       0425   ////      0603  LEA  C   RSP  100-180   CTM/1                 
+
+1100       0718   ////      0719  SVI  U   RSP  138-168   III/1                 
+
+1110 +     0835   ////      0855  LEA  C   RSP  040-180   VI/1                  
+
+1120       1050   ////      1050  SVI  C   RSP  129-180   III/1                 
+
+1140       1149   ////      1204  SVI  C   RSP  025-180   VI/1                  
+
+1130 +     1159   1208      1212  G16  5   XRA  1-8A      C2.6    1.7E-03   3583
+1130       1204   ////      1204  SAG  C   RSP  025-050   III/1                 
+
+1150       1402   ////      1403  SVI  C   RSP  114-180   III/1                 
+
+1160 +     1459   ////      1459  SVI  C   RSP  113-180   III/1                 
+
+1170       1532   ////      1536  SVI  C   RSP  054-180   III/1                 
+1170       1532   ////      1718  SAG  C   RSP  112-180   VI/1                  
+
+1180       1904   ////      2109  SAG  C   RSP  112-180   CTM/1                 
+
+1190 +     2328   2334      2342  G16  5   XRA  1-8A      C1.7    1.9E-03   3583
+
+1200       2342   2351      2355  G16  5   XRA  1-8A      C1.7    1.4E-03   3576

@@ -1,0 +1,53 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 2 Sep 1997
+
+EDITED EVENTS for 1997 Aug 30
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+4540 +     0007   0008      0009  LEA  G   RBR  245       260
+4540 +     0008   0008      0009  LEA  G   RBR  410       39
+
+4560       0115   0115      0117  LEA  G   RBR  245       26
+4560       0115   0115      0117  LEA  G   RBR  410       51
+4560       0115   0115      0117  LEA  G   RBR  606       18
+
+4570       0154   0154      0155  PAL  G   RBR  245       80
+
+4580       0548   0552      0555  GO8  5   XRA  1-8A      B4.2    1.6E-04
+
+4590       0720   0725      0728  GO8  5   XRA  1-8A      B5.7    2.1E-04   8076
+4590 +     0723   0725      0733  LEA  3   FLA  N24E10    SF                8076
+
+4600       1035   1042      1059  GO9  5   XRA  1-8A      B5.5    6.9E-04
+
+4610 +     1107   1125      1132  GO9  5   XRA  1-8A      C1.9    2.2E-03   8076
+4610       1115   1121      1133  SVI  3   FLA  N23E03    SF      ERU       8076
+
+4630       1328   ////      1328  SAG  C   RSP  030-05    III/1
+
+4640       1352   ////      1352  SAG  C   RSP  030-04    III/1
+
+4660       1504   ////      1504  SAG  C   RSP  030-05    III/1
+
+4670       1509   1525      1536  SVI  3   FLA  N28E05    SF                8076
+4670       1511   1516      1520  GO9  5   XRA  1-8A      B6.3    2.8E-04   8076
+4670 +     1522   1522      1522  SAG  G   RBR  245       77                8076
+
+4690       1709   1715      1720  GO9  5   XRA  1-8A      B5.1    2.7E-04
+
+4700 +     1755   1755      1756  SAG  G   RBR  245       65
+
+4710       1800   ////      1800  SAG  C   RSP  030-04    III/1
+
+4730 +     1844   ////      1844  SAG  C   RSP  035-05    III/1
+
+4740 +     2010   ////      2011  PAL  C   RSP  028-05    III/1
+
+4750 +     2038   ////      2039  PAL  C   RSP  027-05    III/2
+
+4760       2209   2209      2209  SAG  G   RBR  245       51
+
+4770 +     2230   2230      2236  PAL  G   RBR  245       76
+
+4650 +     2256   2311      0035  PAL  G   RNS  245       180

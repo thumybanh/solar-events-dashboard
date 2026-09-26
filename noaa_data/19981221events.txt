@@ -1,0 +1,46 @@
+:Product: 19981221events.txt
+:Created: 1998 Dec 24 0302 UT
+:Date: 1998 12 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2690       0129   ////      0129  LEA  C   RSP  030-06    III/1                 
+
+2680       0134   0134      0135  LEA  G   RBR  606       2000                  
+
+2710 +     0417   0429      0440  GO8  5   XRA  1-8A      C5.6    5.4E-03       
+
+2730       0630   0630      0631  LEA  G   RBR  245       61                    
+
+2750 +     1057   1100      1103  GO8  5   XRA  1-8A      B7.7    2.4E-04       
+
+2760 +     1122   1127      1138  GO8  5   XRA  1-8A      B8.5    7.3E-04       
+
+2770 +     1328   1334      1338  GO8  5   XRA  1-8A      C2.0    9.3E-04   8416
+2770       1333   1333      1343  RAM  3   FLA  N19E63    SF                8416
+
+2780       1533   1543      1552  RAM  3   FLA  N20E61    SF                8416
+2780       1546   ////      1546  SAG  C   RSP  030-07    III/1             8416
+
+2790       1621   1624      1626  RAM  3   FLA  N20E61    SF                8416
+
+2800 +     1806   ////      1806  SAG  C   RSP  030-08    III/1                 
+
+2810      B1836  U1837     A1850  RAM  2   FLA  N20E62    SF                8416
+2810 +     1845   ////      1846  SAG  C   RSP  030-08    III/2             8416
+
+2820 +     1937   1941      1948  GO8  5   XRA  1-8A      C1.4    7.1E-04   8415
+2820      B1942  U1942     A2015  HOL  3   FLA  N21E26    SF                8415
+
+2830 +     2114   2118      2122  GO8  5   XRA  1-8A      B9.4    4.0E-04       
+
+2840      B2123  U2125     A2127  RAM  2   FLA  N18E20    SF                8415
+
+2870       2317   ////      2317  CUL  C   RSP  23-90     III/1                 

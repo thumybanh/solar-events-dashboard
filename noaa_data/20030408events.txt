@@ -1,0 +1,58 @@
+:Product: 20030408events.txt
+:Created: 2003 Apr 11 0302 UT
+:Date: 2003 04 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Apr 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6800 +    A0045   ////     B1302  HOL  3   DSF  ////      07      B.0A      0330
+
+6670       0245   ////      0245  CUL  C   RSP  100-160   III/1                 
+
+6680       0304   ////      0304  CUL  C   RSP  25-180    III/1                 
+
+6690       0321   ////      0321  CUL  C   RSP  90-180    III/1                 
+
+6660 +     0355   ////      0355  CUL  C   RSP  65-180    III/1                 
+
+6710 +     0441   0520      0528  G10  5   XRA  1-8A      B7.7    1.6E-03       
+
+6790       0600   ////      1200  IZM  F   RNS  204       15                    
+
+6720       0723   0724      0724  SVI  G   RBR  245       100                   
+
+6860       0730   ////      0730  CUL  C   RSP  27-150    III/1                 
+
+6730       0935   0937      0939  SVI  G   RBR  245       58                    
+
+6740       0954   0955      0958  SVI  G   RBR  245       91                    
+6740       0958   0958      0958  SVI  G   RBR  410       76                    
+
+6750       1022   1023      1023  SVI  G   RBR  245       99                    
+
+6760 +     1221   1222      1223  SVI  G   RBR  410       63                    
+6760       1222   1222      1223  SVI  G   RBR  245       42                    
+
+6770       1329   1329      1329  SVI  G   RBR  245       110                   
+
+6780 +     1417   1421      1427  G10  5   XRA  1-8A      B3.2    1.8E-04       
+
+6810 +     1536   ////      1536  HOL  C   RSP  025-093   III/1                 
+
+6820 +     1915   1920      1924  G10  5   XRA  1-8A      B3.8    1.7E-04       
+
+6830 +     1927   ////      1927  HOL  C   RSP  025-090   III/1                 
+
+6840      B1941  U1941     A1952  RAM  2   FLA  S10W63    SF      ERU       0326
+
+6850 +     2112   ////      2113  CUL  C   RSP  20-90     III/1                 
+
+6870       2117   ////      2117  CUL  C   RSP  100-180   III/1                 
+
+6880       2300   ////      2300  CUL  C   RSP  30-90     III/1                 

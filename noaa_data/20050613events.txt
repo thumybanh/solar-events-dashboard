@@ -1,0 +1,46 @@
+:Product: 20050613events.txt
+:Created: 2005 Jun 14 1229 UT
+:Date: 2005 06 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jun 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5320       0001   0001      0001  LEA  G   RBR  245       55                    
+
+5330       0032   0032      0032  LEA  G   RBR  245       52                    
+
+5340       0109   ////      0110  LEA  C   RSP  025-046   III/1                 
+
+5350       0147   0147      0147  LEA  G   RBR  245       59                    
+
+5360       0156   0156      0156  LEA  G   RBR  245       85                    
+
+5380       0203   0212      0212  LEA  G   RNS  245       65                    
+
+5450       0253   ////      0256  CUL  C   RSP  20-180    III/2                 
+
+5370 +     0336   0339      0341  G12  5   XRA  1-8A      B2.9    7.5E-05       
+
+5390 +     0611   0615      0620  G12  5   XRA  1-8A      B2.7    1.3E-04       
+
+5400       0751   ////      0759  SVI  C   RSP  025-058   III/1                 
+
+5410 +     1002   1040      1115  G12  5   XRA  1-8A      B6.9    2.5E-03   0775
+5410       1006   1016      1022  G12  5   XFL  N09W36    4.5E+02 1.0E+03   0775
+
+5420 +     1212   1215      1217  G12  5   XRA  1-8A      B3.8    9.0E-05   0775
+5420       1216   1216      1216  G12  5   XFL  N11W42    7.5E+01 1.4E+02   0775
+
+5430       1358   ////      1358  SVI  C   RSP  025-047   III/2                 
+
+5440 +     1837   ////      1838  SAG  C   RSP  030-180   III/1                 
+
+5460       2258   ////      2300  CUL  C   RSP  20-180    III/2                 
+
+5470       2317   ////      2317  CUL  C   RSP  18-180    III/1                 

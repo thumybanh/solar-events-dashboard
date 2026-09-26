@@ -1,0 +1,60 @@
+:Product: 20020606events.txt
+:Created: 2002 Jun 09 0300 UT
+:Date: 2002 06 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3680 +     0044   ////      0045  HOL  C   RSP  025-180   III/2             0000
+3680 +     0045   ////      0046  LEA  C   RSP  025-180   V/2               0000
+
+3720       0051   ////      0058  CUL  C   RSP  57-180    III/1             0000
+
+3730       0125   ////      0125  CUL  C   RSP  57-180    III/1             0000
+
+3690       0228   0232      0235  G10  5   XRA  1-8A      B5.8    2.1E-04   0000
+
+3700 +     0307   ////      0307  LEA  C   RSP  025-147   III/1             0000
+
+3740       0314   ////      0314  CUL  C   RSP  57-120    III/1             0000
+
+3710 +     0441   ////      0444  CUL  C   RSP  57-170    III/1             0000
+
+3750 +     0533   0538      0543  GO8  5   XRA  1-8A      B9.9    4.7E-04   0000
+
+3870       0619   ////      0620  CUL  C   RSP  57-180    III/1             0000
+
+3760 +     0708   ////      0709  LEA  C   RSP  025-180   III/1             0000
+
+3770       0832   ////      0832  SVI  C   RSP  025-081   III/1             0000
+
+3780 +     0938   0942      0945  GO8  5   XRA  1-8A      B5.5    2.0E-04   0000
+
+3790       1050   ////      1051  SVI  C   RSP  025-119   III/2             0000
+
+3800 +     1515   ////      1518  HOL  C   RSP  025-083   III/1             0000
+
+3810 +     1556   ////      1557  HOL  C   RSP  025-127   III/1             0000
+
+3820 +     1623   1626      1629  GO8  5   XRA  1-8A      B6.4    2.2E-04   9987
+3820       1625   1626      1628  HOL  3   FLA  S17E29    SF      ERU       9987
+
+3830 +     1635   1638      1640  GO8  5   XRA  1-8A      B6.6    1.7E-04   0000
+
+3840 +     1658   1703      1710  GO8  5   XRA  1-8A      C2.0    9.9E-04   9975
+3840       1659   ////      1706  PAL  C   RSP  025-180   III/2             9975
+3840 +     1659   ////      1707  HOL  C   RSP  025-180   V/2               9975
+3840 +     1701   1701      1701  SAG  G   RBR  245       150               9975
+3840       1701   1701      1701  SAG  G   RBR  410       25                9975
+3840 +     1701   1702      1721  HOL  3   FLA  N22W44    1F      ERU       9975
+3840       1703   1703      1703  PAL  G   RBR  1415      56                9975
+
+3850       2209   ////      2210  HOL  C   RSP  025-053   III/1             0000
+
+3860 +     2250   ////      2251  HOL  C   RSP  025-059   III/1             0000

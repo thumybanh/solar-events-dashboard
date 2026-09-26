@@ -1,0 +1,70 @@
+:Product: 19990421events.txt
+:Created: 1999 Apr 24 0302 UT
+:Date: 1999 04 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6830 +     0019   0022      0027  GO8  5   XRA  1-8A      B5.8    2.5E-04   8517
+6830 +     0019   0021      0028  LEA  4   FLA  N25W80    SF                8517
+6830       0026   ////      0026  PAL  C   RSP  025-05    III/1             8517
+
+6840       0147   0147      0152  LEA  4   FLA  N25W79    SF                8517
+
+6850 +     0211   0217      0234  GO8  5   XRA  1-8A      B6.4    7.4E-04       
+
+6860 +     0304   0309      0313  GO8  5   XRA  1-8A      C1.7    7.5E-04       
+
+6870 +     0432   0441      0449  GO8  5   XRA  1-8A      B4.4    4.1E-04       
+
+7090 +     0508   ////      2359  COM  C   RSP  035-08    CTM/2                 
+
+6880       0544   ////      0545  SVI  C   RSP  037-07    III/1                 
+
+6890 +     0549   0552      0556  GO8  5   XRA  1-8A      B2.8    1.0E-04       
+
+6900 +     0602   0605      0607  GO8  5   XRA  1-8A      B3.6    9.1E-05   8517
+6900       0605   0606      0608  LEA  3   FLA  N24W83    SF                8517
+
+6910 +     0621   0716      0734  GO8  5   XRA  1-8A      C1.1    2.7E-03       
+
+6920       0753   0754      0802  SVI  3   FLA  S20W16    SF      ERU       8516
+
+6930       0811   0811      0816  LEA  3   FLA  N24W88    SF                8517
+
+6940 +     1051   1055      1100  GO8  5   XRA  1-8A      B8.2    3.7E-04       
+
+6950 +     1152   1156      1200  GO8  5   XRA  1-8A      B5.8    2.2E-04   8521
+6950       1152   1155      1159  RAM  3   FLA  N34W29    SF                8521
+
+6960       1226   1232      1237  RAM  3   FLA  N34W29    SF      ERU       8521
+
+6980       1251   1259      1306  RAM  3   FLA  N33W30    SF                8521
+
+6990       1334   1334      1342  RAM  3   FLA  N34W30    SF                8521
+
+7000 +     1403   1407      1411  GO8  5   XRA  1-8A      B7.4    2.9E-04       
+
+7010 +     1452   1452      1453  SAG  G   RBR  245       68                    
+
+7020 +     1619   1622      1627  SAG  G   RBR  245       100                   
+
+7030 +     1646   1650      1652  GO8  5   XRA  1-8A      B4.7    1.5E-04   8517
+7030       1647   1649      1652  RAM  3   FLA  N21W88    SF                8517
+
+7080 +     1759   1820      2143  COM  G   RNS  245       210                   
+
+7040       1819   1820      1821  PAL  G   RBR  245       190                   
+
+7060 +     1914   1918      1925  GO8  5   XRA  1-8A      B4.1    2.3E-04       
+
+7070 +     1958   2002      2007  GO8  5   XRA  1-8A      B3.5    1.7E-04       
+7070       2002   2002      2002  SAG  G   RBR  245       57                    
+
+7100 +     2214   2219      2223  GO8  5   XRA  1-8A      B8.4    4.0E-04       

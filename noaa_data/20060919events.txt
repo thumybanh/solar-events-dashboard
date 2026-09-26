@@ -1,0 +1,21 @@
+:Product: 20060919events.txt
+:Created: 2006 Sep 22 1735 UT
+:Date: 2006 09 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Sep 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6020       0007   0008      0009  LEA  G   RBR  245       350                   
+
+6040       0536   0547      0558  G11  5   XRA  1-8A      B1.2    1.5E-04       
+
+6050 +     0748   0834      0905  G12  5   XRA  1-8A      B3.7    1.4E-03   0910
+6050       0802   0814      0904  G12  5   XFL  S09E43    7.3E+02 1.3E+03   0910
+
+6060 +     0948   ////      0949  SVI  C   RSP  027-162   III/1                 

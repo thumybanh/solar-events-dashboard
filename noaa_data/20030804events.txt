@@ -1,0 +1,52 @@
+:Product: 20030804events.txt
+:Created: 2003 Aug 07 0302 UT
+:Date: 2003 08 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Aug 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2410       0144   ////      0145  CUL  C   RSP  23-180    III/1                 
+
+2420       0235   ////      0236  CUL  C   RSP  20-180    III/1                 
+
+2430       0253   ////      0253  CUL  C   RSP  20-140    III/1                 
+
+2440       0336   ////      0336  CUL  C   RSP  23-90     III/1                 
+
+2400 +     0346   0349      0352  G12  5   XRA  1-8A      B5.5    1.5E-04       
+
+2450 +     0621   ////      0621  CUL  C   RSP  18-150    III/1                 
+
+2460       0752   ////      0756  LEA  C   RSP  025-180   III/1                 
+
+2470 +     0916   ////      0921  SVI  C   RSP  025-180   III/2                 
+
+2480       1022   1022      1022  SVI  G   RBR  245       51                    
+
+2490       1312   1312      1312  SVI  G   RBR  245       71                    
+
+2570       1312   1312      1412  SAG  G   RNS  245       67                    
+
+2500 +     1524   ////      1524  SVI  C   RSP  025-135   III/1                 
+
+2510 +     1607   1607      1607  SAG  G   RBR  245       76                    
+
+2520       1711   ////      1715  HOL  C   RSP  025-058   III/1                 
+
+2530 +     1823   ////      1824  HOL  C   RSP  025-159   III/1                 
+2530 +     1824   1824      1824  SAG  G   RBR  245       63                    
+
+2540       1828   1828      1828  PAL  G   RBR  245       52                    
+
+2550 +     1936   1937      1937  PAL  G   RBR  245       100                   
+
+2560 +     1942   ////      1943  HOL  C   RSP  025-160   III/1                 
+
+2580 +     2105   2105      2105  PAL  G   RBR  245       150                   
+2580       2105   ////      2106  CUL  C   RSP  70-300    III/3                 

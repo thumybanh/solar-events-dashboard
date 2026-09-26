@@ -1,0 +1,52 @@
+:Product: 20030112events.txt
+:Created: 2003 Jan 15 0302 UT
+:Date: 2003 01 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2610       0030   ////      0044  CUL  C   RSP  23-90     III/1                 
+
+2510 +     0036   0042      0050  GO8  5   XRA  1-8A      C2.1    1.4E-03   0247
+2510       0039   0039      0055  LEA  3   FLA  S16E05    SF      ERU       0247
+
+2620       0055   ////      0055  CUL  C   RSP  18-130    III/2                 
+
+2630       0119   ////      0121  CUL  C   RSP  20-90     III/1                 
+
+2640       0146   ////      0155  CUL  C   RSP  20-160    III/1                 
+
+2520       0151   ////      0155  LEA  C   RSP  025-180   III/1                 
+
+2530 +     0316   ////      0319  CUL  C   RSP  18-90     III/3                 
+
+2540 +     0410   ////      0418  CUL  C   RSP  18-240    III/3                 
+2540       0414   0415      0416  LEA  G   RBR  245       150                   
+
+2550       0422   0425      0445  LEA  3   FLA  S12E51    SF                0254
+
+2560       0458   0458      0458  LEA  G   RBR  410       53                    
+
+2650       0531   ////      0531  CUL  C   RSP  35-70     III/1                 
+
+2660       0616   ////      0616  CUL  C   RSP  100-200   III/1                 
+
+2570 +     0637   0703      0711  GO8  5   XRA  1-8A      C2.2    3.0E-03       
+
+2580 +     0729   0742      0833  GO8  5   XRA  1-8A      C3.7    1.2E-02       
+
+2590 +     1412   1425      1443  GO8  5   XRA  1-8A      C6.1    8.0E-03       
+
+2600 +     1806   1810      1812  GO8  5   XRA  1-8A      C1.2    3.8E-04       
+
+2670       2100   ////      2101  CUL  C   RSP  30-180    III/1                 
+
+2680       2308   ////      2312  CUL  C   RSP  25-130    III/1                 
+
+2690       2357   2358      2358  LEA  G   RBR  606       96                    

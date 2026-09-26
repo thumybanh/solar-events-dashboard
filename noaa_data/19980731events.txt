@@ -1,0 +1,52 @@
+:Product: 19980731events.txt
+:Created: 1998 Aug 03 0302 UT
+:Date: 1998 07 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7350 +     0331   0345      0413  G10  5   XRA  1-8A      C1.2    2.4E-03       
+7350 +     0333   ////      0343  LEA  C   RSP  030-08    III/2                 
+7350 +     0335   0338      0339  PAL  G   RBR  245       210                   
+7350 +     0336   0338      0338  PAL  G   RBR  410       170                   
+7350       0338   ////      0405  CUL  U   RSP  071-14    II/2                  
+7350 +     0417   ////      0724  COM  C   RSP  050-08    IV/2                  
+
+7380 +     0525   0538      0615  G10  5   XRA  1-8A      C2.9    5.7E-03       
+7380       0528   0539      0708  SVI  3   FLA  N28E31    2F      PRB       8283
+7380       0528   ////      0701  SVI  3   DSF  N35E33    12      B.9A      8283
+7380 +     0535   ////      0538  LEA  C   RSP  030-08    III/3             8283
+7380 +     0540   0543      0547  SVI  G   RBR  245       88                8283
+7380 +     0540   0547      0548  SVI  G   RBR  410       82                8283
+7380 +     0542   0546      0548  SVI  G   RBR  606       85                8283
+
+7410       0629   0632      0634  SVI  G   RBR  245       170                   
+7410       0630   0632      0634  SVI  G   RBR  410       160                   
+7410       0631   0632      0634  SVI  G   RBR  606       150                   
+
+7420       0641   0641      0649  SVI  G   RBR  245       250                   
+7420       0641   0641      0650  SVI  G   RBR  410       250                   
+7420       0641   0642      0648  SVI  G   RBR  606       55                    
+
+7430       0824   0824      0829  SVI  G   RBR  410       35                    
+7430       0825   0829      0829  SVI  G   RBR  245       61                    
+7430       0827   0827      0827  SVI  G   RBR  606       28                    
+
+7440       0834   0838      0840  SVI  G   RBR  245       140                   
+7440       0834   0839      0840  SVI  G   RBR  410       83                    
+7440       0838   0839      0840  SVI  G   RBR  606       65                    
+
+7460       1433   1540      1610  G10  5   XRA  1-8A      B7.1    2.3E-03       
+
+7470       1605   1605      1611  SVI  3   FLA  N18E68    SF                    
+7470 +     1630   ////      1630  SVI  C   RSP  036-08    III/2                 
+
+7480 +     1853   ////      1854  SAG  C   RSP  030-05    III/1                 
+
+7490       2033   ////      2034  PAL  C   RSP  030-05    III/1                 

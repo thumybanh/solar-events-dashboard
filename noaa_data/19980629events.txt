@@ -1,0 +1,54 @@
+:Product: 19980629events.txt
+:Created: 1998 Jul 02 0302 UT
+:Date: 1998 06 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1490       0026   0027      0027  LEA  G   RBR  245       150                   
+
+1520       0046   ////      0207  CUL  C   RSP  20-140    CTM/1                 
+
+1510       0228   0229      0230  PAL  U   RBR  245       66                    
+
+1530       0412   ////      0609  LEA  C   RSP  030-05    CTM/1                 
+
+1590       0532   ////      1414  SVI  C   RSP  035-08    CTM/2                 
+
+1500       0600   0000      1200       F   RNS  204       30                    
+
+1540 +     0614   0627      0640  GO9  5   XRA  1-8A      C1.4    1.8E-03   8253
+1540 +     0617   0633      0648  LEA  3   FLA  N19W03    SF      ERU       8253
+
+1550       0826   ////      0827  LEA  C   RSP  030-05    III/1                 
+
+1500 +     0835   0849      1311  SVI  G   RNS  245       120                   
+
+1560       0854   0854      0855  SVI  U   RBR  245       250                   
+
+1570 +     0925   ////      0930  SVI  C   RSP  035-08    III/3             8258
+1570       0930   0930      0933  SVI  3   FLA  S13E31    SF                8258
+
+1580       1106   1107      1107  SAG  G   RBR  245       70                    
+
+1600 +     1440   ////      1440  SAG  C   RSP  030-06    III/1                 
+
+1610 +     1459   ////      1505  SVI  C   RSP  035-08    III/2                 
+
+1630 +     1703   1706      1710  GO9  5   XRA  1-8A      B6.2    2.3E-04   8258
+1630       1710   1711      1715  HOL  3   FLA  S14E26    SF                8258
+
+1640       1822   1824      1824  SAG  G   RBR  245       130                   
+
+1650       2216   2245      2323  HOL  3   FLA  S23E21    1F                8256
+1650 +     2220   ////      2225  PAL  C   RSP  025-07    III/3             8256
+1650 +     2220   2241      2256  GO9  5   XRA  1-8A      C3.4    6.1E-03       
+1650 +     2223   2223      2224  PAL  G   RBR  245       210                   
+
+1660       2314   ////      2316  CUL  C   RSP  25-170    III/1                 

@@ -1,0 +1,93 @@
+:Product: 19990917events.txt
+:Created: 1999 Sep 20 0303 UT
+:Date: 1999 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8640       0048   ////      0049  LEA  C   RSP  030-08    III/2                 
+
+8650       0110   ////      0111  LEA  C   RSP  030-05    III/1                 
+
+8660 +     0114   0120      0123  GO8  5   XRA  1-8A      M2.1    6.0E-03   8690
+
+8670       0114   0114      0114  LEA  G   RBR  245       150                   
+
+8660       0115   0119      0130  LEA  3   FLA  N14W64    SF      ERU       8690
+8660 +     0117   0118      0121  LEA  G   RBR  2695      120               8690
+8660 +     0117   0118      0120  LEA  G   RBR  4995      130               8690
+8660 +     0117   0118      0120  LEA  G   RBR  8800      110               8690
+8660 +     0117   0118      0119  PAL  G   RBR  15400     80                8690
+8660 +     0118   0119      0120  LEA  G   RBR  1415      80                8690
+8660       0119   ////      0124  LEA  C   RSP  030-07    III/1             8690
+
+8680       0325   ////      0328  LEA  C   RSP  030-05    III/1                 
+
+8690       0439   ////      0440  LEA  C   RSP  030-07    III/1                 
+
+8700       0505   0512      0542  G10  5   XRA  1-8A      C2.1    4.0E-03   8700
+8700      B0512  U0513      0527  LEA  3   FLA  N14E29    SF                8700
+8700       0538   0539      0540  LEA  G   RBR  410       73                8700
+
+8710       0732   0732      0732  LEA  G   RBR  245       120                   
+
+8720       0734   0734      0734  LEA  G   RBR  245       56                    
+
+8730 +     1027   1030      1033  GO8  5   XRA  1-8A      C1.4    4.5E-04       
+
+8740 +     1130   1138      1142  COM  3   FLA  N19W80    SF      DSD       8703
+
+8750 +     1147   1206      1220  GO8  5   XRA  1-8A      C4.5    5.6E-03       
+8750 +     1150   1204      1232  COM  3   FLA  N18W81    SF      ERU       8703
+8750 +     1200   1200      1201  SVI  G   RBR  245       110                   
+
+8840       1203   1204      1204  SVI  G   RBR  245       95                    
+
+8760 +     1317   1318      1321  COM  3   FLA  N18W83    SF      DSD       8703
+
+8770       1341   1341      1341  SVI  G   RBR  245       80                    
+8770       1341   1341      1342  SAG  G   RBR  410       220                   
+
+8780       1348   1348      1349  SVI  G   RBR  410       180                   
+8780 +     1349   ////      1350  SAG  C   RSP  030-07    III/2                 
+
+8790 +     1353   1357      1402  GO8  5   XRA  1-8A      C1.7    8.4E-04   8700
+8790       1354   1354      1354  SVI  G   RBR  245       85                8700
+8790       1354   1356      1414  RAM  3   FLA  N11E24    SF      ERU       8700
+
+8810       1433   1437      1444  G10  5   XRA  1-8A      C1.4    8.8E-04       
+
+8820 +     1528   ////      1532  SAG  C   RSP  030-08    V/3                   
+
+8830       1552   1600      1612  RAM  3   FLA  N13W70    SF                8690
+
+8850 +     1648   1650      1653  COM  3   FLA  N19W82    SF      ERU       8703
+
+8860 +     1737   1738      1744  RAM  3   FLA  N21W82    SF      DSD       8690
+
+8940       1744   1747      1750  RAM  3   FLA  N12W72    SF      ERU       8690
+
+8870       1755   1803      1827  RAM  3   FLA  S27W50    SF      ERU       8692
+8870 +     1759   1804      1809  GO8  5   XRA  1-8A      C3.1    1.6E-03   8692
+
+8880       1934   ////      1934  PAL  C   RSP  025-05    III/1                 
+
+8890       1950   1953      1957  G10  5   XRA  1-8A      C1.5    5.9E-04   8699
+8890       1951   ////      1954  PAL  C   RSP  025-06    III/2             8699
+8890       1951   ////      1954  SAG  C   RSP  030-08    V/3               8699
+8890       1953   1956      2001  RAM  3   FLA  N25W45    SF      ERU       8699
+
+8900       2154   ////      2155  PAL  C   RSP  025-04    III/1                 
+
+8910       2205   2214      2303  HOL  3   FLA  N14E19    2F      ERU       8700
+8910 +     2206   2212      2217  GO8  5   XRA  1-8A      C8.8    3.9E-03       
+
+8920       2239   ////      2239  PAL  C   RSP  028-06    III/1                 
+
+8930       2255   2255      2257  LEA  G   RBR  245       52                    

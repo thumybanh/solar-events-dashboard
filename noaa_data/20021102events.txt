@@ -1,0 +1,45 @@
+:Product: 20021102events.txt
+:Created: 2002 Nov 05 0300 UT
+:Date: 2002 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7930 +     0210   0210      0215  LEA  G   RBR  245       97                    
+
+7940 +     0220   0220      0220  LEA  G   RBR  245       71                    
+
+7950       0223   ////      0224  LEA  C   RSP  025-147   III/1                 
+
+7960       0348   0348      0348  LEA  G   RBR  245       85                    
+
+7970       0516   0516      0516  LEA  G   RBR  245       56                    
+
+8030       0528   0607      0704  GO8  5   XRA  1-8A      C3.9    1.5E-02       
+
+7980       0537   0537      0537  LEA  G   RBR  245       56                    
+
+7990 +     0636   ////      0636  LEA  C   RSP  025-180   III/1                 
+
+8000       0809   0815      0821  GO8  5   XRA  1-8A      C2.3    1.5E-03   0180
+8000       0811   0813      0816  LEA  3   FLA  S09E62    SF      ERU       0180
+
+8010       0917   0917      0917  LEA  G   RBR  245       56                    
+
+8020       0925   1002      1003  LEA  G   RNS  245       80                    
+
+8040       1325   1345      1403  GO8  5   XRA  1-8A      C1.4    2.9E-03   0177
+8040 +     1355   1355      1359  SVI  3   FLA  N12E37    SF      ERU       0177
+
+8230 +    A1418   ////     B1233  SVI  3   DSF  ////      04      B.0A      0000
+
+8060 +     2208   2219      2250  COM  3   FLA  S09E52    1F                0180
+8060 +     2212   2222      2237  GO8  5   XRA  1-8A      C4.5    5.7E-03   0180
+
+8070       2350   ////      2350  LEA  C   RSP  025-074   III/1                 

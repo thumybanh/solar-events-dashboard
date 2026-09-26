@@ -1,0 +1,19 @@
+:Product: 20060921events.txt
+:Created: 2006 Sep 24 0329 UT
+:Date: 2006 09 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Sep 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6080 +     2118   2139      2158  G12  5   XRA  1-8A      B5.4    8.8E-04   0910
+6080       2120   2132      2218  HOL  3   FLA  S08E10    SF      ERU       0910
+
+6100       2208   ////      2209  CUL  C   RSP  35-150    III/2                 
+
+6090       2250   2253      2257  HOL  3   FLA  S09E09    SF      DSD       0910

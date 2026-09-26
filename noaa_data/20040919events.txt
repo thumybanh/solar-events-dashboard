@@ -1,0 +1,43 @@
+:Product: 20040919events.txt
+:Created: 2004 Sep 22 0302 UT
+:Date: 2004 09 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Sep 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4140 +     0006   0012      0019  G12  5   XRA  1-8A      B5.0    3.5E-04   0673
+4140       0009   0018      0018  G12  5   XFL  S13E35    7.8E+02 1.6E+03   0673
+
+4190       0227   ////      0227  CUL  C   RSP  25-57     III/1                 
+
+4150 +     0753   0759      0806  G12  5   XRA  1-8A      B6.6    3.9E-04   0672
+4150       0759   0803      0803  G12  5   XFL  N10W51    4.3E+02 7.8E+02   0672
+
+4160 +     1016   1148      1213  G12  5   XRA  1-8A      C3.8    8.8E-03   0672
+4160       1027   1206      1211  G12  5   XFL  N10W53    8.3E+03 2.6E+04   0672
+
+4170 +     1646   1712      1739  G12  5   XRA  1-8A      M1.9    3.9E-02   0672
+4170 +     1649   1708      1717  SAG  G   RBR  1415      150               0672
+4170       1650   ////      1653  PAL  C   RSP  042-180   III/1             0672
+4170 +     1650   1657      1729  SAG  G   RBR  2695      520               0672
+4170 +     1651   1657      1725  SAG  G   RBR  4995      490               0672
+4170       1651   1722      1738  G12  5   XFL  N03W58    1.3E+04 9.1E+04   0672
+4170       1652   1655      1655  SAG  G   RBR  606       31                0672
+4170 +     1654   1658      1719  SAG  G   RBR  8800      170               0672
+4170 +     1656   1704      1706  SAG  G   RBR  245       130               0672
+4170 +     1656   1656      1656  SAG  G   RBR  410       28                0672
+4170       1656   1658      1713  SAG  G   RBR  15400     87                0672
+4170 +     1656   ////      1713  SAG  C   RSP  25-180    II/3    604       0672
+4170 +     1716   ////      1734  SAG  C   RSP  025-076   IV/1              0672
+
+4180 +     2050   ////      2102  CUL  C   RSP  20-90     III/2                 
+4180       2052   2115      2132  G10  5   XRA  1-8A      C1.9    3.7E-03       
+4180       2121   2121      2121  PAL  G   RBR  245       65                    
+
+4210       2320   ////      2320  CUL  C   RSP  27-80     III/1                 

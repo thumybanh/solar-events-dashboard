@@ -1,0 +1,36 @@
+:Product: 20010201events.txt
+:Created: 2001 Feb 04 0302 UT
+:Date: 2001 02 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Feb 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7430 +     0707   0712      0715  GO8  5   XRA  1-8A      C7.9    2.1E-03   9330
+7430       0710   0711      0718  LEA  3   FLA  N28E55    SF      ERU       9330
+7430       0710   0711      0715       F   RBR  93000     120               9330
+
+7440 +     1255   1300      1304  GO8  5   XRA  1-8A      C2.6    9.6E-04   9330
+7440       1259   1259      1306  RAM  3   FLA  N26E53    SF      ERU       9330
+
+7460       1558   1559      1602  HOL  3   FLA  N10E88    SF                    
+
+7470       1606   1607      1610  HOL  3   FLA  N10E89    SF      ERU           
+
+7480 +     1707   1712      1717  GO8  5   XRA  1-8A      C4.1    1.7E-03   9330
+7480 +     1710   1710      1723  HOL  3   FLA  N28E51    SF      ERU       9330
+
+7490       1849   1849      1854  HOL  3   FLA  N10E79    SF                9334
+
+7510       2030   2054      2121  GO8  5   XRA  1-8A      C1.5    3.9E-03       
+
+7500 +     2246   2250      2254  GO8  5   XRA  1-8A      C1.3    5.5E-04       
+
+7520       2336   2337      2344  HOL  3   FLA  N10E74    SF      ERU       9334
+
+7530       2356   2359      0002  HOL  3   FLA  N08E74    SF      ERU       9334

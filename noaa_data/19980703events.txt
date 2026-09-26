@@ -1,0 +1,76 @@
+:Product: 19980703events.txt
+:Created: 1998 Jul 06 0302 UT
+:Date: 1998 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2170 +     0006   0112      0127  GO9  5   XRA  1-8A      M1.2    2.1E-02       
+2170 +     0037   ////      0040  CUL  C   RSP  70-180    III/1                 
+2170       0101   ////      0000  CUL  C   RSP  25-180    IV/1                  
+2170       0102   0106      0107  PAL  G   RBR  245       120                   
+2170 +     0105   0105      0106  PAL  G   RBR  410       22                    
+2170       0107   0109      0109  PAL  G   RBR  15400     30                    
+2170 +     0108   0110      0112  PAL  G   RBR  606       57                    
+2170 +     0109   0111      0111  LEA  G   RBR  4995      25                    
+2170       0110   0111      0111  PAL  G   RBR  1415      28                    
+2170 +     0110   0111      0111  LEA  G   RBR  2695      23                    
+2170 +     0111   0116      0135  LEA  G   RBR  8800      43                    
+
+2200       0145   0146      0146  PAL  G   RBR  245       140                   
+2200 +     0145   ////      0148  CUL  C   RSP  18-270    III/3                 
+
+2210 +     0422   ////      1230  SVI  C   RSP  035-08    CTM/2                 
+
+2220       0504   0504      0505  SVI  G   RBR  245       53                    
+
+2280       0518   0602      0620  GO9  5   XRA  1-8A      C1.4    3.8E-03       
+
+2230       0635   0635      0635  LEA  G   RBR  245       41                    
+
+2240       0657   0657      0657  LEA  G   RBR  245       37                    
+
+2250 +     0845  U0845      1105  SVI  G   RNS  245       110                   
+
+2270 +     1119   1125      1133  GO9  5   XRA  1-8A      C1.3    9.5E-04   8256
+2270      B1123  U1123      1132  RAM  2   FLA  S25W26    SF      ERU       8256
+
+2290       1354   1357      1358  SVI  G   RBR  245       52                    
+
+2300 +     1410   1416      1418  SAG  G   RBR  245       54                    
+
+2310 +     1554   ////      1603  SVI  C   RSP  035-08    III/2                 
+
+2320 +     1641   ////      1641  SVI  U   RSP  048-08    III/2                 
+
+2400       1715   ////      2145  SAG  C   RSP  030-08    CTM/1                 
+
+2340       1725   1744      1758  GO9  5   XRA  1-8A      C1.6    2.9E-03   8256
+2340       1727   ////      1728  SAG  C   RSP  030-08    V/2               8256
+2340 +     1727   ////      1728  PAL  C   RSP  030-07    III/1             8256
+2340       1737   ////      0348  PAL  C   RSP  036-05    CTM/1             8256
+2340       1740   1741      1751  HOL  3   FLA  S25W31    SF                8256
+
+2350 +     1828   1828      1829  SAG  G   RBR  245       75                    
+2350       1828   ////      1829  SAG  C   RSP  030-08    V/3                   
+
+2360       1830   1830      1833  HOL  3   FLA  N15W72    SF                8253
+
+2370 +     2004   2014      2021  GO9  5   XRA  1-8A      C2.1    1.9E-03   8256
+2370       2005   ////      2007  SAG  C   RSP  030-08    III/3             8256
+2370       2015   2015      2022  HOL  3   FLA  S25W29    SF                8256
+
+2380 +     2119   2120      2120  PAL  G   RBR  245       210                   
+
+2390       2123   ////      2125  SAG  C   RSP  030-08    III/3                 
+
+2410       2200   2200      2201  SAG  G   RBR  245       170                   
+2410       2201   ////      2202  SAG  C   RSP  030-08    III/2                 
+
+2440 +     2354   0055      0103  GO9  5   XRA  1-8A      C1.7    5.3E-03       

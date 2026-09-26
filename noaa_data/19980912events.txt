@@ -1,0 +1,56 @@
+:Product: 19980912events.txt
+:Created: 1998 Sep 15 0302 UT
+:Date: 1998 09 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Sep 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9850       0000   0000      0008  HOL  3   FLA  N10W56    SF                8333
+
+9860 +     0011   0012      0022  HOL  3   FLA  N11W56    SF                8333
+
+9870 +     0024   ////      0025  LEA  C   RSP  030-08    III/2                 
+
+9880       0028   0030      0033  LEA  3   FLA  N13W54    SF                8333
+
+9890 +     0136   0139      0145  GO8  5   XRA  1-8A      C1.2    6.3E-04   8333
+9890 +     0138   0139      0150  LEA  3   FLA  N13W36    SF                8329
+
+9900 +     0746   0746      0747  SVI  G   RBR  245       160                   
+9900 +     0746   0746      0747  SVI  G   RBR  410       89                    
+9900       0746   0746      0749  LEA  G   RBR  606       8                     
+9900       0746   0747      0749  LEA  G   RBR  1415      16                    
+9900       0746   ////      0747  LEA  C   RSP  030-08    III/2                 
+
+9920       0746   ////      0747  SVI  C   RSP  035-08    III/2                 
+
+9900 +     0747   0753      0755  GO8  5   XRA  1-8A      C3.1    1.0E-03       
+
+9920       0747   ////      0937  SVI  C   RSP  035-08    CTM/2                 
+
+9900       0752   ////      0905  LEA  C   RSP  030-08    CTM/1                 
+
+9930 +     1249   1257      1307  GO8  5   XRA  1-8A      C1.1    1.1E-03   8331
+9930      B1252  U1253      1308  RAM  2   FLA  N25E07    SF      ERU       8331
+
+9940       1416   1425      1431  GO8  5   XRA  1-8A      B8.5    6.6E-04   8331
+9940       1420   1424      1432  HOL  3   FLA  N25E07    SF                8331
+
+9950       1448   ////      1448  SAG  C   RSP  030-08    III/1                 
+
+9960       1552   1552      1604  HOL  3   FLA  N09W64    SF                8333
+
+20        A1758   ////      1111  RAM  3   DSF  S36E26    06      B.0A          
+
+30        A1758   ////      1111  RAM  3   DSF  S31W05    05      B.0A          
+
+9970       1853   1901      1903  HOL  3   FLA  N26E06    SF                8331
+
+9980 +     2026   2035      2043  GO8  5   XRA  1-8A      C1.9    1.5E-03       
+9980       2028   2033      2053  HOL  3   FLA  N20W38    SF      ERU       8326

@@ -1,0 +1,50 @@
+:Product: 20020119events.txt
+:Created: 2002 Jan 22 0300 UT
+:Date: 2002 01 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9620 +     0010   0010      0010  PAL  G   RBR  245       100                   
+
+9630 +     0047   0054      0101  GO8  5   XRA  1-8A      C4.0    2.5E-03   9787
+9630       0052   0053      0059  LEA  3   FLA  S08E71    SF      ERU       9787
+
+9640       0559   ////      0559  LEA  C   RSP  114-155   III/1                 
+
+9650       0738   ////      0742  LEA  C   RSP  035-133   III/1                 
+9650       0738   0752      0800  GO8  5   XRA  1-8A      C1.3    1.6E-03       
+
+9660 +     1000   1005      1007  GO8  5   XRA  1-8A      M1.2    2.3E-03   9787
+9660 +     1003   1004      1006  SVI  G   RBR  1415      58                9787
+9660 +     1003   1004      1007  SVI  G   RBR  2695      100               9787
+9660 +     1003   1004      1006  SVI  G   RBR  4995      87                9787
+9660 +     1003   1004      1004  SVI  G   RBR  8800      62                9787
+9660 +     1004   1004      1005  SVI  G   RBR  15400     41                9787
+9660       1004   1005      1011  LEA  2   FLA  S08E64    SF                9787
+
+9680 +    A1029   ////     B1133  COM  3   DSF  N32E27    34      B.0A          
+
+9760       1230   1239      1245  GO8  5   XRA  1-8A      C1.5    1.2E-03       
+
+9710       1522   1522      1522  SAG  G   RBR  410       31                    
+
+9770       1550   1559      1604  GO8  5   XRA  1-8A      C1.6    1.1E-03       
+
+9720       1818   ////      1821  SAG  C   RSP  030-054   III/1                 
+
+9730 +     1847   1852      1858  GO8  5   XRA  1-8A      C1.7    1.0E-03       
+9730 +     1848   ////      1849  HOL  C   RSP  025-140   III/1                 
+
+9740 +     2005   2009      2016  GO8  5   XRA  1-8A      C1.8    1.1E-03   9788
+9740       2008   2008      2012  RAM  3   FLA  N15E42    SF      ERU       9788
+
+9750 +     2116   2121      2125  GO8  5   XRA  1-8A      C1.9    9.0E-04       
+
+9780       2255   2301      2308  GO8  5   XRA  1-8A      C1.4    1.0E-03       

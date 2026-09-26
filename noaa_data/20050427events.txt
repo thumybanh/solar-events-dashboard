@@ -1,0 +1,43 @@
+:Product: 20050427events.txt
+:Created: 2005 Apr 28 1229 UT
+:Date: 2005 04 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Apr 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5170       0407   ////      0409  LEA  C   RSP  065-136   III/1                 
+
+5180 +     0452   ////      0452  SVI  C   RSP  032-075   III/1                 
+
+5190       0641   ////      0648  SVI  C   RSP  029-076   III/1                 
+
+5200       1004   1008      1012  G10  5   XRA  1-8A      B1.4    6.3E-05       
+
+5210 +     1235   ////      1235  SVI  C   RSP  025-050   III/1                 
+
+5220 +     1418   ////      1423  SVI  C   RSP  025-081   III/1                 
+
+5230 +     1433   ////      1433  SVI  C   RSP  025-072   III/1                 
+
+5240       1512   ////      1512  SVI  U   RSP  039-082   III/1                 
+
+5250       1531   ////      1532  SVI  C   RSP  025-075   III/1                 
+
+5260       1554   ////      1554  SVI  U   RSP  025-061   III/1                 
+
+5270 +     1914   1922      1934  G12  5   XRA  1-8A      B2.9    3.0E-04   0756
+5270       1926   1930      1932  G12  5   XFL  S06E52    1.0E+02 1.7E+02   0756
+
+5280 +     2002   2005      2008  G12  5   XRA  1-8A      B2.0    6.3E-05       
+
+5290 +     2043   2055      2107  G12  5   XRA  1-8A      B4.3    4.5E-04   0756
+5290       2054   2056      2102  G12  5   XFL  S08E47    2.8E+02 5.8E+02   0756
+
+5300 +     2215   2219      2222  G12  5   XRA  1-8A      B4.3    1.1E-04   0756
+5300       2220   2220      2220  G12  5   XFL  S04E45    4.5E+02 1.1E+03   0756

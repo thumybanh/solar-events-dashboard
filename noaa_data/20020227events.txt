@@ -1,0 +1,83 @@
+:Product: 20020227events.txt
+:Created: 2002 Mar 02 0300 UT
+:Date: 2002 02 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Feb 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8560       0027   ////      0028  CUL  C   RSP  57-160    III/1                 
+
+8570       0035   ////      0037  CUL  C   RSP  57-180    III/1                 
+
+8550 +     0039   0047      0053  GO8  5   XRA  1-8A      C7.1    4.3E-03   9839
+8550       0048   0048      0057  LEA  3   FLA  S19W61    SF                9839
+8550       0051   0051      0052  LEA  G   RBR  245       83                9839
+8550       0051   ////      0053  CUL  C   RSP  57-300    III/1             9839
+
+8580       0100   ////      0100  CUL  C   RSP  57-90     III/1                 
+
+8590 +     0311   0346      0413  GO8  5   XRA  1-8A      C6.8    2.0E-02       
+8590       0327   ////      0327  CUL  C   RSP  57-160    III/1                 
+
+8800       0438   ////      0449  CUL  C   RSP  57-180    III/1                 
+
+8600       0446   0452      0505  LEA  3   FLA  N13E26    SF      ERU       9845
+8600 +     0450   ////      0513  LEA  C   RSP  025-180   II/3    374       9845
+
+8610 +     0523   0523      0523  LEA  G   RBR  245       93                    
+8610 +     0523   ////      0524  CUL  C   RSP  57-250    III/1                 
+
+8620       0614   0620      0631  G10  5   XRA  1-8A      C3.1    2.8E-03       
+8620       0616   ////      0617  LEA  C   RSP  025-158   III/1                 
+
+8630 +     0643   ////      0644  LEA  C   RSP  025-123   III/1                 
+
+8810       0657   ////      0657  CUL  C   RSP  57-120    III/1                 
+
+8640 +     0730   ////      0731  CUL  C   RSP  57-170    III/2                 
+
+8650 +     0914   ////      0914  LEA  C   RSP  036-106   III/1                 
+
+8660       0916   ////      0916  LEA  C   RSP  025-128   III/1                 
+
+8670       1153   1153      1158  SVI  3   FLA  N23W15    SF                9844
+
+8680       1239   1239      1239  SAG  G   RBR  245       58                    
+
+8690 +     1255   1302      1323  GO8  5   XRA  1-8A      C4.3    6.2E-03       
+
+8700       1327   1328      1334  SVI  3   FLA  S17W68    SF                9839
+
+8710       1337   1337      1337  SAG  G   RBR  4995      51                    
+
+8720       1341   1345      1357  SVI  3   FLA  S17W68    SF                9839
+
+8730       1405   1405      1410  SVI  3   FLA  N23W14    SF                9844
+
+8740 +     1550   1558      1604  GO8  5   XRA  1-8A      M1.6    8.8E-03   9839
+8740       1553   1553      1555  SVI  G   RBR  4995      27                9839
+8740       1553   1553      1555  SVI  G   RBR  8800      47                9839
+8740       1553   1553      1555  SVI  G   RBR  15400     53                9839
+8740       1556   1603      1611  RAM  3   FLA  S18W69    SF      ERU       9839
+
+8750       1629   1629      1629  SAG  G   RBR  245       220                   
+
+8760       1632   ////      1633  SAG  C   RSP  030-065   III/2                 
+
+8770       1634   1634      1634  SAG  G   RBR  245       64                    
+
+8780 +     2049   2058      2108  GO8  5   XRA  1-8A      C7.9    7.2E-03   9839
+8780       2052   2053      2109  RAM  3   FLA  S18W73    SF      ERU       9839
+
+8820       2206   ////      2206  CUL  C   RSP  140-370   III/1                 
+
+8790 +     2316   ////      2316  CUL  C   RSP  57-180    III/2                 
+
+8840 +     2356   0012      0048  GO8  5   XRA  1-8A      M2.2    4.7E-02       
+8840       2357   ////      0108  LEA  2   BSL  S24W90    0.25    B.9A          

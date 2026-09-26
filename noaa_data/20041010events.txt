@@ -1,0 +1,45 @@
+:Product: 20041010events.txt
+:Created: 2004 Oct 13 0302 UT
+:Date: 2004 10 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Oct 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5990 +     0321   0328      0334  G12  5   XRA  1-8A      C2.0    1.2E-03   0680
+5990       0324   0333      0333  G12  5   XFL  N17W90    1.8E+03 7.9E+03   0680
+
+6000       0452   0459      0515  G10  5   XRA  1-8A      B3.7    4.2E-04       
+
+6010       0621   0627      0633  G10  5   XRA  1-8A      B5.7    3.7E-04       
+
+6020 +     0641   0649      0656  G12  5   XRA  1-8A      B8.7    6.7E-04   0680
+6020       0644   0654      0655  G12  5   XFL  N17W90    1.2E+03 3.4E+03   0680
+
+6030       1022   1023      1033  SVI  G   RBR  245       170                   
+6030       1022   1030      1034  SVI  G   RBR  410       210                   
+6030       1023   1023      1023  SVI  G   RBR  2695      34                    
+6030       1023   1023      1023  SVI  G   RBR  4995      34                    
+6030       1031   1032      1032  SVI  U   RBR  606       530                   
+
+6050       1329   1406      1525  G10  5   XRA  1-8A      B4.9    3.0E-03       
+
+6040 +     1418   ////      1418  SAG  C   RSP  025-050   III/1                 
+
+6060 +     1527   1527      1527  SAG  G   RBR  245       60                    
+
+6070       1614   ////      1614  SAG  C   RSP  025-053   III/1                 
+
+6080 +     1847   1847      1847  SAG  G   RBR  245       62                    
+
+6090       2001   2001      2002  SAG  G   RBR  606       52                    
+
+6100       2126   2127      2128  PAL  G   RBR  606       640                   
+6100       2128   2128      2128  PAL  G   RBR  410       470                   
+
+6110       2129   2129      2130  PAL  G   RBR  245       2600                  

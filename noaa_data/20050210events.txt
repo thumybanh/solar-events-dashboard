@@ -1,0 +1,80 @@
+:Product: 20050210events.txt
+:Created: 2005 Feb 13 0302 UT
+:Date: 2005 02 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Feb 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6450       0000   ////      0002  CUL  C   RSP  18-150    III/2                 
+
+6400 +     0007   0010      0015  G12  5   XRA  1-8A      C1.7    5.5E-04   0734
+6400       0010   0013      0014  G12  5   XFL  S09E81    1.5E+03 4.7E+03   0734
+6400 +     0015   ////      0015  CUL  C   RSP  18-160    III/3             0734
+
+6410 +     0019   ////      0019  CUL  C   RSP  18-90     III/2                 
+
+6420       0030   0030      0030  PAL  G   RBR  245       120                   
+
+6440       0110   ////      0340  LEA  C   RSP  075-126   CTM/1                 
+
+6430       0123   ////      0123  LEA  C   RSP  025-104   III/1                 
+
+6440       0206   ////      0206  LEA  C   RSP  025-061   III/1                 
+
+6660      B0336   0336      0343  CUL  3   FLA  S04E53    SF                    
+
+6460       0402   ////      0403  CUL  C   RSP  20-80     III/1                 
+
+6670      B0405   0409      0411  CUL  3   FLA  S04E53    SF                    
+
+6680      B0415   0416      0424  CUL  3   FLA  S04E52    SF                    
+
+6470 +     0441   ////      0444  CUL  C   RSP  18-180    III/2                 
+
+6480 +     0528   0532      0535  G12  5   XRA  1-8A      B5.2    1.7E-04   0734
+
+6490       0528   ////      0535  LEA  C   RSP  025-180   III/2                 
+
+6480       0529   ////      0536  CUL  C   RSP  18-200    III/3             0734
+6480       0531   0533      0534  G12  5   XFL  S06E78    8.5E+02 1.8E+03   0734
+
+6500       0702   ////      1008  LEA  C   RSP  067-136   CTM/1                 
+6500       0753   ////      0758  LEA  C   RSP  041-093   III/1                 
+
+6510       0814   ////      0814  SVI  C   RSP  025-047   III/1                 
+
+6520       0843   ////      0843  SVI  C   RSP  025-038   III/1                 
+
+6530       0912   0912      0912  SVI  G   RBR  245       86                    
+
+6540       0917   0917      0917  SVI  G   RBR  245       73                    
+
+6550       0923   0923      0923  SVI  G   RBR  245       51                    
+
+6560 +     0931   ////      0932  LEA  C   RSP  025-180   III/2                 
+
+6570       1025   1029      1035  G10  5   XRA  1-8A      B3.7    2.1E-04       
+
+6580       1041   ////      1041  SVI  C   RSP  025-044   III/1                 
+
+6590       1108   ////      1108  SVI  C   RSP  025-050   III/1                 
+
+6600       1129   ////      1133  SVI  C   RSP  025-064   III/1                 
+
+6610       1404   ////      1409  SVI  C   RSP  025-040   III/1                 
+
+6620 +     1457   ////      1459  SVI  C   RSP  025-075   III/1                 
+
+6630       1510   ////      1510  SVI  C   RSP  035-044   III/1                 
+
+6640       1527   ////      1537  SVI  C   RSP  025-045   III/1                 
+
+6650       1947   2014      2021  G12  5   XRA  1-8A      B7.0    1.0E-03   0735
+
+6690       2249   ////      2249  CUL  C   RSP  18-90     III/2                 

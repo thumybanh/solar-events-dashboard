@@ -1,0 +1,92 @@
+:Product: 19990302events.txt
+:Created: 1999 Mar 05 0302 UT
+:Date: 1999 03 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8370       0000   ////      0000  CUL  C   RSP  20-180    CTM/1                 
+
+8080 +     0024   ////      0025  LEA  C   RSP  030-08    III/2                 
+
+8090       0331   0335      0339  G10  5   XRA  1-8A      B7.7    3.3E-04       
+
+8100 +     0431   0435      0439  GO8  5   XRA  1-8A      C1.3    5.1E-04       
+
+8110 +     0529   0532      0535  GO8  5   XRA  1-8A      B6.5    2.1E-04       
+
+8120       0635   0635      0639  LEA  4   FLA  N29W27    SF                8471
+
+8130       0909   0916      0953  LEA  4   FLA  N17W02    SF                8476
+
+8160       0926   0928      0933  LEA  4   FLA  N29W06    SF                8472
+
+8140 +     1056   1100      1102  GO8  5   XRA  1-8A      B6.9    2.0E-04       
+
+8150 +     1204   1212      1220  GO8  5   XRA  1-8A      C6.3    3.9E-03       
+8150       1208   ////      1210  SAG  C   RSP  030-08    III/2                 
+8150       1208   1208      1211  SAG  G   RBR  245       150               8475
+8150       1208   1209      1211  SAG  G   RBR  410       300               8475
+8150       1208   1209      1211  SAG  G   RBR  606       76                8475
+8150       1208   1209      1211  SAG  G   RBR  1415      81                8475
+8150       1208   1209      1211  SAG  G   RBR  2695      44                8475
+8150       1208   1209      1211  SAG  G   RBR  4995      120               8475
+8150       1208   1209      1211  SAG  G   RBR  8800      240               8475
+8150       1208   1209      1211  SAG  G   RBR  15400     140               8475
+8150       1209   1210      1234  RAM  3   FLA  N31E11    SN                8475
+
+8170       1242   1242      1255  RAM  3   FLA  N17W03    SF                8476
+
+8180 +     1322   1330      1335  GO8  5   XRA  1-8A      C1.6    1.1E-03   8476
+8180       1324   1331      1343  RAM  3   FLA  N17W03    SF                8476
+
+8410       1332   1333      1337  RAM  3   FLA  N30W04    SF                8472
+
+8190       1345   1345      1354  RAM  3   FLA  N29W32    SF                8471
+
+8210 +     1415   1417      1426  RAM  3   FLA  N29E08    SF                8475
+
+8230       1419   1530      1545  HOL  3   FLA  N17W04    SF                8476
+
+8240 +     1434   1446      1503  RAM  3   FLA  N31E08    SF                8475
+
+8220 +     1447   1519      1530  GO8  5   XRA  1-8A      C6.2    9.0E-03   8471
+8220       1450   1517      1552  RAM  3   FLA  N28W37    1F      ERU       8471
+
+8250       1504   1512      1525  RAM  3   FLA  N31E09    SF                8475
+
+8840       1526   1534      1543  RAM  3   FLA  N30E07    SF                8475
+
+8270       1542   ////      1542  SAG  C   RSP  030-05    III/2                 
+
+8260 +     1549   1550      1557  RAM  3   FLA  N30E07    SF                8475
+
+8280 +     1638   1641      1647  RAM  3   FLA  N27W38    SF                8471
+
+8290 +     1712   1712      1717  HOL  3   FLA  N31E08    SF                8475
+
+8330       1754   1754      1805  HOL  3   FLA  N18W06    SF                8476
+
+8300       1756   1757      1758  RAM  3   FLA  N29E05    SF                8475
+
+8310       1816   ////      1817  PAL  C   RSP  045-05    III/1                 
+
+8520      A1817   ////      1154  RAM  3   DSF  S16E12    10      B.0A          
+
+8720       1819   1820      1826  HOL  3   FLA  N29W36    SF                8471
+
+8340       1828   ////      2037  PAL  C   RSP  040-05    CTM/1                 
+
+8320       1902   ////      1902  PAL  C   RSP  025-06    III/1                 
+
+8350       2035   2036      2044  HOL  3   FLA  N30E06    SF                8475
+
+8360 +     2237   2240      2245  GO8  5   XRA  1-8A      B6.1    2.6E-04       
+
+8480       2313   ////      0759  LEA  C   RSP  030-08    CTM/2                 

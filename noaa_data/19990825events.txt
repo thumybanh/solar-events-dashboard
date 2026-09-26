@@ -1,0 +1,80 @@
+:Product: 19990825events.txt
+:Created: 1999 Aug 28 0303 UT
+:Date: 1999 08 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3160 +     0132   0136      0140  GO8  5   XRA  1-8A      M3.6    9.3E-03   8674
+3160 +     0133   0134      0136  LEA  G   RBR  245       1600              8674
+3160 +     0133   ////      0144  LEA  C   RSP  030-08    V/3               8674
+3160 +     0133   0135      0137  LEA  G   RBR  4995      300               8674
+3160 +     0133   ////      0137  CUL  C   RSP  18-430    III/3             8674
+3160 +     0134   0135      0142  LEA  G   RBR  1415      250               8674
+3160 +     0134   0135      0138  LEA  G   RBR  2695      310               8674
+3160 +     0135   0135      0136  LEA  G   RBR  410       110               8674
+3160 +     0135   0136      0139  LEA  G   RBR  606       81                8674
+3160      B0135   0136      0156  LEA  3   FLA  S28E21    1N                8674
+3160 +     0135   0135      0136  LEA  G   RBR  8800      400               8674
+3160 +     0135   0135      0136  LEA  G   RBR  15400     390               8674
+3160 +     0140   ////      0150  CUL  C   RSP  35-80     II/1              8674
+
+3180 +     0214   0218      0222  GO8  5   XRA  1-8A      C3.1    1.1E-03       
+
+3190 +     0234   ////      0235  CUL  C   RSP  30-90     III/1                 
+
+3270       0318   ////      0318  CUL  C   RSP  23-45     III/1                 
+
+3200       0357   0358      0358  LEA  G   RBR  245       310                   
+3200 +     0357   ////      0359  LEA  C   RSP  030-08    III/2                 
+
+3210       0555   ////      0556  SVI  C   RSP  035-08    III/2                 
+
+3410       0627   ////      0627  CUL  C   RSP  30-90     III/1                 
+
+3420       0643   ////      0643  CUL  C   RSP  30-90     III/1                 
+
+3220 +     0718   0728      0734  GO8  5   XRA  1-8A      C2.4    2.0E-03       
+3220       0720   0721      0723       F   RBR  3000      17                    
+
+3230       0738   ////      0738  LEA  C   RSP  030-08    III/3                 
+
+3240       0857   0857      0858  SVI  G   RBR  245       140                   
+
+3250       1016   ////      1017  SAG  C   RSP  030-08    III/1                 
+3250       1016   ////      1018  SVI  C   RSP  035-08    V/3                   
+
+3280 +     1109   ////      1116  SVI  C   RSP  036-08    III/2                 
+
+3290 +     1153   1327      1416  GO8  5   XRA  1-8A      C4.0    2.5E-02       
+3290 +     1328   ////      1329  SAG  C   RSP  030-06    III/1                 
+
+3300 +     1439   1457      1533  GO8  5   XRA  1-8A      C6.5    1.7E-02   8674
+3300       1446   1457      1520  RAM  3   FLA  S23E17    SF      ERU       8674
+
+3310       1623   1624      1631  HOL  3   FLA  S28E05    SF                8674
+
+3320       1705   ////      1706  SAG  C   RSP  030-06    V/1                   
+
+3330 +     1802   1802      1812  RAM  3   FLA  S17E05    SF                8673
+
+3360       1826   1828      1830  HOL  3   FLA  N26E64    SF                8676
+
+3340       1829   1829      1838  HOL  3   FLA  S19E09    SF                8673
+
+3350       1842   ////      1843  SAG  C   RSP  030-04    III/1                 
+
+3370 +     2017   2021      2027  GO8  5   XRA  1-8A      C3.0    1.6E-03       
+
+3430       2100   ////      2100  CUL  C   RSP  30-140    III/1                 
+
+3390 +     2119   2143      2155  GO8  5   XRA  1-8A      C3.3    5.8E-03   8673
+3390       2123   2125      2245  HOL  3   FLA  S20E08    SF                8673
+
+3400 +     2333   2336      2340  GO8  5   XRA  1-8A      C1.9    7.3E-04       

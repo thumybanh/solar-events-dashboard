@@ -1,0 +1,55 @@
+:Product: 20021017events.txt
+:Created: 2002 Oct 20 0300 UT
+:Date: 2002 10 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Oct 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2510 +     0059   0444      0912  LEA  G   RNS  245       78                    
+
+2430       0303   ////      0303  LEA  C   RSP  025-180   III/1                 
+
+2440       0304   ////      0304  CUL  C   RSP  35-90     III/1                 
+
+2450 +     0353   0358      0419  GO8  5   XRA  1-8A      C2.6    3.3E-03   0158
+2450 +     0358   0400      0422  COM  3   FLA  S05E21    SF      ERU       0158
+
+2530       0518   ////      1328  SVI  C   RSP  044-018   CTM/1                 
+2530       0550   ////      0553  CUL  C   RSP  23-90     III/1                 
+
+2620       0712   ////      0720  CUL  C   RSP  60-110    III/1                 
+
+2460       1002   1002      1002  LEA  G   RBR  245       53                    
+
+2470 +     1123   1127      1132  GO8  5   XRA  1-8A      C1.4    6.4E-04       
+
+2480 +     1141   1144      1157  GO8  5   XRA  1-8A      C2.3    1.9E-03   0158
+2480 +     1143   1144      1221  SVI  3   FLA  S04E16    SF      ERU       0158
+
+2490       1158   1207      1215  GO8  5   XRA  1-8A      C3.5    2.7E-03       
+2490 +     1158   1207      1226  COM  3   FLA  S04E16    SF      ERU       0158
+
+2540 +     1400   1404      1410  GO8  5   XRA  1-8A      C1.5    8.5E-04       
+
+2550       1430   1437      1443  GO8  5   XRA  1-8A      C2.0    1.4E-03   0159
+2550 +     1436   1440      1447  SVI  3   FLA  S10E23    SF      ERU       0159
+
+2610       1540   1543      1546  GO8  5   XRA  1-8A      C1.2    4.3E-04       
+
+2560       1701   ////      1701  PAL  C   RSP  034-060   III/1                 
+
+2580       1730   1805      1853  GO8  5   XRA  1-8A      C3.0    1.0E-02   0149
+2580       1855   1858      1913  RAM  3   FLA  N14W28    SF                0149
+
+2590 +     2215   2221      2228  GO8  5   XRA  1-8A      C2.2    1.6E-03   0162
+2590       2218  U2219      2227  HOL  3   FLA  N23E75    SF                0162
+
+2600 +     2310   ////      2310  LEA  C   RSP  025-089   III/1                 
+
+2630       2350   ////      2358  LEA  C   RSP  025-180   III/1                 

@@ -1,0 +1,57 @@
+:Product: 19980913events.txt
+:Created: 1998 Sep 16 0302 UT
+:Date: 1998 09 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Sep 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+70         0630   ////      0839  SVI  3   DSF  S38E37    05      B.0A          
+
+9990       0703   0703      0704  SVI  U   RBR  245       130                   
+
+150        0711   0713      0716  GO8  5   XRA  1-8A      B5.0    1.3E-04       
+
+10         0839   0907      0926  GO8  5   XRA  1-8A      C3.8    6.3E-03   8329
+10   +     0852   0905      1002  SVI  3   FLA  N12W51    SF      ERU       8329
+
+80         1210   ////      1309  RAM  3   DSF  N24W44    05      B.9A      8326
+
+40         1224   1229      1245  RAM  3   FLA  N10W55    SF                8329
+
+50   +     1259   1306      1321  GO8  5   XRA  1-8A      C1.3    1.5E-03   8326
+50   +     1259   1303      1329  RAM  3   FLA  N21W49    SF      ERU       8326
+
+60   +     1405   1419      1426  GO8  5   XRA  1-8A      C1.6    1.3E-03   8333
+60   +     1414   1418      1428  HOL  3   FLA  N12W76    SF                8333
+
+160        1511   1518      1525  GO8  5   XRA  1-8A      B7.3    5.4E-04       
+
+90   +     1607   1615      1625  GO8  5   XRA  1-8A      C1.4    1.3E-03       
+
+100  +     1816   1825      1829  GO8  5   XRA  1-8A      C8.3    3.3E-03   8333
+100        1819   1820      1836  HOL  3   FLA  N11W80    SF                8333
+
+110        2009   ////      2010  PAL  C   RSP  025-06    III/1                 
+
+120        2110   ////      2111  SAG  C   RSP  030-08    V/1                   
+120  +     2110   ////      2112  CUL  C   RSP  20-180    III/2                 
+
+130  +     2127   2132      2135  GO8  5   XRA  1-8A      B5.2    2.0E-04       
+
+140  +     2141   2147      2155  GO8  5   XRA  1-8A      B5.8    4.3E-04       
+
+190        2156   ////      2156  CUL  C   RSP  35-90     III/1                 
+
+200        2206   ////      2207  CUL  C   RSP  60-160    III/1                 
+
+210        2214   ////      2215  CUL  C   RSP  30-130    III/1                 
+
+170  +     2317   ////      2319  PAL  C   RSP  027-05    III/2                 
+
+180  +     2332   ////      2333  CUL  C   RSP  20-180    III/1                 

@@ -1,0 +1,41 @@
+:Product: 20030224events.txt
+:Created: 2003 Feb 27 0302 UT
+:Date: 2003 02 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8630 +     0729   0733      0736  GO8  5   XRA  1-8A      B2.2    6.7E-05       
+
+8640 +     1125   1136      1144  GO8  5   XRA  1-8A      C1.1    8.8E-04   0290
+8640      B1126  U1126      1217  RAM  3   FLA  N16W29    SF      ERU       0290
+
+8660       1448   1448      1448  SAG  G   RBR  245       60                    
+
+8650       1452   1453      1453  SVI  G   RBR  245       66                    
+
+8670       1642   ////      1643  HOL  C   RSP  110-147   III/1                 
+
+8680 +     1716   1719      1721  GO8  5   XRA  1-8A      B1.7    4.2E-05       
+8680       1718   1718      1718  SAG  G   RBR  410       90                    
+
+8690 +     1838   1843      1845  GO8  5   XRA  1-8A      B3.2    8.5E-05       
+
+8700 +     2036   2039      2042  GO8  5   XRA  1-8A      B1.5    4.7E-05       
+
+8710 +     2045   2049      2051  GO8  5   XRA  1-8A      B1.9    5.6E-05       
+
+8750       2124   ////      2127  HOL  C   RSP  025-180   III/1                 
+
+8720 +     2219   2230      2232  GO8  5   XRA  1-8A      B2.2    1.4E-04       
+8720       2221   ////      2235  HOL  C   RSP  025-180   III/1                 
+
+8730 +     2246   2249      2254  GO8  5   XRA  1-8A      B1.7    7.2E-05       
+
+8740 +     2309   2317      2321  GO8  5   XRA  1-8A      B4.2    1.9E-04       

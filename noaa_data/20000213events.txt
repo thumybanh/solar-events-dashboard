@@ -1,0 +1,27 @@
+:Product: 20000213events.txt
+:Created: 2000 Feb 16 0302 UT
+:Date: 2000 02 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2570       0306   0313      0326  LEA  3   FLA  S24E47    SF                8869
+
+2580 +     0327   0328      0331  LEA  3   FLA  S25E44    SF                8869
+
+2610       0403   ////      0405  CUL  C   RSP  60-140    III/1                 
+
+2590 +     0533   0539      0546  GO8  5   XRA  1-8A      C1.1    7.0E-04   8858
+2590       0537   0537      0552  LEA  3   FLA  N30W39    SF                8858
+
+2600       2052   2055      2058  G10  5   XRA  1-8A      B7.6    2.5E-04   8871
+2600       2054   2055      2059  HOL  3   FLA  S15W35    SF                8871
+
+2620       2115   2334      0115  GO8  5   XRA  1-8A      C1.1    1.3E-02       
+2620 +     2242   ////      2243  CUL  C   RSP  18-140    III/1                 

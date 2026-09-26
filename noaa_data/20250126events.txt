@@ -1,0 +1,70 @@
+:Product: 20250126events.txt
+:Created: 2025 Jan 29 0357 UT
+:Date: 2025 01 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jan 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8690       0007   ////      0321  LEA  C   RSP  025-180   VI/2                  
+
+8680       0008   0008      0008  LEA  G   RBR  245       120                   
+8680       0008   ////      0013  PAL  C   RSP  025-060   III/1                 
+
+8700       0117   0117      0118  LEA  G   RBR  245       120                   
+
+8710       0204   ////      0312  PAL  C   RSP  025-180   VI/1                  
+8710 +     0238   0238      0238  LEA  G   RBR  245       200                   
+
+8720       0316   0316      0316  PAL  G   RBR  245       130                   
+
+8730 +     0350   0350      0352  PAL  G   RBR  245       3200                  
+
+8740       0452   ////      0532  LEA  C   RSP  025-126   VI/2                  
+
+8750       0624   ////      0630  LEA  C   RSP  025-138   III/2                 
+
+8760 +     0646   0701      0719  G16  5   XRA  1-8A      C2.3    5.1E-03       
+
+8800 +     0719   0727      0731  G16  5   XRA  1-8A      C2.1    1.6E-03   3961
+
+8770       0734   ////      0734  SVI  C   RSP  025-084   III/1                 
+8770       0734   ////      0957  LEA  C   RSP  025-180   VI/2                  
+
+8780       0758   ////      0957  SVI  C   RSP  025-180   VI/2                  
+
+8790       0930   0930      0930  LEA  G   RBR  245       180                   
+
+8810 +     1124   1130      1135  G16  5   XRA  1-8A      C3.1    8.6E-04   3971
+8810       1126   ////      1132  SVI  C   RSP  025-082   III/1                 
+
+8820       1148   1148      1148  SVI  G   RBR  245       190                   
+
+8830       1233   1233      1233  SAG  U   RBR  245       140                   
+
+8840       1235   ////      1236  SVI  C   RSP  025-041   III/1                 
+
+8850 +     1451   1459      1501  G16  5   XRA  1-8A      C2.5    1.1E-03       
+
+8870 +     1501   1508      1513  G16  5   XRA  1-8A      C2.6    1.5E-03       
+
+8860 +     1527   1527      1527  SVI  G   RBR  245       230                   
+
+8880 +     1535   1546      1552  G16  5   XRA  1-8A      C4.5    3.6E-03   3961
+
+8890       1833   ////      1833  SAG  C   RSP  025-040   III/1                 
+
+8900 +     1837   1837      1837  PAL  G   RBR  245       150                   
+
+8910 +     2041   2049      2059  G16  5   XRA  1-8A      C3.0    3.0E-03   3971
+
+8920       2108   ////      2129  PAL  C   RSP  025-180   VI/1                  
+
+8930       2247   2247      2247  LEA  G   RBR  410       100                   
+
+8940 +     2316   ////      2359  LEA  C   RSP  025-150   VI/2                  

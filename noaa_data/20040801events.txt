@@ -1,0 +1,59 @@
+:Product: 20040801events.txt
+:Created: 2004 Aug 04 0302 UT
+:Date: 2004 08 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Aug 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4510       0007   ////      0010  CUL  C   RSP  18-200    III/3                 
+
+4520       0034   ////      0035  CUL  C   RSP  25-160    III/2                 
+
+4530       0040   ////      0040  CUL  C   RSP  40-160    III/1                 
+
+4350       0100   0100      0100  LEA  G   RBR  245       52                    
+
+4440       0122   0129      0314  LEA  G   RNS  245       100                   
+
+4360       0130   0130      0130  PAL  G   RBR  245       86                    
+4360       0130   ////      0132  CUL  C   RSP  40-200    III/1                 
+
+4370 +     0156   0159      0202  G12  5   XRA  1-8A      B2.6    8.0E-05   0655
+4370       0159   ////      0201  CUL  C   RSP  18-200    III/2                 
+4370       0202   0202      0202  G12  5   XFL  S10E48                          
+
+4390 +     0222   0226      0233  G12  5   XRA  1-8A      B2.4    1.4E-04       
+4390       0226   0229      0230  G12  5   XFL  N17E36    5.0E+01 2.5E+02       
+
+4540       0303   ////      0303  CUL  C   RSP  18-150    III/2                 
+
+4400 +     0432   0436      0443  G12  5   XRA  1-8A      B2.2    1.3E-04   0654
+4400       0437   0437      0442  G12  5   XFL  N08W33    1.3E+02 2.4E+02   0654
+
+4450       0508   0524      0547  G12  5   XRA  1-8A      B2.3    5.1E-04       
+
+4460       0711   0719      0724  G12  5   XRA  1-8A      B1.8    1.2E-04       
+
+4410       0757   0757      0757  LEA  G   RBR  245       59                    
+
+4420 +     0900   ////      0905  LEA  C   RSP  025-180   III/1                 
+
+4470       1020   1023      1026  G12  5   XRA  1-8A      B1.5    5.2E-05       
+
+4480       1701   1707      1711  G12  5   XRA  1-8A      B1.3    7.6E-05       
+
+4430       1745   1745      1745  PAL  G   RBR  410       63                    
+
+4490 +     2105   2110      2115  G12  5   XRA  1-8A      B1.5    8.3E-05       
+4490       2107   ////      2109  CUL  C   RSP  70-200    III/1                 
+4490       2110   2110      2114  G12  5   XFL  S15W90                          
+
+4500 +     2116   ////      2121  CUL  C   RSP  20-200    III/2                 
+
+4550       2131   ////      2132  CUL  C   RSP  25-90     III/1                 

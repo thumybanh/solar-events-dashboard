@@ -1,0 +1,51 @@
+:Product: 20010115events.txt
+:Created: 2001 Jan 18 0302 UT
+:Date: 2001 01 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5150 +     0057   0108      0145  GO8  5   XRA  1-8A      C1.9    4.1E-03   9306
+5150       0103   0106      0116  LEA  4   FLA  N12W29    SF                9306
+
+5160 +     0900   0904      0907  GO8  5   XRA  1-8A      C1.2    4.4E-04   9306
+5160       0902   0904      0907  LEA  3   FLA  N11W34    SF                9306
+
+5170 +     1132   1136      1141  GO8  5   XRA  1-8A      C1.1    5.3E-04       
+
+5180 +     1236   1236      1236  SVI  G   RBR  245       82                    
+
+5190 +     1245   1247      1248  SVI  G   RBR  245       69                    
+
+5200       1252   1252      1252  SVI  G   RBR  410       35                    
+
+5210       1253   1253      1253  SVI  G   RBR  245       57                    
+
+5230 +     1253   1304      1640  SAG  G   RNS  245       75                    
+
+5220 +     1304   1311      1321  GO8  5   XRA  1-8A      C2.9    2.2E-03       
+
+5240 +     1556   1603      1607  GO8  5   XRA  1-8A      C9.4    3.3E-03   9306
+5240       1600   1601      1602  SAG  U   RBR  2695      58                9306
+5240       1600   1601      1602  SAG  U   RBR  4995      69                9306
+5240       1600   1601      1602  SAG  U   RBR  8800      98                9306
+5240       1602   1602      1618  HOL  3   FLA  N12W37    SF      ERU       9306
+
+5250 +     1842   1847      1908  GO8  5   XRA  1-8A      C4.9    4.9E-03   9306
+5250       1844   1845      1851  SAG  U   RBR  15400     59                9306
+5250 +     1845   1845      1847  PAL  G   RBR  2695      66                9306
+5250 +     1845   1845      1848  PAL  G   RBR  4995      87                9306
+5250 +     1845   1845      1846  PAL  G   RBR  8800      48                9306
+5250       1846   1848      1854  HOL  3   FLA  N13W37    SF      ERU       9306
+
+5260 +     2019   2024      2027  GO8  5   XRA  1-8A      C1.3    5.4E-04       
+
+5280       2220   ////      2220  CUL  C   RSP  23-90     III/1                 
+
+5270 +     2330   2336      2342  GO8  5   XRA  1-8A      C1.9    9.8E-04       

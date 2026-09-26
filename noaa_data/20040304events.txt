@@ -1,0 +1,41 @@
+:Product: 20040304events.txt
+:Created: 2004 Mar 07 0300 UT
+:Date: 2004 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6830       0000   ////      0000  CUL  C   RSP  18-160    CTM/1                 
+
+6790 +     0146   0154      0158  G12  5   XRA  1-8A      B6.9    3.1E-04   0567
+6790       0149   0156      0157  G12  5   XFL  S14W14    8.5E+02 2.8E+03   0567
+
+6800 +     0229   0235      0242  G12  5   XRA  1-8A      B4.8    3.0E-04   0567
+6800       0232   0236      0241  G12  5   XFL  S14W15    4.0E+02 8.8E+02   0567
+
+6810       0252   ////      0252  PAL  C   RSP  025-048   III/1                 
+
+6820       0303   0303      0303  LEA  G   RBR  15400     130                   
+
+6840       0447   0455      0513  G10  5   XRA  1-8A      B9.6    1.1E-03       
+
+6850 +     0633   0642      0655  G12  5   XRA  1-8A      B4.6    4.5E-04   0567
+6850       0636   0644      0653  G12  5   XFL  S14W17    4.3E+02 9.3E+02   0567
+
+7020      A0947   ////     B2333  LEA  3   DSF  N14E00    08      B.0A          
+
+6860 +     1000   1007      1014  G12  5   XRA  1-8A      C2.5    1.5E-03   0567
+6860       1003   1007      1013  G12  5   XFL  S14W19    1.9E+03 8.4E+03   0567
+
+6880       1509   1509      1509  SAG  G   RBR  245       72                    
+
+6890 +     1711   1716      1721  G12  5   XRA  1-8A      C1.0    4.3E-04   0567
+6890       1714   1719      1720  G12  5   XFL  S14W23    1.0E+03 3.8E+03   0567
+
+6900       1854   1854      1854  SAG  G   RBR  245       67                    

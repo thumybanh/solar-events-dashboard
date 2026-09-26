@@ -1,0 +1,20 @@
+:Product: 20070103events.txt
+:Created: 2007 Jan 07 2332 UT
+:Date: 2007 01 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5790 +     0105   0109      0114  G12  5   XRA  1-8A      B1.3    5.6E-05       
+
+5800 +     0250   0254      0301  G12  5   XRA  1-8A      B1.3    7.1E-05       
+
+5810 +     1221   1225      1230  G12  5   XRA  1-8A      B1.8    7.7E-05       
+
+5820       1303   1303      1304  SAG  G   RBR  245       170                   

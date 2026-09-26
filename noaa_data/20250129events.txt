@@ -1,0 +1,43 @@
+:Product: 20250129events.txt
+:Created: 2025 Feb 01 0357 UT
+:Date: 2025 01 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2025 Jan 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9280       0110   ////      0110  LEA  C   RSP  025-065   III/1                 
+
+9290 +     0300   0309      0319  G16  5   XRA  1-8A      C3.7    3.4E-03   3976
+
+9300 +     0336   0408      0421  G16  5   XRA  1-8A      M1.0    1.5E-02   3977
+9300       0407   ////      0408  LEA  C   RSP  025-064   III/1                 
+
+9310       0451   ////      0451  LEA  C   RSP  025-116   III/1                 
+
+9320       0551   ////      0552  LEA  C   RSP  025-071   III/2                 
+
+9330 +     0940   0951      1004  G16  5   XRA  1-8A      C2.6    3.2E-03   3978
+
+9340 +     1159   1207      1213  G16  5   XRA  1-8A      C2.5    1.0E-03   3965
+
+9350 +     1306   1313      1319  G16  5   XRA  1-8A      C2.4    8.9E-04   3978
+
+9360       1802   1810      1814  G18  5   XRA  1-8A      C3.3    1.9E-03       
+
+9370       1821   ////      1834  SAG  C   RSP  025-151   II/1    487           
+
+9380 +     1849   1857      1911  G16  5   XRA  1-8A      C2.3    3.3E-03   3967
+
+9420       1911   1917      1922  G16  5   XRA  1-8A      C2.4    1.6E-03   3976
+
+9390 +     2102   2108      2113  G16  5   XRA  1-8A      C2.9    9.6E-04   3976
+
+9400 +     2139   2209      2227  G16  5   XRA  1-8A      C5.9    1.6E-03   3978
+
+9430       2227   2246      2305  G16  5   XRA  1-8A      C6.5    1.4E-02   3976

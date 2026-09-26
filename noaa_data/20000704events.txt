@@ -1,0 +1,67 @@
+:Product: 20000704events.txt
+:Created: 2000 Jul 07 0302 UT
+:Date: 2000 07 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jul 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6040       0001   0034      0054  GO8  5   XRA  1-8A      C2.0    4.3E-03   9062
+6040 +     0005   0038      0111  HOL  3   FLA  S16W32    1F                9062
+
+6120       0015   0044      0101  HOL  3   FLA  S19E39    SF                9068
+
+6050 +     0218   0225      0227  GO8  5   XRA  1-8A      B9.3    4.3E-04       
+
+6060 +     0352   0352      0355  LEA  G   RBR  245       57                    
+
+6080 +     0822   0826      0828  GO8  5   XRA  1-8A      C1.3    3.9E-04   9068
+6080 +     0825   0825      0829  SVI  3   FLA  S20E35    SF      ERU       9068
+
+6090       0923   ////      0924  LEA  C   RSP  050-17    III/1                 
+
+6100 +     1028   1032      1043  GO8  5   XRA  1-8A      B8.2    6.9E-04       
+
+6110       1248   1249      1249  SAG  G   RBR  245       60                    
+
+6130       1345   1350      1354  RAM  3   FLA  N17E45    SF                9070
+
+6170       1354   1405      1408  SAG  G   RNS  245       71                    
+
+6140       1414   ////      1415  SAG  C   RSP  030-08    III/1                 
+
+6150       1435   1440      1449  HOL  3   FLA  S18W37    SF                9062
+
+6160 +     1457   1501      1504  GO8  5   XRA  1-8A      C2.3    7.4E-04   9068
+6160 +     1458   1500      1516  RAM  3   FLA  S22E31    SF                9068
+
+6180       1508   1508      1509  SAG  G   RBR  245       53                9070
+6180       1508   1520      1534  GO8  5   XRA  1-8A      C3.4    4.4E-03   9070
+6180       1511   1525      1622  RAM  3   FLA  N17E49    SF                9070
+
+6220 +     1511   ////      1832  SAG  C   RSP  030-06    CTM/1                 
+
+6270      A2013   ////      1112  RAM  3   DSF  S22E18    13      B.0A      9068
+
+6230 +     2114   2120      2133  GO8  5   XRA  1-8A      C1.9    1.5E-03       
+
+6240       2141   2141      2154  HOL  3   FLA  N19E46    SF                9070
+6240       2141   ////      2142  CUL  C   RSP  30-80     III/1             9070
+
+6250       2223   2224      2225  SAG  G   RBR  245       68                    
+
+6260       2226   ////      2227  HOL  C   RSP  025-08    III/1                 
+6260       2227   2228      2228  SAG  G   RBR  245       53                    
+
+6300       2227   ////      2317  CUL  C   RSP  30-180    CTM/1                 
+
+6270       2243   ////      2248  HOL  U   RSP  031-05    II/1    1093      9068
+
+6280       2252   ////      2254  HOL  C   RSP  025-17    III/1                 
+
+6290       2318   ////      2318  LEA  C   RSP  045-11    III/1                 

@@ -1,0 +1,23 @@
+:Product: 20030406events.txt
+:Created: 2003 Apr 09 0302 UT
+:Date: 2003 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6480 +     0800   0811      0819  GO8  5   XRA  1-8A      C4.2    2.9E-03   0324
+
+6560       0908   ////      0908  SVI  C   RSP  025-044   III/1                 
+
+6490       1014   ////      1250  SVI  C   RSP  075-168   CTM/1                 
+
+6500       1845   ////      1846  HOL  C   RSP  025-058   III/1                 
+
+6510 +     1918   1928      1942  GO8  5   XRA  1-8A      C5.9    5.4E-03   0324
+6510       1922   1923      1947  HOL  3   FLA  S09W71    SF      ERU       0324

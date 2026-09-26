@@ -1,0 +1,82 @@
+:Product: 20011017events.txt
+:Created: 2001 Oct 20 0302 UT
+:Date: 2001 10 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Oct 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3690       0108   ////      0110  LEA  C   RSP  025-180   III/2                 
+
+3700 +     0116   0116      0116  LEA  U   RBR  245       56                    
+3700       0116   ////      0118  LEA  C   RSP  025-180   III/2                 
+
+3710       0157   ////      0202  LEA  C   RSP  025-180   III/1                 
+
+3730       0353   0353      0354  LEA  U   RBR  245       71                    
+3730       0353   ////      0357  LEA  C   RSP  025-180   V/3                   
+
+3740       0511   ////      0517  LEA  C   RSP  025-180   III/2                 
+
+3750 +     0714   0721      0730  GO8  5   XRA  1-8A      C3.5    2.8E-03   9661
+3750 +     0716   0719      0747  LEA  3   FLA  N13W03    SF      ERU       9661
+3750       0730   ////      0731  LEA  C   RSP  025-180   III/1             9661
+
+3760 +     0738   ////      0744  LEA  C   RSP  025-180   III/2                 
+
+3770       0835   0847      0850  GO8  5   XRA  1-8A      C2.33   1.9E-03       
+
+3780       0915   0915      0915  LEA  G   RBR  15400     61                    
+
+3790       0930   0943      0956  GO8  5   XRA  1-8A      C2.51   3.4E-03       
+
+3800 +     1116   1123      1128  GO8  5   XRA  1-8A      M1.1    5.6E-03   9658
+3800       1119   1120      1121  SVI  G   RBR  2695      43                9658
+3800       1119   1120      1122  SVI  G   RBR  4995      91                9658
+3800       1119   1120      1123  SVI  G   RBR  8800      150               9658
+3800 +     1119  U1121      1137  SVI  3   FLA  S17W22    SF      ERU       9658
+3800       1120   1120      1121  SVI  G   RBR  1415      26                9658
+3800       1120   1120      1121  SVI  G   RBR  15400     63                9658
+3800       1121   1121      1121  SVI  G   RBR  245       130               9658
+
+3810       1131   ////      1131  SVI  C   RSP  025-152   III/1                 
+
+3820       1143   ////      1146  SVI  C   RSP  025-180   III/2                 
+
+3830 +     1154   1155      1156  SVI  G   RBR  4995      64                    
+3830 +     1155   1155      1155  SVI  G   RBR  2695      24                    
+3830 +     1155   1155      1155  SVI  G   RBR  8800      38                    
+
+3840 +     1402   ////      1403  SVI  C   RSP  025-144   III/2                 
+3840       1403   1403      1404  SAG  G   RBR  245       50                    
+
+3850       1427   ////      1427  SAG  C   RSP  030-050   III/1                 
+
+3860 +     1526   1526      1526  SAG  G   RBR  410       200                   
+
+3870       1530   1530      1530  SAG  G   RBR  410       81                    
+
+3880       1535   1537      1539  RAM  3   FLA  S17W27    SF                9658
+
+3890 +     1613   1621      1634  GO8  5   XRA  1-8A      C3.9    4.4E-03   9659
+3890       1615   1617      1639  HOL  3   FLA  N06W71    SF      ERU       9659
+
+3900       1626   1632      1638  HOL  3   FLA  S17W26    SF      ERU       9658
+
+3910 +     1717   1721      1724  GO8  5   XRA  1-8A      C2.5    9.0E-04   9661
+3910       1719   1720      1731  HOL  3   FLA  N15W02    SF      ERU       9661
+
+3920       1821   1821      1823  SAG  G   RBR  410       65                    
+
+3930       1847   ////      1854  SAG  C   RSP  030-080   III/1                 
+
+3940 +     1917   ////      1924  PAL  C   RSP  025-110   III/1                 
+
+3950       2115   ////      2117  HOL  C   RSP  025-087   III/1                 
+
+4200      A2309   ////     B1513  HOL  3   DSF  N01W19    07      B.0A      9661

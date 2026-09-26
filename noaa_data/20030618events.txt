@@ -1,0 +1,31 @@
+:Product: 20030618events.txt
+:Created: 2003 Jun 21 0302 UT
+:Date: 2003 06 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jun 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2810       0010   0013      0017  LEA  2   FLA  S09E60    SF      ERU       0386
+
+2820       0519   0522      0540  LEA  3   FLA  N16E78    SF                0387
+
+2830       1642   1643      1648  HOL  3   FLA  N17E65    SF                0387
+
+2840       1711   1721      1735  HOL  3   FLA  N18E64    SF      ERU       0387
+2840       1716   ////      1717  HOL  C   RSP  025-092   III/1             0387
+
+2850       1909   1909      1918  HOL  3   FLA  N18E66    SF                0387
+
+2860       1941   1942      1945  HOL  3   FLA  N18E63    SF                0387
+
+2870 +     2141   ////      2142  CUL  C   RSP  25-180    III/1                 
+
+2890       2216   ////      2216  CUL  C   RSP  23-70     III/2                 
+
+2880 +     2229   ////      2240  CUL  C   RSP  18-180    III/2                 

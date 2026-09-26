@@ -1,0 +1,47 @@
+:Product: 20041124events.txt
+:Created: 2004 Nov 27 0302 UT
+:Date: 2004 11 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Nov 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6530 +     0109   0114      0120  G12  5   XRA  1-8A      B4.4    2.6E-04       
+6530       0113   0114      0119  G12  5   XFL  S15E18    3.0E+02 6.5E+02       
+
+6540 +     0748   0834      0845  G12  5   XRA  1-8A      C5.9    9.8E-03   0706
+6540       0751   0838      0843  G12  5   XFL  S05E75    4.3E+03 2.3E+04   0706
+6540       0755   0757      0804  LEA  3   FLA  S08E79    SF      ERU       0706
+
+6550 +     1018   1021      1023  G12  5   XRA  1-8A      B5.8    1.4E-04   0707
+6550       1022   1022      1022  G12  5   XFL  S18E72    5.0E+01 9.1E+01   0707
+
+6560       1717   1717      1717  PAL  G   RBR  2695      64                    
+
+6580       1718   1718      1718  PAL  G   RBR  410       110                   
+
+6570 +     1718   1725      1729  G12  5   XRA  1-8A      C8.2    3.2E-03   0706
+6570       1721   1721      1722  SAG  G   RBR  2695      26                0706
+6570       1721   1721      1722  SAG  G   RBR  4995      70                0706
+6570       1721   1721      1722  SAG  G   RBR  8800      93                0706
+6570       1721   1721      1721  SAG  G   RBR  15400     59                0706
+6570       1721   1727      1727  G12  5   XFL  S04E72    3.9E+03 2.3E+04   0706
+
+6590 +     2127   2145      2152  G12  5   XRA  1-8A      C9.8    7.6E-03   0706
+6590       2131   2148      2151  G12  5   XFL  S05E70    4.9E+03 3.1E+04   0706
+6590       2135   2143      2155  HOL  3   FLA  S05E71    SF      YSR       0706
+6590 +     2144   2144      2144  PAL  G   RBR  245       68                0706
+6590 +     2144   2145      2146  PAL  G   RBR  410       320               0706
+6590       2144   2145      2146  PAL  G   RBR  4995      120               0706
+6590       2144   2144      2146  PAL  G   RBR  8800      100               0706
+6590       2144   2145      2146  PAL  G   RBR  15400     70                0706
+6590 +     2144   ////      2146  CUL  C   RSP  100-450   III/1             0706
+
+6600       2230   ////      2230  CUL  C   RSP  23-180    III/1                 
+
+6610       2242   ////      2242  CUL  C   RSP  20-80     III/1                 

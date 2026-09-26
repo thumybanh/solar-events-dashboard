@@ -1,0 +1,42 @@
+:Product: 20020120events.txt
+:Created: 2002 Jan 23 0300 UT
+:Date: 2002 01 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9870       0004   ////      0004  CUL  C   RSP  57-90     III/1                 
+
+9880       0018   ////      0020  CUL  C   RSP  57-100    III/1                 
+
+9890       0116   ////      0116  CUL  C   RSP  57-90     III/1                 
+
+9900       0245   ////      0300  CUL  C   RSP  57-180    III/1                 
+
+9790       0256   0301      0306  LEA  2   FLA  S08E55    SF      ERU       9787
+
+9800 +     0432   ////      0433  LEA  C   RSP  025-096   III/1                 
+
+9810       0457   0459      0511  LEA  3   FLA  N16E37    SF      ERU       9788
+
+9820       0610   ////      0611  LEA  C   RSP  025-066   III/1                 
+
+9830       0638   0642      0647  LEA  3   FLA  S07E52    SF                9787
+
+9840       0652   0655      0706  LEA  3   FLA  S07E51    SF                9787
+
+9850 +     1543   1552      1606  GO8  5   XRA  1-8A      C3.8    4.5E-03   9788
+9850       1603   1608      1610  HOL  3   FLA  N18E34    SF      ERU       9788
+
+9860       1624   1625      1638  HOL  3   FLA  S09E46    SF                9787
+
+9910       2021   ////      2021  CUL  C   RSP  57-80     III/1                 
+
+9920 +     2307   2326      2335  GO8  5   XRA  1-8A      C2.8    4.0E-03   9788
+9920 +     2310   2323      2337  LEA  3   FLA  N18E28    SF      ERU       9788

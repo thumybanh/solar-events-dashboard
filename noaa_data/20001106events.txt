@@ -1,0 +1,48 @@
+:Product: 20001106events.txt
+:Created: 2000 Nov 09 0302 UT
+:Date: 2000 11 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Nov 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+400  +     0152   ////      0155  LEA  C   RSP  025-180   III/2                 
+
+410  +     0732   0732      0733  LEA  G   RBR  245       87                    
+410        0732   0732      0735  SVI  G   RBR  410       30                    
+410  +     0733   ////      0733  CUL  C   RSP  40-180    III/2                 
+
+420  +     0932   0936      0939  GO8  5   XRA  1-8A      C2.1    6.8E-04   9210
+420  +     0933   ////      0936  LEA  C   RSP  025-180   III/1             9210
+420  +     0933   0932      0936       F   RBR  204       60                9210
+420  +     0934   0934      0935  SVI  G   RBR  410       92                9210
+420        0934   0935      0935  SVI  G   RBR  4995      42                9210
+420        0934   0935      0935  SVI  G   RBR  8800      30                9210
+420        0934   0935      0946  LEA  3   FLA  S28W59    SF      ERU       9210
+420  +     0934   0935      0940       F   RBR  3000      20                9210
+
+430  +     1234   1234      1235  SVI  G   RBR  245       180                   
+430        1234   ////      1237  SVI  C   RSP  055-180   III/1                 
+
+440        1629   1629      1643  RAM  3   FLA  S27W61    SF                9210
+440        1633   ////      1634  HOL  U   RSP  025-063   III/1             9210
+
+470        2214   2242      2356  LEA  G   RBR  15400     51                    
+
+450  +     2218   ////      2219  CUL  C   RSP  18-180    III/2                 
+
+470        2221   ////      2223  CUL  C   RSP  40-150    III/1                 
+
+460        2235   ////      2237  LEA  C   RSP  025-175   V/1                   
+460  +     2236   ////      2238  CUL  C   RSP  18-180    III/2                 
+
+480  +     2339   ////      2339  LEA  C   RSP  026-150   III/1                 
+
+490        2343   ////      2344  CUL  C   RSP  20-130    III/2                 
+
+500        2350   ////      2350  CUL  C   RSP  20-140    III/1                 

@@ -1,0 +1,46 @@
+:Product: 19990811events.txt
+:Created: 1999 Aug 14 0302 UT
+:Date: 1999 08 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9880      A0056   ////      1319  HOL  3   DSF  S31E36    13      B.0A          
+
+9890      A0056   ////      1319  HOL  3   DSF  N23E22    10      B.0A          
+
+9830 +     0307   0313      0321  GO8  5   XRA  1-8A      B8.2    6.1E-04       
+9830 +     0312   ////      0312  CUL  C   RSP  30-180    III/1                 
+
+9840       0816   0816      0816  LEA  U   RBR  245       53                    
+
+9870 +    A0925   ////      1244  SVI  3   DSF  N25E25    09      B.0A          
+
+9850      B1058  U1058     A1117  RAM  3   FLA  S14E04    SF      ERU       8662
+
+9860       1319   1326      1332  GO8  5   XRA  1-8A      B7.1    4.9E-04   8662
+9860       1322   1325      1333  RAM  3   FLA  S14E03    SF      ERU       8662
+
+9900      B1605   ////      1708  RAM  3   DSF  S06W06    05      B.7A      8662
+
+9910 +     1930   ////      1931  SAG  C   RSP  038-08    III/1                 
+
+9920       2000   ////      2001  SAG  C   RSP  038-08    III/1                 
+
+9930       2056   ////      2057  PAL  C   RSP  025-05    III/1                 
+
+9940       2142   ////      2235  HOL  3   EPL  N28W90    0.39    B.9A          
+9940      B2149   2229      2304  GO8  5   XRA  1-8A      C1.5    5.6E-03       
+
+9950 +     2318   2319      2319  PAL  G   RBR  245       330                   
+9950 +     2318   2319      2319  PAL  G   RBR  410       51                    
+9950       2318   ////      2321  PAL  C   RSP  025-05    III/1                 
+9950 +     2320   ////      2354  HOL  3   BSL  N28E90    0.16    B.9A          
+
+9960       2331   2332      2340  HOL  3   FLA  S16W04    SF                8662

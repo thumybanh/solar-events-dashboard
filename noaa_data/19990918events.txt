@@ -1,0 +1,58 @@
+:Product: 19990918events.txt
+:Created: 1999 Sep 21 0302 UT
+:Date: 1999 09 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8950       0000   0007      0013  HOL  3   FLA  N12E19    SF                8700
+
+8960       0113   ////      0114  LEA  C   RSP  030-06    III/1                 
+
+8970 +     0206   ////      0213  LEA  C   RSP  030-06    III/2                 
+
+8980       0308   ////      0309  LEA  C   RSP  031-03    III/1                 
+
+8990       0439   0443      0450  LEA  3   FLA  N11E17    SF      ERU       8700
+
+9010       0443   0443      0447  LEA  3   FLA  N25W51    SF                8699
+
+9000       0508   ////      0508  LEA  C   RSP  030-04    III/1                 
+
+9020 +     0625   0625      0628  LEA  3   FLA  N11E15    SF      ERU       8700
+
+9030       0857   0902      0909  GO8  5   XRA  1-8A      C1.7    1.1E-03       
+
+9040       0913   0919      0921  GO8  5   XRA  1-8A      C1.9    8.5E-04   8699
+9040       0916   0920      0923  SVI  3   FLA  N25W52    SF      DSD       8699
+
+9050 +     0943   0943      0944  SVI  G   RBR  606       41                    
+9050 +     0943   0944      0944  SVI  G   RBR  1415      63                    
+
+9060       1132   1133      1141  RAM  3   FLA  N25W52    SF                8699
+
+9070       1414   1421      1433  G10  5   XRA  1-8A      C2.4    2.5E-03   8700
+9070       1414   1421      1459  HOL  3   FLA  N11E12    SF                8700
+
+9080 +     1514   1605      1609  GO8  5   XRA  1-8A      C2.9    7.5E-03       
+
+9090 +     1713   ////      1715  SAG  C   RSP  030-07    III/2                 
+
+9100 +     1818   1821      1823  GO8  5   XRA  1-8A      C2.3    4.8E-04   8699
+9100 +     1820   1822      1827  HOL  3   FLA  N24W58    SF                8699
+
+9110 +     1840   ////      1841  PAL  C   RSP  025-06    III/1                 
+
+9120 +     1930   1931      1943  HOL  3   FLA  N14E07    SF                8700
+
+9130       2115   2137      2149  HOL  3   FLA  N14E06    SF                8700
+
+9140       2151   2156      2200  HOL  3   FLA  N14E06    SF                8700
+
+9150       2342   ////      2343  LEA  C   RSP  030-05    III/1                 

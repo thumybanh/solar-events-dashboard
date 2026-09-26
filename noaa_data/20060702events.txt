@@ -1,0 +1,53 @@
+:Product: 20060702events.txt
+:Created: 2006 Jul 05 0329 UT
+:Date: 2006 07 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Jul 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8190 +     0038   ////      0041  LEA  C   RSP  025-157   III/1                 
+
+8200 +     0142   ////      0144  LEA  C   RSP  025-180   III/2                 
+
+8210       0259   ////      0300  LEA  C   RSP  052-180   III/1                 
+
+8220 +     0306   ////      0306  LEA  C   RSP  025-180   III/2                 
+
+8230       0318   ////      0318  LEA  C   RSP  064-180   III/1                 
+
+8240 +     0335   ////      0341  LEA  C   RSP  025-180   III/1                 
+
+8250       0345   ////      0346  LEA  C   RSP  066-110   III/1                 
+
+8260 +     0402   ////      0402  PAL  C   RSP  025-180   III/1                 
+
+8270 +     0427   ////      0428  LEA  C   RSP  025-180   III/2                 
+8270       0427   0427      0427  LEA  G   RBR  245       59                    
+
+8280 +     0646   ////      0647  SVI  C   RSP  025-160   III/1                 
+
+8290 +     0710   ////      0713  LEA  C   RSP  025-180   III/2                 
+8290       0711   0711      0711  LEA  G   RBR  245       300                   
+8290       0711   0714      0717  G12  5   XRA  1-8A      B1.0    3.3E-05       
+
+8300 +     0753   0832      0856  G12  5   XRA  1-8A      B9.3    2.5E-03   0898
+8300       0804   0824      0852  G12  5   XFL  S08E24    8.0E+02 1.7E+03   0898
+8300 +     0807   ////      0808  SVI  C   RSP  025-180   III/2             0898
+
+8310 +     1239   1245      1251  G12  5   XRA  1-8A      B1.5    9.8E-05       
+
+8320       1439   1453      1523  G11  5   XRA  1-8A      B1.6    3.8E-04       
+
+8330       1759   1759      1759  SAG  G   RBR  245       120                   
+8330 +     1759   ////      1805  SAG  C   RSP  030-180   III/1                 
+
+8340       2138   ////      2138  SAG  C   RSP  034-180   III/1                 
+8340       2138   2138      2138  SAG  G   RBR  245       390                   
+
+8350       2349   ////      2349  LEA  C   RSP  025-137   III/1                 

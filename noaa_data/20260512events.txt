@@ -1,0 +1,54 @@
+:Product: 20260512events.txt
+:Created: 2026 May 15 0357 UT
+:Date: 2026 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2790 +     0048   0101      0132  G18  5   XRA  1-8A      C1.3    3.2E-03   4432
+
+2800       0207   0207      0207  LEA  G   RBR  245       130                   
+
+2820       0344   ////      0344  PAL  C   RSP  025-128   III/1                 
+
+2810      U0356  U0356      0356  LEA  G   RBR  245       110                   
+
+2830       0416   0416      0416  LEA  G   RBR  245       160                   
+
+2840       0627   0627      0627  LEA  G   RBR  245       130                   
+2840 +     0644   0654      0704  G18  5   XRA  1-8A      C1.0    1.3E-03   4432
+
+2850 +     0926   0935      0943  G18  5   XRA  1-8A      C1.1    1.0E-03   4432
+
+2860 +     1038   1049      1100  G18  5   XRA  1-8A      C1.4    1.9E-03   4432
+
+2870 +     1111   ////      1112  SVI  C   RSP  025-083   III/1                 
+
+2880 +     1149   ////      1213  SVI  C   RSP  025-180   VI/1                  
+
+2890       1231   1236      1239  G19  5   XRA  1-8A      B9.4    4.5E-04       
+
+2900 +     1240   1249      1252  G18  5   XRA  1-8A      C2.0    1.0E-03   4436
+2900 +     1248   1248      1248  SVI  G   RBR  410       100               4436
+2900       1248   1249      1251  SVI  3   FLA  N20E33    SF                4436
+
+2910       1453   1458      1500  G19  5   XRA  1-8A      C1.3    5.1E-04       
+2910 +     1456   ////      1506  SVI  C   RSP  025-180   III/3                 
+
+2920 +     1711   1717      1719  G18  5   XRA  1-8A      C1.5    6.5E-04   4436
+2920       1715   1716      1720  HOL  3   FLA  N20E29    SN                4436
+2920       1715   1715      1715  SAG  G   RBR  410       120               4436
+
+2930 +     1731   1800      1810  HOL  3   FLA  N15E29    SF      ERU       4436
+
+2950 +     2142   2148      2151  G18  5   XRA  1-8A      C1.1    5.7E-04   4433
+2950       2148   2148      2153  HOL  3   FLA  S18W48    SF                4433
+
+2960 +     2211   2217      2223  G18  5   XRA  1-8A      C1.0    7.5E-04   4436
+2960       2216   2216      2224  HOL  3   FLA  N17E30    SF                4436

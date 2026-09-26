@@ -1,0 +1,91 @@
+:Product: 20000626events.txt
+:Created: 2000 Jun 29 0302 UT
+:Date: 2000 06 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jun 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4100       0004   0004      0009  HOL  3   FLA  N12W06    SF                9054
+
+4110       0029   0030      0054  HOL  3   FLA  N12W06    SF                9054
+
+4120       0045   0101      0115  GO8  5   XRA  1-8A      C2.4    3.5E-03   9054
+4120 +     0048   ////      0052  PAL  C   RSP  025-07    III/1             9054
+4120       0058   0059      0107  HOL  3   FLA  N11W04    SF                9054
+
+4280 +    A0107   ////      1325  HOL  3   DSF  N28E18    15      B.0A          
+
+4130      B0111  U0111     A0126  LEA  3   FLA  N11W06    SF                9054
+
+4170      B0112  U0115     A0129  LEA  3   FLA  S14W44    SF                9058
+4170 +     0120   0125      0129  GO8  5   XRA  1-8A      C2.4    1.2E-03   9058
+
+4140       0131   0131      0131  LEA  G   RBR  245       62                    
+
+4300       0144   ////      0150  CUL  C   RSP  30-80     II/1    800           
+
+4150 +     0150   0157      0207  GO8  5   XRA  1-8A      C4.1    3.3E-03       
+
+4180 +     0427   0434      0443  GO8  5   XRA  1-8A      C1.8    1.6E-03       
+
+4230       0600   0000      0945       F   RNS  204       25                    
+
+4190 +     0631   0643      0656  GO8  5   XRA  1-8A      C3.2    3.6E-03   9054
+4190 +     0634   0643      0700  SVI  3   FLA  N12W08    SF      ERU       9054
+
+4200       0705  U0706     A0729  SVI  3   FLA  N11W06    SF      ERU       9054
+
+4230       0842   0844      0853  LEA  G   RNS  245       65                    
+
+4210       1025   ////      1025  SAG  C   RSP  030-07    III/2                 
+
+4220 +     1035   1039      1041  GO8  5   XRA  1-8A      C1.8    4.8E-04       
+
+4240 +     1151   1203      1215  GO8  5   XRA  1-8A      C1.6    1.9E-03   9054
+4240 +     1204   1204      1207  RAM  3   FLA  N11W11    SF                9054
+
+4250 +     1353   ////      1403  HOL  C   RSP  025-07    III/1                 
+
+4260 +     1443   1445      1507  RAM  3   FLA  N12W11    SF      ERU       9054
+
+4330       1508   1512      1515  GO8  5   XRA  1-8A      C1.7    6.4E-04   9059
+4330       1508   1513      1531  RAM  3   FLA  N16W06    SF      ERU       9059
+
+4270       1508   1511      1515  G10  5   XRA  1-8A      C1.7    6.4E-04   9046
+4270 +     1511   1511      1516  RAM  3   FLA  N21W71    SF      DSD       9046
+
+4290       1706   1709      1712  RAM  3   FLA  N23W74    SF                9046
+
+4590      A1711   ////      1129  RAM  3   DSF  N40W68    25      B.0A          
+
+4310 +     1838   1844      1846  GO8  5   XRA  1-8A      C5.6    1.8E-03       
+4310 +     1841   1841      1842  SAG  G   RBR  606       240                   
+
+4320       1908   1913      1917  HOL  3   FLA  N13E25    SF                9057
+
+4350       2034   2034      2037  HOL  3   FLA  S16W52    SF                9058
+
+4360      B2056  U2101     A2113  HOL  3   FLA  N13W16    SF                9054
+
+4370 +     2122   2122      2122  PAL  G   RBR  245       79                    
+
+4380       2127   2127      2128  SAG  G   RBR  245       150                   
+4380       2127   2127      2128  SAG  G   RBR  410       29                    
+
+4390       2137   2139      2140  SAG  G   RBR  245       75                    
+4390       2137   2139      2140  SAG  G   RBR  410       20                    
+
+4400       2149   2151      2201  HOL  3   FLA  S16W53    SF                9058
+
+4410 +     2313   2317      2321  GO8  5   XRA  1-8A      C2.0    8.1E-04       
+
+4420       2330   2340      2346  HOL  3   FLA  S16W55    SF                9058
+
+4450       2339   2354      0003  GO8  5   XRA  1-8A      C1.7    2.0E-03   9054
+4450       2340   2353      0009  HOL  3   FLA  N11W17    SF                9054

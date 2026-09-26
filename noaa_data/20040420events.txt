@@ -1,0 +1,45 @@
+:Product: 20040420events.txt
+:Created: 2004 Apr 23 0302 UT
+:Date: 2004 04 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5190       0000   ////      0605  CUL  C   RSP  20-180    CTM/1                 
+
+5080 +     0251   0254      0300  G12  5   XRA  1-8A      B2.1    1.0E-04   0597
+5080       0254   0254      0257  G12  5   XFL  S08W37    2.3E+02 5.6E+02   0597
+
+5090       0540   ////      0541  SVI  U   RSP  025-044   III/1                 
+
+5100       0546   0546      0547  LEA  G   RBR  245       73                    
+
+5110 +     0611   ////      0706  SVI  3   EPL  ////      0.16    B.9A          
+5110 +     0637   0641      0645  G12  5   XRA  1-8A      B2.9    1.2E-04   0594
+5110       0642   0642      0642  G12  5   XFL  N16W00    5.0E+01 8.2E+01   0594
+
+5200       0711   ////      0711  CUL  C   RSP  20-90     III/1                 
+
+5120       0825   ////      0825  SVI  C   RSP  038-176   III/1                 
+
+5130       0841   ////      0841  SVI  C   RSP  028-136   III/1                 
+
+5140 +     0940   0951      1007  G12  5   XRA  1-8A      B5.8    7.3E-04   0596
+5140       0944   0954      1006  G12  5   XFL  S06E41    1.0E+03 2.4E+03   0596
+
+5150       1223   1235      1249  G12  5   XRA  1-8A      B4.2    5.4E-04       
+
+5160       1608   1619      1648  HOL  3   FLA  S07E37    SF      ERU       0596
+5160 +     1609   1630      1646  G12  5   XRA  1-8A      B5.8    1.0E-03   0596
+5160       1612   1632      1645  G12  5   XFL  S07E37    6.0E+02 1.1E+03   0596
+
+5180 +     2028   2033      2042  G12  5   XRA  1-8A      B4.3    3.3E-04   0596
+5180       2032   2036      2041  G12  5   XFL  S07E35    5.5E+02 1.2E+03   0596
+
+5210       2155   ////      2155  CUL  C   RSP  25-80     III/1                 

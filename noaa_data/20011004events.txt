@@ -1,0 +1,73 @@
+:Product: 20011004events.txt
+:Created: 2001 Oct 07 0302 UT
+:Date: 2001 10 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Oct 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1160 +     0024   ////      0027  LEA  C   RSP  025-180   III/1                 
+
+1170 +     0055   ////      0058  CUL  C   RSP  57-200    III/1                 
+1170 +     0057   0058      0058  LEA  G   RBR  245       53                    
+
+1180       0107   0107      0107  LEA  G   RBR  245       94                    
+
+1190 +     0144   0149      0202  GO8  5   XRA  1-8A      C2.2    2.1E-03       
+
+1200 +     0204   0209      0213  GO8  5   XRA  1-8A      C2.7    1.3E-03       
+
+1210       0234   0234      0238  LEA  2   FLA  N15W58    SF      DSD       9636
+
+1220 +     0308   0312      0317  GO8  5   XRA  1-8A      C2.6    1.2E-03   9636
+1220       0310   0311      0318  LEA  2   FLA  N15W57    SF      ERU       9636
+1220 +     0316   ////      0317  LEA  C   RSP  039-155   III/1             9636
+
+1230       0411   0416      0422  G10  5   XRA  1-8A      C2.0    1.2E-03       
+1230       0411   ////      0413  CUL  C   RSP  57-180    III/1                 
+
+1240 +     0601   ////      0605  LEA  C   RSP  025-180   III/3                 
+
+1250 +     0605   0611      0616  GO8  5   XRA  1-8A      C2.7    1.5E-03   9645
+1250 +     0609   0613      0615  LEA  2   FLA  S18W38    SF      ERU       9645
+
+1260       0631   0634      0636  G10  5   XRA  1-8A      C2.3    5.8E-04   9645
+1260       0631   ////      0635  CUL  C   RSP  57-150    III/1             9645
+1260 +     0634   0635      0637  LEA  2   FLA  S16W39    SF      ERU       9645
+
+1370       0643   ////      0643  CUL  C   RSP  57-80     III/1                 
+
+1270       0758   0800      0802  LEA  2   FLA  S17E65    SF                9650
+
+1280       0927   ////      0928  LEA  C   RSP  077-180   III/1                 
+
+1290       1140   1140      1140  SVI  G   RBR  245       95                    
+1290       1140   1140      1140  SVI  G   RBR  410       43                    
+
+1300       1153   1233      1312  GO8  5   XRA  1-8A      C3.1    1.1E-02   9634
+1300       1222   1227      1236  RAM  3   FLA  N11W63    SF      ERU       9634
+
+1310       1413   1423      1427  GO8  5   XRA  1-8A      C2.4    1.7E-03   9644
+1310 +     1416   1419      1426  RAM  3   FLA  N18W41    SF      ERU       9644
+1310 +     1417   1417      1418  SAG  G   RBR  245       190               9644
+1310 +     1417   ////      1419  SVI  C   RSP  025-180   III/1             9644
+
+1320       1531   1531      1532  SAG  G   RBR  245       62                    
+
+1450      A1559   ////     B0555  SVI  3   DSF  N07E10    08      B.0A          
+
+1330       1950   1958      2004  GO8  5   XRA  1-8A      C1.9    1.3E-03   9641
+1330       1954   1959      2008  HOL  4   FLA  S11W16    SF      ERU       9641
+
+1380       2017   ////      2019  CUL  C   RSP  57-180    III/1                 
+
+1340       2112   2116      2120  G10  5   XRA  1-8A      C2.0    8.6E-04       
+
+1350 +     2350   ////      2351  LEA  C   RSP  097-180   III/1                 
+
+1360       2353   2353      2354  LEA  G   RBR  245       75                    

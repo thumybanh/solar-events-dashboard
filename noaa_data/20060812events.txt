@@ -1,0 +1,44 @@
+:Product: 20060812events.txt
+:Created: 2006 Aug 15 0329 UT
+:Date: 2006 08 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Aug 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1140       0251   0251      0251  LEA  G   RBR  245       190                   
+
+1150 +     0411   0426      0433  G12  5   XRA  1-8A      B2.4    2.7E-04       
+
+1210 +     0437  U0451      2248  COM  G   RNS  245       100                   
+
+1160       0451   0452      0452  LEA  G   RBR  245       100                   
+
+1170       0534   ////      0835  SVI  C   RSP  031-172   CTM/1                 
+
+1180 +     0743   0743      0743  SVI  G   RBR  245       91                    
+
+1190 +     1017   1021      1026  G12  5   XRA  1-8A      B1.7    7.0E-05   0904
+1190       1022   1025      1026  SVI  G   RBR  245       72                0904
+1190       1022   1022      1024  G12  5   XFL  S13E42    1.5E+02 2.8E+02   0904
+
+1200       1200   1200      1200  SVI  G   RBR  245       91                    
+
+1220       1354   1432      1448  G12  5   XRA  1-8A      B1.3    3.6E-04       
+
+1230 +     1700   ////      2328  SAG  C   RSP  030-180   CTM/1                 
+
+1240      U1717  U1717      1717  SAG  G   RBR  245       100                   
+
+1250 +     1856   1900      1902  G12  5   XRA  1-8A      B1.8    5.8E-05   0904
+1250       1900   1900      1900  G12  5   XFL  S14E43    1.0E+02 1.8E+02   0904
+
+1260 +     2006   ////      2007  SAG  C   RSP  030-071   III/1                 
+1260 +     2007   2007      2007  PAL  G   RBR  245       260                   
+
+1270       2307   ////      0951  LEA  C   RSP  044-180   CTM/1                 

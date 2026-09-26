@@ -1,0 +1,61 @@
+:Product: 19990605events.txt
+:Created: 1999 Jun 08 0302 UT
+:Date: 1999 06 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jun 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7750       0114   ////      0116  PAL  C   RSP  038-05    III/1                 
+
+7760       0119   ////      0120  PAL  C   RSP  027-05    III/1                 
+
+7770 +     0135   0140      0145  GO8  5   XRA  1-8A      C1.3    7.0E-04   8552
+7770       0139   0140      0143  LEA  4   FLA  N19W85    SF                8552
+
+7790 +     0403   0409      0423  GO8  5   XRA  1-8A      C1.0    1.1E-03       
+7790       0417   0417      0417  SVI  G   RBR  245       260                   
+
+7800       0533   ////      0534  SVI  C   RSP  035-08    III/2                 
+
+7780       0600   0000      1200       F   RNS  204       10                    
+
+7810 +     0652   0655      0658  COM  3   FLA  S20E71    SF                8571
+
+7820       0707   ////      0709  SVI  C   RSP  035-08    III/2                 
+
+7830 +     0741   0748      0756  GO8  5   XRA  1-8A      C1.7    1.3E-03       
+7830 +     0744   0751      0801  LEA  4   FLA  N26W47    SF                    
+
+7840 +     0812   0815      0817  GO8  5   XRA  1-8A      C1.7    3.6E-04   8562
+7840 +     0815   0815      0818  LEA  4   FLA  S18W39    SF                8562
+
+7850       0844   0844      0845  SVI  G   RBR  245       170                   
+
+7860       0920   ////      0920  SVI  C   RSP  036-08    III/2                 
+
+7870       1144   ////      1144  SVI  C   RSP  035-05    III/2                 
+
+7880 +     1320   1321      1326  COM  3   FLA  S20E68    SF                8571
+
+7890 +     1607   ////      1607  SVI  C   RSP  036-08    III/1                 
+
+7900 +     1755   ////      1758  SAG  C   RSP  030-06    III/1                 
+
+7910 +     2033   2034      2035  SAG  G   RBR  245       64                    
+
+7920 +     2038   2038      2039  SAG  G   RBR  245       59                    
+
+7930       2123   2124      2124  SAG  G   RBR  245       63                    
+
+7940       2155   2158      2159  SAG  G   RBR  245       53                    
+7940       2157   ////      2157  CUL  C   RSP  30-90     III/1                 
+
+7780 +     2244   2329      0454  PAL  U   RNS  245       130                   
+
+7950 +     2303   ////      2303  CUL  C   RSP  23-180    III/2                 

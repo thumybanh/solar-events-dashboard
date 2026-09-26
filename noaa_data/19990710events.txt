@@ -1,0 +1,60 @@
+:Product: 19990710events.txt
+:Created: 1999 Jul 13 0302 UT
+:Date: 1999 07 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jul 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9630       0056   ////      0057  PAL  C   RSP  025-05    III/1                 
+
+9660       0128   0155      0230  GO8  5   XRA  1-8A      C1.4    4.6E-03       
+
+9640       0317   ////      0318  PAL  C   RSP  030-05    III/1                 
+
+9650 +     0506   0510      0512  GO8  5   XRA  1-8A      C1.0    2.9E-04       
+
+9670 +     0554   0559      0604  GO8  5   XRA  1-8A      C1.0    5.2E-04   8615
+9670       0555   ////      0600  SVI  C   RSP  035-08    III/2             8615
+9670      B0559   0600      0608  SVI  3   FLA  S28W36    SF                8615
+
+9680 +     0700   0704      0706  GO8  5   XRA  1-8A      B9.8    2.8E-04       
+
+9690       0724   ////      0724  SVI  U   RSP  040-08    III/1                 
+
+9700       0755   0758      0801  G10  5   XRA  1-8A      B7.7    2.4E-04       
+
+9710 +     1215   1221      1224  GO8  5   XRA  1-8A      C1.8    6.7E-04       
+9710 +     1217   1217      1217  SVI  G   RBR  245       44                    
+9710       1217   1217      1217  SVI  G   RBR  410       47                    
+9710       1217   1220      1229  SVI  3   FLA  S28W36    SF                8615
+
+9720       1258   1258      1300  SAG  G   RBR  245       79                    
+
+9740       1310   ////      1310  SVI  C   RSP  037-05    III/1                 
+
+9730 +     1313   1313      1313  SVI  G   RBR  606       58                    
+
+9750       1433   ////      1433  SAG  C   RSP  030-05    III/1                 
+
+9760 +     1509   1512      1517  GO8  5   XRA  1-8A      B8.4    3.5E-04   8627
+9760       1512   1513      1523  RAM  3   FLA  S13E51    SF                8627
+
+9770       1548   ////      1551  SAG  C   RSP  030-06    III/1                 
+
+9780       1630   ////      1755  SAG  C   RSP  030-08    III/2                 
+
+9790       1755   ////      1756  PAL  C   RSP  025-05    III/1                 
+
+9800       1823   1823      1832  RAM  3   FLA  N16E33    SF                8628
+
+9810 +     1914   1922      1933  GO8  5   XRA  1-8A      C1.5    1.5E-03       
+
+9820       2339   0013      0111  HOL  3   FLA  N18E32    1N                8628
+
+9830 +     2352   0007      0011  HOL  3   FLA  S22W56    SF                8626

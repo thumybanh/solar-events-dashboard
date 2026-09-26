@@ -1,0 +1,76 @@
+:Product: 20000306events.txt
+:Created: 2000 Mar 09 0302 UT
+:Date: 2000 03 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Mar 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8200       0050   ////      0050  PAL  C   RSP  030-07    III/1                 
+
+8410       0458   ////      0458  CUL  C   RSP  30-130    III/2                 
+
+8210 +     0647   ////      0647  CUL  C   RSP  50-170    III/2                 
+
+8350       0700   0000      1200       F   RNS  204       15                    
+
+8230 +     0741   ////      0742  CUL  C   RSP  25-150    III/1                 
+
+8240       0820   ////      0820  SVI  C   RSP  035-08    III/1                 
+
+8250       1003   ////      1003  SVI  C   RSP  035-07    III/1                 
+
+8260 +     1043   1049      1053  GO8  5   XRA  1-8A      C4.5    1.9E-03       
+
+8270 +     1119   1128      1142  GO8  5   XRA  1-8A      C3.8    4.6E-03       
+8270       1127   ////      1128  SVI  C   RSP  035-08    III/1                 
+
+8280 +     1150   1200      1214  SVI  3   FLA  S11E27    SF      UMB       8898
+8280 +     1151   1202      1206  GO8  5   XRA  1-8A      C4.3    3.4E-03   8898
+
+8290       1210   1210      1210  SAG  G   RBR  245       99                    
+8290       1210   ////      1212  SAG  C   RSP  030-08    III/3                 
+8290       1210   ////      1212  SVI  C   RSP  035-08    V/3                   
+
+8300 +     1616   1619      1622  GO8  5   XRA  1-8A      C3.9    1.0E-03   8889
+8300       1618   ////      1706  HOL  3   BSL  N20W80    0.17    B.9A      8889
+8300       1620   1620      1625  RAM  3   FLA  N20W82    SF      DSD       8889
+8300       1620   ////      1702  RAM  3   BSL  N20W82    0.19    B.9A      8889
+
+8320       1736   1737      1740  HOL  3   FLA  N21W78    SF                8889
+
+8330       1757   1758      1802  HOL  3   FLA  S14W62    SF                8891
+8330 +     1759   ////      1759  PAL  C   RSP  025-05    III/1             8891
+
+8340 +     1853   1859      1914  GO8  5   XRA  1-8A      C3.4    3.6E-03       
+8340       1904   ////      1905  PAL  C   RSP  025-04    III/1                 
+
+8420       2035   ////      2037  CUL  C   RSP  20-150    III/1                 
+
+8360       2036   ////      2037  PAL  C   RSP  025-04    III/1                 
+
+8370 +     2039   2045      2110  GO8  5   XRA  1-8A      C2.8    4.8E-03       
+
+8430       2116   ////      2116  CUL  C   RSP  50-180    III/1                 
+
+8440       2132   ////      2135  CUL  C   RSP  18-70     III/1                 
+
+8380      B2226   2235      2250  HOL  3   FLA  S13E56    SF                8901
+
+8390       2301   2301      2302  PAL  G   RBR  245       8100                  
+8390       2301   2302      2303  PAL  G   RBR  410       570                   
+8390       2301   2302      2302  PAL  G   RBR  2695      44                    
+8390       2301   2302      2302  PAL  G   RBR  4995      29                    
+8390       2301   2302      2302  PAL  G   RBR  8800      31                    
+8390       2301   2302      2302  PAL  G   RBR  15400     46                    
+8390 +     2301   ////      2302  CUL  C   RSP  23-290    III/3                 
+
+8400       2323   2323      2324  PAL  G   RBR  245       1800                  
+8400 +     2323   ////      2325  CUL  C   RSP  40-460    III/3                 
+8400       2323   2323      2323  PAL  G   RBR  410       640                   
+8400       2323   2323      2323  PAL  G   RBR  606       160                   

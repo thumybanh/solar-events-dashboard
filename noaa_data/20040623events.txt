@@ -1,0 +1,78 @@
+:Product: 20040623events.txt
+:Created: 2004 Jun 26 0302 UT
+:Date: 2004 06 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jun 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5570       0018   ////      0019  LEA  C   RSP  025-104   III/1                 
+
+5580 +     0255   0301      0310  G12  5   XRA  1-8A      C1.2    9.2E-04   0635
+5580       0258   0300      0310  LEA  3   FLA  S11W27    SF      ERU       0635
+5580       0258   0308      0309  G12  5   XFL  S11W28    2.6E+03 6.8E+03   0635
+
+5590 +     0549   0605      0621  G12  5   XRA  1-8A      C2.5    3.6E-03   0635
+
+5670       0549   ////      0601  CUL  C   RSP  18-200    III/3                 
+
+5590       0552   0612      0620  G12  5   XFL  S10W21    3.3E+03 1.4E+04   0635
+5590 +     0554   0556      0628  SVI  3   FLA  S09W21    SF      ERU       0635
+
+5640       0600   ////      1200  IZM  F   RNS  204       5                     
+
+5670       0601   ////      0612  CUL  C   RSP  45-110    II/1                  
+
+5590 +     0603   0603      0603  LEA  G   RBR  245       78                0635
+
+5600       1104   ////      1104  SVI  U   RSP  028-130   III/1                 
+
+5610       1323   ////      1324  SVI  C   RSP  025-119   III/1                 
+
+5620       1335   ////      1336  SVI  C   RSP  030-081   III/1                 
+
+5630       1422   ////      1431  SVI  U   RSP  028-079   III/1                 
+
+5680       1523   ////      1525  SVI  C   RSP  025-076   III/1                 
+
+5690 +     1536   1538      1539  SAG  G   RBR  410       73                    
+
+5700 +     1544   1544      1544  SAG  G   RBR  410       64                    
+
+5660 +     1648   1656      1708  G12  5   XRA  1-8A      B5.9    6.1E-04   0635
+5660       1652   1704      1707  G12  5   XFL  S11W35    1.5E+03 3.3E+03   0635
+5660       1704   1714      1715  SVI  G   RBR  410       120               0635
+
+5710 +     1714   1715      1715  SAG  G   RBR  245       69                    
+5710       1714   1714      1714  SAG  G   RBR  410       23                    
+
+5720       1721   1721      1721  SAG  G   RBR  245       70                    
+
+5730       1734   1734      1735  PAL  G   RBR  410       97                    
+
+5740       1739   1739      1739  SAG  G   RBR  245       96                    
+
+5750       1809   1809      1809  SAG  G   RBR  245       79                    
+
+5760       1930   1931      1931  SAG  G   RBR  245       120                   
+
+5770       1934   1934      1935  SAG  G   RBR  245       83                    
+
+5780       1941   1944      1944  SAG  G   RBR  245       70                    
+
+5790 +     2047   ////      2047  PAL  C   RSP  025-180   III/1                 
+
+5800       2142   ////      2145  CUL  C   RSP  20-120    III/1                 
+
+5810       2156   ////      2156  CUL  C   RSP  20-100    III/1                 
+
+5820       2229   ////      2229  CUL  C   RSP  18-100    III/2                 
+
+5830 +     2250   2257      2304  G12  5   XRA  1-8A      B5.7    4.0E-04   0635
+5830       2253   2302      2303  G12  5   XFL  S16W33    9.3E+02 2.1E+03       
+5830       2301   ////      2301  CUL  C   RSP  20-100    III/1                 

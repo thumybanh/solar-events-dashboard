@@ -1,0 +1,19 @@
+:Product: 20060522events.txt
+:Created: 2006 May 25 0329 UT
+:Date: 2006 05 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 May 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6510      A1920   ////     B2020  HOL  3   DSF  S18E15    06      B.0A      0884
+
+6500 +     1937   1952      2006  G12  5   XRA  1-8A      B6.4    7.6E-04   0884
+6500 +     1942   ////      1947  SAG  C   RSP  030-129   III/1             0884
+6500       1946   1959      2005  G12  5   XFL  S13E14    1.5E+03 3.9E+03   0884
+6500 +     1959   ////      2003  PAL  C   RSP  030-046   II/1    548       0884

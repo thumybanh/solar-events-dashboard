@@ -1,0 +1,45 @@
+:Product: 19980513events.txt
+:Created: 1998 May 16 0302 UT
+:Date: 1998 05 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 May 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2770 +     0202   0206      0210  GO9  5   XRA  1-8A      B4.8    2.1E-04       
+
+2810 +     0618   ////      0619  CUL  C   RSP  22-170    III/3                 
+
+2800 +     0621   ////      0826  SVI  C   RSP  035-08    CTM/2                 
+
+2820       0624   0627      0635  SVI  3   FLA  S22W18    SF                8218
+
+2860       1326   1330      1332  GO9  5   XRA  1-8A      B4.6    1.4E-04       
+
+2830       1400   1402      1406  HOL  3   FLA  S26W17    SF                8218
+
+2840       1450   1452      1455  GO9  5   XRA  1-8A      C1.1    2.2E-04   8218
+2840 +     1451   1452      1501  HOL  3   FLA  S22W16    SF                8218
+
+2870       1741   ////      1743  SAG  C   RSP  030-05    III/1                 
+
+2850       1753   1756      1758  GO8  5   XRA  1-8A      B3.5    9.4E-05       
+2850       1753   1756      1758  GO8  5   XRA  1-8A      B3.5    9.4E-05       
+
+2880 +     1842   1846      1849  GO9  5   XRA  1-8A      B7.0    2.2E-04   8218
+2880       1845   1846      1852  HOL  3   FLA  S21W18    SF      ERU       8218
+
+2890 +     2041   2044      2055  GO9  5   XRA  1-8A      B4.2    3.3E-04   8218
+2890       2044   2045      2051  HOL  3   FLA  S18W25    SF                8218
+
+2900       2126   2130      2133  HOL  3   FLA  S20W16    SF      ERU       8218
+
+2910 +     2219   2225      2230  GO9  5   XRA  1-8A      C1.6    6.6E-04   8218
+2910       2224   2225      2230  HOL  3   FLA  S20W18    SF      ERU       8218
+
+2920       2234   2237      2241  GO8  5   XRA  1-8A      B8.5    3.2E-04       

@@ -1,0 +1,59 @@
+:Product: 20001107events.txt
+:Created: 2000 Nov 10 0302 UT
+:Date: 2000 11 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Nov 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+510        0007   0011      0015  G10  5   XRA  1-8A      C1.5    6.6E-04   9210
+510        0007   ////      0010  CUL  C   RSP  18-180    III/2             9210
+510        0009   0010      0016  LEA  3   FLA  S28W67    SF                9210
+
+560        0016   ////      0017  CUL  C   RSP  40-130    III/1                 
+
+520  +     0048   ////      0051  CUL  C   RSP  18-180    III/2                 
+
+530  +     0151   0156      0200  GO8  5   XRA  1-8A      C3.6    1.4E-03       
+
+540  +     0337   0347      0406  GO8  5   XRA  1-8A      C3.4    5.0E-03   9213
+540        0340   0340      0341  LEA  G   RBR  4995      32                9213
+540        0341   0342      0347  LEA  3   FLA  N01W40    SF      ERU       9213
+
+600        0548   ////      1408  SVI  C   RSP  025-180   CTM/1                 
+
+570  +     0628   ////      0628  CUL  C   RSP  18-180    III/2                 
+
+600        0633   ////      0633  CUL  C   RSP  25-40     III/1                 
+
+640        0721   ////      0721  CUL  C   RSP  20-80     III/1                 
+
+610        0931   0932      0935       F   RBR  3000      10                    
+
+580  +     1048   1053      1057  GO8  5   XRA  1-8A      C4.2    1.5E-03       
+
+590  +     1155   1207      1220  GO8  5   XRA  1-8A      M1.6    1.6E-02   9213
+590        1157   1200      1204  SAG  G   RBR  2695      89                9213
+590        1158   1200      1204  SAG  G   RBR  4995      140               9213
+590  +     1159   1203      1249  RAM  3   FLA  N06W54    1F      ERU       9213
+
+620  +     1624   1628      1631  GO8  5   XRA  1-8A      C2.2    7.6E-04       
+620        1626   1629      1636  RAM  3   FLA  N14W78    SF                    
+
+630  +     1859   1903      1906  GO8  5   XRA  1-8A      C1.5    5.3E-04       
+
+650        2013   ////      2013  CUL  C   RSP  20-75     III/1                 
+
+660        2032   ////      2033  CUL  C   RSP  20-120    III/1                 
+
+670        2034   2034      2048  RAM  3   FLA  S18W15    SF                9225
+
+680        2222   ////      2224  CUL  C   RSP  18-90     III/1                 
+
+690        2235   2256      2348  LEA  3   FLA  N12W80    SF      ERU           
+690  +     2253   2301      2308  GO8  5   XRA  1-8A      C4.1    2.7E-03       

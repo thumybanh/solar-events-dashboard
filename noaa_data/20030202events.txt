@@ -1,0 +1,44 @@
+:Product: 20030202events.txt
+:Created: 2003 Feb 05 0302 UT
+:Date: 2003 02 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6180       0118  U0122      0132  LEA  2   FLA  S15E78    SF      DSD       0276
+6180 +     0121   0124      0126  GO8  5   XRA  1-8A      C1.3    3.3E-04   0276
+
+6190 +     0319   0334      0348  GO8  5   XRA  1-8A      C2.8    3.6E-03   0276
+6190       0327   0333      0337  LEA  2   FLA  S15E77    SF                0276
+
+6200       0357   0400      0405  LEA  2   FLA  S15E77    SF                0276
+
+6210 +     0442   0447      0452  GO8  5   XRA  1-8A      C1.1    5.7E-04   0276
+
+6220       0533   0543      0545  GO8  5   XRA  1-8A      C1.4    4.8E-04   0276
+6220       0535   0543      0548  LEA  3   FLA  S15E67    SF                0276
+
+6230       0632   0636      0639  LEA  3   FLA  S15E67    SF                0276
+6230 +     0634   0637      0639  GO8  5   XRA  1-8A      C1.1    2.2E-04   0276
+
+6240 +     0853   0910      0936  GO8  5   XRA  1-8A      C1.4    3.0E-03   0276
+
+6250 +     0958   1001      1003  GO8  5   XRA  1-8A      B9.1    2.3E-04   0276
+
+6260 +     1127   1130      1132  GO8  5   XRA  1-8A      B6.7    1.6E-04   0276
+
+6270 +     1530   1533      1535  GO8  5   XRA  1-8A      C1.0    2.3E-04   0276
+
+6280       2147   2150      2153  G10  5   XRA  1-8A      B7.4    2.3E-04       
+
+6290       2203   ////      2203  HOL  C   RSP  025-090   III/1                 
+
+6300 +     2319   ////      2322  LEA  C   RSP  025-134   III/1                 
+
+6310       2341   ////      2342  HOL  C   RSP  025-081   III/1                 

@@ -1,0 +1,32 @@
+:Product: 20040630events.txt
+:Created: 2004 Jul 03 0302 UT
+:Date: 2004 06 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jun 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6930       0500   ////      0500  CUL  C   RSP  20-70     III/1                 
+
+6940       0511   ////      0511  CUL  C   RSP  30-75     III/1                 
+
+6900 +     0719   0724      0731  G12  5   XRA  1-8A      B2.2    1.1E-04   0640
+6900       0721   ////      0723  LEA  C   RSP  025-116   V/2               0640
+6900       0722   0724      0730  G12  5   XFL  S07E40    4.5E+02 1.1E+03   0640
+6900       0723   0723      0728  LEA  3   FLA  S08E40    SF      ERU       0640
+
+6910 +     1148   1156      1201  G12  5   XRA  1-8A      B2.7    1.4E-04   0640
+6910       1151   1158      1200  G12  5   XFL  S09E34    5.0E+02 9.6E+02   0640
+
+6920 +     1426   1439      1445  G12  5   XRA  1-8A      C1.3    8.4E-04   0640
+6920       1429   1442      1444  G12  5   XFL  S10E35    1.9E+03 7.3E+03   0640
+6920       1431   1435      1448  HOL  3   FLA  S10E36    SF      ERU       0640
+
+6950       1525   1608      1634  G12  5   XRA  1-8A      B2.3    6.7E-04       
+
+6960 +     2203   2206      2210  G12  5   XRA  1-8A      B1.1    3.9E-05       

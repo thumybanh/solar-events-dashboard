@@ -1,0 +1,69 @@
+:Product: 20030506events.txt
+:Created: 2003 May 09 0302 UT
+:Date: 2003 05 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 May 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3010       0015   0016      0020  HOL  3   FLA  S32W53    SF                0348
+
+3020       0044   0048      0048  LEA  G   RBR  245       190                   
+
+3030       0050   0050      0052  LEA  G   RBR  245       60                    
+
+3040       0056   0056      0056  LEA  G   RBR  245       58                    
+
+3050       0100   0100      0102  LEA  G   RBR  245       67                    
+
+3210      A0106   ////     B1257  HOL  3   DSF  ////      19      B.0A      0000
+
+3060 +     0137   0148      0236  G10  5   XRA  1-8A      C3.2    8.7E-03   0349
+3060       0138   0138      0139  PAL  G   RBR  2695      44                    
+3060       0138   0138      0139  PAL  G   RBR  4995      52                    
+
+3080       0304   ////      0304  CUL  C   RSP  20-150    III/1                 
+
+3090       0649   ////      0654  LEA  C   RSP  025-180   III/1                 
+
+3100       0852   ////      0853  SVI  U   RSP  028-138   III/1                 
+
+3120       0906   1020      1043  G10  5   XRA  1-8A      C5.7    1.5E-02   0349
+
+3110       0933   ////      0935  SVI  C   RSP  025-138   III/1                 
+
+3130       1044   ////      1045  SVI  C   RSP  025-048   III/1                 
+
+3140       1317   1317      1317  SAG  G   RBR  245       53                    
+
+3150 +     1344   1410      1430  G10  5   XRA  1-8A      C3.7    7.6E-03   0349
+3150 +     1348   1353      1359  SVI  G   RBR  245       56                    
+
+3070 +     1350   1415      1450  SAG  G   RNS  245       100                   
+
+3160       1442   1442      1446  SVI  G   RBR  245       82                    
+
+3180       1606   ////      1726  SVI  C   RSP  121-150   CTM/1                 
+
+3170 +     1615   1615      1615  SAG  G   RBR  245       140                   
+
+3190 +     1724   1729      1734  G10  5   XRA  1-8A      C1.3    6.9E-04   0349
+3190 +     1732   ////      1733  SAG  C   RSP  030-055   III/2                 
+
+3200 +     1913   1925      1950  G10  5   XRA  1-8A      C2.8    5.1E-03   0349
+3200 +     1920   ////      1920  SAG  C   RSP  030-050   III/2                 
+
+3230       2018   2047      2057  G10  5   XRA  1-8A      C2.0    3.8E-03   0348
+
+3220 +     2043   2043      2044  PAL  G   RBR  410       79                    
+
+3240 +     2104   2114      2124  G10  5   XRA  1-8A      C2.6    2.8E-03   0348
+
+3250 +     2230   2230      2230  PAL  G   RBR  245       150                   
+
+3290       2335   ////      0916  LEA  C   RSP  084-180   CTM/1                 

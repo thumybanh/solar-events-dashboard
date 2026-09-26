@@ -1,0 +1,58 @@
+:Product: 20000507events.txt
+:Created: 2000 May 10 0302 UT
+:Date: 2000 05 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6770       0000   ////      2058  CUL  C   RSP  30-110    III/2                 
+
+6600       0001   0005      0009  G10  5   XRA  1-8A      B3.5    1.5E-04   8983
+6600       0004   0004      0008  HOL  3   FLA  N26E30    SF                8983
+
+6840      A0727   ////      2341  LEA  3   DSF  S36E40    12      B.0A          
+
+6610       1057   1058      1100  SAG  G   RBR  245       55                    
+
+6620 +     1203   1208      1213  GO8  5   XRA  1-8A      B4.0    2.1E-04   8987
+6620       1203   ////      1206  SVI  C   RSP  035-05    III/1             8987
+6620 +     1212   1213      1217  COM  3   FLA  N11E16    SF      ERU       8987
+
+6640       1526   1526      1530  HOL  3   FLA  N12E13    SF                8987
+6640       1526   ////      1527  SVI  C   RSP  035-06    III/1             8987
+
+6650       1611   ////      1612  SVI  C   RSP  035-08    III/1                 
+6650       1611   ////      1613  SAG  C   RSP  030-07    V/2                   
+
+6660       1643   1643      1657  HOL  3   FLA  N16E65    SF                8990
+
+6670       1659   1700      1703  HOL  3   FLA  N15E65    SF                8990
+
+6680       1710   1721      1730  HOL  3   FLA  N15E65    SF                8990
+
+6690       1851   1851      1854  HOL  3   FLA  N15E65    SF                8990
+
+6700 +     2041   2042      2043  PAL  G   RBR  245       600                   
+
+6710 +     2046   2046      2047  PAL  G   RBR  245       270                   
+6710       2047   ////      2049  PAL  C   RSP  025-07    III/1                 
+
+6780       2101   ////      2107  CUL  C   RSP  30-70     III/1                 
+
+6720 +     2134   2143      2247  HOL  3   FLA  N15E62    1F                8990
+
+6910       2136   2140      2145  HOL  3   FLA  N25E18    SF                8983
+
+6920       2137   2141      2145  HOL  3   FLA  N17E40    SF                8989
+
+6730       2247   2248      2254  HOL  3   FLA  N15E60    SF                8990
+
+6750       2322   2322      2329  HOL  3   FLA  N14E58    SF                8990
+
+6790       2330   2348      0015  HOL  3   FLA  N15E60    SF                8990

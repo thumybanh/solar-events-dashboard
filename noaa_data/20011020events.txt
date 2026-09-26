@@ -1,0 +1,63 @@
+:Product: 20011020events.txt
+:Created: 2001 Oct 23 0302 UT
+:Date: 2001 10 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Oct 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4860 +     0011   0028      0042  GO8  5   XRA  1-8A      C7.3    1.2E-02       
+
+4870 +     0621   ////      0623  LEA  C   RSP  025-180   III/2                 
+4870 +     0622   0622      0622  LEA  G   RBR  245       380                   
+4870 +     0623   0623      0624  LEA  G   RBR  410       55                    
+
+4940       0635   ////      1250  SVI  U   RSP  075-180   CTM/1                 
+
+4890 +     0700   0709      0725  GO8  5   XRA  1-8A      C4.1    5.3E-03   9670
+4890       0701   0702      0702  SVI  G   RBR  1415      73                9670
+4890      B0701  U0701     A0711  SVI  1   FLA  S19E26    SF      ERU       9670
+4890       0704   ////      0704  SVI  C   RSP  025-084   III/1             9670
+
+4900       0752   0752      0752  LEA  G   RBR  245       52                    
+
+4910       1109   ////      1109  SVI  C   RSP  025-084   III/1                 
+
+4920       1216   1216      1217  SAG  G   RBR  2695      37                    
+4920       1216   1216      1217  SAG  G   RBR  4995      36                    
+4920       1216   1216      1216  SAG  G   RBR  8800      39                    
+
+4950       1537   1539      1600  RAM  3   FLA  N15W41    SF                9661
+
+4960       1903   1903      1903  PAL  G   RBR  245       71                    
+
+4970 +     2107   2112      2115  GO8  5   XRA  1-8A      C4.6    1.5E-03   9674
+4970 +     2108   ////      2113  PAL  C   RSP  025-180   III/1             9674
+4970 +     2109   2109      2112  PAL  G   RBR  245       430               9674
+4970       2109  U2112     A2127  HOL  3   FLA  S09E24    SF                9674
+4970 +     2110   2110      2111  PAL  G   RBR  410       430               9674
+4970       2110   2111      2112  PAL  G   RBR  606       30                9674
+4970 +     2111   2111      2112  PAL  G   RBR  15400     56                9674
+
+4980       2129   2147      2157  HOL  3   FLA  S15E18    SF                9670
+4980 +     2144   2147      2154  GO8  5   XRA  1-8A      C3.0    1.5E-03   9670
+4980       2145   2145      2145  PAL  G   RBR  2695      41                9670
+4980       2145   2146      2146  PAL  G   RBR  4995      70                9670
+
+4990       2202   ////      2210  LEA  C   RSP  025-180   III/1                 
+4990 +     2204   2211      2213  GO8  5   XRA  1-8A      C3.3    1.4E-03       
+
+5000 +     2233   2238      2241  GO8  5   XRA  1-8A      C2.5    9.6E-04   9674
+5000       2235   2236      2236  LEA  G   RBR  245       200               9674
+5000       2235   2236      2236  LEA  G   RBR  410       62                9674
+5000 +     2235   ////      2238  LEA  C   RSP  025-180   III/2             9674
+5000       2236   2237      2243  HOL  3   FLA  S09E24    SF                9674
+
+5010       2322   ////      2322  LEA  C   RSP  038-089   III/1                 
+
+5020 +     2336   ////      2341  LEA  C   RSP  025-180   III/1                 

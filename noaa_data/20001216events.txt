@@ -1,0 +1,33 @@
+:Product: 20001216events.txt
+:Created: 2000 Dec 19 0302 UT
+:Date: 2000 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8130 +     0009   0016      0020  GO8  5   XRA  1-8A      C2.5    1.3E-03       
+8130       0011   0013      0028  LEA  3   FLA  N20W19    SF      ERU           
+
+8140       0505   0512      0518  G10  5   XRA  1-8A      C1.4    1.0E-03   9266
+8140       0507   0510      0512  LEA  3   FLA  N23W66    SF                9266
+
+8150 +     0552   0557      0604  GO8  5   XRA  1-8A      C1.2    8.0E-04       
+
+8160      B0840   ////      0922  LEA  3   EPL  N33W90    0.15    B.9A      9266
+8160       0912   0914      0921  LEA  3   FLA  N21W67    SF                9266
+
+8170       1751   1751      1752  PAL  G   RBR  410       93                    
+
+8180       1919   1927      1951  RAM  3   FLA  S20W54    SF                9271
+8180 +     1921   1926      1931  GO8  5   XRA  1-8A      C2.3    1.1E-03   9271
+
+8190 +     2252   2255      2304  COM  3   FLA  S14W62    SF      ERU       9276
+8190 +     2253   2256      2301  GO8  5   XRA  1-8A      C1.7    7.3E-04   9276
+
+8200       2318   2322      2326  HOL  3   FLA  S13W59    SF      ERU           

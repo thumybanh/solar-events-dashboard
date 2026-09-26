@@ -1,0 +1,31 @@
+:Product: 20060413events.txt
+:Created: 2006 Apr 16 0329 UT
+:Date: 2006 04 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Apr 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3860      A0055   ////     B1333  HOL  3   DSF  S06W04    05      B.0A      0870
+
+3800 +     0201   0204      0207  G12  5   XRA  1-8A      B1.9    4.7E-05   0870
+3800       0204   0206      0206  G12  5   XFL  S07W07    2.3E+02 6.1E+02   0870
+
+3810 +     0637   0641      0643  G12  5   XRA  1-8A      B1.6    3.3E-05   0870
+3810       0641   0641      0641  G12  5   XFL  S07W09    1.8E+02 4.2E+02   0870
+
+3820 +     0656   0659      0701  G12  5   XRA  1-8A      B1.1    2.1E-05   0873
+3820       0657   ////      0659  LEA  C   RSP  025-180   V/2               0873
+3820       0657   ////      0659  SVI  C   RSP  025-147   III/2             0873
+3820       0700   0700      0700  G12  5   XFL  S05E34    7.5E+01 1.4E+02   0873
+
+3830       0834   ////      0834  SVI  C   RSP  035-063   III/1                 
+
+3840 +     0848   ////      0850  LEA  C   RSP  029-157   III/2                 
+
+3850       1028   ////      1031  SVI  C   RSP  025-081   III/2                 

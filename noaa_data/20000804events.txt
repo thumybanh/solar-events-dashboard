@@ -1,0 +1,39 @@
+:Product: 20000804events.txt
+:Created: 2000 Aug 07 0302 UT
+:Date: 2000 08 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9250 +     0031   0036      0044  HOL  3   FLA  N19E86    1F                9115
+
+9270       0206   0211      0218  LEA  3   FLA  S16E01    SF      ERU       9107
+
+9280       0300   0301      0307  LEA  3   FLA  S16E00    SF      ERU       9107
+
+9290 +     0451   0456      0501  GO8  5   XRA  1-8A      C1.1    5.4E-04       
+
+9300       0511   ////      0512  SVI  C   RSP  035-048   III/1                 
+
+9310 +     0729   0732      0735  GO8  5   XRA  1-8A      B9.3    2.7E-04       
+
+9320       1338   1341      1354  RAM  3   FLA  S23W36    SF      ERU       9113
+
+9330 +     1725   1725      1733  RAM  3   FLA  N15E72    SF                9115
+
+9340 +     1743   1744      1754  RAM  3   FLA  S26W36    SF                9113
+
+9350       1809   1813      1816  G10  5   XRA  1-8A      B8.0    2.9E-04   9114
+9350       1810   1813      1818  HOL  3   FLA  N15E57    SF                9114
+
+9360       1915   1916      1919  HOL  3   FLA  N15E57    SF                9114
+
+9370       2027   2029      2035  HOL  3   FLA  N15E56    SF                9114
+
+9380       2139   2142      2152  HOL  3   FLA  S18E10    SF                9110

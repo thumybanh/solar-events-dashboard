@@ -1,0 +1,91 @@
+:Product: 20000920events.txt
+:Created: 2000 Sep 23 0302 UT
+:Date: 2000 09 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Sep 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+580        0002   0045      0205  LEA  G   RNS  245       56                    
+
+530  +     0021   0027      0046  GO8  5   XRA  1-8A      C2.1    2.8E-03   9167
+530        0024   0024      0040  LEA  3   FLA  N13E44    SF                9167
+
+540        0056   0057      0057  PAL  G   RBR  245       61                    
+540        0056   0056      0058  PAL  G   RBR  410       45                    
+
+550  +     0107   0110      0114  GO8  5   XRA  1-8A      C4.1    1.4E-03       
+550  +     0108   0108      0108  LEA  G   RBR  4995      49                    
+550  +     0108   0108      0108  LEA  G   RBR  8800      60                    
+
+560        0346   0346      0350  LEA  3   FLA  S12E08    SF                9166
+
+570        0556   0600      0618  LEA  3   FLA  N13W59    SF                9165
+
+580        0600   0000      1200       F   RNS  204       20                    
+
+600        0801   0809      0816  LEA  3   FLA  N16W55    SF                9165
+
+610        0952   ////      0954  SVI  C   RSP  025-081   III/1                 
+
+620  +     1051   1056      1100  GO8  5   XRA  1-8A      C2.8    1.2E-03       
+620        1053   1054      1056  SVI  G   RBR  8800      120                   
+620        1053   1053      1054  SVI  G   RBR  15400     74                    
+
+630  +     1151   1156      1201  GO8  5   XRA  1-8A      C3.4    1.6E-03   9169
+630        1152   1156      1210  RAM  3   FLA  N05E52    SF                9169
+
+640        1233   1247      1301  GO8  5   XRA  1-8A      C2.8    4.1E-03       
+640  +     1244   ////      1245  SVI  C   RSP  025-082   III/1                 
+
+660        1325   ////      1326  HOL  C   RSP  025-060   III/1                 
+
+670  +     1442   1442      1448  RAM  3   FLA  N06E51    SF                9169
+
+680        1514   1521      1545  HOL  3   FLA  N09E41    SF                9169
+680        1519   1531      1542  GO8  5   XRA  1-8A      C3.1    4.1E-03   9169
+
+890       A1525   ////      0706  SVI  3   DSF  N33E14    08      B.0A          
+
+680  +     1537   1538      1540  SAG  G   RBR  410       28                9169
+680  +     1537   1538      1540  SAG  G   RBR  606       82                9169
+680  +     1537   1537      1540  SAG  G   RBR  1415      51                9169
+680  +     1537   1538      1540  SAG  G   RBR  2695      28                9169
+680        1537   1538      1540  SAG  G   RBR  4995      22                9169
+680        1537   1538      1540  SAG  G   RBR  8800      20                9169
+680        1537   1539      1540  SAG  G   RBR  15400     24                9169
+680        1537   ////      1719  SAG  C   RSP  030-060   CTM/1             9169
+
+700  +     1549   1600      1608  SAG  G   RBR  606       290                   
+700  +     1550   1551      1605  SAG  G   RBR  1415      110                   
+700        1551   1551      1551  SVI  G   RBR  2695      33                    
+700        1600   1600      1601  SVI  G   RBR  410       29                    
+
+710  +     1834   ////      1840  PAL  C   RSP  025-180   III/2                 
+710        1839   1840      1841  SAG  G   RBR  245       60                    
+710        1839   1840      1841  SAG  G   RBR  606       49                    
+710        1839   1839      1841  SAG  G   RBR  1415      92                    
+710        1839   1839      1841  SAG  G   RBR  2695      28                    
+
+720  +     1842   1843      1848  HOL  3   FLA  N13E40    SF      DSD       9169
+
+730        1852   1858      1902  SAG  G   RBR  606       150                   
+730        1858   1859      1902  SAG  G   RBR  410       56                    
+730        1858   ////      1858  SAG  C   RSP  030-080   III/1                 
+
+740        1908   1909      1913  RAM  3   FLA  N10E40    SF      ERU       9169
+
+750        1957   ////      2003  PAL  C   RSP  025-180   III/1                 
+
+960       A2107   ////      1118  RAM  3   DSF  N39E10    08      B.0A          
+
+760  +     2202   ////      2205  HOL  C   RSP  025-164   III/1                 
+
+770        2228   ////      2230  HOL  C   RSP  025-180   III/1                 
+
+840        2231   ////      1002  LEA  C   RSP  025-180   CTM/1                 

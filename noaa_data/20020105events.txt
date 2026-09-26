@@ -1,0 +1,66 @@
+:Product: 20020105events.txt
+:Created: 2002 Jan 08 0300 UT
+:Date: 2002 01 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6930 +     0057   0100      0103  GO8  5   XRA  1-8A      C3.1    9.7E-04   9767
+6930       0059   0100      0106  LEA  3   FLA  S19E02    SF                9767
+
+6940       0221   0238      0244  LEA  3   FLA  N14E62    SF      ERU       9773
+
+6950       0247   0251      0258  LEA  3   FLA  S19E01    SF                9767
+
+7010       0257   0303      0308  LEA  3   FLA  N16E61    SF      ERU       9773
+
+6970       0304   ////      0305  LEA  C   RSP  025-180   III/1                 
+
+6960 +     0304   0310      0315  GO8  5   XRA  1-8A      C4.1    2.2E-03   9768
+
+6970       0305   0309      0322  LEA  3   FLA  S11W16    SF      ERU           
+
+6960       0310   0313      0318  LEA  3   FLA  S06W67    SF      ERU       9768
+
+6980       0409   ////      0417  LEA  C   RSP  025-158   III/1                 
+
+6990       0555   ////      0555  LEA  C   RSP  025-138   III/1                 
+
+7020       0559   0631      0647  GO8  5   XRA  1-8A      C8.0    1.5E-02   9773
+7020 +     0611   0634      0658  LEA  3   FLA  N18E62    SF      ERU       9773
+
+7000 +     0616   0617      0624  LEA  3   FLA  S04W66    SF      ERU       9768
+
+7300       0617   0619      0621  LEA  3   FLA  S03W75    SF      ERU       9755
+
+7030       0707   0710      0715  LEA  3   FLA  S18W01    SF      ERU       9767
+
+7040       0748   0750      0755  LEA  3   FLA  S04W67    SF                9768
+
+7050       1013   1013      1016  SVI  3   FLA  S06W67    SF                9768
+
+7060       1018   1018      1018  SVI  G   RBR  245       94                    
+
+7070 +     1027   1043      1056  GO8  5   XRA  1-8A      C7.4    9.9E-03   9773
+7070       1028   1037      1100  SVI  3   FLA  N16E58    SF      ERU       9773
+7070       1044   1044      1044  SVI  G   RBR  245       55                9773
+
+7080       1123   1124      1131  SVI  3   FLA  S07W72    SF      ERU       9755
+
+7090       1501   1601      1644  HOL  3   FLA  S04W69    SF      ERU       9768
+
+7100 +     1707   1718      1740  GO8  5   XRA  1-8A      C3.1    5.3E-03   9773
+7100       1708   1709      1744  HOL  3   FLA  N13E57    SF      ERU       9773
+
+7110 +     1819   1840      1851  GO8  5   XRA  1-8A      M1.9    2.5E-02   9773
+7110       1821   1841      1907  HOL  3   FLA  N14E53    1F                9773
+
+7120       2001   2005      2010  HOL  3   FLA  S24E01    SF                9767
+
+7140       2202   2202      2208  HOL  3   FLA  S21W21    SF      ERU       9771

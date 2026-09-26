@@ -1,0 +1,24 @@
+:Product: 20070628events.txt
+:Created: 2007 Jul 02 2332 UT
+:Date: 2007 06 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jun 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3970 +     0110   0117      0121  G11  5   XRA  1-8A      B1.2    7.3E-05       
+
+3980 +     0659   0707      0723  G11  5   XRA  1-8A      B1.5    2.0E-04   0962
+3980       0702   0708      0732  LEA  3   FLA  S08E73    SF                0962
+
+3990       0803   0804      0808  LEA  3   FLA  S07E68    SF                    
+
+4000 +     1410   1423      1431  G11  5   XRA  1-8A      B2.9    2.6E-04       
+
+4010 +     1708   1717      1725  G11  5   XRA  1-8A      B3.2    2.4E-04   0962
+4010       1713   1715      1719  HOL  3   FLA  S09E72    SF      BPT       0962

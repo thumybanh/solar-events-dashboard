@@ -1,0 +1,43 @@
+:Product: 19990225events.txt
+:Created: 1999 Feb 28 0302 UT
+:Date: 1999 02 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Feb 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7480 +     0614   0617      0619  GO8  5   XRA  1-8A      B4.8    1.2E-04       
+
+7490 +     0736   0741      0750  GO8  5   XRA  1-8A      B6.7    4.6E-04       
+
+7500 +     0812   0816      0819  GO8  5   XRA  1-8A      B5.9    2.1E-04       
+
+7510       0957   1000      1003  G10  5   XRA  1-8A      B4.8    1.5E-04       
+
+7520 +     1020   1027      1032  GO8  5   XRA  1-8A      C1.1    6.5E-04       
+
+7530 +     1043   1048      1050  GO8  5   XRA  1-8A      C2.4    5.2E-04       
+
+7550       1241   1242      1254  RAM  3   FLA  N29E37    SF                8471
+
+7560       1339   1342      1345  G10  5   XRA  1-8A      B4.2    1.4E-04       
+
+7570       1520   1521      1524  RAM  4   FLA  N32E54    SF      ERU       8472
+
+7590 +     1751   1757      1812  RAM  3   FLA  S24E36    SF      ERU       8470
+7590 +     1753   1800      1806  GO8  5   XRA  1-8A      C1.2    8.2E-04       
+
+7600 +     1823   1826      1828  GO8  5   XRA  1-8A      B5.5    1.5E-04       
+
+7610 +     1936   1940      1945  GO8  5   XRA  1-8A      B6.7    2.8E-04       
+
+7620 +     2056   2101      2103  GO8  5   XRA  1-8A      B6.5    2.1E-04       
+
+7630 +     2215   2223      2234  GO8  5   XRA  1-8A      B9.1    8.8E-04       
+
+7640 +     2318   2324      2328  GO8  5   XRA  1-8A      B4.8    2.3E-04       

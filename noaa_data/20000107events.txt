@@ -1,0 +1,56 @@
+:Product: 20000107events.txt
+:Created: 2000 Jan 10 0302 UT
+:Date: 2000 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6990 +     0925   0929      0933  GO8  5   XRA  1-8A      C1.1    4.5E-04   8819
+6990       0928   0932      0943  LEA  3   FLA  N09W31    SF                8819
+
+7000 +     1122   1128      1133  GO8  5   XRA  1-8A      C3.2    1.4E-03       
+7000       1125   ////      1128  SVI  C   RSP  035-08    III/3                 
+
+7010      B1150  U1150     A1206  RAM  2   FLA  N09W32    SF                8819
+
+7020 +     1259   1303      1323  GO8  5   XRA  1-8A      C1.2    1.6E-03       
+
+7030 +     1328   ////      1328  SVI  C   RSP  035-06    III/1                 
+
+7040 +     1351   1356      1402  GO8  5   XRA  1-8A      C1.1    6.4E-04   8819
+7040       1354   1355      1410  RAM  3   FLA  N09W33    SF                8819
+
+7050 +     1512   1515      1519  GO8  5   XRA  1-8A      C1.1    4.2E-04   8819
+7050       1513   1516      1534  HOL  3   FLA  N09W33    SF      ERU       8819
+
+7060       1523   1526      1528  G10  5   XRA  1-8A      B9.9    2.5E-04       
+
+7070       1551   1552      1555  HOL  3   FLA  N09W33    SF                8819
+
+7080       1558   1559      1604  HOL  3   FLA  N10W35    SF                8819
+
+7090       1653   1653      1702  HOL  3   FLA  N09W34    SF      ERU       8819
+
+7100 +     1718   1740      1751  GO8  5   XRA  1-8A      C5.6    6.8E-03   8819
+7100       1738   1739      1748  HOL  3   FLA  N09W35    SF      ERU       8819
+
+7110       1836   1859      1907  GO8  5   XRA  1-8A      C2.9    4.3E-03   8819
+7110       1859   1904      1908  HOL  3   FLA  N09W38    SF                8819
+
+7210       1927   ////      1937  HOL  3   EPL  S23E90    0.18    B.9A          
+
+7120 +     2221   2227      2232  GO8  5   XRA  1-8A      C2.3    1.1E-03       
+7120       2224   ////      2226  LEA  C   RSP  030-07    III/2                 
+7120       2224   ////      2226  PAL  C   RSP  025-07    V/3                   
+
+7130       2242   ////      2251  LEA  C   RSP  030-06    V/1                   
+
+7140       2250   ////      2250  PAL  C   RSP  030-04    III/1                 
+
+7230 +    A2344   ////      1457  HOL  3   DSF  S22E10    12      B.0A          

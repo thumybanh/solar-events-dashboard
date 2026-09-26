@@ -1,0 +1,25 @@
+:Product: 20001019events.txt
+:Created: 2000 Oct 22 0302 UT
+:Date: 2000 10 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7800 +     0034   0044      0107  GO8  5   XRA  1-8A      C3.5    5.0E-03   9194
+7800 +     0036   0037      0038  LEA  G   RBR  2695      31                9194
+7800       0036   0038      0124  LEA  3   FLA  S11W19    1F      ERU       9194
+7800       0037   0038      0038  LEA  G   RBR  1415      26                9194
+
+7810       0106   0111      0122  LEA  3   FLA  N07E25    SF      ERU       9199
+
+7830       0634   0727      0826  GO8  5   XRA  1-8A      C1.6    8.4E-03       
+
+7820       0759   0802      0819  LEA  3   FLA  N16E49    SF      ERU       9201
+
+7840       1009   1019      1025  GO8  5   XRA  1-8A      B9.8    8.8E-04       

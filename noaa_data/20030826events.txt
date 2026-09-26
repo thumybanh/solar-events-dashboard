@@ -1,0 +1,52 @@
+:Product: 20030826events.txt
+:Created: 2003 Aug 29 0302 UT
+:Date: 2003 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5250       0031   ////      0033  CUL  C   RSP  30-70     III/1                 
+
+5240 +     0255   ////      0255  CUL  C   RSP  18-180    III/2                 
+
+5260       0301   ////      0302  CUL  C   RSP  40-180    III/1                 
+
+5270 +     0545   0551      0556  G12  5   XRA  1-8A      B8.5    4.5E-04   0442
+
+5280 +     0946   0949      0955  G12  5   XRA  1-8A      B4.2    2.1E-04   0436
+
+5290 +     1208   1213      1215  G12  5   XRA  1-8A      B9.0    2.8E-04   0442
+
+5300 +     1401   1405      1411  G12  5   XRA  1-8A      B6.5    3.2E-04   0436
+5300 +     1404   ////      1409  HOL  C   RSP  025-094   III/1             0436
+
+5750      A1435   ////     B0859  SVI  2   DSF  ////      09      B.0A      0000
+
+5480 +    A1435   ////     B0859  SVI  2   DSF  ////      08      B.0A      0000
+
+5310 +     1523   ////      1531  HOL  C   RSP  025-180   III/1                 
+
+5320 +     1549   1559      1606  G12  5   XRA  1-8A      C4.6    3.3E-03   0436
+5320       1550   1550      1550  SAG  G   RBR  245       100               0436
+5320 +     1550   ////      1550  HOL  C   RSP  025-180   III/1             0436
+5320 +     1552   1552      1553  SAG  G   RBR  2695      31                0436
+5320 +     1552   1552      1553  SAG  G   RBR  4995      320               0436
+5320 +     1552   1552      1553  SAG  G   RBR  8800      140               0436
+5320 +     1552   1552      1553  SAG  G   RBR  15400     29                0436
+5320       1552   1553      1623  HOL  3   FLA  N08W54    1N      ERU       0436
+
+5330       1622   1622      1622  SAG  G   RBR  245       140                   
+
+5340 +     1722   1722      1722  SAG  G   RBR  245       74                    
+
+5350 +     1744   ////      1746  PAL  C   RSP  025-145   III/1                 
+
+5360       1851   ////      1852  PAL  C   RSP  034-061   III/1                 
+
+5370       2349   2349      2349  LEA  G   RBR  245       53                    

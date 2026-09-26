@@ -1,0 +1,24 @@
+:Product: 19990129events.txt
+:Created: 1999 Feb 01 0302 UT
+:Date: 1999 01 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1730       0800   ////      1023  SVI  C   RSP  035-05    CTM/1                 
+
+1750       1119   ////      1429  SVI  C   RSP  035-05    CTM/1                 
+
+1740       1206   1212      1234  RAM  3   FLA  N15W39    SF                8446
+
+1760       1334   1438      1446  RAM  3   FLA  N16W41    SF                8446
+
+1770 +     1441   1454      1504  GO8  5   XRA  1-8A      C1.2    1.3E-03       
+
+1800      A2133   ////      1409  RAM  3   DSF  S31E23    16      B.0A          

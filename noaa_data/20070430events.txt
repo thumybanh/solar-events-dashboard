@@ -1,0 +1,27 @@
+:Product: 20070430events.txt
+:Created: 2007 May 04 2332 UT
+:Date: 2007 04 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Apr 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9580       0156   0159      0211  G10  5   XRA  1-8A      B1.0    8.7E-05       
+
+9590 +     0444   0448      0454  G11  5   XRA  1-8A      B1.0    5.6E-05       
+
+9600 +     0756   0759      0801  G11  5   XRA  1-8A      B1.9    5.0E-05       
+
+9610 +     0921   0941      0947  G11  5   XRA  1-8A      B2.0    2.8E-04       
+
+9620 +     1146   1150      1156  G11  5   XRA  1-8A      B1.2    7.0E-05       
+
+9630 +     1532   1538      1548  G11  5   XRA  1-8A      B2.6    1.9E-04   0953
+9630       1537   1537      1546  HOL  3   FLA  S16E14    SF                0953
+
+9640 +     2343   2346      2355  G11  5   XRA  1-8A      B1.4    8.3E-05       

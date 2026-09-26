@@ -1,0 +1,49 @@
+:Product: 20000826events.txt
+:Created: 2000 Aug 29 0302 UT
+:Date: 2000 08 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4640       0004   0020      0038  COM  3   FLA            SF                9144
+
+4650       0040   0050      0102  COM  3   FLA            SF                9144
+
+4700      A0102   ////      1442  HOL  3   DSF  S53W07    10      B.0A          
+
+4610 +     0152   0156      0158  GO8  5   XRA  1-8A      B8.4    2.7E-04       
+
+4630       0228   0228      0229  COM  G   RBR  245       93                    
+
+4620 +     0420   0424      0428  GO8  5   XRA  1-8A      C1.1    3.8E-04   9144
+4620       0423   0424      0429  COM  3   FLA            SF                9144
+
+4660       0943   0946      0948  G10  5   XRA  1-8A      B5.9    1.5E-04       
+
+4730       0946   ////      1306  SVI  3   DSF  S53W03    07      B.0A          
+
+4670 +     1209   1212      1216  GO8  5   XRA  1-8A      B9.2    3.3E-04       
+
+4680       1236   1239      1246  G10  5   XRA  1-8A      B7.7    4.3E-04       
+
+4690 +     1412   1415      1419  GO8  5   XRA  1-8A      B8.6    3.0E-04   9144
+4690      B1414  U1414     A1425  HOL  3   FLA  N25E07    SF                9144
+
+4710       1547   1604      1622  GO8  5   XRA  1-8A      C1.0    1.9E-03       
+
+4720 +     1648   1653      1658  GO8  5   XRA  1-8A      C1.0    5.3E-04       
+
+4740 +     2201   2216      2224  GO8  5   XRA  1-8A      C3.8    3.6E-03   9144
+4740      B2202   2215      2232  HOL  3   FLA  N26E02    1N      ERU       9144
+
+4750       2210   2216      2221  G10  5   XRA  1-8A      C3.9    2.2E-03       
+
+4770       2257   2259      2302  HOL  3   FLA  S09E76    SF                9143
+
+4760       2334   2335      2336  LEA  G   RBR  245       79                9143

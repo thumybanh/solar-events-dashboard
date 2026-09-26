@@ -1,0 +1,39 @@
+:Product: 20080325events.txt
+:Created: 2008 Mar 28 2332 UT
+:Date: 2008 03 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2008 Mar 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9010       0449   0456      0504  G10  5   XRA  1-8A      B4.7    2.9E-04       
+
+9020       0752   0802      0811  G10  5   XRA  1-8A      B1.8    1.8E-04       
+
+9030       1118   1125      1132  G10  5   XRA  1-8A      B1.7    1.3E-04       
+
+9040       1449   1452      1454  G10  5   XRA  1-8A      B2.3    5.7E-05       
+
+9050       1734   1738      1741  G10  5   XRA  1-8A      B2.1    7.0E-05       
+
+9060       1826   1829      1831  G10  5   XRA  1-8A      B1.8    4.8E-05   0988
+
+9070       1836   1856      1913  G10  5   XRA  1-8A      M1.7    2.1E-02   0989
+9070       1846   1855      1922  HOL  3   FLA  S13E78    1F      ERU       0989
+9070       1848   ////      1850  PAL  C   RSP  028-055   V/1               0989
+9070 +     1849   1851      1855  SAG  G   RBR  2695      290               0989
+9070       1850   1850      1850  SAG  G   RBR  606       48                0989
+9070 +     1850   1851      1852  SAG  G   RBR  1415      400               0989
+9070 +     1850   1851      1855  SAG  G   RBR  4995      160               0989
+9070 +     1851   1852      1853  SAG  G   RBR  245       99                0989
+9070       1851   1851      1853  SAG  G   RBR  8800      74                0989
+9070       1852   ////      1900  PAL  U   RSP  025-060   II/3    1278      0989
+
+9110       2136   ////      2136  CUL  C   RSP  50-110    III/1                 
+
+9120       2138   ////      2138  CUL  C   RSP  18-40     III/1                 

@@ -1,0 +1,17 @@
+:Product: 20060924events.txt
+:Created: 2006 Sep 27 0329 UT
+:Date: 2006 09 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Sep 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6230 +     0450   0457      0504  G11  5   XRA  1-8A      B2.8    1.5E-04   0910
+6230       0455   0457      0501  LEA  3   FLA  S08W21    SN      ERU       0910
+
+6240 +     1532   ////      1533  SAG  C   RSP  034-058   II/1    713           

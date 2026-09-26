@@ -1,0 +1,60 @@
+:Product: 20040614events.txt
+:Created: 2004 Jun 17 0302 UT
+:Date: 2004 06 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jun 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2750 +     0020   ////      0020  CUL  C   RSP  27-80     III/1                 
+
+2690       0131   ////      0131  LEA  C   RSP  069-114   III/1                 
+
+2870       0132   ////      0132  CUL  C   RSP  70-170    III/1                 
+
+2790 +     0158   1019      2305  COM  G   RNS  245       160                   
+
+2700 +     0256   0300      0304  G12  5   XRA  1-8A      B6.2    2.4E-04   0634
+2700       0300   ////      0300  CUL  C   RSP  20-80     III/1             0634
+2700       0300   0302      0304  G12  5   XFL  N11E73    1.3E+03 3.3E+03   0634
+
+2880       0307   ////      0308  CUL  C   RSP  20-80     III/1                 
+
+2710       0316   0316      0316  PAL  G   RBR  245       69                    
+
+2720       0320   0320      0321  PAL  G   RBR  245       88                    
+
+2730 +     0338   0356      0412  G12  5   XRA  1-8A      C1.7    2.6E-03       
+2730       0341   0405      0412  G12  5   XFL  S07E90    4.4E+03 1.2E+04       
+
+2740 +     0426   ////      0427  CUL  C   RSP  20-180    III/3                 
+2740       0427   0427      0427  PAL  G   RBR  245       59                    
+
+2890       0445   ////      0445  CUL  C   RSP  20-80     III/2                 
+
+2790       0600   ////      1200  IZM  F   RNS  204       35                    
+
+2760 +     0610   ////      0612  CUL  C   RSP  20-160    III/3                 
+
+2770 +     0838   0846      0852  G12  5   XRA  1-8A      C1.5    8.1E-04   0634
+2770       0841   0849      0852  G12  5   XFL  N11E70    2.1E+03 7.7E+03   0634
+
+2780 +     1246   1246      1246  SAG  G   RBR  245       80                    
+
+2800 +     1320   ////      1321  HOL  C   RSP  025-056   III/1                 
+
+2810 +     1335   1339      1342  G12  5   XRA  1-8A      B5.7    1.9E-04       
+2810       1338   1339      1341  G12  5   XFL  S10E85    2.0E+03 4.1E+03       
+
+2820 +     1356   ////      1356  HOL  C   RSP  025-077   III/1                 
+
+2840       1449   1449      1449  SAG  G   RBR  245       60                    
+
+2850 +     1533   ////      1837  HOL  3   DSF  S08W24    07      B.0A      0631
+
+2860       2312   ////      2312  HOL  C   RSP  025-087   III/1                 

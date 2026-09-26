@@ -1,0 +1,72 @@
+:Product: 20000610events.txt
+:Created: 2000 Jun 13 0303 UT
+:Date: 2000 06 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jun 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8000      A0049   ////      1129  HOL  3   DSF  N52E29    24      B.0A          
+
+7910       0100   0226      0253  PAL  G   RNS  245       170                   
+
+7930       0533   ////      0807  SVI  C   RSP  039-08    CTM/1                 
+
+7920 +     0554   0601      0613  GO8  5   XRA  1-8A      C2.2    2.2E-03       
+
+7940 +     0906   0910      0914  GO8  5   XRA  1-8A      C1.6    6.8E-04       
+
+7950 +     1021   1027      1032  GO8  5   XRA  1-8A      C2.6    1.2E-03       
+
+7960       1216   1222      1228  GO8  5   XRA  1-8A      C1.8    1.2E-03   9036
+7960       1217   1219      1223  RAM  3   FLA  S27E63    SF      ERU       9036
+
+7990       1330   1335      1343  HOL  3   FLA  S25E64    SF                9036
+7990       1340   ////      1628  SVI  C   RSP  035-08    CTM/1             9036
+
+8010       1602   1605      1611  HOL  3   FLA  S24E64    SF                9036
+
+8020       1624   1625      1636  HOL  3   FLA  N20W41    SF                9026
+
+8030       1632   1638      1648  HOL  3   FLA  S24E62    SF                9036
+
+8040 +     1637   1655      1854  HOL  3   FLA  N22W38    3B      PRB       9026
+8040 +     1640   1702      1719  GO8  5   XRA  1-8A      M5.2    7.3E-02   9026
+8040 +     1648  U1653      1713  SAG  G   RBR  1415      1400              9026
+8040 +     1648  U1653      1713  SAG  G   RBR  2695      550               9026
+8040 +     1648  U1653      1724  SAG  G   RBR  4995      750               9026
+8040 +     1648  U1653      1722  SAG  G   RBR  8800      380               9026
+8040 +     1650   1702      1713  SAG  G   RBR  606       4800              9026
+8040 +     1651  U1653      1708  SAG  G   RBR  15400     160               9026
+8040 +     1653   1700      1709  SAG  G   RBR  410       48                9026
+8040 +     1654   1654      1707  SAG  G   RBR  245       110               9026
+8040       1655   ////      1659  HOL  C   RSP  025-18    III/1             9026
+8040 +     1655   ////      1718  SAG  C   RSP  030-08    II/3    600       9026
+
+8060       1733   1734      1735  SAG  G   RBR  410       63                    
+8060       1733   1734      1735  SAG  G   RBR  606       120                   
+
+8070       1737   1741      1819  SAG  G   RBR  606       9400              9026
+8070       1738   1741      1821  SAG  G   RBR  410       2900              9026
+8070 +     1753   ////      1843  HOL  3   LPS  N19W38    0.04    B.9A      9026
+8070       1756   1800      1819  SAG  G   RBR  1415      170               9026
+
+8080       1828   1828      1840  RAM  3   FLA  N19E09    SF                9033
+
+8090       1832   1844      1854  HOL  3   FLA  S21E49    SF                9036
+
+8100       1905   1917      1921  HOL  3   FLA  S21E49    SF                9036
+
+8110       1947   2002      2021  HOL  3   FLA  S24E58    SF                9036
+
+8120       2121   ////      2120  SAG  C   RSP  030-07    III/1             9037
+8120       2216   2218      2221  HOL  3   FLA  N21E51    SF                9037
+
+8130       2223   2225      2235  HOL  3   FLA  S23E58    SF                9036
+
+8140       2257   ////      2258  PAL  C   RSP  025-08    III/1                 

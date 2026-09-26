@@ -1,0 +1,32 @@
+:Product: 20070111events.txt
+:Created: 2007 Jan 15 2332 UT
+:Date: 2007 01 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6780 +     0032   ////      0040  CUL  C   RSP  20-90     III/1                 
+
+6790 +     0056   0104      0112  G12  5   XRA  1-8A      C1.0    6.6E-04   0933
+6790       0059   0108      0108  G12  5   XFL  S01W83    2.0E+03 6.2E+03   0933
+6790 +     0104   ////      0104  CUL  C   RSP  18-90     III/1             0933
+
+6800       0146   ////      0146  CUL  C   RSP  23-90     III/1                 
+
+6810 +     0603   0607      0609  G12  5   XRA  1-8A      B1.7    4.6E-05   0933
+6810       0606   0606      0608  G12  5   XFL  S01W84    5.0E+01 8.5E+01   0933
+
+6820 +     0856   ////      0856  LEA  C   RSP  025-136   III/1                 
+
+6830       1243   ////      1244  SVI  C   RSP  025-038   III/1                 
+
+6840       1334   ////      1334  SVI  C   RSP  025-046   III/1                 
+
+6850 +     2338   2342      2348  G10  5   XRA  1-8A      B1.1    6.0E-05       
+6850       2342   2342      2342  G12  5   XFL  N02E78    3.3E+02 5.5E+02       

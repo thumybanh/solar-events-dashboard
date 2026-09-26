@@ -1,0 +1,47 @@
+:Product: 20240217events.txt
+:Created: 2024 Feb 20 0357 UT
+:Date: 2024 02 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Feb 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 840       0043   ////      0054  LEA  C   RSP  025-180   III/1                 
+
+ 850       0130   ////      0130  PAL  C   RSP  025-037   III/1                 
+ 850       0130   ////      0215  LEA  C   RSP  025-061   VI/1                  
+
+ 860 +     0319   0323      0327  G16  5   XRA  1-8A      C2.3    1.0E-03   3576
+ 860       0323   ////      0325  LEA  C   RSP  025-075   III/1                 
+
+ 870 +     0544   0559      0627  G16  5   XRA  1-8A      C5.2    1.1E-02   3583
+
+ 880       0937   1035      1106  G16  5   XRA  1-8A      C5.5    2.3E-02   3583
+ 880       1028   1030      1041  SVI  3   FLA  N07W49    SF      ERU       3583
+
+ 890 +     1224   1236      1254  G16  5   XRA  1-8A      C2.9    4.8E-03       
+
+ 900 +     1319   ////      1327  SVI  C   RSP  030-180   III/2                 
+
+ 910 +     1329   ////      1342  SVI  C   RSP  034-122   II/2    816       3583
+ 910       1340   1344      1348  SVI  3   FLA  N08W54    SF                3583
+
+ 920       1353   ////      1357  SAG  C   RSP  025-045   III/1                 
+ 920       1353   ////      1438  SVI  C   RSP  025-065   VI/1                  
+
+ 930       1407   1408      1412  SVI  3   FLA  S14W18    SF                3584
+
+ 940       1437   ////      1438  SAG  C   RSP  025-045   III/1                 
+
+ 960       1718   1718      1721  PAL  G   RNS  245       100                   
+
+ 950 +     1743   1820      1822  G16  5   XRA  1-8A      C7.4    3.1E-03   3576
+
+ 970 +     1822   1834      1841  G16  5   XRA  1-8A      C7.9    9.2E-03   3584
+
+ 990       2220   2220      2220  PAL  G   RBR  245       100                   

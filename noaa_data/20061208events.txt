@@ -1,0 +1,41 @@
+:Product: 20061208events.txt
+:Created: 2006 Dec 11 0329 UT
+:Date: 2006 12 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Dec 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3290 +     0105   0110      0115  G12  5   XRA  1-8A      B4.3    2.2E-04   0930
+3290       0108   0108      0114  G12  5   XFL  S07E38    5.3E+02 1.1E+03   0930
+
+3300 +     0125   0129      0134  G12  5   XRA  1-8A      B3.8    1.9E-04   0930
+3300       0129   0130      0130  G12  5   XFL  S06E40    1.5E+02 2.5E+02   0930
+
+3310 +     0720   0724      0728  G12  5   XRA  1-8A      B4.4    1.5E-04   0930
+3310       0727   0727      0727  G12  5   XFL  S06E36    4.8E+02 9.2E+02   0930
+
+3320 +     0859   ////      0900  LEA  C   RSP  025-135   III/1                 
+
+3330 +     0920   ////      0920  LEA  C   RSP  025-157   III/1                 
+
+3340 +     0954   ////      0955  SVI  C   RSP  025-083   III/2                 
+
+3350 +     1019   1023      1026  G12  5   XRA  1-8A      B2.1    7.9E-05       
+
+3360       1211   ////      1232  SVI  C   RSP  025-180   CTM/1                 
+
+3370 +     1423   1428      1443  G12  5   XRA  1-8A      B2.3    2.5E-04       
+
+3380 +     1516   1520      1523  G12  5   XRA  1-8A      B3.0    1.1E-04   0930
+3380       1519   1519      1521  G12  5   XFL  S06E32    1.8E+02 3.1E+02   0930
+
+3390 +     1549   1600      1609  G12  5   XRA  1-8A      B4.3    4.3E-04   0930
+3390       1555   1603      1603  G12  5   XFL  S04E29    6.0E+02 1.1E+03   0930
+
+3400 +     1733   1736      1738  G12  5   XRA  1-8A      B1.9    4.7E-05       

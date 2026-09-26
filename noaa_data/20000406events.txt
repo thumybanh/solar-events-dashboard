@@ -1,0 +1,52 @@
+:Product: 20000406events.txt
+:Created: 2000 Apr 09 0302 UT
+:Date: 2000 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8810      A0045   ////      1346  HOL  3   DSF  S14E09    12      B.0A          
+
+8730       0056   ////      0057  PAL  C   RSP  025-06    III/1                 
+
+8740       0132   0133      0139  LEA  3   FLA  N21W13    SF                8939
+
+8750 +     0218   0229      0238  GO8  5   XRA  1-8A      M1.8    1.4E-02   8948
+8750 +     0221   0222      0227  PAL  G   RBR  8800      110               8948
+8750       0221   0223      0227  PAL  G   RBR  15400     75                8948
+8750       0221   0226      0324  LEA  3   FLA  S15E53    2B      PRB       8948
+8750 +     0221   0222      0227  LEA  G   RBR  2695      220               8948
+8750 +     0221   0222      0229  LEA  G   RBR  4995      260               8948
+8750 +     0221   0221      0221  LEA  G   RBR  245       42                8948
+8750 +     0221   0223      0226  LEA  G   RBR  1415      110               8948
+8750 +     0222   ////      0225  PAL  C   RSP  025-09    III/2             8948
+8750 +     0222   0223      0224  LEA  G   RBR  606       42                8948
+8750       0226   0227      0227  LEA  G   RBR  410       59                8948
+8750       0228   ////      0236  PAL  C   RSP  025-15    V/2               8948
+8750       0228   ////      0237  LEA  C   RSP  030-08    II/2    700       8948
+
+8770       0555   0555      0604  LEA  3   FLA  N16W88    SF                8933
+
+8780 +     1004   1012      1036  GO8  5   XRA  1-8A      C2.5    4.3E-03   8940
+8780      B1007  U1010      1022  SVI  3   FLA  N13W17    SF      ERU       8940
+
+8790       1056   1057      1057  SVI  G   RBR  410       77                    
+
+8820       1635   1635      1644  HOL  3   FLA  S18W29    SF      ERU       8936
+
+8830       1824   1845      1906  HOL  3   FLA  S13E43    1F                8948
+8830 +     1825   1844      1851  GO8  5   XRA  1-8A      C2.3    3.1E-03   8948
+8830 +     1827   1827      1828  SAG  G   RBR  245       220               8948
+8830 +     1834   ////      1838  PAL  C   RSP  025-14    III/1             8948
+
+8840 +     2011   ////      2011  SAG  C   RSP  030-08    III/1                 
+
+8850       2116   ////      2116  CUL  C   RSP  30-90     III/1                 
+
+8860       2220   ////      2220  CUL  C   RSP  30-90     III/1                 

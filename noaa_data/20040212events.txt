@@ -1,0 +1,41 @@
+:Product: 20040212events.txt
+:Created: 2004 Feb 15 0300 UT
+:Date: 2004 02 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Feb 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3320       0000   ////      0119  CUL  C   RSP  20-180    CTM/1                 
+
+3330       0256   ////      0256  CUL  C   RSP  20-90     III/1                 
+
+3340       0513   0515      0515  LEA  G   RBR  245       280                   
+
+3390       0700   ////      1200  IZM  F   RNS  204       45                    
+
+3410       0723   ////      0724  CUL  C   RSP  20-50     III/2                 
+
+3420       0728   ////      0731  CUL  C   RSP  20-140    III/3                 
+
+3430       0734   ////      0741  CUL  C   RSP  23-400    III/2                 
+
+3360       0958   0958      0959  LEA  G   RBR  245       480                   
+3360       0958   ////      1000  SVI  C   RSP  025-180   III/2                 
+
+3370       1000   ////      1000  LEA  C   RSP  025-180   III/1                 
+
+3380       1104   1005      1006  IZM  F   RBR  204       200                   
+
+3390       1208  U1400      2135  SAG  G   RNS  245       470                   
+
+3400       1947   ////      1947  PAL  C   RSP  025-080   III/1                 
+
+3440       2027   ////      2027  CUL  C   RSP  20-180    III/1                 
+
+3450       2246   ////      0720  LEA  C   RSP  061-180   CTM/1                 

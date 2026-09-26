@@ -1,0 +1,42 @@
+:Product: 20060320events.txt
+:Created: 2006 Mar 23 0329 UT
+:Date: 2006 03 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Mar 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1200       0426   0437      0454  G10  5   XRA  1-8A      B7.1    6.1E-04   0862
+1200       0437   0437      0440  LEA  3   FLA  S08W13    SF      UMB       0862
+
+1210       0610   0615      0619  G12  5   XFL  S07W16    2.5E+02 5.2E+02   0862
+1210 +     0613   0616      0620  G12  5   XRA  1-8A      B1.0    3.9E-05   0862
+
+1220 +     0728   0732      0743  G12  5   XRA  1-8A      B1.3    9.1E-05   0862
+1220       0731   0731      0742  G12  5   XFL  S06W17    2.5E+02 5.6E+02   0862
+
+1230 +     0751   0757      0801  G12  5   XRA  1-8A      B2.0    1.0E-04   0862
+1230       0755   0758      0759  G12  5   XFL  S06W17    8.8E+02 1.9E+03   0862
+
+1240 +     0809   0813      0821  G12  5   XRA  1-8A      B2.3    1.2E-04   0862
+1240       0814   0814      0819  G12  5   XFL  S06W17    7.5E+02 2.0E+03   0862
+
+1250       0837   0843      0849  G12  5   XRA  1-8A      B4.9    2.3E-04   0862
+1250       0842   0846      0847  G12  5   XFL  S06W17    1.1E+03 3.7E+03   0862
+1250       0843   0844      0850  LEA  3   FLA  S07W18    SF      UMB       0862
+
+1260 +     0907   ////      0912  LEA  C   RSP  025-110   III/2                 
+
+1270 +     1045   1048      1050  G12  5   XRA  1-8A      B1.1    2.7E-05   0862
+1270       1050   1050      1050  G12  5   XFL  S05W19    1.5E+02 3.1E+02   0862
+
+1280 +     1107   1110      1112  G12  5   XRA  1-8A      B1.1    2.8E-05   0862
+1280       1111   1111      1111  G12  5   XFL  S06W18    2.5E+02 4.8E+02   0862
+
+1290 +     1328   1336      1338  G12  5   XRA  1-8A      B1.1    5.8E-05   0862
+1290       1331   1335      1338  G12  5   XFL  S06W20    3.3E+02 6.2E+02   0862

@@ -1,0 +1,38 @@
+:Product: 20040114events.txt
+:Created: 2004 Jan 17 0300 UT
+:Date: 2004 01 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jan 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8920 +     0000   0004      0007  G12  5   XRA  1-8A      B6.3    2.3E-04   0536
+8920       0003   0006      0006  G12  5   XFL  S07W90    9.0E+02 2.0E+03   0536
+
+8940       0353   ////      0354  LEA  C   RSP  025-156   III/1                 
+
+8950 +     0725   ////      0732  LEA  C   RSP  025-180   III/1                 
+
+8960 +     0845   ////      0845  LEA  C   RSP  025-180   III/1                 
+
+8980 +     1304   1309      1325  G12  5   XRA  1-8A      B6.4    7.1E-04       
+8980       1307   1310      1324  G12  5   XFL  N10E80    1.6E+03 3.5E+03       
+
+8990 +     1506   1510      1516  G12  5   XRA  1-8A      B7.1    3.6E-04       
+8990       1509   1510      1513  G12  5   XFL  N12E49    1.0E+02 1.9E+02       
+
+9000 +     1555   1602      1608  G12  5   XRA  1-8A      C1.0    6.3E-04   0536
+9000       1558   1604      1607  G12  5   XFL  S08W90    1.3E+03 3.1E+03   0536
+
+9010       1839   ////      1839  HOL  C   RSP  031-175   III/1                 
+
+9020       2244   2244      2245  LEA  G   RBR  245       780                   
+
+9030       2246   2246      2246  LEA  G   RBR  410       73                    
+
+9040       2339   2340      2340  LEA  G   RBR  245       790                   

@@ -1,0 +1,73 @@
+:Product: 19990627events.txt
+:Created: 1999 Jun 30 0303 UT
+:Date: 1999 06 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jun 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4170       0055   0137      0212  GO8  5   XRA  1-8A      C2.7    1.1E-02       
+
+4000       0150   ////      0152  PAL  C   RSP  025-07    III/2                 
+
+4010       0222   0231      0239  GO8  5   XRA  1-8A      C2.5    2.7E-03   8602
+4010       0225   0228      0254  LEA  3   FLA  N19E35    SF      ERU       8602
+
+4180       0247   ////      0248  CUL  C   RSP  23-140    III/1                 
+
+4020       0320   0330      0357  LEA  3   FLA  N18E35    SF                8602
+4020 +     0323   ////      0325  CUL  C   RSP  18-130    III/3             8602
+4020       0326   0332      0342  GO8  5   XRA  1-8A      C2.3    2.0E-03   8602
+
+4030 +     0457   ////      0836  SVI  C   RSP  035-08    CTM/2                 
+4030       0503   ////      0505  CUL  C   RSP  23-180    III/2                 
+
+4220       0532   ////      0617  CUL  C   RSP  25-90     CTM/1                 
+
+4200       0641   ////      0642  CUL  C   RSP  25-170    III/2                 
+
+4040 +     0834   0844      0902  GO8  5   XRA  1-8A      M1.0    1.2E-02   8592
+4040 +     0836   0839      0842  SVI  G   RBR  1415      200               8592
+4040 +     0836   0839      0842  SVI  G   RBR  2695      240               8592
+4040       0836   ////      0854  SVI  C   RSP  035-08    IV/3              8592
+4040 +     0837   0839      0841  SVI  G   RBR  245       230               8592
+4040 +     0837   0839      0842  SVI  G   RBR  410       61                8592
+4040 +     0837   0839      0842  SVI  U   RBR  4995      360               8592
+4040 +     0837   0840      0842  SVI  G   RBR  8800      140               8592
+4040       0837   0841      0942  SVI  3   FLA  N23W25    2N      PRB       8592
+4040 +     0838   0841      0841  SVI  G   RBR  606       38                8592
+4040 +     0839   0841      0842  SVI  G   RBR  15400     46                8592
+4040       0854   ////      1800  SVI  C   RSP  035-08    CTM/2             8592
+
+4050 +     1029   1030      1030  SVI  G   RBR  245       87                    
+
+4140       1135   ////      2200  SAG  C   RSP  030-08    CTM/1                 
+
+4080 +     1438   1445      1453  COM  3   FLA  S26E67    SF                8611
+
+4060       1441   1443      1502  HOL  3   FLA  N18E28    SF                8602
+
+4070 +     1507   1524      1538  COM  3   FLA  S25E65    SF                8611
+4070 +     1516   1533      1540  GO8  5   XRA  1-8A      C2.0    2.6E-03   8611
+
+4090       1810   ////      1811  PAL  C   RSP  030-05    III/1                 
+
+4100       1821   1844      1952  GO8  5   XRA  1-8A      C3.4    1.5E-02   8598
+4100 +     1835   1838      1928  COM  3   FLA  N24W12    SF                8598
+
+4120       1959   ////      1959  PAL  C   RSP  025-04    III/1                 
+
+4130 +     2045   2054      2107  GO8  5   XRA  1-8A      C3.2    3.5E-03       
+4130       2046   2049      2114  HOL  3   FLA  S25E63    SF                8611
+
+4150       2222   2229      2229  SAG  G   RBR  245       54                    
+
+4160       2246   2247      2252  PAL  G   RBR  245       55                    
+4160       2247   2248      2248  SAG  G   RBR  15400     57                    
+
+4210       2338   ////      2338  CUL  C   RSP  23-90     III/1                 

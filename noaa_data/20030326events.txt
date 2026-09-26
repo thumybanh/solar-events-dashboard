@@ -1,0 +1,47 @@
+:Product: 20030326events.txt
+:Created: 2003 Mar 29 0302 UT
+:Date: 2003 03 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Mar 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4510 +     0141   0149      0158  GO8  5   XRA  1-8A      B9.5    7.1E-04       
+
+4520       0212   ////      0217  CUL  C   RSP  30-140    III/1                 
+
+4530       0322   ////      0324  CUL  C   RSP  35-160    III/1                 
+
+4540 +     0426   0431      0436   12  5   XRA  1-8A      B5.1    2.7E-04       
+
+4550 +     0529   ////      0529  CUL  C   RSP  20-180    III/1                 
+
+4650       0539   ////      0539  CUL  C   RSP  20-180    III/1                 
+
+4560 +     0750   0754      0757  GO8  5   XRA  1-8A      B8.9    3.0E-04   0321
+4560       0753   0754      0757  SVI  3   FLA  N00E65    SF                0321
+
+4570       1402   ////      1402  SVI  C   RSP  025-079   III/1                 
+
+4580 +     1418   ////      1420  SVI  C   RSP  025-180   III/1                 
+
+4590       1437   ////      1437  SVI  C   RSP  025-180   III/2                 
+
+4600       1619   ////      1624  SVI  C   RSP  025-180   III/1                 
+4600 +     1623   1623      1623  SAG  G   RBR  245       240                   
+
+4610       1630   ////      1631  SVI  C   RSP  025-180   III/1                 
+
+4620       1652   1652      1656  HOL  3   FLA  N06E59    SF                0321
+
+4630 +     1705   1710      1717  GO8  5   XRA  1-8A      C2.2    1.2E-03       
+4630 +     1707   1708      1723  HOL  3   FLA  S01E60    SF                    
+
+4660       2103   ////      2105  CUL  C   RSP  20-130    III/1                 
+
+4640 +     2138   2142      2144  GO8  5   XRA  1-8A      C1.3    3.2E-04   0321

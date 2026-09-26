@@ -1,0 +1,47 @@
+:Product: 20010817events.txt
+:Created: 2001 Aug 20 0302 UT
+:Date: 2001 08 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Aug 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5290       0001   0002      0005  HOL  3   FLA  N16E59    SF                9585
+
+5300 +     0007   0011      0017  GO8  5   XRA  1-8A      C1.6    7.4E-04   9581
+5300       0009   0009      0019  HOL  3   FLA  S24W30    SF                9581
+
+5310       0049   ////      0053  CUL  C   RSP  55-80     III/1                 
+
+5320 +     0146   0150      0157  GO8  5   XRA  1-8A      B5.5    3.3E-04       
+5320       0153   ////      0153  CUL  C   RSP  55-140    III/1                 
+
+5330 +     0247   0301      0314  GO8  5   XRA  1-8A      B8.7    1.2E-03       
+
+5340       0547   0547      0547  SVI  G   RBR  245       120                   
+
+5350       0739   0739      0740  LEA  G   RBR  245       54                    
+
+5360       0922   0925      0927  G10  5   XRA  1-8A      B5.9    1.5E-04       
+
+5370 +     1205   ////      1205  SVI  C   RSP  025-180   III/2                 
+
+5380 +     1326   1333      1346  GO8  5   XRA  1-8A      B7.5    8.2E-04   9585
+5380       1329   1330      1339  RAM  3   FLA  N19E71    SF                9585
+
+5390       1413   1414      1422  HOL  3   FLA  N10E01    SF      ERU       9575
+
+5400 +     1514   1521      1530  GO8  5   XRA  1-8A      C1.0    8.8E-04       
+
+5540 +    A1624   ////     B1100  COM  3   DSF  N32E31    16      B.0A          
+
+5410       1740   1749      1750  HOL  3   FLA  N15E55    SF      ERU       9585
+
+5430       2334   2334      2338  HOL  3   FLA  N14E63    SF                9585
+
+5440 +     2339   2342      2345  GO8  5   XRA  1-8A      B9.6    3.0E-04       

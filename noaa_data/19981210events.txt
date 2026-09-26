@@ -1,0 +1,41 @@
+:Product: 19981210events.txt
+:Created: 1998 Dec 13 0302 UT
+:Date: 1998 12 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+350  +     0120   0120      0121  LEA  G   RBR  245       54                    
+
+360        0318   0323      0329  LEA  3   FLA  S16E25    SF      BPT       8405
+
+460        0513   ////      0513  CUL  C   RSP  20-60     III/1                 
+
+370        0617   0621      0627  G10  5   XRA  1-8A      C1.2    6.8E-04       
+
+380  +     0743   0808      0819  GO8  5   XRA  1-8A      C1.4    2.7E-03   8408
+380        0805   0815      0820  SVI  3   FLA  S19E34    SF                8408
+
+410        0821   0824      0826  SVI  3   FLA  S19E34    SF                8408
+
+390  +     0917   ////      0923  LEA  C   RSP  030-06    V/2                   
+
+400        1038   ////      1040  SVI  C   RSP  035-08    V/2                   
+400        1038   ////      1040  LEA  C   RSP  030-04    III/1                 
+
+420        1550   1556      1600  RAM  3   FLA  S23W45    SF                8404
+
+430        1739   1742      1746  RAM  4   FLA  S24W47    SF                8404
+
+440        1906   1909      1930  RAM  3   FLA  S15E14    SF                8405
+
+470  +     2325   ////      2327  LEA  C   RSP  030-08    III/2                 
+
+450  +     2343   2348      2351  GO8  5   XRA  1-8A      B9.3    3.8E-04   8404
+450        2348   2349      2353  LEA  3   FLA  S22W51    SF                8404

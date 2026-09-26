@@ -1,0 +1,56 @@
+:Product: 20030128events.txt
+:Created: 2003 Jan 31 0302 UT
+:Date: 2003 01 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5490 +     0120   ////      0121  LEA  C   RSP  025-172   III/1                 
+
+5500       0248   ////      0250  LEA  C   RSP  028-101   III/1                 
+
+5510 +     0303   0307      0309  GO8  5   XRA  1-8A      B3.1    9.5E-05       
+
+5520       0425   ////      0000  LEA  3   BSL  ////      0.17    B.5A      0000
+
+5660       0614   ////      0614  CUL  C   RSP  23-60     III/1                 
+
+5670       0652   ////      0652  CUL  C   RSP  27-80     III/1                 
+
+5680       0709   ////      0710  CUL  C   RSP  20-50     III/1                 
+
+5530 +     0745   0748      0750  GO8  5   XRA  1-8A      B3.6    9.0E-05       
+
+5540       0814   ////      0819  SVI  C   RSP  025-180   III/1                 
+5540 +     0817   0817      0817  SVI  G   RBR  245       110                   
+
+5550       0822   ////      0826  SVI  C   RSP  025-180   III/2                 
+
+5640       0900   0905      0908  GO8  5   XRA  1-8A      B3.1    1.2E-04       
+
+5560 +     1115   1119      1127  GO8  5   XRA  1-8A      B3.1    2.0E-04       
+
+5570 +     1315   ////      1316  SVI  U   RSP  025-083   III/2                 
+
+5580 +     1403   1420      1428  GO8  5   XRA  1-8A      B5.9    7.8E-04       
+
+5590       1535   ////      1536  SAG  C   RSP  030-050   III/2                 
+
+5690       2029   ////      2029  CUL  C   RSP  27-75     III/1                 
+
+5600 +     2042   ////      2043  CUL  C   RSP  18-180    III/2                 
+
+5610 +     2137   ////      2140  CUL  C   RSP  18-190    III/3                 
+
+5620 +     2150   ////      2154  HOL  C   RSP  025-180   III/1                 
+
+5630 +     2237   ////      2239  CUL  C   RSP  18-180    III/3                 
+
+5650 +     2338   2350      0000  GO8  5   XRA  1-8A      C3.2    2.7E-03   0266
+5650       2343   0002     A0013  HOL  3   FLA  S22W55    SF      ERU       0266

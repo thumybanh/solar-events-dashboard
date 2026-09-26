@@ -1,0 +1,59 @@
+:Product: 20020406events.txt
+:Created: 2002 Apr 09 0300 UT
+:Date: 2002 04 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Apr 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7680       0133   0138      0143  G10  5   XRA  1-8A      C2.1    1.2E-03       
+7680      B0139  U0139      0146  LEA  2   FLA  S17E48    SF                    
+7680       0143   ////      0156  LEA  C   RSP  043-082   II/1    296           
+
+7690       0223   ////      0224  LEA  C   RSP  072-165   III/1                 
+
+7700       0312   0318      0329  LEA  2   FLA  N18E55    SF      ERU       9893
+
+7710 +     0341   0344      0346  GO8  5   XRA  1-8A      C1.6    4.3E-04       
+
+7770       0603   0610      0642  LEA  4   FLA  N18E52    SF      ERU       9893
+
+7720 +     0604   0619      0625  GO8  5   XRA  1-8A      C9.5    7.5E-03   9893
+7720 +     0610   ////      0618  LEA  C   RSP  025-180   III/1             9893
+7720 +     0612   0616      0652  LEA  4   FLA  S20E85    1F      ERU       9893
+7720 +     0617   0617      0618  LEA  G   RBR  245       100               9893
+
+7730       0707   ////      0711  SVI  U   RSP  028-075   III/2                 
+7730       0707   ////      0711  LEA  C   RSP  025-180   V/3                   
+
+7740       0910   ////      0917  LEA  C   RSP  025-180   III/1                 
+
+7750       0957   1000      1006  G10  5   XRA  1-8A      C1.3    6.5E-04       
+
+7760       1103   1103      1105  SVI  G   RBR  606       65                    
+
+7780       1247   ////      1249  SVI  U   RSP  028-082   III/1                 
+
+7790 +     1403   1410      1418  GO8  5   XRA  1-8A      C2.6    1.9E-03   9887
+7790 +     1406   1406      1410  HOL  3   FLA  N01W36    SF      ERU       9887
+
+7800       1613   1617      1621  GO8  5   XRA  1-8A      C1.2    5.5E-04   9893
+7800       1614   1616      1624  HOL  3   FLA  N18E46    SF      ERU       9893
+
+7810       1718   ////      1718  HOL  C   RSP  025-071   III/1                 
+
+7820 +     1945   1955      2000  GO8  5   XRA  1-8A      C2.0    1.5E-03   9893
+7820       1947   1947     A2004  HOL  3   FLA  N17E45    SF                9893
+
+7850       1955   1956      1959  RAM  3   FLA  N15W64    SF                9885
+
+7830 +     2108   2108      2108  PAL  G   RBR  245       70                    
+
+7840       2114   2114      2114  SAG  G   RBR  245       53                    
+
+7860       2131   2131      2132  PAL  G   RBR  245       150                   

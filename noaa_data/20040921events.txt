@@ -1,0 +1,60 @@
+:Product: 20040921events.txt
+:Created: 2004 Sep 24 0302 UT
+:Date: 2004 09 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Sep 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4540 +     0049   0055      0057  G12  5   XRA  1-8A      B5.2    1.8E-04   0672
+4540 +     0052   ////      0052  CUL  C   RSP  18-90     III/1             0672
+4540       0053   0054      0055  G12  5   XFL  N04W81    1.0E+03 2.6E+03   0672
+
+4550       0203   0204      0204  PAL  G   RBR  245       100                   
+
+4560       0307   ////      0308  CUL  C   RSP  20-90     III/1                 
+
+4570 +     0622   0623      0625  LEA  G   RBR  245       78                    
+
+4580 +     0808   0812      0815  G12  5   XRA  1-8A      B2.3    8.6E-05   0672
+4580 +     0809   ////      0810  SVI  C   RSP  025-084   III/2             0672
+4580       0810   0810      0810  LEA  G   RBR  410       78                0672
+4580       0811   0814      0814  G12  5   XFL  N04W77    4.3E+02 8.5E+02   0672
+
+4590       0830   0836      0839  G12  5   XRA  1-8A      C7.5    1.9E-03   0672
+4590 +     0833   0834      0834  SVI  G   RBR  2695      36                0672
+4590 +     0833   0834      0835  SVI  G   RBR  4995      93                0672
+4590       0833   0838      0838  G12  5   XFL  N04W77    4.3E+03 2.6E+04   0672
+4590       0834   0834      0834  SVI  G   RBR  410       38                0672
+4590       0834   0834      0835  SVI  G   RBR  8800      37                0672
+4590 +     0834   ////      0837  SVI  C   RSP  025-180   III/2             0672
+4590 +     0835   0838      0841  LEA  3   FLA  N06W75    SF                0672
+
+4600       0907   0907      0907  SVI  G   RBR  2695      53                    
+
+4640 +     1229   1349      1500  SAG  G   RNS  245       77                    
+
+4630       1417   ////      1417  SAG  C   RSP  025-075   III/1                 
+
+4800      A1515   ////     B0559  SVI  3   DSF  N06E75    14      B.0A          
+
+4650       1656   ////      1657  SAG  C   RSP  025-075   III/1                 
+
+4660       1745   1745      1747  PAL  G   RBR  245       100                   
+
+4670       2201   ////      2203  CUL  C   RSP  20-180    III/1                 
+
+4680       2213   ////      2213  CUL  C   RSP  20-75     III/1                 
+
+4690 +     2253   ////      2254  CUL  C   RSP  35-140    III/1                 
+
+4760       2307   ////      0237  LEA  C   RSP  041-180   CTM/1                 
+
+4700       2335   ////      2345  CUL  C   RSP  30-180    III/1                 
+
+4710 +     2355   2355      2356  PAL  G   RBR  245       110                   

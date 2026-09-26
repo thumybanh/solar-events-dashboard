@@ -1,0 +1,59 @@
+:Product: 20000428events.txt
+:Created: 2000 May 01 0302 UT
+:Date: 2000 04 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Apr 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4730       0058   0058      0058  LEA  G   RBR  410       120                   
+
+4740 +     0431   0434      0437  GO8  5   XRA  1-8A      C1.0    3.2E-04       
+
+4800       0431   ////      1720  SVI  C   RSP  035-08    CTM/1                 
+
+4750       0447   0447      0448  SVI  U   RBR  245       900                   
+
+4760 +     0600   0000      1200       F   RNS  204       120                   
+
+4770       0856   ////      0858  LEA  C   RSP  030-08    III/3                 
+4770       0856   ////      0858  SVI  C   RSP  035-08    V/2                   
+
+4780       1117   ////      1119  SAG  C   RSP  030-08    III/1                 
+
+4850       1204   ////      2032  SAG  C   RSP  030-08    CTM/2                 
+
+4790       1336   1336      1337  SVI  G   RBR  410       73                    
+
+4810       1738   1738      1738  SAG  G   RBR  410       71                    
+
+4820       1743   1743      1743  SAG  G   RBR  245       50                    
+
+4830 +     1841   1844      1848  SAG  G   RBR  245       250               8967
+4830       1843   1848      1848  SAG  G   RBR  410       51                8967
+4830 +     1843   1851      1857  GO8  5   XRA  1-8A      C5.2    2.9E-03   8967
+4830 +     1849   ////      1859  PAL  C   RSP  025-01    II/3    500       8967
+4830 +     1850   1853      1911  HOL  3   FLA  N19W60    1N                8967
+
+4760 +     1855   1856      1929  SAG  G   RNS  245       68                    
+
+4840       2003   2003      2004  PAL  G   RBR  245       87                    
+
+4860       2032   ////      2032  PAL  C   RSP  025-08    III/1                 
+
+4980      A2118   ////      1059  RAM  3   DSF  N24E07    05      B.0A          
+
+4870       2120   2122      2122  SAG  G   RBR  245       55                    
+
+4890       2210   ////      2210  SAG  C   RSP  030-08    III/1                 
+
+4880       2218   2219      2227  HOL  3   FLA  S17W24    SF                8970
+
+4900 +     2240   ////      2240  PAL  C   RSP  025-08    III/1                 
+
+4910       2344   2346      2349  HOL  3   FLA  N33W86    SF                8972

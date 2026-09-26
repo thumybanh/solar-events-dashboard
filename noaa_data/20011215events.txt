@@ -1,0 +1,47 @@
+:Product: 20011215events.txt
+:Created: 2005 Jul 27 2016 UT
+:Date: 2001 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2090       0016   0028      0037  LEA  2   FLA  N16W10    SF      ERU       9733
+2090       0024   0030      0041  GO8  5   XRA  1-8A      C6.5    6.2E-03   9733
+
+2100       0051   0101      0115  GO8  5   XRA  1-8A      C8.3    1.0E-02   9727
+2100       0054   0058      0110  LEA  3   FLA  S19W90    SF      ERU       9727
+
+2110       1004  U1008     A1018  LEA  1   FLA  N14W16    SF      ERU       9733
+2110 +     1005   1010      1019  GO8  5   XRA  1-8A      C4.9    3.7E-03   9733
+
+2120 +     1239   1253      1303  GO8  5   XRA  1-8A      C9.4    1.0E-02       
+2120       1244   ////      1251  SVI  C   RSP  025-180   III/1                 
+2120 +     1247   1248      1248  SVI  G   RBR  245       62                    
+
+2130 +     1656   1659      1701  GO8  5   XRA  1-8A      C5.0    1.3E-03       
+
+2140       1728   1733      1735  GO8  5   XRA  1-8A      C4.3    1.6E-03   9733
+2140       1731   1733      1738  HOL  3   FLA  N18W17    SF      ERU       9733
+
+2150       1821   1824      1826  G10  5   XRA  1-8A      C2.9    6.9E-04   9733
+2150       1822   1823      1823  SAG  G   RBR  245       53                9733
+2150 +     1822   1822      1822  SAG  G   RBR  410       43                9733
+2150       1823   1823      1823  SAG  G   RBR  15400     63                9733
+2150       1824   1825      1829  HOL  3   FLA  N17W13    SF                9733
+
+2160       1917   1920      1922  HOL  3   FLA  N14W21    SF                9733
+
+2170       1929   1929      1929  SAG  G   RBR  245       53                    
+
+2180 +     1950   1953      1958  GO8  5   XRA  1-8A      C3.3    1.3E-03       
+
+2190 +     2124   2129      2132  GO8  5   XRA  1-8A      C3.3    1.3E-03       
+
+2200 +     2311   2315      2318  GO8  5   XRA  1-8A      C3.5    1.2E-03   9733
+2200       2313   2316      2320  LEA  3   FLA  N12W25    SF      ERU       9733

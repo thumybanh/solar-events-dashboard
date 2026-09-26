@@ -1,0 +1,38 @@
+:Product: 19981115events.txt
+:Created: 1998 Nov 18 0302 UT
+:Date: 1998 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3960 +     0114   0119      0124  GO8  5   XRA  1-8A      C1.2    6.1E-04       
+
+3970       0149   ////      0149  LEA  C   RSP  030-04    III/1                 
+
+3980       0214   ////      0215  LEA  C   RSP  030-03    III/1                 
+
+3990       0423   ////      0424  LEA  C   RSP  030-08    III/2                 
+
+4000       0455   0456      0459  LEA  3   FLA  N20W69    SF                8385
+
+4010       0652   0652      0652  LEA  G   RBR  245       50                    
+
+4020 +     0803   0804      0804  SVI  G   RBR  245       81                    
+
+4030       0842   0842      0842  LEA  G   RBR  245       110                   
+
+4040       0851   0851      0852  LEA  G   RBR  245       67                    
+
+4050       0851   0851      0905  SVI  G   RNS  245       74                    
+
+4060 +     1258   1311      1323  GO8  5   XRA  1-8A      C1.2    1.5E-03       
+
+4070 +     1858   1901      1904  GO8  5   XRA  1-8A      B5.2    1.7E-04       
+
+4080 +     2046   2049      2052  GO8  5   XRA  1-8A      B6.9    1.9E-04       

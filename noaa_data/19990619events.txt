@@ -1,0 +1,42 @@
+:Product: 19990619events.txt
+:Created: 1999 Jun 22 0302 UT
+:Date: 1999 06 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jun 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1440       0000   ////      0000  PAL  C   RSP  025-05    III/3                 
+
+1450       0051   ////      0052  PAL  C   RSP  025-04    III/1                 
+
+1460       0108   ////      0110  PAL  C   RSP  025-04    III/2                 
+
+1470 +     0305   ////      0305  CUL  C   RSP  20-110    III/1                 
+
+1860       0332   ////      0342  CUL  C   RSP  40-150    III/1                 
+
+1870       0524   ////      0524  CUL  C   RSP  25-70     III/1                 
+
+1880       0532   ////      0537  CUL  C   RSP  18-250    III/2                 
+
+1890       0545   ////      0545  CUL  C   RSP  28-180    III/1                 
+
+1560      A0909   ////      2355  LEA  3   DSF  N05W46    17      B.0A          
+
+1490 +     1003   1003      1003  SVI  G   RBR  245       59                    
+
+1500 +     1133   1133      1133  SVI  G   RBR  245       43                    
+
+1520 +     1342   1355      1417  GO8  5   XRA  1-8A      C5.1    7.7E-03       
+1520      B1413   ////      1541  RAM  3   LPS  N18E90    0.06    B.4A      8592
+
+1530       1849   ////      1849  SAG  C   RSP  030-07    III/1                 
+
+1550 +     2228   2241      2253  GO8  5   XRA  1-8A      C4.0    4.8E-03       
+1550 +     2236   ////      2236  CUL  C   RSP  25-60     III/1                 

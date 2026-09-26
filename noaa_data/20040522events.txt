@@ -1,0 +1,60 @@
+:Product: 20040522events.txt
+:Created: 2004 May 25 0302 UT
+:Date: 2004 05 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 May 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9910       0116   0119      0123  G10  5   XRA  1-8A      C1.7    6.7E-04       
+
+9920       0358   ////      0703  LEA  C   RSP  128-180   CTM/1                 
+
+9930       0554   ////      0554  LEA  C   RSP  025-162   III/1                 
+
+9940 +     0613   ////      0613  LEA  C   RSP  025-151   III/1                 
+
+9950 +     0702   0712      0719  G12  5   XRA  1-8A      C2.2    1.5E-03   0618
+9950       0705   0716      0718  G12  5   XFL  S11E51    3.6E+03 1.3E+04   0618
+9950 +     0710   0715      0730  LEA  3   FLA  S12E50    SF      ERU       0618
+
+  40       1114   ////      1540  SVI  C   RSP  074-172   CTM/1                 
+
+9960       1116   ////      1118  SVI  C   RSP  025-175   III/1                 
+
+  30 +     1139   1203      1255  SAG  G   RNS  245       86                    
+
+9970       1140   1140      1140  SVI  U   RBR  245       63                    
+9970       1140   ////      1142  SVI  C   RSP  025-149   III/1                 
+
+9980 +     1145   1155      1206  G12  5   XRA  1-8A      C1.4    1.2E-03   0618
+9980       1150   1200      1205  G12  5   XFL  S11E48    2.5E+03 7.4E+03   0618
+
+9990 +     1223   1227      1232  G12  5   XRA  1-8A      C1.5    5.9E-04   0618
+9990       1226   1230      1232  G12  5   XFL  S11E45    3.5E+03 1.1E+04   0618
+
+  10       1255   1255      1255  SVI  U   RBR  245       51                0618
+  10 +     1255   1302      1308  G12  5   XRA  1-8A      C2.0    1.1E-03   0618
+  10       1258   1306      1308  G12  5   XFL  S11E47    3.0E+03 1.0E+04   0618
+
+  50 +     1504   ////      1505  HOL  C   RSP  025-087   III/1                 
+
+  60       1608   1608      1613  HOL  3   FLA  S09E41    SF      ERU       0618
+
+  70 +     1720   1734      1759  G12  5   XRA  1-8A      C1.0    2.2E-03   0618
+  70       1723   1748      1758  G12  5   XFL  S11E44    3.0E+03 7.3E+03   0618
+
+  80       1925   1925      1925  SAG  G   RBR  245       51                    
+
+  90 +     2001   2006      2012  G12  5   XRA  1-8A      B2.9    1.6E-04   0618
+  90       2006   2010      2012  G12  5   XFL  S15E50    4.3E+02 8.6E+02   0618
+
+ 100 +     2110   2115      2122  G12  5   XRA  1-8A      B3.8    2.3E-04   0618
+ 100       2115   2118      2121  G12  5   XFL  S11E43    6.5E+02 1.5E+03   0618
+
+ 110 +     2215   2215      2218  PAL  G   RBR  245       61                    

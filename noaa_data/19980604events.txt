@@ -1,0 +1,54 @@
+:Product: 19980604events.txt
+:Created: 1998 Jun 07 0302 UT
+:Date: 1998 06 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6750 +     0010   0011      0011  LEA  G   RBR  245       72                    
+
+6770       0201   ////      0258  LEA  C   RSP  030-04    CTM/1                 
+
+6780 +     0329   0329      0330  LEA  G   RBR  245       94                    
+6780       0329   ////      0331  CUL  C   RSP  65-250    III/1                 
+
+6790       0821   0822      0825  SVI  3   FLA  S25E52    SF                8232
+
+6970      A0927   ////      2340  LEA  3   DSF  S11E42    17      B.0A      8232
+
+6800 +     1120   1124      1127  GO9  5   XRA  1-8A      B7.0    2.1E-04   8232
+6800       1122   1125      1128  SVI  3   FLA  S23E49    SF      ERU       8232
+6800 +     1123   1124      1124  SVI  G   RBR  245       340               8232
+
+6830 +     1458   1459      1459  SAG  G   RBR  245       630               8232
+6830       1459   1459      1504  HOL  3   FLA  S23E47    SF                8232
+
+6840 +     1614   1615      1621  HOL  3   FLA  S25E55    SF                8232
+
+6850 +     2034   2039      2046  GO9  5   XRA  1-8A      C1.0    6.1E-04   8232
+6850       2038   2039      2043  HOL  3   FLA  S27E51    SF                8232
+
+6900 +     2102   2115      2205  PAL  G   RNS  245       120                   
+
+6860       2116   2116      2116  PAL  G   RBR  410       67                    
+
+6900       2116   2116      2132  SAG  G   RNS  410       65                    
+
+6880 +     2128   2143      2149  GO9  5   XRA  1-8A      C1.0    1.2E-03   8232
+6880 +     2130   ////      2132  CUL  C   RSP  25-240    III/1             8232
+6880       2137   2144      2152  HOL  3   FLA  S25E49    SF                8232
+
+6870       2141   2142      2142  PAL  G   RBR  410       120                   
+
+7030 +    A2205   ////      1036  RAM  3   DSF  S43E49    05      B.0A          
+
+7110      A2205   ////      1036  RAM  3   DSF  S29W11    20      B.0A          
+
+6890       2357   2357      2358  PAL  G   RBR  245       150                   
+6890       2357   2357      2358  PAL  G   RBR  410       130                   

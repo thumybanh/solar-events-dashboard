@@ -1,0 +1,42 @@
+:Product: 20030916events.txt
+:Created: 2003 Sep 19 0302 UT
+:Date: 2003 09 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Sep 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7450       0011   0011      0011  LEA  G   RBR  245       53                    
+
+7460 +     0043   0048      0053  G12  5   XRA  1-8A      B8.3    4.2E-04       
+
+7470 +     0112   0116      0152  G12  5   XRA  1-8A      B9.0    1.7E-03       
+
+7480 +     0211   0218      0221  G12  5   XRA  1-8A      C2.5    1.0E-03       
+
+7490       0447   0453      0504  G10  5   XRA  1-8A      B9.1    8.0E-04       
+
+7500       0518   0525      0531  G10  5   XRA  1-8A      C1.4    8.9E-04       
+
+7510 +     0657   0701      0713  G12  5   XRA  1-8A      B8.1    7.3E-04       
+
+7580       0734   ////      0735  CUL  C   RSP  20-180    III/1                 
+
+7520 +     0756   0800      0812  G12  5   XRA  1-8A      B5.9    4.9E-04       
+
+7530       0852   0858      0912  G12  5   XRA  1-8A      C1.8    1.7E-03       
+
+7540 +     1251   1258      1308  G12  5   XRA  1-8A      B7.3    6.5E-04       
+
+7550 +     1606   1620      1627  G12  5   XRA  1-8A      B8.3    8.7E-04       
+
+7560 +     1850   1901      1918  G12  5   XRA  1-8A      C1.1    1.6E-03       
+
+7570 +     2130   2224      2331  G12  5   XRA  1-8A      M1.3    6.9E-02       
+
+7590       2242   ////     A0103  HOL  3   LPS  ////      0.08    B.9A      0000

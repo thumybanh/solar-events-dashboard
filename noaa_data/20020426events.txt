@@ -1,0 +1,62 @@
+:Product: 20020426events.txt
+:Created: 2002 Apr 29 0300 UT
+:Date: 2002 04 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Apr 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3840       0016   0016      0017  LEA  G   RBR  245       68                    
+
+3850 +     0133   0141      0150  GO8  5   XRA  1-8A      C1.2    1.1E-03       
+
+3860       0305   0305      0305  LEA  G   RBR  245       81                    
+
+3870 +     0309   0309      0309  LEA  G   RBR  245       66                    
+
+3910       0446   ////      0922  SVI  C   RSP  025-180   CTM/1                 
+
+3890       0600   0000      1200       F   RNS  204       35                    
+
+3880       0812   ////      0812  LEA  C   RSP  025-066   III/1                 
+
+4040      A0833   ////     B2324  LEA  3   DSF  S38W05    13      B.0A          
+
+3900       0958   1029      1044  GO8  5   XRA  1-8A      C1.2    2.1E-03       
+
+3920 +     1322   1326      1330  GO8  5   XRA  1-8A      B9.0    3.8E-04   9914
+3920 +     1325   1327      1335  HOL  3   FLA  N05W18    SF                9914
+
+3930       1432   1432      1433  SVI  G   RBR  245       210                   
+
+3940 +     1452   1504      1516  GO8  5   XRA  1-8A      C2.0    2.3E-03       
+
+3950 +     1627   ////      1716  SVI  U   RSP  025-180   CTM/1                 
+3950 +     1659   1659      1659  PAL  G   RBR  245       69                    
+
+3960       1736   1736      1736  PAL  G   RBR  245       75                    
+
+3980 +    A1757   ////     B0453  COM  3   DSF  S29W19    12      B.0A      9917
+
+3970       1804   1804      1804  PAL  G   RBR  245       89                    
+3970       1804   1804      1804  PAL  G   RBR  410       43                    
+
+3990 +     1931   1937      1954  GO8  5   XRA  1-8A      C2.1    2.2E-03       
+
+4000       1955   1956      1956  PAL  G   RBR  245       85                    
+
+4010       2016   2019      2020  PAL  G   RBR  245       64                    
+
+3890 +     2034   2037      2128  PAL  G   RNS  245       86                    
+
+4020       2043   2101      2119  GO8  5   XRA  1-8A      C1.6    2.9E-03       
+
+4030       2247   2256      2314  GO8  5   XRA  1-8A      C1.3    1.9E-03       
+4030       2257   ////      0944  LEA  C   RSP  052-180   CTM/1                 
+
+4060 +     2318   ////      0438  PAL  C   RSP  025-180   CTM/1                 

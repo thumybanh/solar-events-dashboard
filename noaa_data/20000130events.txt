@@ -1,0 +1,32 @@
+:Product: 20000130events.txt
+:Created: 2000 Feb 02 0302 UT
+:Date: 2000 01 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+570  +     0010   0016      0025  GO8  5   XRA  1-8A      B7.9    5.8E-04       
+
+580        0427   0427      0428  LEA  U   RBR  245       96                    
+
+590        0845   ////      0845  LEA  C   RSP  037-05    III/1                 
+
+600        0900   ////      0900  LEA  C   RSP  041-07    III/1                 
+
+610  +     1811   1823      1832  GO8  5   XRA  1-8A      C2.2    1.9E-03   8848
+610  +     1817   1817      1818  SAG  G   RBR  1415      130               8848
+610        1817   1820      1834  RAM  3   FLA  S08E29    SF      DSD       8848
+
+620        1955   1956      1956  PAL  G   RBR  4995      54                    
+
+630  +     2044   2044      2045  PAL  G   RBR  245       310                   
+
+730       A2044   ////      1152  RAM  3   DSF  S30W15    08      B.0A          
+
+640        2047   2047      2048  SAG  G   RBR  245       320                   

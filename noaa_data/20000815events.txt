@@ -1,0 +1,86 @@
+:Product: 20000815events.txt
+:Created: 2000 Aug 18 0302 UT
+:Date: 2000 08 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2320       0000   0001      0007  HOL  3   FLA  S38W13    SF                9127
+
+2330 +     0010   ////      0016  LEA  C   RSP  025-180   III/1                 
+
+2340 +     0051   0055      0059  GO8  5   XRA  1-8A      C1.6    6.7E-04       
+
+2350 +     0138   0153      0205  GO8  5   XRA  1-8A      C3.3    4.3E-03   9125
+2350      B0139   0153      0211  LEA  3   FLA  N21E13    SF      ERU       9125
+
+2360       0200   0201      0204  LEA  3   FLA  S06E48    SF                9129
+
+2600       0328   ////      0950  LEA  C   RSP  056-180   CTM/1                 
+
+2370 +     0521   ////      0526  LEA  C   RSP  025-180   III/2             9125
+2370       0522   0526      0532  GO8  5   XRA  1-8A      C1.3    7.1E-04   9125
+2370 +     0524   0525      0526  LEA  G   RBR  245       88                9125
+2370       0526   0526      0530  SVI  3   FLA  N29E14    SF                9125
+
+2390 +     0707   ////      0710  CUL  C   RSP  28-150    III/2                 
+
+2400       0901   ////      0905  SVI  C   RSP  028-082   III/1                 
+
+2410 +     0923   ////      0926  LEA  C   RSP  025-180   III/3                 
+2410 +     0923   0924      0924  SVI  G   RBR  245       620                   
+2410 +     0923   0924      0924  SVI  G   RBR  410       270                   
+2410 +     0924   0925      0926  SVI  G   RBR  606       110                   
+
+2420 +     0933   0934      0934  SVI  G   RBR  245       76                    
+2420 +     0933   ////      0935  LEA  C   RSP  025-180   III/3                 
+
+2430       1057   ////      1057  SVI  C   RSP  028-059   III/1                 
+
+2440       1112   1113      1119  RAM  3   FLA  S40W21    SF                9127
+
+2460       1217   1219      1224  RAM  3   FLA  S36W28    SF                9127
+
+2470       1239   1239      1241  RAM  3   FLA  S36W28    SF                9127
+
+2480       1308   1319      1351  RAM  3   FLA  S21W34    SF                9130
+
+2510       1330   1332      1349  RAM  3   FLA  S36W28    SF                9127
+
+2490       1352   ////      1359  HOL  C   RSP  025-180   III/1             9125
+2490       1358   1407      1413  GO8  5   XRA  1-8A      C1.4    1.2E-03   9125
+2490 +     1359   1400      1423  HOL  3   FLA  N31E08    SF                9125
+2490       1417   1417      1418  SAG  G   RBR  245       37                9125
+2490       1417   1417      1417  SAG  G   RBR  410       49                9125
+
+2530       1540   1555      1612  GO8  5   XRA  1-8A      C1.6    2.5E-03   9125
+
+2520 +     1547   1547      1549  HOL  3   FLA  N25E07    SF                9125
+
+2530 +     1550   1555      1619  HOL  3   FLA  N24E08    SF                9125
+
+2540       2013   2015      2018  HOL  3   FLA  N22E04    SF                9125
+
+2550       2020   2029      2040  GO8  5   XRA  1-8A      C1.4    1.5E-03   9125
+2550       2023   2023      2042  HOL  3   FLA  N21E00    SF                9125
+
+2560       2043   2046      2057  HOL  3   FLA  N21E00    SF                9125
+
+2580       2057   2100      2106  HOL  3   FLA  N21E00    SF                9125
+
+2570       2107   2108      2111  HOL  3   FLA  N21E00    SF                9125
+
+2590       2225   2227      2234  HOL  3   FLA  N22E02    SF                9125
+
+2620       2316   ////      2316  CUL  C   RSP  35-90     III/1                 
+
+2630       2328   ////      2332  CUL  C   RSP  23-100    III/1             9130
+2630       2329   2331      2357  HOL  3   FLA  S23W38    SF                9130
+
+2640       2337   2338      2341  HOL  3   FLA  S39W26    SF                9127

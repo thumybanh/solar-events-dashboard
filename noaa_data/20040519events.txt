@@ -1,0 +1,44 @@
+:Product: 20040519events.txt
+:Created: 2004 May 22 0302 UT
+:Date: 2004 05 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 May 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9520 +     0052   0058      0103  G12  5   XRA  1-8A      B6.7    3.2E-04   0606
+9520       0056   0100      0102  G12  5   XFL  S09W66    9.0E+02 2.1E+03   0606
+9520       0057   0100      0104  LEA  3   FLA  S10W66    SF      ERU       0606
+
+9530 +     0118   0127      0140  G12  5   XRA  1-8A      B8.7    8.4E-04   0612
+9530       0121   0126      0138  G12  5   XFL  N10W57    1.6E+03 4.6E+03   0612
+9530       0123   0124      0127  LEA  3   FLA  N09W61    SF      ERU       0612
+
+9540 +     0342   0346      0349  G12  5   XRA  1-8A      B3.4    1.2E-04       
+9540       0345   0348      0348  G12  5   XFL  S11E83    6.0E+02 1.3E+03       
+
+9550 +     0354   0358      0401  G12  5   XRA  1-8A      B4.5    1.5E-04       
+9550       0357   0400      0400  G12  5   XFL  S11E84    8.5E+02 2.0E+03       
+9550       0359   ////      0411  CUL  C   RSP  23-140    III/1                 
+
+9600       0540   ////      0552  CUL  C   RSP  25-90     III/1                 
+
+9560 +     0637   0641      0643  G12  5   XRA  1-8A      B4.6    1.1E-04   0612
+9560       0640   0642      0642  G12  5   XFL  N09W60    6.8E+02 1.9E+03   0612
+9560 +     0641   0641      0645  LEA  3   FLA  N10W60    SF                0612
+
+9590       1521   ////      1740  HOL  3   DSF  N04W34    19      B.0A          
+
+9680      A1714   ////     B0440  SVI  3   DSF  N20E39    09      B.0A      0615
+
+9570 +     1841   1847      1901  G12  5   XRA  1-8A      C1.1    1.2E-03       
+9570       1844   1854      1900  G12  5   XFL  S10E85    2.2E+03 7.1E+03       
+
+9580       1929   1951      2028  G12  5   XRA  1-8A      C2.2    4.0E-03       
+
+9610       2236   ////      2236  CUL  C   RSP  27-90     III/1                 

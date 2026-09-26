@@ -1,0 +1,29 @@
+:Product: 20030808events.txt
+:Created: 2003 Aug 11 0302 UT
+:Date: 2003 08 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Aug 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3260       0338   ////      0338  LEA  C   RSP  025-127   III/1                 
+
+3270 +     1210   1213      1216  G12  5   XRA  1-8A      B7.1    2.3E-04   0424
+3270       1212   1212      1212  SAG  G   RBR  410       60                0424
+3270 +     1212   1212      1212  SVI  G   RBR  1415      130               0424
+
+3290       1344   1436      1542  G12  5   XRA  1-8A      C2.3    8.3E-03       
+
+3300       1624   1636      1639  G12  5   XRA  1-8A      C1.0    7.2E-04   0425
+3300       1634   1635      1639  SVI  3   FLA  S10W14    SF      ERU       0425
+
+3310 +     1922   ////      1922  PAL  C   RSP  025-180   III/1                 
+
+3320 +     2008   2013      2016  G12  5   XRA  1-8A      B5.6    2.3E-04       
+
+3330 +     2254   ////      2255  HOL  C   RSP  025-078   III/1                 

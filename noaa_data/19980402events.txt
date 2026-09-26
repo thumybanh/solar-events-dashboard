@@ -1,0 +1,48 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 5 Apr 1998
+
+EDITED EVENTS for 1998 Apr 02
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+4250       0000   ////      2305  CUL  C   RSP  20-180    CTM/1
+
+4120       0138   0140      0143  LEA  3   FLA  S23E08    SF                8190
+
+4280       0150   ////      1006  LEA  C   RSP  030-04    CTM/1
+
+4110 +     0259   0302      0304  GO9  5   XRA  1-8A      B5.1    1.3E-04
+
+4130       0428   0433      0443  GO9  5   XRA  1-8A      B7.9    6.2E-04   8190
+4130       0431   0433      0443  LEA  3   FLA  S23E07    SF                8190
+
+4140       0519   0530      0539  GO9  5   XRA  1-8A      C1.0    1.0E-03
+
+4150       0735   0737      0744  LEA  3   FLA  S23E05    SF                8190
+
+4230       0737   ////      1453  SVI  U   RSP  035-05    CTM/2             8190
+
+4160 +     0752   0757      0802  GO9  5   XRA  1-8A      C1.4    7.0E-04   8190
+4160       0754   0755      0814  LEA  3   FLA  S23E05    SF                8190
+
+4170       0917   0919      0930  LEA  3   FLA  S23E30    SF                8191
+
+4180 +     0959   1004      1013  GO9  5   XRA  1-8A      B9.0    5.9E-04
+
+4190 +     1102   1107      1111  GO9  5   XRA  1-8A      C1.0    4.3E-04   8191
+4190       1104  U1106     A1151  SVI  2   FLA  S24E31    SF      ERU       8191
+
+4200 +     1152   1247      1328  GO9  5   XRA  1-8A      C1.1    5.1E-03
+
+4210 +     1422   1428      1439  GO9  5   XRA  1-8A      C2.3    1.8E-03   8190
+4210       1427   1428      1447  HOL  3   FLA  S22E24    SF                8190
+
+4220 +     1611   1659      1737  GO9  5   XRA  1-8A      C1.8    6.5E-03   8190
+4220       1614   1615      1615  SAG  G   RBR  245       18                8190
+4220 +     1614   1614      1617  SAG  G   RBR  410       3800              8190
+4220       1614   1614      1615  SAG  G   RBR  606       46                8190
+4220 +     1643   1647      1712  COM  3   FLA  S23E23    SF                8190
+
+4260       2143   ////      0045  PAL  C   RSP  025-05    CTM/2
+
+4240       2152   2216      2311  GO9  5   XRA  1-8A      C1.2

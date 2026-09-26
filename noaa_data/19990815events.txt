@@ -1,0 +1,59 @@
+:Product: 19990815events.txt
+:Created: 1999 Aug 18 0303 UT
+:Date: 1999 08 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+510  +     0117   0123      0128  GO8  5   XRA  1-8A      C4.6    1.9E-03       
+510        0120   0121      0148  LEA  4   FLA  S15W45    1N      ERU       8662
+
+520  +     0352   ////      0355  LEA  C   RSP  030-07    III/2                 
+520        0354   0355      0355  LEA  U   RBR  245       270                   
+
+530        0544   ////      0545  SVI  C   RSP  035-08    III/2                 
+
+540        0652   0657      0705  G10  5   XRA  1-8A      B6.3    4.4E-04       
+
+550        0721   ////      0721  LEA  C   RSP  030-04    III/1                 
+
+560        0750   0752      0755       F   RBR  3000      20                    
+560  +     0751   0815      0823  GO8  5   XRA  1-8A      C1.3    2.0E-03       
+
+570  +     1253   1300      1311  GO8  5   XRA  1-8A      B7.2    6.7E-04   8668
+570        1255   1257      1302  RAM  3   FLA  N23E62    SF                8668
+
+580  +     1318   ////      1319  SAG  C   RSP  030-08    III/1                 
+
+590  +     1320   1320      1321  SVI  G   RBR  245       63                    
+590  +     1320   1320      1321  SVI  G   RBR  410       180                   
+
+600        1400   ////      1401  SAG  C   RSP  030-06    III/2                 
+
+610        1444   1444      1450  HOL  3   FLA  N24E57    SF                8668
+
+620  +     1451   1452      1456  HOL  3   FLA  N25E57    SF                8668
+620        1451   ////      1453  SVI  C   RSP  035-08    III/2             8668
+
+630        1621   ////      1629  SVI  C   RSP  035-08    III/2                 
+
+640  +     1645   1655      1701  HOL  3   FLA  N19E54    SF                8668
+
+650  +     1821   1825      1833  GO8  5   XRA  1-8A      B6.7    4.2E-04       
+650        1822   ////      1829  PAL  C   RSP  025-07    III/2                 
+650        1827   1827      1829  SAG  G   RBR  245       87                    
+650        1827   1827      1829  SAG  G   RBR  410       37                    
+
+660        1851   ////      1851  PAL  C   RSP  025-05    III/1                 
+
+670  +     1941   1945      1950  GO8  5   XRA  1-8A      B8.0    3.7E-04       
+
+680        2110   ////      2115  PAL  C   RSP  025-07    III/1                 
+
+700        2215   ////      2216  CUL  C   RSP  28-170    III/1                 

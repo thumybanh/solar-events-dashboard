@@ -1,0 +1,25 @@
+:Product: 20070131events.txt
+:Created: 2007 Feb 04 2332 UT
+:Date: 2007 01 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8460       0612   0612      0612  LEA  G   RBR  245       120                   
+
+8470 +     0837   ////      0837  LEA  C   RSP  025-080   III/1                 
+
+8480 +     1229   1233      1237  G12  5   XRA  1-8A      B1.1    4.6E-05       
+
+8490 +     1830   1834      1842  G12  5   XRA  1-8A      B1.2    7.9E-05       
+
+8500 +     1943   1946      1949  G12  5   XRA  1-8A      B1.2    3.9E-05       
+
+8510 +     2103   2122      2131  G12  5   XRA  1-8A      B7.5    7.0E-04   0940
+8510       2109   2125      2129  G12  5   XFL  S01E08    2.0E+03 5.8E+03   0940

@@ -1,0 +1,63 @@
+:Product: 20050220events.txt
+:Created: 2005 Feb 22 0302 UT
+:Date: 2005 02 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Feb 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9090       0139   ////      0143  CUL  C   RSP  18-90     III/1                 
+
+8920       0418   0422      0425  G10  5   XRA  1-8A      B1.4    5.0E-05       
+
+8930 +     0445   0448      0451  G12  5   XRA  1-8A      B1.7    5.2E-05       
+8930       0449   0449      0449  G12  5   XFL  N33E90                          
+
+8940 +     0643   0649      0659  G12  5   XRA  1-8A      B1.6    1.3E-04       
+8940       0647   0648      0655  G12  5   XFL  S12W06    7.5E+01 4.1E+02       
+
+9020       0744   0815      1043  SVI  G   RNS  245       230                   
+
+8950       0950   ////      1042  LEA  C   RSP  118-180   CTM/1                 
+8950 +     1008   ////      1008  LEA  C   RSP  025-180   III/2                 
+
+8960       1156   ////      1206  SVI  U   RSP  025-083   III/1             0735
+8960       1201   1205      1207  G12  5   XRA  1-8A      B1.0    3.1E-05   0735
+
+8970       1226   1226      1226  SAG  G   RBR  245       57                    
+
+8980       1229   1229      1229  SAG  G   RBR  245       67                    
+
+8990       1243   ////      1243  SVI  C   RSP  025-038   III/1                 
+
+9000       1334   1334      1334  SAG  G   RBR  245       60                    
+
+9010 +     1445   1445      1445  SAG  G   RBR  245       79                    
+
+9030       1509   1509      1509  SVI  G   RBR  245       59                    
+
+9050 +     1532   1628      1752  G12  5   XRA  1-8A      B3.8    2.6E-03       
+9050       1539   1626      1745  G12  5   XFL  S72E90    5.0E+01 1.8E+02       
+
+9040       1609   ////      1610  SAG  C   RSP  030-069   III/1                 
+
+9060       1755   1755      1755  SAG  G   RBR  245       72                    
+
+9100       2039   ////      2039  CUL  C   RSP  40-90     III/1                 
+
+9110       2044   ////      2044  CUL  C   RSP  40-140    III/1                 
+
+9120       2214   ////      2214  CUL  C   RSP  30-90     III/1                 
+
+9130       2245   ////      2248  CUL  C   RSP  40-150    III/1                 
+
+9070 +     2319   ////      2319  CUL  C   RSP  18-180    III/3                 
+
+9140       2322   ////      2326  CUL  C   RSP  27-90     III/1                 
+
+9080       2325   ////      2325  LEA  C   RSP  025-099   III/1                 

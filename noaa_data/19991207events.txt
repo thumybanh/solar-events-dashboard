@@ -1,0 +1,82 @@
+:Product: 19991207events.txt
+:Created: 1999 Dec 10 0302 UT
+:Date: 1999 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+100  +     0107   0112      0114  GO8  5   XRA  1-8A      C8.7    1.9E-03       
+100  +     0108   0109      0113  PAL  G   RBR  245       98                    
+100        0109   ////      0112  LEA  C   RSP  035-08    III/1                 
+
+90         0109   ////      0112  LEA  C   RSP  035-08    III/1                 
+90   +     0111   0112      0112  LEA  U   RBR  245       54                    
+
+110        0140   ////      0140  LEA  C   RSP  030-08    III/2                 
+
+120        0202   0204      0208  LEA  3   FLA  N10E28    SF                8788
+
+130        0245   ////      0246  LEA  C   RSP  030-05    III/1                 
+
+140        0439   ////      0441  LEA  C   RSP  030-06    III/2                 
+
+150        0641   ////      0641  LEA  C   RSP  030-05    III/1                 
+
+160        0647   0648      0650  LEA  4   FLA  N10E30    SF      DSD       8788
+
+170        0721   ////      0722  LEA  C   RSP  030-05    III/1                 
+
+180        0756   ////      0756  LEA  C   RSP  030-06    III/1                 
+
+190        0938   0938      0939  SVI  G   RBR  245       440                   
+
+200  +     1011   1018      1022  GO8  5   XRA  1-8A      C4.3    1.6E-03       
+200  +     1014   1018      1025  SVI  3   FLA  S14E74    SF                    
+200        1024   1024      1024  SVI  G   RBR  410       110                   
+
+220        1151   ////      1152  SVI  U   RSP  036-07    III/2                 
+
+230        1256   ////      1257  SVI  C   RSP  035-08    V/2                   
+230        1257   ////      1257  SAG  C   RSP  030-05    III/1                 
+
+240        1603   1603      1603  SAG  G   RBR  410       200                   
+
+250  +     1610   1614      1618  GO8  5   XRA  1-8A      C1.1    5.2E-04   8790
+250        1611   ////      1614  SAG  C   RSP  030-00    V/2               8790
+250        1612   1613      1618  HOL  3   FLA  N15E39    SF                8790
+
+260        1645   1646      1646  SAG  G   RBR  245       58                    
+260        1645   1646      1646  SAG  G   RBR  410       18                    
+
+270        1831   1831      1832  SAG  G   RBR  245       85                    
+
+280        1908   ////      1913  PAL  C   RSP  025-18    III/1                 
+
+290        1950   ////      1959  PAL  C   RSP  025-04    III/1                 
+
+300  +     2021   ////      2021  PAL  C   RSP  025-18    III/1                 
+
+310  +     2044   2053      2112  GO8  5   XRA  1-8A      C2.9    3.8E-03       
+
+320  +     2115   2120      2123  GO8  5   XRA  1-8A      M1.0    3.1E-03   8791
+320        2116   2118      2120  PAL  G   RBR  4995      79                8791
+320        2116   ////      2118  PAL  C   RSP  025-18    V/1               8791
+320        2117   2117      2118  PAL  G   RBR  245       340               8791
+320        2117   2119      2137  HOL  3   FLA  S13E66    SN                8791
+320        2117   2117      2117  PAL  G   RBR  410       41                8791
+320        2117   2118      2118  PAL  G   RBR  2695      31                8791
+320        2117   2118      2119  PAL  G   RBR  8800      100               8791
+320        2117   2118      2119  PAL  G   RBR  15400     51                8791
+
+330        2136   2136      2136  PAL  U   RBR  245       250                   
+330        2136   2136      2136  PAL  G   RBR  8800      21                    
+
+340  +     2325   ////      2326  LEA  C   RSP  030-08    III/2                 
+
+350        2334   ////      2335  LEA  C   RSP  030-08    III/2                 

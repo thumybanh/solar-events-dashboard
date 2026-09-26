@@ -1,0 +1,52 @@
+:Product: 20031223events.txt
+:Created: 2003 Dec 24 2102 UT
+:Date: 2003 12 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Dec 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5030       0231   0238      0245  G10  5   XRA  1-8A      C2.1    1.4E-03   0528
+5030       0232   0238      0248  LEA  3   FLA  N11E25    SF      ERU       0528
+
+5040 +     0452   0457      0502  G12  5   XRA  1-8A      C1.1    5.2E-04   0528
+
+5050 +     0535   0543      0551  G12  5   XRA  1-8A      B8.7    7.6E-04   0528
+
+5070 +     0647   0651      0658  G12  5   XRA  1-8A      B9.5    5.4E-04   0528
+5070       0650   0650      0654  LEA  3   FLA  N11E23    SF                0528
+
+5150       0700   ////      1200  IZM  F   RNS  204       10                    
+
+5080 +     0704   0704      0704  LEA  G   RBR  245       62                    
+
+5090 +     0728   0732      0743  G12  5   XRA  1-8A      C1.6    1.1E-03   0525
+5090       0731   0733      0746  LEA  3   FLA  N11W10    SF      ERU       0525
+
+5100       0800   0800      0800  SVI  G   RBR  245       53                    
+
+5110 +     0802   0809      0815  G12  5   XRA  1-8A      C1.3    7.6E-04   0528
+5110       0808   0810      0817  LEA  3   FLA  N09E16    SF                0528
+
+5120       0937   0937      0937  SVI  G   RBR  245       55                    
+5120       0937   0937      0937  SVI  G   RBR  410       29                    
+
+5130 +     1014   1024      1035  G12  5   XRA  1-8A      C6.9    5.9E-03   0525
+5130       1015   1018      1035  IZM  F   RBR  3000      34                0525
+
+5140 +     1438   1438      1438  SAG  G   RBR  245       150                   
+
+5150       1442   1617      1617  SAG  G   RNS  245       64                    
+
+5190       1513   1532      1600  G12  5   XRA  1-8A      C1.0    2.5E-03       
+
+5160 +     1756   1801      1806  G12  5   XRA  1-8A      B9.5    4.9E-04   0525
+
+5170       1921   ////      1921  PAL  C   RSP  025-048   III/1                 
+
+5180 +     2037   ////      2037  CUL  C   RSP  18-150    III/3                 

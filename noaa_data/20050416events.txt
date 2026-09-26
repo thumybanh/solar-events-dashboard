@@ -1,0 +1,31 @@
+:Product: 20050416events.txt
+:Created: 2005 Apr 17 1229 UT
+:Date: 2005 04 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Apr 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4450 +     0833   0838      0845  G12  5   XRA  1-8A      B3.0    1.5E-04       
+4450 +     0834   ////      0837  LEA  C   RSP  025-110   V/1                   
+4450       0839   0843      0843  G12  5   XFL  S14E82    1.5E+02 3.0E+02       
+
+4460       0905   ////      0910  SVI  C   RSP  025-047   III/1                 
+
+4470       0933   ////      0933  SVI  C   RSP  025-040   III/1                 
+
+4480 +     1316   1344      1352  G12  5   XRA  1-8A      B2.7    3.7E-04       
+
+4490 +     1526   1530      1535  G12  5   XRA  1-8A      B1.1    5.4E-05       
+
+4500 +     1614   1627      1638  G12  5   XRA  1-8A      B7.7    7.1E-04       
+4500       1616   ////      1616  SAG  C   RSP  030-116   III/1                 
+4500       1620   1634      1636  G12  5   XFL  S13E86    1.2E+03 3.9E+03       
+
+4510 +     2130   2136      2143  G12  5   XRA  1-8A      B3.2    2.2E-04       
+4510       2134   2140      2142  G12  5   XFL  S13E86    7.0E+02 1.8E+03       

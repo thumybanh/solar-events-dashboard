@@ -1,0 +1,71 @@
+:Product: 19990717events.txt
+:Created: 1999 Jul 20 0302 UT
+:Date: 1999 07 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jul 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1420       0219   ////      0219  LEA  C   RSP  030-07    III/3                 
+
+1480       0220   0225      0231  LEA  3   FLA  N45W76    SF                8635
+
+1490       0231   0236      0241  LEA  3   FLA  N44W77    SF                8635
+
+1430       0246   0251      0255  LEA  3   FLA  N45W78    SF                8635
+1430 +     0249   ////      0249  PAL  C   RSP  025-07    III/3             8635
+
+1530       0307   0346      0353  LEA  3   FLA  N18E85    SF                    
+
+1440       0335   0336      0340  LEA  3   FLA  N45W77    SF                8635
+
+1500       0354   ////      0806  SVI  C   RSP  035-08    CTM/1                 
+
+1450       0635   0639      0647  LEA  3   FLA  N18E85    SF                    
+
+1460 +     0709   0710      0716  SVI  3   FLA  N18E78    SF                    
+
+1470 +     0732   0741      0747  GO8  5   XRA  1-8A      C1.3    1.0E-03       
+
+1510 +     0821   0823      0828  SVI  3   FLA  N18E77    SF                    
+
+1520 +     0837   0840      0844  GO8  5   XRA  1-8A      C1.7    5.9E-04       
+
+1780       0919   ////      2350  COM  3   DSF  N44E31    015                   
+
+1540       0950   ////      0950  SVI  C   RSP  035-05    III/2                 
+
+1550       0951   0954      1006  SVI  3   FLA  N18E76    SF                    
+
+1560 +     1032   1042      1047  GO8  5   XRA  1-8A      C5.5    3.1E-03       
+
+1570       1245   1246      1251  SVI  3   FLA  N18E75    SF                    
+
+1580       1341   ////      1341  SVI  C   RSP  035-05    III/1                 
+
+1590       1351   1358      1401  SVI  3   FLA  N42W89    SF                8635
+
+1710 +     1353   1357      1402  COM  3   FLA  N43W83    SF                8635
+
+1590 +     1354   1404      1415  GO8  5   XRA  1-8A      C2.7    2.7E-03   8635
+
+1720       1445   1445      1445  COM  3   FLA  S15W44    SF                8627
+
+1600       1526   ////      1527  SAG  C   RSP  030-06    III/1                 
+
+1610 +     1620   1625      1637  GO8  5   XRA  1-8A      C3.4    2.6E-03   8635
+1610       1630   1631      1644  HOL  3   FLA  N42W85    SF                8635
+
+1620 +     1642   ////      1644  SVI  C   RSP  035-08    V/2                   
+
+1630       1718   1734      1753  GO8  5   XRA  1-8A      C2.0    3.4E-03       
+
+1640 +     2154   2202      2206  GO8  5   XRA  1-8A      C1.9    1.1E-03       
+1640       2204   2211      2318  COM  G   RBR  245       90                    
+
+1650 +     2301   2309      2324  GO8  5   XRA  1-8A      C4.9    4.7E-03       

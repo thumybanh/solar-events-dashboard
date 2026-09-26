@@ -1,0 +1,80 @@
+:Product: 20240223events.txt
+:Created: 2024 Feb 26 0357 UT
+:Date: 2024 02 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Feb 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2130       0000   0006      0028  PAL  G   RNS  245       310                   
+
+2110       0000   ////      0111  PAL  C   RSP  025-117   VI/2                  
+2110       0000   ////      0422  PAL  C   RSP  047-180   CTM/1                 
+2110       0006   0006      0006  PAL  G   RBR  245       400                   
+
+2140       0159   ////      0224  PAL  C   RSP  025-049   VI/1                  
+
+2120       0211   0211      0211  PAL  G   RBR  245       110                   
+
+2150       0406   0406      0406  PAL  G   RBR  4995      100                   
+
+2240       0547   ////      1623  SVI  C   RSP  025-180   CTM/2                 
+
+2180       0603   ////      0911  SVI  C   RSP  025-180   VI/2                  
+
+2160 +     0616   0633      0648  G16  5   XRA  1-8A      C8.7    1.3E-02   3590
+
+2170      B0702  U0703     A0713  SVI  3   FLA  N21E29    SF                3590
+
+2190 +     0943   0954      1009  G16  5   XRA  1-8A      C3.8    9.8E-04   3590
+
+2200 +     1009   1015      1019  G16  5   XRA  1-8A      C3.8    2.2E-03   3590
+
+2210       1049   ////      1050  SVI  C   RSP  113-180   III/2                 
+
+2350       1202   ////      2213  SAG  C   RSP  060-180   CTM/2                 
+
+2220 +     1312   1328      1354  G16  5   XRA  1-8A      M1.0    1.9E-02   3590
+
+2250       1454   1652      1646  HOL  3   FLA  N18E18    1N      DSD       3590
+
+2230 +     1519   ////      1519  SVI  U   RSP  025-062   III/1                 
+
+2250 +     1541   1553      1606  G16  5   XRA  1-8A      M1.4    1.8E-02   3590
+
+2360       1710   ////      2359  PAL  C   RSP  068-180   CTM/2                 
+
+2260       1713   1713      1716  PAL  G   RBR  610       300                   
+
+2270       1719   1719      1719  PAL  G   RBR  410       100                   
+
+2280 +     1726   1747      1807  G16  5   XRA  1-8A      M2.6    3.9E-02   3590
+2280       1731   1743      1823  HOL  3   FLA  N18E18    1N      DSD       3590
+2280       1739   ////      1739  PAL  C   RSP  025-065   III/2             3590
+
+2290       1809   1809      1810  PAL  G   RBR  610       110                   
+
+2300       1856   1856      1856  PAL  G   RBR  245       590                   
+
+2310       1859   1859      1859  PAL  G   RBR  610       100                   
+
+2320       1936   1937      1937  PAL  G   RBR  245       1700                  
+
+2370       2011   ////      2103  PAL  C   RSP  025-180   VI/1                  
+2370       2024   ////      2031  SAG  C   RSP  025-180   III/1                 
+
+2330       2024   2024      2024  PAL  G   RBR  245       2200                  
+
+2340 +     2026   2039      2049  G16  5   XRA  1-8A      C5.4    6.0E-03   3590
+2340       2029   2029      2029  PAL  G   RBR  245       920                   
+
+2380 +     2108   2115      2126  G16  5   XRA  1-8A      C6.0    6.1E-03   3590
+
+2390 +     2306   2313      2319  G16  5   XRA  1-8A      C4.9    3.3E-03   3590
+2390 +     2308   2309      2309  PAL  G   RBR  245       1500                  
+2390       2312   ////      2313  PAL  C   RSP  025-180   III/2                 

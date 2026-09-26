@@ -1,0 +1,42 @@
+:Product: 20001021events.txt
+:Created: 2000 Oct 24 0302 UT
+:Date: 2000 10 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7970 +     0000   0001      0007  COM  3   FLA  N09W06    SF      ERU       9199
+
+7980       0124   0129      0134  GO8  5   XRA  1-8A      C1.0    5.7E-04       
+
+7990       0307   0309      0312  LEA  3   FLA  N09W08    SF      ERU       9199
+
+8000       0500   0526      0613  GO8  5   XRA  1-8A      C1.6    5.8E-03   9199
+8000       0521   0526      0535  LEA  3   FLA  N09W09    SF                9199
+
+8010       0656   0707      0714  LEA  3   FLA  N19E29    SF                9201
+8010 +     0657   0701      0706  GO8  5   XRA  1-8A      C2.4    1.1E-03   9201
+
+8020 +     0830   ////      0831  LEA  C   RSP  025-180   III/2                 
+
+8030 +     0951   0956      1003  GO8  5   XRA  1-8A      C5.6    2.9E-03   9199
+8030       0953   0953      0954  LEA  G   RBR  245       100               9199
+8030       0953   0955      0956  LEA  G   RBR  410       100               9199
+8030      B0956  U0957      1012  SVI  3   FLA  N08W09    SF      ERU       9199
+
+8040 +     1359   1406      1410  GO8  5   XRA  1-8A      C2.3    1.1E-03   9201
+8040 +     1402   1406      1410  RAM  3   FLA  N16E16    SF      ERU       9201
+
+8050 +     1813   1831      1846  GO8  5   XRA  1-8A      M3.0    3.6E-02   9201
+8050       1816   1825      1915  RAM  3   FLA  N17E23    1N                9201
+8050 +     1817   1825      1830  SAG  G   RBR  4995      110               9201
+8050 +     1817   1825      1830  SAG  G   RBR  8800      57                9201
+8050 +     1824   1825      1830  SAG  G   RBR  2695      100               9201
+
+8080      B2230   ////      0117  LEA  2   EPL  S30E90    0.22    B.6A      9203

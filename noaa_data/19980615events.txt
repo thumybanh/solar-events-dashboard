@@ -1,0 +1,40 @@
+:Product: 19980615events.txt
+:Created: 1998 Jun 18 0302 UT
+:Date: 1998 06 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9640      A0134   ////      1314  HOL  3   DSF  S47W61    14      B.0A          
+
+9600       0318   ////      0318  CUL  C   RSP  35-95     III/1                 
+
+9590       0522   0522      0522  SVI  U   RBR  245       57                    
+
+9570       0522   ////      0523  CUL  C   RSP  60-280    III/1                 
+
+9610       0600   0750      0937  GO9  5   XRA  1-8A      C1.4    1.4E-02   8232
+9610 +     0607   ////      0740  LEA  3   EPL  S12W90    0.27    B.9A      8232
+9610       0629   ////      0801  SVI  C   RSP  035-08    CTM/2             8232
+
+9710      A0904   ////      0116  LEA  3   DSF  S80E32    30      B.0A          
+
+9620      B1109   ////      1124  RAM  3   DSF  S71E01    09      B.9A          
+
+9650 +    A1207   ////      1426  RAM  4   DSF  S53E18    33      B.0A          
+
+9660      B1230   ////      1430  SVI  3   DSF  S82E36    36      B.9A          
+
+9630       1325   1328      1330  HOL  3   FLA  N34E10    SF                8244
+
+9670 +     1655   ////      1737  RAM  4   EPL  S18E90    0.18    B.9A      8249
+
+9680 +     1741   ////      1742  SAG  C   RSP  030-05    III/1                 
+
+9700       2348   ////      2351  CUL  C   RSP  18-180    III/2                 

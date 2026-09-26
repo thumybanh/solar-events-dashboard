@@ -1,0 +1,43 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 6 Apr 1998
+
+EDITED EVENTS for 1998 Apr 03
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+4320       0016   ////      1006  LEA  C   RSP  030-08    CTM/1
+
+4270       0130   ////      0130  LEA  C   RSP  030-04    III/1
+
+4290 +     0216   ////      0216  LEA  C   RSP  030-06    III/2
+
+4300       0243   ////      0243  LEA  C   RSP  030-03    III/1
+
+4310       0319   ////      0319  LEA  C   RSP  030-04    III/1
+
+4330       0457   ////      1041  SVI  C   RSP  049-08    CTM/2
+
+4340       0832   0833      0834  LEA  G   RBR  410       21
+4340 +     0833   0833      0834  SVI  G   RBR  245       88
+4340       0833   0833      0834  LEA  G   RBR  606       12
+
+4360 +     1024   1054      1249  GO9  5   XRA  1-8A      B9.2    7.0E-03
+
+4370       1600   ////      1601  SAG  C   RSP  030-04    III/1
+
+4380       1857   1901      1904  HOL  3   FLA  S20E06    SF      ERU       8190
+
+4390       1912   1916      1929  HOL  3   FLA  S20E07    SF      ERU       8190
+
+4430 +     2335   2350      0002  GO9  5   XRA  1-8A      C6.7    6.8E-03   8190
+
+4400       2340   2340      2340  PAL  U   RBR  245       52
+
+4410 +     2343   2345      2347  LEA  G   RBR  245       51
+4410 +     2343   2344      2345  PAL  G   RBR  410       43
+4410 +     2346   2346      2349  PAL  G   RBR  2695      40
+4410 +     2346   2348      2350  PAL  G   RBR  4995      36
+4410       2347   2348      2350  PAL  G   RBR  8800      30
+
+4420       2348   2349      2349  LEA  G   RBR  8800      23
+4420       2349   2349      2349  LEA  G   RBR  15400     22

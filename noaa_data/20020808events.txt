@@ -1,0 +1,54 @@
+:Product: 20020808events.txt
+:Created: 2002 Aug 11 0300 UT
+:Date: 2002 08 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Aug 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 590       0000   ////      0230  CUL  C   RSP  57-180    CTM/1                 
+
+ 550       0024   ////      0026  HOL  C   RSP  025-081   III/1                 
+
+ 570 +     0100   0104      0107  GO8  5   XRA  1-8A      C1.9    5.9E-04       
+
+ 580       0114   ////      0140  HOL  C   RSP  025-139   CTM/1                 
+
+ 600       0230   ////      0000  CUL  C   RSP  57-180    CTM/2                 
+
+ 670 +     0413   ////      1736  SVI  C   RSP  025-180   CTM/1                 
+
+ 620 +     0659   0705      0711  GO8  5   XRA  1-8A      C1.1    7.4E-04   0061
+ 620      B0701  U0702     A0711  SVI  2   FLA  N10E27    SF                0061
+
+ 630 +     0934   0941      0951  GO8  5   XRA  1-8A      C1.2    1.1E-03       
+
+ 640 +     1108   1111      1113  GO8  5   XRA  1-8A      C1.4    3.5E-04   0057
+ 640       1110   1110      1110  SAG  G   RBR  606       190               0057
+ 640       1110   1110      1110  SAG  G   RBR  1415      39                0057
+ 640       1110   1112      1115  RAM  3   FLA  S08W83    SF      DSD       0057
+
+ 650 +     1155   1159      1204  GO8  5   XRA  1-8A      C1.3    6.4E-04       
+
+ 680       1406   ////      1845  HOL  C   RSP  040-136   CTM/1                 
+
+ 690 +     1532   ////      1533  SVI  C   RSP  025-159   III/1                 
+
+ 700       1612   ////      1842  PAL  C   RSP  025-180   CTM/1                 
+
+ 750 +     1802  U2217      2241  COM  G   RNS  245       110                   
+
+ 710       1803   1803      1803  PAL  G   RBR  245       54                    
+
+ 720       1806   1806      1806  PAL  G   RBR  245       55                    
+
+ 740       2120   ////      2120  PAL  C   RSP  032-150   III/1                 
+
+ 770 +     2310   ////      0949  LEA  C   RSP  025-180   CTM/1                 
+
+ 760       2334   2335      2335  LEA  G   RBR  245       72                    

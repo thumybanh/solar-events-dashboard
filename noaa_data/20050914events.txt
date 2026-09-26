@@ -1,0 +1,73 @@
+:Product: 20050914events.txt
+:Created: 2005 Sep 17 0329 UT
+:Date: 2005 09 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Sep 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9760       0000   ////      0004  PAL  G   RBR  410       390                   
+9760       0000   ////      0000  CUL  C   RSP  20-57     IV/3                  
+9760       0000   ////      0000  CUL  C   RSP  20-57     CTM/2                 
+
+9770       0027   0029      0031  PAL  G   RBR  410       110                   
+
+9780       0202   0225      0254  LEA  3   FLA  S10E02    SF                0808
+9780       0203   0203      0205  LEA  G   RBR  4995      52                0808
+
+9790       0402   0402      0402  PAL  G   RBR  410       74                    
+
+9810       0414   0419      0425  G10  5   XRA  1-8A      C3.8    2.1E-03   0808
+9810       0416   0423      0428  LEA  3   FLA  S10E01    SF                0808
+
+9820       0448   ////      1641  SVI  C   RSP  025-180   IV/3              0808
+
+9890       0600   ////      1200  IZM  F   RNS  204       85                    
+
+9840      B0635   0635      0641  CUL  3   FLA  S11E01    SF                0808
+
+9850 +     0656   0703      0708  G12  5   XRA  1-8A      C5.2    2.9E-03   0808
+9850       0659   0705      0723  LEA  3   FLA  S10W01    SF                0808
+
+9860       0859   0904      0908  G12  5   XRA  1-8A      C2.2    1.0E-03       
+
+9870 +     1005   1038      1054  G12  5   XRA  1-8A      M4.6    4.9E-02       
+9870       1009   1009      1009  SVI  U   RBR  245       170                   
+9870       1030   1032      1040  IZM  F   RBR  3000      188                   
+9870       1031   1032      1051  SVI  G   RBR  15400     1500                  
+9870       1042   ////      2235  SAG  C   RSP  030-180   IV/2                  
+9870      U1052  U1053      1055  SAG  G   RBR  4995      63                    
+9870      U1052  U1053      1053  SAG  G   RBR  8800      64                    
+
+9890 +     1114   1400      2335  SAG  G   RNS  245       200                   
+
+9880 +     1247   1257      1301  G12  5   XRA  1-8A      C3.4    1.6E-03       
+
+9900 +     1544   1549      1554  G12  5   XRA  1-8A      B8.3    4.1E-04       
+
+9970       1635   ////      0420  PAL  C   RSP  025-180   IV/1                  
+
+9910 +     1910   1913      1916  G12  5   XRA  1-8A      B6.9    2.1E-04       
+
+9920 +     1922   1927      1934  G12  5   XRA  1-8A      C4.4    2.2E-03   0808
+9920       1925   1929      1951  HOL  3   FLA  S13W04    SF      ERU       0808
+
+9930       2010   2010      2010  SAG  G   RBR  1415      80                    
+
+9940 +     2037   2118      2132  G12  5   XRA  1-8A      C4.3    6.0E-03   0808
+9940       2111   2111      2112  PAL  G   RBR  4995      91                0808
+9940       2111   2111      2112  PAL  G   RBR  8800      82                0808
+9940       2111   2112      2141  HOL  3   FLA  S09W07    SF      ERU       0808
+
+9980       2238   ////      1001  LEA  C   RSP  025-180   IV/2                  
+
+9950 +     2247   2312      2322  G12  5   XRA  1-8A      C5.8    9.0E-03   0808
+9950       2251   2303      2318  HOL  3   FLA  S14W11    SF      ERU       0808
+
+9960 +     2338   2342      2346  G12  5   XRA  1-8A      C3.7    1.5E-03   0808
+9960 +     2340   2341      2354  HOL  3   FLA  S11W14    SF      ERU       0808

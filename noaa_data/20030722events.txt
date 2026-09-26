@@ -1,0 +1,81 @@
+:Product: 20030722events.txt
+:Created: 2003 Jul 24 0302 UT
+:Date: 2003 07 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jul 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 230       0004   0004      0005  LEA  U   RBR  245       50                0417
+
+ 360       0033   ////      0918  LEA  C   RSP  074-180   CTM/1                 
+
+ 270       0052   0052      0053  LEA  U   RBR  245       53                    
+
+ 280       0125   0125      0125  LEA  U   RBR  245       69                    
+
+ 290       0141   0142      0142  LEA  U   RBR  245       320                   
+
+ 300       0151   0152      0152  LEA  U   RBR  245       52                    
+
+ 310       0156   0156      0156  PAL  G   RBR  245       62                    
+
+ 320 +     0157   0206      0218  G12  5   XRA  1-8A      C3.5    3.7E-03   0412
+ 320       0158   0206      0243  LEA  3   FLA  N17W54    SF                0412
+ 320 +     0159   ////      0201  PAL  C   RSP  025-180   V/2               0412
+ 320       0159   ////      0201  CUL  C   RSP  18-820    III/3             0412
+ 320       0206   0206      0206  LEA  U   RBR  245       110               0412
+
+ 350 +     0210   0537      0625  LEA  G   RNS  245       210                   
+
+ 330 +     0335   0340      0343  G12  5   XRA  1-8A      C2.8    9.9E-04   0417
+ 330       0338   0338      0345  LEA  3   FLA  S22W52    SF                0417
+
+ 450       0345   0410      0420  G12  5   XRA  1-8A      C3.5    5.6E-03       
+
+ 340       0353   ////      0358  CUL  C   RSP  18-130    III/1                 
+
+ 500       0400   ////      1752  SVI  C   RSP  025-180   CTM/1                 
+
+ 380       0605   0632      0649  G12  5   XRA  1-8A      C1.5    3.1E-03   0417
+
+ 370       0612   0613      0616  SVI  3   FLA  S20W55    SF                0417
+
+ 380       0625   0625      0635  SVI  3   FLA  S19W52    SF                0417
+
+ 390 +     0706   0718      0730  G12  5   XRA  1-8A      C5.2    5.1E-03   0417
+ 390 +     0709   0715      0747  LEA  3   FLA  S21W53    1F      ERU       0417
+ 390       0716   0716      0716  LEA  U   RBR  245       50                0417
+
+ 400 +     0816   0820      0830  G12  5   XRA  1-8A      C3.6    2.2E-03   0417
+ 400 +     0818   0819      0837  LEA  3   FLA  S21W54    SF      ERU       0417
+
+ 410       1011   1012      1012  SVI  U   RBR  245       74                    
+
+ 420       1322   1333      1337  HOL  3   FLA  S22W59    SF      ERU       0417
+
+ 430       1341   1341      1341  SVI  G   RBR  245       57                    
+
+ 440 +     1415   1420      1426  G12  5   XRA  1-8A      C1.3    7.5E-04   0417
+ 440       1418   1419      1430  HOL  3   FLA  S22W58    SF      ERU       0417
+
+ 460 +     1515   1523      1530  G12  5   XRA  1-8A      C1.7    1.3E-03   0417
+ 460 +     1518   1523      1535  HOL  3   FLA  S22W58    SF      ERU       0417
+
+ 480       1650   1750      1834  G12  5   XRA  1-8A      C1.8    8.8E-03   0409
+
+ 680      A1702   ////     B0521  SVI  3   DSF  ////      13      B.0A      0000
+
+ 470       1720   1721      1721  PAL  G   RBR  245       120                   
+
+ 480       1743   1746      1751  HOL  3   FLA  N21W46    SF      ERU       0409
+
+ 490 +     2119   2124      2128  G12  5   XRA  1-8A      C1.5    6.3E-04   0417
+ 490       2123   2125      2129  HOL  3   FLA  S21W63    SF                0417
+
+ 510       2143   ////      0100  HOL  C   RSP  037-136   CTM/1                 

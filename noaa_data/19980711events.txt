@@ -1,0 +1,71 @@
+:Product: 19980711events.txt
+:Created: 1998 Jul 14 0302 UT
+:Date: 1998 07 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3950 +     0041   0047      0054  GO9  5   XRA  1-8A      B9.8    5.8E-04       
+
+3960 +     0226   ////      0236  PAL  C   RSP  028-06    III/1                 
+
+3970 +     0231   0234      0236  GO9  5   XRA  1-8A      B4.9    1.2E-04       
+3970       0232   0234      0235  LEA  G   RBR  245       170                   
+3970       0233   ////      0237  LEA  C   RSP  030-05    III/2                 
+
+3980 +     0258   ////      0259  LEA  C   RSP  030-04    III/2                 
+
+3990 +     0430   0441      0503  GO9  5   XRA  1-8A      C1.7    2.5E-03   8264
+3990       0434   0450      0508  SVI  3   FLA  S21W63    SF      ERU       8263
+
+4060 +     0438   0438      0439  LEA  G   RBR  245       65                8264
+4060       0438   0438      0446  SVI  3   FLA  N16W60    SF                8264
+4060       0439   ////      0439  CUL  C   RSP  25-250    III/1             8264
+
+4000       0634   ////      0729  SVI  C   RSP  045-06    CTM/3                 
+4000 +     0712   ////      0714  LEA  C   RSP  030-04    III/1                 
+
+4010       0751   ////      0752  LEA  C   RSP  030-04    III/2                 
+
+4020       1001   ////      1002  SVI  C   RSP  036-05    III/2                 
+
+4030       1026   ////      1026  SVI  C   RSP  035-06    III/2                 
+
+4040 +     1039   1043      1045  GO9  5   XRA  1-8A      B7.1    2.0E-04       
+
+4050 +     1053   1057      1059  GO9  5   XRA  1-8A      B9.9    2.3E-04   8270
+4050       1057   1058      1106  SVI  3   FLA  S23E62    SF      DSD       8270
+
+4070 +     1243   1250      1253  GO9  5   XRA  1-8A      C4.3    1.4E-03   8264
+4070 +     1246   ////      1248  SVI  C   RSP  035-07    III/2             8264
+4070 +     1249   1253      1257  SVI  3   FLA  N17W66    SF      DSD       8264
+
+4080 +     1703   1708      1714  GO9  5   XRA  1-8A      B5.5    2.9E-04       
+
+4090 +     1815   1819      1822  GO9  5   XRA  1-8A      B5.3    1.9E-04       
+
+4100 +     1827   ////      1829  SAG  C   RSP  030-06    III/1                 
+
+4110 +     1835   1840      1850  GO9  5   XRA  1-8A      B4.4    3.6E-04   8270
+4110       1838   1838      1844  HOL  3   FLA  S22E55    SF                8270
+
+4120 +     1853   ////      1854  SAG  C   RSP  030-07    III/1                 
+
+4130 +     1932   ////      1933  PAL  C   RSP  029-06    III/2                 
+
+4140       2109   ////      2110  PAL  C   RSP  030-05    III/1                 
+
+4150 +     2252   ////      2253  PAL  C   RSP  028-05    III/2                 
+
+4230       2321   ////      2324  CUL  C   RSP  60-180    III/1                 
+
+4160 +     2336   2343      2348  GO9  5   XRA  1-8A      B9.5    4.8E-04       
+4160 +     2339   ////      2342  CUL  C   RSP  20-180    III/1                 
+
+4240       2357   ////      2357  CUL  C   RSP  20-140    III/1                 

@@ -1,0 +1,33 @@
+:Product: 20041011events.txt
+:Created: 2004 Oct 14 0302 UT
+:Date: 2004 10 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Oct 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6120 +     0230   0231      0231  LEA  G   RBR  245       120                   
+
+6130       0323   0323      0323  PAL  G   RBR  245       68                    
+6130       0323   0323      0323  PAL  G   RBR  410       76                    
+
+6140       0534   ////      0535  LEA  C   RSP  025-070   III/1                 
+
+6150 +     1127   1127      1127  SVI  G   RBR  245       96                    
+6150       1127   ////      1127  SVI  C   RSP  120-169   III/1                 
+
+6160 +     1152   1156      1200  G12  5   XRA  1-8A      B2.6    7.8E-05       
+6160 +     1155   ////      1157  SVI  C   RSP  025-136   III/2                 
+6160       1155   1155      1159  G12  5   XFL  N26W90    7.5E+01 5.5E+02       
+
+6170       1735   1736      1736  SAG  G   RBR  245       60                    
+
+6180 +     2011   2016      2022  G12  5   XRA  1-8A      B1.1    6.7E-05       
+6180       2014   2014      2016  G12  5   XFL  N26W21                          
+
+6190 +     2351   2356      0000  G12  5   XRA  1-8A      B2.0    8.3E-05       

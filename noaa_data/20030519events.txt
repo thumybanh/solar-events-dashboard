@@ -1,0 +1,29 @@
+:Product: 20030519events.txt
+:Created: 2003 May 22 0302 UT
+:Date: 2003 05 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 May 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4530      A0048   ////     B1256  HOL  3   DSF  ////      11      B.0A      0000
+
+4600       0942   1052      1131  G12  5   XRA  1-8A      B8.3    4.0E-03       
+
+4610       1444   1525      1604  G12  5   XRA  1-8A      B7.8    2.9E-03       
+
+4550       1602   ////      1815  HOL  3   EPL  ////      0.15    B.8A      0000
+
+4580       1758   ////      2056  HOL  3   DSF  ////      09      B.0A      0000
+
+4560 +     1916   1924      1937  G12  5   XRA  1-8A      B8.3    8.2E-04   0356
+4560       1924   1924      1926  HOL  3   FLA  N19W64    SF                0356
+
+4570 +     2226   2230      2240  G12  5   XRA  1-8A      B9.4    5.2E-04       
+
+4590 +     2301   2304      2309  G12  5   XRA  1-8A      B6.1    2.3E-04       

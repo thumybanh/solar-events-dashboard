@@ -1,0 +1,33 @@
+:Product: 20000104events.txt
+:Created: 2000 Jan 07 0302 UT
+:Date: 2000 01 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6700       0154   ////      0155  LEA  C   RSP  030-08    III/2                 
+
+6710       0310   0356      0530  GO8  5   XRA  1-8A      B9.2    5.6E-03       
+
+6810       0618   0638      0645  GO8  5   XRA  1-8A      B7.2    8.0E-04       
+6810       0627   ////      0632  LEA  C   RSP  030-05    III/2                 
+
+6730 +     0959   1004      1012  GO8  5   XRA  1-8A      B4.8    3.5E-04       
+
+6740 +     1109   1114      1119  GO8  5   XRA  1-8A      C2.0    9.7E-04   8810
+6740       1112  U1112      1121  SVI  3   FLA  N38W44    SF      ERU       8810
+
+6750       1124   1124      1124  SVI  G   RBR  245       91                    
+
+6760       1428  U1428      1448  HOL  3   FLA  N35W46    SF                8810
+6760 +     1428   1442      1454  GO8  5   XRA  1-8A      C1.1    1.5E-03   8810
+
+6800       1926   ////      1926  SAG  C   RSP  030-05    III/1                 
+
+6870      A2031   ////      1212  RAM  3   DSF  N34E31    15      B.0A          

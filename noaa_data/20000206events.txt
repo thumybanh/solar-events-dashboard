@@ -1,0 +1,67 @@
+:Product: 20000206events.txt
+:Created: 2000 Feb 09 0302 UT
+:Date: 2000 02 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1490       0034   0038      0048  LEA  3   FLA  N20W35    SF                8851
+
+1500 +     0111   0115      0120  GO8  5   XRA  1-8A      C1.0    5.4E-04       
+
+1510 +     0215   0226      0236  GO8  5   XRA  1-8A      C2.2    2.3E-03   8858
+1510       0217   0220      0242  LEA  3   FLA  N24E57    SF                8858
+
+1520       0436   ////      0439  LEA  C   RSP  030-05    III/1                 
+
+1530       0502   0515      0529  GO8  5   XRA  1-8A      C1.1    1.7E-03       
+1530       0513   ////      0513  LEA  C   RSP  030-04    III/1                 
+
+1540 +     0714   0718      0722  GO8  5   XRA  1-8A      C1.7    6.2E-04   8858
+1540 +     0715   0715      0716  LEA  G   RBR  245       81                8858
+1540       0715   ////      0717  SVI  C   RSP  035-08    V/3               8858
+1540       0715   ////      0718  LEA  C   RSP  030-08    III/3             8858
+1540       0716   0716      0717  LEA  G   RBR  2695      26                8858
+1540       0717   0717      0723  SVI  3   FLA  N25E49    SF                8858
+
+1550 +     1159   1208      1220  GO8  5   XRA  1-8A      C1.8    2.0E-03   8855
+1550      B1205  U1206      1230  RAM  3   FLA  N19E00    SF                8855
+
+1660       1344   1402      1419  GO8  5   XRA  1-8A      C1.0    2.1E-03       
+
+1560       1529   ////      1530  SVI  U   RSP  036-08    III/2                 
+
+1590       1615   1648      1700  GO8  5   XRA  1-8A      C2.4    4.3E-03   8851
+1590 +     1619   1619      1621  SAG  G   RBR  245       350               8851
+1590       1641   1648      1713  HOL  3   FLA  N20W45    SF                8851
+
+1710 +    B1650   ////      1725  RAM  3   EPL  S17E90    0.23    B.9A          
+
+1620       1655   1655      1702  HOL  3   FLA  N06W24    SF                8861
+
+1720       1657   1657      1706  HOL  3   FLA  S19W32    SF                8857
+
+1600       1715   1720      1729  HOL  3   FLA  N20W46    SF                8851
+
+1630       1849   1853      1906  G10  5   XRA  1-8A      C1.6    1.5E-03   8851
+1630 +     1851   1851      1902  RAM  3   FLA  N19W45    SF                8851
+
+1640       2001   2001      2007  HOL  3   FLA  N07W25    SF                8861
+
+1650 +     2103   2107      2109  GO8  5   XRA  1-8A      C1.4    4.2E-04   8861
+1650       2103   2108      2112  HOL  3   FLA  N07W28    SF                8861
+
+1670       2123   2131      2152  HOL  3   FLA  S19W34    SF      ERU       8857
+
+1680       2156   2203      2207  GO8  5   XRA  1-8A      C1.3    8.0E-04   8861
+1680       2159   2204      2208  HOL  3   FLA  N06W29    SF                8861
+
+1730       2312   2341      2354  LEA  3   FLA  N27W48    SF                8851
+
+1690       2316   2321      2326  LEA  3   FLA  N06W27    SF                8861

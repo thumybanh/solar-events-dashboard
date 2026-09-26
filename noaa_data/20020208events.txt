@@ -1,0 +1,46 @@
+:Product: 20020208events.txt
+:Created: 2002 Feb 11 0300 UT
+:Date: 2002 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3860 +     0116   ////      0116  LEA  C   RSP  025-180   III/1                 
+
+3980       0411   0431      0449  GO8  5   XRA  1-8A      C2.22   4.3E-03       
+
+3870       0425   0425      0425  LEA  G   RBR  2695      27                    
+3870       0425   0425      0425  LEA  G   RBR  4995      53                    
+3870       0425   0425      0425  LEA  G   RBR  8800      57                    
+3870       0426   0426      0426  LEA  G   RBR  1415      40                    
+
+3890 +     0635   0640      0645  GO8  5   XRA  1-8A      C2.8    1.5E-03       
+
+3990       0857   0908      0924  GO8  5   XRA  1-8A      C1.87   2.7E-03       
+
+3900       0859   ////      0900  SVI  C   RSP  059-180   III/1                 
+3900 +     0900   0900      0900  SVI  G   RBR  245       59                    
+
+3920 +     0945   ////      0951  LEA  C   RSP  025-180   III/2                 
+3920 +     0950   0950      0950  SVI  G   RBR  245       170                   
+
+3930 +     1034   1043      1104  GO8  5   XRA  1-8A      C4.0    5.7E-03       
+
+3940       1144   ////      1144  SVI  C   RSP  051-144   III/1                 
+
+3950 +     1301   1301      1301  SVI  G   RBR  245       410                   
+
+3960       1533   1605      1616  GO8  5   XRA  1-8A      C1.98   4.6E-03       
+
+3970 +     1905   1905      1905  SAG  G   RBR  245       1000                  
+3970 +     1905   1905      1905  SAG  G   RBR  410       41                    
+3970 +     1905   1905      1905  SAG  G   RBR  606       39                    
+3970       1905   1905      1905  SAG  G   RBR  1415      28                    
+3970 +     1905   ////      1906  PAL  C   RSP  025-180   III/2                 
+3970       1905   ////      1906  SAG  C   RSP  030-075   V/2                   

@@ -1,0 +1,60 @@
+:Product: 20000808events.txt
+:Created: 2000 Aug 11 0302 UT
+:Date: 2000 08 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+350  +     0210   0217      0227  GO8  5   XRA  1-8A      C1.4    1.3E-03       
+
+540        0525   ////      0525  CUL  C   RSP  20-260    III/1                 
+
+360  +     0606   0620      0622  SVI  U   RBR  245       280                   
+360  +     0620   0620      0621  SVI  G   RBR  410       25                    
+360        0621   ////      0621  CUL  C   RSP  30-460    III/1                 
+
+550        0650   ////      0650  CUL  C   RSP  28-140    III/2                 
+
+520        0735   0752      0803  GO8  5   XRA  1-8A      C1.5    2.1E-03       
+
+380        0834   ////      0842  LEA  C   RSP  025-180   III/3                 
+
+420  +     1005   1005      1320  SVI  G   RNS  245       160                   
+
+390  +     1105   1115      1149  GO8  5   XRA  1-8A      M1.9    3.3E-02       
+390        1108   1114      1120       F   RBR  3000      28                    
+
+450        1143   ////      1930  SAG  C   RSP  030-080   CTM/2                 
+
+400        1227   1230      1230  SVI  G   RBR  410       58                    
+400        1229   1230      1235  SVI  G   RBR  245       78                    
+
+410        1259   ////      1301  HOL  C   RSP  025-156   III/1                 
+
+430        1344   ////      1344  HOL  C   RSP  025-140   III/1                 
+
+530        1538   1554      1620  G10  5   XRA  1-8A      C1.4    2.9E-03       
+
+440        1638   1638      1638  SAG  G   RBR  410       63                    
+
+460        2046   2046      2047  SAG  G   RBR  245       110                   
+
+470        2058   2058      2058  SAG  G   RBR  245       93                    
+
+480  +     2112   2117      2118  PAL  G   RBR  245       190                   
+480        2112   2121      2122  PAL  G   RBR  410       100                   
+
+490  +     2121   2121      2122  PAL  G   RBR  410       120                   
+
+580        2122   0310      0437  PAL  G   RNS  245       310                   
+
+500        2133   2133      2134  SAG  G   RBR  410       59                    
+
+510        2140   2141      2142  SAG  G   RBR  245       85                    
+510        2141   2141      2142  SAG  G   RBR  410       78                    

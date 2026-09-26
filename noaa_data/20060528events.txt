@@ -1,0 +1,17 @@
+:Product: 20060528events.txt
+:Created: 2006 May 31 0329 UT
+:Date: 2006 05 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 May 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6750       1128   ////      1128  SVI  U   RSP  025-083   III/2                 
+
+6760 +     1252   1257      1303  G12  5   XRA  1-8A      B1.6    7.9E-05   0890
+6760       1257   1259      1301  G12  5   XFL  S13W23    2.5E+02 4.8E+02   0890

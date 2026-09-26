@@ -1,0 +1,45 @@
+:Product: 20010801events.txt
+:Created: 2001 Aug 04 0302 UT
+:Date: 2001 08 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Aug 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1290       0023   ////      0026  PAL  C   RSP  025-180   III/1                 
+1290       0026   0026      0027  PAL  G   RBR  245       62                    
+
+1310 +     0105   0114      0124  GO8  5   XRA  1-8A      C1.2    1.1E-03       
+1310       0108   ////      0111  LEA  C   RSP  025-180   III/1                 
+
+1300 +     0110   0110      0111  LEA  G   RBR  245       530                   
+1300 +     0110   ////      0110  PAL  C   RSP  025-180   III/1                 
+
+1320       0128   ////      0454  PAL  C   RSP  025-180   CTM/1                 
+
+1330 +     0325   0350      0400  GO8  5   XRA  1-8A      C2.4    3.0E-03   9561
+1330 +     0329   0329      0330  PAL  G   RBR  245       120               9561
+1330       0329   0358      0428  LEA  3   FLA  S14E49    SF      ERU       9561
+
+1340 +     0442   ////      0443  CUL  C   RSP  57-180    III/1                 
+
+1400       0509   0515      0520  GO8  5   XRA  1-8A      B5.8    3.5E-04       
+
+1360 +     1005   1012      1017  GO8  5   XRA  1-8A      B5.4    3.1E-04       
+
+1370 +     1304   1310      1317  GO8  5   XRA  1-8A      B6.4    3.6E-04   9561
+1370 +     1308   1309      1316  RAM  3   FLA  S12E44    SF                9561
+
+1490      A1653   ////     B0528  SVI  2   DSF  S21E31    08      B.0A          
+
+1470 +    A1653   ////     B0031  COM  3   DSF  S11E26    20      B.0A          
+
+1480 +    A1653   ////     B0031  COM  3   DSF  S30W09    10      B.0A          
+
+1390       1724   1735      1747  GO8  5   XRA  1-8A      B4.8    5.4E-04   9561
+1390       1728   1737      1746  HOL  3   FLA  S14E43    SF      ERU       9561

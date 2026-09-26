@@ -1,0 +1,25 @@
+:Product: 20060503events.txt
+:Created: 2006 May 06 0329 UT
+:Date: 2006 05 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 May 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5940 +     0030   0035      0041  G12  5   XRA  1-8A      B2.4    1.3E-04   0877
+5940       0034   0034      0038  G12  5   XFL  S12W24    1.8E+02 3.3E+02   0877
+
+5950       0935   ////      0935  SVI  C   RSP  025-057   III/1                 
+
+6010      A1648   ////     B0630  SVI  1   DSF  S33W07    16      B.0A          
+
+5960 +     2227   ////      2229  CUL  C   RSP  20-90     III/1                 
+
+5970       2239   ////      2239  CUL  C   RSP  20-90     III/1                 
+
+5980       2247   ////      2253  CUL  C   RSP  20-100    III/1                 

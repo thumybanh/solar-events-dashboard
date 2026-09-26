@@ -1,0 +1,76 @@
+:Product: 20010417events.txt
+:Created: 2001 Apr 20 0302 UT
+:Date: 2001 04 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Apr 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1060       0325   0401      0412  GO8  5   XRA  1-8A      C5.8    8.7E-03       
+
+910        0350   ////      0350  CUL  C   RSP  50-100    III/1                 
+
+920  +     0358   ////      0358  CUL  C   RSP  23-100    III/1                 
+
+930  +     0433   ////      0433  LEA  C   RSP  025-090   III/1                 
+
+940  +     0455   0502      0518  GO8  5   XRA  1-8A      C1.6    2.0E-03       
+
+1050       0541   0552      0611  GO8  5   XRA  1-8A      C4.7    7.1E-03       
+
+950  +     0615   0616      0616  SVI  G   RBR  410       77                    
+
+960        0617   ////      0617  SVI  C   RSP  031-063   III/1                 
+
+1160       0618   ////      0618  CUL  C   RSP  30-80     III/1                 
+
+970  +     0735   0736      0736  SVI  G   RBR  245       60                    
+970        0735   0735      0736  SVI  G   RBR  410       28                    
+
+980        0807   ////      0809  SVI  C   RSP  025-054   III/1                 
+
+1090       0814   ////      1707  SVI  C   RSP  025-155   CTM/1                 
+
+990        0816   0817      0817  SVI  G   RBR  245       77                    
+
+1230      A0928   ////      2322  LEA  3   DSF  S45W15    10      B.0A          
+
+1240      A0928   ////      2322  LEA  3   DSF  S37W53    07      B.0A          
+
+1000       1015   ////      1017  SVI  C   RSP  029-080   III/1                 
+
+1010 +     1106   1106      1106  SVI  G   RBR  245       88                    
+
+1020       1139   1139      1140  SAG  G   RBR  245       250                   
+1020 +     1139   ////      1140  SVI  C   RSP  025-180   III/2                 
+
+1030       1149   1149      1150  SAG  G   RBR  606       88                    
+
+1070       1206   1229      1250  GO8  5   XRA  1-8A      C1.9    4.4E-03       
+
+1130       1226   1226      1408  SAG  G   RNS  245       130                   
+
+1080       1344   1401      1415  GO8  5   XRA  1-8A      C2.2    3.7E-03       
+
+1100 +     1419   ////      1424  HOL  C   RSP  025-084   III/1                 
+1100       1423   ////      1424  SAG  C   RSP  030-069   V/1                   
+
+1110 +     1500   ////      1502  HOL  C   RSP  025-132   III/1                 
+
+1140       1807   1853      1904  G10  5   XRA  1-8A      C2.5    6.3E-03       
+
+1120 +     1826   ////      1828  HOL  C   RSP  025-099   III/1                 
+
+1150 +     2118   2157      2216  GO8  5   XRA  1-8A      M1.3    2.9E-02       
+1150 +     2147   ////      2148  HOL  C   RSP  025-069   III/1                 
+
+1170       2249   ////      2249  SAG  C   RSP  030-050   III/1                 
+
+1180       2319   ////      2320  HOL  C   RSP  025-051   III/1                 
+
+1190 +     2338   ////      2338  PAL  C   RSP  025-055   III/1                 

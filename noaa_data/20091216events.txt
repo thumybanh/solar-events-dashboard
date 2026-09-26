@@ -1,0 +1,50 @@
+:Product: 20091216events.txt
+:Created: 2009 Dec 18 2232 UT
+:Date: 2009 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2009 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2800       0102   0124      0135  G14  5   XRA  1-8A      C5.3    4.9E-04   1035
+2800       0115   0121      0143  LEA  3   FLA  N30W06    SF      ERU       1035
+2800 +     0124   0124      0124  LEA  G   RBR  606       140               1035
+2800 +     0124   0124      0124  LEA  G   RBR  1415      100               1035
+
+2810 +     0223   0223      0224  LEA  G   RBR  410       100                   
+2810 +     0223   0223      0225  LEA  G   RBR  606       230                   
+
+2820 +     0229   0231      0231  LEA  G   RBR  606       280                   
+2820 +     0230   0230      0231  LEA  G   RBR  410       280                   
+
+2830 +     0244   0245      0247  LEA  G   RBR  606       240                   
+2830 +     0244   0245      0246  LEA  G   RBR  1415      580                   
+2830 +     0245   0246      0246  LEA  G   RBR  410       180                   
+
+2920       0247   ////      0547  LEA  C   RSP  025-180   CTM/1                 
+
+2840       0252   0252      0252  LEA  G   RBR  606       100                   
+
+2850       0317   0320      0326  G14  5   XRA  1-8A      B6.4    2.4E-04    
+
+2860       0725   0728      0734  G14  5   XRA  1-8A      B3.0    1.0E-04    
+
+2870       0745   0801      0816  G14  5   XRA  1-8A      B6.9    9.0E-04   
+
+2880       0834   0837      0839  G14  5   XRA  1-8A      B8.6    8.6E-05   1035
+2880       0837   0837      0840  LEA  3   FLA  N31W09    SF                1035
+
+2890       1028   1036      1042  G14  5   XRA  1-8A      B7.8    3.5E-04    
+
+2900       1101   1104      1107  G14  5   XRA  1-8A      B3.9    8.0E-05    
+
+2910       1236   1302      1320  G14  5   XRA  1-8A      C3.7    4.8E-03   1035
+
+2930       2135   2144      2205  HOL  3   FLA  N29W17    SF      ERU       1035
+2930 +     2135   2149      2225  G14  5   XRA  1-8A      C1.4              1035
+2930       2212   ////      2352  LEA  C   RSP  068-107   IV/1              1035

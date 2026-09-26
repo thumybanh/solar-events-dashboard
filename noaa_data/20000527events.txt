@@ -1,0 +1,65 @@
+:Product: 20000527events.txt
+:Created: 2000 May 30 0302 UT
+:Date: 2000 05 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3700       0037   0039      0042  HOL  3   FLA  S21W14    SF                9018
+
+3940       0215   ////      0218  LEA  C   RSP  030-04    III/1                 
+
+3710 +     0440   ////      0440  LEA  C   RSP  030-08    III/2                 
+
+3730 +     0607   ////      0608  LEA  C   RSP  030-08    III/2                 
+
+3740 +     0759   ////      0800  SVI  C   RSP  035-08    III/2                 
+
+3750 +     0814   ////      0815  SVI  C   RSP  035-08    III/2                 
+
+3760 +     0836   0843      0846  GO8  5   XRA  1-8A      C2.4    1.1E-03       
+3760       0838   0838      0838  LEA  G   RBR  245       53                    
+
+3770       0904   ////      0904  LEA  C   RSP  030-08    III/2                 
+
+3780       0908   ////      0908  LEA  C   RSP  035-05    III/1                 
+
+3790       1023   ////      1023  SVI  U   RSP  035-08    III/1                 
+
+3800       1024   1038      1055  GO8  5   XRA  1-8A      C1.1    1.9E-03       
+
+3810       1242   ////      1242  SVI  C   RSP  039-05    III/1                 
+
+3820       1316   ////      1318  SVI  C   RSP  035-06    III/1                 
+
+3830 +     1337   1337      1337  SVI  G   RBR  410       62                    
+
+3840 +     1353   1403      1425  RAM  3   FLA  S20W23    SF                9018
+
+3850       1417   1417      1421  HOL  3   FLA  N21W44    SF      ERU       9010
+
+3860       1445   ////      1445  SVI  C   RSP  035-08    III/1                 
+
+3870 +     1549   1550      1600  RAM  3   FLA  S12E43    SF                9017
+
+3880 +     1618   ////      1619  SVI  C   RSP  035-08    III/2                 
+
+3890       1622   1629      1633  GO8  5   XRA  1-8A      B8.1    4.8E-04   9017
+3890       1627   1629      1636  RAM  3   FLA  S16E43    SF                9017
+
+3900 +     1852   ////      1855  SAG  C   RSP  030-08    III/2                 
+
+3910       2012   2012      2012  SAG  G   RBR  245       50                    
+3910 +     2012   ////      2014  PAL  C   RSP  025-18    III/1                 
+
+3920 +     2320   2328      2345  HOL  3   FLA  S21W27    SF                9018
+
+3930 +     2332   2335      2338  HOL  3   FLA  S36W53    SF                9019
+
+3970      B2358  U0007     A0020  LEA  2   FLA  S36W50    SF                9019

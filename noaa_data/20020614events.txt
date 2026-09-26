@@ -1,0 +1,56 @@
+:Product: 20020614events.txt
+:Created: 2002 Jun 17 0300 UT
+:Date: 2002 06 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6020       0000   0004      0018  HOL  3   FLA  N19E81    SF                    
+
+6080 +     0040   0040      0041  LEA  G   RBR  245       65                    
+
+6090       0046   0046      0046  LEA  G   RBR  245       64                    
+
+6250       0058   0107      0116  GO8  5   XRA  1-8A      B7.9    7.4E-04       
+
+6100       0155   ////      0155  LEA  C   RSP  047-180   III/1                 
+
+6110       0230   ////      0231  LEA  C   RSP  025-102   III/1                 
+
+6120       0253   0254      0254  LEA  G   RBR  245       57                    
+
+6130       0357   ////      0357  LEA  C   RSP  102-176   III/1                 
+
+6140 +     0518   0518      0519  LEA  G   RBR  245       140                   
+
+6150 +     0542   ////      0550  LEA  C   RSP  075-154   III/1                 
+
+6160       0815   0815      0815  SVI  G   RBR  245       220                   
+
+6260       0908   0923      0937  GO8  5   XRA  1-8A      B7.6    1.2E-03       
+
+6170       0920   0921      0921  LEA  G   RBR  245       91                    
+
+6180      U0925   0925     U0929  LEA  G   RBR  245       210                   
+6180 +     1004   1020      1038  GO8  5   XRA  1-8A      C1.3    2.5E-03       
+
+6200       1135   1201      1259  RAM  3   FLA  N21E75    SF      DSD           
+
+6210       1628   1628      1628  SAG  G   RBR  245       57                    
+
+6220       1835   1835      1835  SAG  G   RBR  245       65                    
+
+6230       1855   1855      1855  PAL  G   RBR  245       120                   
+
+6190 +     2008   2103      0438  PAL  G   RNS  245       260                   
+
+6240 +     2018   2140      2208  GO8  5   XRA  1-8A      C1.0    5.4E-03   0001
+6240       2137   2137      2143  RAM  3   FLA  N21E71    SF                0001
+
+6340       2348   0058      0125  GO8  5   XRA  1-8A      C1.7    7.0E-03       

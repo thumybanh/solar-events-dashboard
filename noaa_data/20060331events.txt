@@ -1,0 +1,27 @@
+:Product: 20060331events.txt
+:Created: 2006 Apr 03 0329 UT
+:Date: 2006 03 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Mar 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1910       0853   0858      0904  G12  5   XRA  1-8A      B1.1    6.6E-05       
+
+1980       0917   0921      0930  SVI  G   RBR  245       80                    
+
+1920 +     1002   1007      1012  G12  5   XRA  1-8A      B1.3    6.9E-05       
+
+1940 +     1622   1627      1640  G12  5   XRA  1-8A      B1.3    1.2E-04       
+
+1950 +     1714   1748      1758  G12  5   XRA  1-8A      B2.3    3.8E-04   0865
+1950       1753   1753      1753  G12  5   XFL  S12E23    5.0E+01 8.2E+01   0865
+
+1960       2146   2149      2153  G10  5   XRA  1-8A      B1.0    4.0E-05       
+
+1970 +     2211   2214      2217  G12  5   XRA  1-8A      B1.0    3.4E-05       

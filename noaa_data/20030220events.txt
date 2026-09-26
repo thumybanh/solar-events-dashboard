@@ -1,0 +1,56 @@
+:Product: 20030220events.txt
+:Created: 2003 Feb 23 0302 UT
+:Date: 2003 02 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8020       0052   0052      0052  LEA  G   RBR  245       64                    
+
+8030       0156   0156      0156  LEA  G   RBR  245       52                    
+
+8040 +     0218   0225      0235  GO8  5   XRA  1-8A      B6.4    5.6E-04       
+
+8050 +     0256   0306      0316  GO8  5   XRA  1-8A      C1.7    1.5E-03       
+
+8060       0424   0424      0424  LEA  G   RBR  245       56                    
+
+8070       0432   0432      0432  LEA  G   RBR  245       64                    
+
+8090 +     0447   0447      0820  LEA  G   RNS  245       120                   
+
+8080 +     0522   0525      0531  GO8  5   XRA  1-8A      B5.4    2.7E-04       
+
+8100 +     1046   1051      1059  GO8  5   XRA  1-8A      B4.6    3.2E-04       
+
+8110 +     1221   1225      1227  GO8  5   XRA  1-8A      B5.9    1.6E-04   0290
+8110      B1224  U1224      1231  RAM  3   FLA  N18E28    SF                0290
+
+8120 +     1247   1251      1254  GO8  5   XRA  1-8A      B6.0    2.3E-04   0290
+8120      B1249  U1249      1302  RAM  3   FLA  N19E28    SF                0290
+
+8130       1348   1354      1358  G10  5   XRA  1-8A      B7.0    3.6E-04       
+
+8140 +     1422   1426      1431  GO8  5   XRA  1-8A      B4.9    2.4E-04       
+
+8150 +     1450   1453      1456  GO8  5   XRA  1-8A      B4.7    1.5E-04       
+
+8270 +    A1526   ////     B0624  SVI  3   DSF  ////      06      B.0A      0000
+
+8280      A1526   ////     B0624  SVI  3   DSF  ////      15      B.0A      0000
+
+8160 +     1642   1645      1648  GO8  5   XRA  1-8A      B4.6    1.5E-04       
+
+8170       1658   1701      1705  G10  5   XRA  1-8A      B5.2    1.9E-04       
+
+8180 +     1728   1733      1735  GO8  5   XRA  1-8A      C1.3    3.3E-04       
+
+8190 +     1834   1842      1903  GO8  5   XRA  1-8A      B6.5    9.1E-04       
+
+8200       2132   2135      2139  G10  5   XRA  1-8A      B5.6    2.1E-04       

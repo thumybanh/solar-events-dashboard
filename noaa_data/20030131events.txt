@@ -1,0 +1,31 @@
+:Product: 20030131events.txt
+:Created: 2003 Feb 03 0302 UT
+:Date: 2003 01 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5890 +     0530   0606      0643  GO8  5   XRA  1-8A      C2.2    7.5E-03       
+
+5910       0709   0720      0737  GO8  5   XRA  1-8A      C1.5    2.2E-03       
+
+5920       1259   1321      1343  GO8  5   XRA  1-8A      C1.4    2.9E-03       
+
+5930       1849   ////      1849  HOL  C   RSP  025-086   III/1                 
+
+5940 +     2045   2048      2051  GO8  5   XRA  1-8A      B7.1    1.9E-04       
+
+5990 +     2121   ////      2235  HOL  2   DSF  ////      05      B.0A      0000
+
+5950       2200   ////      2230  HOL  3   EPL  ////      0.21    B.9A      0000
+5950 +     2209   ////      2219  HOL  C   RSP  030-086   II/1    501       0000
+
+5960 +     2241   2245      2250  GO8  5   XRA  1-8A      B7.9    3.5E-04       
+
+5970 +     2332   2335      2338  GO8  5   XRA  1-8A      B7.5    2.3E-04       

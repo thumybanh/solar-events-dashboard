@@ -1,0 +1,96 @@
+:Product: 20240515events.txt
+:Created: 2024 May 18 0357 UT
+:Date: 2024 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3120 +     0000   ////      0827  LEA  C   RSP  091-180   CTM/1                 
+
+3100       0010   0010      0010  LEA  G   RBR  245       230                   
+
+3110       0156   0156      0200  LEA  1   FLA  N22W36    SF                3671
+
+3130       0215   ////      0248  LEA  3   SPY  ////      13                    
+
+3140       0410   ////      0827  SVI  C   RSP  110-180   CTM/1             3679
+3140 +    U0416   0416      0416  LEA  G   RBR  245       110               3679
+3140 +     0417   0425      0433  G16  5   XRA  1-8A      C5.5    6.2E-03   3679
+3140       0422   0422      0427  LEA  3   FLA  S10E44    SF                3679
+3140 +     0429   0432      0433  LEA  G   RBR  410       170               3679
+
+3230       0443   0456      0507  LEA  3   FLA  N22W38    SF                3671
+
+3150 +     0620   0625      0629  G16  5   XRA  1-8A      C5.7    2.5E-03       
+
+3160 +     0711   0720      0722  G16  5   XRA  1-8A      C5.8    5.3E-03   3670
+
+3240       0722   0742      0813  G16  5   XRA  1-8A      C9.9    2.2E-03   3670
+
+3250       0813   0816      0820  G16  5   XRA  1-8A      C9.9    4.3E-03   3664
+
+3160 +     0815   ////      0821  SVI  C   RSP  025-180   III/3                 
+3160 +     0815   ////      0848  LEA  C   RSP  025-180   VI/3                  
+3160 +     0827   ////      0911  SVI  C   RSP  025-180   IV/1                  
+3160 +     0829   0831      0842  SVI  G   RBR  4995      710     CastelliU     
+3160 +     0829   0834      0842  SVI  G   RBR  8800      1300    CastelliU     
+3160 +     0830   0834      0841  SVI  G   RBR  15400     2000    CastelliU     
+3160 +     0830   0831      0835  SVI  G   RBR  2695      450     CastelliU     
+3160 +     0830   0832      0836  SVI  G   RBR  245       14000   CastelliU     
+3160 +     0831   0831      0834  SVI  G   RBR  1415      240     CastelliU     
+3160 +     0831   0832      0833  SVI  G   RBR  410       3200    CastelliU     
+
+3170       0945   0947      0956  SVI  G   RBR  1415      220                   
+3170       0947   0953      1003  SVI  G   RBR  2695      170                   
+3170       0950   0953      1000  SVI  G   RBR  4995      120                   
+
+3180 +     1037   ////      1042  SVI  C   RSP  025-085   III/1                 
+3180       1039   1041      1053  SVI  G   RBR  4995      370                   
+3180       1039   1044      1056  SVI  G   RBR  8800      290                   
+3180       1039   1044      1048  SVI  G   RBR  2695      250                   
+3180       1040   1044      1050  SVI  G   RBR  15400     150                   
+
+3190       1044   1044      1057  SVI  G   RBR  245       110                   
+
+3200       1142   1150      1211  SVI  G   RBR  2695      150                   
+3200       1144   1151      1158  SVI  G   RBR  4995      130                   
+3200       1145   1151      1200  SVI  G   RBR  8800      130                   
+
+3270       1356   1406      1410  G16  5   XRA  1-8A      M2.9    2.5E-02   3685
+
+3260       1410   1417      1420  G16  5   XRA  1-8A      M3.2    3.0E-02   3685
+
+3210       1420   1438      1451  G16  5   XRA  1-8A      X2.9    3.6E-01   3685
+3210 +     1424   1424      1424  SVI  G   RBR  8800      100                   
+3210 +     1427   ////      1431  SAG  C   RSP  025-180   III/1                 
+3210 +     1427   ////      1523  SAG  C   RSP  025-180   IV/1                  
+3210 +     1428   ////      1441  SVI  C   RSP  025-048   II/1    559           
+3210       1430   1432      1438  SVI  G   RBR  4995      180                   
+3210       1431   1432      1439  SVI  G   RBR  15400     120                   
+3210       1434   1436      1437  SVI  G   RBR  2695      110                   
+
+3220 +     1629   ////      1629  SVI  C   RSP  025-081   III/1                 
+
+3280       1827   ////      1829  SAG  C   RSP  025-061   III/1                 
+
+3290       1835   1836      1839  HOL  3   FLA  S22W03    SF      DSD       3683
+
+3300       1929   ////      1959  PAL  C   RSP  025-075   VI/1                  
+
+3310       2036   2036      2036  PAL  G   RBR  2695      120                   
+
+3320       2036   2038      2041  PAL  G   RBR  410       4000              3676
+3320       2036   2038      2038  PAL  G   RBR  245       8600              3676
+3320       2037   2038      2040  HOL  3   FLA  S19W29    SF                3676
+3320       2037   ////      2044  PAL  C   RSP  025-180   III/2             3676
+3320       2037   2038      2039  PAL  G   RBR  610       470               3676
+
+3330 +     2124   ////      2124  SAG  C   RSP  025-103   III/1                 
+
+3340       2329   2332      2350  HOL  3   FLA  S08E34    SF                3679

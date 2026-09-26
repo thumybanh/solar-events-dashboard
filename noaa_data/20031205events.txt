@@ -1,0 +1,42 @@
+:Product: 20031205events.txt
+:Created: 2003 Dec 06 2102 UT
+:Date: 2003 12 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Dec 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3320       0000   ////      0000  CUL  C   RSP  20-180    CTM/1                 
+
+3290 +     0011   0016      0020  G12  5   XRA  1-8A      B8.4    4.0E-04       
+
+3330       0254   ////      0256  CUL  C   RSP  27-200    III/3                 
+
+3340       0640   ////      1123  SVI  C   RSP  035-180   CTM/1             0510
+
+3400       0700   ////      1200  IZM  F   RNS  204       10                    
+
+3340       0733   0733      0738  LEA  3   FLA  S23W75    SF                0510
+
+3350 +     0800   0804      0807  G12  5   XRA  1-8A      B6.2    2.2E-04       
+
+3540      A0915   ////     B0007  LEA  2   DSF  S15W14    13      B.0A      0516
+
+3360 +     1011   1019      1028  G12  5   XRA  1-8A      C1.8    1.5E-03   0513
+
+3370       1152   ////      1152  SVI  C   RSP  032-180   III/1                 
+
+3380       1229   ////      1233  SVI  C   RSP  031-166   III/1                 
+
+3390 +     1302   1305      1308  G12  5   XRA  1-8A      B5.3    1.7E-04       
+
+3410 +     1343   1347      1357  G12  5   XRA  1-8A      C1.1    7.9E-04       
+
+3420 +     1519   1527      1531  G12  5   XRA  1-8A      C1.5    7.7E-04       
+
+3430 +     2045   2112      2122  G12  5   XRA  1-8A      C1.8    3.0E-03       

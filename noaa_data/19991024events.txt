@@ -1,0 +1,64 @@
+:Product: 19991024events.txt
+:Created: 1999 Oct 27 0303 UT
+:Date: 1999 10 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Oct 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5540 +     0127   0130      0134  GO8  5   XRA  1-8A      C1.7    5.2E-04       
+
+5550 +     0328   0328      0330  LEA  G   RBR  245       98                    
+5550       0329   ////      0329  CUL  C   RSP  100-18    III/1                 
+
+5730       0502   ////      0505  CUL  C   RSP  20-150    III/1                 
+
+5570 +     0630   ////      0632  CUL  C   RSP  30-180    III/1                 
+
+5580       0651   ////      0652  SVI  U   RSP  039-04    III/1                 
+
+5590       0705   ////      0705  LEA  U   RSP  030-05    III/1                 
+
+5600 +     0714   0714      0714  LEA  G   RBR  245       110                   
+5600 +     0714   ////      0715  CUL  C   RSP  20-180    III/1                 
+
+5670       0750   0800      0804  GO8  5   XRA  1-8A      C1.0    7.2E-04       
+
+5680       0940   0957      1003  GO8  5   XRA  1-8A      C1.5    1.6E-03       
+
+5620      U1210  U1250      1355  SAG  G   RNS  245       60                    
+
+5610       1250   1250      1250  SVI  U   RBR  245       110                   
+
+5630       1518   1547      1553  HOL  3   FLA  S15W51    SF                8737
+
+5640 +     1602   1606      1608  GO8  5   XRA  1-8A      C2.1    6.3E-04   8741
+5640       1603   ////      1605  SAG  C   RSP  030-05    III/1             8741
+5640       1604   1605      1607  SAG  G   RBR  410       910               8741
+5640       1605   1605      1607  SAG  G   RBR  245       870               8741
+5640       1605   1605      1607  SAG  G   RBR  606       66                8741
+5640 +     1605   1606      1620  HOL  3   FLA  S26E34    SF                8741
+
+5650 +     1857   1904      1917  GO8  5   XRA  1-8A      C1.0    1.2E-03       
+
+5660       2127   2127      2131  HOL  3   FLA  S26E36    SF                8741
+
+5740       2145   ////      2146  CUL  C   RSP  23-90     III/1                 
+
+5690       2241   2241      2245  HOL  3   FLA  N06E70    SF                8742
+
+5700       2302   2303      2303  LEA  G   RBR  245       89                    
+
+5710       2313   2314      2315  LEA  G   RBR  245       180               8742
+5710       2314   2317      2322  HOL  3   FLA  N10E69    SF                8742
+
+5720       2337   2338      2338  LEA  G   RBR  245       110                   
+
+6040      A2349   ////      1434  HOL  3   DSF  S54E35    63      B.0A          
+
+6030      A2349   ////      1434  HOL  3   DSF  S17E48    05      B.0A          

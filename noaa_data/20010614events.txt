@@ -1,0 +1,60 @@
+:Product: 20010614events.txt
+:Created: 2001 Jun 17 0302 UT
+:Date: 2001 06 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jun 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4390      B0101  U0112     A0120  LEA  2   FLA  N20W55    SF                9489
+
+4600       0205   0219      0239  GO8  5   XRA  1-8A      C3.2    5.5E-03       
+
+4410       0304   0305      0316  LEA  3   FLA  N23W72    SF                9487
+
+4420 +     0344   0349      0358  GO8  5   XRA  1-8A      C3.4    2.5E-03   9489
+4420       0346   0350      0410  LEA  3   FLA  N19W55    SF                9489
+
+4500       0500   0000      1200       F   RNS  204       5                     
+
+4450 +     0631   0631      0633  LEA  G   RBR  245       130                   
+
+4460       0729   0730      0730  SVI  G   RBR  245       58                    
+
+4470       0737   ////      0737  SVI  U   RSP  025-083   III/1                 
+
+4480       0820   0821      0823  LEA  G   RBR  410       58                    
+
+4490 +     0933   0943      1037  GO8  5   XRA  1-8A      C6.5    2.0E-02   9489
+4490       0935   0936      0938  SVI  U   RBR  606       46                9489
+4490       0935   0939      0940       F   RBR  3000      17                9489
+4490       0936   0936      0939  SVI  G   RBR  410       38                9489
+4490       0936   0938      0939  SVI  G   RBR  4995      59                9489
+4490       0936   0938      0939  SVI  G   RBR  8800      43                9489
+4490       0937   0938      1002  SVI  2   FLA  N19W58    SF      ERU       9489
+4490       0944   0944      0945  SVI  G   RBR  245       120               9489
+
+4500 +     0955   0957      1005  SVI  G   RNS  245       110                   
+
+4540       1005   1006      1018  SVI  3   FLA  N20W34    SF      ERU       9492
+
+4550 +     1231   1231      1231  SVI  G   RBR  245       76                    
+
+4560 +     1300   ////      1300  SAG  C   RSP  030-060   III/1                 
+
+4570       1529   1529      1529  SAG  G   RBR  245       56                    
+
+4580       1535   ////      1545  SAG  C   RSP  030-055   III/1                 
+
+4590 +     1659   1703      1713  GO8  5   XRA  1-8A      C4.4    2.7E-03   9495
+4590 +     1700   1700      1700  SAG  G   RBR  2695      34                9495
+4590 +     1701   1702      1702  SAG  G   RBR  1415      69                9495
+4590 +     1702   1702      1703  PAL  G   RBR  4995      36                9495
+4590 +     1702   1703      1711  HOL  3   FLA  N03W45    SF      DSD       9495
+
+4610       2004   2014      2024  GO8  5   XRA  1-8A      C2.9    3.0E-03       

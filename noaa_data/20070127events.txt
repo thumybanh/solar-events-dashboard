@@ -1,0 +1,20 @@
+:Product: 20070127events.txt
+:Created: 2007 Jan 31 2332 UT
+:Date: 2007 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8250 +     0119   0124      0128  G12  5   XRA  1-8A      B1.3    5.6E-05   0940
+
+8260       2147   ////      2147  PAL  C   RSP  025-180   III/1                 
+
+8270 +     2252   2305      2356  G12  5   XRA  1-8A      B3.2    9.5E-04   0940
+8270       2257   2309      2333  G12  5   XFL  S03E59    8.0E+02 1.8E+03   0940
+8270       2323   ////      0028  LEA  C   RSP  047-126   CTM/1             0940

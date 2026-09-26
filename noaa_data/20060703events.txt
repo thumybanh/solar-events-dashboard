@@ -1,0 +1,50 @@
+:Product: 20060703events.txt
+:Created: 2006 Jul 06 0329 UT
+:Date: 2006 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8360 +     0206   ////      0206  LEA  C   RSP  025-093   III/1                 
+
+8370 +     0255   ////      0255  LEA  C   RSP  025-180   III/2                 
+
+8380 +     0444   ////      0449  SVI  C   RSP  037-180   III/1                 
+
+8390 +     0449   ////      0450  LEA  C   RSP  025-180   III/1                 
+
+8400 +     0508   ////      0508  LEA  C   RSP  025-126   III/1                 
+
+8410 +     0537   ////      0538  LEA  C   RSP  025-157   III/1                 
+
+8420 +     0556   ////      0556  SVI  C   RSP  025-141   III/2                 
+
+8430 +     0640   ////      0641  LEA  C   RSP  025-148   III/2                 
+
+8440 +     0810   ////      0813  LEA  C   RSP  025-148   III/1                 
+
+8450 +     0907   ////      0908  SVI  C   RSP  025-180   III/2                 
+8450       0908   0908      0908  LEA  G   RBR  245       140                   
+
+8460       0938   ////      0939  SVI  C   RSP  025-081   III/2                 
+
+8470 +     1212   ////      1213  SVI  C   RSP  025-180   III/1                 
+
+8480 +     1242   ////      1243  SVI  C   RSP  025-153   III/1                 
+
+8490 +     1305   1309      1312  G12  5   XRA  1-8A      B1.1    4.4E-05       
+
+8500       1348   ////      1348  SVI  C   RSP  025-068   III/1                 
+
+8510 +     1618   ////      1623  SAG  C   RSP  030-180   III/1                 
+
+8520 +     1902   1908      1913  G12  5   XRA  1-8A      B1.2    7.1E-05       
+8520       1910   1910      1910  G12  5   XFL  N47W02    7.5E+01 5.4E+02       
+
+8530       2209   2304      2337  G12  5   XRA  1-8A      C1.2    3.4E-03   0898

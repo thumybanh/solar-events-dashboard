@@ -1,0 +1,27 @@
+:Product: 20000127events.txt
+:Created: 2000 Jan 30 0302 UT
+:Date: 2000 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+310        0234   0238      0244  G10  5   XRA  1-8A      B6.3    3.5E-04       
+
+320        0507   0509      0513  LEA  4   FLA  N04W51    SF                8844
+
+340        1029   ////      1440  SVI  C   RSP  035-06    CTM/1                 
+
+330        1238   1238      1238  SVI  G   RBR  245       71                    
+
+350        1948   1955      2000  HOL  3   FLA  S09E71    SF                8848
+
+360        2201   2201      2201  PAL  G   RBR  245       170                   
+360        2201   2201      2202  PAL  G   RBR  410       390                   
+
+370        2235   2238      2240  HOL  3   FLA  S09E69    SF                8848

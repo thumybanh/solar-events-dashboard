@@ -1,0 +1,80 @@
+:Product: 19991019events.txt
+:Created: 1999 Oct 22 0302 UT
+:Date: 1999 10 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Oct 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4120 +     0016   ////      0016  CUL  C   RSP  30-150    III/1                 
+
+4130 +     0104   ////      0104  CUL  C   RSP  30-75     III/1                 
+
+4150 +     0244   ////      0245  CUL  C   RSP  30-150    III/1                 
+
+4140 +     0305   0320      0326  GO8  5   XRA  1-8A      C5.1    3.9E-03       
+
+4160 +     0441   ////      0443  CUL  C   RSP  20-140    III/2                 
+
+4380       0512   ////      0516  CUL  C   RSP  20-180    III/1                 
+
+4170       0515   0532      0544  GO8  5   XRA  1-8A      C2.9    4.2E-03       
+4170 +     0515   ////      0515  LEA  C   RSP  30-80     III/2                 
+
+4390 +     0525   ////      0530  CUL  C   RSP  18-180    III/2                 
+
+4170 +     0526   0526      0527  LEA  G   RBR  245       56                    
+
+4200 +     0620   ////      0620  CUL  C   RSP  25-180    III/2                 
+
+4180 +     0658   0703      0714  GO8  5   XRA  1-8A      C3.1    2.3E-03   8732
+4180      B0714  U0715      0720  SVI  3   FLA  N19W40    SF                8732
+
+4250 +    B0729   ////      1027  COM  3   BSL  S45E90    0.33                  
+
+4190 +     0810   0814      0819  GO8  5   XRA  1-8A      C1.7    8.3E-04       
+4190       0812   0813      0821  SVI  3   FLA  N20W40    SF                8732
+
+4210 +     0911   0918      0920  GO8  5   XRA  1-8A      C3.0    1.1E-03   8732
+4210       0914  U0915     A0923  SVI  3   FLA  N19W40    SF                8732
+
+4220       0930   ////      0930  LEA  C   RSP  035-04    III/1                 
+
+4230       1002  U1008     A1016  SVI  3   FLA  N07W33    SF                8731
+
+4340       1019   1026      1030  GO8  5   XRA  1-8A      C1.3    8.2E-04       
+
+4240      B1027  U1037     A1100  COM  3   FLA  N19W41    SF                8732
+4240 +     1034   1040      1049  GO8  5   XRA  1-8A      C2.5    1.8E-03   8732
+
+4260 +     1322   1326      1329  GO8  5   XRA  1-8A      C1.3    4.7E-04       
+4260       1324   1325      1332  RAM  3   FLA  N19W45    SF                8732
+
+4270 +     1359   1407      1415  GO8  5   XRA  1-8A      C2.7    1.9E-03       
+4270       1414   1417      1421  RAM  3   FLA  S15E19    SF                8737
+
+4280       1707   1716      1721  GO8  5   XRA  1-8A      C1.1    7.8E-04   8737
+4280 +     1715   1715      1722  RAM  3   FLA  S15E19    SF                8731
+
+4290       1754   1802      1808  GO8  5   XRA  1-8A      C1.0    7.7E-04   8731
+4290 +     1757   1758      1820  RAM  3   FLA  N12W44    SF                8731
+
+4300 +     1911   1916      1920  GO8  5   XRA  1-8A      C1.6    7.8E-04       
+
+4310 +     1926   1941      1953  GO8  5   XRA  1-8A      C8.7    9.1E-03       
+4310       1930   1935      1954  HOL  3   FLA  N17W50    SF      ERU       8732
+
+4320 +     2021   2025      2028  GO8  5   XRA  1-8A      C3.1    1.1E-03   8732
+4320       2022   2024      2033  HOL  3   FLA  N20W50    SF      ERU       8732
+
+4330 +     2156   2204      2216  GO8  5   XRA  1-8A      C7.3    5.9E-03       
+4330       2158   2202      2223  HOL  3   FLA  N18W54    1F      ERU       8732
+
+4370       2217   ////      2217  CUL  C   RSP  23-90     III/1                 
+
+4360 +     2331   ////      2331  CUL  C   RSP  23-90     III/1                 

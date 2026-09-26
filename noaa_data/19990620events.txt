@@ -1,0 +1,89 @@
+:Product: 19990620events.txt
+:Created: 1999 Jun 23 0302 UT
+:Date: 1999 06 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jun 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1570 +     0038   ////      0039  PAL  C   RSP  025-07    III/2                 
+
+1580 +     0056   0100      0105  GO8  5   XRA  1-8A      C1.9    8.7E-04       
+
+1590 +     0256   ////      0257  CUL  C   RSP  23-100    III/1                 
+
+1600 +     0433   0436      0438  GO8  5   XRA  1-8A      C1.4    3.2E-04       
+
+1610 +     0454   0501      0506  GO8  5   XRA  1-8A      C4.2    2.0E-03       
+1610 +     0456   ////      0500  CUL  C   RSP  18-100    III/2                 
+
+1900       0507   ////      0507  CUL  C   RSP  60-140    III/1                 
+
+1910       0605   ////      0605  CUL  C   RSP  20-80     III/1                 
+
+1620 +     0711   0716      0723  GO8  5   XRA  1-8A      C1.8    1.1E-03       
+
+1630       0747   0752      0755  G10  5   XRA  1-8A      C1.3    5.9E-04       
+
+1640 +     0833   0840      0847  GO8  5   XRA  1-8A      C5.5    3.1E-03       
+1640 +     0836   0836      0836  SVI  G   RBR  15400     30                    
+1640 +     0836   0836      0837  SVI  G   RBR  4995      63                    
+1640 +     0836   0836      0837  SVI  G   RBR  8800      100                   
+
+1660 +     1155   1159      1203  GO8  5   XRA  1-8A      C1.5    6.2E-04       
+
+1670 +     1252   ////      1257  SVI  C   RSP  035-04    III/2                 
+
+1680 +     1355   1403      1407  GO8  5   XRA  1-8A      C2.8    1.6E-03       
+1680 +     1358   1359      1359  SAG  G   RBR  245       91                    
+1680 +     1358   1359      1359  SAG  G   RBR  410       99                    
+1680 +     1358   1359      1359  SAG  G   RBR  606       55                    
+1680       1405   ////      1407  SAG  C   RSP  030-07    III/1                 
+
+1700       1454   1454      1500  RAM  3   FLA  N14W23    SF                8591
+1700       1454   1454      1500  RAM  3   FLA  N14W23    SF                8591
+1700       1454   1454      1500  RAM  3   FLA  N14W23    SF                8591
+
+1710       1513   ////      1513  SAG  C   RSP  030-06    III/1                 
+
+1720 +     1525   1535      1545  GO8  5   XRA  1-8A      M2.9    2.0E-02       
+
+1730      B1529   ////      1532  RAM  3   DSF  N22E75    06      B.9A      8592
+
+1720 +     1529   1532      1537  SAG  G   RBR  2695      60                    
+1720 +     1529   1532      1540  SAG  G   RBR  4995      91                    
+1720 +     1529   1532      1540  SAG  G   RBR  8800      93                    
+1720       1529   1530      1614  RAM  3   FLA  N22E71    SB      DSF       8592
+1720       1530   1530      1530  SVI  G   RBR  410       40                    
+1720 +     1530   1532      1540  SAG  G   RBR  1415      39                    
+1720 +     1530   ////      1534  SVI  C   RSP  035-08    V/3                   
+1720 +     1531   1532      1540  SAG  G   RBR  15400     48                    
+1720 +     1534   1534      1535  SAG  G   RBR  606       140                   
+
+1740 +     1713   1713      1714  SAG  G   RBR  1415      56                    
+
+1750 +     1720   1727      1737  GO8  5   XRA  1-8A      C3.8    3.3E-03       
+
+1760 +     1827   ////      1827  SAG  C   RSP  030-06    III/1                 
+
+1770       1828   ////      1828  SAG  C   RSP  030-06    III/1                 
+
+1800 +     1908   2007      2035  GO8  5   XRA  1-8A      C5.1    2.3E-02   8592
+1800 +    B1912   2020      2039  COM  3   FLA  N24E67    SF      ERU       8592
+
+1790       2008   2014      2021  HOL  3   FLA  N23E32    SF      ERU           
+
+1820 +     2104   2109      2115  GO8  5   XRA  1-8A      C3.8    2.3E-03       
+
+1920       2134   ////      2137  CUL  C   RSP  30-90     III/1                 
+
+1930       2155   ////      2155  CUL  C   RSP  25-130    III/1                 
+
+1830 +     2307   ////      2307  CUL  C   RSP  20-180    III/2                 
+
+1840       2312   2315      2322  HOL  3   FLA  S12W49    SF                8583

@@ -1,0 +1,65 @@
+:Product: 19980621events.txt
+:Created: 1998 Jun 24 0302 UT
+:Date: 1998 06 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+160        0031   0032      0036  HOL  3   FLA  N16W24    SF                8243
+
+170  +     0058   0102      0104  GO9  5   XRA  1-8A      B6.8    2.0E-04   8243
+170        0101   0102      0106  HOL  3   FLA  N17W23    SF                8243
+
+180        0258   ////      0259  LEA  C   RSP  030-08    III/2                 
+
+260        0351   0354      0525  SVI  G   RNS  245       200                   
+
+190        0405   ////      0406  LEA  C   RSP  030-04    III/2                 
+
+280        0436   ////      1128  SVI  C   RSP  035-08    CTM/2                 
+
+200        0439   0512      0551  GO9  5   XRA  1-8A      C2.7    9.0E-03   8243
+200  +     0459   0515      0519  LEA  3   FLA  N17W25    SF                8243
+200  +     0506   0508      0508  LEA  G   RBR  245       110               8243
+200  +     0506   ////      0512  SVI  C   RSP  035-08    III/3             8243
+200  +     0507   0508      0509  LEA  G   RBR  410       250               8243
+200  +     0507   0508      0508  LEA  G   RBR  606       100               8243
+200        0507   0508      0508  LEA  G   RBR  1415      150               8243
+200        0507   0507      0508  LEA  G   RBR  2695      25                8243
+
+210  +     0710   0711      0711  LEA  G   RBR  245       80                    
+
+230        0726   0726      0727  SVI  G   RBR  410       180                   
+230  +     0726   0733      0739  GO9  5   XRA  1-8A      C1.6    1.1E-03       
+230        0726   0726      0727  SVI  G   RBR  410       180                   
+230        0727   0728      0728  SVI  G   RBR  606       1400                  
+230        0727   0727      0728  SVI  G   RBR  245       240                   
+230        0727   ////      0731  SVI  C   RSP  035-08    V/3                   
+230        0727   0727      0728  SVI  G   RBR  245       240                   
+
+240        0746   0746      0747  SVI  G   RBR  245       51                    
+240        0746   0746      0747  SVI  G   RBR  410       270                   
+
+250  +     0953   1002      1047  GO9  5   XRA  1-8A      C3.4    9.1E-03       
+
+340       A1734   ////      0400  SVI  3   DSF  S50W17    17      B.0A          
+340       A1734   ////      0400  SVI  3   DSF  S50W17    17      B.0A          
+
+290  +     1800   1808      1813  GO9  5   XRA  1-8A      C1.2    6.4E-04   8243
+290        1802   1808      1814  HOL  3   FLA  N16W38    SF                8243
+290        1802   ////      1804  SAG  C   RSP  030-08    V/3               8243
+
+300  +     2046   2051      2055  GO9  5   XRA  1-8A      B5.4    2.3E-04       
+
+310  +     2103   2109      2113  GO9  5   XRA  1-8A      C2.1    8.0E-04   8243
+310        2104   ////      2105  SAG  C   RSP  030-08    V/3               8243
+310        2105   ////      2106  CUL  C   RSP  20-170    III/3             8243
+310        2106   2109      2116  HOL  3   FLA  N16W39    SF                8243
+
+540       B2358   ////      0345  LEA  4   DSF  N04W27    22      B.9A      8249

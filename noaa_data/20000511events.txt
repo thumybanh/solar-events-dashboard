@@ -1,0 +1,66 @@
+:Product: 20000511events.txt
+:Created: 2000 May 14 0302 UT
+:Date: 2000 05 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7520 +     0000   ////      0000  CUL  C   RSP  28-180    CTM/1             8991
+
+7530       0022   0023      0030  HOL  3   FLA  N17E00    SF                8989
+
+7540 +     0044   0055      0104  GO8  5   XRA  1-8A      C3.3    3.1E-03   8993
+7540 +     0047   0048      0108  LEA  3   FLA  S23W08    SF      ERU       8993
+
+7570       0432   ////      0725  SVI  C   RSP  035-08    CTM/1                 
+
+7560 +     0448   0449      0000  LEA  G   RNS  245       58                    
+
+7550      B0500  U0507     A0520  LEA  4   FLA  S21W09    SF      ERU       8993
+
+7560       0600   0000      1200       F   RNS  204       35                    
+
+7650       0807   ////      1356  SVI  C   RSP  035-08    CTM/1                 
+
+7590 +     0812   0819      0831  GO8  5   XRA  1-8A      C4.5    3.9E-03       
+
+7600 +     1003   1011      1016  GO8  5   XRA  1-8A      C7.8    3.6E-03       
+
+7610       1056   1057      1058  SAG  G   RBR  245       88                    
+
+7620       1112   1133      1140  G10  5   XRA  1-8A      C2.1    3.1E-03       
+
+7630       1203   ////      1203  SAG  C   RSP  030-08    III/1                 
+
+7640 +     1311   1317      1322  GO8  5   XRA  1-8A      C2.5    1.4E-03       
+
+7660       1401   1404      1409  G10  5   XRA  1-8A      C1.7    7.9E-04       
+
+7670       1418   ////      1425  SVI  C   RSP  035-08    III/1                 
+
+7890      A1501   ////      1121  RAM  3   DSF  N17W34    05      B.0A          
+
+7680       2130   2135      2135  SAG  G   RBR  245       86                    
+
+7690       2151   2152      2158  HOL  3   FLA  S25W12    SF                8993
+
+7700       2200   2201      2201  SAG  G   RBR  245       78                    
+
+7710 +     2221   2224      2227  GO8  5   XRA  1-8A      C3.6    1.1E-03       
+7710       2223   2224      2224  SAG  G   RBR  245       65                    
+
+7810 +     2224   ////      2303  COM  3   DSF  S50E50    32      B.0A          
+
+7720       2250   2256      2256  SAG  U   RBR  245       94                    
+
+7730       2346   2347      2356  HOL  3   FLA  S11E87    SF                8996
+
+7760       2351   2353      2355  HOL  3   FLA  S26W14    SF                8993
+
+7740       2357   0004      0010  HOL  3   FLA  S26W13    SF                8993

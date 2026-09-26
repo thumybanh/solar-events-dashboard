@@ -1,0 +1,51 @@
+:Product: 20030624events.txt
+:Created: 2003 Jun 27 0302 UT
+:Date: 2003 06 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jun 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3860       0115   0115      0115  PAL  G   RBR  245       60                    
+
+3870       0131   0131      0133  PAL  G   RBR  245       120                   
+
+3880 +     0450   0457      0504  G12  5   XRA  1-8A      C1.5    8.8E-04   0391
+3880 +     0453   0457      0506  LEA  3   FLA  N13E01    SF                0391
+
+3890 +     0629   0634      0640  G12  5   XRA  1-8A      B7.5    3.9E-04   0391
+3890       0633   0633      0636  SVI  3   FLA  N14W01    SF                0391
+
+3900 +     0811   0814      0816  G12  5   XRA  1-8A      B6.5    1.7E-04       
+
+3910       0900   ////      0901  SVI  C   RSP  025-135   III/1             0391
+3910 +     0920   0936      0942  G12  5   XRA  1-8A      C1.3    1.5E-03   0391
+3910 +     0924   0925      0930  SVI  3   FLA  N14W03    SF                0391
+3910       0940   0943      0943  SVI  G   RBR  245       150               0391
+
+3920       0947   0947      0947  SVI  G   RBR  245       73                    
+
+3930 +     1017   1024      1027  G12  5   XRA  1-8A      C2.8    1.2E-03   0391
+3930       1019   1025      1036  SVI  3   FLA  N14W03    SF                0391
+
+3940       1130   1131      1135  SVI  3   FLA  N14W04    SF                0391
+
+3950 +     1229   1236      1240  G12  5   XRA  1-8A      B7.1    4.1E-04   0391
+3950       1231   1231      1235  SVI  3   FLA  N14W04    SF                0391
+
+3960 +     1322   1329      1332  G12  5   XRA  1-8A      C1.4    5.7E-04   0391
+3960 +     1324   1329      1345  HOL  3   FLA  N13W07    SF                0391
+
+3970 +     1528   ////      1531  SVI  C   RSP  025-146   III/1                 
+
+3980       1540   ////      1830  HOL  2   DSF  ////      12      B.0A      0000
+
+4010       2347   ////      0521  LEA  C   RSP  075-180   CTM/1                 
+
+3990       2348   2348      2348  LEA  G   RBR  245       52                    
+3990       2348   ////      2348  CUL  C   RSP  50-180    III/1                 

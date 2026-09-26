@@ -1,0 +1,62 @@
+:Product: 19990210events.txt
+:Created: 1999 Feb 13 0302 UT
+:Date: 1999 02 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Feb 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3110       0115   0115      0115  PAL  G   RBR  410       57                    
+
+3120 +     0151   ////      0154  CUL  C   RSP  20-80     III/1                 
+
+3130       0249   ////      0250  LEA  C   RSP  030-05    III/1                 
+
+3140       0325   0339      0347  G10  5   XRA  1-8A      B7.6    9.2E-04       
+3140 +     0338   ////      0339  CUL  C   RSP  18-80     III/2                 
+
+3150 +     0557   0658      0726  GO8  5   XRA  1-8A      C1.7    6.8E-03   8458
+
+3090 +     0602   0609      1840  COM  G   RNS  245       240                   
+
+3150       0607   0616      0653  LEA  3   FLA  S27E63    SF                8458
+
+3170 +     0913   0919      0939  GO8  5   XRA  1-8A      C1.9    2.6E-03       
+
+3180       1337   1343      1400  RAM  3   FLA  S26E58    SF                8458
+
+3280       1345   1347      1357  RAM  3   FLA  N13E54    SF                8457
+
+3190       1520   1524      1536  HOL  3   FLA  N12E56    SF                8457
+3190       1524   1524      1532  RAM  3   FLA  S22E56    SF                8458
+
+3200       1541   1551      1607  RAM  3   FLA  S22E56    SF                8458
+
+3210 +     1613   1613      1638  RAM  3   FLA  S29E62    SF                8458
+3210       1626   1628      1636  SAG  G   RBR  410       64                8458
+
+3270       1657   1700      1712  HOL  3   FLA  S26W57    SF      ERU       8453
+
+3220       1659   1700      1703  HOL  3   FLA  N13E54    SF                8457
+3220       1659   ////      1659  SAG  C   RSP  030-08    III/1             8457
+
+3090 +     1802   1802      1819  SAG  G   RNS  410       89                    
+
+3230       1806   1806      1812  RAM  3   FLA  S34E58    SF                8458
+
+3240       1816   ////      1816  SAG  C   RSP  030-05    III/1                 
+
+3250       1818   1819      1819  SAG  G   RBR  410       970                   
+
+3260       1858   1916      1943  RAM  3   FLA  S34E53    SF                8458
+
+3290       2100   ////      2101  PAL  C   RSP  025-04    III/1                 
+
+3320       2241   2346      0020  GO8  5   XRA  1-8A      C3.7    1.6E-02       
+3320       2354   ////      2354  CUL  C   RSP  40-90     III/1                 
+3320       2354   ////      0041  LEA  C   RSP  030-08    CTM/1                 

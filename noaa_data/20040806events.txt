@@ -1,0 +1,19 @@
+:Product: 20040806events.txt
+:Created: 2004 Aug 09 0302 UT
+:Date: 2004 08 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Aug 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5320       0126   ////      0127  LEA  C   RSP  025-045   III/1                 
+
+5350       2053   ////      2053  PAL  C   RSP  025-075   III/1                 
+
+5360 +     2249   2256      2301  G12  5   XRA  1-8A      B3.7    2.1E-04   0656
+5360       2253   2257      2301  G12  5   XFL  S12E71    7.8E+02 1.7E+03   0656

@@ -1,0 +1,80 @@
+:Product: 20030701events.txt
+:Created: 2003 Jul 04 0302 UT
+:Date: 2003 07 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jul 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5040 +     0025   ////      0026  PAL  C   RSP  025-052   III/1                 
+
+5050 +     0040   0040      0040  LEA  G   RBR  245       74                    
+5050       0040   ////      0041  CUL  C   RSP  50-300    III/1                 
+
+5060 +     0220   0220      0222  LEA  G   RBR  245       130                   
+5060 +     0222   ////      0222  CUL  C   RSP  75-500    III/1                 
+
+5070       0432   0432      0432  PAL  G   RBR  245       130                   
+
+5080       0449   0449      0449  LEA  G   RBR  245       72                    
+
+5090       0622   ////      0910  LEA  C   RSP  066-180   CTM/1                 
+
+5250       0842   ////      1800  SVI  C   RSP  025-180   CTM/1                 
+
+5100       0906   ////      0906  SVI  C   RSP  025-054   III/1                 
+
+5110       0908   0908      0908  SVI  G   RBR  245       71                    
+
+5170 +     0916   1734      2045  COM  G   RNS  245       240                   
+
+5120       1117   1117      1117  SVI  G   RBR  8800      190                   
+
+5130       1202   1202      1202  SAG  G   RBR  410       62                    
+
+5140       1253   1253      1253  SVI  G   RBR  245       67                    
+
+5150 +     1314   1318      1320  G12  5   XRA  1-8A      B8.4    2.6E-04       
+5150       1317   1317      1317  SAG  G   RBR  8800      22                    
+
+5160 +     1333   1343      1403  G12  5   XRA  1-8A      C2.3    3.3E-03   0397
+5160       1336   1339      1407  HOL  3   FLA  N09E23    SF      ERU       0397
+
+5180       1504   1504      1504  SVI  G   RBR  245       51                    
+
+5190       1535   1535      1535  SVI  G   RBR  245       52                    
+
+5200       1540   1540      1540  SVI  G   RBR  245       52                    
+
+5210       1630   1630      1630  SVI  G   RBR  245       70                    
+
+5220       1643   1643      1643  SVI  G   RBR  245       69                    
+
+5230       1649   1649      1649  SVI  G   RBR  245       58                    
+
+5240 +     1700   1700      1700  PAL  G   RBR  245       62                    
+
+5260 +     1754   1802      1806  G12  5   XRA  1-8A      C1.4    7.8E-04   0397
+
+5270       1840   1902      1929  G12  5   XRA  1-8A      C1.1    2.6E-03   0397
+
+5280       2010   2029      2045  G12  5   XRA  1-8A      C1.0    1.8E-03   0397
+
+5290 +     2227   2227      2227  PAL  G   RBR  245       65                    
+
+5300       2234   2234      2234  PAL  G   RBR  245       130                   
+
+5310       2254   ////      2254  CUL  C   RSP  65-180    III/1                 
+
+5320       2255   2255      2257  PAL  G   RBR  245       300                   
+
+5330       2305   2305      2305  PAL  G   RBR  245       59                    
+
+5340       2311   ////      2316  CUL  C   RSP  30-250    III/1                 
+
+5400       2344   ////      0910  LEA  C   RSP  065-180   CTM/1                 

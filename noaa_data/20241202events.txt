@@ -1,0 +1,87 @@
+:Product: 20241202events.txt
+:Created: 2024 Dec 05 0357 UT
+:Date: 2024 12 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Dec 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3710       0000   ////      1043  LEA  C   RSP  075-180   CTM/1                 
+
+3550 +     0044   ////      0201  LEA  C   RSP  025-180   VI/1                  
+3550 +     0134   0141      0146  G16  5   XRA  1-8A      C2.7    1.5E-03   3906
+3550 +     0139   0140      0143  LEA  G   RBR  245       1700                  
+3550 +     0140   0142      0143  LEA  G   RBR  410       340                   
+
+3560       0152   0152      0152  LEA  G   RBR  245       130                   
+
+3570       0201   0201      0202  LEA  G   RBR  245       180                   
+
+3600       0215   0316      0334  LEA  G   RNS  245       220                   
+
+3610       0325   ////      0844  LEA  C   RSP  025-125   VI/2                  
+
+3580 +     0346   0355      0401  G16  5   XRA  1-8A      C3.5    2.8E-03   3912
+
+3590       0449   0449      0449  LEA  G   RBR  245       250                   
+3590       0449   0449      0449  LEA  G   RBR  410       110                   
+3590       0449   0449      0449  LEA  G   RBR  610       100                   
+3590       0449   0449      0449  LEA  G   RBR  4995      110                   
+3590       0449   0449      0449  LEA  G   RBR  8800      100                   
+
+3620       0526   0526      0526  LEA  G   RBR  245       100                   
+
+3630       0545   0545      0545  LEA  G   RBR  245       100                   
+
+3640       0555   0555      0555  LEA  G   RBR  245       100                   
+
+3740       0620   ////      1512  SVI  C   RSP  025-180   CTM/2                 
+
+3650 +     0646   0705      0715  G16  5   XRA  1-8A      C4.1    1.5E-03       
+3650       0710   0710      0710  LEA  G   RBR  245       160                   
+
+3660 +     0732   0733      0733  LEA  G   RBR  245       270                   
+
+3670       0754   0754      0755  SVI  3   FLA  S15W42    SF                3906
+
+3680       0758   0758      0803  SVI  3   FLA  S15W42    SF                3906
+
+3690       0819   0819      0819  LEA  G   RBR  245       100                   
+
+3700 +     0956   1003      1012  G16  5   XRA  1-8A      C3.6    3.0E-03   3906
+
+3720       1040   1040      1040  SVI  G   RBR  245       150                   
+
+3730 +     1121   1133      1150  G16  5   XRA  1-8A      C4.1    6.2E-03   3906
+3730       1149   1149      1150  SVI  G   RBR  245       120                   
+
+3750 +     1412   1412      1412  SVI  G   RBR  245       100                   
+
+3760       1518   1519      1523  HOL  3   FLA  S14W47    SF                3906
+
+3770 +     1617   1629      1641  G16  5   XRA  1-8A      C4.9    5.4E-03       
+
+3780 +     1806   1817      1835  G16  5   XRA  1-8A      C2.5    4.1E-03       
+
+3790       2132   2133      2136  HOL  3   FLA  S06E26    SF                3912
+
+3850       2143   ////      2359  LEA  C   RSP  075-180   CTM/1                 
+
+3810       2152   2201      2204  HOL  3   FLA  S07E24    SF                3912
+
+3800       2154   2154      2154  LEA  G   RBR  245       110                   
+
+3840 +     2214   2242      2301  G16  5   XRA  1-8A      C4.6    1.0E-02   3912
+
+3820       2214   2214      2214  PAL  G   RBR  245       230                   
+
+3830       2216   2217      2228  HOL  3   FLA  S19W56    SF                3906
+
+3840       2236   2246      2253  HOL  3   FLA  S07E30    SF      DSD       3912
+3840       2248   ////      2359  LEA  C   RSP  025-077   VI/2              3912
+3840       2256   2256      2256  LEA  G   RBR  245       120               3912

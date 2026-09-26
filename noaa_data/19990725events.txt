@@ -1,0 +1,84 @@
+:Product: 19990725events.txt
+:Created: 1999 Jul 28 0302 UT
+:Date: 1999 07 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jul 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3610 +     0057   0103      0105  GO8  5   XRA  1-8A      C5.2    1.7E-03   8645
+3610       0058   0102      0158  LEA  3   FLA  S29E70    SN                8645
+
+3620 +     0118   0133      0159  GO8  5   XRA  1-8A      C8.5    1.6E-02       
+3620       0131   0132      0207  LEA  3   FLA  N18W18    SF                8636
+
+3630       0201   0205      0209  LEA  3   FLA  N38W71    SF                8639
+
+3640       0229   0235      0238  LEA  3   FLA  S26E59    SF                8645
+
+3650       0247   0250      0303  LEA  3   FLA  S26E59    SF                8645
+3650       0303   ////      0303  LEA  C   RSP  030-04    III/1             8645
+
+3660       0323   0325      0330  LEA  3   FLA  S26E59    SF                8645
+
+3670       0403   0429      0439  LEA  3   FLA  S26E58    1F      BPT       8645
+3670 +     0414   0432      0438  GO8  5   XRA  1-8A      M1.0    8.5E-03   8645
+3670       0430   0430      0000  SVI  U   RBR  245       3300              8645
+
+3680 +     0508   0513      0519  GO8  5   XRA  1-8A      C3.8    2.1E-03   8636
+3680       0510   0512      0535  LEA  3   FLA  N20W22    SF      ERU       8636
+
+3690       0535   0535      0542  LEA  3   FLA  N36W80    SF                8639
+
+3710       0552   ////      0552  SVI  C   RSP  072-08    III/1                 
+
+3700       0611   0611      0611  SVI  G   RBR  245       68                    
+3700       0611   0611      0611  SVI  G   RBR  410       77                    
+
+3720       0652   ////      0652  SVI  C   RSP  072-08    III/1                 
+
+3730 +     0819   0833      0845  GO8  5   XRA  1-8A      C3.9    5.1E-03       
+
+3850      A0924   ////      2345  LEA  3   DSF  N29W53    11      B.0A          
+
+3740       1017   ////      1020  SVI  C   RSP  035-06    III/2                 
+
+3760       1307   ////      1309  SAG  C   RSP  030-06    III/1             8639
+3760       1308   1314      1338  SAG  G   RBR  2695      600               8639
+3760 +     1308   1338      1417  GO8  5   XRA  1-8A      M2.4    7.5E-02   8639
+3760       1309   1314      1337  SAG  G   RBR  1415      190               8639
+3760       1309   1314      1338  SAG  G   RBR  4995      1300              8639
+3760       1310   1313      1328  SAG  G   RBR  245       100               8639
+3760       1310   1314      1337  SAG  G   RBR  8800      1200              8639
+3760       1311   1315      1329  SAG  G   RBR  606       95                8639
+3760       1311   1315      1337  SAG  G   RBR  15400     450               8639
+3760       1312   1315      1327  SAG  G   RBR  410       83                8639
+3760       1321   ////      1329  SAG  C   RSP  030-08    II/1    1000      8639
+3760       1332   ////      1357  SAG  C   RSP  030-06    IV/1              8639
+3760 +     1343   1343      1356  HOL  3   FLA  N38W81    SF                8639
+
+3780 +    B1351   1359      1406  COM  3   FLA  S18E57    SF                8647
+3780       1401   ////      1405  SAG  C   RSP  030-08    III/2             8647
+
+3760       1413   ////      0000  HOL  3   LPS  N39W90    0.05    B.9A      8639
+
+3770       1421   1424      1432  HOL  3   FLA  S18E57    SF                8647
+
+3790       1501   ////      1504  SVI  C   RSP  035-06    III/1                 
+
+3800       1741   1745      1754  HOL  3   FLA  N20W28    SF                8636
+
+3810 +     1836   1841      1845  GO8  5   XRA  1-8A      C3.1    1.5E-03       
+3810       1836   1838      1843  SAG  G   RBR  8800      45                    
+3810       1837   1838      1843  SAG  G   RBR  4995      47                    
+
+3820       1850   1853      1856  HOL  3   FLA  N20W27    SF                8636
+
+3830       2104   ////      2104  PAL  C   RSP  025-04    III/1                 
+
+3840 +     2326   ////      2327  CUL  C   RSP  20-90     III/2                 

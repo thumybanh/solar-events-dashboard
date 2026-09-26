@@ -1,0 +1,35 @@
+:Product: 20020523events.txt
+:Created: 2002 May 26 0300 UT
+:Date: 2002 05 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+600  +     0101   0106      0114  GO8  5   XRA  1-8A      B9.5    6.6E-04   0000
+
+610  +     0230   0235      0243  GO8  5   XRA  1-8A      C1.1    7.7E-04   0000
+
+630        0911   0911      0912  SVI  G   RBR  245       220               0000
+
+640        1122   ////      1123  SVI  C   RSP  025-064   III/1             0000
+
+650        1344   ////      1344  SVI  U   RSP  033-057   III/1             0000
+
+660  +     1423   ////      1424  HOL  C   RSP  032-068   III/1             0000
+
+690        1559   1559      1559  SAG  G   RBR  245       67                0000
+
+670  +     1602   1602      1602  SAG  G   RBR  245       510               0000
+
+680  +     1659   1701      1702  RAM  3   FLA  S24E30    SF                9961
+
+700        2042   2051      2110  GO8  5   XRA  1-8A      C1.2    1.7E-03   9963
+700        2051   2054      2058  HOL  3   FLA  N11E38    SF      ERU       9963
+
+710  +     2320   ////      2321  LEA  C   RSP  106-180   III/1             0000

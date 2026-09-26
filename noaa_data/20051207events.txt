@@ -1,0 +1,40 @@
+:Product: 20051207events.txt
+:Created: 2005 Dec 10 0329 UT
+:Date: 2005 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6390       0149   ////      0203  CUL  C   RSP  20-180    III/1                 
+
+6250 +     0935   ////      0939  LEA  C   RSP  025-180   III/1                 
+
+6270       0956   0956      0956  LEA  G   RBR  245       76                    
+
+6280       1110   1111      1111  SVI  G   RBR  245       77                    
+
+6290       1117   1117      1118  SVI  G   RBR  245       57                    
+
+6300       1133   1133      1133  SVI  G   RBR  245       75                    
+
+6310       1154   1154      1154  SVI  G   RBR  245       69                    
+
+6330       1417   1417      1417  SVI  G   RBR  245       51                    
+
+6340       1423   1423      1425  SVI  G   RBR  245       74                    
+
+6350       1446   1447      1449  SVI  G   RBR  245       78                    
+
+6360       1823   1823      1823  SAG  G   RBR  15400     56                    
+
+6370 +     1841   1852      1910  G12  5   XRA  1-8A      B5.5    6.9E-04   0830
+6370       1844   1900      1909  G12  5   XFL  N15E14    5.3E+03 2.6E+04   0830
+6370       1845   1849      1857  HOL  3   FLA  N15E13    SF      ERU       0830
+
+6380       1917   1917      1917  SAG  G   RBR  15400     96                    

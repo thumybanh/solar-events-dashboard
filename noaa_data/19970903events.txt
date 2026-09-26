@@ -1,0 +1,50 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 6 Sep 1997
+
+EDITED EVENTS for 1997 Sep 03
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+5660       0006   0008      0010  LEA  G   RBR  245       81
+5660       0006   0006      0006  LEA  G   RBR  1415      33
+5660       0006   0007      0007  LEA  G   RBR  2695      130
+5660       0007   0008      0010  LEA  G   RBR  410       100
+5660       0007   0008      0010  LEA  G   RBR  606       13
+
+5670 +     0021   0021      0022  LEA  G   RBR  245       150
+5670       0022   0023      0024  LEA  G   RBR  15400     32
+
+5680       0205   0212      0217  GO9  5   XRA  1-8A      C2.7    1.2E-03   8076
+5680       0208   0210      0222  LEA  3   FLA  N32W43    1F      ERU       8076
+
+5690       0332   0336      0340  GO8  5   XRA  1-8A      B7.2    3.1E-04
+
+5780       0531   0537      0553  GO9  5   XRA  1-8A      C1.7    1.4E-03
+
+5700       0639   0642      0645  GO8  5   XRA  1-8A      C1.0    2.9E-04   8076
+5700 +     0641   0641      0651  SVI  3   FLA  N30W46    SF                8076
+
+5710 +     0900   0903      0911  SVI  3   FLA  N28W43    SF      ERU       8076
+
+5730       1309   ////      1309  SVI  C   RSP  035-05    III/2
+5730       1309   ////      1309  SVI  C   RSP  035-05    III/2
+5730       1309   ////      1309  SVI  C   RSP  035-05    III/2
+5730       1309   ////      1309  SVI  C   RSP  035-05    III/2
+5730       1309   ////      1309  SVI  C   RSP  035-05    III/2
+5730       1309   ////      1309  SAG  C   RSP  031-05    V/1
+
+5740 +     1406   1407      1417  HOL  3   FLA  S27E58    SF
+
+5750       1509   1520      1534  GO8  5   XRA  1-8A      C1.1    1.3E-03   8076
+5750 +     1511   1519      1543  SVI  3   FLA  N28W48    SF      ERU       8076
+
+5760      B1608  U1615     A1626  SVI  3   FLA  S27E57    SF                8083
+
+5770       1712   1713      1716  RAM  3   FLA  S27E57    SF                8083
+
+5790       1942   1957      2000  GO8  5   XRA  1-8A      B3.7    2.9E-04
+5790       1951   1951      1951  SAG  U   RBR  245       59
+
+5800       2225   2241      2253  GO9  5   XRA  1-8A      B7.4    1.0E-03
+
+5810      B2326   2332      2335  HOL  3   FLA  S26E57    SF                8083

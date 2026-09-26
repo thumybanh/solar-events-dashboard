@@ -1,0 +1,90 @@
+:Product: 20000426events.txt
+:Created: 2000 Apr 29 0302 UT
+:Date: 2000 04 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Apr 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4400       0000   ////      0000  CUL  C   RSP  28-180    CTM/1                 
+
+4190       0007   ////      0946  LEA  C   RSP  030-08    CTM/1                 
+
+4130       0206   0208      0211  LEA  3   FLA  S11W53    SF      ERU       8968
+
+4140       0250   ////      0250  LEA  C   RSP  030-06    III/2                 
+
+4150       0304   ////      0304  LEA  C   RSP  030-05    III/2                 
+
+4200       0417   ////      0728  SVI  C   RSP  035-08    CTM/1                 
+
+4160       0433   ////      0434  LEA  C   RSP  030-08    III/2                 
+
+4170 +     0556   0602      0607  GO8  5   XRA  1-8A      C1.6    9.4E-04       
+
+4180 +     0627   ////      0630  CUL  C   RSP  28-130    III/3                 
+
+4260 +     0729   0736      0742  LEA  3   FLA  S14W46    SF                8965
+4260       0730   ////      0730  LEA  C   RSP  030-08    III/3             8965
+
+4210 +     0738   0744      0751  GO8  5   XRA  1-8A      C2.8    1.6E-03   8970
+4210 +     0742   0751      0758  LEA  3   FLA  S15E10    SF      ERU       8970
+4210       0745   ////      1655  SVI  C   RSP  035-08    CTM/1             8970
+
+4220 +     0841   0846      0852  GO8  5   XRA  1-8A      C1.2    6.9E-04       
+
+4230 +     0903   0909      0914  GO8  5   XRA  1-8A      C1.7    8.5E-04       
+
+4240 +     0917   0923      0928  GO8  5   XRA  1-8A      C6.3    2.8E-03   8970
+4240       0920   0920      0921  SVI  G   RBR  8800      44                8970
+4240       0920   0920      0921  SVI  G   RBR  15400     59                8970
+4240       0920   0920      0935  SVI  3   FLA  S16E09    SF      ERU       8970
+
+4250       0950   0951      1023  SVI  3   FLA  N22W24    SF      ERU       8967
+
+4380       1123   ////      2115  SAG  C   RSP  030-08    CTM/1                 
+
+4270 +     1229   1233      1236  GO8  5   XRA  1-8A      C1.0    3.6E-04       
+
+4280 +     1241   1245      1251  GO8  5   XRA  1-8A      C1.4    7.0E-04   8970
+4280       1242   1242      1243  SAG  G   RBR  606       240               8970
+4280 +     1243   1256      1305  SVI  3   FLA  S17E08    SF      ERU       8970
+
+4300 +     1523   1529      1533  GO8  5   XRA  1-8A      C1.6    7.3E-04   8965
+4300       1528   1531      1537  HOL  3   FLA  S15W44    SF                8965
+
+4310       1551   1555      1604  G10  5   XRA  1-8A      B7.5    5.3E-04   8970
+4310       1553   1556      1601  HOL  3   FLA  S17E07    SF                8970
+
+4320       1642   1643      1713  HOL  3   FLA  S18E06    SF                8970
+
+4330       1714   1714      1720  HOL  3   FLA  N24W21    SF                8967
+
+4350 +     1847   1905      1932  HOL  3   FLA  N21W27    SF                8967
+
+4340       1848   1848      1851  HOL  3   FLA  N25W88    SF                8962
+
+4350 +     1852   1905      1911  GO8  5   XRA  1-8A      C2.2    1.8E-03   8967
+
+4430       1917   ////      0438  PAL  C   RSP  025-18    CTM/1                 
+
+4360       1956   1956      1957  PAL  G   RBR  245       110                   
+
+4370       2035   2037      2105  HOL  3   FLA  N16E03    SF                8971
+
+4290 +     2111   2354      0438  PAL  G   RNS  245       100                   
+
+4390 +     2150   2154      2157  GO8  5   XRA  1-8A      C1.0    3.6E-04   8967
+4390       2153   2155      2201  HOL  3   FLA  N24W24    SF                8967
+
+4410 +     2300   2304      2308  GO8  5   XRA  1-8A      C1.2    4.8E-04   8971
+4410       2302   2307      2336  HOL  3   FLA  N21E05    SF                8971
+
+4510 +     2328   ////      0945  LEA  C   RSP  030-08    CTM/2                 
+
+4420 +     2338   ////      2338  CUL  C   RSP  23-120    III/2                 

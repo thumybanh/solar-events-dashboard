@@ -1,0 +1,66 @@
+:Product: 19991107events.txt
+:Created: 1999 Nov 10 0303 UT
+:Date: 1999 11 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Nov 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9270       0114   0136      0222  LEA  4   FLA  N38W06    SF      BPT       8757
+
+9280       0254   0258      0311  LEA  4   FLA  N38W05    SF                8757
+
+9290       0312   0317      0348  LEA  3   FLA  N38W05    SF                8757
+
+9300       0338   0357      0402  LEA  3   FLA  S17W65    SF                8749
+
+9320       0425   0437      0502  LEA  4   FLA  N37W06    SF                8757
+
+9310 +     0433   0438      0443  GO8  5   XRA  1-8A      C3.1    1.5E-03   8749
+9310       0433   0437      0456  LEA  4   FLA  S18W66    SF                8749
+
+9330 +     0732   0737      0743  GO8  5   XRA  1-8A      C3.1    1.6E-03       
+9330 +     0733   ////      0734  CUL  C   RSP  30-80     III/1                 
+
+9340       0842   0842      0843  SVI  G   RBR  245       450                   
+9340       0842   0842      0843  SVI  G   RBR  410       160                   
+
+9350 +     1025   1029      1032  GO8  5   XRA  1-8A      C1.8    6.3E-04       
+
+9360      B1105  U1107      1137  RAM  2   FLA  N16E53    SF                8758
+
+9370 +     1213   1213      1214  SVI  G   RBR  245       90                    
+9370       1213   1213      1214  SVI  G   RBR  410       30                    
+
+9390 +     1831   ////      1832  SAG  C   RSP  030-08    III/1                 
+
+9400 +     1933   ////      1936  PAL  C   RSP  025-06    III/2                 
+9400       1934   1935      1935  SAG  G   RBR  2695      62                    
+
+9410 +     1953   ////      1954  PAL  C   RSP  025-07    III/1                 
+
+9420       2010   ////      2011  PAL  C   RSP  025-04    III/1                 
+
+9430       2106   ////      2106  PAL  C   RSP  025-04    III/1                 
+
+9440       2115   ////      2116  PAL  C   RSP  025-04    III/1                 
+
+9450 +     2204   ////      2215  CUL  C   RSP  18-150    III/2                 
+
+9500       2223   ////      2223  CUL  C   RSP  40-140    III/1                 
+
+9510 +     2255   ////      2255  CUL  C   RSP  20-80     III/1                 
+
+9460 +     2300   2303      2306  GO8  5   XRA  1-8A      C1.4    4.7E-04   8758
+9460       2302   2302      2313  LEA  3   FLA  N19E64    SF                8758
+
+9470 +     2320   ////      2323  LEA  C   RSP  030-08    III/2                 
+
+9490       2343   2353      0007  LEA  3   FLA  N20E18    SF      BPT       8753
+
+9480       2346   2346      2352  LEA  G   RBR  410       110                   

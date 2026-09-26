@@ -1,0 +1,94 @@
+:Product: 19981109events.txt
+:Created: 1998 Nov 12 0302 UT
+:Date: 1998 11 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2390       0002   0003      0019  LEA  3   FLA  N22W61    SF                8375
+
+2400       0022   0029      0056  LEA  3   FLA  N19W62    SF                8375
+2400       0023   0034      0042  GO8  5   XRA  1-8A      C5.3    5.1E-03   8375
+2400       0053   0053      0054  LEA  G   RBR  410       59                8375
+
+2680       0122   0129      0151  LEA  4   FLA  N17W61    SF      BPT       8375
+
+2410       0134   ////      0216  COM  3   SPY  S28E90    0.1               8375
+2410 +     0140   ////      0140  CUL  C   RSP  20-90     III/1             8375
+2410 +     0143   0153      0204  GO8  5   XRA  1-8A      C3.9    4.3E-03   8375
+
+2420       0206   ////      0207  CUL  C   RSP  20-90     III/1                 
+
+2430 +     0239   ////      0239  CUL  C   RSP  20-180    III/2                 
+
+2440       0258   0310      0332  LEA  4   FLA  N19W63    SF                8375
+2440       0300   0300      0301  LEA  G   RBR  245       51                8375
+
+2450       0352   ////      0352  LEA  C   RSP  030-05    III/1                 
+
+2460       0455   0456      0456  LEA  G   RBR  245       59                    
+2460 +     0455   ////      0457  CUL  C   RSP  20-250    III/1                 
+
+2470       0527   0528      0530  LEA  3   FLA  N19W65    SF                8375
+
+2480 +     0553   ////      0555  CUL  C   RSP  20-180    III/1                 
+
+2490 +     0637   ////      0637  CUL  C   RSP  25-90     III/1                 
+
+2500       0801   ////      0803  LEA  C   RSP  030-08    III/2                 
+2500       0802   0802      0802  SVI  G   RBR  245       51                    
+
+2510       0818   ////      0818  LEA  C   RSP  030-05    III/1                 
+
+2520       0940   ////      1024  SVI  C   RSP  054-08    CTM/2                 
+2520       1017   ////      1018  SVI  C   RSP  035-07    III/2                 
+
+2530 +     1326   1330      1334  GO8  5   XRA  1-8A      C2.2    9.5E-04       
+
+2540       1441   1443      1448  HOL  3   FLA  N23W68    SF                8375
+
+2550 +     1451   1455      1500  GO8  5   XRA  1-8A      C3.1    1.4E-03   8375
+2550       1453   1455      1506  HOL  3   FLA  N23W69    SF                8375
+2550       1501   1501      1502  SVI  G   RBR  245       180               8375
+
+2570       1506   1509      1517  HOL  3   FLA  N19W70    SF                8375
+
+2580       1533   1536      1539  SAG  G   RBR  245       94                    
+
+2590       1631   1631      1632  SAG  G   RBR  245       24                    
+2590       1631   1631      1632  SAG  G   RBR  410       55                    
+
+2600       1717   1718      1718  PAL  G   RBR  410       57                    
+
+2610       1835   ////      1836  PAL  U   RSP  025-07    III/2                 
+2610       1835   ////      1837  SAG  C   RSP  030-08    V/2                   
+
+2620       1850   1857      1859  SAG  G   RBR  245       73                    
+
+2630       1902   1904      1904  SAG  G   RBR  245       120                   
+
+2640       1913   ////      1914  PAL  C   RSP  025-04    III/1                 
+
+2660 +     1939   2014      2040  GO8  5   XRA  1-8A      C3.4    1.1E-02       
+
+2650       1943   ////      1944  SAG  C   RSP  030-05    III/1                 
+
+2660       2024   ////      2025  CUL  C   RSP  20-90     III/1                 
+
+2730       2107   ////      2113  CUL  C   RSP  18-180    III/1                 
+
+2690 +     2111   2114      2120  GO8  5   XRA  1-8A      C4.9    2.1E-03       
+
+2700       2219   2223      2226  LEA  3   FLA  N19W74    SF                8375
+2700 +     2220   2223      2225  GO8  5   XRA  1-8A      C3.3    7.5E-04   8375
+
+2710       2326   2327      2332  LEA  3   FLA  N24W71    SF                8375
+
+2720 +     2347   2347      2347  LEA  G   RBR  245       62                    
+2720       2347   2347      2347  PAL  G   RBR  410       94                    

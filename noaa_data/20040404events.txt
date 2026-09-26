@@ -1,0 +1,53 @@
+:Product: 20040404events.txt
+:Created: 2004 Apr 07 0302 UT
+:Date: 2004 04 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2530 +     0203   0207      0212  G12  5   XRA  1-8A      B2.7    1.3E-04       
+
+2540 +     0231   0236      0242  G12  5   XRA  1-8A      B3.2    1.9E-04       
+
+2550 +     0411   0417      0423  G12  5   XRA  1-8A      B5.0    2.8E-04       
+
+2560 +     0623   0627      0633  G12  5   XRA  1-8A      B3.1    1.7E-04       
+
+2570 +     0641   0646      0650  G12  5   XRA  1-8A      B3.5    1.7E-04       
+
+2580       0702   0702      0703  SVI  G   RBR  245       130                   
+
+2590       0706   0707      0707  SVI  G   RBR  245       150                   
+
+2600       0750   ////      0750  SVI  C   RSP  025-066   III/1                 
+
+2610 +     1340   1340      1340  SVI  G   RBR  245       72                    
+2610       1340   ////      1341  SVI  C   RSP  025-062   III/1                 
+
+2620       1355   ////      1356  SVI  C   RSP  025-123   III/1                 
+
+2630       1434   ////      1435  SVI  C   RSP  025-079   III/1                 
+
+2640 +     1527   ////      1529  HOL  C   RSP  025-180   III/1                 
+
+2650 +     1602   1626      1639  G12  5   XRA  1-8A      C3.0    4.7E-03   0588
+2650       1626   ////      1627  SVI  C   RSP  025-135   III/1                 
+
+2660 +     1838   1842      1844  G12  5   XRA  1-8A      B6.1    1.6E-04       
+
+2670 +     2154   ////      2155  HOL  C   RSP  025-072   III/1                 
+
+2680 +     2215   ////      2215  HOL  C   RSP  025-089   III/1                 
+
+2690 +     2329   ////      2329  HOL  C   RSP  025-087   III/1                 
+
+2700 +     2341   2345      2350  G12  5   XRA  1-8A      B7.9    3.0E-04   0588
+2700       2345   2359      0029  LEA  3   FLA  S18E33    SF                0588
+
+2710 +     2356   ////      0004  G12  5   XRA  1-8A      B5.1    2.2E-04       

@@ -1,0 +1,73 @@
+:Product: 19981111events.txt
+:Created: 1998 Nov 14 0302 UT
+:Date: 1998 11 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3060 +     0103   0107      0118  GO8  5   XRA  1-8A      C3.2    2.3E-03       
+
+3070       0135   0136      0138  LEA  3   FLA  N25W85    SF      DSD       8375
+
+3080 +     0157   0203      0206  GO8  5   XRA  1-8A      C3.0    1.3E-03   8375
+3080       0159   0201      0211  LEA  3   FLA  N24W84    SF                8375
+
+3090 +     0210   0215      0218  GO8  5   XRA  1-8A      C3.2    1.3E-03   8375
+3090       0212   0215      0218  LEA  3   FLA  N25W86    SF                8375
+
+3100 +     0309   0316      0319  GO8  5   XRA  1-8A      C3.6    1.7E-03       
+
+3110       0400   ////      0400  CUL  C   RSP  40-110    III/1                 
+
+3120 +     0402   0407      0412  GO8  5   XRA  1-8A      M1.0    4.0E-03       
+
+3130       0428   0428      0428  LEA  G   RBR  245       69                    
+3130       0428   0428      0428  LEA  G   RBR  410       38                    
+3130 +     0431   ////      0432  CUL  C   RSP  18-130    III/1                 
+
+3140 +     0450   0456      0500  GO8  5   XRA  1-8A      C2.6    1.3E-03       
+
+3150 +     0639   0645      0654  GO8  5   XRA  1-8A      C3.8    2.9E-03       
+
+3160 +     0705   0708      0713  GO8  5   XRA  1-8A      C2.5    1.0E-03   8375
+3160       0707   0708      0716  LEA  3   FLA  N22W71    SF                8375
+3160       0715   ////      0718  CUL  C   RSP  20-70     III/1             8375
+
+3170       0732   0732      0732  LEA  G   RBR  245       52                    
+
+3180 +     0733   0738      0743  GO8  5   XRA  1-8A      C3.5    1.6E-03       
+
+3190 +     0950   0955      0959  GO8  5   XRA  1-8A      C4.2    1.5E-03   8375
+3190       0954   0956      0959  LEA  3   FLA  N24W81    SF                8375
+
+3200 +     1010   1016      1024  GO8  5   XRA  1-8A      M1.1    6.4E-03       
+
+3330      A1013   ////      2227  LEA  3   DSF  S39E48    19      B.0A          
+
+3340      A1013   ////      2227  LEA  3   DSF  N25E71    06      B.0A          
+
+3270 +    B1102   ////      1408  RAM  3   DSF  N43W48    38      B.5A          
+
+3210      B1133  U1134      1144  RAM  2   FLA  S15E50    SF                8383
+
+3220 +     1203   1207      1211  GO8  5   XRA  1-8A      C1.9    7.6E-04       
+
+3230 +     1309   1312      1323  GO8  5   XRA  1-8A      C1.5    1.2E-03       
+
+3240       1347   ////      1348  SAG  C   RSP  030-04    III/1                 
+
+3250 +     1423   1424      1431  RAM  3   FLA  N23W86    SF                8375
+
+3280       1502   ////      1504  SAG  C   RSP  030-08    III/2                 
+
+3300       1600   1600      1613  SAG  G   RNS  245       110                   
+
+3290       1704   1704      1704  SAG  G   RBR  410       55                    
+
+3320 +     2321   ////      2328  CUL  C   RSP  18-180    III/2                 

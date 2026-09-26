@@ -1,0 +1,21 @@
+:Product: 20040927events.txt
+:Created: 2004 Sep 30 0302 UT
+:Date: 2004 09 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Sep 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5190       0725   ////      0725  CUL  C   RSP  30-75     III/1                 
+
+5170 +     1150   1154      1156  G12  5   XRA  1-8A      B1.0    3.3E-05       
+5170       1153   1153      1155  G12  5   XFL  N36W90                          
+
+5180       1700   1704      1712  G10  5   XRA  1-8A      B1.1    7.3E-05       
+
+5200       2052   ////      2052  CUL  C   RSP  20-60     III/2                 

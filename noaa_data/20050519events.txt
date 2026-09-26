@@ -1,0 +1,37 @@
+:Product: 20050519events.txt
+:Created: 2005 May 20 1229 UT
+:Date: 2005 05 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 May 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 460       0022   ////      0022  CUL  C   RSP  23-100    III/1                 
+
+ 470       0050   ////      0050  CUL  C   RSP  18-110    III/1                 
+
+ 440 +     0151   ////      0151  CUL  C   RSP  20-180    III/2                 
+
+ 450 +     0349   ////      0352  CUL  C   RSP  23-180    III/1                 
+
+ 480       0402   ////      0402  CUL  C   RSP  23-100    III/1                 
+
+ 490 +     0442   ////      0444  LEA  C   RSP  025-123   III/1                 
+
+ 500 +     0546   0556      0608  G12  5   XRA  1-8A      B1.3    1.5E-04       
+
+ 510       1118   ////      1120  SVI  C   RSP  025-082   III/1                 
+
+ 520       1123   1123      1123  SAG  G   RBR  245       80                    
+
+ 530 +     1358   1402      1408  G12  5   XRA  1-8A      B1.1    6.1E-05       
+
+ 540 +     1358   ////      1406  SVI  C   RSP  025-082   III/1                 
+
+ 550 +     2131   2134      2137  G12  5   XRA  1-8A      B1.2    4.0E-05       
+ 550 +     2132   ////      2133  PAL  C   RSP  025-086   III/1                 

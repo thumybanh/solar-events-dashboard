@@ -1,0 +1,54 @@
+:Product: 19990808events.txt
+:Created: 1999 Aug 11 0303 UT
+:Date: 1999 08 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9270       0014   0018      0024  HOL  3   FLA  S28E02    SF      ERU       8657
+
+9300       0017   0018      0021  HOL  3   FLA  S13E40    SF      ERU       8662
+
+9280       0025   0025      0034  HOL  3   FLA  S13E41    SF                8662
+
+9310 +     0227   0233      0238  GO8  5   XRA  1-8A      C4.2    1.7E-03       
+9310       0231   0231      0238  LEA  3   FLA  S17E46    SF                8662
+
+9320       0301   0307      0313  G10  5   XRA  1-8A      C2.3    1.5E-03       
+
+9340       0326   0327      0332  GO8  5   XRA  1-8A      C1.5    5.3E-04   8662
+9340       0327   0327      0334  LEA  3   FLA  S16E43    SF                8662
+
+9450       0333   ////      0334  LEA  C   RSP  030-04    III/1                 
+
+9370       0520   0521      0532  LEA  3   FLA  S13E40    SF                8662
+
+9350 +     0643   0704      0739  GO8  5   XRA  1-8A      C2.3    6.6E-03       
+
+9380 +     0749   0753      0757  GO8  5   XRA  1-8A      C2.3    9.4E-04       
+
+9360       0751   0752      0752  SVI  G   RBR  4995      58                    
+
+9390 +     1035   1041      1255  GO8  5   XRA  1-8A      C1.3    9.7E-03   8662
+9390 +     1038   1038      1120  SVI  3   FLA  S16E39    SF                8662
+
+9400       1359   1404      1409  GO8  5   XRA  1-8A      C1.4    7.6E-04   8662
+9400 +     1400   1409      1431  HOL  3   FLA  S14E39    SF      ERU       8662
+
+9430       1423   1426      1431  GO8  5   XRA  1-8A      C1.2    5.7E-04   8657
+9430       1424   1424      1432  HOL  3   FLA  S28E00    SF                8657
+
+9410 +     1607   ////      1607  SAG  C   RSP  030-04    III/1                 
+
+9420       1817   ////      1817  SAG  C   RSP  032-05    III/1                 
+
+9440 +     2110   2123      2147  GO8  5   XRA  1-8A      C2.2    4.2E-03       
+9440 +     2114   2116      2117  PAL  G   RBR  1415      270                   
+
+9460       2342   2342      2343  LEA  U   RBR  410       64                    

@@ -1,0 +1,26 @@
+:Product: 20060628events.txt
+:Created: 2006 Jul 01 0329 UT
+:Date: 2006 06 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Jun 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7750 +     0728   ////      0728  LEA  C   RSP  064-180   III/1                 
+7750 +     0728   0728      0728  LEA  G   RBR  245       83                    
+
+7760 +     1222   1226      1231  G12  5   XRA  1-8A      B1.4    6.4E-05       
+7760       1226   1228      1230  G12  5   XFL  S07E72    2.0E+02 4.3E+02       
+
+7770       1503   1506      1509  G12  5   XRA  1-8A      B1.0    3.1E-05       
+
+7780 +     1921   1932      1941  G12  5   XRA  1-8A      B5.1    4.0E-04   0898
+7780       1928   1936      1940  G12  5   XFL  S07E69    7.3E+02 1.8E+03   0898
+
+7790 +     2038   2043      2047  G12  5   XRA  1-8A      B1.7    8.3E-05   0897
+7790       2042   2046      2046  G12  5   XFL  N09E33    2.8E+02 4.8E+02   0897

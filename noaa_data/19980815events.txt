@@ -1,0 +1,57 @@
+:Product: 19980815events.txt
+:Created: 1998 Aug 18 0302 UT
+:Date: 1998 08 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Aug 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2100 +     0026   0038      0045  GO8  5   XRA  1-8A      C3.3    2.5E-03       
+
+2110 +     0116   0120      0124  GO8  5   XRA  1-8A      B9.7    3.8E-04       
+2110 +     0117   ////      0124  LEA  C   RSP  030-08    III/2                 
+
+2120 +     0236   0244      0257  GO8  5   XRA  1-8A      C1.0    1.1E-03       
+
+2180 +     0541   ////      1634  SVI  C   RSP  035-08    CTM/3                 
+
+2140       0615   ////      0616  LEA  C   RSP  030-04    III/2                 
+
+2150 +     0621   0633      0638  GO8  5   XRA  1-8A      C7.6    4.3E-03   8293
+2150       0624   0626      0659  SVI  2   FLA  S24W83    SF                8293
+
+2160       0725   0725      0725  SVI  G   RBR  410       120                   
+
+2190       0852   0852      0858  SVI  2   FLA  S23W88    SF                8293
+
+2200       0915   ////      0921  SVI  C   RSP  035-08    V/3                   
+2200       0916   0917      0917  SVI  G   RBR  245       58                    
+2200       0916   0918      0918  SVI  G   RBR  1415      43                    
+2200       0916   0917      0918  SVI  G   RBR  4995      53                    
+2200       0916   0917      0918  SVI  U   RBR  8800      72                    
+2200       0916   ////      0950  LEA  C   RSP  030-08    CTM/2                 
+2200       0916   0917      0922       F   RBR  3000      16                    
+
+2210       1040   ////      1040  SAG  C   RSP  030-06    III/1                 
+
+2220       1127   ////      1128  SAG  C   RSP  030-06    III/1                 
+
+2230 +     1150   1201      1209  GO8  5   XRA  1-8A      C2.4    2.1E-03       
+
+2260       1407   1409      1409  SAG  G   RBR  245       57                    
+
+2270 +     1615   1636      1650  GO8  5   XRA  1-8A      C1.2    2.4E-03   8299
+
+2310 +     1630   1632      1658  HOL  3   FLA  N23W31    SF                8297
+
+2270      B1632  U1635      1643  SVI  2   FLA  N16W25    SF      ERU       8299
+
+2280       1652   ////      1656  SVI  C   RSP  035-08    III/2                 
+2280       1652   ////      0445  PAL  C   RSP  030-05    CTM/1                 
+
+2300 +     2327   2331      2341  GO8  5   XRA  1-8A      C1.3    9.1E-04       

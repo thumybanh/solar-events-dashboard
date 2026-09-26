@@ -1,0 +1,28 @@
+:Product: 20001024events.txt
+:Created: 2000 Oct 27 0302 UT
+:Date: 2000 10 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8260       0804   0932      1144  GO8  5   XRA  1-8A      C2.3    2.4E-02       
+
+8250       0913   0913      0914  SVI  G   RBR  410       88                    
+
+8270 +     1530   1538      1542  GO8  5   XRA  1-8A      C2.1    1.2E-03       
+
+8280       1558   ////      1604  HOL  C   RSP  025-167   III/1                 
+
+8290       1609   ////      1610  HOL  C   RSP  025-115   III/1                 
+
+8300       1623   ////      1627  HOL  C   RSP  025-131   III/1                 
+
+8320       2038   ////      2038  CUL  C   RSP  70-230    III/1                 
+
+8310 +     2250   2255      2259  GO8  5   XRA  1-8A      B9.8    4.7E-04       

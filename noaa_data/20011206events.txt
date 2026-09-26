@@ -1,0 +1,54 @@
+:Product: 20011206events.txt
+:Created: 2005 Jul 27 2016 UT
+:Date: 2001 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9570       0051   0051      0055  LEA  3   FLA  N35W22    SF                9728
+
+9580       0121   ////      0121  LEA  C   RSP  025-061   III/1                 
+
+9590       0122   ////      0122  CUL  C   RSP  57-80     III/1                 
+
+9600       0254   0254      0254  LEA  G   RBR  410       58                    
+
+9610 +     0430   0437      0443  GO8  5   XRA  1-8A      C4.2    2.5E-03       
+
+9620 +     0807   0823      0918  LEA  3   FLA  S19E34    2F      ERU       9727
+9620 +     0812   0822      083534502  F   RBR  3000      39                9727
+9620 +     0813   0826      0839  GO8  5   XRA  1-8A      M1.0    1.2E-02   9727
+9620 +     0814   0821      0822  SVI  G   RBR  1415      66                9727
+9620 +     0814   0821      0822  SVI  G   RBR  4995      40                9727
+9620 +     0816   0821      0822  SVI  G   RBR  8800      31                9727
+
+9650       1353   1353      1400  RAM  3   FLA  S03W72    SF      ERU       9716
+
+9660       1510   1511      1520  HOL  3   FLA  S21E36    SF                9727
+
+9670       1558   1558      1602  RAM  3   FLA  N36W30    SF                9728
+
+9680 +     1848   1907      1934  GO8  5   XRA  1-8A      C7.6    1.5E-02   9720
+9680 +     1850   1908      1936  HOL  3   FLA  S23W25    1F      ERU       9720
+
+9690       1903   1909      1912  HOL  3   FLA  N09E12    SF      ERU       9724
+
+9680 +     1903   1904      1905  SAG  G   RBR  2695      100               9720
+9680       1903   1904      1904  PAL  G   RBR  245       930               9720
+9680 +     1904   1905      1905  SAG  G   RBR  410       52                9720
+9680 +     1904   1905      1905  SAG  G   RBR  606       110               9720
+9680       1904   1904      1904  SAG  G   RBR  1415      26                9720
+
+9710       2046   ////      2046  CUL  C   RSP  57-180    III/1                 
+
+9700       2052   2058      2101  GO8  5   XRA  1-8A      C3.5    1.8E-03   9727
+
+9720       2224   ////      2224  CUL  C   RSP  57-90     III/1                 
+
+9730       2230   ////      2231  CUL  C   RSP  57-180    III/1                 

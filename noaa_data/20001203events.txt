@@ -1,0 +1,29 @@
+:Product: 20001203events.txt
+:Created: 2000 Dec 06 0302 UT
+:Date: 2000 12 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6230       0212   0217      0238  LEA  2   FLA  N19W41    SF                9242
+
+6290       0512   ////      0512  CUL  C   RSP  57-180    III/1                 
+
+6240       0604   0758      0900  GO8  5   XRA  1-8A      C1.4    1.1E-02       
+6240 +     0648   ////      0650  LEA  C   RSP  025-087   III/1                 
+
+6250 +     0712   ////      0713  LEA  C   RSP  025-180   III/1                 
+
+6300       0731   ////      0733  CUL  C   RSP  57-90     III/1                 
+
+6310       0739   ////      0739  CUL  C   RSP  57-90     III/1                 
+
+6260       1048   1055      1112  GO8  5   XRA  1-8A      C1.0    1.4E-03       
+
+6270       1127   1129      1136  GO8  5   XRA  1-8A      C1.1    5.7E-04       

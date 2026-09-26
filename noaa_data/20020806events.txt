@@ -1,0 +1,93 @@
+:Product: 20020806events.txt
+:Created: 2002 Aug 09 0300 UT
+:Date: 2002 08 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Aug 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+  20       0051   0051      0052  LEA  G   RBR  606       66                    
+
+  30       0117   0119      0119  LEA  G   RBR  606       480                   
+
+ 160 +     1256   1257      1259  SVI  G   RBR  1415      100               0063
+ 160 +     1256   1257      1259  SVI  G   RBR  2695      150               0063
+ 160 +     1256   1257      1258  SVI  G   RBR  4995      120               0063
+ 160 +     1256   1257      1258  SVI  G   RBR  8800      33                0063
+
+ 190       1423   ////      1723  HOL  C   RSP  025-075   CTM/1             0057
+
+ 170 +     1424   ////      1426  HOL  C   RSP  025-083   III/1                 
+
+ 180 +     1441   1444      1447  HOL  3   FLA  S05E08    SF      ERU       0058
+
+ 190 +     1516   1527      1552  GO8  5   XRA  1-8A      C7.6    1.2E-02   0057
+ 190 +     1521   1524      1602  HOL  4   FLA  S06W66    SF      PRB       0057
+
+ 250 +     1641   ////      1740  HOL  3   DSF  ////      44      B.0A      0000
+
+ 200       1818   ////      1819  HOL  C   RSP  025-180   III/1                 
+
+ 210       1843   ////      1843  SAG  C   RSP  030-080   III/1                 
+
+ 220       1849   1850      1851  SAG  G   RBR  245       74                    
+
+ 230       1945   1945      1945  PAL  G   RBR  15400     57                    
+
+ 240 +     2005   2009      2011  GO8  5   XRA  1-8A      C1.3    4.2E-04   0000
+ 240       2007   2007      2011  RAM  3   FLA  N09E66    SF                0000
+ 240 +     2007   2007      2007  PAL  G   RBR  410       100               0000
+
+ 270 +     2138   2138      2138  PAL  G   RBR  410       100                   
+
+ 290       2222   2222      2222  SAG  G   RBR  245       51                    
+
+ 300       2235   2236      2243  HOL  3   FLA  N18E76    SF                0063
+
+ 310 +     2249   ////      2250  HOL  C   RSP  025-170   III/1                 
+
+ 320       2338   2340      2340  LEA  G   RBR  410       57                    
+ 320       2338   ////      0948  LEA  C   RSP  062-180   CTM/1                 
+ 320       2339   2339      2339  LEA  G   RBR  245       110                   
+
+ 330 +     2343   2343      2343  LEA  G   RBR  410       53                    
+
+ 350       2353   0122      0212  LEA  G   RNS  410       110                   
+ 350       2358   2358      0212  LEA  G   RNS  245       75                    
+
+  40 +     0133   0144      0202  GO8  5   XRA  1-8A      C8.3    9.6E-03   0057
+  40       0138   0143      0213  LEA  1   FLA  S07W57    1F      ERU       0057
+  40       0207   ////      0207  CUL  C   RSP  57-80     III/1             0057
+
+  50       0241   0241      0241  LEA  G   RBR  606       170                   
+
+  60       0244   0244      0244  LEA  G   RBR  606       120                   
+
+  80       0343   ////      0343  CUL  C   RSP  480-660   III/1                 
+
+  90       0414   ////      0414  CUL  C   RSP  57-90     III/1                 
+
+ 100 +     0510   ////      0510  LEA  C   RSP  025-116   III/1                 
+
+ 110 +     0514   0520      0525  GO8  5   XRA  1-8A      C2.1    1.0E-03       
+ 110 +     0517   0518      0527  LEA  3   FLA  N18E84    SF                    
+
+ 120 +     0749   0750      0751  SVI  G   RBR  606       350                   
+
+ 130       1126   1131      1142  GO8  5   XRA  1-8A      C4.3    3.0E-03   0057
+ 130       1129   1130      1140  RAM  3   FLA  S08W58    SF      ERU       0057
+ 130       1129   1130      1140  IZM  F   RBR  3000      16                0057
+
+ 140 +     1206   1212      1221  GO8  5   XRA  1-8A      C2.8    2.1E-03   0061
+ 140       1210   1210      1223  RAM  3   FLA  N09E51    SF      ERU       0061
+
+ 150 +     1226   1231      1236  GO8  5   XRA  1-8A      C3.3    1.7E-03   0061
+ 150       1231   1232      1242  RAM  3   FLA  N09E51    SF      ERU       0061
+
+ 160 +     1246   1258      1310  RAM  3   FLA  N17E80    1N      ERU       0063
+ 160 +     1253   1259      1304  GO8  5   XRA  1-8A      C7.9    3.3E-03   0063

@@ -1,0 +1,50 @@
+:Product: 19990223events.txt
+:Created: 1999 Feb 26 0302 UT
+:Date: 1999 02 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Feb 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7230       0106   ////      0109  CUL  C   RSP  20-90     III/1                 
+
+7210 +     0108   ////      0109  LEA  C   RSP  030-08    III/2                 
+
+7240       0323   ////      0324  CUL  C   RSP  23-100    III/2                 
+
+7220       0328   ////      0329  PAL  C   RSP  030-07    III/1                 
+
+7250 +     0554   ////      0557  LEA  C   RSP  030-06    III/2                 
+
+7360       0642   ////      0642  CUL  C   RSP  30-100    III/1                 
+
+7260 +     0657   ////      0657  LEA  C   RSP  030-07    III/2                 
+
+7370       0733   ////      0735  CUL  C   RSP  25-120    III/3                 
+
+7380       0737   ////      0744  CUL  C   RSP  35-70     III/1                 
+
+7350      A0955   ////      2315  LEA  3   DSF  S21E24    10      B.0A          
+
+7270       1016   ////      1018  LEA  C   RSP  030-08    III/3                 
+
+7280       1232   1233      1233  SAG  G   RBR  606       69                    
+
+7290       1240   1240      1240  SAG  G   RBR  606       55                    
+
+7300       1242   1242      1242  SAG  G   RBR  410       38                    
+
+7310 +     1243   1246      1250  GO8  5   XRA  1-8A      B6.1    2.3E-04       
+
+7320       1310   ////      1311  SAG  C   RSP  030-08    III/2                 
+
+7330       1403   ////      1403  SAG  C   RSP  030-04    III/1                 
+
+7340       1601   ////      1602  SAG  C   RSP  030-05    III/1                 
+
+7390       2104   ////      2104  CUL  C   RSP  25-40     III/1                 

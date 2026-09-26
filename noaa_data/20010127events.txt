@@ -1,0 +1,46 @@
+:Product: 20010127events.txt
+:Created: 2001 Jan 30 0302 UT
+:Date: 2001 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6930       0006   ////      0006  LEA  C   RSP  028-062   III/1                 
+
+6980       0510   ////      0625  LEA  C   RSP  025-104   CTM/1                 
+
+6960       0542   ////      0544  LEA  C   RSP  025-092   III/1                 
+
+6970 +     0553   0557      0600  GO8  5   XRA  1-8A      C1.6    5.8E-04   9325
+6970       0555   0555      0604  LEA  3   FLA  N11E48    SF      ERU       9325
+
+6990       0643   ////      0643  LEA  C   RSP  025-127   III/1                 
+
+7000 +     0724   0724      0727  LEA  G   RBR  245       140                   
+7000 +     0724   0724      0727  LEA  G   RBR  410       27                    
+7000       0724   ////      0725  SVI  C   RSP  025-180   III/2                 
+
+7010       0732   0751      0756  GO8  5   XRA  1-8A      C1.21   1.3E-03   9321
+7010       0746   0747      0800  LEA  3   FLA  S05W04    SF      ERU       9321
+
+7020 +     1110   1114      1117  GO8  5   XRA  1-8A      C1.0    3.4E-04       
+
+7030 +     1209   1228      1246  GO8  5   XRA  1-8A      C2.1    3.8E-03       
+
+7040 +     1854   1903      1911  GO8  5   XRA  1-8A      C3.1    2.4E-03       
+
+7060       2013   ////      2200  HOL  C   RSP  025-180   CTM/1                 
+
+7050 +     2037   2041      2046  GO8  5   XRA  1-8A      C1.2    6.0E-04       
+
+7070       2202   ////      2214  HOL  C   RSP  025-180   III/1                 
+
+7080 +     2223   2227      2231  GO8  5   XRA  1-8A      C1.4    6.3E-04       
+
+7090 +     2346   2351      2358  GO8  5   XRA  1-8A      C1.6    1.0E-03       

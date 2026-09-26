@@ -1,0 +1,63 @@
+:Product: 20030614events.txt
+:Created: 2003 Jun 17 0302 UT
+:Date: 2003 06 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jun 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2210       0003   0018      0024  HOL  3   FLA  S18W16    SF                0380
+2210       0021   ////      0025  PAL  C   RSP  025-180   V/2               0380
+2210 +     0021   ////      0024  LEA  C   RSP  025-180   III/2             0380
+2210       0024   0024      0024  PAL  G   RBR  1415      100               0380
+2210       0024   0024      0024  PAL  G   RBR  4995      73                0380
+2210       0024   0024      0024  PAL  G   RBR  15400     200               0380
+2210       0025   0025      0025  PAL  G   RBR  245       970               0380
+
+2330      A0106   ////     B1258  HOL  3   DSF  ////      18      B.0A      0000
+
+2230       0243   0243      0243  LEA  G   RBR  245       210                   
+
+2240 +     0249   0253      0259  G12  5   XRA  1-8A      C7.5    3.8E-03   0380
+2240       0249   ////      0256  LEA  C   RSP  025-180   III/1             0380
+2240       0250   0250      0252  LEA  G   RBR  245       130               0380
+2240       0250   0250      0252  LEA  G   RBR  410       500               0380
+
+2260       0507   0609      0657  G12  5   XRA  1-8A      M1.5    6.7E-02       
+2260       0515   ////      0521  SVI  C   RSP  025-082   III/1                 
+2260       0533   0540      0548  SVI  G   RBR  8800      67                    
+2260 +     0535   0537      0543  LEA  G   RBR  4995      87                    
+2260 +     0536   0537      0538  LEA  G   RBR  2695      56                    
+2260       0536   0540      0547  SVI  G   RBR  15400     37                    
+
+2280 +     1019   1019      1020  SVI  G   RBR  15400     100                   
+
+2290       1050   ////      1056  SVI  C   RSP  025-052   III/1                 
+
+2300       1116   1116      1117  SAG  G   RBR  15400     55                    
+
+2310       1208   ////      1208  SVI  C   RSP  048-180   III/1                 
+
+2320       1401   ////      1406  SVI  C   RSP  029-180   III/1                 
+2320 +     1404   1405      1405  SAG  G   RBR  245       190                   
+
+2340 +     1519   1533      1557  G12  5   XRA  1-8A      C1.9    3.9E-03       
+2340       1531   ////      1532  SVI  C   RSP  034-081   III/1                 
+
+2350 +     1657   ////      1659  SVI  C   RSP  038-154   III/1                 
+
+2360 +     1751   1756      1800  G12  5   XRA  1-8A      C2.0    8.8E-04   0380
+2360       1754   1757      1810  HOL  3   FLA  S20W16    SF      ERU       0380
+
+2370       1957   1959      1959  SAG  G   RBR  410       58                    
+
+2380       2303   ////      2303  HOL  C   RSP  025-109   III/1                 
+
+2390 +     2324   ////      2324  LEA  C   RSP  025-129   III/1                 
+
+2400 +     2327   2340      2345  G12  5   XRA  1-8A      C3.0    2.2E-03   0375

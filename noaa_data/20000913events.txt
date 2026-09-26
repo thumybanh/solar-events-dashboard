@@ -1,0 +1,37 @@
+:Product: 20000913events.txt
+:Created: 2000 Sep 16 0303 UT
+:Date: 2000 09 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Sep 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8130       0146   0205      0250  GO8  5   XRA  1-8A      B8.9    2.7E-03       
+8130       0214   ////      0338  LEA  C   RSP  047-129   CTM/1                 
+
+8140       0655   0655      0656  SVI  G   RBR  245       140                   
+8140       0655   0655      0656  SVI  G   RBR  410       120                   
+8140       0655   ////      0655  SVI  C   RSP  068-175   III/2                 
+8140       0655   ////      0655  SVI  C   RSP  068-175   III/2                 
+
+8150 +     0843   ////      0847  SVI  C   RSP  025-056   III/2                 
+
+8160 +     1419   1434      1447  GO8  5   XRA  1-8A      C2.2    3.0E-03       
+
+8170       1742   ////      1742  PAL  C   RSP  025-062   III/1                 
+
+8200       1803   1848      1856  GO8  5   XRA  1-8A      C1.6    3.1E-03       
+
+8180 +     2202   ////      2203  HOL  C   RSP  025-089   III/1                 
+
+8190       2209   2209      2209  SAG  G   RBR  245       65                    
+
+8210 +     2235   ////      2236  PAL  C   RSP  025-180   III/1                 
+8210 +     2235   2235      2235  PAL  G   RBR  245       150                   
+
+8220       2349   ////      2351  HOL  C   RSP  025-180   III/1                 

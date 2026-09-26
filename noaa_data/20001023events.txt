@@ -1,0 +1,23 @@
+:Product: 20001023events.txt
+:Created: 2000 Oct 26 0302 UT
+:Date: 2000 10 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8200 +     0039   0043      0052  GO8  5   XRA  1-8A      C1.2    8.7E-04       
+
+8210       0322   ////      0323  LEA  C   RSP  037-076   III/1                 
+
+8220 +     0620   0630      0638  GO8  5   XRA  1-8A      C2.9    2.1E-03   9199
+8220       0622   0627      0652  LEA  3   FLA  N06W40    SF                9199
+
+8240       0705   ////      0705  CUL  C   RSP  30-80     III/1                 
+
+8230 +     1855   1855      1855  SAG  G   RBR  245       51                    

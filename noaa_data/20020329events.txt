@@ -1,0 +1,96 @@
+:Product: 20020329events.txt
+:Created: 2002 Apr 01 0300 UT
+:Date: 2002 03 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5350 +    B0000   1245     A1759  COM  G   RNS  245       170                   
+
+5190 +     0105   0109      0111  GO8  5   XRA  1-8A      C1.4    3.8E-04       
+
+5200       0353   0358      0413  LEA  3   FLA  N11E55    SF      ERU       9885
+
+5210 +     0652   ////      0653  LEA  C   RSP  030-180   III/1                 
+
+5220       0735  U0745      0750  SVI  3   FLA  N09W71    SF                9880
+5220 +     0738   0742      0747  GO8  5   XRA  1-8A      C2.5    1.2E-03   9880
+
+5230       0802   0803      0803  SVI  G   RBR  410       44                    
+5230       0803   0803      0803  SVI  G   RBR  245       110                   
+
+5240       0821   0821      0821  SVI  G   RBR  245       53                    
+5240       0821   0821      0821  SVI  G   RBR  410       27                    
+
+5250       0833   ////      0834  LEA  C   RSP  030-180   III/1                 
+
+5260       0908   0912      0925  GO8  5   XRA  1-8A      C1.9    1.5E-03       
+
+5270       1011   1014      1017  SVI  3   FLA  N06W65    SF                9880
+
+5280       1018   ////      1018  SVI  U   RSP  033-041   III/1                 
+
+5290       1041   1041      1045  SVI  3   FLA  N13W67    SF                9880
+
+5300 +     1107   1149      1202  GO8  5   XRA  1-8A      C3.1    7.7E-03   9880
+5300 +     1132   1139      1142  SVI  3   FLA  N10W70    SF      ERU       9880
+
+5310 +     1206   1209      1228  RAM  3   FLA  N08W72    SF      ERU       9880
+
+5320       1234   1234      1235  SVI  G   RBR  245       110                   
+
+5330 +     1239   1251      1304  GO8  5   XRA  1-8A      C6.5    7.4E-03   9884
+5330 +     1243   1251      1319  RAM  3   FLA  S19E18    SF      ERU       9884
+5330       1244   ////      1246  SAG  C   RSP  030-080   III/1             9884
+
+5340       1321   1321      1330  SVI  3   FLA  N10W74    SF                9880
+
+5360       1400   1401      1401  SAG  G   RBR  245       77                    
+
+5370       1416   1418      1421  SVI  3   FLA  N10E49    SF                9885
+
+5380       1439   1439      1440  SVI  G   RBR  245       70                    
+
+5390       1539   1539      1539  SAG  G   RBR  245       58                    
+
+5400       1614   1614      1614  SAG  G   RBR  245       59                    
+
+5410       1642   1643      1643  SAG  G   RBR  245       70                    
+
+5420       1715   1718      1721  G10  5   XRA  1-8A      C2.2    6.7E-04       
+
+5430       1745   1745      1746  PAL  G   RBR  245       73                    
+
+5440       1756   1756      1756  PAL  G   RBR  245       54                    
+
+5450       1855   1909      1933  RAM  3   FLA  N00E68    SF                9887
+5450 +     1917   1922      1929  GO8  5   XRA  1-8A      C3.7    2.0E-03   9887
+5450       1929   ////      1930  PAL  C   RSP  025-054   III/1             9887
+
+5460 +     1930   ////      1930  HOL  C   RSP  025-084   III/1                 
+
+5470       1941   2005      2016  RAM  3   FLA  N10E44    SF      ERU       9885
+5470 +     2000   2000      2000  PAL  G   RBR  245       80                9885
+
+5480       2044   2045      2045  SAG  G   RBR  1415      39                    
+5480       2044   2045      2045  SAG  G   RBR  2695      49                    
+5480       2044   2045      2045  SAG  G   RBR  4995      37                    
+
+5660 +    A2059   ////     B0721  COM  3   DSF  S29W13    08      B.0A          
+
+5490 +     2147   2151      2156  GO8  5   XRA  1-8A      C4.2    1.6E-03       
+
+5530       2234   ////      0020  LEA  C   RSP  131-180   CTM/1                 
+
+5500 +     2259   ////      2300  LEA  C   RSP  032-102   III/1                 
+
+5510 +     2312   2312      2312  LEA  G   RBR  245       140                   
+5510       2312   ////      2313  LEA  C   RSP  039-180   III/1                 
+
+5520       2313   ////      2314  PAL  C   RSP  025-180   III/1                 

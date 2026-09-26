@@ -1,0 +1,42 @@
+:Product: 19980714events.txt
+:Created: 1998 Jul 17 0302 UT
+:Date: 1998 07 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4320 +     0212   0225      0253  GO9  5   XRA  1-8A      C2.4    4.4E-03       
+
+4340 +     0648   0700      0715  GO9  5   XRA  1-8A      B5.0    6.9E-04       
+
+4350 +     0808   0812      0816  GO9  5   XRA  1-8A      B4.5    1.7E-04   8270
+4350       0814   0818      0825  SVI  3   FLA  S22E24    SF                8270
+
+4360       1037   1039      1043  SVI  4   FLA  S21E22    SF      ERU       8270
+
+4370 +     1050   1100      1119  GO9  5   XRA  1-8A      C1.0    1.6E-03   8269
+4370 +     1053   1056      1128  SVI  3   FLA  N20E26    SF      PRB       8269
+
+4390 +     1251   1259      1303  GO9  5   XRA  1-8A      M4.6    1.6E-02       
+4390 +     1255   1256      1301  SVI  G   RBR  1415      160               8270
+4390 +     1255   1256      1301  SVI  G   RBR  2695      250               8270
+4390 +     1255   1257      1301  SVI  G   RBR  4995      300               8270
+4390 +     1255   1257      1301  SVI  U   RBR  8800      560               8270
+4390 +     1255   1256      1304  SVI  G   RBR  15400     360               8270
+4390 +     1255   1259      1340  SVI  3   FLA  S23E20    1B      BPT       8270
+4390 +     1257   1258      1300  SVI  G   RBR  410       53                8270
+4390 +     1258   1259      1300  SVI  U   RBR  606       84                8270
+4390       1300   ////      1322  SVI  C   RSP  035-08    IV/3              8270
+4390 +     1301   1301      1304  SVI  G   RBR  245       58                8270
+
+4400       1315   1315      1315  SAG  G   RBR  410       66                    
+
+4410 +     1853   1903      1911  GO9  5   XRA  1-8A      C2.9    2.0E-03       
+
+4420 +     2129   2144      2159  GO9  5   XRA  1-8A      B4.3    6.7E-04       

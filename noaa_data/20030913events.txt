@@ -1,0 +1,30 @@
+:Product: 20030913events.txt
+:Created: 2003 Sep 16 0302 UT
+:Date: 2003 09 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Sep 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7050 +     0039   0046      0057  G12  5   XRA  1-8A      B3.8    3.6E-04       
+
+7100      A0046   ////     B1317  HOL  3   DSF  S04W45    06      B.0A      0456
+
+7060 +     0250   0253      0255  G12  5   XRA  1-8A      B4.5    1.1E-04       
+
+7070 +     0644   0647      0649  G12  5   XRA  1-8A      B3.5    8.3E-05       
+
+7080 +     0654   0705      0715  G12  5   XRA  1-8A      B8.8    8.4E-04   0456
+7080       0658   0702      0712  LEA  2   FLA  S07W50    SF      ERU       0456
+
+7090 +     0732   0742      0752  G12  5   XRA  1-8A      C2.2    1.8E-03   0456
+7090       0738   0741      0829  LEA  2   FLA  S06W52    SF      ERU       0456
+
+7160      A0933   ////     B2307  LEA  3   DSF  S46E10    07      B.0A      0000
+
+7110 +    A1838   ////      2008  COM  3   DSF  S13E47    08      B.0A      0000

@@ -1,0 +1,44 @@
+:Product: 20000125events.txt
+:Created: 2000 Jan 28 0302 UT
+:Date: 2000 01 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9980 +     0140   0145      0150  GO8  5   XRA  1-8A      C1.1    4.9E-04   8841
+9980       0143   0145      0150  LEA  3   FLA  S32E34    SF      ERU       8841
+
+9990 +     0250   0255      0300  GO8  5   XRA  1-8A      B7.6    3.9E-04       
+
+10   +     0344   0350      0355  GO8  5   XRA  1-8A      C1.9    9.0E-04       
+10         0346   ////      0348  LEA  C   RSP  030-08    III/2                 
+
+20   +     0619   0623      0626  GO8  5   XRA  1-8A      C6.8    1.5E-03   8842
+20         0622   0624      0630  LEA  3   FLA  S17W28    SF                8842
+
+30   +     1132   1136      1140  GO8  5   XRA  1-8A      B6.3    2.6E-04       
+
+70         1443   1522      1559  HOL  3   FLA  N04W28    SF                8844
+
+40         1452   ////      1452  SVI  U   RSP  039-08    III/2                 
+
+50   +     1530   1534      1536  GO8  5   XRA  1-8A      C1.2    2.9E-04   8841
+50         1531   1532      1533  SAG  G   RBR  4995      38                8841
+50         1532   1532      1533  SAG  G   RBR  2695      39                8841
+50         1532   ////      1533  SAG  C   RSP  030-08    III/1             8841
+50         1533   1534      1542  HOL  3   FLA  S31E25    SF      ERU       8841
+50         1534   1534      1536  SAG  G   RBR  245       78                8841
+
+80         1602   1603      1608  HOL  3   FLA  N04W29    SF                8844
+
+90         1627   1631      1634  HOL  3   FLA  N05W30    SF                8844
+
+100        1854   1924      2022  HOL  3   FLA  N05W30    SF                8844
+
+120        1920   1927      1931  HOL  3   FLA  S31E24    SF                8841

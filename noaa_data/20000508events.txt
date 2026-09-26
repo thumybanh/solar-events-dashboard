@@ -1,0 +1,70 @@
+:Product: 20000508events.txt
+:Created: 2000 May 11 0302 UT
+:Date: 2000 05 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6800       0016   0021      0029  HOL  3   FLA  N16E61    SF                8990
+
+7050 +    A0044   ////      1404  COM  3   DSF  S20W16    00      B.0A          
+
+6810       0130   ////      0132  LEA  C   RSP  030-07    III/1                 
+
+6820       0300   0317      0330  G10  5   XRA  1-8A      B5.5    8.8E-04       
+
+6830       0409   ////      0410  LEA  C   RSP  030-04    III/1                 
+
+6940       0501   0623      0741  GO8  5   XRA  1-8A      B6.8    5.6E-03       
+6940 +    A0530   ////      1705  COM  3   DSF  S25E00    29      B.9A          
+
+6850       0604   ////      0605  SVI  C   RSP  037-05    III/1                 
+
+6860 +     0654   0659      0704  GO8  5   XRA  1-8A      C1.2    5.8E-04   8990
+6860       0655   0659      0709  LEA  3   FLA  N14E55    SF                8990
+
+6870       0736   ////      0737  SVI  C   RSP  035-06    III/1                 
+
+6880       0849   ////      0858  SVI  C   RSP  035-07    III/1                 
+
+7100      A0945   ////      2329  LEA  3   DSF  S26W17    22      B.0A          
+
+6890 +     1042   1050      1055  GO8  5   XRA  1-8A      C4.2    2.0E-03   8990
+6890       1047   1048      1103  RAM  3   FLA  N14E53    SF      DSD       8990
+
+6900       1114   ////      1115  SVI  C   RSP  035-06    III/1                 
+
+6930       1210   ////      1211  SVI  C   RSP  035-05    III/1                 
+
+6950 +     1338   1346      1354  GO8  5   XRA  1-8A      C2.3    1.7E-03       
+6950       1343   ////      1347  SAG  C   RSP  030-08    III/2                 
+
+6960       1403   1404      1412  HOL  3   FLA  N15E53    SF                8990
+
+6980       1529   1529      1545  RAM  3   FLA  N14E53    SF      ERU       8990
+
+7040       1535   1535      1540  RAM  3   FLA  N16E30    SF      DSD       8989
+
+7160      A1638   ////      0525  SVI  2   DSF  S23W09    09      B.0A          
+
+7000 +     1659   1724      1732  RAM  3   FLA  N14E51    SF                8990
+7000 +     1715   1722      1742  GO8  5   XRA  1-8A      C1.3    1.7E-03   8990
+
+7010 +     1744   ////      1748  PAL  C   RSP  025-06    III/1                 
+
+7020       1802   1802      1804  HOL  3   FLA  N14E52    SF                8990
+
+7080       2137   ////      2138  CUL  C   RSP  30-90     III/1                 
+
+7060       2220   2223      2225  G10  5   XRA  1-8A      B6.1    1.6E-04       
+
+7070       2255   2259      2303  HOL  3   FLA  N16E74    SF                8991
+
+7090 +     2345   2349      2355  GO8  5   XRA  1-8A      C1.3    5.4E-04   8990
+7090       2349   2353      0002  HOL  3   FLA  N15E49    SF                8990

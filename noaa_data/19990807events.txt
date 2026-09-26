@@ -1,0 +1,93 @@
+:Product: 19990807events.txt
+:Created: 1999 Aug 10 0302 UT
+:Date: 1999 08 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8950       0012   0013      0013  PAL  G   RBR  245       140               8662
+8950       0012   0013      0017  HOL  3   FLA  S14E62    SF                8662
+
+8960       0032   ////      0034  LEA  C   RSP  030-05    III/1                 
+
+8970       0048   0053      0101  HOL  3   FLA  N19W35    SF      ERU       8656
+8970 +     0056   0115      0122  GO8  5   XRA  1-8A      C7.1    8.6E-03   8656
+
+8980       0153   ////      0157  LEA  C   RSP  030-08    V/3                   
+8980 +     0154   0154      0154  PAL  G   RBR  245       91                    
+8980 +     0154   0158      0202  GO8  5   XRA  1-8A      C2.6    1.1E-03       
+8980       0154   ////      0156  PAL  C   RSP  025-07    III/3                 
+
+9000       0440   0443      0447  G10  5   XRA  1-8A      C1.6    6.2E-04       
+
+9010 +     0507   ////      0508  LEA  C   RSP  030-04    III/1                 
+
+9020       0541   ////      0544  LEA  C   RSP  030-07    III/2                 
+
+9030       0546   0546      0546  SVI  G   RBR  245       70                    
+
+9040       0601   ////      0607  LEA  C   RSP  030-06    III/2                 
+
+9050       0656   ////      0657  LEA  C   RSP  030-07    III/2                 
+
+9060       0725   ////      0725  LEA  C   RSP  032-04    III/1                 
+
+9070       0734   0752      0805  GO8  5   XRA  1-8A      C1.9    3.2E-03       
+
+9260       0859   ////      0900  LEA  C   RSP  030-05    III/1                 
+
+9080       1040   1057      1111  GO8  5   XRA  1-8A      C2.9    4.8E-03       
+9080 +     1059   ////      1100  SVI  U   RSP  035-08    III/2                 
+
+9090 +     1143   ////      1143  SAG  C   RSP  030-05    III/1                 
+
+9100 +     1420   ////      1422  SVI  C   RSP  036-06    III/2                 
+
+9120       1510   1551      1644  GO8  5   XRA  1-8A      C3.5    1.5E-02   8656
+
+9110       1521   ////      1521  SAG  C   RSP  030-06    III/1                 
+
+9120       1546   1613      1630  HOL  3   FLA  N17W41    SF                8656
+
+9130 +     1632   ////      1633  SVI  C   RSP  036-06    III/2                 
+
+9140 +     1702   ////      1704  SVI  C   RSP  036-08    III/3                 
+9140       1702   ////      1705  SAG  C   RSP  030-08    V/3                   
+
+9150       1727   1728      1735  HOL  3   FLA  N18W40    SF                8656
+
+9160       1750   ////      1750  SAG  C   RSP  030-08    III/1                 
+
+9170       1751   ////      1751  PAL  C   RSP  025-07    III/1                 
+
+9190       1847   1849      1854  HOL  3   FLA  S15W24    SF                8661
+
+9180 +     1852   1925      2015  GO8  5   XRA  1-8A      M1.2    4.7E-02   8656
+
+9200       1940   1941      1948  HOL  3   FLA  N17W41    SF                8656
+
+9210       2043   2105      2118  GO8  5   XRA  1-8A      M1.7    2.7E-02       
+
+9220       2244   2245      2247  HOL  3   FLA  S14E47    SF      ERU       8662
+
+9230       2254   2254      2300  HOL  3   FLA  S14E46    SF                8662
+
+9290       2254   ////      2258  HOL  3   DSF  S23E02    05      B.0A      8657
+
+9240       2302   ////      2308  PAL  C   RSP  030-07    V/2               8657
+9240       2304   2307      0012  HOL  3   FLA  S28E03    SF      DSF       8657
+9240 +     2304   2305      2308  PAL  G   RBR  245       120               8657
+9240 +     2304   2306      2307  PAL  G   RBR  410       75                8657
+9240       2305   2318      2344  GO8  5   XRA  1-8A      C3.9    7.7E-03       
+9240       2305   2306      2306  PAL  G   RBR  606       27                8657
+9240       2306   2306      2309  PAL  G   RBR  1415      29                8657
+9240       2306   2306      2308  PAL  G   RBR  2695      30                8657
+9240       2306   ////      2307  LEA  U   RSP  030-05    III/1             8657
+
+9250       2346   2351      2358  HOL  3   FLA  S13E42    SF      ERU       8662

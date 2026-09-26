@@ -1,0 +1,19 @@
+:Product: 20040609events.txt
+:Created: 2004 Jun 12 0302 UT
+:Date: 2004 06 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jun 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2300       1238   ////      1238  SVI  C   RSP  025-049   III/1                 
+
+2310 +     1700   1714      1740  G12  5   XRA  1-8A      B2.8    5.7E-04   0621
+2310       1703   1703      1739  G12  5   XFL  S13W90                      0621
+
+2320       2258   ////      0045  HOL  C   RSP  025-063   III/1                 

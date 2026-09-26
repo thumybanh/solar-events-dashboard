@@ -1,0 +1,41 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 23 Feb 1998
+
+EDITED EVENTS for 1998 Feb 20
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+7370       0035   ////      0037  CUL  C   RSP  18-160    III/1
+
+7380 +     0055   0101      0104  GO9  5   XRA  1-8A      B3.7    1.4E-04
+7380 +     0059   ////      0059  CUL  C   RSP  18-180    III/2
+
+7390 +     0120   0125      0127  GO9  5   XRA  1-8A      B3.6    1.1E-04   8156
+7390       0123   0124      0130  LEA  3   FLA  S27W51    SF                8156
+
+7400 +     0301   0320      0328  GO9  5   XRA  1-8A      B2.8    3.2E-04   8156
+7400       0303   0323      0329  LEA  3   FLA  S25W48    SF                8156
+
+7410 +     1001   1011      1021  GO9  5   XRA  1-8A      C1.0    8.1E-04   8156
+7410       1006   1007      1007  LEA  G   RBR  1415      12                8156
+7410       1007   1007      1041  SVI  3   FLA  S27W55    SF      ERU       8156
+7410 +     1007   1007      1007  SVI  G   RBR  2695      57                8156
+7410 +     1007   1007      1007  SVI  G   RBR  4995      29                8156
+
+7420       1205   1211      1219  RAM  3   FLA  S25W55    SF                8156
+
+7430       1234   1246      1303  RAM  3   FLA  S22W51    SF      ERU       8156
+7430 +     1240   1323      1344  GO9  5   XRA  1-8A      B2.6    7.8E-04   8156
+
+7450 +     1731   1739      1746  GO9  5   XRA  1-8A      B4.9    3.0E-04   8156
+7450       1736   1739      1758  RAM  3   FLA  S22W57    SF      ERU       8156
+
+7460       1806   1806      1807  COM  G   RBR  245       110
+
+7440 +     1806   1806      1845  SAG  G   RNS  245       100
+
+7470       1845   1845      1845  PAL  G   RBR  245       51
+
+7480 +     2005   2009      2015  GO9  5   XRA  1-8A      B1.4    7.8E-05
+
+7490 +     2357   2357      2357  PAL  G   RBR  245       91

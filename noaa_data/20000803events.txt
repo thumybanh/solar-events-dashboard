@@ -1,0 +1,50 @@
+:Product: 20000803events.txt
+:Created: 2000 Aug 06 0302 UT
+:Date: 2000 08 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9090 +     0356   ////      0357  LEA  C   RSP  025-101   III/1                 
+
+9100       0515   ////      0520  SVI  C   RSP  038-060   III/1                 
+
+9110       0556   ////      0557  SVI  C   RSP  068-074   III/1                 
+
+9140       0730   ////      0730  SVI  C   RSP  037-055   III/1                 
+
+9260       0803   ////      0809  SVI  C   RSP  036-057   III/1                 
+
+9120       0808   0911      1012  GO8  5   XRA  1-8A      C1.4    8.5E-03       
+9120       0808   ////      0837  SVI  3   EPL  N18W90    .34                   
+
+9130       0850   0851      0856  LEA  4   FLA  N12E73    SF                9114
+
+9150       1330   ////      1331  SVI  C   RSP  035-062   III/1                 
+
+9160       1352   1352      1356  RAM  3   FLA  N15E87    SF                    
+
+9170       1440   ////      1441  SVI  C   RSP  036-048   III/1                 
+
+9180 +     1500   1503      1511  GO8  5   XRA  1-8A      B8.6    5.1E-04       
+
+9190       1531   ////      1531  SVI  C   RSP  070-080   III/1                 
+
+9200       1549   1551      1601  HOL  3   FLA  S14E05    SF                9107
+
+9210 +     1719   ////      1722  HOL  C   RSP  025-138   III/1             9110
+9210       1721   1721      1722  SAG  G   RBR  245       82                9110
+9210       1722   1722      1728  HOL  3   FLA  S19E30    SF                9110
+
+9220 +     1845   1848      1853  GO8  5   XRA  1-8A      C1.9    7.4E-04       
+9220 +     1848   1848      1851  RAM  3   FLA  N15E82    SF                    
+
+9230 +     1917   ////      1920  HOL  C   RSP  025-162   III/1                 
+
+9240 +     2031   ////      2035  PAL  C   RSP  025-079   III/1                 

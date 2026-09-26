@@ -1,0 +1,54 @@
+:Product: 20031206events.txt
+:Created: 2003 Dec 07 2102 UT
+:Date: 2003 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3460 +     0006   0027      0112  G12  5   XRA  1-8A      C2.2    7.0E-03       
+
+3440 +     0008   0012      0012  PAL  G   RBR  245       68                    
+
+3450 +     0009   0012      0013  PAL  G   RBR  410       160                   
+3450 +     0010   0012      0013  PAL  G   RBR  606       130                   
+
+3470       0122   ////      1016  LEA  C   RSP  025-180   CTM/1                 
+
+3530       0143   0311      0331  PAL  G   RNS  245       240                   
+3530       0206   0218      0331  PAL  G   RNS  410       350                   
+
+3470       0216   0221      0221  PAL  G   RBR  410       700                   
+3470       0216   0221      0222  PAL  G   RBR  606       1000                  
+
+3530 +     0301   0315      0331  PAL  G   RNS  606       130                   
+
+3480 +     0742   0747      0753  G12  5   XRA  1-8A      C1.1    5.8E-04       
+
+3490 +     0808   0824      0841  G12  5   XRA  1-8A      C2.5    4.0E-03       
+
+3500 +     0951   1002      1010  G12  5   XRA  1-8A      C4.1    3.1E-03       
+
+3510 +     1032   1036      1040  G12  5   XRA  1-8A      B7.5    3.2E-04       
+
+3520 +     1058   1120      1128  G12  5   XRA  1-8A      M1.3    1.3E-02       
+
+3550 +     1416   ////      1416  SAG  C   RSP  030-055   III/1                 
+3550 +     1417   1422      1426  G12  5   XRA  1-8A      C1.0    4.3E-04       
+
+3560 +     1539   1546      1553  G12  5   XRA  1-8A      M2.0    1.1E-02       
+
+3570 +     1633   1638      1644  G12  5   XRA  1-8A      C1.5    7.9E-04       
+
+3580 +     1727   1730      1733  G12  5   XRA  1-8A      C1.0    2.9E-04       
+
+3590 +     1752   1757      1802  G12  5   XRA  1-8A      C1.2    5.4E-04       
+
+3600 +     1807   1811      1813  G12  5   XRA  1-8A      C1.4    4.3E-04       
+
+3610 +     1923   1939      1952  G12  5   XRA  1-8A      C4.1    5.1E-03       

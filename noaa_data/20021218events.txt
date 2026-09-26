@@ -1,0 +1,77 @@
+:Product: 20021218events.txt
+:Created: 2002 Dec 21 0300 UT
+:Date: 2002 12 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8390       0000   ////      0000  CUL  C   RSP  20-180    CTM/2                 
+
+8340       0015   0022      0025  LEA  3   FLA  S29E01    SF                0226
+
+8350       0025   0033      0045  LEA  3   FLA  S28E02    SF      ERU       0226
+
+8360 +     0221   0225      0227  GO8  5   XRA  1-8A      C3.5    8.6E-04   0224
+8360       0223   0223      0223  PAL  G   RBR  2695      61                0224
+8360       0224   0224      0230  LEA  3   FLA  S17E01    SF      ERU       0224
+
+8370 +     0229   0233      0236  GO8  5   XRA  1-8A      C6.9    1.9E-03   0226
+8370       0231   0232      0241  LEA  3   FLA  S27E00    SF      ERU       0226
+
+8400       0455   0459      0459  LEA  U   RBR  245       66                    
+8400       0458   0458      0459  LEA  G   RBR  410       78                    
+
+8410       0536   0536      0536  LEA  G   RBR  245       110               0224
+8410       0538   0538      0544  LEA  3   FLA  S17E00    SF                0224
+8410       0540   0545      0552  GO8  5   XRA  1-8A      C1.6    1.1E-03   0224
+
+8440 +     0631   0642      0656  GO8  5   XRA  1-8A      M2.4    2.4E-02   0226
+8440       0635   0636      0637  LEA  G   RBR  4995      150               0226
+8440       0635   0636      0637  LEA  G   RBR  8800      260               0226
+8440       0635   0636      0636  LEA  G   RBR  15400     140               0226
+8440       0635   0639      0713  LEA  3   FLA  S28W03    1N      ERU       0226
+8440       0636   0636      0636  LEA  G   RBR  2695      68                0226
+
+8520       0700   ////      1200  IZM  F   RNS  204       20                    
+
+8490       0708   ////      1409  SVI  C   RSP  050-180   CTM/1                 
+
+8450       0849   ////      0849  SVI  C   RSP  025-143   III/1                 
+
+8460       0852   0852      0852  SVI  G   RBR  245       72                    
+
+8470       1055   1055      1055  SVI  G   RBR  245       98                    
+8470       1055   1055      1055  SVI  G   RBR  410       41                    
+
+8520 +     1101   1418     U1459  SVI  G   RNS  245       360                   
+
+8480 +     1141   1147      1151  GO8  5   XRA  1-8A      C7.1    2.7E-03       
+
+8500       1319   1319      1319  SAG  G   RBR  410       53                    
+
+8530       1425   ////      2030  HOL  C   RSP  025-137   CTM/1                 
+
+8510 +     1437   1441      1450  GO8  5   XRA  1-8A      C1.8    1.3E-03       
+
+8540       1727   1731      1740  GO8  5   XRA  1-8A      C2.7    1.8E-03       
+
+8570       1932   1937      1941  GO8  5   XRA  1-8A      C1.4    7.3E-04       
+
+8580       2023   2028      2032  GO8  5   XRA  1-8A      C1.9    1.0E-03       
+
+8550 +     2125   2128      2133  GO8  5   XRA  1-8A      C1.6    7.1E-04       
+
+8740       2154   ////      0625  LEA  C   RSP  075-180   CTM/1                 
+
+8900       2209   2212      2214  GO8  5   XRA  1-8A      C2.0    5.4E-04       
+
+8560 +     2224   2224      2231  HOL  3   FLA  S28W15    SF                0226
+
+8600       2354   2358      0002  GO8  5   XRA  1-8A      C1.2    5.7E-04   0230
+8600       2355   2358      0005  LEA  3   FLA  S10E45    SF                0230

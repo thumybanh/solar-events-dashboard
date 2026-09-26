@@ -1,0 +1,60 @@
+:Product: 20011221events.txt
+:Created: 2005 Jul 27 2016 UT
+:Date: 2001 12 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2970 +     0023   0029      0039  GO8  5   XRA  1-8A      C3.5    2.7E-03   9742
+2970       0027   0028      0034  LEA  2   FLA  N13E16    SF      ERU       9742
+
+2980 +     0048   0053      0059  GO8  5   XRA  1-8A      C3.7    2.1E-03       
+
+2990       0324   0328      0332  G10  5   XRA  1-8A      C3.1    1.4E-03   9742
+2990       0326   0328      0334  LEA  3   FLA  N13E14    SF      ERU       9742
+
+3000       0355   0406      0411  GO8  5   XRA  1-8A      C2.9    2.4E-03   9742
+
+3120       0356   0359      0409  LEA  3   FLA  S05E69    SF                9749
+
+3000       0403   0408      0413  LEA  3   FLA  N11E09    SF      ERU       9742
+
+3010 +     0516   0521      0527  GO8  5   XRA  1-8A      C4.0    2.0E-03   9742
+3010       0517   0520      0533  LEA  3   FLA  N13E12    SF      ERU       9742
+
+3020       0548   0550      0606  LEA  3   FLA  S05E68    SF                9749
+
+3030       0625   0629      0642  LEA  3   FLA  S30W68    SF                    
+
+3040       0651   ////      1322  SVI  U   RSP  044-139   CTM/1                 
+
+3060       0921   0922      0926  LEA  3   FLA  N13E10    SF      ERU       9742
+
+3070 +     1003   1008      1013  GO8  5   XRA  1-8A      C3.1    1.6E-03   9742
+3070 +     1005   1005      1014  SVI  3   FLA  N13E06    SF      ERU       9742
+
+3080       1032   1033      1039  SVI  3   FLA  N13E07    SF                9742
+
+3090 +     1338   1341      1345  GO8  5   XRA  1-8A      C3.1    1.0E-03   9742
+3090 +     1340   1342      1359  RAM  3   FLA  N11E06    SF      ERU       9742
+
+3100 +     1515   1515      1524  RAM  3   FLA  N06E02    SF      ERU       9742
+
+3110 +     1600   1600      1609  RAM  3   FLA  N05E01    SF                9742
+
+3130       1636   ////      1653  HOL  3   DSF  N15E49    06      B.0A      9747
+
+3310 +    A1714   ////     B1920  RAM  3   DSF  S24E35    17      B.0A          
+
+3140       1850   1855      1858  HOL  3   FLA  S27W75    SF                    
+
+3150       2130   2152      2216  GO8  5   XRA  1-8A      C3.5    7.9E-03   9749
+3150       2144   2144      2153  HOL  3   FLA  S10E58    SF                9749
+
+3160       2154   2205      2218  HOL  3   FLA  S10E58    SF      ERU       9749

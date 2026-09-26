@@ -1,0 +1,61 @@
+:Product: 19980622events.txt
+:Created: 1998 Jun 25 0302 UT
+:Date: 1998 06 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+320  +     0008   0014      0025  GO9  5   XRA  1-8A      B5.8    5.2E-04       
+
+400       A0119   ////      1212  HOL  3   DSF  S51W24    20      B.0A          
+
+330  +     0427   0443      0501  GO9  5   XRA  1-8A      C2.9    4.5E-03   8243
+330  +     0429   0438      0439  LEA  G   RBR  245       10                8243
+330  +     0429   0431      0435  LEA  G   RBR  410       15                8243
+330  +     0429   0434      0437  LEA  G   RBR  2695      24                8243
+330  +     0429   0434      0437  LEA  G   RBR  4995      13                8243
+330        0430   0433      0435  LEA  G   RBR  606       7                 8243
+330  +     0430   0434      0435  LEA  G   RBR  1415      14                8243
+330  +     0432   0433      0442  LEA  4   FLA  N16W46    SF      ERU       8243
+330        0436   ////      0438  LEA  C   RSP  030-08    III/2             8243
+330  +     0436   ////      0000  CUL  C   RSP  25-90     II/2              8243
+330  +     0451   ////      0615  SVI  C   RSP  035-08    IV/2              8243
+
+360        0834   0837      0843  GO8  5   XRA  1-8A      B4.0    1.9E-04       
+
+560  +    A0926   ////      2354  LEA  3   DSF  S25E21    09      B.0A          
+
+370  +     0953   0956      0958  GO9  5   XRA  1-8A      B4.0    9.7E-05       
+
+380  +     1450   1451      1452  SAG  G   RBR  245       130                   
+
+390  +     1457   1458      1502  HOL  3   FLA  N37W78    SF                8244
+
+410        1605   1606      1612  SVI  3   FLA  N16W61    SF      ERU       8251
+
+570       A1703   ////      0425  SVI  3   DSF  N30W18    09      B.0A          
+
+550  +    A1705   ////      0437  SVI  3   DSF  S36W04    08      B.0A      8249
+
+420  +     1731   1735      1743  GO9  5   XRA  1-8A      B6.8    3.9E-04       
+
+430        1904   ////      0000  HOL  3   EPL  N32W90    0.19    B.9A      8244
+
+440  +     2024   2027      2030  GO9  5   XRA  1-8A      B4.2    1.3E-04   8253
+440        2025   2027      2030  HOL  3   FLA  N17E80    SF                8253
+
+450        2032   2036      2044  HOL  3   FLA  N18E82    SF                8253
+450        2032   ////      2032  SAG  C   RSP  030-08    III/2             8253
+
+460  +     2110   2113      2115  GO9  5   XRA  1-8A      C1.4    3.2E-04       
+
+470        2247   2247      2254  HOL  3   FLA  N16W52    SF                8243
+
+480  +     2345   2350      2355  GO9  5   XRA  1-8A      B4.7    2.6E-04   8249
+480        2349   2350      2356  HOL  3   FLA  S26W18    SF                8249

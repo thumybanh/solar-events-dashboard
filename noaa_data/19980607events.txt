@@ -1,0 +1,59 @@
+:Product: 19980607events.txt
+:Created: 1998 Jun 10 0302 UT
+:Date: 1998 06 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7570 +     0014   ////      0015  PAL  C   RSP  025-07    III/3                 
+
+7580 +     0534   ////      0535  SVI  C   RSP  035-05    III/2                 
+
+7600       0752   ////      0752  LEA  C   RSP  030-03    III/1                 
+
+7610       0801   ////      0802  LEA  C   RSP  030-05    III/2                 
+
+7620       0906   ////      0906  SVI  C   RSP  043-04    III/2                 
+
+7630       0912   ////      0916  SVI  C   RSP  035-04    II/2    1200          
+
+7640       0918   ////      0919  SVI  C   RSP  035-08    III/3                 
+
+7660       1030   1038      1038  SVI  G   RNS  245       70                    
+
+7650 +     1107   1112      1117  GO9  5   XRA  1-8A      B5.2    2.5E-04   8236
+7650       1112   1115      1121  SVI  3   FLA  N21W16    SF      ERU       8236
+
+7660       1136   1137      1138  SVI  G   RBR  410       58                    
+
+7680 +     1212   ////      1212  SVI  C   RSP  035-06    III/2                 
+
+7750       1230   1242      1242  SVI  G   RNS  245       82                    
+
+7690 +     1419   1420      1420  SAG  G   RBR  245       100                   
+
+7700 +     1443   1454      1516  GO9  5   XRA  1-8A      C3.2    4.3E-03   8232
+7700       1444   1444      1446  SVI  U   RBR  245       83                8232
+7700 +     1446   1453      1528  HOL  3   FLA  S23E12    1F      ERU       8232
+7700       1449   1449      1450  SVI  G   RBR  4995      28                8232
+7700       1449   1449      1450  SVI  U   RBR  8800      23                8232
+
+7710       1538   1546      1555  SVI  3   FLA  S19E14    SF      ERU       8232
+
+7760       1553   1600      1612  SAG  G   RNS  245       120                   
+
+7720       1613   1613      1618  HOL  3   FLA  S26E13    SF      ERU       8232
+
+7770       1658   1600      1702  SVI  G   RNS  245       160                   
+
+7730       1706   ////      1707  SAG  C   RSP  030-05    III/1                 
+
+7830      A1714   ////     B1037  RAM  3   DSF  N19W63    16      B.0A          
+
+7740       1812   1812      1812  SAG  G   RBR  410       79                    

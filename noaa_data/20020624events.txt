@@ -1,0 +1,63 @@
+:Product: 20020624events.txt
+:Created: 2002 Jun 27 0300 UT
+:Date: 2002 06 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7360       0052   ////      0052  CUL  C   RSP  57-120    III/1                 
+
+7480      A0112   ////     B1345  HOL  1   DSF  N40W06    13      B.0A      0000
+
+7370       0132   ////      0132  CUL  C   RSP  57-90     III/1                 
+
+7340       0209   ////      0209  LEA  U   RSP  065-180   III/1                 
+
+7380       0210   ////      0210  CUL  C   RSP  57-180    III/1                 
+
+7350 +     0251   ////      0251  CUL  C   RSP  57-180    III/1                 
+
+7390 +     0435   ////      0435  CUL  C   RSP  57-180    III/1                 
+
+7400       0444   ////      0445  LEA  C   RSP  068-180   III/1                 
+
+7410 +     0500   ////      0501  CUL  C   RSP  57-200    III/2                 
+
+7420 +     0505   ////      0506  CUL  C   RSP  57-200    III/2                 
+
+7430       0514   0516      0535  LEA  3   FLA  S07E07    SF                0008
+7430       0514   0514      0549  SVI  3   FLA  S06E08    SF                0008
+
+7580       0526   ////      0527  CUL  C   RSP  57-180    III/1                 
+
+7440       0613   ////      0613  LEA  C   RSP  077-129   III/1                 
+
+7540       0614   ////      0614  CUL  C   RSP  57-140    III/1                 
+
+7450 +     0635   ////      0635  CUL  C   RSP  57-140    III/1                 
+
+7460       0825   ////      0829  SVI  C   RSP  025-149   III/1                 
+
+7470       0909   ////      0918  SVI  C   RSP  025-078   III/1                 
+
+7490       1519   ////      1519  SVI  C   RSP  050-180   III/1                 
+
+7500       1525   1606      1659  GO8  5   XRA  1-8A      C1.4    6.2E-03       
+
+7510       1641   ////      1642  SVI  C   RSP  045-180   III/1                 
+
+7520       1806   1807      1810  HOL  3   FLA  S13E04    SF                0008
+
+7530 +     1840   ////      1840  SAG  C   RSP  030-080   III/2                 
+
+7550       2244   ////      2244  CUL  C   RSP  57-180    III/1                 
+
+7560       2257   ////      2257  CUL  C   RSP  57-180    III/1                 
+
+7570 +     2348   ////      2350  LEA  C   RSP  052-180   III/1                 

@@ -1,0 +1,58 @@
+:Product: 20040106events.txt
+:Created: 2004 Jan 09 0302 UT
+:Date: 2004 01 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jan 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7130       0038   ////      0041  LEA  C   RSP  025-086   V/1                   
+7130 +     0039   ////      0042  CUL  C   RSP  18-140    III/3                 
+
+7140 +     0140   ////      0140  LEA  C   RSP  025-063   III/1                 
+
+7150 +     0225   0228      0231  G12  5   XRA  1-8A      C1.0    3.4E-04   0537
+7150 +     0229   0229      0230  COM  5   XFL  N02E80    6.8E+02 1.5E+03   0537
+
+7160       0249   ////      0249  LEA  C   RSP  025-047   III/1                 
+
+7170       0438   ////      0439  LEA  C   RSP  025-119   V/1                   
+
+7180 +     0613   0629      0636  G12  5   XRA  1-8A      M5.8    3.7E-02   0537
+7180 +     0616   0633      0635  COM  5   XFL  N05E90    1.7E+04 1.8E+05   0537
+7180       0618   0622      0636  LEA  G   RBR  4995      1300              0537
+7180       0619   0622      0633  LEA  G   RBR  2695      340               0537
+7180       0619   0622      0636  LEA  G   RBR  8800      2600              0537
+7180       0620   0622      0636  LEA  G   RBR  15400     2300              0537
+7180       0622   0622      0622  LEA  G   RBR  1415      59                0537
+7180       0622   ////      0638  LEA  C   RSP  025-180   V/2               0537
+
+7190       0713   0718      0723  G10  5   XRA  1-8A      C2.5    1.4E-03       
+
+7200       0857   0857      0857  LEA  U   RBR  245       54                    
+
+7210       0903   0903      0903  LEA  U   RBR  245       53                    
+
+7240       1449   1449      1449  SAG  G   RBR  245       61                    
+
+7250       1457   1457      1458  SAG  G   RBR  245       95                    
+
+7260       1615   1615      1615  SAG  G   RBR  245       630                   
+
+7270 +     1754   1757      1800  G12  5   XRA  1-8A      B6.7    2.2E-04   0537
+7270 +     1757   1758      1759  COM  5   XFL  N02E77    8.0E+02 1.7E+03   0537
+
+7280 +     2151   2155      2159  G12  5   XRA  1-8A      C1.0    4.2E-04   0536
+7280       2154   2158      2158  G12  5   XFL  S12E12    1.6E+03 4.2E+03   0536
+
+7290 +     2230   2241      2258  G12  5   XRA  1-8A      C1.1    1.6E-03   0536
+7290       2233   ////      1033  LEA  C   RSP  048-180   CTM/1             0536
+7290       2235   2237      2241  HOL  3   FLA  S11E03    SF      ERU       0536
+7290       2235   2254      2256  G12  5   XFL  S13E11    6.8E+02 1.3E+03   0536
+
+7300 +     2321   2322      2323  PAL  G   RBR  245       89                    

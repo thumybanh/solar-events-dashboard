@@ -1,0 +1,58 @@
+:Product: 19981017events.txt
+:Created: 1998 Oct 20 0302 UT
+:Date: 1998 10 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7710       0312   ////      0312  CUL  C   RSP  19-50     III/1                 
+
+7360 +     0317   0325      0333  GO8  5   XRA  1-8A      B5.4    4.7E-04       
+
+7370       0420   0421      0423  LEA  U   RBR  245       75                    
+
+7430 +     0438   0907      2023  COM  G   RNS  245       290                   
+
+7390       0622   0627      0630  LEA  3   FLA  N16W41    SF                8358
+
+7400       0800   0802      0802  SVI  U   RBR  245       220                   
+7400       0800   0802      0802  SVI  G   RBR  410       51                    
+
+7410       0817   ////      0818  SVI  C   RSP  067-07    III/1                 
+
+7420       0913   0915      0922  SVI  3   FLA  N19E34    SF      ERU           
+
+7440 +     1047   1050      1052  GO8  5   XRA  1-8A      B6.3    1.4E-04       
+
+7450       1118   1125      1138  RAM  3   FLA  N17W46    SF      ERU       8358
+
+7460       1353   1354      1354  SAG  G   RBR  245       62                    
+
+7650      A1413   ////      0707  SVI  3   DSF  S49E25    10      B.0A          
+
+7470 +     1428   1434      1442  GO8  5   XRA  1-8A      B7.9    5.4E-04   8358
+7470 +     1430   1432      1509  RAM  4   FLA  N16W49    SF                8358
+
+7490 +     1839   1851      1858  GO8  5   XRA  1-8A      C9.1    6.9E-03   8358
+7490 +     1840   ////      1841  PAL  C   RSP  025-05    III/1             8358
+7490       1841   1848      1913  HOL  3   FLA  N14W51    1F                8358
+7490 +     1845   1849      1851  SAG  G   RBR  606       58                8358
+7490       1849   1849      1849  PAL  G   RBR  1415      31                8358
+
+7500       2009   2009      2009  PAL  U   RBR  245       51                    
+
+7510 +     2134   2140      2201  GO8  5   XRA  1-8A      C1.2    1.6E-03   8358
+7510       2137   2141      2151  HOL  3   FLA  N15W53    SF                8358
+
+7520 +     2217   2228      2238  GO8  5   XRA  1-8A      C5.1    4.7E-03   8358
+7520       2219   2220      2220  LEA  U   RBR  245       95                8358
+7520       2222   2226      2244  HOL  3   FLA  N14W54    SF                8358
+
+7530 +     2351   0001      0027  GO8  5   XRA  1-8A      C8.1    1.3E-02   8358
+7530       2354   0007      0030  LEA  3   FLA  N16W51    SN      ERU       8358

@@ -1,0 +1,67 @@
+:Product: 19990121events.txt
+:Created: 1999 Jan 24 0302 UT
+:Date: 1999 01 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9910       0000   ////      0000  CUL  C   RSP  18-180    CTM/2                 
+
+9710      B0110  U0115     A0131  LEA  2   FLA  S24W25    SF                8439
+
+9670       0314   ////      0314  LEA  C   RSP  030-07    III/1                 
+
+9680       0315   ////      0315  CUL  C   RSP  20-90     III/1                 
+
+9690       0414   ////      0415  LEA  C   RSP  030-08    III/2                 
+
+9700       0424   0446      0506  GO8  5   XRA  1-8A      C5.1    1.2E-02   8440
+
+9720       0457   ////      1055  LEA  C   RSP  030-08    CTM/2                 
+
+9700       0459   0459      0505  LEA  3   FLA  N19W26    SF                8440
+
+9790 +     0501   ////      0000  CUL  C   RSP  20-170    CTM/2             8440
+
+9730       0906   0912      0915  SVI  3   FLA  N23W58    SF                8442
+
+9900      A1016   ////      1016  LEA  3   DSF  N13W18    00      B.0A          
+
+9740       1034   1034      1035  LEA  G   RBR  245       65                    
+
+9750       1224   1225      1227  SVI  3   FLA  N20E05    SF                8444
+
+9760       1242   1246      1251  RAM  3   FLA  S25W37    SF                8439
+9760       1242   1246      1251  RAM  3   FLA  S25W37    SF                8439
+
+9770       1304   1305      1311  RAM  3   FLA  N24W61    SF                8442
+
+9800 +     1652   1653      1658  RAM  3   FLA  S24W40    SF                8439
+
+9810       1832   1832      1836  RAM  3   FLA  S25W39    SF                8439
+9810       1836   1836      1836  SAG  G   RBR  245       230               8439
+9810 +     1836   ////      1837  SAG  C   RSP  030-08    III/1             8439
+
+9820       1837   1837      1842  RAM  3   FLA  N17W32    SF      ERU       8440
+
+9830       2026   2027      2031  RAM  3   FLA  S24W42    SF                8439
+
+9870       2047   ////      2047  CUL  C   RSP  100-18    III/1                 
+
+9840 +     2114   ////      2115  PAL  C   RSP  025-05    III/2                 
+
+9850       2126   ////      2130  PAL  C   RSP  025-05    III/2                 
+
+9880       2240   ////      2246  CUL  C   RSP  18-100    III/1                 
+
+9890 +     2315   2315      2315  PAL  G   RBR  245       79                    
+
+170  +     2319   2319      0101  PAL  G   RNS  245       98                    
+
+9890 +     2335   ////      1055  LEA  C   RSP  030-08    CTM/3                 

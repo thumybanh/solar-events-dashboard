@@ -1,0 +1,46 @@
+:Product: 20060525events.txt
+:Created: 2006 May 28 0329 UT
+:Date: 2006 05 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 May 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6580 +     0225   0228      0231  G12  5   XRA  1-8A      B1.4    3.8E-05   0886
+6580       0228   0228      0230  G12  5   XFL  N06E26    1.3E+02 2.3E+02   0886
+
+6590       0417   0417      0417  LEA  G   RBR  245       54                    
+6590       0417   ////      0417  LEA  C   RSP  061-144   III/1                 
+
+6600       0612   0612      0612  LEA  G   RBR  245       210                   
+6600 +     0612   ////      0612  SVI  C   RSP  025-125   III/2                 
+
+6690       0619   ////      0619  CUL  C   RSP  18-90     III/1                 
+
+6610 +     0701   0705      0707  G12  5   XRA  1-8A      B2.4    4.7E-05   0885
+6610       0704   0704      0706  G12  5   XFL  S12W13    2.3E+02 6.4E+02   0885
+
+6620       0954   ////      0954  SVI  C   RSP  025-080   III/2                 
+
+6630 +     1227   1231      1233  G12  5   XRA  1-8A      B1.7    4.4E-05   0885
+6630       1230   1232      1232  G12  5   XFL  S12W16    1.3E+02 3.0E+02   0885
+
+6640 +     1257   ////      1301  SVI  U   RSP  025-062   III/1                 
+
+6650 +     1523   ////      1533  SVI  C   RSP  025-155   III/1                 
+
+6660       1728   ////      1728  SAG  C   RSP  030-071   III/1                 
+
+6670       1817   1905      1927  G10  5   XRA  1-8A      B1.4    5.1E-04       
+6670 +     1849   ////      1849  PAL  C   RSP  025-075   III/1                 
+
+6680 +     2303   2328      2343  G12  5   XRA  1-8A      B5.4    7.3E-04   0885
+6680       2308   2331      2342  G12  5   XFL  S13W29    1.1E+03 3.5E+03   0885
+6680 +     2315   ////      2326  PAL  C   RSP  025-180   III/1             0885
+6680       2315   ////      2327  LEA  C   RSP  025-179   IV/2              0885
+6680       2315   ////      2327  LEA  C   RSP  025-179   CTM/1             0885

@@ -1,0 +1,95 @@
+:Product: 19990606events.txt
+:Created: 1999 Jun 09 0302 UT
+:Date: 1999 06 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jun 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8480       0009   ////      0009  CUL  C   RSP  30-180    III/1                 
+
+7960       0139   0142      0151  LEA  4   FLA  N15W38    SF                8558
+7960 +     0140   0143      0145  GO8  5   XRA  1-8A      C1.6    4.0E-04       
+
+7970 +     0151   ////      0151  CUL  C   RSP  23-70     III/1                 
+
+7990       0207   0207      0216  LEA  4   FLA  N29E41    SF                8574
+
+7980       0220   ////      0220  PAL  C   RSP  045-05    III/1                 
+
+8490       0221   ////      0224  CUL  C   RSP  25-75     III/1                 
+
+8500       0322   ////      0322  CUL  C   RSP  35-100    III/1                 
+
+8000       0417   0417      0420  LEA  3   FLA  N26W59    SF                8572
+
+8010       0423   0428      0430  LEA  3   FLA  N26W59    SF                8572
+
+8020       0500   0500      0506  LEA  4   FLA  N15W41    SF      ERU       8558
+
+8030       0549   ////      0550  SVI  C   RSP  035-08    III/3                 
+
+8040 +     0557   0557      0604  LEA  4   FLA  N16W39    SF                8558
+
+8050       0607   ////      0608  SVI  C   RSP  035-08    III/1                 
+
+8060       0617   ////      0626  SVI  C   RSP  035-08    III/2                 
+
+8070       0657   ////      0657  SVI  C   RSP  037-04    III/1                 
+
+8080       0658   0703      0706  LEA  4   FLA  S16W49    SF                8562
+
+8090 +     0814   0816      0830  LEA  4   FLA  N29E35    SF      BPT       8574
+8090       0815   ////      0815  SVI  C   RSP  035-05    III/1             8574
+
+8100       0850   ////      0851  SVI  C   RSP  035-05    III/2                 
+
+8110       0854   0854      0857  LEA  4   FLA  N28E36    SF                8574
+
+8120       0945   0946      0946  SAG  U   RBR  245       71                    
+
+8130       1051   1053      1053  SAG  G   RBR  245       58                    
+
+8140       1109   1109      1110  SAG  G   RBR  245       120                   
+
+8150       1117   1117      1118  SAG  G   RBR  245       74                    
+
+8160 +     1126   1132      1138  GO8  5   XRA  1-8A      C2.0    1.2E-03       
+
+8190 +     1144   1206      1206  SAG  G   RNS  245       330                   
+
+8170       1331   ////      1332  SAG  C   RSP  030-05    III/1                 
+
+8300       1338   1751      1916  HOL  3   FLA  N29E30    SF                8574
+
+8180 +     1358   1403      1405  SAG  G   RBR  245       95                    
+
+8210 +     1417   1457      1507  RAM  3   FLA  N29E32    SF                8574
+8210 +     1444   ////      1444  SVI  C   RSP  036-05    III/1             8574
+8210       1502   1506      1506  SAG  G   RBR  245       73                8574
+
+8230       1521   1522      1524  SAG  G   RBR  245       50                    
+
+8240       1535   1535      1535  SVI  G   RBR  245       120                   
+
+8250      B1636  U1638     A1640  SVI  3   FLA  N28E32    SF                8574
+
+8260       1717   1724      1726  HOL  3   FLA  S14W48    SF                8562
+
+8270       1802   ////      1802  SAG  C   RSP  030-07    III/1                 
+
+8280       1857   1858      1901  HOL  3   FLA  N21E54    SF                8569
+
+8290 +     1925   1927      1928  SAG  G   RBR  245       61                    
+
+8310       2025   2026      2030  HOL  3   FLA  N30E28    SF                8574
+
+8320       2049   ////      2049  PAL  C   RSP  025-05    III/1                 
+
+8330       2228   2232      2242  HOL  3   FLA  N29E29    SF      ERU       8574
+8330       2236   ////      2241  CUL  C   RSP  28-90     III/1             8574

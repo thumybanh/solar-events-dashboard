@@ -1,0 +1,65 @@
+:Product: 19980515events.txt
+:Created: 1998 May 18 0302 UT
+:Date: 1998 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3190 +     0040   ////      0044  LEA  C   RSP  030-08    III/2                 
+3190 +     0043   0043      0043  LEA  G   RBR  245       98                    
+
+3200 +     0121   0128      0142  GO9  5   XRA  1-8A      B8.8    9.6E-04       
+3200       0142   ////      0142  LEA  C   RSP  030-05    III/1                 
+3200 +     0145   0145      0145  LEA  G   RBR  245       130                   
+
+3220       0154   ////      0156  LEA  C   RSP  030-05    III/1                 
+
+3230 +     0214   0221      0224  GO9  5   XRA  1-8A      C1.8    6.9E-04   8218
+
+3250 +     0344   ////      0345  CUL  C   RSP  25-170    III/1                 
+
+3280       0402   ////      0903  LEA  C   RSP  030-04    CTM/1                 
+
+3260 +     0437   ////      0446  SVI  C   RSP  035-08    III/3                 
+
+3270       0514   ////      0515  LEA  C   RSP  030-04    III/2                 
+
+3290       0655   ////      0700  LEA  C   RSP  030-04    III/2                 
+
+3300       0901   ////      0901  SVI  C   RSP  035-06    III/2                 
+
+3310       0946   ////      0946  SVI  C   RSP  035-05    III/2                 
+
+3320 +     1002   1009      1015  GO9  5   XRA  1-8A      C1.7    1.1E-03       
+
+3330 +     1023   ////      1025  SVI  C   RSP  035-08    III/2                 
+
+3340 +     1229   ////      1229  SVI  C   RSP  036-07    III/2                 
+
+3350       1241   ////      1242  SVI  C   RSP  036-07    III/3                 
+
+3360       1356   ////      1357  SVI  C   RSP  040-08    III/2                 
+
+3380       1446   ////      1449  SVI  C   RSP  035-08    III/3                 
+
+3390       1455   ////      1455  SAG  C   RSP  030-06    III/1                 
+
+3400       1536   1536      1548  HOL  3   FLA  S19W41    SF                8218
+
+3370 +    A1613   ////      0600  SVI  3   DSF  S39W59    13      B.0A          
+
+3510       1941   ////      1951  PAL  C   RSP  025-07    III/2             8218
+3510 +     1942   1942      1942  PAL  G   RBR  245       140               8218
+
+3420       2114   ////      2115  PAL  C   RSP  025-07    III/2                 
+3420       2114   ////      2114  SAG  C   RSP  030-08    V/1                   
+
+3430 +     2222   2224      2226  PAL  G   RBR  245       960                   
+3430       2222   ////      2225  PAL  C   RSP  025-07    V/2                   
+3430       2224   ////      2224  SAG  C   RSP  030-08    III/2                 

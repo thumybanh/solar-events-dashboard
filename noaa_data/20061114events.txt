@@ -1,0 +1,63 @@
+:Product: 20061114events.txt
+:Created: 2006 Nov 17 0329 UT
+:Date: 2006 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9720 +     0000   0004      0007  G12  5   XRA  1-8A      B1.2    4.1E-05       
+
+9740       0037   ////      0037  LEA  C   RSP  025-125   III/2                 
+
+9790       0039   ////      0039  CUL  C   RSP  18-100    III/2                 
+
+9750 +     0059   0102      0110  G12  5   XRA  1-8A      B1.0    6.4E-05       
+
+9760 +     0123   0130      0134  G12  5   XRA  1-8A      B2.7    1.2E-04       
+
+9770       0231   ////      0231  LEA  C   RSP  025-116   III/2                 
+
+9780 +     0343   ////      0344  LEA  C   RSP  025-180   III/2                 
+
+9800       0522   ////      0523  LEA  C   RSP  025-175   III/2                 
+
+9930       0545   ////      0545  CUL  C   RSP  20-90     III/2                 
+
+9940       0552   ////      0552  CUL  C   RSP  20-90     III/2                 
+
+9810 +     0602   ////      0606  LEA  C   RSP  025-146   III/2                 
+
+9820 +     0657   ////      0658  CUL  C   RSP  20-120    III/3                 
+
+9880       0700   ////      1200  IZM  F   RNS  204       25                    
+
+9950       0753   ////      0755  CUL  C   RSP  20-140    III/2                 
+
+9830 +     0804   0809      0814  G12  5   XRA  1-8A      B1.1    6.0E-05       
+
+9840       0946   0946      0946  LEA  G   RBR  245       130                   
+
+9850       0950   ////      0952  SVI  C   RSP  025-147   V/2                   
+9850       0951   ////      0952  LEA  C   RSP  025-157   III/2                 
+
+9860       1011   ////      1013  SVI  C   RSP  025-147   V/2                   
+
+9870 +     1610   1613      1617  G12  5   XRA  1-8A      B1.1    3.9E-05       
+
+  10       1810   ////      0333  PAL  C   RSP  122-180   CTM/1                 
+
+9890       1834   ////      1835  PAL  C   RSP  025-128   III/1                 
+
+9900       1841   1841      1841  PAL  G   RBR  245       150                   
+
+9910       1929   1929      1929  PAL  G   RBR  245       100                   
+
+9920       1946   ////      1947  PAL  C   RSP  025-092   III/1                 
+
+9880       2006   2007      2341  PAL  G   RNS  245       130                   

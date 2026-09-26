@@ -1,0 +1,41 @@
+:Product: 19980721events.txt
+:Created: 1998 Jul 24 0302 UT
+:Date: 1998 07 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5200       0226   ////      0226  LEA  C   RSP  030-04    III/1                 
+
+5210 +     0326   ////      0326  PAL  C   RSP  035-05    III/1                 
+
+5220       0548   0549      0600  SVI  3   FLA  N20W66    SF                8269
+
+5230 +     0613   ////      0614  SVI  C   RSP  035-05    III/2                 
+
+5240 +     0708   ////      0708  SVI  U   RSP  035-06    III/1                 
+
+5250       0828   ////      0828  SVI  U   RSP  035-05    III/2                 
+
+5260       0950   ////      0950  SVI  U   RSP  035-05    III/2                 
+
+5280 +     1404   ////      1408  SVI  C   RSP  035-08    III/2                 
+5280 +     1404   ////      1408  SVI  C   RSP  035-08    III/2                 
+5280       1406   1407      1408  SVI  G   RBR  245       78                    
+
+5290       1552   ////      1553  SAG  C   RSP  030-06    V/1                   
+5290       1552   ////      1552  SVI  C   RSP  035-08    III/2                 
+
+5300       1644   1644      1701  SVI  3   FLA  S13W40    SF                8277
+
+5310 +     2049   2056      2106  GO9  5   XRA  1-8A      B6.8    5.8E-04       
+
+5410      A2204   ////      1159  RAM  3   DSF  N23E05    12      B.0A          
+
+5320 +     2337   2341      2344  GO9  5   XRA  1-8A      B6.9    2.6E-04       

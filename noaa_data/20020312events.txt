@@ -1,0 +1,61 @@
+:Product: 20020312events.txt
+:Created: 2002 Mar 15 0300 UT
+:Date: 2002 03 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1000       0015   0020      0205  PAL  G   RBR  245       2600                  
+1000 +     0016   0136      0206  LEA  G   RBR  606       1400                  
+1000 +     0018   0047      0207  LEA  G   RBR  410       430                   
+1000       0019   0036      0056  LEA  G   RBR  1415      260                   
+1000       0020   0021      0021  LEA  G   RBR  4995      25                    
+
+1010       0143   0143      0144  PAL  G   RBR  1415      180                   
+
+1070       0224   0236      0245  GO8  5   XRA  1-8A      C3.9    4.2E-03       
+
+1020       0256   0256      0257  LEA  G   RBR  245       110                   
+
+1030       0306   0309      0311  PAL  G   RBR  245       100                   
+
+1050       0311   0310     U0417  LEA  G   RNS  245       92                    
+
+1110       0436   0437      0520  LEA  G   RNS  245       110                   
+
+1060 +     0831   0837      0843  GO8  5   XRA  1-8A      C5.3    2.6E-03   9866
+1060 +     0833   0833      0834  SVI  G   RBR  606       300               9866
+1060       0833   ////      0834  SVI  U   RSP  030-083   III/1             9866
+1060 +     0834   0837      0855  LEA  3   FLA  S13E41    1F      ERU       9866
+
+1090 +     1149   1152      1155  GO8  5   XRA  1-8A      C1.1    3.7E-04       
+
+1100 +     1310   1315      1317  GO8  5   XRA  1-8A      C2.0    5.6E-04   9866
+1100       1315   1316      1320  RAM  3   FLA  S11E46    SF                9866
+
+1130 +     1632   1635      1637  GO8  5   XRA  1-8A      C2.1    4.6E-04       
+
+1140 +     1904   1909      1912  GO8  5   XRA  1-8A      C2.2    7.2E-04   9866
+1140       1906   1907      1908  SAG  G   RBR  245       650               9866
+1140 +     1906   ////      1908  SAG  C   RSP  030-080   III/3             9866
+1140       1907   1907      1907  SAG  G   RBR  410       97                9866
+1140       1907   1907      1907  SAG  G   RBR  2695      31                9866
+1140       1907   1907      1907  SAG  G   RBR  4995      73                9866
+1140       1907   1907      1907  SAG  G   RBR  8800      120               9866
+1140       1907   1907      1907  SAG  G   RBR  15400     29                9866
+1140 +     1907   1909      1915  HOL  3   FLA  S12E38    SF      ERU       9866
+
+1150 +     2301   2313      2324  GO8  5   XRA  1-8A      M1.5    1.2E-02   9871
+1150 +     2305   2306      2306  PAL  G   RBR  606       750               9871
+1150 +     2305   2305      2311  COM  3   FLA  S22E93    SF                9871
+1150       2306   ////      2306  CUL  C   RSP  550-800   III/1             9871
+1150 +     2319   ////      2322  PAL  C   RSP  102-180   II/1    549       9871
+
+1160 +     2346   2348      2348  PAL  G   RBR  606       290                   
+1160       2347   2347      2348  PAL  G   RBR  410       66                    

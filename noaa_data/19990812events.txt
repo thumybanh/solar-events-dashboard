@@ -1,0 +1,36 @@
+:Product: 19990812events.txt
+:Created: 1999 Aug 15 0302 UT
+:Date: 1999 08 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9980       0000   0025      0115  GO8  5   XRA  1-8A      C1.8    6.9E-03       
+
+10   +     0252   0301      0305  GO8  5   XRA  1-8A      C2.4    1.2E-03       
+10         0256   ////      0257  CUL  C   RSP  100-17    III/1                 
+10         0300   0300      0301  LEA  U   RBR  410       60                    
+
+20         0620   ////      0716  SVI  U   RSP  061-08    CTM/1                 
+
+30   +     1012   1020      1033  GO8  5   XRA  1-8A      C1.1    1.1E-03       
+
+40         1207   ////      1210  SAG  C   RSP  030-08    III/1                 
+40         1207   ////      1210  SVI  C   RSP  035-06    V/2                   
+
+50         1237   ////      1240  SVI  C   RSP  035-06    V/2                   
+
+110       A1651   ////      0435  SVI  3   DSF  N68W35    23      B.0A          
+
+60         1847   ////      1854  RAM  3   BSL  N13E90    0.15    B.6A          
+
+90        B1850   ////      1900  HOL  4   BSL  N25E90    0.23    B.4A          
+
+70   +     2040   2040      2040  PAL  G   RBR  245       270               8662
+70         2041   2041      2044  HOL  3   FLA  S14W14    SF                8662

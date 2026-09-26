@@ -1,0 +1,38 @@
+:Product: 20000113events.txt
+:Created: 2000 Jan 16 0302 UT
+:Date: 2000 01 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7890       0102   ////      0103  LEA  C   RSP  030-06    III/1                 
+
+7900       0158   ////      0159  PAL  C   RSP  025-07    III/1                 
+
+7910       0229   0248      0310  LEA  3   FLA  N12E66    1F      DSD       8829
+7910 +     0243   0252      0302  GO8  5   XRA  1-8A      C5.5    4.9E-03   8829
+
+7980       0329   0334      0336  LEA  3   FLA  N17W37    SF                8826
+
+7960       1201   1220      1239  GO8  5   XRA  1-8A      C1.6    3.1E-03       
+
+7920 +     1338   1344      1402  GO8  5   XRA  1-8A      C1.8    2.2E-03       
+
+7930       1506   1512      1544  HOL  3   FLA  S13E28    SF                8824
+7930 +     1510   1513      1521  GO8  5   XRA  1-8A      C3.5    1.8E-03   8824
+7930 +     1512   1512      1514  SAG  G   RBR  8800      110               8824
+7930 +     1512   1512      1514  SAG  G   RBR  15400     63                8824
+
+7940       1825   1830      1841  G10  5   XRA  1-8A      C2.6    2.3E-03   8827
+7940       1826   1830      1843  HOL  3   FLA  S13W46    SF                8827
+
+7970       1900   1923      1952  GO8  5   XRA  1-8A      C2.4    6.9E-03       
+
+7950       2036   2044      2121  HOL  3   FLA  N11E56    SF                8829
+7950       2040   2049      2106  G10  5   XRA  1-8A      C2.6    3.7E-03   8829

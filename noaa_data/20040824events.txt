@@ -1,0 +1,37 @@
+:Product: 20040824events.txt
+:Created: 2004 Aug 27 0302 UT
+:Date: 2004 08 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Aug 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 840       0639   0639      0639  SVI  G   RBR  245       80                    
+
+ 850       0717   0717      0717  SVI  G   RBR  245       58                    
+
+ 860       0943   0943      0943  SVI  G   RBR  245       38                    
+ 860       0943   0943      0943  SVI  G   RBR  410       85                    
+
+ 870       1148   1152      1200  G10  5   XRA  1-8A      B3.0    2.0E-04       
+
+ 880 +     1315   1316      1316  SVI  G   RBR  245       120                   
+
+ 890 +     1330   1352      1412  G12  5   XRA  1-8A      B7.6    1.5E-03       
+ 890       1333   1408      1410  G12  5   XFL  S07E81    2.8E+02 5.1E+02       
+ 890       1345   ////      1437  SVI  3   BSL  ////      0.34    B.9A          
+ 890 +     1348   1348      1348  SAG  G   RBR  245       100                   
+
+ 910       2054   2112      2127  G12  5   XRA  1-8A      B5.4    8.2E-04       
+
+ 900 +     2057   ////      2102  PAL  C   RSP  025-087   III/1                 
+
+ 910       2058   ////      2103  CUL  C   RSP  18-180    III/2                 
+ 910 +     2110   ////      2134  CUL  C   RSP  23-95     II/3    800           
+
+ 920       2206   ////      2207  CUL  C   RSP  23-90     III/1                 

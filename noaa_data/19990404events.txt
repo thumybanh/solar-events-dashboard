@@ -1,0 +1,72 @@
+:Product: 19990404events.txt
+:Created: 1999 Apr 07 0302 UT
+:Date: 1999 04 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4080       0243   ////      0244  PAL  C   RSP  040-07    III/1                 
+
+4090       0420   ////      0423  PAL  C   RSP  045-06    II/1    600           
+
+4100      B0506   0509      0546  SVI  2   FLA  S28W05    SF      ERU       8506
+4100       0508   0509      0509  SVI  G   RBR  245       91                    
+4100       0508   ////      0510  SVI  C   RSP  058-08    III/1             8506
+
+4110       0515   0525      0530  G10  5   XRA  1-8A      M5.4              8508
+4110       0518   0521      0522  SVI  G   RBR  2695      190               8508
+4110 +     0519   0521      0522  LEA  G   RBR  1415      73                8508
+4110      B0519   0528      0537  SVI  2   FLA  N18E72    1F      DSD       8508
+4110 +     0520   0521      0524  LEA  G   RBR  8800      260               8508
+4110       0520   0521      0524  SVI  G   RBR  4995      130               8508
+4110 +     0521   0521      0524  LEA  G   RBR  15400     190               8508
+
+4120       0528   0528      0537  SVI  2   FLA  N18E72    1F      DSD       8508
+
+4140       0923   0923      0924  SVI  G   RBR  245       150                   
+
+4150 +     1207   1207      1208  SVI  G   RBR  245       51                    
+
+4190       1221   1222      1222  SAG  G   RBR  245       72                    
+
+4200 +     1308   1314      1314  SVI  G   RBR  245       150                   
+
+4210 +     1404   1404      1406  SAG  G   RBR  245       58                    
+4210 +     1404   1404      1405  SAG  G   RBR  410       51                    
+4210       1405   ////      1406  SVI  C   RSP  035-06    III/2                 
+4210       1405   ////      1406  SAG  C   RSP  030-06    V/1                   
+
+4220 +     1411   1412      1412  SAG  G   RBR  245       89                    
+
+4230       1415   1423      1432  RAM  3   FLA  N11E51    SF                8507
+
+4240       1456   ////      1456  SAG  C   RSP  030-04    III/1                 
+
+4250 +     1500   1500      1501  SAG  G   RBR  245       120                   
+4250       1500   1500      1501  SVI  G   RBR  410       43                    
+
+4260       1506   1506      1512  RAM  3   FLA  S26W11    SF                8506
+
+4270       1525   1529      1545  RAM  3   FLA  S26W11    SF      ERU       8506
+4270 +     1545   1545      1546  SAG  G   RBR  245       240               8506
+
+4280 +     1919   ////      1920  PAL  C   RSP  025-07    III/1                 
+
+4290       1921   1922      1923  SAG  G   RBR  245       160                   
+
+4300       1935   1938      1941  SAG  G   RBR  245       200                   
+
+4310       2018   2018      2018  SAG  G   RBR  245       120                   
+
+4320       2059   2059      2059  SAG  G   RBR  245       120                   
+
+4330 +     2108   2108      2108  PAL  G   RBR  245       60                    
+
+4340 +     2147   2150      2154  GO8  5   XRA  1-8A      C2.3    7.6E-04       
+4340       2148   ////      2154  PAL  C   RSP  025-07    III/2                 

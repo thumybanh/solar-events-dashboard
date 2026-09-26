@@ -1,0 +1,29 @@
+:Product: 20051004events.txt
+:Created: 2005 Oct 07 0329 UT
+:Date: 2005 10 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Oct 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1110       0046   ////      0046  PAL  C   RSP  025-054   III/1                 
+
+1120       0047   ////      0048  LEA  C   RSP  025-112   III/1                 
+
+1130      B0529   ////     B0600  LEA  2   EPL  ////      0.15    B.9A          
+1130       0532   0622      0655  G12  5   XRA  1-8A      B7.2    2.9E-03       
+
+1140 +     0646   0649      0652  G12  5   XRA  1-8A      B8.4    2.6E-04       
+
+1150       0902   0914      0918  G12  5   XRA  1-8A      B6.4    4.9E-04       
+
+1160 +     0943   0950      0952  G12  5   XRA  1-8A      B8.4    3.0E-04       
+
+1170 +     1923   1927      1932  G12  5   XRA  1-8A      B5.4    2.6E-04       
+
+1180 +     2137   2158      2211  G12  5   XRA  1-8A      B8.4    1.4E-03       

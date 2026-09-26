@@ -1,0 +1,95 @@
+:Product: 20030703events.txt
+:Created: 2003 Jul 06 0302 UT
+:Date: 2003 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5560 +     0106   0113      0117  G12  5   XRA  1-8A      C1.2    7.1E-04   0400
+5560       0108   0109      0120  LEA  3   FLA  N03E58    SF                0400
+
+5570 +     0139   0140      0141  LEA  G   RBR  245       130                   
+5570       0139   ////      0140  LEA  C   RSP  052-180   III/1                 
+
+5580 +     0150   0150      0150  LEA  G   RBR  245       67                    
+
+5590 +     0155   0156      0156  LEA  G   RBR  245       100                   
+
+5600 +     0218   0219      0219  LEA  G   RBR  245       220                   
+
+5610 +     0222   0223      0223  PAL  G   RBR  245       72                    
+
+5620 +     0237   0237      0237  LEA  G   RBR  245       71                    
+
+5630       0402   0402      0402  LEA  G   RBR  245       65                    
+
+5640       0407   0407      0407  LEA  G   RBR  245       110                   
+
+5650 +     0418   0423      0427  G12  5   XRA  1-8A      B9.9    4.4E-04   0397
+5650 +     0420   0422      0435  LEA  3   FLA  N14E18    SF                0397
+
+5770       0432   ////      1800  SVI  C   RSP  080-180   CTM/1                 
+
+5660       0449   0449      0455  LEA  3   FLA  N09E01    SF                0397
+
+5670       0457   0458      0502  LEA  3   FLA  N02E59    SF                0400
+5670 +     0458   0458      0458  LEA  G   RBR  245       61                0400
+
+5680 +     0551   0602      0611  G12  5   XRA  1-8A      C3.8    3.2E-03   0397
+5680       0552   ////      0556  SVI  C   RSP  025-081   III/1             0397
+5680 +     0555   0600      0614  LEA  3   FLA  N13E23    SF      PRB       0397
+
+5690 +     0815   ////      0815  LEA  C   RSP  025-180   III/1                 
+
+5700       0822   0822      0822  LEA  G   RBR  245       51                    
+
+5710 +     0832   0832      0833  SVI  G   RBR  245       92                    
+
+5720       0854   ////      0854  SVI  C   RSP  025-151   III/1                 
+
+5730 +     1205   1212      1222  G12  5   XRA  1-8A      C2.7    2.1E-03   0397
+5730       1207   1211      1225  SVI  3   FLA  N15E05    SF      ERU       0397
+
+5740       1228   1236      1244  G12  5   XRA  1-8A      C2.8    2.4E-03   0397
+5740       1229   1231      1238  SVI  3   FLA  N15E11    SF                0397
+
+5750       1340   1341      1351  HOL  3   FLA  N13E10    SF      ERU       0397
+
+5760 +     1446   1456      1520  HOL  3   FLA  N04E51    SF      ERU       0400
+5760 +     1449   1458      1509  G12  5   XRA  1-8A      C3.3    3.3E-03   0400
+
+5780 +     1711   ////      1712  SAG  C   RSP  030-055   III/2                 
+
+5790 +     1723   1727      1733  G12  5   XRA  1-8A      B6.4    3.4E-04   0397
+
+5800 +     1824   ////      1826  SAG  C   RSP  030-065   III/2                 
+
+5810       2008   2008      2008  SAG  G   RBR  245       180                   
+
+5820       2009   2009      2009  SAG  G   RBR  245       140                   
+
+5830       2011   2011      2012  PAL  G   RBR  245       340                   
+
+5840       2023   ////      2023  PAL  C   RSP  025-082   III/1                 
+
+5850 +     2038   2039      2039  PAL  G   RBR  410       66                    
+
+5860 +     2039   ////      2039  PAL  C   RSP  025-075   III/1                 
+
+5870       2057   ////      2100  PAL  C   RSP  025-092   III/1                 
+
+5880       2103   2107      2112  HOL  3   FLA  N09W08    SF                0397
+
+5890       2213   2219      2237  HOL  3   FLA  N13E06    SF      ERU       0397
+5890 +     2215   2215      2215  SAG  G   RBR  245       86                0397
+5890       2215   2215      2215  PAL  G   RBR  410       22                0397
+
+5900       2243   2251      2251  SAG  G   RNS  245       73                    
+
+5910       2322   ////      0911  LEA  C   RSP  025-180   CTM/1             0397

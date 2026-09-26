@@ -1,0 +1,54 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 21 Mar 1998
+
+EDITED EVENTS for 1998 Mar 18
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+1100 +     0011   0046      0059  GO9  5   XRA  1-8A      C1.9    3.4E-03   8179
+1100       0036   0048      0052  LEA  4   FLA  S21W31    SF      ERU       8179
+
+1110       0103   0103      0103  PAL  U   RBR  245       72
+
+1120 +     0123   0123      0124  LEA  G   RBR  245       52
+
+1130       0128   0129      0129  PAL  U   RBR  245       51
+
+1140       0133   0134      0135  PAL  U   RBR  245       64
+
+1150 +     0137   0138      0140  LEA  G   RBR  245       55
+
+1160       0204   ////      0211  CUL  C   RSP  65-180    III/1
+1160       0210   0211      0212  PAL  U   RBR  245       53
+
+1190 +     0240   0244      0253  GO9  5   XRA  1-8A      B5.2    3.6E-04
+
+1200 +     0255   0300      0304  GO9  5   XRA  1-8A      C1.2    4.8E-04   8179
+1200       0258   0302      0311  LEA  4   FLA  S17W35    SF      ERU       8179
+
+1210 +     0424   0424      0424  LEA  G   RBR  245       73
+
+1220       0428   ////      0428  CUL  C   RSP  70-110    III/1
+
+1230       0429   0430      0430  LEA  G   RBR  245       110
+
+1240       0448   0448      0448  LEA  G   RBR  245       120
+
+1290       0700   0000      1200       F   RNS  204       17
+
+1250       0738   0739      0741  COM  3   FLA  N18E63    SF                8183
+
+1260       0854   0854      0855  LEA  G   RBR  245       53
+
+1270 +     1050   1112      1134  GO9  5   XRA  1-8A      M1.0    1.9E-02
+
+1280       1517   1517      1526  RAM  4   FLA  S24W38    SF                8179
+
+1290       1703   1707      1707  SAG  G   RNS  245       110
+
+1310       2048   ////      2048  CUL  C   RSP  25-45     III/1
+
+1320 +     2349   ////      2354  LEA  C   RSP  030-08    III/3
+
+1300       2353   2353      2354  PAL  U   RBR  245       150
+1300       2354   ////      2354  CUL  C   RSP  25-270    III/3

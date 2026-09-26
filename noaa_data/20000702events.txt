@@ -1,0 +1,62 @@
+:Product: 20000702events.txt
+:Created: 2000 Jul 05 0302 UT
+:Date: 2000 07 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jul 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5650       0234   0234      0234  LEA  G   RBR  410       81                    
+
+5660       0352   0353      0354  LEA  G   RBR  245       66                    
+5660       0353   ////      0354  LEA  C   RSP  077-18    III/1                 
+
+5670       0411   ////      0411  SVI  C   RSP  035-08    III/1                 
+
+5680 +     0450   0453      0456  GO8  5   XRA  1-8A      C1.3    3.6E-04   9068
+5680       0453   0454      0457  LEA  3   FLA  S21E67    SF                9068
+
+5690       0557   0557      0558  SVI  G   RBR  245       81                    
+5690 +     0558   ////      0559  LEA  C   RSP  025-13    III/1                 
+
+5700 +     0800   ////      0800  LEA  C   RSP  025-12    III/1                 
+
+5710       0906   0914      0917  GO8  5   XRA  1-8A      C1.3    6.9E-04   9068
+5710       0914   0915      0917  SVI  3   FLA  S24E70    SF                9068
+
+5720 +     0932   0942      0949  GO8  5   XRA  1-8A      C3.8    2.6E-03       
+
+5730       1256   1258      1305  RAM  3   FLA  S21E57    SF                9068
+
+5740 +     1405   1410      1415  GO8  5   XRA  1-8A      C1.4    7.0E-04       
+
+5750       1457   ////      1458  HOL  C   RSP  025-13    III/1                 
+
+5760       1537   ////      1540  SAG  C   RSP  030-08    V/1               9070
+5760 +     1539   1541      1551  COM  3   FLA  N14E74    SF                9070
+5760 +     1544   ////      1556  HOL  C   RSP  025-08    II/1    931       9070
+
+5780       1641   1642      1651  RAM  3   FLA  S22E56    SF                9068
+
+5790       1719   1720      1722  HOL  3   FLA  S19E57    SF                9068
+
+5800       1758   1804      1819  HOL  3   FLA  S20E58    SF                9068
+
+5820 +     1901   ////      1902  HOL  C   RSP  025-12    III/1                 
+
+5830 +     1951   1951      1951  PAL  G   RBR  245       170                   
+
+5840       2034   2048      2057  HOL  3   FLA  S20E57    SF                9068
+
+5850       2124   2124      2136  HOL  3   FLA  S20E57    SF                9068
+
+5860       2314   2323      2331  HOL  3   FLA  N19E71    SF                9070
+
+5870       2332   2338      0105  HOL  3   FLA  N19E72    SF      ERU       9070
+
+5920       2337   2338      2348  HOL  3   FLA  S18E53    SF                9068

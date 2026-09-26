@@ -1,0 +1,45 @@
+:Product: 20050828events.txt
+:Created: 2005 Aug 31 0329 UT
+:Date: 2005 08 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Aug 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7240 +     0627   0631      0635  G12  5   XRA  1-8A      B1.5    6.6E-05       
+
+7320 +     0755   ////      0946  SVI  3   DSF  S17W12    07      B.0A          
+
+7250 +     0918   0925      0930  G12  5   XRA  1-8A      B1.8    1.1E-04       
+
+7260       0931   ////      0932  SVI  U   RSP  025-084   III/2                 
+
+7270       0959   ////      0959  SVI  C   RSP  025-180   III/1                 
+
+7280 +     1017   1028      1037  G12  5   XRA  1-8A      M1.6    1.3E-02   0803
+7280       1018   1020      1028  SVI  G   RBR  2695      520               0803
+7280       1018   ////      1027  SVI  C   RSP  025-180   III/3             0803
+7280       1019   1024      1027  SVI  G   RBR  245       470               0803
+7280       1019   1024      1028  SVI  U   RBR  606       1000              0803
+7280       1019   1020      1028  SVI  G   RBR  1415      270               0803
+7280       1019   1020      1028  SVI  G   RBR  4995      1700              0803
+7280       1019   1020      1028  SVI  G   RBR  8800      1000              0803
+7280       1019   1020      1027  SVI  G   RBR  15400     430               0803
+7280       1020   1022      1026  SVI  U   RBR  410       1300              0803
+7280       1020   1036      1036  G12  5   XFL  N09E36    5.9E+03 5.3E+04   0803
+7280       1023   1029      1035  SVI  3   FLA  N09E36    SF      ERU       0803
+
+7290 +     1059   1102      1105  G12  5   XRA  1-8A      B8.2    2.4E-04   0803
+7290       1104   1104      1104  G12  5   XFL  N10E29    9.8E+02 3.0E+03   0803
+
+7300 +     1107   ////      1107  SVI  C   RSP  025-056   III/2                 
+
+7310       1620   ////      1621  SVI  C   RSP  025-079   III/1                 
+
+7330 +     1942   1951      1954  G12  5   XRA  1-8A      B4.5    2.1E-04   0803
+7330       1945   1949      1954  G12  5   XFL  N10E24    8.5E+02 2.4E+03   0803

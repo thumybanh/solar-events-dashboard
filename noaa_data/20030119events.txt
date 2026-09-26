@@ -1,0 +1,58 @@
+:Product: 20030119events.txt
+:Created: 2003 Jan 22 0302 UT
+:Date: 2003 01 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3880       0000   ////      0000  CUL  C   RSP  25-130    III/1                 
+
+3820       0315   0318      0320  GO8  5   XRA  1-8A      B4.8    1.4E-04       
+
+3890       0347   ////      0348  CUL  C   RSP  60-150    III/1                 
+
+3660       0415   0415      0415  LEA  U   RBR  245       120                   
+3660 +     0415   ////      0416  CUL  C   RSP  70-360    III/1                 
+
+3830       0421   0423      0425  GO8  5   XRA  1-8A      B5.6    1.3E-04       
+
+3670 +     0425   ////      0425  LEA  C   RSP  025-180   III/3                 
+
+3680       0514   ////      0514  LEA  C   RSP  025-092   III/1                 
+
+3840       0600   0606      0610  GO8  5   XRA  1-8A      B6.0    3.6E-04       
+
+3690 +     0655   ////      0656  LEA  C   RSP  025-121   III/1                 
+
+3700       0701   ////      0701  SVI  U   RSP  029-180   III/1                 
+
+3710       0702   0702      0702  SVI  U   RBR  245       27                    
+3710       0702   0702      0702  SVI  U   RBR  410       66                    
+
+3720 +     0709   ////      0709  CUL  C   RSP  23-75     III/1                 
+
+3850       0901   0910      0920  GO8  5   XRA  1-8A      B6.1    6.3E-04       
+
+3740       1137   ////      1137  SVI  U   RSP  028-180   III/1                 
+
+3770       1249   1255      1258  GO8  5   XRA  1-8A      B4.6    2.4E-04   0260
+3770       1251   ////      1253  SVI  U   RSP  029-180   III/1             0260
+3770      B1254  U1254      1314  RAM  4   FLA  N14E31    SF      ERU       0260
+
+3790       1412   1412      1412  SVI  G   RBR  606       35                    
+3790       1412   1416      1421  GO8  5   XRA  1-8A      B5.5    2.8E-04       
+3790 +     1413   1413      1415  SAG  G   RBR  410       92                    
+
+3800 +     1447   ////      1448  SVI  C   RSP  025-180   III/1                 
+
+3870       1621   ////      1622  HOL  C   RSP  087-180   III/1                 
+
+3910       2119   ////      2119  CUL  C   RSP  20-140    III/1                 
+
+3920       2158   ////      2158  CUL  C   RSP  30-90     III/1                 

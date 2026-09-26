@@ -1,0 +1,44 @@
+:Product: 20000530events.txt
+:Created: 2000 Jun 02 0302 UT
+:Date: 2000 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4540       0019   0021      0023  HOL  3   FLA  S20E51    SF                9022
+
+4560       0204   0242      0320  GO8  5   XRA  1-8A      C1.4    5.2E-03       
+
+4570       0314   ////      0314  LEA  C   RSP  030-05    III/1                 
+
+4580       0459   ////      0459  SVI  C   RSP  036-05    III/1                 
+
+4590       0548   0549      0549  SVI  G   RBR  245       63                    
+
+4640       0608   ////      1748  SVI  C   RSP  035-08    CTM/1                 
+
+4610 +     0800   0802      0855  LEA  G   RNS  245       390                   
+
+4600       1126   ////      1126  SAG  C   RSP  030-06    III/1                 
+
+4630       1600   ////      1607  SAG  C   RSP  030-04    III/1                 
+
+4810      A1644   ////      1151  RAM  3   DSF  N09W09    11      B.0A          
+
+4650 +     1843   1847      1851  GO8  5   XRA  1-8A      B8.0    3.3E-04       
+
+4660 +     2036   2041      2047  GO8  5   XRA  1-8A      C5.0    3.0E-03       
+
+4670       2225   2228      2231  SAG  G   RBR  4995      32                    
+4670       2227   2229      2231  SAG  G   RBR  15400     57                    
+4670       2231   2232      2232  PAL  G   RBR  245       140                   
+
+4680       2249   2255      2301  G10  5   XRA  1-8A      C1.2    7.7E-04       
+
+4690       2306   ////      2306  PAL  C   RSP  025-05    III/1                 

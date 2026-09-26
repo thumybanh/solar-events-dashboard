@@ -1,0 +1,56 @@
+:Product: 19990329events.txt
+:Created: 1999 Apr 01 0302 UT
+:Date: 1999 03 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3490       0007   ////      0008  CUL  C   RSP  30-140    III/1                 
+
+3340 +     0031   ////      0031  CUL  C   RSP  20-80     III/1                 
+
+3350 +     0057   ////      0058  CUL  C   RSP  18-150    III/2                 
+
+3500       0232   ////      0232  CUL  C   RSP  25-75     III/1                 
+
+3250       0415   ////      0415  CUL  C   RSP  35-100    III/1                 
+
+3260 +     0606   ////      0610  CUL  C   RSP  30-90     III/1                 
+
+3270 +     0725   0731      0745  GO8  5   XRA  1-8A      B1.6    1.7E-04       
+3270       0739   ////      0739  CUL  C   RSP  40-90     III/1                 
+
+3280       0855   ////      0856  SVI  C   RSP  035-04    III/1                 
+
+3290 +     1020   1025      1029  GO8  5   XRA  1-8A      B2.3    1.0E-04       
+
+3300 +     1036   1040      1043  GO8  5   XRA  1-8A      B1.8    6.8E-05       
+
+3310 +     1204   ////      1211  SVI  C   RSP  035-08    III/2             8502
+3310       1208   1213      1216  RAM  4   FLA  S27E68    SF      ERU       8502
+
+3320 +     1330   1336      1340  GO8  5   XRA  1-8A      B2.7    1.2E-04       
+
+3330       1533   ////      1537  SVI  U   RSP  035-08    V/2                   
+
+3340       1534   ////      1538  SAG  C   RSP  030-06    V/1                   
+
+3330 +     1534   1549      1620  GO8  5   XRA  1-8A      B3.1    7.5E-04       
+
+3350 +     1700   1705      1707  GO8  5   XRA  1-8A      B3.1    9.3E-05   8502
+3350       1702   1704      1708  RAM  3   FLA  S29E66    SF                8502
+
+3430      A1850   ////      1103  RAM  3   DSF  N00E32    14      B.0A          
+
+3360       1950   ////      1952  PAL  C   RSP  025-05    III/1                 
+
+3370       2143   2143      2143  SAG  G   RBR  245       70                    
+
+3380 +     2212   2216      2219  GO8  5   XRA  1-8A      C1.4    3.6E-04   8502
+3380       2214   2216      2220  HOL  3   FLA  S27E64    SF                8502

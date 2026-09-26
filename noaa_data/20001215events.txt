@@ -1,0 +1,56 @@
+:Product: 20001215events.txt
+:Created: 2000 Dec 18 0302 UT
+:Date: 2000 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7960       0010   ////      0010  CUL  C   RSP  23-140    III/1                 
+
+7930       0109   ////      0110  LEA  C   RSP  025-104   III/1                 
+
+7940       0211   0211      0212  LEA  G   RBR  245       87                    
+
+7970       0215   ////      0217  CUL  C   RSP  25-90     III/1                 
+
+7980       0220   ////      0220  CUL  C   RSP  18-120    III/1                 
+
+7950 +     0330   ////      0330  CUL  C   RSP  18-150    III/3                 
+
+7990       0418   ////      0418  CUL  C   RSP  20-90     III/1                 
+
+8000       0639   0640      0647  LEA  3   FLA  N20W55    SF                9266
+8000 +     0648   0651      0658  GO8  5   XRA  1-8A      C1.1    6.4E-04   9266
+
+8020       0712   ////      0712  LEA  C   RSP  025-065   III/1                 
+
+8030       0817   ////      0818  LEA  C   RSP  025-099   III/1                 
+
+8040       0826   ////      0826  LEA  C   RSP  025-077   III/1                 
+
+8050       0926   0927      0929  LEA  3   FLA  N24W54    SF                9266
+8050       0929   0930      0931       F   RBR  3000      17                9266
+
+8060 +     0930   0933      0941  LEA  3   FLA  N11W22    SF      ERU       9262
+
+8070 +     1112   1119      1129  GO8  5   XRA  1-8A      C2.7    2.2E-03   9267
+8070       1115   1116      1127  SVI  3   FLA  N10W12    SF      ERU       9267
+
+8080 +     1854   1859      1906  GO8  5   XRA  1-8A      C1.3    8.7E-04   9269
+8080      B1855  U1856      1909  RAM  3   FLA  N14E40    SF                9269
+
+8090 +     1935   1956      2007  GO8  5   XRA  1-8A      C5.3    6.7E-03   9262
+8090       1942   1959      2015  HOL  3   FLA  N19W16    SF      ERU       9262
+
+8110       1946   1952      2024  RAM  3   FLA  N18W16    SF      ERU       9263
+
+8100 +     2122   2129      2136  GO8  5   XRA  1-8A      C2.5    1.7E-03   9264
+8100       2126   2128      2137  HOL  3   FLA  S26E13    SF      ERU       9264
+
+8120       2328   2337      2351  LEA  3   FLA  N15E34    SF      ERU       9269

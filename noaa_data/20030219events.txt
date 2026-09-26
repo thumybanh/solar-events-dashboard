@@ -1,0 +1,48 @@
+:Product: 20030219events.txt
+:Created: 2003 Feb 22 0302 UT
+:Date: 2003 02 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7850 +     0217   0225      0237  GO8  5   XRA  1-8A      B3.3    3.6E-04       
+
+7860 +     0322   0327      0332  GO8  5   XRA  1-8A      B3.6    1.7E-04   0288
+7860       0324   0324      0328  LEA  3   FLA  N13E29    SF                0288
+
+7870 +     0548   0552      0601  GO8  5   XRA  1-8A      B3.1    2.2E-04       
+
+7880 +     0640   0648      0657  GO8  5   XRA  1-8A      B8.0    7.2E-04   0290
+7880       0643   0643      0654  LEA  3   FLA  N17E38    SF      ERU       0290
+
+7890 +     0933   0939      0952  GO8  5   XRA  1-8A      B3.6    3.6E-04       
+
+8010      A1013   ////     B2254  LEA  3   DSF  ////      11      B.0A      0000
+
+7900 +     1045   1103      1114  GO8  5   XRA  1-8A      B4.2    6.2E-04       
+
+7910       1319  U1325      1329  RAM  3   FLA  N17E39    SF      ERU       0290
+
+7920       1416  U1420     A1600  RAM  3   FLA  N17E35    SF      ERU       0290
+7920 +     1430   1437      1448  GO8  5   XRA  1-8A      C1.8    1.3E-03   0290
+
+7930 +     1528   ////      1528  HOL  C   RSP  032-084   III/1                 
+
+7950 +     1618   1622      1626  GO8  5   XRA  1-8A      B3.4    1.4E-04       
+
+7960       1825   1830      1934  RAM  3   FLA  N17E37    SF                0290
+
+7970 +     1941   1948      1953  GO8  5   XRA  1-8A      B9.1    4.4E-04   0288
+7970       1944   1946      1948  RAM  3   FLA  N12E21    SF      ERU       0288
+
+7980       2004   2006      2012  RAM  3   FLA  N17E34    SF      ERU       0290
+
+7990 +     2222   2232      2246  GO8  5   XRA  1-8A      C1.7    1.9E-03   0290
+
+8000       2251   2310      2337  LEA  G   RNS  245       100                   

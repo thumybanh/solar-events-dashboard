@@ -1,0 +1,21 @@
+:Product: 20040126events.txt
+:Created: 2004 Jan 29 0300 UT
+:Date: 2004 01 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jan 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 640 +     0602   0610      0614  G12  5   XRA  1-8A      C1.6    5.9E-04   0542
+ 640       0605   0612      0613  G12  5   XFL  N12W80    2.4E+03 8.3E+03   0542
+
+ 650 +     1155   1205      1215  G12  5   XRA  1-8A      B8.3    7.8E-04   0540
+ 650       1200   1212      1214  G12  5   XFL  S16W90    2.2E+03 4.7E+03   0540
+
+ 660 +     2341   2346      2351  G12  5   XRA  1-8A      B2.6    1.4E-04       
+ 660       2345   2349      2349  G12  5   XFL  S06E41    1.0E+02 4.5E+02       

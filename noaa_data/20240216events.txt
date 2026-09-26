@@ -1,0 +1,62 @@
+:Product: 20240216events.txt
+:Created: 2024 Feb 19 0357 UT
+:Date: 2024 02 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Feb 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 660       0012   0012      0012  PAL  G   RBR  245       470                   
+
+ 670       0158   0204      0209  G16  5   XRA  1-8A      C3.2    1.7E-03   3576
+
+ 690       0228   ////      0229  LEA  C   RSP  025-067   III/1                 
+
+ 680 +     0239   0251      0257  G16  5   XRA  1-8A      M1.5    8.1E-03   3576
+ 680 +     0252   ////      0256  LEA  C   RSP  063-180   III/1                 
+
+ 700 +     0642   0653      0658  G16  5   XRA  1-8A      X2.5    8.4E-02   3576
+ 700       0646   ////      0653  LEA  C   RSP  025-180   V/2               3576
+ 700       0647   ////      0707  SVI  C   RSP  025-180   VI/3              3576
+ 700       0649   0651      0704  SVI  3   FLA  S16W80    1N                3576
+ 700 +     0651   0651      0656  LEA  G   RBR  8800      460               3576
+ 700 +     0651   0651      0657  LEA  G   RBR  15400     570               3576
+ 700 +     0651   0651      0656  SVI  G   RBR  2695      420               3576
+ 700 +     0651   0654      0657  LEA  G   RBR  1415      370               3576
+ 700 +     0651   0651      0652  LEA  G   RBR  4995      260               3576
+ 700 +     0653   ////      0713  LEA  C   RSP  025-180   II/3    753       3576
+ 700       0653   ////      0721  LEA  C   RSP  025-180   IV/2              3576
+ 700 +     0657   ////      0717  SVI  3   BSL  ////      0.15    B.9A      3576
+
+ 710       0706   0707      0711  SVI  3   FLA  S21W84    SF                3576
+
+ 720 +     0752   ////      0753  LEA  C   RSP  025-125   III/1                 
+
+ 730       0851   ////      0853  LEA  C   RSP  025-163   III/2                 
+ 730       0852   ////      0909  SVI  C   RSP  025-084   VI/2                  
+
+ 740       0908   0908      0917  SVI  3   FLA  S19E35    SF                3587
+
+ 760       1353   ////      1353  SAG  C   RSP  025-075   III/1                 
+
+ 750       1353   ////      1353  SVI  C   RSP  025-083   III/1                 
+
+ 770 +     1615   1636      1656  G16  5   XRA  1-8A      C6.1    1.8E-03   3586
+
+ 780 +     1819   1831      1841  G16  5   XRA  1-8A      C8.9    2.3E-03   3576
+
+ 800       1841   1846      1851  G16  5   XRA  1-8A      C8.2    1.6E-03   3576
+ 800 +     1846   ////      1846  SAG  C   RSP  025-050   III/2                 
+
+ 790 +     2013   2023      2037  G16  5   XRA  1-8A      C3.5    4.8E-03   3576
+
+ 810 +     2157   2209      2216  G16  5   XRA  1-8A      M3.0    1.6E-02   3576
+
+ 820       2318   ////      2324  LEA  C   RSP  025-100   III/1                 
+
+ 830 +     2346   2356      0008  G16  5   XRA  1-8A      C2.7    3.1E-03   3576

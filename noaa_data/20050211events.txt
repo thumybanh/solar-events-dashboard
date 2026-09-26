@@ -1,0 +1,53 @@
+:Product: 20050211events.txt
+:Created: 2005 Feb 14 0302 UT
+:Date: 2005 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6700       0234   ////      0234  CUL  C   RSP  18-90     III/3                 
+
+6710       0243   ////      0605  LEA  C   RSP  068-180   CTM/1                 
+6710 +     0303   ////      0303  CUL  C   RSP  18-60     III/2                 
+
+6790       0700   ////      1200  IZM  F   RNS  204       20                    
+
+6720       0810   0810      0810  SVI  G   RBR  245       59                    
+
+6730       0820   0820      0820  SVI  G   RBR  245       56                    
+
+6740       0827   0827      0827  SVI  G   RBR  245       84                    
+
+6750       0857   0857      0857  SVI  G   RBR  245       100                   
+
+6760 +     0954   1000      1005  G12  5   XRA  1-8A      C1.0    4.4E-04   0734
+6760       0958   1001      1004  G12  5   XFL  S07E50    1.2E+03 3.2E+03   0734
+
+6810 +     1228   ////      1556  SVI  C   RSP  108-180   CTM/1                 
+
+6770 +     1232   1232      1232  SAG  G   RBR  245       60                    
+
+6790 +     1232   1559      2146  SAG  G   RNS  245       180                   
+
+6780 +     1350   1353      1357  G12  5   XRA  1-8A      B6.3    2.4E-04   0735
+6780       1353   1355      1356  G12  5   XFL  S06E62    2.8E+02 5.1E+02   0735
+
+6820       1633   ////      1634  SAG  C   RSP  030-054   III/1                 
+
+6830       1646   ////      1647  SAG  C   RSP  030-048   III/1                 
+
+6840       2056   ////      2056  PAL  C   RSP  025-048   III/1                 
+
+6860      B2146   2157      2158  CUL  3   FLA  S06E66    1F                    
+
+6870      B2200   2209      2212  CUL  3   FLA  S06E66    1F                    
+
+6900       2227   ////      1047  LEA  C   RSP  069-095   CTM/1                 
+
+6890      B2321   2323      2333  CUL  3   FLA  S05E66    1F                    

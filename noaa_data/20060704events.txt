@@ -1,0 +1,95 @@
+:Product: 20060704events.txt
+:Created: 2006 Jul 07 0329 UT
+:Date: 2006 07 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Jul 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8540 +     0242   ////      0243  LEA  C   RSP  025-165   III/1                 
+
+8550 +     0248   ////      0250  PAL  C   RSP  025-172   III/1                 
+
+8560 +     0317   ////      0318  LEA  C   RSP  025-180   III/2                 
+8560       0318   0318      0318  LEA  G   RBR  245       170                   
+
+8570 +     0402   ////      0402  LEA  C   RSP  025-180   III/1                 
+
+8580 +     0411   0411      0411  LEA  G   RBR  245       290                   
+8580 +     0411   ////      0415  LEA  C   RSP  025-180   III/2                 
+
+8590 +     0629   ////      0630  SVI  C   RSP  025-148   III/1                 
+
+8600 +     0636   ////      0642  LEA  C   RSP  025-180   III/2                 
+
+8610 +     0644   ////      0647  LEA  C   RSP  025-180   III/2                 
+
+8620       0722   0722      0722  SVI  G   RBR  245       71                    
+
+8630       0723   0723      0723  LEA  G   RBR  245       100                   
+
+8640 +     0739   0745      0752  G12  5   XRA  1-8A      B1.7    1.2E-04       
+8640 +     0742   ////      0742  LEA  C   RSP  025-141   III/1                 
+
+8650       0809   0809      0809  SVI  G   RBR  245       59                    
+
+8660 +     0811   ////      0819  SVI  C   RSP  025-174   III/2                 
+
+8670       0825   ////      0828  LEA  C   RSP  025-180   III/2                 
+
+8680 +     0829   0829      0829  SVI  G   RBR  245       95                    
+
+8690       0832   ////      0833  LEA  C   RSP  025-180   III/2                 
+
+8700       0837   ////      0839  LEA  C   RSP  025-180   III/2                 
+8700 +     0838   0838      0839  SVI  G   RBR  245       120                   
+
+8710       0845   ////      0845  LEA  C   RSP  025-180   III/2                 
+
+8720       1042   1042      1042  SVI  G   RBR  245       61                    
+
+8730 +     1103   1110      1119  G12  5   XRA  1-8A      B3.0    2.5E-04       
+
+8740       1125   ////      1125  SAG  C   RSP  030-180   III/1                 
+8740 +     1125   1125      1126  SVI  G   RBR  245       67                    
+
+8850       1152   1239      1304  G12  5   XRA  1-8A      B6.0    2.0E-03       
+
+8750 +     1210   ////      1215  SVI  C   RSP  025-175   III/1                 
+
+8760 +     1446   ////      1446  SAG  C   RSP  030-055   III/1                 
+
+8770 +     1456   1456      1456  SAG  G   RBR  245       120                   
+
+8780 +     1547   ////      1555  SVI  C   RSP  025-180   III/2                 
+
+8790       1559   ////      1600  SVI  U   RSP  035-064   III/1                 
+
+8800 +     1628   1633      1636  G12  5   XRA  1-8A      B2.1    8.9E-05       
+8800 +     1631   ////      1636  SVI  C   RSP  025-173   III/2                 
+
+8810 +     1731   ////      1732  SAG  C   RSP  030-152   III/1                 
+
+8820       1817   1820      1822  G11  5   XRA  1-8A      B1.0    2.7E-05       
+
+8860       1906   2029      2141  G12  5   XRA  1-8A      C1.4    8.1E-03       
+
+8840 +     2008   2008      2008  PAL  G   RBR  245       180                   
+
+8870 +     2213   ////      2213  PAL  C   RSP  025-180   III/1                 
+
+8880 +     2309   2315      2326  G12  5   XRA  1-8A      B5.5    4.9E-04       
+8880       2313   2324      2324  G12  5   XFL  S04E80    6.0E+02 1.4E+03       
+
+8890       2330   ////      2330  LEA  C   RSP  025-150   III/2                 
+
+8900       2337   ////      2338  LEA  C   RSP  025-153   III/2                 
+
+8910       2343   ////      2343  LEA  C   RSP  025-167   III/2                 
+
+8920       2353   ////      2359  LEA  C   RSP  025-180   III/2                 

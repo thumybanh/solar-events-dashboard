@@ -1,0 +1,46 @@
+:Product: 20040308events.txt
+:Created: 2004 Mar 11 0300 UT
+:Date: 2004 03 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Mar 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7480       0158   ////      0158  CUL  C   RSP  27-70     III/1                 
+
+7490       0232   ////      0236  CUL  C   RSP  20-80     III/2                 
+
+7470       0351   ////      0351  LEA  C   RSP  025-086   III/1                 
+
+7530 +     0726   0730      0745  G12  5   XRA  1-8A      B3.3    3.5E-04   0570
+7530       0729   0735      0744  G12  5   XFL  S15E58    4.3E+02 7.5E+02   0570
+7530 +     0739   ////      0739  LEA  C   RSP  025-061   III/1             0570
+
+7540 +     0813   0820      0832  G12  5   XRA  1-8A      B6.6    6.0E-04   0570
+7540       0817   0825      0831  G12  5   XFL  S15E58    1.1E+03 2.7E+03   0570
+
+7550 +     1345   1349      1354  G12  5   XRA  1-8A      B3.0    1.4E-04   0567
+7550       1349   1353      1353  G12  5   XFL  S11W82    5.3E+02 1.0E+03   0567
+7550       1353   1353      1353  SVI  G   RBR  245       57                0567
+
+7560       1910   ////      1910  PAL  C   RSP  025-066   III/1                 
+
+7570 +     1959   2011      2046  G12  5   XRA  1-8A      C2.3    4.9E-03   0570
+7570       2002   2011      2045  G12  5   XFL  S14E51    2.4E+03 9.3E+03   0570
+7570       2038   2039      2041  SAG  G   RBR  410       100               0570
+
+7580       2050   2050      2050  SAG  G   RBR  245       61                    
+
+7590       2101   2101      2101  SAG  G   RBR  245       62                    
+
+7600       2107   2108      2108  SAG  G   RBR  245       69                    
+
+7610       2117   2117      2117  SAG  G   RBR  245       100                   
+
+7620       2302   ////      1006  LEA  C   RSP  140-180   CTM/1                 
+7620 +     2337   ////      2337  HOL  C   RSP  025-180   III/1                 

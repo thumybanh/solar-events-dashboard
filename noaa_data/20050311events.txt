@@ -1,0 +1,40 @@
+:Product: 20050311events.txt
+:Created: 2005 Mar 12 1229 UT
+:Date: 2005 03 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Mar 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 710 +     0012   0018      0020  G12  5   XRA  1-8A      B4.2    1.7E-04   0742
+ 710       0015   0018      0019  G12  5   XFL  S04E30    1.1E+03 2.7E+03   0742
+
+ 720 +     0030   0051      0103  G12  5   XRA  1-8A      C1.2    1.6E-03   0741
+ 720       0035   0054      0102  G12  5   XFL  N13W12    2.5E+03 7.3E+03   0741
+ 720       0057   ////      0058  CUL  C   RSP  20-180    III/2             0741
+
+ 730       0153   ////      0155  CUL  C   RSP  27-90     III/1                 
+
+ 740       0842   ////      0842  SVI  C   RSP  025-042   III/1                 
+
+ 750 +     1052   1056      1103  G12  5   XRA  1-8A      B3.5    1.9E-04   0742
+ 750       1055   1100      1100  G12  5   XFL  S05E23    5.0E+01 8.5E+01   0742
+
+ 760       1228   ////      1228  SVI  C   RSP  025-043   III/1                 
+
+ 770 +     1650   1654      1659  G12  5   XRA  1-8A      B5.4    2.4E-04   0742
+ 770       1654   1655      1658  G12  5   XFL  S04E20    8.5E+02 1.9E+03   0742
+
+ 780 +     1712   1717      1723  G12  5   XRA  1-8A      B5.3    3.1E-04   0742
+ 780       1715   1719      1722  G12  5   XFL  S04E19    1.0E+03 2.3E+03   0742
+
+ 790       1956   1956      1956  PAL  G   RBR  245       200                   
+
+ 800 +     2323   ////      2329  PAL  C   RSP  025-180   III/1                 
+
+ 810 +     2353   2356      2359  G12  5   XRA  1-8A      B2.3    7.5E-05       

@@ -1,0 +1,77 @@
+:Product: 20020730events.txt
+:Created: 2002 Aug 02 0300 UT
+:Date: 2002 07 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jul 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7550       0000   ////      0000  CUL  C   RSP  57-180    CTM/1                 
+
+7500       0022   0022      0022  LEA  G   RBR  410       53                    
+
+7510       0107   0107      0107  LEA  G   RBR  410       54                    
+
+7520       0208   0208      0208  LEA  G   RBR  410       51                    
+
+7530 +     0254   0257      0300  GO8  5   XRA  1-8A      C2.7    8.6E-04       
+
+7540 +     0314   0317      0323  GO8  5   XRA  1-8A      C2.5    1.2E-03       
+
+7650       0405   ////      1746  SVI  C   RSP  025-180   CTM/2                 
+
+7560 +     0524   0530      0535  GO8  5   XRA  1-8A      C3.3    1.7E-03   0039
+7560       0527   0528      0536  SVI  3   FLA  S13W24    SF      ERU       0039
+
+7580       0556   0557      0600  SVI  3   FLA  S13W23    SF                0039
+
+7740       0600   ////      1200  IZM  F   RNS  204       200                   
+
+7590       0616   0624      0634  SVI  3   FLA  S08W27    SF                0039
+
+7600       0640   0640      0640  LEA  G   RBR  410       87                    
+
+7610 +     0712   0722      0734  GO8  5   XRA  1-8A      C3.4    3.7E-03   0039
+7610 +     0717   0720      0729  SVI  3   FLA  S09W28    SF      ERU       0039
+
+7620 +     0824   0828      0831  GO8  5   XRA  1-8A      C3.4    1.2E-03       
+
+7630       1131   1134      1144  SVI  3   FLA  S19W30    SF                0044
+
+7760       1257   ////      0145  HOL  C   RSP  025-180   CTM/1                 
+
+7660      B1512  U1518      1522  SVI  2   FLA  S19W27    SF      ERU       0044
+
+7670       1540   1541      1545  SVI  2   FLA  N20E03    SF                0048
+
+7680       1554   ////      1555  HOL  C   RSP  025-085   III/1                 
+
+7690       1558   ////      1612  SVI  2   EPL  ////      0.15    B.9A      0000
+7690       1558   ////      2159  SAG  C   RSP  030-055   CTM/1             0000
+
+7820       1628   ////      0455  PAL  C   RSP  025-180   CTM/1                 
+
+7700       1652   ////      1653  HOL  C   RSP  025-077   III/1                 
+
+7710       1721   1721      1721  SAG  G   RBR  245       570                   
+7710       1721   1721      1721  SAG  G   RBR  410       79                    
+7710 +     1721   ////      1721  HOL  C   RSP  025-180   III/1                 
+
+7720       1736   1737      1737  SAG  G   RBR  245       460                   
+7720 +     1736   ////      1738  SAG  C   RSP  030-080   III/2                 
+7720       1737   1737      1737  SAG  G   RBR  410       180                   
+7720       1737   1737      1737  SAG  G   RBR  606       29                    
+7720       1737   1737      1737  SAG  G   RBR  1415      37                    
+7720       1737   1737      1737  SAG  G   RBR  2695      67                    
+7720       1737   1737      1737  SAG  G   RBR  4995      31                    
+
+7730       1825   1825      1825  SAG  G   RBR  2695      79                    
+
+7850       2315   ////      0945  LEA  C   RSP  025-180   CTM/1                 
+
+7740 +     2315   0159      0945  LEA  G   RNS  245       190                   

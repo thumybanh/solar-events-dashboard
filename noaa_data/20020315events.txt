@@ -1,0 +1,43 @@
+:Product: 20020315events.txt
+:Created: 2002 Mar 18 0300 UT
+:Date: 2002 03 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1630       0420   0429      0449  G10  5   XRA  1-8A      B8.2    1.3E-03       
+
+1640       0704  U0705     A0722  LEA  3   FLA  S22E54    SF                9871
+
+1650      B0723  U0724     A0740  LEA  3   FLA  S10W03    SF      DSD       9866
+
+1660       0857   0901      0912  LEA  3   FLA  S06W05    SF      ERU       9866
+
+1680 +     0900   ////      2100  COM  C   RSP  30-80     CTM/1                 
+
+1880      A1546   ////     B1333  SVI  3   DSF  N15E14    16      B.0A          
+
+1690 +     1802   ////      1803  SAG  C   RSP  030-060   III/2                 
+
+1890      A2001   ////     B1135  RAM  3   DSF  N11W02    11      B.0A      9865
+
+1710       2149   ////      2149  HOL  C   RSP  067-119   III/1                 
+
+1730       2209   2310      0042  GO8  5   XRA  1-8A      M2.2    1.3E-01   9866
+1730       2213   ////      0045  HOL  C   RSP  025-180   IV/1              9866
+1730 +     2220   2236      2306  PAL  G   RBR  410       220               9866
+1730 +     2220   2236      2303  PAL  G   RBR  606       190               9866
+1730 +     2220   2234      2300  PAL  G   RBR  1415      240               9866
+1730 +     2220   2234      2303  PAL  G   RBR  2695      190               9866
+1730       2220   2238      0041  HOL  3   FLA  S08W03    1F      UMB       9866
+1730 +     2222   2234      2304  PAL  G   RBR  4995      160               9866
+1730       2223   2223      2223  PAL  G   RBR  15400     62                9866
+1730       2223   2234      2304  PAL  G   RBR  8800      120               9866
+1730       2241   ////      1023  LEA  C   RSP  025-180   CTM/1             9866
+1730 +     2306   2306      2306  PAL  G   RBR  245       500               9866

@@ -1,0 +1,35 @@
+:Product: 20030417events.txt
+:Created: 2003 Apr 20 0302 UT
+:Date: 2003 04 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Apr 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8470       0047   ////      0051  CUL  C   RSP  25-70     III/1                 
+
+8480 +     0836   0838      0839  SVI  G   RBR  245       190                   
+8480 +     0836   ////      0838  SVI  C   RSP  025-180   III/1                 
+
+8490       1025   ////      1025  SVI  C   RSP  075-159   III/1                 
+
+8500 +     1058   1101      1104  G10  5   XRA  1-8A      B2.8    9.1E-05       
+
+8510 +     1432   ////      1433  HOL  C   RSP  025-067   III/1                 
+
+8520 +     1921   ////      1927  SAG  C   RSP  030-080   III/1                 
+
+8530       2009   2009      2009  PAL  G   RBR  245       150                   
+
+8540       2013   2013      2013  SAG  G   RBR  245       79                    
+
+8550 +     2204   2216      2236  G10  5   XRA  1-8A      C4.4    5.9E-03       
+
+8630      A2319   ////     B1317  HOL  3   DSF  ////      07      B.0A      0335
+
+8560       2328   ////      2328  HOL  C   RSP  026-062   III/1                 

@@ -1,0 +1,59 @@
+:Product: 20040224events.txt
+:Created: 2004 Feb 27 0300 UT
+:Date: 2004 02 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Feb 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5430       0000   ////      0000  CUL  C   RSP  23-160    CTM/1                 
+
+5290       0201   ////      0000  CUL  C   RSP  23-160    CTM/1                 
+
+5270       0235   0235      0235  PAL  G   RBR  245       63                    
+
+5280       0324   0326      0327  PAL  G   RBR  245       170                   
+
+5320       0341   ////      1017  LEA  C   RSP  073-180   CTM/1                 
+
+5300       0349   0349      0349  PAL  G   RBR  245       61                    
+
+5310       0555   0557      0559  LEA  3   FLA  N16E12    SF      ERU       0564
+
+5440       0601   ////      0601  CUL  C   RSP  18-150    III/2                 
+
+5350       0634   ////      1611  SVI  C   RSP  075-180   CTM/1                 
+
+5340       0700   ////      1200  IZM  F   RNS  204       15                    
+
+5330       1227   1227      1227  SVI  G   RBR  1415      55                    
+
+5360       1526   1526      1526  SAG  G   RBR  245       61                    
+
+5370 +     1544   1544      1544  SAG  G   RBR  245       85                    
+
+5380       1555   1556      1556  SAG  G   RBR  245       72                    
+
+5340 +     1602   1821      2202  SAG  G   RNS  245       270                   
+
+5450       1923   ////      0000  HOL  C   RSP  051-180   CTM/1                 
+
+5460       2136   ////      2136  HOL  C   RSP  025-079   III/1                 
+
+5470       2215   ////      2215  CUL  C   RSP  27-90     III/1                 
+
+5480       2222   ////      2222  CUL  C   RSP  18-50     III/2                 
+
+5510       2258   ////      0123  LEA  C   RSP  121-180   CTM/1                 
+
+5490 +     2322   2326      2331  G12  5   XRA  1-8A      B7.1    2.9E-04   0564
+5490       2325   2325      2330  LEA  3   FLA  N13E02    SF      ERU       0564
+5490       2326   2326      2330  G12  5   XFL  N13E01    1.2E+03 3.4E+03   0564
+
+5500 +     2342   2346      2349  G12  5   XRA  1-8A      B7.1    2.6E-04   0564
+5500       2346   2346      2348  G12  5   XFL  N13W01    1.5E+03 3.5E+03   0564

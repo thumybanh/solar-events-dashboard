@@ -1,0 +1,50 @@
+:Product: 20020223events.txt
+:Created: 2002 Feb 26 0300 UT
+:Date: 2002 02 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Feb 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7490       0105   0147      0230  GO8  5   XRA  1-8A      C2.8    1.2E-02       
+
+7380       0438   0443      0446  GO8  5   XRA  1-8A      C2.2    1.0E-03   9839
+7380       0439   0440      0446  LEA  3   FLA  S16W10    SF                9839
+
+7390 +     0612   ////      0614  LEA  C   RSP  025-167   III/1                 
+
+7400 +     0617   0630      0646  GO8  5   XRA  1-8A      C4.9    7.0E-03   9841
+7400       0619   0625      0701  LEA  2   FLA  S18W26    SF      ERU       9841
+
+7410      B0649  U0649     A0710  SVI  2   FLA  S19W27    SF                9841
+
+7420       0711   ////      0712  LEA  C   RSP  034-094   III/1                 
+
+7430 +     0808   0812      0819  GO8  5   XRA  1-8A      C2.6    1.4E-03   9830
+7430       0810   0811      0823  SVI  3   FLA  S20W36    SF                9830
+
+7440       0825   0825      0830  SVI  3   FLA  S20W37    SF                9830
+
+7460       1153   1157      1212  RAM  3   FLA  S19W43    SF      ERU       9830
+7460       1155   1158      1201  GO8  5   XRA  1-8A      C2.1    7.2E-04   9830
+
+7470       1225   1225      1225  SAG  G   RBR  245       61                    
+
+7500       1243   1315      1325  GO8  5   XRA  1-8A      C2.9    6.0E-03       
+
+7530       1348   1446      1446  SAG  G   RNS  245       63                    
+
+7480       1352   1400      1409  GO8  5   XRA  1-8A      C4.3    3.9E-03   9830
+7480 +     1356   1356      1413  RAM  3   FLA  S21W43    SF                9830
+
+7510       1425   1437      1442  GO8  5   XRA  1-8A      C3.4    3.2E-03       
+
+7520       1559   1600      1603  HOL  3   FLA  S16W16    SF                9839
+
+7540 +     2246   2250      2254  GO8  5   XRA  1-8A      C7.0    2.2E-03   9830
+7540       2249   2249      2318  HOL  3   FLA  S15W47    SF                9830

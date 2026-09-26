@@ -1,0 +1,28 @@
+:Product: 20010122events.txt
+:Created: 2001 Jan 25 0302 UT
+:Date: 2001 01 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6220 +     0330   ////      0330  CUL  C   RSP  18-180    III/2                 
+
+6230       0420   ////      0525  LEA  C   RSP  088-180   CTM/1                 
+
+6240       0542   0545      0550  LEA  3   FLA  N07W38    SF      ERU       9311
+
+6250 +     0640   0649      0657  GO8  5   XRA  1-8A      C2.7    2.0E-03   9313
+6250       0642   0646      0707  LEA  3   FLA  S05E24    SF      ERU       9313
+6250 +     0643   ////      0644  LEA  C   RSP  025-180   III/2             9313
+
+6260       0934   0935      0942  LEA  3   FLA  N06W39    SF                9311
+
+6270       1245   ////      1248  SVI  C   RSP  025-132   III/1                 
+
+6280 +     2157   2205      2215  GO8  5   XRA  1-8A      C2.8    2.5E-03       

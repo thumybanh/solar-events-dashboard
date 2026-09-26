@@ -1,0 +1,26 @@
+:Product: 20040827events.txt
+:Created: 2004 Aug 30 0302 UT
+:Date: 2004 08 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Aug 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1210       0152   ////      0153  CUL  C   RSP  20-180    III/1                 
+
+1230      B0906   ////      0931  SVI  2   EPL  ////      0.22    B.9A          
+
+1250       1504   1506      1507  G12  5   XRA  1-8A      B1.8    3.2E-05   0664
+
+1260       1809   1814      1817  G12  5   XRA  1-8A      B1.7    7.9E-05   0663
+
+1240       1817   1817      1821  PAL  G   RBR  245       200                   
+
+1270 +     2227   ////      2227  PAL  C   RSP  030-165   III/1                 
+
+1350       2357   0011      0020  G12  5   XRA  1-8A      B1.6    1.7E-04       

@@ -1,0 +1,86 @@
+:Product: 19981126events.txt
+:Created: 1998 Nov 29 0302 UT
+:Date: 1998 11 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7150 +     0018   0023      0027  G10  5   XRA  1-8A      C1.0    4.7E-04   8392
+7150 +     0019   ////      0022  LEA  C   RSP  030-05    III/2             8392
+7150       0021   0024      0030  LEA  3   FLA  S24E18    SF                8392
+
+7160       0039   0039      0040  LEA  G   RBR  245       53                    
+
+7170       0129   ////      0129  LEA  C   RSP  030-06    III/1                 
+
+7400       0149   0238      0313  GO8  5   XRA  1-8A      C1.7    6.8E-03       
+
+7180       0213   ////      0213  LEA  C   RSP  030-06    III/1                 
+
+7190 +     0254   ////      0256  CUL  C   RSP  20-140    III/1                 
+
+7200 +     0312   0312      0312  LEA  G   RBR  245       320                   
+7200       0312   ////      0312  LEA  C   RSP  030-08    III/2                 
+
+7210 +     0330   ////      0331  CUL  C   RSP  20-90     III/1                 
+
+7220       0346   ////      0402  LEA  C   RSP  030-08    CTM/1                 
+
+7230 +     0411   ////      0415  CUL  C   RSP  20-90     III/1                 
+
+7240       0436   0439      0456  LEA  3   FLA  N19E61    SF                8395
+
+7270       0437   0443      0447  GO8  5   XRA  1-8A      C1.8    1.0E-03   8392
+7270       0443   0443      0455  LEA  3   FLA  S24E16    SF                8392
+
+7250 +     0526   0530      0535  GO8  5   XRA  1-8A      C1.2    5.9E-04   8393
+7250       0528   0529      0538  LEA  3   FLA  S20E42    SF                8393
+
+7260       0606   0606      0606  LEA  G   RBR  245       19                    
+7260       0606   0606      0606  LEA  G   RBR  410       99                    
+
+7410       0717   ////      0718  CUL  C   RSP  23-90     III/1                 
+
+7280       0740   0804      0810  GO8  5   XRA  1-8A      C2.0    2.4E-03   8392
+7280 +     0759   0805      0817  LEA  3   FLA  S23E14    SF      ERU       8392
+
+7290 +     0944   0947      0951  LEA  3   FLA  S19E36    SF                8393
+
+7350       1016   ////      1020  SAG  C   RSP  030-08    III/1                 
+
+7300 +     1026   1039      1046  GO8  5   XRA  1-8A      C4.0    3.3E-03   8395
+7300 +     1028   1032      1032  COM  3   FLA  N18E57    1F      YSR       8395
+
+7310 +     1136   1139      1141  GO8  5   XRA  1-8A      C1.0    2.6E-04       
+
+7320 +     1225   1225      1225  SAG  G   RBR  245       170                   
+7320       1225   ////      1225  SVI  C   RSP  035-08    III/2                 
+
+7340       1259   1259      1306  SVI  3   FLA  N27W38    SF                    
+
+7420       1319   1328      1339  GO8  5   XRA  1-8A      C1.6    1.7E-03       
+
+7360       1616   ////      1620  SAG  C   RSP  030-08    III/1                 
+
+7370 +     1643   1647      1650  GO8  5   XRA  1-8A      C1.7    5.5E-04   8395
+7370       1643   ////      1650  SAG  C   RSP  030-08    V/1               8395
+7370       1644   1644      1652  RAM  4   FLA  N15E57    SF      DSD       8395
+
+7430       1710   1730      1739  GO8  5   XRA  1-8A      C1.2    1.9E-03       
+
+7390       1747   1747      1757  RAM  4   FLA  N19E54    SF      ERU       8395
+
+7620       1813   1817      1821  RAM  4   FLA  N25W42    SF                8396
+
+7440       2223   2259      2317  GO8  5   XRA  1-8A      C1.5    3.5E-03       
+7440 +     2253   ////      2355  PAL  C   RSP  025-05    III/2                 
+
+7470       2316   ////      2317  LEA  C   RSP  036-06    III/1                 
+
+7450       2356   ////      2356  LEA  C   RSP  030-08    III/1                 

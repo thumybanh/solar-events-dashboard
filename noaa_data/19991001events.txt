@@ -1,0 +1,62 @@
+:Product: 19991001events.txt
+:Created: 1999 Oct 04 0303 UT
+:Date: 1999 10 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Oct 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+520  +     0008   0017      0020  GO8  5   XRA  1-8A      C7.7    2.8E-03       
+520  +     0009   ////      0011  LEA  C   RSP  030-08    III/2                 
+
+530  +     0231   0237      0241  GO8  5   XRA  1-8A      B7.7    3.6E-04       
+530        0234   ////      0234  LEA  C   RSP  030-06    III/2                 
+
+540  +     0314   0319      0324  GO8  5   XRA  1-8A      C1.0    4.2E-04       
+540        0318   ////      0319  LEA  C   RSP  031-05    III/1                 
+
+550        0520   ////      0520  LEA  C   RSP  030-05    III/2                 
+
+560  +     0523   0529      0534  GO8  5   XRA  1-8A      C1.6    8.3E-04       
+
+570  +     0710   0725      0746  GO8  5   XRA  1-8A      C4.1    6.4E-03       
+
+580  +     0810   0813      0816  GO8  5   XRA  1-8A      C3.6    9.7E-04       
+580  +     0811   0812      0812  SVI  G   RBR  245       79                    
+580        0812   ////      0814  SVI  C   RSP  035-08    V/3                   
+580        0812   ////      0814  LEA  C   RSP  030-08    III/3                 
+580        0816   ////      0824  LEA  C   RSP  044-08    II/2    600           
+580  +     0838   ////      0852  SVI  3   BSL  S25E90    0.22    B.9A          
+
+610  +     0945   0949      0951  GO8  5   XRA  1-8A      C5.4    1.1E-03       
+610  +     0951   0951      0952  SVI  G   RBR  245       120                   
+610  +     0951   0951      0952  SVI  G   RBR  410       75                    
+610  +     0951   0951      0952  SVI  G   RBR  606       25                    
+
+620  +     1051   1056      1059  GO8  5   XRA  1-8A      C1.4    5.5E-04       
+
+630  +     1218   1224      1227  GO8  5   XRA  1-8A      C1.4    5.1E-04       
+
+640  +     1342   1346      1348  GO8  5   XRA  1-8A      B6.9    2.0E-04       
+
+660  +     1348   1353      1356  GO8  5   XRA  1-8A      C1.0    4.2E-04       
+
+650  +     1449   1459      1502  GO8  5   XRA  1-8A      C6.0    2.1E-03       
+650        1450   1451      1451  SAG  G   RBR  8800      210                   
+650        1452   1452      1452  SAG  G   RBR  245       42                    
+650  +     1458   1459      1459  SAG  G   RBR  410       250                   
+650  +     1458   1459      1459  SAG  G   RBR  606       1300                  
+650  +     1458   1459      1459  SAG  G   RBR  1415      150                   
+
+680        1538   1557      1612  GO8  5   XRA  1-8A      C1.2    2.0E-03       
+
+670  +     1942   1957      2014  GO8  5   XRA  1-8A      C1.1    1.7E-03       
+
+690        2255   ////      2311  LEA  C   RSP  030-06    III/1                 
+
+700  +     2313   2326      2353  GO8  5   XRA  1-8A      C2.2    4.0E-03       

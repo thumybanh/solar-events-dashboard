@@ -1,0 +1,68 @@
+:Product: 20000821events.txt
+:Created: 2000 Aug 24 0302 UT
+:Date: 2000 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3670 +     0012   0016      0024  GO8  5   XRA  1-8A      C2.0    1.2E-03   9125
+3670 +     0015   0017      0031  HOL  3   FLA  N21W61    SF                9125
+
+3690       0209   ////      0321  LEA  3   DSF  S22W43    04      B.8A          
+
+3680       0307   0312      0321  LEA  3   FLA  N28W63    SF                9125
+3680       0307   0312      0324  GO8  5   XRA  1-8A      C1.9    1.6E-03   9125
+
+3700 +     0530   0538      0543  GO8  5   XRA  1-8A      C4.1    2.1E-03   9125
+3700 +     0532   0540      0600  LEA  3   FLA  N22W67    1F      ERU       9125
+
+3710 +     0736   0758      0808  GO8  5   XRA  1-8A      C2.8    4.1E-03   9125
+3710       0741   0744      0809  LEA  3   FLA  N23W67    SF      ERU       9125
+
+3720 +     0859   0906      0913  GO8  5   XRA  1-8A      B9.9    7.5E-04       
+
+3730 +     1115   1122      1128  GO8  5   XRA  1-8A      C1.4    1.0E-03       
+
+3800 +     1138   ////      1303  SVI  3   DSF  S38E33    11      B.0A          
+
+3740 +     1203   1207      1218  GO8  5   XRA  1-8A      C1.1    8.7E-04       
+
+3750       1222   1223      1224  SAG  G   RBR  2695      79                    
+
+3760 +     1247   1302      1306  GO8  5   XRA  1-8A      C2.3    1.8E-03   9125
+3760       1250   1301      1318  RAM  3   FLA  N24W69    SF      ERU       9125
+
+3770 +     1335   1340      1344  GO8  5   XRA  1-8A      C1.7    7.1E-04   9125
+3770       1338   1338      1348  RAM  3   FLA  N24W70    SF      ERU       9125
+
+3780       1443   1448      1456  G10  5   XRA  1-8A      B9.5    6.8E-04       
+
+3790 +     1605   ////      1606  SVI  C   RSP  035-120   III/1                 
+
+3810       1700   1702      1703  SAG  G   RBR  606       49                    
+3810 +     1701   1702      1704  SAG  G   RBR  410       160                   
+
+3820       1733   1734      1734  SAG  G   RBR  410       120                   
+
+3830       1736   1737      1743  RAM  3   FLA  S06W46    SF                9129
+
+3840 +     1918   1922      1924  GO8  5   XRA  1-8A      C1.0    3.4E-04   9125
+3840       1918   1919      1923  HOL  3   FLA  N21W75    SF                9125
+
+3850       2023   ////      2025  HOL  C   RSP  025-063   III/1                 
+
+3860 +     2129   2134      2138  GO8  5   XRA  1-8A      C2.8    9.1E-04   9125
+3860       2133   2134      2134  SAG  G   RBR  2695      38                9125
+3860       2133   2134      2135  SAG  G   RBR  4995      170               9125
+3860       2133   2134      2134  SAG  G   RBR  8800      57                9125
+3860       2134   2135      2146  HOL  3   FLA  N21W76    SF      ERU       9125
+
+3870       2146   2146      2154  HOL  3   FLA  S16W71    SF                9135
+
+3880 +     2302   ////      2312  PAL  C   RSP  025-180   III/1                 

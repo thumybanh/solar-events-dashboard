@@ -1,0 +1,65 @@
+:Product: 20010529events.txt
+:Created: 2001 Jun 01 0302 UT
+:Date: 2001 05 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+120        0029   ////      0029  CUL  C   RSP  30-180    III/1                 
+
+130  +     0439   0441      0441  LEA  G   RBR  245       130                   
+
+140  +     0450   ////      0450  LEA  C   RSP  046-109   III/1                 
+
+150  +     0521   0526      0532  GO8  5   XRA  1-8A      C4.4    1.6E-03   9475
+150  +     0524   0526      0544  LEA  3   FLA  N20E43    SF                9475
+
+160  +     0602   ////      0604  SVI  C   RSP  032-148   III/1                 
+
+170        0725   ////      0725  SVI  C   RSP  025-081   III/1                 
+
+180  +     0748   0755      0810  GO8  5   XRA  1-8A      C1.5    1.6E-03   9475
+180        0753   0754      0802  SVI  3   FLA  N19E41    SF      ERU       9475
+
+190  +     0830   ////      0831  LEA  C   RSP  025-170   III/2                 
+
+200        0944   ////      0954  SVI  C   RSP  025-079   III/1                 
+
+210        1241   1242      1242  SAG  G   RBR  245       56                    
+
+220        1320   ////      1321  HOL  C   RSP  025-065   III/1                 
+
+230  +     1331   ////      1332  SAG  C   RSP  030-080   III/1                 
+
+240  +     1343   1343      1344  SVI  G   RBR  245       100                   
+
+280  +     1353   1416      1439  SAG  G   RNS  245       62                    
+
+250        1411   1412      1414  SVI  U   RBR  245       91                    
+250        1413   1413      1413  SVI  U   RBR  410       25                    
+
+260  +     1541   ////      1542  HOL  C   RSP  034-137   III/1                 
+
+270  +     1732   ////      1732  SVI  C   RSP  073-180   III/2                 
+
+290        1805   1806      1808  SAG  G   RBR  245       71                    
+290        1805   1807      1808  SAG  G   RBR  410       11                    
+
+300        2006   ////      2007  PAL  C   RSP  025-074   III/1                 
+
+310  +     2147   ////      2149  PAL  C   RSP  025-180   III/2                 
+310  +     2149   2149      2149  PAL  G   RBR  245       260                   
+
+330  +     2300   ////      2300  HOL  C   RSP  025-070   III/1                 
+
+340        2305   2305      2305  SAG  U   RBR  245       58                    
+
+350  +     2314   ////      2316  LEA  C   RSP  025-112   III/1                 
+
+360        2358   ////      0018  HOL  C   RSP  025-135   III/1                 

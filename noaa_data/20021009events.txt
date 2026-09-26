@@ -1,0 +1,35 @@
+:Product: 20021009events.txt
+:Created: 2002 Oct 12 0300 UT
+:Date: 2002 10 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Oct 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1180       0426   0427      0429  LEA  3   FLA  S17W52    SF      ERU       0143
+
+1190       0639   0645      0648  GO8  5   XRA  1-8A      C1.0    4.7E-04   0140
+1190       0643   0644      0649  LEA  3   FLA  S11E18    SF      ERU       0140
+
+1200       0957   0957      0957  SVI  G   RBR  245       100                   
+
+1210       1002   1002      1002  SVI  G   RBR  245       63                    
+
+1220       1009   1009      1010  SVI  G   RBR  245       86                    
+
+1230       1018   1018      1019  SVI  G   RBR  245       110                   
+
+1240       1023   1024      1024  SVI  G   RBR  245       100                   
+
+1250       1327   1338      1349  GO8  5   XRA  1-8A      C1.1    1.2E-03       
+
+1270 +     2222   ////      2222  PAL  C   RSP  025-180   III/1                 
+
+1280       2253   ////      2253  LEA  C   RSP  032-087   III/1                 
+
+1290       2316   ////      2316  LEA  C   RSP  025-107   III/1                 

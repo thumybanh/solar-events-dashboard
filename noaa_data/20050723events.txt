@@ -1,0 +1,27 @@
+:Product: 20050723events.txt
+:Created: 2005 Jul 24 1229 UT
+:Date: 2005 07 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jul 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3010       0035   0035      0036  PAL  G   RBR  245       150                   
+
+3020 +     0143   0146      0150  G12  5   XRA  1-8A      B1.2    4.2E-05       
+3020       0147   0147      0149  G12  5   XFL  N14E61    1.0E+02 1.8E+02       
+
+3030 +     0245   0248      0250  G12  5   XRA  1-8A      B1.1    2.6E-05       
+3030       0247   0247      0249  G12  5   XFL  N14E60    1.3E+02 2.2E+02       
+
+3040       0323   0328      0335  G12  5   XRA  1-8A      B1.1    7.3E-05       
+
+3050       0620   0623      0627  G12  5   XRA  1-8A      B1.0    3.8E-05       
+
+3060 +     1051   1056      1105  G12  5   XRA  1-8A      B3.1    2.0E-04       
+3060       1055   1102      1102  G12  5   XFL  N13E55    4.0E+02 8.4E+02       

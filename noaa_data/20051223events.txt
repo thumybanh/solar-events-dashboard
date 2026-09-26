@@ -1,0 +1,58 @@
+:Product: 20051223events.txt
+:Created: 2005 Dec 26 0329 UT
+:Date: 2005 12 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8270       0204   ////      0209  LEA  C   RSP  025-118   III/1                 
+
+8280 +     0235   0242      0253  G12  5   XRA  1-8A      B9.6    7.1E-04   0838
+8280       0239   0246      0251  G12  5   XFL  N16E32    5.0E+03 2.9E+04   0838
+
+8290       0256   ////      0257  LEA  C   RSP  025-108   III/1                 
+
+8300 +     0348   0352      0355  G12  5   XRA  1-8A      B4.9    1.8E-04   0838
+8300       0354   0354      0354  G12  5   XFL  N16E32    5.1E+03 2.5E+04   0838
+
+8310       0407   ////      0407  LEA  C   RSP  025-114   III/1                 
+
+8320       0434   ////      0436  LEA  U   RSP  025-168   III/2                 
+
+8330       0556   ////      0604  LEA  U   RSP  025-144   III/2                 
+
+8410       0705   ////      0705  SVI  C   RSP  025-041   III/1                 
+
+8340 +     0715   0718      0720  G12  5   XRA  1-8A      B3.0    7.8E-05   0838
+8340 +     0716   0716      0716  LEA  G   RBR  245       120               0838
+8340       0716   0717      0717  SVI  U   RBR  410       170               0838
+8340       0717   0717      0717  SVI  U   RBR  606       160               0838
+8340       0719   0719      0719  G12  5   XFL  N16E31    3.7E+03 1.3E+04   0838
+
+8420       0827   ////      0827  SVI  C   RSP  025-042   III/1                 
+
+8430       1038   ////      1040  SVI  C   RSP  025-141   III/2                 
+
+8360       1040   ////      1040  LEA  U   RSP  025-147   III/1                 
+
+8440       1145   ////      1145  SVI  C   RSP  025-084   III/1                 
+
+8370 +     1234   1301      1321  G12  5   XRA  1-8A      B6.2    1.3E-03       
+8370       1238   1259      1319  G12  5   XFL  N10E81    5.2E+03 1.7E+04       
+8370       1252   ////      1253  SVI  C   RSP  025-071   III/2                 
+
+8450       1340   ////      1341  SVI  C   RSP  025-047   III/2                 
+
+8380 +     1739   1744      1750  G12  5   XRA  1-8A      B7.0    3.2E-04       
+8380       1742   1747      1750  G12  5   XFL  N11E81    5.9E+03 2.3E+04       
+
+8390 +     1959   2004      2009  G12  5   XRA  1-8A      B3.3    1.7E-04       
+8390       2003   2006      2007  G12  5   XFL  N12E83    5.9E+03 1.9E+04       
+
+8400       2042   2104      2127  G12  5   XRA  1-8A      B6.3    1.3E-03       

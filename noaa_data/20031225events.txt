@@ -1,0 +1,46 @@
+:Product: 20031225events.txt
+:Created: 2003 Dec 26 2102 UT
+:Date: 2003 12 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Dec 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5390       0216   0216      0223  LEA  3   FLA  N09W36    SF      ERU       0525
+
+5290       0217   ////      0220  LEA  C   RSP  025-180   III/2             0525
+
+5400       0222   0231      0237  G12  5   XRA  1-8A      C5.3    3.2E-03   0528
+5400       0226   0230      0252  LEA  3   FLA  N09W01    SF      ERU       0528
+
+5290      B0229   0231      0237  CUL  3   FLA  N10W02    SF                0525
+
+5410       0232   0235      0239  LEA  3   FLA  N09W36    SF      ERU       0525
+
+5300 +     0253   0301      0306  G12  5   XRA  1-8A      C3.6    2.0E-03   0525
+5300 +     0256   0302      0318  LEA  3   FLA  N09W37    SF      ERU       0525
+
+5310       0326   ////      0327  LEA  C   RSP  025-180   III/3                 
+
+5320       0347   0347      0352  LEA  3   FLA  N09W02    SF      ERU       0528
+
+5330 +     0357   0401      0406  G12  5   XRA  1-8A      C1.9    7.8E-04   0525
+5330       0400   0401      0410  LEA  3   FLA  N09W38    SF      ERU       0525
+
+5340 +     0519   0527      0540  G12  5   XRA  1-8A      C1.2    1.3E-03   0525
+5340       0522   0527      0544  LEA  3   FLA  N11W39    SF      ERU       0525
+
+5350       0608   0608      0608  LEA  G   RBR  245       52                    
+
+5360       0630   ////      0835  LEA  3   EPL  ////      0.16    B.9A          
+
+5370       0738   0825      0932  G12  5   XRA  1-8A      C5.3    1.6E-02   0528
+5370       0754   0823      0901  LEA  3   FLA  N09W04    SF      ERU       0528
+5370 +     0842   ////      0842  SVI  C   RSP  025-180   III/1             0528
+
+5380 +     1147   1150      1155  G12  5   XRA  1-8A      C1.5    6.4E-04   0528

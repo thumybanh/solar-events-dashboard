@@ -1,0 +1,48 @@
+:Product: 20021126events.txt
+:Created: 2002 Nov 29 0300 UT
+:Date: 2002 11 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Nov 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4210       0307   ////      0307  CUL  C   RSP  57-200    III/1                 
+
+4220 +     0333   0334      0423  LEA  G   RNS  245       220                   
+
+4350       0618   ////      0623  CUL  C   RSP  50-180    III/1                 
+
+4230 +     0901   0906      0911  GO8  5   XRA  1-8A      B7.7    4.1E-04       
+
+4240 +     0921   ////      0921  LEA  C   RSP  025-180   III/1                 
+
+4250 +     1208   1212      1216  GO8  5   XRA  1-8A      C1.0    4.1E-04   0197
+4250       1210   1211      1216  RAM  3   FLA  N25W81    SF                0197
+4250       1210   ////      1211  SVI  U   RSP  025-083   III/1             0197
+
+4260       1220   1220      1220  SAG  G   RBR  245       58                    
+
+4270       1427   1427      1427  SAG  G   RBR  410       52                    
+
+4280       1606   1606      1606  SAG  G   RBR  245       380                   
+
+4520       1623   ////      1757  HOL  C   RSP  071-180   CTM/1                 
+
+4290       1650   1650      1650  SAG  G   RBR  410       51                    
+
+4300       1807   1807      1807  SAG  G   RBR  410       60                    
+
+4310 +     1826   1835      1839  GO8  5   XRA  1-8A      C3.6    1.9E-03   0197
+4310       1830   ////      2005  HOL  C   RSP  070-180   III/1                 
+
+4320       2036   2036      2036  PAL  G   RBR  410       58                    
+
+4330       2044   2045      2045  PAL  G   RBR  410       73                    
+
+4340 +     2301   2307      2317  GO8  5   XRA  1-8A      C2.6    2.2E-03   0198
+4340       2305   2306      2313  LEA  3   FLA  S16W65    SF      ERU       0198

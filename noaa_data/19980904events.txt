@@ -1,0 +1,93 @@
+:Product: 19980904events.txt
+:Created: 1998 Sep 07 0303 UT
+:Date: 1998 09 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Sep 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7200 +     0003   ////      0003  CUL  C   RSP  20-130    III/2                 
+
+7220       0037   ////      0958  LEA  C   RSP  030-07    CTM/2                 
+
+7230       0207   0209      0209  LEA  G   RBR  245       150                   
+
+7240 +     0211   ////      0212  CUL  C   RSP  18-140    III/2                 
+
+7250 +     0216   ////      0219  CUL  C   RSP  18-170    III/3                 
+
+7260 +     0250   0251      0251  LEA  G   RBR  245       130                   
+7260 +     0251   ////      0252  CUL  C   RSP  18-270    III/3                 
+
+7270 +     0414   ////      0416  CUL  C   RSP  18-160    III/3                 
+
+7280       0421   0421      0421  PAL  U   RBR  245       210                   
+
+7290       0422   ////      0425  CUL  C   RSP  18-160    III/2                 
+
+7360       0528   ////      1656  SVI  C   RSP  035-08    CTM/2                 
+
+7300       0710   0711      0715  SVI  U   RBR  245       240                   
+7300       0710   0711      0715  SVI  U   RBR  410       210                   
+7300       0710   0711      0711  SVI  U   RBR  606       160                   
+7300       0710   0711      0711  SVI  G   RBR  1415      38                    
+
+7310 +     0805   ////      0806  LEA  C   RSP  030-08    III/3                 
+
+7330 +     0939   0948      1020  GO8  5   XRA  1-8A      C2.2    4.7E-03       
+7330       0940   0942      0950  SVI  G   RBR  4995      62                    
+7330 +     0941   0942      0943  SVI  G   RBR  2695      28                    
+7330       0942   0942      0942  SVI  U   RBR  8800      23                    
+
+7340       1042   ////      1043  SAG  C   RSP  030-08    III/1                 
+7340       1042   ////      1043  SVI  C   RSP  035-08    V/3                   
+
+7520       1107   ////      2252  SAG  C   RSP  030-08    CTM/2                 
+7520       1207   ////      1208  SAG  C   RSP  030-08    III/3                 
+
+7370       1208   ////      1208  SVI  C   RSP  035-08    III/3                 
+
+7380       1234   ////      1235  SVI  C   RSP  035-08    III/3                 
+
+7390      B1312  U1315     A1326  SVI  3   FLA  S18E78    SF                    
+7390 +     1319   1320      1320  SAG  G   RBR  245       84                    
+
+7400       1345   1345      1345  SAG  G   RBR  245       69                    
+
+7410 +     1450   1457      1502  GO8  5   XRA  1-8A      C1.2    7.4E-04   8326
+
+7350 +     1452   1630      1743  SAG  G   RNS  245       130                   
+
+7410       1454   1454      1459  SVI  3   FLA  N20E83    SF                8326
+
+7420       1510   ////      1513  SVI  C   RSP  035-08    III/3                 
+7420       1510   ////      1513  SAG  C   RSP  030-08    V/2                   
+
+7430       1514   1514      1515  SVI  U   RBR  245       140                   
+
+7440       1653   1654      1655  PAL  U   RBR  245       65                    
+7440 +     1654   ////      1657  SAG  C   RSP  030-08    V/3                   
+
+7450       1700   1701      1704  HOL  3   FLA  S17E73    SF                    
+
+7460       1720   1720      1721  PAL  U   RBR  245       190                   
+
+7470       1725   1725      1725  PAL  U   RBR  245       56                    
+
+7480       1732   1732      1732  PAL  U   RBR  245       110                   
+7480       1732   ////      1732  PAL  C   RSP  027-06    V/1                   
+
+7540       1805   ////      0322  PAL  C   RSP  044-04    CTM/1                 
+
+7490       1924   1925      1925  SAG  G   RBR  245       56                    
+
+7500       1957   1959      1959  PAL  U   RBR  245       85                    
+
+7510 +     2031   2031      2032  SAG  G   RBR  245       150                   
+
+7530 +     2322   2331      0006  GO8  5   XRA  1-8A      C3.2    5.9E-03       

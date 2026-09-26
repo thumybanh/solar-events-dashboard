@@ -1,0 +1,20 @@
+:Product: 20060510events.txt
+:Created: 2006 May 13 0329 UT
+:Date: 2006 05 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 May 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6280 +     0850   0853      0856  G12  5   XRA  1-8A      B1.0    3.5E-05       
+
+6290 +     1656   1702      1713  G12  5   XRA  1-8A      B1.2    1.1E-04   0882
+6290       1701   1705      1710  G12  5   XFL  S10W71    2.5E+02 4.7E+02   0882
+
+6300 +     2153   2200      2207  G12  5   XRA  1-8A      B2.1    1.5E-04   0882
+6300       2156   2204      2205  G12  5   XFL  S12W74    8.0E+02 1.9E+03   0882

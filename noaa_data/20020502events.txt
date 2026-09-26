@@ -1,0 +1,44 @@
+:Product: 20020502events.txt
+:Created: 2002 May 05 0300 UT
+:Date: 2002 05 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5000       0256   0306      0320  G10  5   XRA  1-8A      C1.1    1.4E-03   9919
+5000       0257   0300      0316  LEA  3   FLA  N14W40    SF      ERU       9919
+
+5010 +     0326   0332      0351  GO8  5   XRA  1-8A      C1.6    2.2E-03       
+5010       0328   ////      0329  CUL  C   RSP  65-260    III/1                 
+
+5110       0505   ////      0505  CUL  C   RSP  250-450   III/1                 
+
+5020 +     0639   ////      0640  CUL  C   RSP  57-180    III/2                 
+
+5030 +     0659   ////      0659  CUL  C   RSP  57-120    III/1                 
+
+5040 +     0902   0927      0934  GO8  5   XRA  1-8A      C1.9    3.0E-03       
+
+5050 +     1121   1126      1129  GO8  5   XRA  1-8A      C3.0    9.5E-04       
+5050       1123   1124      1124  SAG  G   RBR  410       46                    
+5050       1123   1124      1125  SAG  G   RBR  4995      63                    
+5050       1123   1124      1125  SAG  G   RBR  8800      65                    
+5050       1124   1124      1125  SAG  G   RBR  1415      41                    
+
+5060 +     1444   1450      1455  GO8  5   XRA  1-8A      C2.3    1.1E-03       
+
+5080      A2038   ////     B2102  HOL  3   DSF  N19W42    07      B.0A      9926
+5080 +     2103   ////      2104  HOL  C   RSP  025-054   III/1             9926
+5080 +     2106   2134      2153  GO8  5   XRA  1-8A      C6.3    1.5E-02   9926
+5080       2111   2117      2303  HOL  3   FLA  N14W37    SF      ERU       9926
+5080 +     2112   ////      2116  HOL  C   RSP  045-056   II/1    478       9926
+
+5100       2317   2319      2324  HOL  3   FLA  S18E62    SF                9934
+
+5400       2355   ////      2355  LEA  C   RSP  053-180   III/1                 

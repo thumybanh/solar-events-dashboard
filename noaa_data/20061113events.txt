@@ -1,0 +1,49 @@
+:Product: 20061113events.txt
+:Created: 2006 Nov 16 0329 UT
+:Date: 2006 11 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Nov 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9510 +     0009   0012      0014  G12  5   XRA  1-8A      B3.1    7.6E-05       
+
+9520       0034   ////      0034  PAL  C   RSP  025-060   III/1                 
+
+9540       0050   ////      0050  PAL  C   RSP  025-121   III/1                 
+
+9680       0205   ////      0205  CUL  C   RSP  18-90     III/1                 
+
+9570 +     0219   ////      0219  PAL  C   RSP  025-162   III/1                 
+
+9690       0240   ////      0241  CUL  C   RSP  20-90     III/1                 
+
+9590 +     0559   0604      0608  G12  5   XRA  1-8A      B6.8    2.3E-04       
+
+9600 +     0613   ////      0616  LEA  C   RSP  025-109   III/2                 
+
+9610 +     0636   0642      0648  G12  5   XRA  1-8A      C1.0    4.6E-04       
+9610      B0640   0640      0645  CUL  3   FLA  S06E19    SF                    
+
+9620 +     1259   1305      1312  G12  5   XRA  1-8A      B1.5    1.0E-04       
+
+9630 +     1409   1415      1420  G12  5   XRA  1-8A      B1.6    9.4E-05       
+
+9640 +     1535   1541      1548  G12  5   XRA  1-8A      B2.5    1.5E-04       
+
+9730      A1651   ////     B2256  HOL  2   DSF  S05E13    04      B.0A      0923
+
+9650       1832   ////      1833  PAL  C   RSP  025-136   III/1                 
+
+9660       1840   ////      1841  PAL  U   RSP  025-054   III/1                 
+
+9670       1930   ////      1930  PAL  U   RSP  025-055   III/1                 
+
+9700       2041   ////      2041  CUL  C   RSP  20-90     III/2                 
+
+9710       2217   ////      2217  LEA  C   RSP  025-083   III/1                 

@@ -1,0 +1,25 @@
+:Product: 19990110events.txt
+:Created: 1999 Jan 13 0302 UT
+:Date: 1999 01 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6450 +     0241   0259      0308  GO8  5   XRA  1-8A      C1.0    1.4E-03   8431
+6450       0245   0258      0312  LEA  3   FLA  S28E10    SF      PRB       8431
+
+6480       0743   ////      0743  CUL  C   RSP  20-90     III/1                 
+
+6490       0757   ////      0759  CUL  C   RSP  20-180    III/1                 
+
+6460       0813   ////      1516  SVI  C   RSP  036-05    CTM/1                 
+
+6500       2136   ////      2136  CUL  C   RSP  25-90     III/1                 
+
+6470 +     2144   2148      2157  GO8  5   XRA  1-8A      B3.9    2.7E-04       

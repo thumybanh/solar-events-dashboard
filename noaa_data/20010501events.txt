@@ -1,0 +1,78 @@
+:Product: 20010501events.txt
+:Created: 2001 May 04 0302 UT
+:Date: 2001 05 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4500 +     0209   ////      0211  CUL  C   RSP  35-160    III/1             9433
+4500       0210   0211      0215  LEA  2   FLA  N21W68    SF                9433
+
+4510 +     0222   ////      0222  LEA  C   RSP  025-180   III/1                 
+
+4520 +     0441   ////      0442  CUL  C   RSP  20-160    III/2                 
+
+4540       0528   0528      0531  LEA  3   FLA  N21W71    SF                9433
+4540       0528   ////      0528  SVI  C   RSP  025-138   III/1             9433
+
+4550 +     0550   0552      0556  LEA  2   FLA  N20W72    SF      DSD       9433
+
+4600 +     0959   1004      1010  GO8  5   XRA  1-8A      C2.3    1.3E-03   9441
+
+4670 +     1340   ////      1414  HOL  3   DSF  S31W11    14      B.0A          
+
+4680 +     1340   ////      1414  HOL  3   DSF  S36E11    13      B.0A          
+
+4640       1429   1439      1520  SVI  3   FLA  N19W78    SF      ERU       9433
+4640 +     1436   1441      1445  GO8  5   XRA  1-8A      C1.7    8.2E-04   9433
+4640 +     1437   1437      1438  SAG  G   RBR  245       120               9433
+4640 +     1437   ////      1438  SAG  C   RSP  030-075   III/3             9433
+
+4660       1455   1515      1533  GO8  5   XRA  1-8A      C2.2    4.2E-03   9441
+
+4650 +     1502   ////      1503  SVI  C   RSP  025-053   III/1             9441
+
+4660 +     1503   1516      1527  SVI  3   FLA  N06W13    SF      ERU       9441
+4660 +     1521   ////      1523  HOL  C   RSP  025-082   III/1             9441
+
+4690 +     1559   ////      1559  SVI  C   RSP  025-141   III/1                 
+
+4700       1638   ////      1638  SAG  C   RSP  030-065   III/1                 
+
+4740       1650   1650      1720  RAM  3   FLA  N07W12    SF                9441
+
+4710 +     1652   1656      1658  GO8  5   XRA  1-8A      C2.0    5.6E-04   9445
+4710 +     1652   1654      1743  HOL  3   FLA  N23E42    SF                9445
+
+4750 +     1656   1656      1659  HOL  3   FLA  N22W77    SF                9433
+
+4720 +     1723   1735      1745  GO8  5   XRA  1-8A      C4.2    4.4E-03   9441
+4720       1725   1727      1753  HOL  3   FLA  N07W13    SF                9441
+
+4730       1819   1819      1821  SAG  G   RBR  245       200                   
+
+4800       1844   1847      1903  HOL  3   FLA  N23E41    SF                9445
+
+4760 +     1858   1917      1945  GO8  5   XRA  1-8A      M2.4    4.5E-02   9433
+4760 +     1901   1907      1922  SAG  G   RBR  4995      390               9433
+4760 +     1904   1912      1922  SAG  G   RBR  8800      300               9433
+4760 +     1906   1907      1922  SAG  G   RBR  2695      110               9433
+4760 +     1906   1912      1922  SAG  G   RBR  15400     170               9433
+4760       1910   1911      2028  HOL  3   FLA  N22W77    SF      ERU       9433
+4760       1911   1911      1922  SAG  G   RBR  1415      47                9433
+
+4770       1942   1943      1954  HOL  3   FLA  N22E36    SF                9445
+
+4790       2012   2016      2027  HOL  3   FLA  N23E40    SF                9445
+4790 +     2016   ////      2020  HOL  C   RSP  025-180   III/1             9445
+
+4780 +     2017   2018      2021  PAL  G   RBR  245       920                   
+4780       2017   ////      2020  SAG  C   RSP  030-080   III/1                 
+
+4810 +     2122   ////      2122  CUL  C   RSP  35-90     III/1                 

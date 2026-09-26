@@ -1,0 +1,60 @@
+:Product: 20010626events.txt
+:Created: 2001 Jun 29 0302 UT
+:Date: 2001 06 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jun 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7540       0153   ////      0153  CUL  C   RSP  40-110    III/1                 
+
+7550 +     0307   ////      0308  CUL  C   RSP  100-180   III/2                 
+
+7560       0355   ////      0357  LEA  C   RSP  025-180   III/1                 
+
+7570       0441   0442      0444  LEA  3   FLA  N16W84    SF                9503
+
+7580       0525   0537      0543  GO8  5   XRA  1-8A      C1.2    1.2E-03   9513
+7580       0536   0539      0542  LEA  3   FLA  N24E33    SF      ERU       9513
+7580       0542   ////      0542  CUL  C   RSP  60-130    III/1             9513
+
+7730       0550   ////      0550  CUL  C   RSP  60-140    III/1                 
+
+7590       0613   0615      0618  LEA  3   FLA  N15W85    SF                9503
+
+7600       0621   0622      0622  SVI  G   RBR  245       93                    
+
+7740       0626   ////      0626  CUL  C   RSP  35-100    III/1                 
+
+7610 +     0824   ////      0824  SVI  C   RSP  025-052   III/1                 
+
+7620 +     0905   0907      0911  SVI  3   FLA  N18E22    SF      DSD       9514
+
+7630       1049   ////      1050  SVI  C   RSP  034-154   III/1                 
+
+7640       1059   1100      1103  GO8  5   XRA  1-8A      C1.2    2.9E-04   9514
+7640       1100   1100      1105  SVI  3   FLA  N18E20    SF      DSD       9514
+
+7660 +     1150   1312      1402  GO8  5   XRA  1-8A      C7.1    4.1E-02       
+
+7720       1404   ////      1511  SVI  3   EPL  S37E90    0.27    B.9A      9513
+
+7670 +     1436   1438      1444  SVI  3   FLA  N19E26    SF      ERU       9513
+
+7680 +     1527   ////      1531  SAG  C   RSP  030-080   III/2                 
+7680 +     1529   ////      1530  SVI  C   RSP  025-083   V/2                   
+
+7690 +     1604   ////      1610  SVI  C   RSP  025-151   III/2                 
+7690       1608   1608      1608  SAG  G   RBR  410       31                    
+7690       1609   1609      1609  SAG  G   RBR  245       130                   
+
+7700       1616   ////      1617  SVI  C   RSP  025-180   III/1                 
+
+7710       1827   ////      1833  HOL  C   RSP  025-180   III/1                 
+
+7750       2140   ////      2140  CUL  C   RSP  50-90     III/1                 

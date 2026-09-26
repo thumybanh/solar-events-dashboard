@@ -1,0 +1,39 @@
+:Product: 20000210events.txt
+:Created: 2000 Feb 13 0302 UT
+:Date: 2000 02 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2340 +     0020   0028      0034  GO8  5   XRA  1-8A      C2.7    1.9E-03   8868
+
+2350       0020   0153      0324  LEA  3   FLA  N31E04    1N      ERU       8858
+
+2370       0045   ////      0148  LEA  C   RSP  030-08    CTM/1             8868
+2370       0046   0109      0128  LEA  3   FLA  S25E32    SF                8868
+2370       0046   0104      0114  GO8  5   XRA  1-8A      C2.3    3.6E-03   8868
+
+2350       0139   0153      0221  PAL  G   RBR  1415      630               8858
+2350       0140   0208      0239  GO8  5   XRA  1-8A      C7.3    1.9E-02   8858
+2350       0143   0151      0221  LEA  G   RBR  606       3800              8858
+2350       0144   0153      0210  PAL  G   RBR  2695      240               8858
+2350       0144   0151      0220  LEA  G   RBR  410       12000             8858
+2350       0146   0155      0210  LEA  G   RBR  245       3400              8858
+2350       0148   ////      0158  LEA  C   RSP  030-08    II/2    1000      8858
+2350       0148   0153      0200  PAL  G   RBR  4995      120               8858
+2350 +     0149   0154      0223  LEA  G   RBR  15400     46                8858
+2350       0151   0155      0158  PAL  G   RBR  8800      45                8858
+
+2380       0945   0946      0953  LEA  3   FLA  N08W75    SF                8861
+
+2390       1358   1358      1358  SAG  G   RBR  245       71                    
+
+2400 +     2034   2037      2041  GO8  5   XRA  1-8A      C1.3    5.2E-04       
+
+2410       2213   2228      2247  GO8  5   XRA  1-8A      C2.1    3.3E-03       

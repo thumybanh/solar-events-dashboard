@@ -1,0 +1,49 @@
+:Product: 19991211events.txt
+:Created: 1999 Dec 14 0302 UT
+:Date: 1999 12 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Dec 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1130       0004   0004      0005  LEA  G   RBR  245       110                   
+
+1140 +     0040   ////      0040  LEA  C   RSP  030-06    III/2                 
+
+1150       0148   0148      0148  LEA  G   RBR  245       130                   
+
+1160       0154   ////      0155  LEA  C   RSP  030-08    III/2                 
+
+1210       0259   ////      0810  LEA  C   RSP  065-08    CTM/1                 
+
+1170       0314   0314      0314  LEA  G   RBR  245       86                    
+
+1180 +     0322   0333      0345  GO8  5   XRA  1-8A      C2.8    2.8E-03   8790
+1180       0324   0329      0420  LEA  3   FLA  N09W12    1F      PRB       8790
+1180       0343   0346      0355  LEA  G   RBR  410       170               8790
+1180       0344   0346      0348  LEA  G   RBR  606       58                8790
+1180       0345   0359      0400  LEA  G   RBR  245       200               8790
+
+1200       0415   0416      0417  LEA  G   RBR  245       82                    
+
+1220       0611   0611      0612  LEA  G   RBR  245       140                   
+
+1230 +     0647   0647      0647  LEA  G   RBR  245       140                   
+
+1240 +     0730   0739      0745  GO8  5   XRA  1-8A      C1.1    8.8E-04   8794
+1240       0733   0740      0749  LEA  3   FLA  S14E51    SF      ERU       8794
+
+1260       1336   ////      1457  SVI  U   RSP  040-07    CTM/1                 
+
+1250 +     1350   1351      1352  SAG  G   RBR  245       590                   
+
+1260 +     1416   1419      1421  GO8  5   XRA  1-8A      B8.0    2.1E-04       
+
+1370      A2043   ////      1552  RAM  3   DSF  S69E09    27      B.0A          
+
+1270 +     2219   2231      2243  GO8  5   XRA  1-8A      C2.4    3.0E-03       

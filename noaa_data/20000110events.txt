@@ -1,0 +1,53 @@
+:Product: 20000110events.txt
+:Created: 2000 Jan 13 0302 UT
+:Date: 2000 01 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7350 +     0309   0317      0324  GO8  5   XRA  1-8A      C1.7    1.3E-03       
+
+7360 +     0540   0546      0551  GO8  5   XRA  1-8A      C1.2    6.9E-04       
+
+7370 +     0738   0759      0808  GO8  5   XRA  1-8A      B9.7    1.6E-03       
+
+7380 +     0848   0901      0910  SVI  G   RBR  8800      41                8824
+7380 +     0851   0902      0918  SVI  G   RBR  4995      35                8824
+7380 +     0851   0912      0928  GO8  5   XRA  1-8A      C9.7    1.5E-02   8824
+7380 +    B0915  U0923      0939  SVI  3   FLA  S14E70    SF      ERU       8824
+
+7390       0943   0943      0952  SVI  3   FLA  N29E40    SF      ERU       8821
+
+7400 +     1246   1250      1255  GO8  5   XRA  1-8A      C1.3    6.0E-04       
+
+7410 +     1331   1350      1408  GO8  5   XRA  1-8A      M3.3    4.3E-02   8824
+7410       1338   1339      1340  SAG  G   RBR  2695      37                8824
+7410 +     1340  U1354      1456  SAG  G   RBR  4995      41                8824
+7410 +     1340  U1359      1508  SAG  G   RBR  8800      71                8824
+7410 +     1340  U1400      1508  SAG  G   RBR  15400     64                8824
+7410      B1343   1344      1428  RAM  3   FLA  S13E69    2N      PRB       8824
+
+7420 +     1536   1544      1555  GO8  5   XRA  1-8A      C5.1    4.1E-03   8824
+7420       1536   1543      1603  HOL  3   FLA  S13E63    SF                8824
+
+7430       1642   1646      1651  GO8  5   XRA  1-8A      C1.3    6.5E-04   8824
+7430       1644   1644      1653  HOL  3   FLA  S13E68    SF                8824
+
+7440       1847   1902      1912  GO8  5   XRA  1-8A      C1.3    1.5E-03   8824
+7440       1855   1902      1912  HOL  3   FLA  S12E68    SF                8824
+
+7450       1948   1949      1949  PAL  G   RBR  410       73                    
+7450       1949   1949      1949  PAL  G   RBR  245       86                    
+
+7460 +     2001   2001      2002  PAL  G   RBR  245       51                    
+7460 +     2001   2002      2002  PAL  G   RBR  410       55                    
+
+7470 +     2204   2210      2227  GO8  5   XRA  1-8A      C1.3    1.5E-03       
+
+7570      A2347   ////      1440  HOL  3   DSF  S34E41    10      B.0A      8823

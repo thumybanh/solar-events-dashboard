@@ -1,0 +1,61 @@
+:Product: 20030320events.txt
+:Created: 2003 Mar 23 0302 UT
+:Date: 2003 03 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Mar 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3750 +     0013   0016      0019  GO8  5   XRA  1-8A      B5.1    1.5E-04   0314
+
+3760 +     0151   0157      0159  GO8  5   XRA  1-8A      B4.9    1.8E-04   0314
+3760       0153   0153      0153  LEA  G   RBR  410       180               0314
+
+3770 +     0221   0231      0234  GO8  5   XRA  1-8A      C9.2    3.5E-03   0314
+3770       0223   0225      0236  LEA  3   FLA  S13W72    SF      ERU       0314
+3770       0224   0225      0225  PAL  G   RBR  2695      44                0314
+
+3780       0337   0339      0342  PAL  G   RBR  245       250                   
+
+3790       0504   0504      0504  LEA  G   RBR  245       51                    
+
+3800       0506   0506      0510  LEA  G   RBR  410       120                   
+
+3810       0516   ////      0517  LEA  C   RSP  025-144   III/1                 
+
+3820       0520   0524      0529  G10  5   XRA  1-8A      B4.2    2.0E-04       
+
+3830       0727   ////      0727  LEA  C   RSP  025-076   III/1                 
+
+3840 +     0728   0728      0729  LEA  G   RBR  410       110                   
+
+3850 +     0737   0741      0743  GO8  5   XRA  1-8A      B3.8    1.2E-04   0314
+
+3860 +     0826   0829      0832  GO8  5   XRA  1-8A      B3.0    9.2E-05   0314
+3860       0829   ////      0829  SVI  C   RSP  025-077   III/1             0314
+
+3870       0849   ////      0850  SVI  C   RSP  025-039   III/1                 
+
+3950      A0954   ////     B2325  LEA  3   DSF  ////      19      B.0A      0000
+
+3880 +     1125   1131      1137  GO8  5   XRA  1-8A      M1.5    7.9E-03   0314
+3880       1127   1127      1128  SAG  G   RBR  1415      30                0314
+3880 +     1127   1127      1128  SAG  G   RBR  2695      210               0314
+3880       1127   1127      1128  SAG  G   RBR  4995      100               0314
+3880       1127   1127      1128  SAG  G   RBR  8800      83                0314
+3880       1128   1128      1135  SVI  3   FLA  S04W75    1F      ERU       0314
+
+3890 +     1245   1245      1245  SVI  G   RBR  245       270                   
+
+3910 +     1635   1639      1644  GO8  5   XRA  1-8A      B4.0    1.9E-04   0314
+
+3920 +     1844   1848      1852  GO8  5   XRA  1-8A      B4.6    2.0E-04   0314
+
+3930 +     2031   2036      2039  GO8  5   XRA  1-8A      B8.6    2.5E-04   0314
+
+3940       2055   ////      2056  HOL  C   RSP  028-086   III/1                 

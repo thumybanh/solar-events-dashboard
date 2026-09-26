@@ -1,0 +1,35 @@
+:Product: 19980618events.txt
+:Created: 1998 Jun 21 0302 UT
+:Date: 1998 06 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9800       0026   ////      0028  CUL  C   RSP  20-170    III/1                 
+
+9810       0248   ////      0250  CUL  C   RSP  35-180    III/1                 
+
+9820 +     1147   1151      1155  GO9  5   XRA  1-8A      B2.4    1.0E-04       
+
+9830       1225   1228      1232  GO8  5   XRA  1-8A      B2.4    9.2E-05       
+
+9840 +     1436   ////      1437  SAG  C   RSP  030-06    III/1                 
+9840 +     1436   1440      1444  GO9  5   XRA  1-8A      B1.8    7.8E-05       
+
+9850       1502   1508      1513  GO8  5   XRA  1-8A      B1.9    1.1E-04       
+
+9860 +     1716   1721      1729  GO9  5   XRA  1-8A      B4.2    2.4E-04       
+
+9870 +     1906   1915      1922  GO9  5   XRA  1-8A      B2.3    1.9E-04   8243
+9870       1909   1910      1917  HOL  3   FLA  N20E07    SF                8243
+
+9880 +     1924   1928      1932  GO9  5   XRA  1-8A      B2.9    1.2E-04   8243
+9880       1930   1931      1937  HOL  3   FLA  N21E06    SF                8243
+
+9890 +     2203   2219      2228  GO9  5   XRA  1-8A      B9.1    9.8E-04       

@@ -1,0 +1,20 @@
+:Product: 20040429events.txt
+:Created: 2004 May 02 0302 UT
+:Date: 2004 04 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6880       0328   ////      0329  CUL  C   RSP  100-200   III/1                 
+
+6850 +     0619   0626      0636  G12  5   XRA  1-8A      B1.9    1.8E-04   0596
+6850       0625   0625      0633  G12  5   XFL  S07W90                      0596
+
+6860 +     0926   0931      0935  G12  5   XRA  1-8A      B1.3    5.6E-05       
+6860       0929   0932      0933  G12  5   XFL  N05E61    7.5E+01 1.3E+02       

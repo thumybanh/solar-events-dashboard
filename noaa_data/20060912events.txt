@@ -1,0 +1,27 @@
+:Product: 20060912events.txt
+:Created: 2006 Sep 15 0329 UT
+:Date: 2006 09 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Sep 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5660 +     0216   0227      0241  G12  5   XRA  1-8A      B1.8    2.3E-04   0908
+
+5670 +     1814   1818      1827  G12  5   XRA  1-8A      B1.3    9.4E-05   0909
+
+5680 +     1954   1959      2002  G12  5   XRA  1-8A      B1.8    7.4E-05   0909
+5680       1958   1959      1959  G12  5   XFL  S09W64    3.0E+02 5.7E+02   0909
+
+5690 +     2148   ////      2152  PAL  C   RSP  025-180   III/1                 
+
+5700 +     2202   ////      2204  PAL  C   RSP  025-180   III/1                 
+
+5710       2239   ////      2332  LEA  C   RSP  075-139   CTM/1                 
+5710       2313   ////      2317  LEA  C   RSP  025-120   V/1                   
+5710       2313   2318      2331  G11  5   XRA  1-8A      B2.3    2.4E-04   0909

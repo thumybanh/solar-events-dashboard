@@ -1,0 +1,76 @@
+:Product: 20031019events.txt
+:Created: 2003 Oct 21 0302 UT
+:Date: 2003 10 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Oct 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1920       0000   ////      0000  CUL  C   RSP  18-140    CTM/2                 
+
+1760       0022   0022      0026  LEA  3   FLA  N03E65    SF                0484
+
+1770       0348   0349      0354  LEA  3   FLA  N03E63    SF      ERU       0484
+
+1830       0523   ////      1544  SVI  U   RSP  025-180   CTM/2                 
+
+1820 +     0523   1451      1715  COM  G   RNS  245       210                   
+
+1780 +     0608   0626      0641  G12  5   XRA  1-8A      M1.9    2.3E-02   0484
+1780       0611   0621      0707  LEA  3   FLA  N06E62    1F      ERU       0484
+1780 +     0619   0620      0622  LEA  G   RBR  8800      130               0484
+1780 +     0620   0620      0622  LEA  G   RBR  4995      71                0484
+1780 +     0620   0620      0622  LEA  G   RBR  15400     88                0484
+1780 +     0620   ////      0622  LEA  C   RSP  025-180   III/2             0484
+1780 +     0620   0620      0621  SVI  G   RBR  245       350               0484
+
+1830       0620   ////      0622  CUL  C   RSP  18-270    III/2                 
+
+1780 +     0621   0621      0621  LEA  G   RBR  2695      37                0484
+
+1790 +     0806   0809      0813  G12  5   XRA  1-8A      C1.3    4.6E-04   0484
+1790       0808   0809      0812  LEA  3   FLA  N06E60    SF      ERU       0484
+
+1800 +     1331   1335      1338  G12  5   XRA  1-8A      C1.6    6.0E-04       
+
+1890       1337   ////      2012  HOL  C   RSP  075-180   CTM/1                 
+
+1810       1417   1417      1424  HOL  3   FLA  N05E56    SF                0484
+
+1840 +     1629   1650      1704  G12  5   XRA  1-8A      X1.1    1.4E-01   0484
+1840       1632   1652      1748  HOL  3   FLA  N08E58    1N      PRB       0484
+1840 +     1632   1652      1751  SAG  G   RBR  4995      1000              0484
+1840 +     1633   1652      1740  SAG  G   RBR  8800      1100              0484
+1840 +     1633   1652      1738  SAG  G   RBR  15400     850               0484
+1840 +     1634   1652      1720  SAG  G   RBR  2695      510               0484
+1840 +     1635   1648      1720  SAG  G   RBR  1415      330               0484
+1840 +     1636   1636      1636  SAG  G   RBR  606       21                0484
+1840 +     1640   1644      1720  SAG  G   RBR  245       650               0484
+1840 +     1640   1647      1730  SAG  G   RBR  410       2000              0484
+1840 +     1650   ////      1702  HOL  C   RSP  025-130   II/1    625       0484
+1840       1700   ////      1728  PAL  C   RSP  033-166   CTM/1             0484
+
+1850       1728   1730      1730  PAL  G   RBR  410       160                   
+1850       1730   1730      1730  PAL  G   RBR  606       58                    
+
+1860       1857   1857      1900  HOL  3   FLA  N03E55    SF                0484
+
+1870 +     1921   1926      1930  G12  5   XRA  1-8A      M1.0    4.2E-03   0484
+1870       1924   1924      1924  SAG  G   RBR  4995      62                0484
+1870       1924   1927      1931  HOL  3   FLA  N05E54    SF      ERU       0484
+
+1880       2021   2021      2026  HOL  3   FLA  N07E53    SF      ERU       0484
+
+1900       2102   2103      2111  HOL  3   FLA  N08E55    SF                0484
+
+2010       2228   ////      0949  LEA  C   RSP  074-180   CTM/1                 
+
+1910 +     2245   2249      2253  G12  5   XRA  1-8A      C3.8    1.4E-03   0484
+1910       2247   2248      2326  HOL  3   FLA  N06E51    SF      ERU       0484
+
+1940       2321   2321      2321  PAL  G   RBR  245       120                   

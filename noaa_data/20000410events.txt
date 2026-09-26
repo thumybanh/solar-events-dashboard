@@ -1,0 +1,73 @@
+:Product: 20000410events.txt
+:Created: 2000 Apr 13 0302 UT
+:Date: 2000 04 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Apr 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9490 +     0019   0027      0032  GO8  5   XRA  1-8A      C8.1    5.4E-03   8948
+9490       0020   0021      0021  LEA  G   RBR  1415      51                8948
+9490 +    B0020  U0030     A0046  COM  3   FLA  S13E01    1N      PRB       8948
+9490       0020   0021      0022  LEA  G   RBR  2695      99                8948
+9490       0020   0021      0021  LEA  G   RBR  4995      53                8948
+9490       0023   ////      0249  LEA  C   RSP  045-08    IV/1              8948
+
+9500 +     0034   ////      0036  LEA  C   RSP  030-08    III/3                 
+
+9510       0234   0234      0241  LEA  3   FLA  N10W34    SF                8944
+
+9520 +     0334   ////      0335  LEA  C   RSP  030-08    III/2                 
+
+9530 +     0452   ////      0455  CUL  C   RSP  23-100    III/2                 
+
+9540       0513   0520      0524  G10  5   XRA  1-8A      C2.6    1.3E-03       
+
+9680       0609   ////      0610  CUL  C   RSP  60-90     III/1                 
+
+9550 +     0750   0755      0807  GO8  5   XRA  1-8A      C1.6    1.4E-03   8948
+9550      B0753  U0754     A0805  LEA  2   FLA  S20E02    SF      ERU       8948
+
+9560 +     0833   ////      0835  LEA  C   RSP  030-07    III/1                 
+
+9570       0951   ////      0958  LEA  C   RSP  039-08    III/2                 
+9570 +     0953   1002      1008  GO8  5   XRA  1-8A      C6.5    3.8E-03       
+9570 +     0956   0957      0958  SVI  G   RBR  4995      44                    
+9570 +     0956   0957      0957  LEA  G   RBR  2695      63                    
+9570 +     0957   0957      0958  SVI  G   RBR  245       410                   
+9570       0957   0958      0958  SVI  G   RBR  410       52                    
+
+9580       1004   1004      1004  SVI  G   RBR  245       110                   
+
+9590       1314   ////      1322  SVI  C   RSP  035-06    III/1                 
+
+9600       1645   ////      1645  SVI  C   RSP  035-07    III/1                 
+
+9610       1808   ////      1809  SAG  C   RSP  030-07    III/2                 
+
+9620 +     1851   1911      1916  GO8  5   XRA  1-8A      C8.6    6.4E-03       
+9620 +     1909   1910      1911  SAG  G   RBR  245       110                   
+9620 +     1909   1910      1911  SAG  G   RBR  4995      29                    
+9620       1909   1910      1911  SAG  G   RBR  8800      26                    
+9620       1910   1910      1911  SAG  G   RBR  15400     15                    
+
+9630       1954   ////      1955  SAG  C   RSP  030-06    III/2                 
+
+9640 +     2012   2020      2024  GO8  5   XRA  1-8A      C2.1    1.3E-03   8948
+9640       2014   2017      2025  HOL  3   FLA  S18W09    SF      ERU       8948
+
+9650 +     2049   ////      2049  PAL  C   RSP  025-07    III/1                 
+
+9690       2050   ////      2050  CUL  C   RSP  30-75     III/1                 
+
+9660       2052   2052      2052  SAG  G   RBR  410       39                    
+9660       2052   2052      2053  SAG  G   RBR  606       99                    
+
+9670       2053   2109      2144  HOL  3   FLA  S14W09    1N      ERU       8948
+9670 +     2101   2110      2117  GO8  5   XRA  1-8A      C8.2    5.1E-03   8948
+9670       2108   2109      2110  SAG  G   RBR  410       88                8948

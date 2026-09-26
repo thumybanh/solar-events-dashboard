@@ -1,0 +1,98 @@
+:Product: 20021008events.txt
+:Created: 2002 Oct 11 0300 UT
+:Date: 2002 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 830       0101   0101      0102  LEA  G   RBR  245       74                    
+
+ 840       0108   0108      0108  LEA  G   RBR  245       120                   
+
+ 850       0111   0111      0111  LEA  G   RBR  245       84                    
+
+ 860       0201   0201      0201  LEA  G   RBR  245       56                    
+
+ 870       0322   0330      0335  GO8  5   XRA  1-8A      B8.3    6.0E-04   0139
+ 870       0323   0324      0330  PAL  G   RBR  245       690               0139
+ 870 +     0323   ////      0328  CUL  C   RSP  35-450    III/1             0139
+ 870       0327   0327      0338  LEA  3   FLA  N10E00    SF                0139
+
+ 880       0334   ////      0346  CUL  C   RSP  120-250   III/1                 
+
+ 890       0422   0425      0426  LEA  G   RBR  245       240                   
+ 890       0423   ////      0425  CUL  C   RSP  200-270   III/1                 
+
+ 900       0432   0433      0434  LEA  G   RBR  245       730                   
+ 900       0432   ////      0434  LEA  C   RSP  075-180   III/1                 
+
+ 910       0441   ////      0444  LEA  C   RSP  037-180   III/2                 
+ 910       0442   0443      0444  LEA  G   RBR  245       360                   
+
+ 920       0450   ////      0458  LEA  C   RSP  075-180   III/1                 
+ 920       0454   0454      0454  LEA  G   RBR  245       73                    
+
+ 930       0510   ////      0510  LEA  C   RSP  034-107   III/1                 
+
+ 940       0533   ////      0539  LEA  C   RSP  025-180   III/1                 
+ 940 +     0534   0534      0535  LEA  G   RBR  245       79                    
+
+1030 +     0550   1313      1333  COM  G   RNS  245       160                   
+
+ 950       0630   0630      0630  SVI  G   RBR  245       110                   
+
+ 960       0707   0721      0731  GO8  5   XRA  1-8A      C1.6    1.8E-03   0140
+ 960       0711   0714      0733  LEA  3   FLA  S07E23    SF      PRB       0140
+ 960       0720   0720      0720  SVI  G   RBR  245       61                0140
+ 960       0720   ////      0720  LEA  C   RSP  036-110   III/1             0140
+
+ 970       0735   ////      0745  LEA  C   RSP  034-167   III/2             0139
+ 970       0743   0746      0756  LEA  3   FLA  N12W02    SF      ERU       0139
+ 970       0743   0746      0749  GO8  5   XRA  1-8A      C1.1    3.7E-04   0139
+
+ 980       0921   0925      0928  GO8  5   XRA  1-8A      C1.3    5.1E-04       
+
+1170      A0950   ////     B2339  LEA  3   DSF  ////      20      B.0A      0000
+
+ 990       1003   ////      1005  LEA  C   RSP  044-157   III/1                 
+
+1050       1106   ////      1316  SVI  C   RSP  029-172   CTM/1                 
+
+1040       1127   1128      1131  SAG  G   RBR  245       150                   
+
+1000 +     1202   1202      1203  SVI  G   RBR  245       66                    
+1000       1202   ////      1203  SVI  U   RSP  029-169   III/1                 
+
+1010       1215   1216      1218  SAG  G   RBR  245       87                    
+
+1020       1222   1222      1223  SVI  G   RBR  245       77                    
+
+1060       1437   ////      1437  SVI  C   RSP  029-118   III/1                 
+
+1070       1449   ////      1450  HOL  C   RSP  025-120   III/1                 
+
+1080 +     1459   1511      1521  GO8  5   XRA  1-8A      C1.2    1.5E-03   0139
+1080 +     1501   1502      1512  SVI  3   FLA  N09E01    SF                0139
+
+1090 +     1639   1651      1700  GO8  5   XRA  1-8A      C1.4    1.5E-03       
+
+1100       1701   1701      1702  PAL  G   RBR  245       75                    
+
+1110 +     1806   1811      1818  GO8  5   XRA  1-8A      C1.8    1.0E-03       
+
+1140       1833   ////      1836  HOL  C   RSP  025-122   III/1                 
+
+1120 +     1834   1837      1840  GO8  5   XRA  1-8A      C1.0    3.3E-04       
+
+1130       1847   ////      1847  SAG  C   RSP  030-070   III/1                 
+
+1150 +     2259   ////      2259  HOL  C   RSP  025-180   III/1                 
+
+1160 +     2323   2327      2331  GO8  5   XRA  1-8A      C1.6    5.7E-04   0139
+1160 +     2325   2326      2342  LEA  3   FLA  N12W06    SF      ERU       0139

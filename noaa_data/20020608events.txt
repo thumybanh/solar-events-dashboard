@@ -1,0 +1,62 @@
+:Product: 20020608events.txt
+:Created: 2002 Jun 11 0300 UT
+:Date: 2002 06 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4010       0109   0109      0109  LEA  G   RBR  245       53                0000
+
+4020       0135   0135      0135  LEA  G   RBR  410       68                0000
+
+4030       0152   0153      0153  LEA  G   RBR  245       150               0000
+4030 +     0152   ////      0153  LEA  C   RSP  025-180   III/1             0000
+
+4040       0542   ////      0543  SVI  C   RSP  025-079   III/1             0000
+
+4050 +     0727   ////      0728  LEA  C   RSP  025-138   III/1             0000
+
+4060       0811   0811      0811  SVI  G   RBR  245       65                0000
+
+4070 +     0845   0855      0905  GO8  5   XRA  1-8A      C1.1    1.1E-03   9975
+4070 +     0846   ////      0847  LEA  C   RSP  025-087   III/1             9975
+4070      B0848   0848      0854  SVI  3   FLA  N25W61    SF                9975
+
+4080       1210   1210      1210  SVI  G   RBR  245       53                0000
+4080 +     1210   1210      1210  SVI  G   RBR  245       53                0000
+
+4090 +     1413   1416      1422  SAG  G   RBR  245       110               0000
+
+4150 +     1413   1440      2140  COM  G   RNS  245       200               0000
+
+4100       1449   ////      1449  HOL  C   RSP  025-050   III/1             0000
+
+4110 +     1454   1457      1507  HOL  3   FLA  S18E64    SF                9991
+4110       1502   ////      1508  HOL  C   RSP  025-180   III/1             9991
+
+4120 +     1637   ////      1637  SVI  C   RSP  025-150   III/2             0000
+4120       1637   ////      1638  SAG  C   RSP  030-080   V/3               0000
+
+4130 +     1642   1645      1647  GO8  5   XRA  1-8A      C1.1    2.9E-04   0000
+
+4140       1658   1659      1659  SVI  G   RBR  245       60                0000
+
+4160 +     1826   ////      1830  SAG  C   RSP  030-070   III/2             0000
+
+4170 +     2049   ////      2056  PAL  C   RSP  025-051   III/1             0000
+
+4180       2140   ////      2141  SAG  C   RSP  030-060   III/1             0000
+
+4190       2221   ////      2221  SAG  C   RSP  030-060   III/1             0000
+
+4200       2307   2309      2317  HOL  3   FLA  N25W71    SF      ERU       9975
+
+4210       2333   ////      2333  LEA  C   RSP  030-061   III/1             0000
+
+4220       2357   2357      2357  LEA  G   RBR  245       71                0000

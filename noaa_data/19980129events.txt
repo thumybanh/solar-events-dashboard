@@ -1,0 +1,25 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 1 Feb 1998
+
+EDITED EVENTS for 1998 Jan 29
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+5330       0029   ////      0034  LEA  C   RSP  040-08    III/1
+
+5340       0107   ////      0925  LEA  C   RSP  030-08    CTM/3             8143
+5340       0133   ////      0135  LEA  C   RSP  054-08    III/1             8143
+5340 +     0140   0150      0158  GO9  5   XRA  1-8A      C1.8    1.1E-03   8143
+5340       0147   0150      0207  LEA  3   FLA  S33W05    SF                8143
+
+5350 +     0338   0352      0403  GO9  5   XRA  1-8A      B3.2    4.1E-04
+
+5410       0431   ////      0738  CUL  C   RSP  18-120    CTM/2
+
+5360       0623   ////      1028  SVI  U   RSP  035-08    CTM/2
+
+5370 +     0908   0912      0917  GO9  5   XRA  1-8A      B2.6    1.2E-04
+
+5380 +     1219   1227      1234  GO9  5   XRA  1-8A      B5.0    3.4E-04
+
+5400       1651   1651      1652  SAG  G   RBR  245       77

@@ -1,0 +1,45 @@
+:Product: 20070519events.txt
+:Created: 2007 May 23 2332 UT
+:Date: 2007 05 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 May 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 760       0031   ////      0032  LEA  C   RSP  025-180   III/1                 
+
+ 770       0109   ////      0109  LEA  C   RSP  025-042   III/1                 
+
+ 780 +     0131   ////      0132  LEA  C   RSP  025-180   III/1                 
+
+ 790 +     0132   0132      0132  LEA  G   RBR  245       200                   
+
+ 800 +     0140   ////      0140  LEA  C   RSP  025-180   III/1                 
+
+ 810       0319   ////      0320  LEA  C   RSP  025-172   III/1                 
+
+ 820 +     0326   ////      0327  LEA  C   RSP  025-180   III/1                 
+
+ 830 +     0432   ////      0432  LEA  C   RSP  025-180   III/1                 
+
+ 840 +     0452   0502      0514  G11  5   XRA  1-8A      B1.3    1.5E-04       
+
+ 850       0524   ////      0524  SVI  C   RSP  025-064   III/1                 
+
+ 860       0540   ////      0540  SVI  U   RSP  119-180   III/1                 
+
+ 870       0716   ////      0716  SVI  U   RSP  025-083   III/1                 
+
+ 880       0826   ////      0829  SVI  C   RSP  025-082   III/1                 
+
+ 910       1231   ////      1326  SVI  3   DSF  N07W06    11      B.0A      0956
+
+ 890 +     1248   1302      1319  G11  5   XRA  1-8A      B9.5    1.3E-03   0956
+ 890 +     1252   ////      1318  SVI  C   RSP  025-162   II/2    882           
+ 890 +     1255   ////      1301  SVI  C   RSP  025-180   V/3                   
+ 890 +     1301   1307      1309  SVI  U   RBR  606       990                   

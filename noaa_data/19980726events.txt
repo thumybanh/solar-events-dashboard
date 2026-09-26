@@ -1,0 +1,66 @@
+:Product: 19980726events.txt
+:Created: 1998 Jul 29 0302 UT
+:Date: 1998 07 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6240 +     0004   ////      0006  LEA  C   RSP  030-07    III/2                 
+
+6250       0151   ////      0151  LEA  C   RSP  030-04    III/1                 
+
+6260       0223   ////      0226  LEA  C   RSP  030-05    III/2                 
+
+6280       0517   0518      0525  SVI  3   FLA  S23E21    SF      ERU       8280
+
+6270 +     0551   ////      1028  SVI  C   RSP  035-08    CTM/1             8280
+
+6410       0600   0000      1200       F   RNS  204       25                    
+
+6290 +     0616   0620      0622  GO9  5   XRA  1-8A      B7.1    1.8E-04   8280
+6290       0619   0620      0629  SVI  3   FLA  S24E21    SF                8280
+
+6300 +     0652   0652      0653  LEA  G   RBR  245       90                    
+
+6310       0809   ////      0809  SVI  C   RSP  035-08    III/2                 
+
+6320       0930   ////      0934  SVI  C   RSP  035-05    III/2                 
+
+6330 +     1142   ////      1143  SAG  C   RSP  030-07    III/2                 
+6330 +     1142   ////      1656  SVI  C   RSP  035-08    CTM/1                 
+
+6340 +     1153   1153      1154  SVI  G   RBR  245       72                    
+
+6350       1205   1206      1215  SVI  4   FLA  S24E18    SF      ERU       8280
+
+6370 +     1234   1239      1246  GO9  5   XRA  1-8A      B5.5    3.5E-04   8280
+6370 +     1236   1236      1253  SVI  4   FLA  S22E19    SF                8280
+6370 +     1240   ////      1243  SVI  C   RSP  035-08    III/3             8280
+
+6380 +     1345   1345      1346  SAG  G   RBR  245       60                    
+
+6390       1358   ////      1358  SAG  C   RSP  035-05    III/1                 
+
+6400 +     1626   1630      1638  GO9  5   XRA  1-8A      B4.4    2.7E-04       
+
+6680      A1647   ////      0440  SVI  2   DSF  N31W45    08      B.0A          
+
+6430 +     1924   ////      1956  HOL  3   EPL  S15E90    0.23    B.9A          
+
+6440       2029   2037      2055  HOL  3   FLA  S24E16    SF                8280
+
+6450 +     2100   ////      2102  SAG  C   RSP  003-06    III/1                 
+
+6460 +     2222   2222      2223  PAL  G   RBR  410       84                    
+
+6470       2229   2229      2229  PAL  G   RBR  2695      76                    
+
+6490       2311   2311      2311  PAL  G   RBR  2695      84                    
+
+6500       2346   ////      2346  PAL  C   RSP  026-05    III/1                 

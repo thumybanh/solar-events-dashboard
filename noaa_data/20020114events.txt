@@ -1,0 +1,60 @@
+:Product: 20020114events.txt
+:Created: 2002 Jan 17 0300 UT
+:Date: 2002 01 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8780 +     0120   0136      0144  GO8  5   XRA  1-8A      M1.0    1.0E-02   9775
+
+8840       0123   0124      0135  LEA  3   FLA  N05E44    SF      ERU       9782
+
+8780 +     0126  U0145      0155  LEA  3   FLA  S07W52    SF      ERU       9775
+
+8790       0148   0155      0310  LEA  3   FLA  N05E44    2N      ERU       9782
+8790 +     0152   0156      0203  GO8  5   XRA  1-8A      M1.7    8.4E-03   9782
+8790 +     0153   0155      0159  LEA  G   RBR  4995      260               9782
+8790 +     0153   0155      0158  LEA  G   RBR  8800      280               9782
+8790       0153   0153      0153  PAL  G   RBR  410       78                9782
+8790       0154   0155      0158  LEA  G   RBR  2695      140               9782
+8790 +     0154   0155      0158  LEA  G   RBR  15400     350               9782
+8790       0155   0155      0155  LEA  G   RBR  1415      29                9782
+
+8800       0359   0403      0415  LEA  3   FLA  S15W03    SF      ERU       9778
+8800       0359   0408      0410  GO8  5   XRA  1-8A      C3.0    1.9E-03   9778
+
+8890       0521   ////      0521  CUL  C   RSP  240-740   III/1                 
+
+8850       0529   0627      0825  GO8  5   XRA  1-8A      M4.4    3.4E-01       
+
+8810       0531   0532      0534  LEA  G   RBR  245       64                    
+
+8820       0537   0540      0540  LEA  G   RBR  245       71                    
+
+8830       0555   0555      0555  LEA  G   RBR  606       66                    
+
+8850       0608   ////      0611  CUL  C   RSP  85-180    II/1                  
+
+8860       1421   1423      1425  GO8  5   XRA  1-8A      C7.7    1.7E-03   9775
+8860 +     1422   1422      1423  SAG  G   RBR  606       430               9775
+8860       1422   1422      1422  SAG  G   RBR  4995      31                9775
+8860       1422   1423      1427  RAM  3   FLA  S07W59    SF      ERU       9775
+
+8960      A2030   ////     B1145  RAM  3   DSF  N21E00    15      B.0A          
+
+8870       2053   2057      2059  GO8  5   XRA  1-8A      C3.7    1.2E-03   9782
+8870 +     2057   2057      2101  HOL  3   FLA  N03E34    SF                9782
+
+8880 +     2235   2246      2258  GO8  5   XRA  1-8A      M1.1    1.2E-02   9775
+8880       2238   2238      2242  HOL  3   FLA  S05W65    SF      ERU       9775
+8880       2242   ////      2242  CUL  C   RSP  100-260   III/1             9775
+
+8900       2334   2338      2340  GO8  5   XRA  1-8A      C4.9    1.3E-03   9773
+8900       2335   2336      2340  HOL  3   FLA  N17W70    SF                9773
+8900 +     2339   ////      2340  LEA  C   RSP  036-093   III/1             9773

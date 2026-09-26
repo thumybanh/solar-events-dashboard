@@ -1,0 +1,95 @@
+:Product: 19980805events.txt
+:Created: 1998 Aug 08 0303 UT
+:Date: 1998 08 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Aug 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8690       0045   ////      0045  CUL  C   RSP  20-75     III/1                 
+
+8610       0106   0106      0107  PAL  U   RBR  245       69                    
+8610 +     0106   ////      0109  CUL  C   RSP  18-150    III/1                 
+
+8620 +     0120   0120      0121  LEA  G   RBR  245       59                    
+8620       0121   ////      0121  CUL  C   RSP  35-160    III/1                 
+
+8630 +     0206   ////      0206  LEA  C   RSP  030-05    III/2                 
+
+8640 +     0247   ////      0248  CUL  C   RSP  30-75     III/1                 
+
+8650 +     0258   ////      0259  CUL  C   RSP  19-85     III/1                 
+
+8660 +     0324   0324      0325  LEA  G   RBR  245       51                    
+8660 +     0325   ////      0344  CUL  C   RSP  20-160    III/1                 
+
+8670       0331   ////      0332  LEA  C   RSP  030-04    III/1                 
+
+8680 +     0339   ////      0343  LEA  C   RSP  030-08    III/2                 
+
+8700 +     0555   ////      0556  LEA  C   RSP  030-08    III/3                 
+
+8710       0622   ////      0803  SVI  C   RSP  071-08    CTM/1                 
+
+8720       0751   ////      0752  SVI  C   RSP  036-08    III/2                 
+
+8730       0841   0846      0852  G10  5   XRA  1-8A      B6.9    4.1E-04       
+
+8740       1137   1143      1150  SVI  3   FLA  S23E40    SF                8293
+
+8760       1515   ////      1517  SAG  C   RSP  030-06    III/1                 
+
+8770       1550   1550      1550  SAG  G   RBR  245       61                    
+
+8780 +     1605   1615      1627  GO8  5   XRA  1-8A      C1.2    1.4E-03       
+8780       1626   1626      1626  SAG  G   RBR  245       62                    
+
+8800       1640   ////      1641  SAG  C   RSP  030-05    III/1                 
+
+8810       1709   ////      1710  SAG  C   RSP  030-05    III/1                 
+
+8840       1739   ////      1945  SAG  C   RSP  030-04    CTM/2                 
+
+8820       1817   ////      1822  SAG  C   RSP  030-04    III/1                 
+
+8830       1827   ////      1827  SAG  C   RSP  030-05    III/1                 
+
+9240       1854   ////      1855  SAG  C   RSP  030-07    III/1                 
+
+8850       1904   ////      1904  SAG  C   RSP  030-05    III/2                 
+
+8860       1928   ////      1934  SAG  C   RSP  030-07    III/1                 
+
+8870       2001   ////      2002  SAG  C   RSP  030-06    III/1                 
+
+8880       2008   2008      2103  HOL  3   FLA  S18E32    SF                8293
+8880       2044   ////      2052  SAG  C   RSP  030-06    III/2             8293
+8880       2101   2101      2102  SAG  G   RBR  245       50                8293
+
+8890       2130   2131      2132  SAG  G   RBR  410       23                    
+8890       2131   2131      2131  SAG  G   RBR  245       430                   
+8890 +     2131   ////      2132  CUL  C   RSP  19-280    III/2                 
+
+8900       2213   2214      2214  SAG  G   RBR  245       79                    
+
+8910       2216   2218      2220  SAG  G   RBR  245       77                    
+
+8920 +     2224   2230      2235  GO8  5   XRA  1-8A      B9.0    4.5E-04       
+
+8950       2306   ////      2306  CUL  C   RSP  20-180    III/2                 
+
+8930 +     2316   2318      2318  SAG  G   RBR  245       100                   
+8930 +     2318   ////      2319  CUL  C   RSP  20-280    III/2                 
+
+8940       2321   ////      2322  SAG  C   RSP  030-05    III/1                 
+
+8790 +     2339   0040      0947  LEA  G   RNS  245       1200                  
+
+8960 +     2340   ////      2343  CUL  C   RSP  25-280    III/2                 
+
+8970       2348   ////      2357  LEA  C   RSP  030-05    III/1                 

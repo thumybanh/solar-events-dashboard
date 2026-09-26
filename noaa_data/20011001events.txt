@@ -1,0 +1,85 @@
+:Product: 20011001events.txt
+:Created: 2001 Oct 04 0302 UT
+:Date: 2001 10 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Oct 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+540        0109   ////      0109  CUL  C   RSP  80-300    III/1                 
+
+380  +     0220   ////      0220  CUL  C   RSP  57-260    III/2                 
+
+560        0320   ////      0320  CUL  C   RSP  57-260    III/1                 
+
+390        0441   0515      0523  G10  5   XRA  1-8A      M9.1    8.6E-02       
+390        0500   0500      0500  LEA  U   RBR  15400     38                    
+390  +    U0509  U0511      0513  SVI  G   RBR  4995      94                    
+390  +    U0509  U0511      0515  SVI  G   RBR  8800      130                   
+390  +    U0510  U0512      0515  SVI  G   RBR  2695      69                    
+390       U0511  U0513      0514  SVI  G   RBR  1415      41                    
+390        0522   ////      0525  CUL  C   RSP  57-220    III/2                 
+
+400        0524   0524      0524  SVI  G   RBR  245       82                    
+
+570        0529   ////      0000  CUL  C   RSP  57-750    CTM/3                 
+
+410  +     0547   ////      1008  SVI  C   RSP  025-180   CTM/2             9628
+410        0550   0557     U0620  SVI  G   RBR  245       450               9628
+
+490  +     0550   0557      0735  LEA  U   RNS  245       550                   
+
+410  +     0551   0619      0620  SVI  G   RBR  410       120               9628
+410  +     0556   0617      0620  SVI  G   RBR  606       190               9628
+410        0600   0601      0602       F   RBR  3000      22                9628
+
+490        0600   0000      0925       F   RNS  204       40                    
+
+410  +     0633   0639      0644  SVI  3   FLA  S29W76    SF      ERU       9628
+
+420  +     0701   0702      0702  LEA  G   RBR  1415      160                   
+
+580        0710   ////      0712  CUL  C   RSP  600-120   III/1                 
+
+430        0916   ////      0918  SVI  C   RSP  025-159   III/2             9636
+430        0918   0923      0934  SVI  3   FLA  N10W24    SF      ERU       9636
+
+440  +     1140   1140      1147  RAM  3   FLA  N15W24    SF      ERU       9636
+
+450  +     1153   1154      1154  SVI  G   RBR  245       71                    
+
+460        1217   1217      1217  SAG  G   RBR  245       57                    
+
+470        1243   1244      1245  SVI  G   RBR  245       59                    
+
+480  +     1313   1314      1315  SVI  G   RBR  245       160                   
+
+500  +     1405   1411      1418  GO8  5   XRA  1-8A      C7.5    5.2E-03   9628
+500        1407   1408      1415  RAM  3   FLA  S18W88    SF                9628
+
+720       A1450   ////     B0709  SVI  2   DSF  N06E13    05      B.0A          
+
+510  +     1645   ////      1645  PAL  C   RSP  036-071   III/1                 
+
+740       A1824   ////     B1218  RAM  3   DSF  N02E12    04      B.0A          
+
+590        2043   ////      2043  CUL  C   RSP  90-180    III/1                 
+
+600        2126   ////      2126  CUL  C   RSP  57-90     III/1                 
+
+520  +     2223   2226      2228  GO8  5   XRA  1-8A      C4.1    1.1E-03       
+
+610        2246   ////      2246  CUL  C   RSP  90-130    III/1                 
+
+620        2257   ////      2257  CUL  C   RSP  57-80     III/1                 
+
+530  +     2340   2345      2351  GO8  5   XRA  1-8A      M1.2    5.3E-03   9632
+530  +     2343   2344      2345  PAL  G   RBR  8800      170               9632
+530        2343   2344      2353  LEA  1   FLA  S16W86    SF      ERU       9632
+530  +     2344   2344      2345  PAL  G   RBR  4995      62                9632
+530  +     2344   2344      2345  PAL  G   RBR  15400     49                9632

@@ -1,0 +1,35 @@
+:Product: 19990430events.txt
+:Created: 1999 May 03 0302 UT
+:Date: 1999 04 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7940       0044   ////      0044  CUL  C   RSP  30-180    III/1                 
+
+7950       0229   0232      0235  LEA  4   FLA  N15E71    SF                8525
+
+7960 +     0243   0250      0256  GO8  5   XRA  1-8A      C1.8    1.1E-03   8524
+7960       0246   0249      0259  LEA  4   FLA  N21W13    SF      BPT       8524
+
+7970 +     0350   0355      0358  GO8  5   XRA  1-8A      C4.2    1.1E-03   8524
+7970       0354   0355      0408  LEA  4   FLA  N22W15    SF      BPT       8524
+
+7980       0733   0736      0740  GO8  5   XRA  1-8A      B9.3    3.2E-04       
+
+7990       1210   1221      1225  GO8  5   XRA  1-8A      C8.2    4.2E-03       
+7990 +     1213   1216      1237  SVI  3   FLA  N24W17    1F      ERU       8524
+7990 +     1215   1215      1216  SVI  G   RBR  4995      37                    
+7990 +     1215   1215      1216  SVI  G   RBR  8800      52                    
+7990 +     1215   1215      1216  SVI  G   RBR  15400     35                    
+
+8000 +     1542   ////      1545  SVI  C   RSP  035-08    III/2                 
+
+8010 +     1939   1940      1940  PAL  G   RBR  245       72                    
+8010 +     1939   ////      1940  SAG  C   RSP  030-05    III/1                 

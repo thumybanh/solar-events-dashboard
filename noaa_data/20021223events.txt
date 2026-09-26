@@ -1,0 +1,57 @@
+:Product: 20021223events.txt
+:Created: 2002 Dec 26 0300 UT
+:Date: 2002 12 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9560       0016   ////      0017  LEA  C   RSP  025-098   III/1                 
+
+9570       0039   ////      0039  LEA  C   RSP  025-081   III/1                 
+
+9580       0050   0050      0054  LEA  3   FLA  S13W57    SF                0224
+
+9590       0302   ////      0303  LEA  C   RSP  034-101   III/1                 
+
+9600       0541   0543      0550  LEA  3   FLA  N21W43    SF                0229
+
+9610       0618   0621      0625  LEA  2   FLA  N21W42    SF      ERU       0229
+
+9620 +     0715   0719      0722  GO8  5   XRA  1-8A      C3.8    1.0E-03       
+
+9630       0917   0919      0923  LEA  2   FLA  S17W63    SF                0224
+
+9640       1129   ////      1130  SVI  C   RSP  051-180   III/1                 
+
+9650 +     1158   1202      1209  GO8  5   XRA  1-8A      C1.1    6.6E-04       
+
+9660 +     1230   1234      1241  GO8  5   XRA  1-8A      C1.3    7.7E-04       
+
+9670 +     1520   1524      1526  GO8  5   XRA  1-8A      C1.6    4.1E-04   0231
+9670      B1520  U1520      1530  RAM  3   FLA  S25W31    SF      ERU       0231
+9670       1522   1523      1524  SAG  G   RBR  245       260               0231
+9670       1522   ////      1525  HOL  C   RSP  025-180   III/1             0231
+9670       1522   ////      1526  SAG  C   RSP  030-080   V/3               0231
+9670       1524   1524      1524  SAG  G   RBR  410       100               0231
+
+9690       1610   ////      1612  HOL  C   RSP  025-155   III/1                 
+
+9840       1707   1707      1707  SAG  G   RBR  245       32                    
+
+9700       1813   ////      1947  PAL  C   RSP  025-178   CTM/1                 
+
+9710       1905   ////      1906  HOL  C   RSP  025-130   III/1                 
+
+9720 +     2105   2115      2125  GO8  5   XRA  1-8A      C1.7    1.7E-03       
+
+9730 +     2136   ////      2143  HOL  C   RSP  025-154   III/1                 
+
+9740       2339   2339      2342  LEA  3   FLA  S26W78    SF                0226
+
+9750       2354   ////      2354  LEA  C   RSP  025-180   III/1                 

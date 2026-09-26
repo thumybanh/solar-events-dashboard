@@ -1,0 +1,82 @@
+:Product: 20001219events.txt
+:Created: 2000 Dec 22 0302 UT
+:Date: 2000 12 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8940 +     0022   0025      0030  GO8  5   XRA  1-8A      C2.1    8.9E-04   9267
+8940       0025   0027      0029  LEA  3   FLA  N04W59    SF                9267
+
+8950       0137   ////      0144  LEA  C   RSP  025-100   III/1                 
+
+8960 +     0150   0159      0207  GO8  5   XRA  1-8A      C4.0    3.2E-03   9276
+8960       0158   0158      0204  LEA  3   FLA  S18W84    SF                9276
+
+8970 +     0231   ////      0234  CUL  C   RSP  23-90     III/1                 
+
+8980 +     0304   0307      0313  GO8  5   XRA  1-8A      C2.5    1.3E-03       
+
+8990       0325   0328      0332  LEA  3   FLA  N17W73    SF                9277
+
+9000       0347   ////      0355  LEA  C   RSP  025-180   III/1                 
+9000       0348   0351      0357  LEA  3   FLA  S12E61    SF                    
+
+9010 +     0455   0459      0505  GO8  5   XRA  1-8A      C2.2    1.2E-03   9267
+9010       0456   0458      0508  LEA  3   FLA  N04W63    SF      ERU       9267
+
+9020       0611   0614      0616  LEA  3   FLA  N17W76    SF                9277
+
+9030       0739   0740      0742  LEA  3   FLA  N09E46    SF                9278
+
+9040       0752   ////      0754  LEA  C   RSP  025-123   III/2                 
+
+9050 +     0802   ////      0809  LEA  C   RSP  025-180   V/3               9279
+9050       0804   0805      0809  LEA  3   FLA  S10E60    SF                9279
+
+9060 +     1003   1024      1028  GO8  5   XRA  1-8A      C9.5    7.3E-03   9278
+9060       1022   1023      1024  LEA  G   RBR  1415      27                9278
+9060       1022   1023      1024  LEA  G   RBR  4995      72                9278
+9060       1022   1023      1024  LEA  G   RBR  8800      130               9278
+9060       1022   1023      1024  LEA  G   RBR  15400     170               9278
+9060 +     1023   1024      1032  SVI  3   FLA  N07E41    SF                9278
+9060 +     1023   1023      1024  LEA  G   RBR  2695      54                9278
+
+9070 +     1129   1129      1130  SVI  G   RBR  245       81                    
+9070       1129   ////      1138  SVI  C   RSP  048-180   III/1                 
+
+9080 +     1257   1257      1258  SVI  G   RBR  245       240                   
+
+9100       1317   ////      1317  SVI  C   RSP  075-180   III/1                 
+
+9110 +     1411   1415      1419  GO8  5   XRA  1-8A      C3.0    1.2E-03   9269
+9110 +     1413   1414      1416  SAG  G   RBR  245       190               9269
+9110 +     1413   1415      1416  SAG  G   RBR  410       210               9269
+9110       1414   ////      1416  SVI  C   RSP  025-169   III/2             9269
+9110       1414   1414      1424  RAM  3   FLA  N15W12    SF      ERU       9269
+
+9150       1622   1624      1630  RAM  3   FLA  N07E38    SF      ERU       9278
+
+9120 +     1810   1819      1835  GO8  5   XRA  1-8A      C3.3    4.3E-03       
+
+9130 +     1856   1900      1903  GO8  5   XRA  1-8A      C4.1    1.3E-03   9278
+9130       1858   1859      1907  HOL  3   FLA  N06E38    SF                9278
+
+9140       1930   1930      1933  SAG  G   RBR  245       61                    
+
+9160 +     2135   2140      2149  GO8  5   XRA  1-8A      C2.1    1.5E-03   9278
+9160       2138   2148      2151  HOL  3   FLA  N07E38    SF      ERU       9278
+
+9170 +     2258   ////      2300  HOL  C   RSP  025-180   III/1                 
+9170       2300   2300      2301  LEA  G   RBR  245       45                    
+
+9180       2306   ////      2306  HOL  C   RSP  025-122   III/1                 
+
+9190       2307   2307      2307  LEA  G   RBR  245       26                    
+9190       2307   2307      2307  LEA  G   RBR  410       36                    

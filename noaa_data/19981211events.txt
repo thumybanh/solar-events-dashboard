@@ -1,0 +1,49 @@
+:Product: 19981211events.txt
+:Created: 1998 Dec 14 0302 UT
+:Date: 1998 12 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+560        0318   0326      0336  GO8  5   XRA  1-8A      C1.3    1.2E-03   8404
+
+480        0324   0325      0330  LEA  3   FLA  S34E40    SF                8409
+
+560        0325   0326      0331  LEA  3   FLA  S23W54    SF                8404
+
+490        0333   0334      0343  LEA  3   FLA  S23W54    SF                8404
+
+500        0428   0431      0440  GO8  5   XRA  1-8A      C1.2    8.6E-04   8405
+500        0429   0431      0448  LEA  3   FLA  S17E07    SF      ERU       8405
+500        0443   ////      0444  LEA  C   RSP  030-08    III/2             8405
+
+510        0542   0601      0614  LEA  3   FLA  S22W55    SF                8404
+
+520        0719   0721      0723  LEA  3   FLA  S15E05    SF                8405
+
+530        0804   ////      0805  LEA  C   RSP  030-06    III/1                 
+
+540  +     0912   0917      0935  LEA  2   FLA  S15E04    SF      ERU       8405
+
+570        0927   0927      0936  LEA  2   FLA  S21E22    SF      ERU       8408
+
+550        0955   0956      0958  LEA  2   FLA  S19E19    SF                8408
+
+580        1141   1149      1156  GO8  5   XRA  1-8A      C1.3    1.0E-03   8408
+580       B1147  U1148     A1203  RAM  2   FLA  S17E20    SF      ERU       8408
+
+750       B1157  U1216     A1222  SVI  3   FLA  S20E20    SF      ERU       8408
+
+590  +     1653   1656      1706  RAM  3   FLA  S19E16    SF                8408
+
+600  +     1729   1752      1819  RAM  3   FLA  S19E17    SF      ERU       8408
+600  +     1739   1749      1758  GO8  5   XRA  1-8A      C3.4    2.8E-03   8408
+
+610  +     2007   2011      2014  GO8  5   XRA  1-8A      C1.1    4.2E-04   8409
+610  +     2009   2010      2015  HOL  3   FLA  S29E29    SF                8409

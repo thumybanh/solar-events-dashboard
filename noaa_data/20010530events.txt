@@ -1,0 +1,22 @@
+:Product: 20010530events.txt
+:Created: 2001 Jun 02 0302 UT
+:Date: 2001 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+360        0005   ////      0023  HOL  C   RSP  069-169   CTM/1                 
+
+370        0801   ////      0802  SVI  C   RSP  025-076   III/1                 
+
+380        0956   ////      0956  SVI  C   RSP  025-080   III/1                 
+
+390        1400   1401      1403  SAG  G   RBR  245       50                    
+
+400        2350   2350      2353  LEA  3   FLA  N17W71    SF                9481

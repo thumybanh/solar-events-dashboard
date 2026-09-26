@@ -1,0 +1,32 @@
+:Product: 20030625events.txt
+:Created: 2003 Jun 28 0302 UT
+:Date: 2003 06 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jun 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4000       0322   0322      0322  LEA  G   RBR  245       92                    
+
+4150      A0800   ////     B0358  LEA  3   DSF  ////      20      B.0A      0000
+
+4020 +     0810   0821      0842  G12  5   XRA  1-8A      B6.8    1.0E-03       
+
+4040 +     1515   1632      1804  G12  5   XRA  1-8A      C3.7    2.7E-02       
+
+4030       1518   1518      1525  HOL  3   FLA  S17E62    SF      ERU       0393
+4030       1525   ////      1526  SVI  C   RSP  043-059   III/1             0393
+
+4050 +     1624   ////      1624  SVI  C   RSP  025-130   III/1                 
+
+4120      A1725   ////     B0444  SVI  3   DSF  ////      13      B.0A      0000
+
+4160      A1725   ////     B0444  SVI  3   DSF  ////      19      B.0A      0000
+
+4060       2124   ////      2218  HOL  3   DSF  ////      11      B.0A      0393
+4060       2132   2156      2332  G12  5   XRA  1-8A      C1.3    8.3E-03   0393

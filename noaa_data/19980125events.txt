@@ -1,0 +1,46 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 28 Jan 1998
+
+EDITED EVENTS for 1998 Jan 25
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+4500       0111   ////      0112  LEA  C   RSP  030-06    III/1
+
+4510 +     0406   0413      0418  GO9  5   XRA  1-8A      B3.7    2.1E-04
+
+4520 +     0438   0444      0452  GO9  5   XRA  1-8A      B2.1    1.6E-04
+
+4530       0532   0536      0543  GO8  5   XRA  1-8A      B1.7    1.1E-04
+
+4820      A0945   ////      2323  LEA  3   DSF  N24E27    10      B.0A
+
+4540 +     1011   1014      1016  GO9  5   XRA  1-8A      B2.6    6.3E-05
+4540 +     1013   1013      1013  LEA  G   RBR  245       33
+4540 +     1013   1013      1014  SVI  G   RBR  410       180
+
+4570       1429   1512      1700  GO9  5   XRA  1-8A      C1.1    7.8E-03
+4570       1530   1530      1536  HOL  3   FLA  N21E25    SF      ERU
+
+4580 +     1618   1620      1623  SAG  G   RBR  245       110
+
+4590 +     1914   1936      1951  GO9  5   XRA  1-8A      C2.8    4.6E-03   8142
+4590 +     1943   1943      1952  HOL  3   FLA  S18W39    SF      ERU       8142
+
+4820       2044   ////      2247  CUL  C   RSP  18-160    CTM/1
+
+4600 +     2126   2136      2143  GO9  5   XRA  1-8A      M1.3    8.3E-03   8145
+4600       2128   2132      2158  HOL  3   FLA  N22E53    1B      ERU       8145
+4600       2129   ////      2133  PAL  C   RSP  025-07    V/3               8145
+4600       2130   2131      2132  PAL  G   RBR  245       53                8145
+4600       2131   2131      2131  PAL  G   RBR  410       39                8145
+4600       2131   2131      2132  PAL  G   RBR  606       27                8145
+4600       2131   2131      2132  PAL  G   RBR  1415      25                8145
+4600       2131   2132      2133  PAL  G   RBR  2695      41                8145
+4600       2131   2132      2133  PAL  G   RBR  4995      76                8145
+4600       2131   2132      2133  PAL  G   RBR  8800      63                8145
+4600       2131   2132      2134  PAL  G   RBR  15400     55                8145
+
+4610       2146   ////      2148  PAL  C   RSP  025-05    III/2
+
+4620       2157   2157      2157  PAL  G   RBR  245       53

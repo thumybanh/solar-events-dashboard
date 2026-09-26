@@ -1,0 +1,75 @@
+:Product: 20040405events.txt
+:Created: 2004 Apr 08 0302 UT
+:Date: 2004 04 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2750       0138   ////      0139  CUL  C   RSP  25-180    III/1                 
+
+2760       0208   ////      0208  CUL  C   RSP  23-130    III/1                 
+
+2720 +     0225   0230      0237  G12  5   XRA  1-8A      B6.3    3.7E-04   0588
+
+2770       0255   ////      0255  CUL  C   RSP  27-180    III/1                 
+
+2730 +     0314   0318      0322  G12  5   XRA  1-8A      B4.0    1.5E-04       
+2730 +     0316   ////      0318  CUL  C   RSP  23-180    III/2                 
+
+2740 +     0345   ////      0349  CUL  C   RSP  23-180    III/1                 
+
+2780       0429   ////      0429  CUL  C   RSP  45-180    III/1                 
+
+2900       0508   ////      0517  CUL  C   RSP  30-100    III/1                 
+
+2790       0535   0545     A0642  LEA  3   FLA  S18E35    1F      ERU       0588
+2790 +     0537   0555      0613  G12  5   XRA  1-8A      M1.7    2.6E-02   0588
+2790 +     0541   0546      0546  LEA  G   RBR  8800      74                0588
+2790 +     0541   0546      0548  LEA  G   RBR  4995      150               0588
+2790       0541   0546      0551  SVI  G   RBR  15400     37                0588
+2790 +     0543   0544      0544  LEA  G   RBR  245       180               0588
+2790 +     0543   0546      0547  LEA  G   RBR  2695      110               0588
+2790 +     0543   ////      0547  CUL  C   RSP  18-360    III/3             0588
+2790       0545   0546      0547  SVI  G   RBR  1415      39                0588
+2790       0550   0550      0551  SVI  G   RBR  410       23                0588
+2790 +     0554   ////      0605  CUL  C   RSP  27-95     II/2              0588
+
+2800 +     0903   ////      0903  LEA  C   RSP  025-180   III/1                 
+
+2810       0954   0954      0954  SVI  G   RBR  410       78                    
+
+2820 +     1531   1535      1538  G12  5   XRA  1-8A      B3.1    1.1E-04       
+
+2830 +     1847   1852      1854  G12  5   XRA  1-8A      B7.3    1.9E-04   0588
+2830 +     1849   ////      1850  PAL  C   RSP  025-060   III/1                 
+
+2840 +     1950   1954      1957  G12  5   XRA  1-8A      B4.7    1.5E-04       
+
+2850 +     1958   2004      2010  G12  5   XRA  1-8A      B8.4    4.7E-04   0588
+
+2910       2108   ////      2110  CUL  C   RSP  23-60     III/1                 
+
+2920       2116   ////      2116  CUL  C   RSP  25-50     III/1                 
+
+2930       2204   ////      2204  CUL  C   RSP  100-190   III/1                 
+
+2860       2237   ////      2244  HOL  C   RSP  025-180   III/2                 
+
+2940       2237   ////      2244  CUL  C   RSP  18-300    III/3                 
+
+2860 +     2238   2242      2244  G12  5   XRA  1-8A      B7.9    1.6E-04       
+2860       2241   2242      2242  PAL  G   RBR  245       110                   
+
+2950       2254   ////      2259  CUL  C   RSP  50-200    III/1                 
+
+2870 +     2317   ////      2323  CUL  C   RSP  18-200    III/2                 
+
+2880 +     2321   2324      2326  G12  5   XRA  1-8A      B2.7    6.8E-05       
+
+2890 +     2341   ////      2341  CUL  C   RSP  18-180    III/3                 

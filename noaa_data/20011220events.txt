@@ -1,0 +1,51 @@
+:Product: 20011220events.txt
+:Created: 2005 Jul 27 2016 UT
+:Date: 2001 12 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2770       0001   0003      0006  LEA  2   FLA  N13E27    SF      ERU       9742
+
+2810       0205   0206      0209  LEA  2   FLA  N12E25    SF      ERU       9742
+
+2820       0227   0228      0234  LEA  2   FLA  N12E72    SF      ERU       9747
+
+2830       0315   0316      0318  LEA  2   FLA  N13E25    SF      ERU       9742
+
+2840 +     0432   0438      0442  GO8  5   XRA  1-8A      C8.7    3.6E-03   9742
+
+2850       0530   0537      0556  LEA  2   FLA  N13E71    SF      ERU       9747
+2850       0537   0537      0537  LEA  G   RBR  245       50                9747
+
+2860       0727   0727      0732  LEA  3   FLA  S19W26    SF      ERU       9738
+
+2870 +     0844   0847      0850  GO8  5   XRA  1-8A      C3.1    1.0E-03   9741
+2870 +     0846   0848      0856  SVI  3   FLA  N06W14    SF      ERU       9741
+
+2880 +     0944   ////      0945  LEA  C   RSP  025-109   III/1                 
+
+2890 +     1103   1106      1112  GO8  5   XRA  1-8A      C2.4    1.2E-03       
+
+2900       1318   ////      1318  SVI  C   RSP  115-170   III/1                 
+
+2910 +     1522   1526      1533  GO8  5   XRA  1-8A      C4.4    2.6E-03   9742
+2910 +     1524   1527      1549  HOL  3   FLA  N12E22    SF      ERU       9742
+
+2920 +     1710   1715      1724  GO8  5   XRA  1-8A      C2.7    2.1E-03   9742
+2920       1711   1717      1740  RAM  3   FLA  N06E17    SF      ERU       9742
+
+2930 +     1808   1812      1818  GO8  5   XRA  1-8A      C5.0    2.4E-03   9742
+2930 +     1810   1811      1844  HOL  3   FLA  N11E21    SF      ERU       9742
+
+2940       1847   1848      1855  HOL  3   FLA  N12E61    SF      ERU       9747
+
+2950       2116   2125      2141  HOL  3   FLA  N12E15    SF                9742
+
+2960       2154   ////      1047  LEA  C   RSP  066-126   CTM/1                 

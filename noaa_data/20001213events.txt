@@ -1,0 +1,62 @@
+:Product: 20001213events.txt
+:Created: 2000 Dec 16 0302 UT
+:Date: 2000 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7500 +     0009   ////      0010  LEA  C   RSP  036-180   III/1                 
+
+7510 +     0213   0223      0228  GO8  5   XRA  1-8A      C3.8    2.0E-03       
+
+7520 +     0345   ////      0346  CUL  C   RSP  18-180    III/3                 
+
+7530 +     0552   0556      0609  GO8  5   XRA  1-8A      B6.9    6.4E-04       
+
+7540 +     0741   0745      0749  GO8  5   XRA  1-8A      B8.2    3.4E-04       
+
+7550 +     0803   0808      0816  GO8  5   XRA  1-8A      B9.4    6.3E-04   9267
+
+7560 +     0816   0823      0828  GO8  5   XRA  1-8A      C4.6    2.1E-03   9267
+7560       0819   0820      0837  LEA  3   FLA  N08E17    SF                9267
+
+7700       0819   0820      0825       F   RBR  3000      16                    
+
+7570 +     0915   ////      0915  LEA  C   RSP  025-104   III/1                 
+
+7580 +     1012   1016      1022  GO8  5   XRA  1-8A      C1.2    7.0E-04       
+
+7590       1056   ////      1057  SVI  C   RSP  058-114   III/1                 
+
+7600       1100   1115      1131  G10  5   XRA  1-8A      C2.7    4.3E-03   9264
+7600 +     1119   1125      1142  SVI  3   FLA  S25E32    SF      DSD       9264
+
+7610       1249   ////      1256  SVI  C   RSP  028-152   III/1                 
+
+7620 +     1658   1701      1703  GO8  5   XRA  1-8A      C1.1    2.7E-04       
+
+7630 +     1741   1742      1743  SAG  G   RBR  245       74                    
+7630 +     1741   1742      1743  SAG  G   RBR  410       61                    
+
+7640 +     1838   1838      1839  PAL  G   RBR  245       400                   
+
+7690       2005   ////      2005  CUL  C   RSP  28-130    III/1                 
+
+7650 +     2155   2204      2216  GO8  5   XRA  1-8A      C5.8    4.9E-03   9267
+7650       2158   2201      2227  HOL  3   FLA  N10E07    1F      PRB       9267
+7650       2159   2200      2200  PAL  G   RBR  1415      23                9267
+7650       2159   2200      2201  PAL  G   RBR  2695      39                9267
+7650       2200   2200      2201  PAL  G   RBR  4995      28                9267
+7650 +     2214   ////      2215  CUL  C   RSP  18-250    III/3             9267
+7650       2214   2214      2214  PAL  G   RBR  245       160               9267
+7650 +     2214   ////      2215  PAL  C   RSP  025-180   V/2               9267
+
+7660       2240   2242      2250  HOL  3   FLA  N16E61    SF      ERU       9267
+
+7670 +     2351   2359      0014  GO8  5   XRA  1-8A      C3.2    3.1E-03       

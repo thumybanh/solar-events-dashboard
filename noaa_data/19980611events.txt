@@ -1,0 +1,43 @@
+:Product: 19980611events.txt
+:Created: 1998 Jun 14 0303 UT
+:Date: 1998 06 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8490 +     0501   ////      0502  CUL  C   RSP  20-130    III/2                 
+
+8560       0521   ////      0521  CUL  C   RSP  25-90     III/1                 
+
+8500       0606   0607      0609  SVI  2   FLA  S22W61    SF                8240
+
+8570       0623   ////      0629  CUL  C   RSP  30-90     III/1                 
+
+8580       0647   ////      0648  CUL  C   RSP  60-180    III/1                 
+
+8510       0651   ////      0651  SVI  U   RSP  048-08    III/2                 
+8510       0651   ////      0651  SVI  U   RSP  048-08    III/2                 
+
+8520       0802   0802      0803  LEA  G   RBR  245       15                    
+8520       0802   0802      0803  LEA  G   RBR  410       19                    
+8520 +     0802   ////      0803  SVI  C   RSP  041-08    III/3                 
+
+8530 +     0957   1027      1118  GO9  5   XRA  1-8A      M1.4    5.0E-02       
+8530       1006   ////      1018  SVI  U   RSP  035-08    II/2    800           
+8530       1018   ////      1107  SVI  C   RSP  035-08    IV/2                  
+
+8540 +     1128   1134      1141  SVI  G   RBR  2695      42                    
+8540 +     1128   1135      1146  SAG  G   RBR  4995      25                    
+8540 +     1130   1130      1130  SVI  G   RBR  1415      21                    
+
+8590       2217   ////      2217  CUL  C   RSP  25-50     III/1                 
+
+8600       2233   ////      2235  CUL  C   RSP  20-95     III/1                 
+
+8550       2249   2254      2302  HOL  3   FLA  S20W68    SF                8240

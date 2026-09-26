@@ -1,0 +1,38 @@
+:Product: 19981025events.txt
+:Created: 1998 Oct 28 0302 UT
+:Date: 1998 10 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8680 +     0044   ////      0045  CUL  C   RSP  30-90     III/3                 
+
+8820       0048   ////      0048  CUL  C   RSP  60-220    III/1                 
+
+8700 +     0728   0732      0736  GO8  5   XRA  1-8A      B4.9    1.9E-04       
+
+8710       0940   0940      0940  LEA  U   RBR  245       50                    
+
+8720 +     1000   1000      1000  SVI  G   RBR  245       72                    
+
+8730 +     1205   ////      1252  SVI  C   RSP  035-06    CTM/2                 
+
+8740       1325   1325      1332  RAM  3   FLA  N18E66    SF                8369
+
+8750 +     1351   1356      1404  GO8  5   XRA  1-8A      C2.2    1.2E-03   8366
+8750 +     1354   1355      1358  SAG  G   RBR  245       3100                  
+8750 +     1354   1354      1355  SAG  G   RBR  410       2600                  
+8750       1354   ////      1415  RAM  3   FLA  S11W53    SN      BPS       8366
+8750       1356   ////      1358  SAG  C   RSP  030-08    V/3                   
+
+8760 +     1452   ////      1453  SAG  C   RSP  030-05    III/1                 
+
+8770       1511   1511      1518  RAM  3   FLA  N18E68    SF                8369
+
+8780       1956   ////      1956  PAL  C   RSP  025-04    III/1                 

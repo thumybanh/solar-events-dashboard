@@ -1,0 +1,77 @@
+:Product: 20021215events.txt
+:Created: 2002 Dec 18 0300 UT
+:Date: 2002 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7450       0025   0029      0031  GO8  5   XRA  1-8A      C2.1    6.7E-04   0229
+7450       0028   0029      0033  LEA  3   FLA  N18E63    SF      ERU       0229
+
+7460       0129   0131      0133  LEA  3   FLA  S29E39    SF                0226
+
+7470       0140   0145      0205  LEA  3   FLA  S29E39    SF      ERU       0226
+
+7480 +     0406   0410      0413  GO8  5   XRA  1-8A      C2.5    9.1E-04       
+
+7490       0425   0425      0432  LEA  3   FLA  S29E38    SF                0226
+7490       0427   0428      0431  GO8  5   XRA  1-8A      C1.8    4.3E-04   0226
+
+7500       0626   0626      0638  LEA  3   FLA  N17E62    SF      ERU       0229
+7500       0626   0628      0633  GO8  5   XRA  1-8A      C2.0    8.1E-04   0229
+
+7510       0643   0648      0652  LEA  3   FLA  N18E60    SF      ERU       0229
+
+7520 +     0742   0742      0743  SVI  G   RBR  245       460                   
+
+7530       0753   0801      0809  GO8  5   XRA  1-8A      C2.0    1.6E-03   0226
+7530       0802   0803      0808  LEA  3   FLA  S28E33    SF                0226
+
+7540       1009   ////      1010  SVI  U   RSP  053-167   III/1                 
+7540       1009   1010      1010  SVI  G   RBR  245       150                   
+7540       1009   1010      1010  SVI  G   RBR  410       76                    
+
+7550 +     1017   1029      1041  GO8  5   XRA  1-8A      C2.8    3.4E-03   0226
+7550 +     1020   1021     A1027  LEA  2   FLA  S27E31    SF      ERU       0226
+
+7600       1022   1023     A1027  LEA  2   FLA  N17E46    SF      ERU       0225
+
+7550       1039   1039      1039  SVI  G   RBR  245       230               0226
+7550       1039   1039      1039  SVI  G   RBR  410       86                0226
+7550       1039   1039      1039  SVI  G   RBR  606       26                0226
+7550       1039   ////      1039  SVI  U   RSP  051-166   III/1             0226
+
+7560       1101   1101      1101  SVI  G   RBR  245       260                   
+7560       1101   1101      1101  SVI  G   RBR  410       42                    
+
+7570       1113   1113      1113  SVI  G   RBR  245       150                   
+
+7580       1120   1120      1120  SVI  G   RBR  245       190                   
+
+7590 +     1125   1136      1144  GO8  5   XRA  1-8A      C3.1    3.0E-03       
+7590 +     1142   1142      1142  SVI  G   RBR  245       260                   
+7590 +     1142   1142      1142  SVI  G   RBR  410       100                   
+7590       1142   1142      1142  SVI  G   RBR  606       45                    
+7590       1142   ////      1142  SVI  U   RSP  036-144   III/1                 
+
+7620 +     1546   1553      1608  GO8  5   XRA  1-8A      C4.3    5.1E-03       
+
+7630 +     1801   1804      1807  GO8  5   XRA  1-8A      C5.9    1.4E-03       
+
+7640 +     2007   2011      2016  GO8  5   XRA  1-8A      C2.5    1.1E-03       
+
+7650       2035   ////      2035  CUL  C   RSP  35-50     III/1                 
+
+7660 +     2109   2118      2131  GO8  5   XRA  1-8A      C2.6    2.8E-03       
+
+7670       2135   ////      2135  CUL  C   RSP  75-160    III/1                 
+
+7680 +     2231   2236      2240  GO8  5   XRA  1-8A      C3.1    1.4E-03       
+
+7690      A2322   ////     B1900  HOL  3   DSF  ////      06      B.0A      0000

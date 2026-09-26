@@ -1,0 +1,63 @@
+:Product: 20051213events.txt
+:Created: 2005 Dec 16 0329 UT
+:Date: 2005 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7080 +     0011   ////      0017  LEA  C   RSP  025-180   III/2                 
+
+7090 +     0036   ////      0036  LEA  C   RSP  025-162   III/2                 
+
+7110       0052   ////      0055  CUL  C   RSP  27-80     III/1                 
+
+7120       0215   ////      0220  CUL  C   RSP  20-65     III/1                 
+
+7100       0218   0219      0220  PAL  G   RBR  410       140                   
+
+7130       0247   ////      0247  CUL  C   RSP  20-90     III/1                 
+
+7140       0300   ////      0300  CUL  C   RSP  30-70     III/1                 
+
+7150 +     0431   0437      0440  G12  5   XRA  1-8A      B1.9    8.6E-05   0835
+7150       0436   0437      0440  G12  5   XFL  N19E37    3.6E+03 9.5E+03   0835
+
+7160 +     0442   ////      0447  LEA  C   RSP  025-165   III/2                 
+
+7170       0559   ////      0559  LEA  C   RSP  025-162   III/1                 
+
+7240       0600   ////      0600  CUL  C   RSP  23-80     III/1                 
+
+7180 +     0712   0719      0726  G12  5   XRA  1-8A      B4.9    2.8E-04   0834
+7180       0716   0721      0725  G12  5   XFL  S08E48    2.2E+03 1.3E+04   0834
+
+7190       0928   0931      0933  G12  5   XRA  1-8A      B1.0    2.5E-05   0835
+7190       0932   0932      0932  G12  5   XFL  N19E35    3.3E+03 9.1E+03   0835
+
+7200 +     2108   2118      2129  G12  5   XRA  1-8A      B4.0    4.3E-04       
+7200       2111   2111      2111  PAL  G   RBR  1415      53                    
+7200       2112   2128      2128  G12  5   XFL  S08W41    3.4E+03 1.8E+04       
+7200       2113   ////      2123  CUL  C   RSP  300-800   IV/1                  
+7200      U2116  U2117      2120  PAL  G   RBR  410       190                   
+7200      U2116  U2117      2122  PAL  G   RBR  606       600                   
+
+7210 +     2133   2147      2158  G12  5   XRA  1-8A      C1.7    1.8E-03       
+7210       2136   2152      2157  G12  5   XFL  S11E79    5.4E+03 4.3E+04       
+7210 +     2148   ////      2203  COM  C   RSP  30-80     II/1    691           
+7210 +     2149   ////      2150  PAL  C   RSP  025-180   III/1                 
+
+7220       2207   ////      2208  LEA  C   RSP  073-156   III/1                 
+
+7230       2223   ////      2223  LEA  C   RSP  076-180   III/1                 
+
+7250       2242   ////      2243  LEA  C   RSP  032-049   III/1                 
+
+7260       2325   ////      2325  LEA  C   RSP  025-144   III/1                 
+
+7270       2326   ////      2326  CUL  C   RSP  30-140    III/1                 

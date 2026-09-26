@@ -1,0 +1,19 @@
+:Product: 20070728events.txt
+:Created: 2007 Aug 01 2332 UT
+:Date: 2007 07 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jul 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5550 +     0228   0230      0232  COM  3   FLA  S11E35    SF      ERU       0965
+
+5560 +     0252   0252      0300  COM  3   FLA  S12E35    SF      ERU       0965
+
+5570       0715   0719      0724  G11  5   XRA  1-8A      B1.4    5.4E-05   0965
+5570 +     0716   0718      0739  COM  3   FLA  S15E25    SF                0965

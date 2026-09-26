@@ -1,0 +1,24 @@
+:Product: 19990107events.txt
+:Created: 1999 Jan 10 0302 UT
+:Date: 1999 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6270       0000   ////      0028  PAL  C   RSP  025-05    CTM/2                 
+6270 +     0000   ////      0004  CUL  C   RSP  18-180    III/2                 
+6270 +     0006   ////      0024  CUL  C   RSP  26-200    II/3                  
+
+6280 +     0225   ////      0227  CUL  C   RSP  30-180    III/1                 
+
+6300       1501   1511      1524  GO8  5   XRA  1-8A      B4.8    6.0E-04       
+
+6320       2155   ////      2155  CUL  C   RSP  35-180    III/1                 
+
+6310 +     2301   ////      2302  CUL  C   RSP  35-200    III/1                 

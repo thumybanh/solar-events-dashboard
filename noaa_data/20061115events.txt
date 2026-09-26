@@ -1,0 +1,65 @@
+:Product: 20061115events.txt
+:Created: 2006 Nov 18 0329 UT
+:Date: 2006 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 160       0000   ////      0000  CUL  C   RSP  20-160    CTM/1                 
+
+9960 +     0219   0230      0241  G12  5   XRA  1-8A      B1.5    1.7E-04       
+
+9970 +     0248   ////      0250  LEA  C   RSP  025-160   III/2                 
+
+9990 +     0249   0249      0000  LEA  G   RNS  245       100                   
+
+9980 +     0307   ////      0307  CUL  C   RSP  18-100    III/2                 
+
+  20 +     0409   ////      0409  CUL  C   RSP  18-140    III/3                 
+
+  30       0425   ////      0427  LEA  C   RSP  025-180   V/2                   
+  30       0425   ////      0426  CUL  C   RSP  18-150    III/3                 
+
+  40       0508   ////      0508  LEA  C   RSP  025-180   III/2                 
+
+ 170       0509   ////      0509  CUL  C   RSP  20-150    III/2                 
+
+ 180       0524   ////      0524  CUL  C   RSP  20-140    III/2                 
+
+  50       0541   ////      0543  LEA  C   RSP  025-167   V/2                   
+  50       0542   ////      0544  CUL  C   RSP  18-140    III/3                 
+
+  60       0556   ////      1510  SVI  C   RSP  025-180   CTM/1                 
+  60 +     0635   ////      0635  CUL  C   RSP  18-100    III/3                 
+
+9990       0700   ////      1200  IZM  F   RNS  204       40                    
+
+ 190       0709   ////      0000  CUL  C   RSP  18-300    CTM/1                 
+
+  70 +     0737   0737      0738  SVI  G   RBR  245       600                   
+
+  80       0909   0913      0915  SVI  G   RBR  245       470                   
+
+  90       0920   0920      0920  SVI  G   RBR  245       610                   
+
+ 100       1057   1100      1102  G12  5   XRA  1-8A      B1.0    2.5E-05       
+
+ 110       1339   1343      1347  G12  5   XRA  1-8A      B1.1    4.7E-05       
+
+ 120 +     1843   1901      1913  G12  5   XRA  1-8A      C1.8    2.2E-03   0924
+ 120       1848   1901      1934  HOL  3   FLA  S10E29    SF      ERU       0924
+ 120 +     1849   ////      1851  PAL  C   RSP  025-180   III/2             0924
+ 120       1850   ////      0333  PAL  C   RSP  075-180   CTM/1             0924
+ 120       1913   1913      1913  PAL  G   RBR  245       470               0924
+
+ 130       2017   2017      2017  PAL  G   RBR  245       130                   
+
+ 140       2028   ////      2028  PAL  C   RSP  025-048   III/1                 
+
+ 150 +     2305   ////      2309  CUL  C   RSP  18-140    III/3                 

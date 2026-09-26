@@ -1,0 +1,62 @@
+:Product: 19990819events.txt
+:Created: 1999 Aug 22 0303 UT
+:Date: 1999 08 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1430 +     0042   ////      0042  CUL  C   RSP  20-70     III/1                 
+
+1450       0103   ////      0111  CUL  C   RSP  18-180    III/3                 
+
+1460       0411   ////      0411  CUL  C   RSP  18-90     III/2                 
+
+1480       0423   ////      0647  SVI  C   RSP  035-08    CTM/2                 
+
+1470       0429   ////      0429  CUL  C   RSP  18-180    III/2                 
+
+1550       0823   ////      1257  SVI  C   RSP  035-06    CTM/2                 
+
+1490       0834   0834      0834  SVI  G   RBR  245       150                   
+
+1500       0840   0841      0841  SVI  G   RBR  245       100                   
+
+1510       0942   0942      0942  LEA  G   RBR  410       58                    
+
+1540 +     1139   1149      1258  SVI  3   FLA  N16E04    SF      ERU       8668
+1540       1141   ////      1148  SAG  C   RSP  030-06    III/1             8668
+
+1520 +     1158   1202      1205  SAG  G   RBR  606       51                8672
+1520 +     1158   ////      1205  SVI  C   RSP  035-08    V/3               8672
+1520 +     1159   1202      1202  SVI  G   RBR  245       87                8672
+1520 +     1159   1205      1213  GO8  5   XRA  1-8A      M1.0    6.5E-03   8672
+1520 +     1159   1204      1238  SVI  3   FLA  N13W09    1N      ERU       8672
+1520       1202   1202      1205  SAG  G   RBR  15400     32                8672
+1520 +     1202   1202      1202  SVI  G   RBR  410       30                8672
+1520 +     1202   1202      1203  SVI  G   RBR  1415      42                8672
+1520 +     1202   1202      1203  SVI  G   RBR  2695      64                8672
+1520 +     1202   1202      1203  SVI  G   RBR  4995      98                8672
+1520 +     1202   1202      1202  SVI  G   RBR  8800      45                8672
+
+1560       1427   ////      1436  SAG  C   RSP  030-07    III/1                 
+
+1570       1533   ////      1534  SVI  C   RSP  037-05    III/1                 
+
+1580 +     1820   1820      1821  SAG  G   RBR  245       1800                  
+
+1590 +     1835   1835      1836  SAG  G   RBR  245       650                   
+
+1610       2114   ////      2114  CUL  C   RSP  110-17    III/1                 
+
+1620       2226   ////      2227  CUL  C   RSP  60-180    III/1                 
+
+1600 +     2318   2318      2321  PAL  G   RBR  245       2500                  
+1600 +     2319   ////      2320  CUL  C   RSP  50-300    III/3                 
+
+1630       2340   ////      2340  CUL  C   RSP  110-17    III/1                 

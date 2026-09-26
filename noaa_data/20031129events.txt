@@ -1,0 +1,43 @@
+:Product: 20031129events.txt
+:Created: 2003 Nov 30 2102 UT
+:Date: 2003 11 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Nov 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2450 +     0325   0330      0335  G12  5   XRA  1-8A      C1.5    7.5E-04   0510
+2450       0330  U0331      0338  LEA  3   FLA  S20E05    SF      ERU       0510
+
+2460       0603   ////      0609  LEA  C   RSP  025-180   III/1                 
+
+2470 +     0632   0638      0646  G12  5   XRA  1-8A      C2.0    1.5E-03   0508
+
+2480       0656   0659      0702  G10  5   XRA  1-8A      C1.5    5.0E-04   0508
+
+2490       0722   ////      0722  LEA  C   RSP  025-147   III/1                 
+
+2500 +     0824   ////      0825  LEA  C   RSP  025-136   III/1                 
+
+2510 +     0830   0834      0841  G12  5   XRA  1-8A      C1.9    1.1E-03   0507
+
+2520 +     1006   1012      1018  G12  5   XRA  1-8A      C2.6    1.5E-03   0508
+
+2530 +     1445   1448      1451  G12  5   XRA  1-8A      C1.6    4.5E-04   0508
+
+2540       1619   1619      1619  SAG  G   RBR  245       78                    
+
+2550 +     1757   1806      1814  G12  5   XRA  1-8A      C2.7    2.1E-03   0510
+2550       1801   1803      1821  HOL  3   FLA  S23E02    SF      ERU       0510
+
+2570       1909   ////     A2344  HOL  4   EPL  ////      0.16    B.5A      0000
+
+2560 +     2100   2109      2115  G12  5   XRA  1-8A      C4.2    2.6E-03   0510
+2560       2106   2107      2119  HOL  3   FLA  S25E00    1F      ERU       0510
+
+2580       2338   2338      2338  LEA  G   RBR  245       70                    

@@ -1,0 +1,41 @@
+:Product: 19990307events.txt
+:Created: 1999 Mar 10 0302 UT
+:Date: 1999 03 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9260 +     0108   ////      0108  CUL  C   RSP  30-70     III/1                 
+
+9270 +     0306   ////      0307  LEA  C   RSP  030-06    III/2                 
+
+9400       0343   ////      0349  CUL  C   RSP  18-80     III/1                 
+
+9280       0344   ////      0349  LEA  C   RSP  030-08    III/1                 
+
+9290 +     0354   0408      0415  GO8  5   XRA  1-8A      C2.9    2.5E-03   8477
+9290       0356   0407      0427  LEA  3   FLA  S24W03    SF      BPT       8477
+
+9300       0450   ////      0450  LEA  C   RSP  030-06    III/2                 
+
+9310       0458   ////      0506  LEA  C   RSP  030-05    III/2                 
+
+9320       0535   ////      0640  LEA  C   RSP  030-08    CTM/1                 
+
+9330       0654   ////      0659  LEA  C   RSP  030-06    III/2                 
+
+9340 +     0738   ////      0739  CUL  C   RSP  30-260    III/2                 
+
+9350       0928   ////      0931  LEA  C   RSP  030-07    III/2                 
+
+9360       1324   ////      1330  SAG  C   RSP  030-05    III/1                 
+
+9370       1622   ////      1624  SAG  C   RSP  030-06    V/2                   
+
+9380       1653   1653      1654  SAG  G   RBR  245       62                    

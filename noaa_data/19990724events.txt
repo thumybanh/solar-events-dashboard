@@ -1,0 +1,88 @@
+:Product: 19990724events.txt
+:Created: 1999 Jul 27 0302 UT
+:Date: 1999 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3300       0028   0028      0028  LEA  U   RBR  245       160                   
+
+3310 +     0122   0122      0123  PAL  G   RBR  245       67                    
+
+3320 +     0209   0213      0220  GO8  5   XRA  1-8A      C3.8    2.2E-03       
+
+3330       0316   ////      0317  LEA  C   RSP  030-04    III/1                 
+
+3340 +     0318   0331      0339  GO8  5   XRA  1-8A      C6.4    6.3E-03       
+
+3350       0347   0347      0353  LEA  3   FLA  N34W65    SF                8639
+
+3360 +     0356   0404      0408  GO8  5   XRA  1-8A      M1.7    8.3E-03       
+3360 +     0359   0403      0418  COM  3   FLA  S29E87    1N      LPS       8645
+
+3370 +     0458   ////      0504  SVI  C   RSP  036-08    III/3             8636
+3370 +     0500   0503      0506  GO8  5   XRA  1-8A      C3.1    1.0E-03   8636
+3370       0502   0504      0513  LEA  4   FLA  N21W15    SF                8636
+
+3380 +     0538   0541      0544  GO8  5   XRA  1-8A      C3.3    1.0E-03   8636
+3380       0540   0541      0545  LEA  4   FLA  N21W07    SF                8636
+
+3430       0548   ////      0926  SVI  C   RSP  035-08    CTM/2                 
+
+3390 +     0552   0556      0559  GO8  5   XRA  1-8A      C3.9    1.4E-03       
+3390       0557   ////      0600  LEA  C   RSP  030-04    III/1                 
+
+3400       0629   ////      0629  LEA  C   RSP  030-04    III/1                 
+
+3450       0713   0719      0754  LEA  4   FLA  N21W05    SF                8636
+
+3410 +     0749   0802      0825  GO8  5   XRA  1-8A      M3.3    5.1E-02   8636
+3410 +     0755   0756      0810  COM  3   FLA  S28E78    SF                8645
+
+3440       0818   ////      0849  LEA  C   RSP  030-08    CTM/1                 
+
+3460       0959   ////      1000  SVI  C   RSP  036-05    III/1                 
+
+3470       1024   ////      1025  SVI  C   RSP  035-05    III/2                 
+
+3480 +     1119   1122      1128  GO8  5   XRA  1-8A      M2.1    8.1E-03       
+3480       1120   1121      1122  SAG  G   RBR  2695      15                    
+3480 +     1120   ////      1121  SVI  C   RSP  037-05    III/2                 
+3480 +     1121   1121      1122  SAG  G   RBR  4995      26                    
+3480 +     1121   1121      1121  SVI  G   RBR  8800      54                    
+3480 +     1121   1121      1121  SVI  G   RBR  15400     41                    
+
+3490 +     1129   1133      1139  GO8  5   XRA  1-8A      M2.0    1.1E-02       
+
+3500 +     1203   1203      1204  SVI  G   RBR  1415      66                    
+
+3510 +     1219   ////      1221  SVI  C   RSP  036-06    III/2                 
+
+3520       1237   1339      1358  SAG  G   RBR  4995      29                8639
+3520       1325   1329      1334  HOL  3   FLA  N35W71    SF                8639
+
+3530       1443   1445      1457  HOL  3   FLA  N38W69    SF                8639
+
+3540       1523   1523      1534  HOL  3   FLA  N34W73    SF                8636
+
+3550 +     1607   1621      1636  GO8  5   XRA  1-8A      C7.3    1.0E-02       
+
+3560 +     1702   ////      1703  SAG  C   RSP  030-06    III/1                 
+
+3570 +     1856   ////      1857  SAG  C   RSP  030-08    III/2                 
+
+3580       2039   2045      2113  HOL  3   FLA  N19W15    SF                8636
+3580 +     2040   2048      2059  GO8  5   XRA  1-8A      C7.7    7.2E-03   8639
+
+3750       2044   2045      2053  HOL  3   FLA  N36W76    SF                8639
+
+3590       2235   ////      2235  PAL  C   RSP  025-07    III/1                 
+
+3600 +     2239   2243      2248  GO8  5   XRA  1-8A      C2.6    1.2E-03   8645
+3600       2240   2245      2249  HOL  3   FLA  S26E68    SF                8645

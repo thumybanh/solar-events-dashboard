@@ -1,0 +1,56 @@
+:Product: 19981103events.txt
+:Created: 1998 Nov 06 0303 UT
+:Date: 1998 11 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9590 +     0013   ////      0019  LEA  C   RSP  030-08    III/2                 
+
+9580       0014   ////      0015  PAL  C   RSP  049-05    III/1                 
+
+9600       0125   ////      0125  LEA  C   RSP  030-06    III/1                 
+
+9610       0126   ////      0126  CUL  C   RSP  20-70     III/1                 
+
+9620       0148   ////      0148  CUL  C   RSP  120-30    III/1                 
+
+9710      A0959   ////      2221  LEA  3   DSF  N19E06    14      B.0A      8375
+
+9630 +     1159   1202      1204  GO8  5   XRA  1-8A      B5.3    1.4E-04       
+
+9640       1330   1331      1335  RAM  4   FLA  N17E08    SF      DSD       8375
+
+9650 +     1753   1757      1803  GO8  5   XRA  1-8A      B9.2    5.0E-04       
+9650       1753   1756      1811  HOL  3   FLA  N18E05    SF                8375
+
+9660 +     1830   1833      1835  GO8  5   XRA  1-8A      B9.4    2.1E-04       
+9660       1831   1831      1831  PAL  G   RBR  4995      30                    
+9660 +     1831   1833      1833  SAG  G   RBR  606       140                   
+9660 +     1831   1831      1833  SAG  G   RBR  245       2000                  
+9660 +     1831   1831      1833  SAG  G   RBR  410       900                   
+9660 +     1832   1833      1836  HOL  3   FLA  N17E08    SF                8375
+
+9670       1852   1924      2028  HOL  3   FLA  N21E02    2N                8375
+9670 +     1911   1933      1955  GO8  5   XRA  1-8A      M1.0    2.2E-02       
+9670 +     1917   1931      2016  SAG  G   RBR  4995      40                8375
+9670       1919   1944      2001  SAG  G   RBR  1415      16                8375
+9670 +     1919   1926      2013  SAG  G   RBR  2695      30                8375
+9670       1924   1946      2013  SAG  G   RBR  8800      61                8375
+9670 +    U1929   1940      1941  PAL  U   RBR  15400     65                8375
+
+9680      B2013  U2014      2021  RAM  2   FLA  N20E02    SF                8375
+
+9720       2134   ////      2137  CUL  C   RSP  28-280    III/1                 
+
+9690       2135   2138      2140  HOL  3   FLA  N16E06    SF                8375
+
+9730       2329   ////      2330  CUL  C   RSP  27-170    III/1                 
+
+9700       2336   2338      2342  HOL  3   FLA  N15E01    SF                8375

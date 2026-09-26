@@ -1,0 +1,76 @@
+:Product: 19990403events.txt
+:Created: 1999 Apr 06 0302 UT
+:Date: 1999 04 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3860 +     0703   0708      0714  GO8  5   XRA  1-8A      B4.1    2.4E-04       
+
+3870 +     0727   0731      0739  LEA  3   FLA  N10E63    SF                8507
+
+3880       0817   ////      0818  SVI  C   RSP  035-08    III/2                 
+
+3890 +     1000  U1001     A1008  COM  3   FLA  S28E05    SF                8506
+
+3900 +     1137   1142      1148  GO8  5   XRA  1-8A      B7.6    4.0E-04   8507
+3900      B1141  U1144     A1154  RAM  3   FLA  N10E65    SF                8507
+
+3910 +     1201   1206      1210  COM  3   FLA  S28E04    SF                8506
+
+3920 +     1222   ////      1224  SVI  C   RSP  035-06    III/2                 
+
+3930 +     1225   1240      1304  COM  3   FLA  S28E04    SF                8506
+
+3940 +     1301   1303      1308  SVI  3   FLA  N31W13    SF                8501
+
+3950 +     1329   1343      1353  RAM  3   FLA  S27E05    SF      DSD       8506
+3950 +     1339   1344      1347  GO8  5   XRA  1-8A      C1.4    4.6E-04   8506
+3950 +     1343   1343      1343  SAG  G   RBR  245       59                8506
+
+3960       1353   ////      1354  SVI  C   RSP  049-06    III/1                 
+
+3970 +     1401   1417      1423  HOL  3   FLA  S26E05    SF                8506
+
+3980 +     1452   1501      1509  GO8  5   XRA  1-8A      C1.9    1.4E-03   8507
+3980       1454   1503      1509  RAM  3   FLA  N11E63    SF                8507
+3980 +     1455   ////      1455  SAG  C   RSP  030-05    III/1             8507
+
+4160      A1612   ////      0532  SVI  3   DSF  S25E30    17      B.0A          
+
+4170      A1612   ////      0532  SVI  3   DSF  S45W19    14      B.0A          
+
+3990 +     1646   1655      1715  GO8  5   XRA  1-8A      B9.3    1.3E-03       
+
+4010 +     1812   1819      1840  GO8  5   XRA  1-8A      B8.2    1.2E-03   8507
+4010 +     1813   1815      1841  RAM  3   FLA  N11E66    SF      ERU       8507
+
+4020 +     2000   2017      2026  GO8  5   XRA  1-8A      C1.6    1.9E-03   8506
+4020 +     2013   2017      2026  HOL  3   FLA  S26E02    SF      ERU       8506
+
+4030 +     2044   2050      2058  GO8  5   XRA  1-8A      C3.1    2.0E-03   8506
+4030       2047   2048      2058  RAM  3   FLA  N18E74    SF                8508
+
+4060       2054   2054      2113  RAM  3   FLA  S28E02    SF      ERU       8506
+
+4040       2145   2146      2148  RAM  3   FLA  S31E12    SF      ERU       8504
+
+4050 +     2216   2220      2223  GO8  5   XRA  1-8A      C2.8    7.2E-04   8506
+4050       2219   2220      2225  HOL  3   FLA  S26E01    SF                8506
+
+4070 +     2256   2310      2319  GO8  5   XRA  1-8A      M4.3    3.3E-02       
+4070 +     2302   2307      2313  PAL  G   RBR  8800      120                   
+4070       2302   2307      2310  PAL  G   RBR  4995      140                   
+4070       2303   2303      2315  PAL  G   RBR  410       130                   
+4070 +     2303   2306      2307  PAL  G   RBR  1415      35                    
+4070       2303   2307      2309  PAL  G   RBR  2695      75                    
+4070       2303   2303      2315  PAL  G   RBR  15400     41                    
+4070       2304   2316      2342  HOL  3   FLA  N29E81    1F                8508
+4070       2306   ////      2315  CUL  C   RSP  73-130    II/2              8508
+4070       2312   ////      2317  PAL  C   RSP  025-06    III/2             8508

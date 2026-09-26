@@ -1,0 +1,41 @@
+:Product: 20010519events.txt
+:Created: 2001 May 22 0302 UT
+:Date: 2001 05 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8060       0017   ////      0018  LEA  C   RSP  025-104   III/1                 
+
+8070       0105   ////      0105  LEA  C   RSP  025-048   III/1                 
+
+8080 +     0144   0148      0152  GO8  5   XRA  1-8A      C1.0    4.1E-04       
+
+8090 +     0520   0524      0526  GO8  5   XRA  1-8A      C1.9    5.5E-04       
+
+8100 +     0741   0745      0747  GO8  5   XRA  1-8A      C1.5    3.8E-04       
+8100 +     0742   ////      0744  SVI  C   RSP  025-180   III/2                 
+8100       0743   0743      0743  LEA  G   RBR  245       240                   
+
+8110 +     0855   ////      0859  SVI  C   RSP  025-180   III/1                 
+
+8120       0918   ////      1017  SVI  C   RSP  025-154   III/1                 
+8120 +     0933   0937      0939  GO8  5   XRA  1-8A      C1.9    5.3E-04       
+
+8130       1118   ////      1121  SAG  C   RSP  030-065   III/1                 
+
+8140 +     1433   1438      1441  GO8  5   XRA  1-8A      C6.7    1.6E-03       
+8140 +     1436   ////      1437  SVI  C   RSP  025-180   III/3                 
+8140 +     1441   ////      1450  HOL  C   RSP  025-089   II/1    473           
+
+8160 +     2102   2107      2111  GO8  5   XRA  1-8A      C1.3    6.3E-04       
+
+8170 +     2148   2155      2204  GO8  5   XRA  1-8A      C2.1    1.6E-03       
+
+8180 +     2350   0019      0025  GO8  5   XRA  1-8A      C3.5    4.2E-03       

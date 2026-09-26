@@ -1,0 +1,19 @@
+:Product: 20021130events.txt
+:Created: 2002 Dec 03 0300 UT
+:Date: 2002 11 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Nov 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5130       0016   ////      0016  LEA  C   RSP  025-180   III/1                 
+
+5140 +     1119   1125      1132  GO8  5   XRA  1-8A      B8.0    5.4E-04   0209
+5140 +     1123   1124      1133  COM  3   FLA  S19E67    SF      ERU       0209
+
+5150 +     2208   2212      2216  GO8  5   XRA  1-8A      C1.1    4.3E-04   0209

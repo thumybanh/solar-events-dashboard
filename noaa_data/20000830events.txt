@@ -1,0 +1,56 @@
+:Product: 20000830events.txt
+:Created: 2000 Sep 02 0302 UT
+:Date: 2000 08 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5850       0000   ////      0605  CUL  C   RSP  30-180    CTM/1                 
+
+5690       0001   ////      0002  LEA  C   RSP  025-180   III/1                 
+
+5700       0102   0102      0102  LEA  G   RBR  245       190                   
+
+5730       0452   ////      0625  SVI  U   RSP  036-163   CTM/1                 
+
+5710       0609   0611      0611  LEA  G   RBR  245       50                    
+5710       0610   0611      0611  LEA  G   RBR  410       140                   
+5710       0637   ////      0640  CUL  C   RSP  23-180    III/2                 
+
+5740 +     0801   0804      0812  GO8  5   XRA  1-8A      C1.8    1.1E-03       
+
+5750 +     0852   0857      0901  GO8  5   XRA  1-8A      C1.3    6.4E-04       
+
+5930      A0919   ////      2324  LEA  3   DSF  N10W35    09      B.0A      9140
+
+5760       1148   ////      1149  SVI  C   RSP  025-180   III/2                 
+
+5770       1154   1220      1237  G10  5   XRA  1-8A      C1.2    2.7E-03       
+
+6030       1306   1306      1306  SVI  G   RBR  410       72                    
+
+5790 +     1320   ////      1320  SVI  C   RSP  025-160   III/1                 
+
+5800       1505   ////      1506  SVI  U   RSP  040-082   III/1                 
+
+5820       1601   1628      1733  GO8  5   XRA  1-8A      C1.0    4.7E-03   9140
+5820       1606   1606      1608  SVI  G   RBR  410       54                9140
+5820       1610   1632      1701  HOL  3   FLA  N10W30    SF      ERU       9140
+
+5830       1815   1816      1821  RAM  3   FLA  S19W06    SF      ERU       9143
+
+5840       2030   ////      2033  HOL  C   RSP  025-167   III/1                 
+
+5870       2208   ////      2208  CUL  C   RSP  23-130    III/1                 
+
+5880       2224   ////      2225  CUL  C   RSP  28-180    III/1                 
+
+5890       2235   ////      2235  CUL  C   RSP  28-170    III/1                 
+
+5900 +     2252   ////      2357  LEA  C   RSP  050-158   CTM/1                 

@@ -1,0 +1,42 @@
+:Product: 20010204events.txt
+:Created: 2001 Feb 07 0302 UT
+:Date: 2001 02 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Feb 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7620       0002   0022      0111  GO8  5   XRA  1-8A      C1.7    6.2E-03   9330
+7620       0020   0022      0032  LEA  4   FLA  N26E20    SF                9330
+
+7630       0202   0204      0214  LEA  4   FLA  N25E18    SF      ERU       9330
+
+7640       0235   0253      0326  GO8  5   XRA  1-8A      C1.7    4.3E-03   9334
+7640       0244   0251      0338  LEA  4   FLA  N15E43    SF                9334
+
+7650 +     0604   0610      0616  GO8  5   XRA  1-8A      C2.0    1.1E-03       
+7650       0615   0616      0620  LEA  3   FLA  S17E70    SF                    
+
+7660 +     0818   0823      0827  GO8  5   XRA  1-8A      C1.7    7.0E-04       
+
+7670 +     0835   0841      0847  GO8  5   XRA  1-8A      C2.5    1.4E-03   9330
+7670       0837   0838      0850  LEA  3   FLA  N23E13    SF                9330
+
+7680 +     0923   0928      0937  GO8  5   XRA  1-8A      C1.4    9.4E-04       
+7680       0926   0927      0930  LEA  3   FLA  S10E83    SF                    
+
+7690 +     1224   1231      1238  GO8  5   XRA  1-8A      C1.0    7.8E-04       
+7690       1229   1231      1246  RAM  3   FLA  S12E83    SF                    
+
+7700       1242   1245      1250  GO8  5   XRA  1-8A      C1.0    4.6E-04   9334
+7700       1244   1244      1251  RAM  3   FLA  N12E39    SF      ERU       9334
+
+7750      A1326   ////      0634  SVI  3   DSF  N24E55    08      B.0A          
+
+7710 +     2308   2313      2319  GO8  5   XRA  1-8A      C1.3    6.8E-04   9334
+7710 +     2312   2312      2317  LEA  3   FLA  N10E35    SF      ERU       9334

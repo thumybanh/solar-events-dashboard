@@ -1,0 +1,59 @@
+:Product: 20010128events.txt
+:Created: 2001 Jan 31 0302 UT
+:Date: 2001 01 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7100 +     0000   0000      0000  LEA  G   RBR  410       120                   
+7100       0000   ////      0000  CUL  C   RSP  300-500   III/1                 
+
+7110       0019   0029      0035  GO8  5   XRA  1-8A      C1.4    1.2E-03   9313
+7110       0026   0028      0040  LEA  4   FLA  S05W49    SF                9313
+
+7120 +     0114   ////      0114  CUL  C   RSP  28-500    III/2                 
+
+7130 +     0129   ////      0129  CUL  C   RSP  20-100    III/1                 
+
+7140 +     0259   0259      0300  LEA  G   RBR  410       99                    
+
+7150 +     0455   0500      0507  GO8  5   XRA  1-8A      C1.6    9.2E-04       
+7150       0458   0459      0515  LEA  3   FLA  S12E76    SF      ERU           
+
+7160 +     0708   0711      0713  GO8  5   XRA  1-8A      C1.0    2.4E-04   9321
+7160       0711   0711      0714  LEA  3   FLA  S04W16    SF      ERU       9321
+
+7170 +     0724   0727      0734  GO8  5   XRA  1-8A      B7.7    4.0E-04   9325
+7170       0727   0727      0735  LEA  2   FLA  N11E31    SF                9325
+
+7180 +     1255   1259      1303  GO8  5   XRA  1-8A      B9.5    3.9E-04       
+
+7190       1454   1454      1456  SAG  G   RBR  245       280                   
+
+7210       1508   1546      1730  RAM  3   FLA  S04W59    1N      ERU       9313
+
+7200       1525   1525      1526  SAG  G   RBR  606       57                    
+
+7210       1534   1539      1607  SAG  G   RBR  410       4100              9313
+7210       1534   1537      1607  SAG  G   RBR  606       2400              9313
+7210       1538   1543      1607  SAG  G   RBR  245       690               9313
+7210 +     1540   1600      1624  GO8  5   XRA  1-8A      M1.5    3.0E-02   9313
+7210       1542   1553      1607  SAG  G   RBR  1415      96                9313
+7210       1542   1552      1607  SAG  G   RBR  2695      130               9313
+7210       1548   1552      1607  SAG  G   RBR  4995      37                9313
+7210       1548   1602      1607  SAG  G   RBR  8800      39                9313
+7210       1551   1604      1607  SAG  G   RBR  15400     42                9313
+
+7220       1714   1716      1727  RAM  3   FLA  S05W23    SF                9321
+7220       1721   1725      1732  SAG  G   RBR  606       84                9321
+
+7230 +     1846   1850      1854  GO8  5   XRA  1-8A      C2.9    1.3E-03       
+7230       1846  U1846     A2016  RAM  3   FLA  S14E67    SF                    
+
+7250       2116   ////      2116  CUL  C   RSP  60-100    III/1                 

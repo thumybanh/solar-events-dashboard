@@ -1,0 +1,39 @@
+:Product: 20010710events.txt
+:Created: 2001 Jul 13 0302 UT
+:Date: 2001 07 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jul 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8880       0112   ////      0112  CUL  C   RSP  40-90     III/1                 
+
+8860       0147   ////      0148  LEA  C   RSP  025-093   III/1                 
+
+8890       0257   ////      0303  CUL  C   RSP  25-180    III/1                 
+
+8870       0258   ////      0302  PAL  C   RSP  025-180   III/1                 
+
+8900       0318   ////      0326  CUL  C   RSP  30-90     III/1                 
+
+8910 +     0706   0710      0715  GO8  5   XRA  1-8A      B4.7    2.3E-04   9531
+8910 +     0709   0709      0719  LEA  3   FLA  S07E05    SF      ERU       9531
+
+8920 +     1218   1225      1253  GO8  5   XRA  1-8A      B7.1    1.3E-03       
+
+8930 +     1558   ////      1601  SVI  C   RSP  025-082   III/1                 
+
+8940       2022   ////      2023  HOL  C   RSP  025-062   III/1                 
+
+8950       2039   ////      2040  HOL  C   RSP  025-058   III/1                 
+
+8960 +     2148   ////      2150  HOL  C   RSP  025-180   III/1                 
+
+8970       2240   ////      2240  HOL  C   RSP  025-126   III/1                 
+
+8980       2350   ////      2350  LEA  C   RSP  061-180   III/1                 

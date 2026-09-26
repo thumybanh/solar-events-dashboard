@@ -1,0 +1,32 @@
+:Product: 20040917events.txt
+:Created: 2004 Sep 20 0302 UT
+:Date: 2004 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3890 +     0218   0223      0233  G12  5   XRA  1-8A      B3.1    2.5E-04   0673
+3890       0223   0223      0231  G12  5   XFL  S12E58                      0673
+3890 +     0233   0233      0234  LEA  G   RBR  245       480               0673
+
+3900       0332   ////      0332  CUL  C   RSP  40-80     III/1                 
+
+3910       0702   ////      0703  SVI  C   RSP  025-059   III/1                 
+
+3920 +     0734   ////      0736  LEA  C   RSP  025-130   III/1                 
+
+3930       1152   1152      1152  SVI  G   RBR  245       59                    
+3930       1152   ////      1152  SVI  C   RSP  025-044   III/1                 
+
+3940       1255   1255      1255  SVI  U   RBR  245       55                    
+3940       1255   1255      1255  SVI  U   RBR  410       35                    
+
+3950       1459   ////      1459  SVI  C   RSP  025-058   III/1                 
+
+3960 +     1534   ////      1534  SVI  C   RSP  025-081   III/1                 

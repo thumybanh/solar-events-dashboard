@@ -1,0 +1,42 @@
+:Product: 20070123events.txt
+:Created: 2007 Jan 27 2332 UT
+:Date: 2007 01 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7740 +     0712   0712      0712  LEA  G   RBR  245       2600                  
+7740 +     0712   ////      0715  LEA  C   RSP  025-180   III/2                 
+
+7750 +     0905   0909      0918  G12  5   XRA  1-8A      B1.7    1.0E-04   0939
+7750       0908   0915      0917  G12  5   XFL  S04W51    2.5E+02 4.5E+02   0939
+
+7770 +     1731   ////      1736  SAG  C   RSP  030-180   III/1                 
+
+7780       1826   1826      1826  SAG  G   RBR  245       480                   
+7780 +     1826   ////      1827  PAL  C   RSP  025-180   III/1                 
+
+7790 +     1827   1827      1827  PAL  G   RBR  245       370                   
+
+7800       1845   ////      1848  SAG  C   RSP  030-180   III/1                 
+7800       1845   ////      1848  PAL  C   RSP  025-180   V/1                   
+7800 +     1847   1847      1847  SAG  G   RBR  245       830                   
+
+7810 +     1924   ////      1924  PAL  C   RSP  025-133   III/1                 
+
+7820 +     1952   ////      1952  SAG  C   RSP  030-160   III/1                 
+
+7830       2039   ////      2040  PAL  C   RSP  025-169   III/1                 
+
+7840 +     2237   ////      2241  PAL  C   RSP  025-180   III/1                 
+
+7850       2254   ////      2254  LEA  C   RSP  025-062   III/1                 
+
+7860       2353   ////      0002  PAL  C   RSP  025-180   III/1                 
+7860 +     2358   0002      0004  G12  5   XRA  1-8A      B1.2    3.3E-05       

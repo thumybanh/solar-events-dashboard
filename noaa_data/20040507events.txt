@@ -1,0 +1,29 @@
+:Product: 20040507events.txt
+:Created: 2004 May 10 0302 UT
+:Date: 2004 05 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 May 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7960 +     0112   0120      0141  G12  5   XRA  1-8A      B2.7    3.8E-04   0604
+7960       0115   0122      0140  G12  5   XFL  S20E12    4.0E+02 8.8E+02   0604
+
+7970       0412   ////      0412  CUL  C   RSP  20-260    III/1                 
+
+7980 +     0956   1018      1038  G12  5   XRA  1-8A      B7.3    1.4E-03       
+7980       0959   1028      1037  G12  5   XFL  S09E84    2.8E+03 7.9E+03       
+7980 +     1002   ////      1006  SVI  C   RSP  025-180   III/1                 
+7980       1021   ////      1029  SVI  C   RSP  025-062   II/1    739           
+
+7990 +     1337   1403      1423  G12  5   XRA  1-8A      C1.0    1.7E-03   0605
+7990 +     1340   ////      1340  SVI  C   RSP  025-084   III/1             0605
+7990       1341   1414      1422  G12  5   XFL  S11W36    2.5E+03 8.6E+03   0605
+7990       1359   1402      1410  HOL  3   FLA  S12W36    SF      ERU       0605
+
+8000 +     2329   ////      2330  LEA  C   RSP  025-148   III/1                 

@@ -1,0 +1,37 @@
+:Product: 20030920events.txt
+:Created: 2003 Sep 23 0302 UT
+:Date: 2003 09 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Sep 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7820       0438   0448      0452  G10  5   XRA  1-8A      C1.1    8.1E-04       
+
+7830       0503   0512      0515  G10  5   XRA  1-8A      C3.0    1.2E-03       
+
+7840       0630   0645      0705  G12  5   XRA  1-8A      C1.7    3.0E-03       
+
+7850       1034   1145      1216  G12  5   XRA  1-8A      C1.3    6.2E-03       
+
+7860       1524   1536      1557  G10  5   XRA  1-8A      C3.6    6.5E-03       
+7860 +     1550   1550      1550  SAG  G   RBR  245       81                    
+
+7870 +     1931   1931      1931  SAG  G   RBR  245       60                    
+
+7880       1946   1946      1946  SAG  G   RBR  245       57                    
+
+7890       1947   1947      1947  PAL  G   RBR  245       68                    
+
+7900 +     1952   1955      1959  G12  5   XRA  1-8A      B9.3    3.5E-04       
+
+7910       2030   2030      2030  PAL  G   RBR  245       72                    
+
+7920 +     2129   2136      2143  G12  5   XRA  1-8A      C2.0    1.3E-03       
+
+7930 +     2257   2310      2319  G12  5   XRA  1-8A      C2.3    2.2E-03   0464

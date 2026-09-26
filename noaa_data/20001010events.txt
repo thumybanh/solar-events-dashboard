@@ -1,0 +1,68 @@
+:Product: 20001010events.txt
+:Created: 2000 Oct 13 0302 UT
+:Date: 2000 10 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6000       0000   ////      0604  CUL  C   RSP  28-160    CTM/1                 
+
+6050 +     0010   0011      0121  LEA  G   RNS  245       68                    
+
+5990       0015   ////      0356  PAL  C   RSP  025-180   CTM/1             9182
+
+6030       0200   ////      0201  LEA  C   RSP  025-180   III/2                 
+
+6040       0223   ////      0224  PAL  C   RSP  025-170   III/2                 
+
+6060       0331   0333      0347  LEA  3   FLA  N02W28    SF                9182
+
+6070       0403   0406      0428  LEA  3   FLA  N02W27    SF      ERU       9182
+
+6050       0600   0000      1200       F   RNS  204       10                    
+
+6080 +     0627   0632      0639  GO8  5   XRA  1-8A      C1.6    1.1E-03       
+6080       0636   ////      0638  CUL  C   RSP  23-80     III/1                 
+
+6190       0643   ////      0644  CUL  C   RSP  30-90     III/1                 
+
+6200       0647   ////      0657  CUL  C   RSP  23-180    III/3                 
+
+6090 +     0648   0653      0705  LEA  3   FLA  N00W26    SF      PRB       9182
+6090 +     0652   0652      0653  LEA  G   RBR  245       71                9182
+6090       0652   0653      0655       F   RBR  3000      21                9182
+
+6100 +     0711   ////      0715  CUL  C   RSP  28-140    III/1                 
+
+6250       0733   0946      1005  SVI  U   RNS  245       120                   
+
+6110       0807   0808      0808  SVI  G   RBR  245       83                    
+
+6120       0902   0908      0914  GO8  5   XRA  1-8A      C1.5    8.8E-04       
+
+6130       1005   ////      1005  SVI  C   RSP  065-169   III/1                 
+
+6160 +     1417   ////      1418  SVI  C   RSP  025-082   III/1                 
+
+6170       1509   ////      1515  HOL  C   RSP  025-180   III/2             9182
+6170 +     1511   1517      1523  GO8  5   XRA  1-8A      C1.8    9.6E-04   9182
+6170 +     1512   1514      1514  SAG  G   RBR  410       84                9182
+6170       1514   1515      1527  RAM  3   FLA  S01W30    SF                9182
+
+6180      A1854   ////      2010  RAM  3   DSF  N11W64    12      B.0A          
+
+6210       2026   ////      2026  CUL  C   RSP  23-90     III/1                 
+
+6220       2035   ////      2036  CUL  C   RSP  25-90     III/1                 
+
+6400      A2053   ////      1139  RAM  3   DSF  N27W28    07      B.0A          
+
+6230       2208   ////      2208  CUL  C   RSP  20-150    III/1                 
+
+6240       2305   ////      2306  CUL  C   RSP  23-140    III/1                 

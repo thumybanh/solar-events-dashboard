@@ -1,0 +1,80 @@
+:Product: 20000528events.txt
+:Created: 2000 May 31 0302 UT
+:Date: 2000 05 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3950       0019   0031      0043  G10  5   XRA  1-8A      C2.3    2.9E-03   9019
+
+4180       0050   ////      0050  CUL  C   RSP  30-90     III/1                 
+
+4190       0101   ////      0102  CUL  C   RSP  60-140    III/1                 
+
+3960       0305   0308      0313  LEA  G   RBR  245       59                    
+3960 +     0307   ////      0310  CUL  C   RSP  28-300    III/2                 
+
+3980 +     0537   0542      0548  GO8  5   XRA  1-8A      B9.8    5.6E-04       
+
+3990 +     0553   ////      0553  CUL  C   RSP  35-160    III/1                 
+
+4000 +     0627   ////      0628  CUL  C   RSP  23-150    III/1                 
+
+4200       0638   ////      0638  CUL  C   RSP  60-110    III/1                 
+
+4210       0642   ////      0642  CUL  C   RSP  45-110    III/1                 
+
+4010 +     0719   0725      0728  GO8  5   XRA  1-8A      C1.5    6.4E-04       
+
+4020       0759   ////      0759  SVI  C   RSP  036-06    III/1                 
+
+4030 +     0954   1018      1040  GO8  5   XRA  1-8A      C8.6    1.3E-02       
+4030       1013   1013      1014  SVI  G   RBR  245       46                    
+4030       1013   ////      1035  SVI  3   BSL  N27W90    0.53    B.9A          
+4030       1013   ////      1017  SVI  C   RSP  035-08    III/2                 
+4030      B1015   ////      1033  RAM  2   SPY  N23W90    0.49    B.9A          
+
+4040 +     1123   1124      1124  SVI  G   RBR  245       56                    
+
+4050       1336   1336      1336  SAG  G   RBR  245       57                    
+
+4060       1358   1358      1403  RAM  3   FLA  S13E37    SF                9017
+
+4080       1402   1405      1407  RAM  3   FLA  S33W61    SF                9019
+
+4070       1417   1421      1423  GO8  5   XRA  1-8A      C1.1    3.5E-04   9017
+4070       1419   1421      1426  RAM  3   FLA  S14E37    SF                9017
+
+4090 +     1522   1522      1522  SAG  G   RBR  245       71                    
+
+4100       1533   1534      1534  SAG  G   RBR  245       54                    
+
+4110       1606   1613      1627  GO8  5   XRA  1-8A      C1.8    2.1E-03   9017
+4110 +     1608   1614      1629  HOL  3   FLA  S10E30    SF                9017
+
+4120       1620   1620      1630  HOL  3   FLA  S35W61    SF                9019
+
+4130       1845   1846      1850  HOL  3   FLA  S21E70    SF                9022
+
+4420 +    A2028   ////      1323  RAM  3   DSF  S27E20    05      B.0A          
+
+4140 +     2031   ////      2031  SAG  C   RSP  030-08    III/2                 
+
+4150       2130   2142      2144  GO8  5   XRA  1-8A      B8.9    6.9E-04   9022
+4150       2134   2139      2151  HOL  3   FLA  S21E68    SF                9022
+
+4160       2152   2153      2156  HOL  3   FLA  S21E68    SF                9022
+
+4170       2157   2157      2202  HOL  3   FLA  S21E68    SF                9022
+
+4220       2247   ////      2253  CUL  C   RSP  25-160    III/1                 
+
+4230       2323   ////      2325  CUL  C   RSP  60-160    III/1                 
+
+4240       2336   ////      2336  CUL  C   RSP  30-170    III/1                 

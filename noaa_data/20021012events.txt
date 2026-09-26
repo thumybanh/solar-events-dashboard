@@ -1,0 +1,32 @@
+:Product: 20021012events.txt
+:Created: 2002 Oct 15 0300 UT
+:Date: 2002 10 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Oct 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1680       0138   0138      0138  LEA  G   RBR  410       53                    
+
+1690       0253   ////      0253  LEA  C   RSP  025-113   III/1                 
+
+1700       0317   ////      0328  LEA  C   RSP  025-113   III/1                 
+
+1710       0857   ////      0857  LEA  C   RSP  055-140   III/1                 
+
+1720       0946   0946      0946  LEA  G   RBR  245       51                    
+
+1730       1409   1409      1409  SVI  G   RBR  410       26                    
+1730 +     1409   1409      1409  SAG  G   RBR  245       250                   
+1730 +     1409   ////      1410  SAG  C   RSP  030-080   III/2                 
+
+1750       1519   1633      1845  SAG  G   RNS  245       69                    
+
+1740 +     1917   1922      1931  GO8  5   XRA  1-8A      C2.6    1.6E-03       
+
+1760 +     2258   ////      2259  HOL  C   RSP  025-160   III/1                 

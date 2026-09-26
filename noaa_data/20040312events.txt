@@ -1,0 +1,64 @@
+:Product: 20040312events.txt
+:Created: 2004 Mar 15 0302 UT
+:Date: 2004 03 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Mar 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8470       0027   0028      0028  LEA  U   RBR  245       320                   
+
+8480 +     0219   ////      0219  CUL  C   RSP  30-400    III/3                 
+
+8490 +     0232   0237      0240  G12  5   XRA  1-8A      C3.1    8.2E-04   0570
+8490 +     0233   0235      0235  LEA  G   RBR  410       360               0570
+8490 +     0235   0235      0235  LEA  G   RBR  606       190               0570
+8490 +     0235   0236      0236  LEA  G   RBR  1415      73                0570
+8490 +     0235   0235      0236  LEA  G   RBR  2695      110               0570
+8490 +     0235   0235      0236  LEA  G   RBR  4995      90                0570
+8490       0235   0237      0239  G12  5   XFL  S16W03    2.1E+03 1.1E+04   0570
+8490      B0237  U0238      0243  LEA  3   FLA  S16W04    SF                0570
+
+8500       0509   ////      0509  LEA  C   RSP  025-075   III/1                 
+
+8530       0700   ////      1200  IZM  F   RNS  204       60                    
+
+8510 +     0702   0707      0712  G12  5   XRA  1-8A      B6.8    3.3E-04   0570
+8510       0705   0709      0711  G12  5   XFL  S15W01    4.3E+02 9.4E+02   0570
+
+8530 +     1122   1355      1722  SAG  G   RNS  245       180                   
+
+8520       1238   1238      1238  SVI  U   RBR  245       73                    
+8520       1238   ////      1242  SVI  C   RSP  025-068   III/1                 
+
+8540       1354   1355      1355  SVI  U   RBR  245       120                   
+
+8550       1357   ////      1357  SVI  C   RSP  025-045   III/1                 
+
+8560 +     1546   1549      1552  G12  5   XRA  1-8A      B3.1    9.9E-05       
+8560       1550   1551      1551  G12  5   XFL  S16W11    1.0E+02 1.9E+02       
+
+8570       1816   1816      1816  PAL  G   RBR  245       290                   
+
+8580       1910   1910      1910  PAL  G   RBR  245       54                    
+
+8590       1929   ////      1937  HOL  C   RSP  025-092   III/1                 
+
+8600       2153   ////      2153  PAL  C   RSP  125-056   III/0                 
+
+8610       2235   ////      2236  HOL  C   RSP  025-086   III/1             0570
+8610 +     2237   2240      2244  G12  5   XRA  1-8A      B2.5    8.9E-05   0570
+8610       2240   2241      2242  G12  5   XFL  S14W09    2.0E+02 3.9E+02   0570
+
+8640       2300   ////      0904  LEA  C   RSP  090-180   CTM/1                 
+
+8620 +     2326   2341      2350  G12  5   XRA  1-8A      C1.8    1.6E-03   0570
+8620       2330   2345      2349  G12  5   XFL  S13W06    3.6E+03 8.1E+03   0570
+8620       2333   2335      2357  LEA  3   FLA  S14W08    SF      ERU       0570
+
+8630       2357   ////      2357  LEA  C   RSP  025-150   III/1                 

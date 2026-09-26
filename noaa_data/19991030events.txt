@@ -1,0 +1,43 @@
+:Product: 19991030events.txt
+:Created: 1999 Nov 02 0303 UT
+:Date: 1999 10 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Oct 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7840 +     0001   ////      0001  COM  C   RSP  30-80     III/2                 
+
+7850       0022   0023      0035  COM  3   FLA  S14W36    SF                8743
+
+7860       0137   0209      0218  COM  3   FLA  N09E44    SF                8747
+
+7870       0152   0201      0207  COM  3   FLA  S16W34    SF                8743
+
+7910       0552   0632      0652  SVI  G   RNS  245       130                   
+
+7880       0629   0630      0638  LEA  3   FLA  N10E41    SF                8747
+
+7900 +     0642   0642      0642  LEA  G   RBR  606       80                    
+
+7940       0800   ////      1320  SVI  C   RSP  35-52     CTM/2                 
+
+7890       0806   0811      0816  LEA  3   FLA  S11W56    SF                8739
+
+7950       1244   1244      1252  RAM  3   FLA  S18E36    SF                8749
+
+7960       1313   1338      1344  RAM  3   FLA  S18E36    SF                8749
+
+7970       1446   1449      1452  HOL  3   FLA  S12W58    SF                8739
+
+7920 +     1643   1652      1706  GO8  5   XRA  1-8A      C1.2    1.5E-03       
+7920       1643   1646      1719  HOL  3   FLA  S14W51    SF                8739
+
+7930 +     1816   1820      1825  GO8  5   XRA  1-8A      C1.7    8.4E-04       
+
+8100      A2036   ////      1106  RAM  3   DSF  S39W34    09      B.0A          

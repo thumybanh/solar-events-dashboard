@@ -1,0 +1,28 @@
+:Product: 20060610events.txt
+:Created: 2006 Jun 13 0329 UT
+:Date: 2006 06 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Jun 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7170       0009   ////      0010  LEA  C   RSP  068-180   III/1                 
+
+7180 +     0027   0027      0027  LEA  G   RBR  245       2300                  
+7180 +     0027   ////      0027  LEA  C   RSP  025-180   III/1                 
+
+7190 +     0116   0116      0116  LEA  G   RBR  245       200                   
+
+7200       0242   0242      0242  LEA  G   RBR  245       100                   
+
+7210       0326   0326      0326  PAL  G   RBR  245       160                   
+
+7220       0430   0430      0430  LEA  G   RBR  245       100                   
+
+7230 +     1634   1639      1647  G12  5   XRA  1-8A      B5.9    2.9E-04   0892
+7230       1637   1639      1643  G12  5   XFL  S08W08    7.3E+02 1.5E+03   0892

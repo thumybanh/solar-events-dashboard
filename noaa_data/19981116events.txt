@@ -1,0 +1,61 @@
+:Product: 19981116events.txt
+:Created: 1998 Nov 19 0302 UT
+:Date: 1998 11 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4090 +     0402   0411      0415  GO8  5   XRA  1-8A      B6.5    4.5E-04       
+4090       0406   0406      0409  LEA  1   FLA  S20E29    SF                8386
+
+4100       0555   0558      0600  G10  5   XRA  1-8A      B5.7    1.4E-04       
+
+4110 +     0632   0636      0639  GO8  5   XRA  1-8A      B8.8    2.6E-04       
+
+4270       0927   0928      0933  LEA  2   FLA  N19W84    SF                8385
+
+4230       0940   0941      0941  COM  G   RBR  245       110                   
+
+4240       0958   0959      0959  COM  G   RBR  245       140                   
+
+4280       1035   1035      1035  COM  G   RBR  245       80                    
+
+4120 +     1159   1206      1211  GO8  5   XRA  1-8A      C2.9    1.4E-03       
+4120       1201   1202      1207  COM  G   RBR  245       55                    
+4120      A1202   1204      1227  COM  3   FLA            SF      ERU           
+
+4130 +     1321   1328      1333  GO8  5   XRA  1-8A      C1.0    6.3E-04       
+
+4180 +     1400   1406      2035  COM  G   RNS  245       140                   
+
+4290       1400   1406      1442  COM  G   RBR  245       140                   
+
+4140 +     1512   1519      1527  GO8  5   XRA  1-8A      C1.0    8.6E-04       
+
+4150       1619   1643      1653  GO8  5   XRA  1-8A      C2.5    3.4E-03       
+4150       1639   1643      1657  COM  3   FLA            SF                    
+
+4450       1843   ////      0643  COM  3   DSF  N31E20    12                    
+
+4160       1936   1940      2035  COM  G   RBR  245       120                   
+4160 +     1939   1946      1948  GO8  5   XRA  1-8A      B8.5    4.0E-04       
+
+4170 +     2009   2015      2018  GO8  5   XRA  1-8A      C7.9    1.8E-03       
+
+4190 +     2120   2123      2126  GO8  5   XRA  1-8A      B5.5    1.7E-04       
+
+4200 +     2144   2153      2200  GO8  5   XRA  1-8A      C4.9    3.1E-03       
+4200       2150   2151      2206  COM  3   FLA            SF                8383
+4200       2158   ////      2210  COM  C   RSP  25-90     II/2                  
+
+4300       2222   2227      2228  COM  G   RBR  245       280                   
+
+4210 +     2246   2250      2254  GO8  5   XRA  1-8A      B6.7    2.8E-04       
+
+4220 +     2307   2316      2332  GO8  5   XRA  1-8A      C4.5    4.6E-03       

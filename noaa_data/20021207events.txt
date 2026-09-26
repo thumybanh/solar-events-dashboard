@@ -1,0 +1,25 @@
+:Product: 20021207events.txt
+:Created: 2002 Dec 10 0300 UT
+:Date: 2002 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6160 +     0708   0712      0717  GO8  5   XRA  1-8A      B9.1    4.0E-04       
+
+6170 +     0955   1000      1005  GO8  5   XRA  1-8A      C2.1    8.1E-04       
+
+6210       1106   1116      1129  GO8  5   XRA  1-8A      B7.4    8.9E-04       
+
+6180 +     1752   1757      1810  GO8  5   XRA  1-8A      B7.1    6.5E-04       
+
+6190 +     1846   1851      1856  GO8  5   XRA  1-8A      C1.0    5.3E-04       
+
+6200       2302   2302      2302  LEA  G   RBR  245       14                    
+6200       2302   2302      2302  LEA  G   RBR  410       56                    

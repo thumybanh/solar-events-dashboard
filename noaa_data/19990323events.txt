@@ -1,0 +1,30 @@
+:Product: 19990323events.txt
+:Created: 1999 Mar 26 0302 UT
+:Date: 1999 03 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3050      A0043   ////      1423  HOL  2   DSF  S50E48    24      B.0A          
+
+3060       1007   1017      1024  GO8  5   XRA  1-8A      B2.8    2.7E-04       
+
+3040 +     1334   ////      1336  SAG  C   RSP  030-08    III/1                 
+
+3070 +     1646   1658      1704  GO8  5   XRA  1-8A      B3.5    3.2E-04       
+
+3080 +     1735   ////      1735  PAL  C   RSP  025-07    III/1                 
+
+3120      A2028   ////      1226  RAM  3   DSF  N25W24    12      B.0A          
+
+3150      A2028   ////      1226  RAM  3   DSF  N18W04    10      B.0A          
+
+3140      A2028   ////      1230  RAM  3   DSF  S06W03    06      B.0A          
+
+3090 +     2116   2119      2123  GO8  5   XRA  1-8A      B2.2    8.4E-05       

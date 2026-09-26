@@ -1,0 +1,51 @@
+:Product: 20061117events.txt
+:Created: 2006 Nov 20 0329 UT
+:Date: 2006 11 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Nov 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 330       0059   ////      0059  LEA  C   RSP  025-180   III/2                 
+
+ 340 +     0100   ////      0100  CUL  C   RSP  23-140    III/2                 
+
+ 350 +     0313   ////      0313  CUL  C   RSP  18-120    III/3                 
+
+ 360       0507   ////      0507  LEA  C   RSP  025-114   III/2                 
+
+ 370       0512   ////      0513  LEA  C   RSP  025-180   V/2                   
+
+ 380       0520   ////      0520  LEA  C   RSP  025-134   III/2                 
+
+ 430       0700   ////      1200  IZM  F   RNS  204       15                    
+
+ 440       0730   ////      1508  SVI  C   RSP  056-180   CTM/1                 
+
+ 390       1113   1113      1114  SVI  G   RBR  606       460                   
+
+ 400       1119   1119      1120  SVI  G   RBR  606       180                   
+
+ 410       1125   ////      1125  SVI  C   RSP  025-151   III/1                 
+
+ 420 +     1153   ////      1153  SAG  C   RSP  030-081   III/1                 
+
+ 450 +     1623   1630      1636  G12  5   XRA  1-8A      B3.4    1.8E-04   0923
+ 450       1625   ////      1630  SAG  C   RSP  030-180   III/2             0923
+ 450       1627   1630      1637  HOL  3   FLA  S09W47    SF      ERU       0923
+
+ 490       2201   ////      0734  LEA  C   RSP  035-180   CTM/2                 
+
+ 460       2212   ////      2213  LEA  C   RSP  037-152   III/1                 
+
+ 470       2223   ////      2226  LEA  C   RSP  025-180   III/2                 
+
+ 480 +     2228   2236      2246  G12  5   XRA  1-8A      B2.4    2.1E-04   0923
+ 480       2229   ////      2231  LEA  C   RSP  025-180   III/2             0923
+ 480 +     2231   2233      2244  LEA  3   FLA  S07W50    SF                0923
+ 480       2232   2232      2232  G12  5   XFL  N18E26    7.5E+01 2.4E+02   0923

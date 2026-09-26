@@ -1,0 +1,47 @@
+:Product: 20030316events.txt
+:Created: 2003 Mar 19 0302 UT
+:Date: 2003 03 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Mar 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2520 +     0002   ////      0002  LEA  C   RSP  025-180   III/2                 
+
+2540       0025   ////      0033  HOL  C   RSP  025-180   III/1                 
+
+2550 +     0355   0415      0432  GO8  5   XRA  1-8A      C3.0    5.7E-03   0314
+2550       0400   0408      0439  LEA  3   FLA  S15W15    SF      ERU       0314
+
+2600 +     0430   ////      1000  LEA  C   RSP  025-180   CTM/1                 
+
+2560       0541   ////      0542  LEA  C   RSP  025-180   III/2                 
+
+2570 +     0758   0758      0758  SVI  G   RBR  245       76                    
+
+2580 +     0807   0808      0809  SVI  G   RBR  245       320                   
+2580       0808   0808      0808  SVI  G   RBR  410       49                    
+2580 +     0809   ////      0813  SVI  C   RSP  033-079   III/2                 
+
+2590       0812   ////      0813  LEA  C   RSP  025-180   III/1                 
+
+2610 +     1121   1129      1138  GO8  5   XRA  1-8A      C1.0    9.1E-04       
+
+2620 +     1251   1312      1323  GO8  5   XRA  1-8A      C1.2    1.9E-03       
+
+2630 +     1458   ////      1505  HOL  C   RSP  025-072   III/1                 
+
+2640       1558   1558      1600  SVI  U   RBR  245       56                    
+
+2650       1609   1609      1611  SVI  U   RBR  245       75                    
+
+2660       1640   1640      1640  SAG  G   RBR  245       51                    
+
+2670       1910   1910      1915  HOL  3   FLA  S11W29    SF                0314
+
+2680 +     2104   ////      2104  PAL  C   RSP  025-136   III/1                 

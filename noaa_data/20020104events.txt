@@ -1,0 +1,55 @@
+:Product: 20020104events.txt
+:Created: 2002 Jan 07 0300 UT
+:Date: 2002 01 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6740       0005   0006      0006  LEA  U   RBR  245       120                   
+
+6750       0154   0154      0154  LEA  U   RBR  245       53                    
+
+6760 +     0327   0327      0327  PAL  G   RBR  245       360                   
+
+6770       0508   ////      0508  LEA  C   RSP  025-180   III/1                 
+
+6780       0705   0707      0710  LEA  3   FLA  S04W62    SF                9754
+
+6790 +     0817   0823      0830  GO8  5   XRA  1-8A      C3.6    2.4E-03       
+6790       0818   0822      0841  LEA  3   FLA  S11W05    SF      ERU           
+
+6800       0924   0952      1035  GO8  5   XRA  1-8A      C3.7    1.4E-02       
+6800      B0931   ////      1000  LEA  2   EPL  N38E87    0.15    B.9A          
+6800 +     0934   ////      0943  LEA  C   RSP  025-115   II/1    537           
+
+6810       1237   1239      1247  RAM  3   FLA  S05W53    SF                9768
+
+6820       1250   1251      1321  SAG  G   RNS  245       72                    
+
+6830       1655   1655      1655  SAG  G   RBR  245       120                   
+
+6840       1740   1740      1745  RAM  3   FLA  N16E71    SF      ERU           
+6840 +     1743   1749      1754  GO8  5   XRA  1-8A      M1.0    5.1E-03       
+
+6850 +     1825   1829      1834  GO8  5   XRA  1-8A      C5.6    2.4E-03   9773
+6850 +     1827   1829      1842  HOL  3   FLA  N13E58    1F      ERU       9773
+
+6870 +     1856   1857      1907  HOL  3   FLA  N14E64    SF                9773
+
+6860 +     1900   1902      1908  HOL  3   FLA  S24E14    SF      ERU       9767
+
+6880       1951   2023      2104  GO8  5   XRA  1-8A      C8.7    2.7E-02   9773
+6880       2013  U2039      2100  HOL  3   FLA  N14E67    1F      ERU       9773
+
+6890       2039   2039      2043  RAM  3   FLA  S22E04    SF                9767
+
+6920       2140   ////      2311  HOL  C   RSP  054-078   CTM/1                 
+
+6910 +     2253   2256      2258  GO8  5   XRA  1-8A      C7.2    1.8E-03   9767
+6910       2255   2256      2300  LEA  2   FLA  S20E03    SF      ERU       9767

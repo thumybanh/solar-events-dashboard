@@ -1,0 +1,20 @@
+:Product: 20030208events.txt
+:Created: 2003 Feb 11 0302 UT
+:Date: 2003 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6910 +     0532   0536      0540  GO8  5   XRA  1-8A      B5.5    2.4E-04       
+
+6940       1239   1315      1339  GO8  5   XRA  1-8A      C1.4    3.6E-03       
+
+6930 +     1321   ////      1322  SVI  U   RSP  025-084   III/2                 
+
+6950       1944   1945      1945  PAL  G   RBR  410       100                   

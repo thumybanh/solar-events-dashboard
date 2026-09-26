@@ -1,0 +1,32 @@
+:Product: 20000212events.txt
+:Created: 2000 Feb 15 0302 UT
+:Date: 2000 02 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2530       0030   ////      0031  LEA  C   RSP  030-08    III/2                 
+
+2540 +     0158   ////      0203  LEA  C   RSP  030-08    III/2                 
+
+2550 +     0351   0410      0431  GO8  5   XRA  1-8A      M1.7    2.9E-02   8858
+2550       0402   0426      0438  LEA  G   RBR  245       340               8858
+2550       0402   0426      0438  LEA  G   RBR  410       1400              8858
+2550       0402   0414      0438  LEA  G   RBR  606       740               8858
+2550       0402   0406      0431  LEA  G   RBR  1415      12000             8858
+2550       0402   0406      0412  LEA  G   RBR  2695      200               8858
+2550       0402   0405      0411  LEA  G   RBR  4995      220               8858
+2550       0402   0406      0412  LEA  G   RBR  8800      150               8858
+2550       0403   0406      0411  LEA  G   RBR  15400     80                8858
+2550       0406   ////      0407  LEA  C   RSP  030-08    III/3             8858
+2550       0406   ////      0417  LEA  C   RSP  030-08    II/1    700       8858
+2550 +     0410   0415      0505  LEA  3   FLA  N26W23    1N                8858
+2550       0412   ////      0536  LEA  C   RSP  030-08    IV/3              8858
+
+2560       0650   0702      0728  GO8  5   XRA  1-8A      C1.9    3.8E-03       

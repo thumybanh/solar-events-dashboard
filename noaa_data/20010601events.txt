@@ -1,0 +1,58 @@
+:Product: 20010601events.txt
+:Created: 2001 Jun 04 0302 UT
+:Date: 2001 06 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jun 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+520        0007   ////      0007  LEA  C   RSP  065-159   III/1                 
+
+530  +     0312   0321      0328  GO8  5   XRA  1-8A      B9.0    7.7E-04       
+
+540        0338   ////      0344  LEA  C   RSP  025-104   III/1                 
+
+550  +     0559   0600      0603  LEA  3   FLA  N18W90    SF                9481
+
+560        0704   ////      0711  SVI  C   RSP  025-058   III/1                 
+
+570        0744   ////      0745  SVI  C   RSP  025-059   III/1                 
+
+580        0830   ////      0830  SVI  C   RSP  025-065   III/1                 
+
+590        1144   ////      1146  SVI  C   RSP  025-151   III/1                 
+
+600  +     1157   1202      1206  GO8  5   XRA  1-8A      C1.6    6.2E-04       
+600        1204   ////      1204  SVI  C   RSP  025-052   III/1                 
+600  +     1205   1206      1207  SVI  G   RBR  245       62                    
+600  +     1206   1206      1207  SVI  G   RBR  410       16                    
+
+610  +     1234   ////      1235  HOL  C   RSP  025-180   III/2                 
+610  +     1234   1234      1235  SVI  G   RBR  245       370                   
+
+620  +     1256   ////      1257  HOL  C   RSP  025-119   III/1                 
+
+640  +     1458   1502      1506  GO8  5   XRA  1-8A      B9.4    3.8E-04   9475
+640        1459   1500      1502  SAG  G   RBR  245       36                9475
+640  +     1500   1500      1500  SAG  G   RBR  410       53                9475
+640        1500   1502      1507  HOL  3   FLA  N18E04    SF                9475
+
+630  +     1506   1509      1512  GO8  5   XRA  1-8A      C1.4    4.4E-04   9483
+630        1508   1508      1514  HOL  3   FLA  S24W57    SF                9483
+
+660        1527   ////      1749  SVI  C   RSP  025-083   CTM/1                 
+
+650  +     1622   1623      1624  SAG  G   RBR  245       92                9483
+650  +     1623   1623      1624  SAG  G   RBR  410       44                9483
+650        1623   1628      1634  GO8  5   XRA  1-8A      C1.1    6.7E-04   9483
+650        1624   1626      1630  HOL  3   FLA  S24W58    SF                9483
+
+670        1813   1813      1819  HOL  3   FLA  S24W59    SF                9483
+
+680  +     2116   2121      2137  GO8  5   XRA  1-8A      C1.6    1.8E-03       
+680        2123   ////      2123  PAL  C   RSP  025-087   III/1                 

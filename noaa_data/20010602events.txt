@@ -1,0 +1,58 @@
+:Product: 20010602events.txt
+:Created: 2001 Jun 05 0302 UT
+:Date: 2001 06 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jun 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+690        0006   0019      0032  GO8  5   XRA  1-8A      C1.3    1.9E-03   9484
+690        0011   0016      0029  HOL  3   FLA  S08E35    SF                9484
+
+700        0044   0049      0051  HOL  3   FLA  S08E34    SF                9484
+
+710        0107   ////      0107  LEA  C   RSP  066-112   III/1                 
+
+720        0156   ////      0157  LEA  C   RSP  025-145   III/1                 
+
+730        0414   ////      0414  SVI  U   RSP  025-081   III/1                 
+
+740  +     0429   0433      0436  GO8  5   XRA  1-8A      C1.2    4.0E-04       
+
+750  +     0528   0532      0549  GO8  5   XRA  1-8A      B7.9    9.2E-04       
+
+760  +     0720   0725      0729  GO8  5   XRA  1-8A      C1.5    6.9E-04       
+760  +     0723   0723      0724  LEA  G   RBR  245       280                   
+
+770  +     0815   0825      0844  GO8  5   XRA  1-8A      C1.3    2.1E-03       
+
+780  +     1037   1040      1043  GO8  5   XRA  1-8A      C1.0    3.1E-04   9484
+780       B1040  U1041      1048  SVI  2   FLA  S08E30    SF      ERU       9484
+
+790        1247   ////      1248  SAG  C   RSP  030-060   III/1                 
+
+800  +     1322   1327      1331  GO8  5   XRA  1-8A      B9.4    4.0E-04       
+
+810  +     1337   1341      1348  HOL  3   FLA  S07E28    SF      ERU       9484
+
+820        1350   1351      1354  RAM  3   FLA  S08E27    SF      ERU       9484
+
+830        1437   ////      1440  HOL  C   RSP  025-062   III/1                 
+
+840        1515   ////      1518  HOL  C   RSP  025-142   III/1                 
+
+850        1658   ////      1707  SVI  U   RSP  025-082   III/1                 
+
+860        1912   ////      1920  PAL  C   RSP  025-050   III/1                 
+
+870  +     2006   2009      2013  GO8  5   XRA  1-8A      B5.6    2.1E-04       
+870  +     2007   ////      2010  HOL  C   RSP  025-086   III/1                 
+
+880        2255   ////      2256  HOL  C   RSP  025-085   III/1                 
+
+890        2321   ////      2322  HOL  C   RSP  025-082   III/1                 

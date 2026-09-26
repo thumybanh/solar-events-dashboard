@@ -1,0 +1,28 @@
+:Product: 20010222events.txt
+:Created: 2001 Feb 25 0302 UT
+:Date: 2001 02 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Feb 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8940       0000   0004      0009  LEA  5   FLA  S08W34    SF                9354
+
+8900       0036   0036      0043  LEA  5   FLA  S09W34    SF      ERU       9354
+8900 +     0038   ////      0040  LEA  C   RSP  025-168   III/1             9354
+
+8910 +     0156   0159      0202  GO8  5   XRA  1-8A      C1.1    3.2E-04   9353
+8910       0157   0158      0212  LEA  5   FLA  S22W53    SF      ERU       9353
+
+8920 +     0416   ////      0417  LEA  C   RSP  025-180   III/1                 
+
+8930 +     0607   ////      0611  LEA  C   RSP  025-107   III/1                 
+
+8950      B0650  U0650      0656  LEA  3   FLA  S09W36    SF      ERU       9354
+
+8960       1319   1323      1326  RAM  3   FLA  S07W41    SF                9354

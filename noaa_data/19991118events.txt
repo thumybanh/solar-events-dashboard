@@ -1,0 +1,69 @@
+:Product: 19991118events.txt
+:Created: 1999 Nov 21 0303 UT
+:Date: 1999 11 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Nov 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4040       0002   0019      0040  LEA  3   FLA  S13W07    SF                8765
+
+4050 +     0142   0149      0154  GO8  5   XRA  1-8A      M1.4    6.7E-03   8771
+4050       0144   0146      0159  LEA  3   FLA  S17E55    1F                8771
+4050 +     0145   0146      0147  LEA  G   RBR  1415      62                8771
+4050 +     0145   0146      0146  LEA  G   RBR  2695      41                8771
+
+4060       0326   0335      0348  LEA  3   FLA  S16E54    SF                8771
+
+4070       0337   0343      0354  LEA  3   FLA  S11W41    SF                8770
+
+4080       0434   0440      0448  LEA  3   FLA  S12W42    SF                8770
+
+4090       0451   0451      0509  LEA  3   FLA  S11W11    SF                8765
+
+4100       0512   0518      0531  LEA  3   FLA  S12W42    SF                8770
+
+4190 +     0600  U1355      2154  COM  G   RNS  245       170                   
+
+4120       0754   0754      0755  LEA  G   RBR  245       170               8759
+4120 +     0755   0807      0823  GO8  5   XRA  1-8A      C7.5    9.4E-03   8759
+4120 +     0759   0814      0827  SVI  3   FLA  N13W60    SF      ERU       8759
+
+4130       0807   0810      0816  LEA  3   FLA  S13E58    SF                8771
+
+4140       0846   0847      0855  LEA  3   FLA  S11W12    SF                8765
+
+4160       1245   ////      1249  SAG  C   RSP  030-05    V/1                   
+
+4250       1307   ////      2054  SAG  C   RSP  030-08    CTM/1                 
+
+4170      B1351  U1351     A1352  RAM  1   FLA  N19E11    SF                8766
+
+4180 +     1415   1415      1416  SAG  G   RBR  8800      53                    
+4180 +     1415   1415      1416  SAG  G   RBR  15400     49                    
+
+4210       1702   ////      0000  PAL  U   RSP  038-05    CTM/1                 
+
+4200 +     1710   1714      1717  GO8  5   XRA  1-8A      C2.7    9.6E-04   8765
+4200       1712   1712      1719  HOL  3   FLA  S11W14    SF      ERU       8765
+
+4220       1803   ////      1804  SAG  C   RSP  030-08    III/2                 
+
+4230 +     1846   1852      1857  GO8  5   XRA  1-8A      C3.5    1.7E-03   8770
+4230       1849   1852      1904  HOL  3   FLA  S14W51    SF                8770
+
+4240       1857   1903      1906  GO8  5   XRA  1-8A      C8.3    2.8E-03   8765
+4240       1859   1901      1921  HOL  3   FLA  S11W14    1F                8765
+4240 +     1900   1901      1903  SAG  G   RBR  4995      110               8765
+4240 +     1900   1901      1902  SAG  G   RBR  8800      81                8765
+4240       1901   1901      1901  PAL  G   RBR  15400     27                8765
+4240 +     1901   1901      1902  SAG  G   RBR  2695      72                8765
+
+4260       2202   ////      2202  PAL  C   RSP  029-13    III/1                 
+
+4270 +     2205   2210      2229  GO8  5   XRA  1-8A      C5.1    5.9E-03       

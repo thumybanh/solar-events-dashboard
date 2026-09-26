@@ -1,0 +1,78 @@
+:Product: 20001214events.txt
+:Created: 2000 Dec 17 0302 UT
+:Date: 2000 12 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7710 +     0221   ////      0222  CUL  C   RSP  30-150    III/1                 
+
+7720       0315   ////      0316  LEA  C   RSP  025-080   III/1                 
+
+7730 +     0400   ////      0400  CUL  C   RSP  60-250    III/1                 
+
+7740       0457   0503      0510  GO8  5   XRA  1-8A      B7.7    5.4E-04   9255
+7740      B0502  U0503     A0516  LEA  3   FLA  N19W67    SF                9255
+
+7750       0652   0655      0707  G10  5   XRA  1-8A      B9.9    8.1E-04       
+
+7860 +     0910   0916      0921  GO8  5   XRA  1-8A      C2.7    1.3E-03       
+
+7760       0915   0917      0930  LEA  3   FLA  N04E03    SF                9267
+
+7770       0930   0933      0934  SVI  G   RBR  4995      34                9267
+7770       0930   0933      0934  SVI  G   RBR  2695      82                9267
+7770 +     0930   0930      0941  LEA  G   RBR  1415      150               9267
+
+7850       0930   0958      1012  LEA  2   FLA  S24E22    SF                9264
+
+7770       0934   0935      0944  LEA  3   FLA  N04E02    SF                9267
+
+7850       0936   0958      1100  GO8  5   XRA  1-8A      C3.4    1.5E-02   9264
+
+7770 +     0938   0938      0944  SVI  G   RBR  410       81                9267
+7770       0943   0948      1025       F   RBR  204       80                9267
+
+7850 +     0945   0950      0951  SVI  G   RBR  2695      34                9264
+7850 +     0945   0950      0950  LEA  G   RBR  1415      210               9264
+7850       0948   ////      0948  SVI  U   RSP  048-159   III/1             9264
+7850 +     0954   0957      1000  LEA  G   RBR  410       120               9264
+7850 +     0956   0957      1000  LEA  G   RBR  606       53                9264
+7850       1004   1011      1012  SVI  G   RBR  4995      62                9264
+7850      U1007   1009      1009  LEA  G   RBR  245       29                9264
+
+7890      A1010   ////      2305  LEA  3   DSF  N23E58    13      B.0A      9269
+
+7780 +     1101   1108      1117  GO8  5   XRA  1-8A      C5.7    4.7E-03       
+
+7790 +     1244   1247      1300  GO8  5   XRA  1-8A      C1.8    1.6E-03   9267
+7790       1246   1247      1257  RAM  3   FLA  N07E00    SF      ERU       9267
+
+7800       1302   1302      1302  SVI  G   RBR  245       72                    
+
+7810 +     1316   1319      1321  GO8  5   XRA  1-8A      C2.4    5.0E-04   9262
+7810       1319   1319      1322  RAM  3   FLA  N13W06    SF      DSD       9262
+
+7820 +     1518   1526      1530  GO8  5   XRA  1-8A      C6.4    2.8E-03   9267
+7820       1520   1523      1532  HOL  3   FLA  N08E02    SF      ERU       9267
+
+7830 +     1824   1828      1832  GO8  5   XRA  1-8A      C1.4    5.2E-04       
+
+7840 +     2045   2051      2056  GO8  5   XRA  1-8A      C4.5    2.0E-03       
+
+7900       2116   ////      2120  CUL  C   RSP  20-130    III/1                 
+
+7910       2207   ////      2209  CUL  C   RSP  30-90     III/1                 
+
+7870 +     2320   ////      2322  LEA  C   RSP  025-099   III/1                 
+
+7880 +     2332   2332      2333  PAL  G   RBR  245       150                   
+7880 +     2332   ////      2333  CUL  C   RSP  20-260    III/3                 
+
+7920 +     2347   2350      2356  GO8  5   XRA  1-8A      C1.1    5.7E-04       

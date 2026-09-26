@@ -1,0 +1,68 @@
+:Product: 19991202events.txt
+:Created: 1999 Dec 05 0302 UT
+:Date: 1999 12 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Dec 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9180       0016   ////      0141  LEA  C   RSP  030-08    CTM/1                 
+
+9150       0113   0114      0122  LEA  3   FLA  N10W55    SF                8782
+
+9160       0143   0145      0149  LEA  3   FLA  N10W55    SF                8782
+
+9190       0150   0238      0246  LEA  3   FLA  N10W56    SF                8782
+9190 +     0200   0200      0201  LEA  G   RBR  245       110               8782
+
+9200       0249   0250      0251  LEA  G   RBR  245       52                8782
+9200       0250   0255      0258  LEA  3   FLA  N10W56    SF                8782
+
+9210       0326   0326      0331  LEA  3   FLA  N10W56    SF                8782
+
+9220       0336   0338      0341  LEA  3   FLA  N10W57    SF                8782
+
+9230       0444   0444      0445  LEA  G   RBR  410       170                   
+
+9240       0658   0709      0713  LEA  3   FLA  N10W59    SF                8782
+9240       0658   ////      0659  CUL  C   RSP  20-140    III/1             8782
+
+9400       0722   ////      0722  CUL  C   RSP  45-150    III/1                 
+
+9250       0900   0904      0911  LEA  3   FLA  N10W60    SF      DSD       8782
+
+9260       0939   0939      0939  SVI  G   RBR  245       120                   
+
+9330       0945   1012      1041  GO8  5   XRA  1-8A      C5.3    1.3E-02       
+
+9390      A0952   ////      2219  LEA  3   DSF  S32W39    11      B.0A          
+
+9270       1052   1054      1102  SVI  3   FLA  S10W25    SF                8781
+
+9340       1157   ////      1157  SVI  C   RSP  037-07    III/2                 
+
+9300       1159   1159      1200  SVI  G   RBR  410       83                    
+
+9290 +     1200   1205      1212  GO8  5   XRA  1-8A      C2.3    1.5E-03       
+
+9310       1347   1347      1347  SVI  G   RBR  245       70                    
+9310       1347   ////      1347  SAG  C   RSP  030-08    III/1                 
+
+9320       1402   1403      1403  SVI  G   RBR  245       75                    
+
+9350       1919   1920      1920  SAG  G   RBR  245       59                    
+
+9360 +     2000   2000      2001  PAL  G   RBR  606       200                   
+9360 +     2000   2001      2002  PAL  G   RBR  2695      83                    
+9360       2001   2001      2002  PAL  G   RBR  1415      55                    
+9360       2001   2001      2001  PAL  G   RBR  4995      75                    
+9360       2001   2001      2001  PAL  G   RBR  15400     39                    
+
+9370       2002   2002      2003  PAL  G   RBR  245       380                   
+
+9380       2304   2304      2309  HOL  3   FLA  N12E76    SF                    

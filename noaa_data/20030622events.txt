@@ -1,0 +1,74 @@
+:Product: 20030622events.txt
+:Created: 2003 Jun 25 0302 UT
+:Date: 2003 06 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jun 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3550       0014   0014      0014  LEA  G   RBR  245       60                    
+
+3560       0016   0016      0016  LEA  G   RBR  410       190                   
+
+3570       0115   0115      0115  LEA  U   RBR  410       330                   
+
+3580       0124   0124      0124  LEA  U   RBR  410       100                   
+
+3590       0129   0129      0129  LEA  U   RBR  245       56                    
+3590       0129   0129      0129  LEA  U   RBR  410       150                   
+
+3600 +     0205   0211      0219  G12  5   XRA  1-8A      B4.6    3.2E-04       
+3600 +     0209   ////      0210  CUL  C   RSP  18-180    III/2                 
+
+3750       0227   ////      0228  CUL  C   RSP  20-180    III/1                 
+
+3610 +     0251   0257      0301  G12  5   XRA  1-8A      B4.7    2.3E-04       
+3610       0255   0255      0256  LEA  G   RBR  410       97                    
+
+3620       0336   0336      0337  SVI  G   RBR  1415      21                    
+3620       0336   0339      0340  SVI  G   RBR  2695      98                    
+
+3630       0412   0412      0414  LEA  U   RBR  245       910                   
+3630       0412   ////      0414  CUL  C   RSP  100-300   III/1                 
+
+3770       0535   0535      0535  SVI  G   RBR  410       73                    
+
+3640 +     0536   0540      0544  G12  5   XRA  1-8A      B6.3    2.0E-04       
+3640 +     0537   0539      0539  SVI  G   RBR  245       130                   
+3640 +     0541   0544      0544  SVI  G   RBR  410       100                   
+3640       0541   0541      0542  SVI  G   RBR  606       40                    
+
+3650       0649   0649      0649  SVI  G   RBR  245       49                    
+
+3720       0811   ////      1759  SVI  C   RSP  025-075   CTM/1                 
+
+3660 +     0900   0905      0908  G12  5   XRA  1-8A      B3.2    1.4E-04       
+3660 +     0901   0901      0902  SVI  G   RBR  410       100                   
+
+3670       0937   0937      0938  SVI  G   RBR  245       89                    
+3670       0937   0937      0939  SVI  G   RBR  410       370                   
+
+3680 +     0945   0949      0951  G12  5   XRA  1-8A      C1.0    2.0E-04   0388
+3680       0947   0948      0949  SVI  G   RBR  245       120               0388
+3680       0948   0950      0954  SVI  3   FLA  N04W28    SF                0388
+3680       0948   0948      0950  SVI  G   RBR  410       40                0388
+
+3690 +     1003   1014      1024  G12  5   XRA  1-8A      B6.8    5.7E-04       
+3690       1017   1017      1017  SVI  G   RBR  245       150                   
+3690 +     1017   1017      1017  SVI  G   RBR  410       49                    
+
+3700 +     1359   1359      1359  SAG  G   RBR  245       53                    
+
+3710       1707   1707      1708  SVI  G   RBR  245       97                    
+3710 +     1708   ////      1708  SAG  C   RSP  030-050   III/2                 
+
+3730 +     2142   2148      2151  G12  5   XRA  1-8A      C1.2    4.0E-04   0388
+3730       2146   ////      2147  CUL  C   RSP  50-200    III/1             0388
+3730       2147   2147      2154  HOL  3   FLA  N00W34    SF                0388
+
+3740       2337   ////      2337  HOL  C   RSP  025-047   III/1                 

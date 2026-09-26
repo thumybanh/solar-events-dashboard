@@ -1,0 +1,37 @@
+:Product: 20051008events.txt
+:Created: 2005 Oct 11 0329 UT
+:Date: 2005 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1430       0008   ////      0410  LEA  C   RSP  075-180   CTM/1                 
+1430 +     0052   ////      0053  LEA  C   RSP  025-180   III/2                 
+
+1440       0236   ////      0238  LEA  C   RSP  025-169   III/1                 
+
+1450 +     0334   ////      0343  LEA  C   RSP  025-180   III/1                 
+
+1460 +     0535   0540      0544  G12  5   XRA  1-8A      B1.2    5.5E-05       
+
+1470       0548   ////      0548  LEA  C   RSP  025-057   III/1                 
+
+1480 +     0727   ////      0728  LEA  C   RSP  025-180   III/1                 
+
+1490 +     0807   0810      0817  G12  5   XRA  1-8A      B1.1    5.6E-05       
+
+1500 +     0854   ////      0855  LEA  C   RSP  025-124   III/1                 
+
+1510       0905   0909      0911  G12  5   XRA  1-8A      B1.0    2.9E-05       
+
+1520       1028   ////      1029  SVI  C   RSP  025-125   III/2                 
+
+1530       1104   ////      1104  SVI  C   RSP  025-045   III/1                 
+
+1540 +     1245   ////      1245  SVI  C   RSP  025-086   III/1                 

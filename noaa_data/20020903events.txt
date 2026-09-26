@@ -1,0 +1,101 @@
+:Product: 20020903events.txt
+:Created: 2002 Sep 06 0300 UT
+:Date: 2002 09 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Sep 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 560       0000   ////      0000  CUL  C   RSP  57-180    CTM/1                 
+
+ 520       0001   0001      0002  LEA  G   RBR  245       140                   
+ 520 +     0002   ////      0002  CUL  C   RSP  57-190    III/2                 
+
+ 540 +     0021   0054      0101  GO8  5   XRA  1-8A      M1.0    1.2E-02       
+
+ 570       0105   ////      0108  CUL  C   RSP  57-180    III/2                 
+
+ 550       0153   0153      0153  LEA  G   RBR  245       86                    
+ 550       0154   ////      0154  CUL  C   RSP  60-260    III/1                 
+
+ 830       0203   0228      0246  GO8  5   XRA  1-8A      C2.3    5.0E-03       
+
+ 840       0251   0259      0308  GO8  5   XRA  1-8A      C2.6    2.4E-03       
+
+ 760       0437   ////      1700  SVI  C   RSP  025-180   CTM/1                 
+
+ 850       0605   ////      0605  CUL  C   RSP  57-170    III/2                 
+
+ 600 +     0618   ////      0618  CUL  C   RSP  57-240    III/3                 
+
+ 610 +     0704   ////      0704  CUL  C   RSP  57-150    III/2                 
+
+ 620       0741   0741      0741  LEA  G   RBR  245       55                    
+ 620 +     0741   0745      0748  GO8  5   XRA  1-8A      C2.6    8.4E-04       
+
+ 640 +     1002   1005      1008  GO8  5   XRA  1-8A      C1.5    4.9E-04       
+ 640       1003   ////      1005  SVI  C   RSP  025-180   III/2                 
+ 640 +     1004   1004      1010  SVI  G   RBR  245       320                   
+
+ 650       1041   1041      1041  SVI  G   RBR  245       93                    
+
+ 660      U1059  U1100      1102  SVI  U   RBR  606       62                    
+ 660       1101   1102      1102  SVI  G   RBR  245       320                   
+ 660       1101   1102      1102  SVI  G   RBR  410       190                   
+
+ 670       1115   1128      1138  GO8  5   XRA  1-8A      C1.4    1.8E-03   0097
+ 670       1123   1125      1143  RAM  3   FLA  N13E03    SF      ERU       0097
+ 670       1143   1143      1143  SAG  G   RBR  245       58                0097
+
+ 680       1150   1150      1154  RAM  3   FLA  N13W01    SF      ERU       0097
+
+ 690 +     1244   1247      1250  GO8  5   XRA  1-8A      C1.5    4.9E-04       
+
+ 700 +     1254   1256      1256  SVI  G   RBR  245       320                   
+ 700       1255   1255      1256  SVI  G   RBR  410       25                    
+ 700       1256   ////      1301  SVI  C   RSP  025-180   III/2                 
+
+ 710 +     1301   ////      1301  SVI  C   RSP  025-180   III/2                 
+
+ 720 +     1338   1338      1338  SVI  G   RBR  245       82                    
+
+ 890       1414   ////      0106  HOL  C   RSP  025-180   CTM/1                 
+
+ 730       1425   1425      1425  SVI  G   RBR  410       60                    
+
+ 740       1502   1503      1507  HOL  3   FLA  N14E76    SF                0000
+
+ 750       1517   1518      1518  SVI  G   RBR  245       50                    
+ 750       1517   1518      1518  SVI  G   RBR  410       47                    
+
+ 770       1621   ////      1621  SAG  C   RSP  030-050   III/1                 
+
+ 780       1626   1626      1626  SAG  G   RBR  245       54                    
+
+ 860       1756   1807      1820  GO8  5   XRA  1-8A      C1.3    1.7E-03       
+
+ 790 +     1843   1845      1846  SAG  G   RBR  245       210                   
+ 790       1844   1844      1844  SAG  G   RBR  1415      44                    
+ 790       1844   ////      1847  PAL  C   RSP  025-180   III/1                 
+ 790       1844   ////      1847  SAG  C   RSP  030-080   V/2                   
+
+ 800 +     2008   2009      2009  PAL  G   RBR  245       120                   
+ 800       2008   ////      2010  SAG  C   RSP  030-080   V/2                   
+
+ 870       2050   ////      2052  CUL  C   RSP  57-160    III/3                 
+
+ 810       2149   ////      2152  SAG  C   RSP  030-080   V/2                   
+ 810       2149   ////      2153  HOL  C   RSP  025-180   III/2                 
+
+ 820       2206   2206      2211  RAM  3   FLA  N06E03    SF                0095
+
+ 880       2227   ////      2227  CUL  C   RSP  57-90     III/2                 
+
+ 980       2249   ////      0958  LEA  C   RSP  025-180   CTM/2                 
+
+1160      A2336   ////     B1511  HOL  3   DSF  ////      16      B.0A      0000

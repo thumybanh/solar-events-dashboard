@@ -1,0 +1,27 @@
+:Product: 20030207events.txt
+:Created: 2003 Feb 09 0302 UT
+:Date: 2003 02 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6850 +     0105   0110      0123  GO8  5   XRA  1-8A      B9.8    9.1E-04   0277
+6850 +     0107   ////      0107  LEA  C   RSP  025-124   III/1             0277
+6850       0107   0110      0126  LEA  3   FLA  S17E42    SF      ERU       0277
+
+6860 +     0202   0205      0214  GO8  5   XRA  1-8A      B7.1    4.7E-04       
+
+6870 +     0334   0341      0347  GO8  5   XRA  1-8A      B9.8    6.2E-04       
+
+6890 +     1508   ////      1509  HOL  C   RSP  025-059   III/1                 
+
+6900       1533   1628      1704  GO8  5   XRA  1-8A      C1.0    4.7E-03   0274
+6900       1605   1625      1709  RAM  3   FLA  S03W61    SF      ERU       0274
+
+6920      A2353   ////     B1950  HOL  3   DSF  ////      50      B.0A      0000

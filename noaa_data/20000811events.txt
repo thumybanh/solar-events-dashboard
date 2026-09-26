@@ -1,0 +1,74 @@
+:Product: 20000811events.txt
+:Created: 2000 Aug 14 0302 UT
+:Date: 2000 08 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1160 +     0138   0138      0717  LEA  G   RNS  410       140                   
+
+1040 +     0432   0510      0546  GO8  5   XRA  1-8A      C2.6    9.5E-03       
+1040 +     0502   0507      0513  LEA  4   FLA  N05W32    SF      ERU           
+
+1050 +     0626   0626      0627  LEA  G   RBR  245       100                   
+
+1170       0635   0640      0644       F   RBR  204       200                   
+
+1060       0641   0641      0641  SVI  G   RBR  410       78                    
+
+1070       0648   0653      0702  LEA  4   FLA  S12E64    SF      ERU       9124
+
+1080 +     0713   0717      0722  GO8  5   XRA  1-8A      C3.2    1.6E-03   9125
+1080 +     0714   0716      0731  LEA  4   FLA  N26E66    SF      ERU       9125
+
+1090 +     0730   ////      0747  LEA  4   EPL  N27W90    0.13    B.0A          
+
+1100 +     0748   ////      0755  SVI  C   RSP  025-047   III/1                 
+
+1110       0917   0917      0917  LEA  G   RBR  410       62                    
+
+1120       0920   0921      0921  LEA  G   RBR  410       77                    
+
+1130 +     0924   0930      0936  GO8  5   XRA  1-8A      C2.2    1.4E-03       
+
+1140       0939   0939      0939  LEA  G   RBR  410       82                    
+
+1150 +     1049   1103      1113  GO8  5   XRA  1-8A      C3.0    3.5E-03       
+1150       1054   1056      1057  SAG  G   RBR  410       60                    
+
+1180       1238   1243      1253  RAM  3   FLA  S09E54    SF                9124
+
+1190 +     1338   1341      1347  GO8  5   XRA  1-8A      C1.9    8.9E-04   9114
+1190 +     1340   1341      1352  RAM  3   FLA  N04W37    SF                9114
+
+1200 +     1354   ////      1355  SVI  C   RSP  027-083   III/1                 
+
+1210 +     1404   1405      1405  SAG  G   RBR  245       100                   
+
+1220 +     1419   1420      1425  RAM  3   FLA  N08W38    SF                9114
+
+1230 +     1451   1459      1510  GO8  5   XRA  1-8A      C1.5    1.6E-03   9124
+1230 +     1454   1459      1505  HOL  3   FLA  S08E53    SF                9124
+
+1240 +     1534   1604      1618  RAM  3   FLA  N12W36    SF                9114
+
+1250 +     1610   1610      1614  COM  3   FLA  N05W37    SF                9126
+
+1260 +     1712   1714      1722  COM  3   FLA  N05W38    SF                9126
+
+1280 +     1716   1718      1725  HOL  3   FLA  N14E77    SF                9127
+
+1290 +     1717   1717      1720  RAM  3   FLA  N27E57    SF                9125
+
+1270 +     1727   1728      1737  COM  3   FLA  N05W39    SF                9126
+
+1300 +     1759   1759      1803  HOL  3   FLA  N23E57    SF                9125
+1300       1800   1800      1801  SAG  G   RBR  410       62                9125
+
+1310 +     1820   1820      1821  SAG  G   RBR  245       86                    

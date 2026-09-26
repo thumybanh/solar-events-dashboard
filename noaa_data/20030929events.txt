@@ -1,0 +1,50 @@
+:Product: 20030929events.txt
+:Created: 2003 Oct 02 0302 UT
+:Date: 2003 09 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Sep 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9400       0343   0359      0442  G12  5   XRA  1-8A      C1.8    3.2E-03       
+9400       0352   ////      0356  LEA  C   RSP  025-087   III/1                 
+
+9410       0449   ////      0450  LEA  C   RSP  025-149   III/1                 
+
+9420       0500   0511      0523  G10  5   XRA  1-8A      C3.9    4.1E-03       
+
+9540       0726   ////      0726  CUL  C   RSP  25-90     III/1                 
+
+9450       0827   ////      0830  LEA  C   RSP  025-180   III/1                 
+9450       0830   0830      0830  LEA  G   RBR  245       660                   
+
+9460 +     1320   1339      1402  G12  5   XRA  1-8A      C3.3    6.3E-03       
+
+9470       1518   ////      1525  SAG  C   RSP  030-045   III/1                 
+
+9480 +     1605   1610      1616  G12  5   XRA  1-8A      C5.1    2.2E-03   0464
+9480       1609   1609      1610  SAG  G   RBR  8800      96                    
+
+9490       1731   1737      1742  HOL  3   FLA  N03W37    SF      ERU       0464
+
+9500 +     1941   2004      2018  G12  5   XRA  1-8A      C3.8    6.5E-03   0464
+9500       2007   2015      2021  HOL  3   FLA  N04W45    SF      ERU       0464
+
+9550       2105   ////      2117  CUL  C   RSP  20-170    III/2                 
+
+9510 +     2107   2111      2118  G12  5   XRA  1-8A      C1.7    9.8E-04       
+
+9520 +     2141   2146      2156  G12  5   XRA  1-8A      C5.4    3.6E-03   0464
+9520       2144   2145      2223  HOL  3   FLA  N03W39    1F      ERU       0464
+9520 +     2146   ////      2151  CUL  C   RSP  20-180    III/2             0464
+
+9560       2206   ////      2212  CUL  C   RSP  20-180    III/2                 
+
+9530       2209   ////      2211  HOL  C   RSP  025-180   III/1                 
+
+9570 +     2339   ////      2340  CUL  C   RSP  20-130    III/1                 

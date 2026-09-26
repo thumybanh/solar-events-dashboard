@@ -1,0 +1,35 @@
+:Product: 19980512events.txt
+:Created: 1998 May 15 0302 UT
+:Date: 1998 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2650       0449   0527      0651  GO9  5   XRA  1-8A      C1.2    6.7E-03   8218
+
+2660 +     0450   ////      1733  SVI  C   RSP  035-08    CTM/2             8218
+
+2650       0507   0546      0637  SVI  3   FLA  S20E02    SF      ERU       8218
+
+2700 +     0631   1038      1607  SVI  G   RNS  245       64                    
+
+2670       0815   0818      0833  SVI  3   FLA  S24W02    SF      ERU       8218
+
+2710 +     1842   1846      1850  GO9  5   XRA  1-8A      C1.0    3.6E-04       
+
+2720       1940   1941      1941  SAG  U   RBR  245       54                    
+
+2730       2157   2200      2204  HOL  3   FLA  S22W06    SF      ERU       8218
+
+2740 +     2212   2212      2215  PAL  U   RBR  245       62                    
+
+2750       2222   2222      2223  SAG  G   RBR  245       57                    
+
+2760       2310   2315      2323  GO8  5   XRA  1-8A      B4.9    3.5E-04   8218
+2760       2312   2312      2317  HOL  3   FLA  S21W06    SF      ERU       8218

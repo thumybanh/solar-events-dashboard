@@ -1,0 +1,45 @@
+:Product: 20011118events.txt
+:Created: 2001 Nov 21 0300 UT
+:Date: 2001 11 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Nov 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4550 +     0042   0045      0049  GO8  5   XRA  1-8A      C1.5    6.1E-04   9704
+4550       0045   0046      0050  LEA  3   FLA  S16E29    SF      ERU       9704
+
+4560       0219   0219      0226  LEA  2   FLA  S16E27    SF      ERU       9704
+
+4620       0315   ////      0611  LEA  3   DSF  S37E33    11      B.0A          
+
+4570       0604   0607      0616  LEA  2   FLA  N13W07    SF      ERU       9697
+
+4580       0703   0705      0712  LEA  2   FLA  S18E25    SF      ERU       9704
+
+4590 +     0745   0746      0748  SVI  G   RBR  2695      120                   
+4590 +     0745   0746      0747  SVI  G   RBR  4995      140                   
+4590 +     0746   0746      0747  SVI  G   RBR  1415      60                    
+4590 +     0746   0746      0746  SVI  G   RBR  8800      46                    
+
+4600       0837   0839      0857  LEA  1   FLA  N11W09    SF      ERU       9697
+4600       0845   0846      0852       F   RBR  3000      127               9697
+
+4610 +     0914   0919      0924  GO8  5   XRA  1-8A      C7.4    2.8E-03   9704
+4610 +     0916   0919      0926  SVI  G   RBR  4995      140               9704
+4610       0917   0919      0919  SVI  G   RBR  1415      47                9704
+4610 +     0917   0917      0923  SVI  G   RBR  2695      110               9704
+4610 +     0917   0919      0923  SVI  G   RBR  8800      120               9704
+4610 +     0917   0919      0921  SVI  G   RBR  15400     44                9704
+4610 +     0917   0918      0929  SVI  3   FLA  S22E25    SN      ERU       9704
+
+4630       0937   1001      1025  GO8  5   XRA  1-8A      C5.3    1.3E-02       
+
+4640       1243   1244      1244  SVI  G   RBR  245       55                    
+
+4650       1559   ////      2100  HOL  C   RSP  063-118   CTM/1                 

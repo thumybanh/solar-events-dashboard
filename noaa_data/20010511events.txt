@@ -1,0 +1,60 @@
+:Product: 20010511events.txt
+:Created: 2001 May 14 0302 UT
+:Date: 2001 05 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6090 +     0007   ////      0007  CUL  C   RSP  28-110    III/1                 
+
+6100       0107   ////      0109  HOL  C   RSP  025-087   III/1                 
+
+6120       0151   ////      0151  CUL  C   RSP  30-100    III/1                 
+
+6130       0349   ////      0349  CUL  C   RSP  50-180    III/1                 
+
+6220      A0507   ////      1314  SVI  3   DSF  S11E14    18      B.0A          
+
+6370       0600   0000      0730       F   RNS  204       10                    
+
+6150 +     0626   ////      0744  LEA  C   RSP  025-180   CTM/1                 
+6150       0642   0717      0745  GO8  5   XRA  1-8A      C1.6    4.5E-03       
+
+6310      A0701   ////      2330  LEA  3   DSF  S31E17    21      B.0A          
+
+6140       0713   0715      0717  SVI  G   RBR  410       22                    
+6140       0713   0715      0716  SVI  G   RBR  1415      33                    
+6140 +     0713   0713      0714  LEA  G   RBR  245       45                    
+6140 +     0714   0716      0717  LEA  G   RBR  606       130                   
+
+6160       0837   ////      0838  SVI  C   RSP  025-082   III/1                 
+
+6170       0921   ////      0924  SVI  U   RSP  025-180   III/1                 
+
+6180 +     1000   1006      1013  GO8  5   XRA  1-8A      C1.6    8.6E-04   9455
+6180       1004  U1005      1018  SVI  3   FLA  S18E25    SF      ERU       9455
+
+6190 +     1222   1256      1410  SVI  G   RBR  245       6200                  
+6190 +     1226   1257      1406  SVI  G   RBR  410       1300                  
+
+6200 +     1350   ////      1357  SVI  C   RSP  025-180   III/2                 
+
+6230       1941   1942      1946  SAG  G   RBR  606       90                    
+
+6240 +     2017   2022      2031  GO8  5   XRA  1-8A      C3.7    2.4E-03       
+
+6250       2030   ////      2031  SAG  C   RSP  030-060   III/1                 
+
+6260       2103   2103      2103  SAG  G   RBR  245       72                    
+
+6270 +     2231   2244      2254  GO8  5   XRA  1-8A      C2.7    2.8E-03       
+
+6280 +     2320   2320      2320  PAL  G   RBR  606       190                   
+
+6290 +     2332   ////      2340  LEA  C   RSP  025-147   III/1                 

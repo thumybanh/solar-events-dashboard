@@ -1,0 +1,63 @@
+:Product: 20020302events.txt
+:Created: 2002 Mar 05 0300 UT
+:Date: 2002 03 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9370 +     0016   0017      0017  PAL  G   RBR  245       150                   
+
+9380       0051   ////      0059  LEA  C   RSP  038-100   III/1                 
+
+9390       0126   ////      0131  LEA  C   RSP  044-079   III/1                 
+
+9400       0203   ////      0207  LEA  C   RSP  025-108   III/1                 
+
+9410       0252   ////      0255  LEA  C   RSP  028-109   III/1                 
+
+9420       0309   ////      0310  LEA  C   RSP  025-143   III/2                 
+
+9430       0424   ////      0425  LEA  C   RSP  025-068   III/1                 
+
+9440       0755   0803      0813  GO8  5   XRA  1-8A      C1.3    1.3E-03   9845
+9440       0759   0759      0803  SVI  3   FLA  N13W21    SF      ERU       9845
+
+9450       0920   0924      0929  GO8  5   XRA  1-8A      C1.6    6.9E-04   9844
+9450 +     0923   0924      0927  SVI  3   FLA  N24W53    SF      ERU       9844
+
+9470       1130   1143      1151  GO8  5   XRA  1-8A      C1.7    1.6E-03   9847
+9470 +     1138   1142      1152  SVI  3   FLA  S13W25    SF      ERU       9847
+
+9490       1156   1157      1201  SVI  3   FLA  S13W26    SF      ERU       9847
+
+9500 +     1255   1259      1303  GO8  5   XRA  1-8A      C1.1    5.2E-04       
+
+9510       1311   ////      1312  SVI  U   RSP  138-175   III/1                 
+
+9520 +    B1417   ////      0000  RAM  3   EPL  S43E90    0.13    B.1A          
+
+9530 +     1421   ////      1422  HOL  C   RSP  025-071   III/1                 
+9530       1421   ////     B1521  SVI  3   EPL  S42E90    0.4     B.0A          
+
+9540       1448   ////      1451  SVI  U   RSP  041-160   III/1                 
+
+9520       1453   ////      1605  SVI  U   RSP  039-172   CTM/1                 
+
+9550 +     1521   ////      1522  HOL  C   RSP  025-180   III/1                 
+9550       1521   ////      1522  SAG  C   RSP  030-065   V/2                   
+
+9560       1531   1531      1532  SAG  G   RBR  8800      58                    
+
+9580 +     1648   ////      1649  SAG  C   RSP  030-050   III/2                 
+
+9590 +     2010   2016      2022  GO8  5   XRA  1-8A      C4.4    2.8E-03   9845
+9590       2013   2016      2028  HOL  3   FLA  N14W23    SF      ERU       9845
+9590       2015   2018      2018  SAG  G   RBR  245       120               9845
+9590       2015   ////      2016  SAG  C   RSP  030-055   III/2             9845
+9590       2017   2018      2018  SAG  G   RBR  410       91                9845

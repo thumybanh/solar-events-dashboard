@@ -1,0 +1,38 @@
+:Product: 19981024events.txt
+:Created: 1998 Oct 27 0302 UT
+:Date: 1998 10 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8590 +     0110   0147      0238  GO8  5   XRA  1-8A      B4.0    1.7E-03       
+8590       0112   0112      0113  LEA  U   RBR  245       52                    
+8590 +     0152   ////      0157  LEA  C   RSP  030-08    III/1                 
+
+8600 +     0230   ////      0231  CUL  C   RSP  20-90     III/2                 
+
+8610       0242   ////      0244  LEA  C   RSP  030-08    V/2                   
+8610       0242   ////      0243  CUL  C   RSP  30-90     III/1                 
+8610       0243   ////      0249  CUL  C   RSP  50-90     II/1                  
+
+8630       0252   ////      0253  LEA  C   RSP  033-05    III/1                 
+
+8640 +     0444   0454      0505  GO8  5   XRA  1-8A      C1.3    1.4E-03   8365
+8640 +     0448   0451      0508  COM  3   FLA  S27W62    SF                8365
+
+8660 +     1003   1006      1012  GO8  5   XRA  1-8A      B3.3    1.6E-04       
+
+8790       2117   ////      2118  CUL  C   RSP  60-300    III/1                 
+
+8800       2235   ////      2236  CUL  C   RSP  60-300    III/1                 
+
+8670 +     2328   2328      2336  PAL  G   RBR  245       79                    
+8670       2329   ////      2329  CUL  C   RSP  55-270    III/2                 
+
+8810       2342   ////      2342  CUL  C   RSP  60-90     III/1                 

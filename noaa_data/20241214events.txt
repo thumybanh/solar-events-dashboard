@@ -1,0 +1,61 @@
+:Product: 20241214events.txt
+:Created: 2024 Dec 17 0357 UT
+:Date: 2024 12 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Dec 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7080 +     0012   0020      0029  G16  5   XRA  1-8A      C1.9    1.8E-03   3924
+
+7090 +     0040   0040      0040  LEA  G   RBR  245       540                   
+
+7100 +     0125   0136      0140  G16  5   XRA  1-8A      C3.0    2.8E-03   3922
+7100       0129   ////      0130  PAL  C   RSP  025-180   III/2                 
+7100 +     0132   0132      0132  LEA  G   RBR  245       110                   
+
+7120       0140   0147      0154  G16  5   XRA  1-8A      C4.2    3.1E-03       
+
+7100       0145   0153      0200  LEA  3   FLA  S18E63    SF                    
+
+7110 +     0224   0231      0235  G16  5   XRA  1-8A      C2.4    1.4E-03   3917
+
+7130 +     0620   0627      0632  G16  5   XRA  1-8A      C3.7    1.8E-03   3917
+
+7140 +     0818   0907      0931  G16  5   XRA  1-8A      C3.2    7.5E-04   3917
+
+7150 +     0931   0936      0942  G16  5   XRA  1-8A      C2.8    1.9E-03       
+
+7160       1001   1001      1002  LEA  G   RBR  245       310                   
+
+7170       1023   1023      1024  LEA  G   RBR  245       2400                  
+
+7180 +     1236   1242      1253  G16  5   XRA  1-8A      C1.6    1.6E-03       
+
+7190 +     1451   1503      1509  G16  5   XRA  1-8A      C2.7    2.4E-03   3916
+7190       1453   ////      1453  SAG  C   RSP  025-132   III/1                 
+
+7200 +     1712   1729      1745  G16  5   XRA  1-8A      C6.0    7.9E-03   3924
+7200       1721   1725      1808  HOL  3   FLA  S15W10    SF                3924
+7200       1722   ////      1722  SAG  C   RSP  025-180   III/1             3924
+7200 +     1723   1724      1724  SAG  G   RBR  410       250               3924
+7200 +     1724   1724      1724  PAL  G   RBR  245       150               3924
+
+7210       1724   1730      1732  HOL  3   FLA  S13W77    SF                3916
+
+7220       2123   2124      2126  HOL  3   FLA  S13W79    SF                3916
+
+7250       2146   2146      2212  PAL  G   RNS  245       260                   
+
+7230       2146   2146      2147  PAL  G   RBR  245       260                   
+
+7240       2152   2152      2152  LEA  G   RBR  245       110                   
+
+7260       2320   ////      2322  PAL  C   RSP  025-157   III/2                 
+
+7270 +     2329   2329      2330  PAL  G   RBR  245       120                   

@@ -1,0 +1,70 @@
+:Product: 19990503events.txt
+:Created: 1999 May 06 0302 UT
+:Date: 1999 05 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 May 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8240       0030   ////      0030  CUL  C   RSP  30-90     III/1                 
+
+8250       0340   ////      0340  CUL  C   RSP  80-340    III/1                 
+
+8260 +     0536   0602      0632  GO8  5   XRA  1-8A      M4.4    9.9E-02       
+8260 +     0540   0548      0634  SVI  G   RBR  1415      220               8525
+8260 +     0540   0548      0630  SVI  G   RBR  2695      220               8525
+8260 +     0542   0607      0655  SVI  G   RBR  4995      130               8525
+8260       0543   0551      0621  SVI  G   RBR  606       83                8525
+8260 +     0543   0607      0645  SVI  G   RBR  8800      85                8525
+8260 +     0543   0551      0745  LEA  3   FLA  N15E32    2N      PRB       8525
+8260       0544   0551      0623  SVI  G   RBR  410       440               8525
+8260 +     0547   0613      0621  SVI  G   RBR  245       350               8525
+8260 +     0548   0608      0651  SVI  G   RBR  15400     72                8525
+8260 +     0550   ////      0606  SVI  C   RSP  035-08    II/3    400       8525
+8260       0606   ////      0709  SVI  C   RSP  035-08    IV/3              8525
+
+8270       0656   ////      0657  SVI  C   RSP  035-08    III/2                 
+
+8280       0801   0801      0810  SVI  3   FLA  N15E31    SF                8525
+
+8290 +     0829   0830      0833  LEA  3   FLA  N19E39    SF                8525
+
+8300       0900   ////      0901  SVI  C   RSP  035-08    III/2                 
+
+8310       0930   ////      0931  SVI  C   RSP  035-08    III/2                 
+
+8320       0932   0933      0935  SVI  3   FLA  N15E22    SF                8525
+
+8330 +     1016   1019      1021  GO8  5   XRA  1-8A      C2.0    4.5E-04   8524
+8330       1019  U1019     A1027  SVI  3   FLA  N21W58    SF                8524
+
+8340 +     1036   1039      1041  GO8  5   XRA  1-8A      C1.2    3.1E-04       
+
+8350 +     1250   1254      1257  GO8  5   XRA  1-8A      C1.1    3.5E-04   8524
+8350       1253   1254      1258  SVI  3   FLA  N24W60    SF                8524
+
+8360 +     1459   ////      1500  SVI  C   RSP  035-06    III/2                 
+
+8370 +     1530   1538      1541  GO8  5   XRA  1-8A      C2.7    1.2E-03   8524
+8370       1533   1534      1544  RAM  3   FLA  N22W60    SF                8524
+
+8380 +     1811   1814      1817  GO8  5   XRA  1-8A      B7.2    2.0E-04       
+
+8390 +     1918   1923      1927  GO8  5   XRA  1-8A      C1.0    4.0E-04   8524
+8390 +     1919   1921      1934  RAM  3   FLA  N22W62    SF                8524
+
+8400       2044   2045      2048  RAM  3   FLA  N22W16    SF                8526
+
+8410 +     2238   2241      2243  GO8  5   XRA  1-8A      B5.9    1.5E-04       
+
+8420 +     2307   2311      2313  GO8  5   XRA  1-8A      M1.9    2.8E-03       
+8420 +     2309   2310      2311  PAL  G   RBR  1415      81                    
+8420 +     2309   2310      2311  PAL  G   RBR  2695      78                    
+8420 +     2309   2310      2311  PAL  G   RBR  4995      73                    
+8420 +     2309   2310      2311  PAL  G   RBR  8800      160                   
+8420 +     2310   2310      2310  PAL  G   RBR  15400     230                   

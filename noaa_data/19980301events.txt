@@ -1,0 +1,36 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 4 Mar 1998
+
+EDITED EVENTS for 1998 Mar 01
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+8160 +     0026   0030      0032  GO9  5   XRA  1-8A      B3.5    9.3E-05
+
+8170 +     0117   0121      0128  GO9  5   XRA  1-8A      B2.0    1.2E-04
+
+8180 +     0204   0210      0217  GO9  5   XRA  1-8A      B7.8    4.3E-04   8169
+8180       0208   0208      0216  LEA  3   FLA  S21W56    SF                8169
+
+8190 +     0809   0816      0822  GO9  5   XRA  1-8A      B6.5    4.1E-04
+
+8200 +     0836   0839      0841  GO9  5   XRA  1-8A      B6.5    1.4E-04
+
+8210       0926   0933      0938  GO8  5   XRA  1-8A      B3.1    2.0E-04
+
+8220 +     1104   1109      1114  GO9  5   XRA  1-8A      C1.0    4.5E-04   8169
+8220       1107   1107      1112  SVI  3   FLA  S17W66    SF                8169
+
+8230 +     1302   1308      1313  GO9  5   XRA  1-8A      C1.2    5.3E-04   8169
+8230 +     1302   1306      1316  RAM  4   FLA  S18W67    SF      HSS       8169
+
+8240 +     1734   1746      1755  GO9  5   XRA  1-8A      C1.1    1.0E-03
+
+8250       1859   ////      0000  HOL  3   EPL  S26W86    0.21    B.8A
+
+8260      B2011  U2011     A2100  RAM  4   FLA  S24W23    SF                8171
+8260       2024   ////      2025  PAL  C   RSP  027-04    III/1             8171
+
+8270 +     2139   2144      2154  GO9  5   XRA  1-8A      B6.4    4.3E-04
+
+8280       2218   2219      2219  PAL  G   RBR  245       59

@@ -1,0 +1,85 @@
+:Product: 20001217events.txt
+:Created: 2000 Dec 20 0302 UT
+:Date: 2000 12 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8210       0002   0005      0019  GO8  5   XRA  1-8A      C1.8    1.6E-03       
+8210       0003   0005      0016  LEA  3   FLA  S13W61    SF                    
+
+8220 +     0056   0100      0106  GO8  5   XRA  1-8A      C2.1    1.2E-03   9271
+8220       0059   0104      0115  LEA  3   FLA  S19W57    SF      ERU       9271
+
+8230 +     0111   0111      0111  PAL  G   RBR  606       860                   
+
+8240 +     0125   0132      0140  GO8  5   XRA  1-8A      C2.4    1.8E-03       
+8240       0126   0127      0137  LEA  3   FLA  S13W59    SF      DSD           
+
+8250 +     0146   0149      0153  GO8  5   XRA  1-8A      C4.4    1.4E-03       
+8250       0149   0150      0155  LEA  3   FLA  S13W62    SF                    
+
+8260       0242   0256      0306  GO8  5   XRA  1-8A      C2.6    3.0E-03   9276
+8260       0246   0248      0303  LEA  3   FLA  S13W60    SF      DSD           
+
+8270       0345   0346      0357  LEA  3   FLA  S13W63    SF                    
+
+8290 +     0449   0524      0535  GO8  5   XRA  1-8A      C3.7    6.4E-03   9266
+
+8280       0451   0452      0459  LEA  3   FLA  N08E81    SF                    
+
+8290       0522   0526      0533  LEA  3   FLA  N25W78    SF                9266
+
+8300       0700   0701      0707  LEA  3   FLA  N07W39    SF                9267
+
+8310       0735   0735      0741  LEA  3   FLA  N17E15    SF      ERU       9269
+
+8320 +     0757   0759      0802  COM  3   FLA  S13W64    SF                9276
+
+8330 +     0837   0844      0851  COM  3   FLA  S14W64    SF      DSD       9276
+
+8340 +     0857   0902      0918  COM  3   FLA  S13W64    SF                9276
+8340 +     0902   0906      0914  GO8  5   XRA  1-8A      C2.1    1.4E-03   9276
+
+8350       0916   0921      0941  LEA  3   FLA  N08W37    SF                9267
+
+8700      A1135   ////      0716  SVI  2   DSF  S14E05    16      B.0A          
+
+8370       1141   1142      1142  SVI  G   RBR  245       120                   
+8370       1141   ////      1142  SVI  C   RSP  038-081   III/1                 
+
+8380 +     1201   1205      1212  GO8  5   XRA  1-8A      C4.0    2.2E-03   9276
+8380 +    B1203  U1203      1224  COM  3   FLA  S14W66    SF                9276
+
+8390       1319   ////      1320  SAG  C   RSP  030-065   III/1                 
+
+8400       1451   1452      1456  RAM  3   FLA  N18W37    SF                9275
+
+8410       1605   1605      1606  SAG  G   RBR  245       91                    
+
+8420 +     1619   1626      1630  GO8  5   XRA  1-8A      C3.7    1.9E-03   9276
+8420 +     1622   1625      1631  COM  3   FLA  S15W71    SF                9276
+
+8430 +     1656   1659      1704  COM  3   FLA  S15W71    SF                9276
+
+8440 +     1706   1710      1722  COM  3   FLA  S14W70    SF                9276
+
+8450 +     1744   1747      1750  GO8  5   XRA  1-8A      C3.1    1.0E-03   9276
+8450 +     1746   1747      1751  COM  3   FLA  S14W72    SF                9276
+
+8460 +     1835   1840      1846  GO8  5   XRA  1-8A      C5.8    2.9E-03   9276
+8460 +     1839   1839      1848  COM  3   FLA  S14W72    SF                9276
+
+8490 +     1910   ////      1911  PAL  C   RSP  025-180   III/1                 
+
+8510 +     2009   2010      2017  COM  3   FLA  S14W73    SF                9276
+
+8520 +     2347   2348      2348  PAL  G   RBR  410       97                    
+
+8530       2357   ////      2358  LEA  C   RSP  025-180   III/2                 

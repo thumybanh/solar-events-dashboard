@@ -1,0 +1,48 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 22 Sep 1997
+
+EDITED EVENTS for 1997 Sep 19
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+9170 +     0001   0013      0027  GO9  5   XRA  1-8A      C1.8    2.1E-03
+9170 +     0006   ////      0006  LEA  C   RSP  030-07    III/2
+
+9180 +     0038   ////      0043  LEA  C   RSP  030-06    III/2
+
+9190 +     0139   0150      0153  GO9  5   XRA  1-8A      C8.6    3.1E-03   8085
+9190 +     0141   0142      0143  LEA  G   RBR  245       110               8085
+9190       0141   0142      0142  LEA  G   RBR  410       17                8085
+9190       0147   0150      0153  LEA  3   FLA  S17W88    1F                8085
+
+9200       0201   ////      0201  LEA  C   RSP  030-04    III/1
+
+9210       0426   ////      0426  LEA  C   RSP  030-04    III/1
+
+9220       0515   0521      0525  GO9  5   XRA  1-8A      B6.2    2.6E-04
+9220       0519   ////      0800  LEA  C   RSP  030-08    CTM/1
+
+9230 +     0535   0548      0557  GO9  5   XRA  1-8A      C1.5    1.4E-03
+9230       0541   ////      0541  SVI  U   RSP  038-05    III/1
+
+9240       0611   ////      0750  SVI  U   RSP  053-07    CTM/2
+
+9250 +     0844   ////      0844  LEA  C   RSP  035-06    III/1
+
+9260       0911   0929      0940  GO8  5   XRA  1-8A      C2.6    3.1E-03
+9260 +     0911   ////      0912  SVI  C   RSP  035-08    III/3
+
+9270       1003   ////      1004  SVI  C   RSP  035-07    III/3
+
+9280 +     1435   1445      1507  GO9  5   XRA  1-8A      B9.7    1.6E-03
+
+9290       1608   ////      1609  SAG  C   RSP  030-04    III/1
+
+9300       1655   ////      1656  SAG  C   RSP  030-05    III/1
+
+9310       1658   ////      1658  SAG  C   RSP  030-05    III/1
+
+9320 +     1747   1753      1806  GO9  5   XRA  1-8A      B5.4    5.4E-04
+9320       1750   ////      1750  SAG  C   RSP  030-04    III/1
+
+9330       1828   ////      1828  SAG  C   RSP  030-04    III/1

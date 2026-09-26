@@ -1,0 +1,67 @@
+:Product: 19990208events.txt
+:Created: 1999 Feb 11 0302 UT
+:Date: 1999 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2690 +     0000   0712      2208  COM  G   RNS  245       490                   
+
+2630 +     0111   0117      0126  GO8  5   XRA  1-8A      C1.0    7.3E-04       
+2630       0116   0117      0127  LEA  3   FLA  S27W19    SF                8453
+
+2640 +     0232   ////      0232  CUL  C   RSP  23-90     III/1                 
+
+2650       0335   ////      0335  LEA  C   RSP  030-04    III/1                 
+
+2830       0626   ////      0627  CUL  C   RSP  30-150    III/1                 
+
+2690 +     0645   1130      1341  SVI  G   RNS  410       240                   
+
+2660 +     0654   0706      0801  LEA  G   RBR  410       200                   
+2660       0655   0731      0804  GO8  5   XRA  1-8A      C1.8    5.3E-03       
+2660 +     0657   0712      0801  LEA  G   RBR  245       540                   
+2660       0704   ////      0705  LEA  C   RSP  035-05    III/1                 
+2660 +     0706   0707      0801  LEA  G   RBR  606       27                    
+2660 +     0713   ////      0908  LEA  C   RSP  030-08    CTM/2             8453
+
+2670       0731   0731      0734  LEA  3   FLA  S28W23    SF      BPT       8453
+
+2680       0823   0823      0823  LEA  G   RBR  245       200                   
+
+2710       0829   0947      0951  LEA  G   RBR  245       500                   
+2710       0838   0839      0840  LEA  G   RBR  410       64                    
+
+2700       0846   0851      0916  GO8  5   XRA  1-8A      C1.0    1.7E-03       
+
+2720       0946   0947      0947  SVI  U   RBR  245       310                   
+
+2730       1004   1007      1007  LEA  G   RBR  245       140                   
+2730       1004   1007      1007  LEA  G   RBR  410       32                    
+2730       1007   ////      1007  SVI  C   RSP  065-07    III/1                 
+
+2760       1011   ////      1418  SVI  C   RSP  035-08    CTM/2                 
+
+2740       1101   1109      1114  SVI  3   FLA  N22E65    SF                8456
+
+2750       1139   1151      1203  SVI  3   FLA  S30W22    SF      ERU       8453
+
+2770       1238   1238      1239  SAG  G   RBR  410       91                    
+
+2780       1455   ////      1456  SAG  C   RSP  030-04    III/1                 
+
+2790 +     1603   1612      1638  RAM  3   FLA  N22E60    SF                8456
+2790 +     1609   1616      1621  GO8  5   XRA  1-8A      C1.6    9.0E-04   8456
+
+2800 +     1650   1653      1658  RAM  3   FLA  N22E59    SF                8456
+
+2810       1928   1949      2000  GO8  5   XRA  1-8A      C1.6    2.4E-03   8456
+2810 +     1950   1952      2007  RAM  3   FLA  N22E58    SF                8456
+
+2820       2108   2118      2121  RAM  3   FLA  N22E55    SF                8456

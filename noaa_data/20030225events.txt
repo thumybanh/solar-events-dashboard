@@ -1,0 +1,41 @@
+:Product: 20030225events.txt
+:Created: 2003 Feb 28 0302 UT
+:Date: 2003 02 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8760 +     0140   0144      0149  GO8  5   XRA  1-8A      B1.7    7.6E-05       
+
+8770 +     0201   0206      0209  GO8  5   XRA  1-8A      B4.7    1.4E-04       
+
+8780 +     0223   0230      0233  GO8  5   XRA  1-8A      B2.7    1.2E-04   0290
+8780       0227   0229      0234  LEA  3   FLA  N18W35    SF      ERU       0290
+
+8790 +     0353   0401      0405  GO8  5   XRA  1-8A      B8.1    2.8E-04   0288
+8790       0356   ////      0403  LEA  C   RSP  025-180   III/1             0288
+
+8800       0435   ////      0435  LEA  C   RSP  025-127   III/1                 
+
+8810 +     0729   ////      0729  LEA  C   RSP  025-180   III/1                 
+
+8820       1339   ////      1340  SVI  C   RSP  056-151   III/1                 
+
+8830 +     1343   1348      1400  GO8  5   XRA  1-8A      B2.6    2.3E-04       
+
+8840 +     1416   1420      1423  GO8  5   XRA  1-8A      B2.2    8.1E-05   0290
+8840       1419   1420      1425  RAM  3   FLA  N18W45    SF      ERU       0290
+
+8850       1450   1453      1457  G10  5   XRA  1-8A      B1.6    6.3E-05       
+
+8860 +     2042   2045      2049  GO8  5   XRA  1-8A      B2.2    8.3E-05       
+
+8870       2124   ////      2125  HOL  C   RSP  025-169   III/1                 
+
+8880       2335   2335      2335  LEA  G   RBR  245       53                    

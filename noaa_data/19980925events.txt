@@ -1,0 +1,90 @@
+:Product: 19980925events.txt
+:Created: 1998 Sep 28 0303 UT
+:Date: 1998 09 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Sep 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2900       0006   0009      0009  LEA  G   RBR  245       500                   
+2900 +     0007   ////      0010  LEA  C   RSP  030-08    III/2                 
+
+2940       0030   ////      0033  CUL  C   RSP  18-180    III/1                 
+
+2920       0108   0109      0111  LEA  G   RBR  245       720                   
+
+2950       0141   ////      0141  CUL  C   RSP  18-180    III/2                 
+
+2960       0156   ////      0156  CUL  C   RSP  18-180    III/2                 
+
+2970       0213   ////      0215  CUL  C   RSP  18-180    III/2                 
+
+2980       0227   ////      0230  CUL  C   RSP  18-280    III/2                 
+
+2990       0238   0243      0245  LEA  G   RBR  245       640                   
+2990       0241   ////      0250  CUL  C   RSP  18-280    III/3                 
+
+3000 +     0247   0251      0300  GO8  5   XRA  1-8A      B5.5    3.9E-04       
+
+3010 +     0408   0411      0413  GO8  5   XRA  1-8A      B6.5    1.7E-04       
+3010       0408   ////      0412  CUL  C   RSP  25-270    III/1                 
+
+3030       0440   ////      0442  LEA  C   RSP  030-08    III/2                 
+
+3040       0501   ////      0509  LEA  C   RSP  030-07    III/2                 
+
+3050 +     0536   ////      0536  LEA  C   RSP  030-06    III/2                 
+
+3060 +     0556   0557      0558  LEA  G   RBR  245       610                   
+3060       0556   ////      0602  LEA  C   RSP  030-08    III/2                 
+
+3070 +     0612   0612      0612  LEA  G   RBR  245       260                   
+
+3080 +     0616   0617      0617  LEA  G   RBR  245       850                   
+
+3090 +     0641   0643      0646  LEA  G   RBR  245       580                   
+
+3100 +     0715   0717      0718  LEA  G   RBR  245       830                   
+
+3110 +     0742   0742      0743  LEA  G   RBR  245       560                   
+
+3120 +     0804   0804      0805  LEA  G   RBR  245       580                   
+
+3170       0919   ////      1102  SVI  C   RSP  035-07    CTM/2                 
+
+3130       1009   1011      1012  SVI  U   RBR  245       960                   
+
+3140 +     1105   1109      1115  GO8  5   XRA  1-8A      C1.3    6.8E-04   8340
+3140      B1108  U1108     A1121  RAM  3   FLA  N17W20    SF                8340
+
+3150 +     1136   1151      1202  GO8  5   XRA  1-8A      C1.7    2.1E-03       
+3150       1202   ////      2025  SAG  C   RSP  030-08    CTM/3                 
+
+3180       1241   ////      1621  SVI  C   RSP  035-06    CTM/2                 
+
+3160 +     1312   1316      1319  GO8  5   XRA  1-8A      B7.0    2.5E-04       
+3160       1314   1315      1328  RAM  3   FLA  S28E32    SF                8346
+
+3190 +     1520   1522      1526  HOL  3   FLA  S30W63    SF                8336
+
+3210       1713   1713      1722  RAM  3   FLA  S21W16    SF                8344
+
+3220       1741   ////      1741  SAG  C   RSP  030-08    V/2                   
+
+3230 +     1802   1845      1920  GO8  5   XRA  1-8A      B7.7    2.8E-03       
+
+3240       2104   ////      2104  SAG  C   RSP  030-08    III/1                 
+
+3250 +     2212   2226      2238  GO8  5   XRA  1-8A      C1.3    1.6E-03       
+3250       2219   2225      2257  HOL  3   FLA  S16W13    SF                8344
+
+3260 +     2313   2322      2338  HOL  3   FLA  S28E27    SF                8346
+3260 +     2313   2323      2351  GO8  5   XRA  1-8A      C2.7    4.0E-03   8346
+3260       2335   ////      2335  LEA  C   RSP  030-08    III/1             8346
+
+3200 +     2357   0110      1003  LEA  G   RNS  245       190                   

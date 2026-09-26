@@ -1,0 +1,64 @@
+:Product: 19991104events.txt
+:Created: 1999 Nov 07 0302 UT
+:Date: 1999 11 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Nov 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8870       0031   ////      0039  PAL  C   RSP  025-07    III/2                 
+
+8850 +     0051   0102      0110  GO8  5   XRA  1-8A      C2.2    2.0E-03   8749
+8850       0054   0103      0114  LEA  3   FLA  S19W22    SF                8749
+8850 +     0055   ////      0056  CUL  C   RSP  25-80     III/1             8749
+
+8860 +     0127   0146      0157  GO8  5   XRA  1-8A      C2.9    3.8E-03   8749
+8860 +     0130   0130      0131  LEA  G   RBR  245       1300                  
+8860 +     0131   ////      0132  CUL  C   RSP  28-400    III/2             8749
+8860       0131   0143      0157  LEA  3   FLA  S19W25    SF                8749
+
+8880       0138   0139      0141  LEA  G   RBR  245       66                    
+8880       0138   ////      0139  LEA  C   RSP  030-08    III/2                 
+
+8890 +     0236  U0259     A0350  COM  3   FLA  S19W25    1F                8749
+8890 +     0253   ////      0257  CUL  C   RSP  18-180    III/2             8749
+8890 +     0253   0300      0307  GO8  5   XRA  1-8A      C5.2    3.4E-03   8749
+
+8900       0329   ////      0334  CUL  C   RSP  60-120    III/1                 
+
+8910 +     0338   ////      0340  CUL  C   RSP  20-300    III/2                 
+
+8920       0418   ////      0509  LEA  C   RSP  030-08    CTM/1             8749
+8920       0423   0502      0533  LEA  3   FLA  S19W26    1N                8749
+
+8950       0434   0435      0440  LEA  3   FLA  N11W26    SF      ERU       8747
+
+8920 +     0455   0503      0514  GO8  5   XRA  1-8A      C7.9    5.7E-03   8749
+8920       0500   ////      0505  LEA  C   RSP  030-08    III/2             8749
+8920       0505   0505      0505  LEA  G   RBR  245       250               8749
+
+8930       0540   0540      0555  LEA  3   FLA  S19W25    SF                8749
+
+8940 +     0653   ////      0655  LEA  C   RSP  030-08    III/2                 
+
+8960       0852   ////      0852  LEA  C   RSP  030-06    III/1                 
+
+8970       1439   ////      1439  SAG  C   RSP  030-05    III/1                 
+
+8980       2035   2036      2036  SAG  G   RBR  245       130                   
+
+8990       2042   2042      2043  SAG  G   RBR  245       37                    
+8990       2042   2042      2043  SAG  G   RBR  410       86                    
+
+9000       2046   2046      2046  SAG  U   RBR  245       19                    
+9000       2046   2046      2046  SAG  U   RBR  410       81                    
+
+9010       2123   2123      2128  HOL  3   FLA  S12W48    SF                8745
+
+9020 +     2243   2253      2303  GO8  5   XRA  1-8A      C4.8    3.8E-03       
+9020 +     2249   2254      2356  LEA  3   FLA  S18W36    SF      ERU       8749

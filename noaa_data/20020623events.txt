@@ -1,0 +1,47 @@
+:Product: 20020623events.txt
+:Created: 2002 Jun 26 0300 UT
+:Date: 2002 06 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7230 +     0215   0255      0324  GO8  5   XRA  1-8A      M1.6    4.1E-02   9997
+7230       0223   0245      0348  LEA  3   FLA  N13W70    2F      ERU       9997
+7230       0243   0309      0405  LEA  G   RBR  4995      41                9997
+7230       0246   0313      0402  LEA  G   RBR  8800      38                9997
+7230       0255   0302      0323  LEA  G   RBR  15400     25                9997
+7230       0256   0311      0338  LEA  G   RBR  2695      24                9997
+
+7240 +     0437   ////      0443  CUL  C   RSP  57-180    III/2                 
+
+7250       0444   0444      0444  LEA  G   RBR  245       72                    
+
+7290       0445   ////      0448  CUL  C   RSP  57-180    III/1                 
+
+7300       0516   ////      0516  CUL  C   RSP  57-75     III/1                 
+
+7310       0635   ////      0635  CUL  C   RSP  57-90     III/1                 
+
+7260 +     0819   0824      0827  GO8  5   XRA  1-8A      C1.9    5.9E-04   0005
+7260 +     0820   0822      0822  SVI  G   RBR  410       480               0005
+7260 +     0821   ////      0823  LEA  C   RSP  075-180   III/1             0005
+7260       0821   0823      0834  SVI  3   FLA  N14W08    1N      ERU       0005
+7260 +     0822   0822      0822  LEA  G   RBR  245       71                0005
+7260       0822   0822      0822  LEA  G   RBR  606       37                0005
+7260       0822   0822      0822  SVI  G   RBR  2695      25                0005
+7260       0822   0822      0822  SVI  G   RBR  4995      49                0005
+
+7270       1521   ////      1521  SVI  C   RSP  025-053   III/1                 
+
+7280 +     1818   1822      1825  GO8  5   XRA  1-8A      B6.7    2.1E-04   0005
+7280 +     1821   1821      1824  HOL  3   FLA  N12W11    SF      ERU       0005
+
+7320       2238   ////      2239  CUL  C   RSP  57-170    III/1                 
+
+7330       2251   ////      2252  CUL  C   RSP  57-90     III/1                 

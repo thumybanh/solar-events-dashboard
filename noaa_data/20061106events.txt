@@ -1,0 +1,55 @@
+:Product: 20061106events.txt
+:Created: 2006 Nov 09 0329 UT
+:Date: 2006 11 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Nov 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7870 +     0133   0137      0141  G12  5   XRA  1-8A      B8.5    2.4E-04   0922
+
+7880 +     0328   ////      0338  LEA  C   RSP  025-081   III/1                 
+
+7890       0352   ////      0415  CUL  C   RSP  20-90     III/1                 
+
+7900 +     0525   0529      0531  G12  5   XRA  1-8A      B3.4    6.9E-05   0921
+
+7960       0732   ////      0732  CUL  C   RSP  23-180    III/1                 
+
+7910 +     0905   0910      0912  G12  5   XRA  1-8A      B2.2    6.7E-05   0921
+
+7920 +     1018   1051      1122  G12  5   XRA  1-8A      C2.4    6.5E-03   0921
+7920       1059   1059      1059  G12  5   XFL  S32E57    5.0E+01 9.9E+01       
+
+7930       1739   1741      1743  SAG  G   RBR  245       73                    
+7930       1739   1740      1743  SAG  G   RBR  1415      65                    
+7930 +     1739   1740      1743  SAG  G   RBR  2695      97                    
+7930       1740   1741      1741  SAG  G   RBR  410       65                    
+7930 +     1740   1742      1742  SAG  G   RBR  606       290                   
+7930 +     1740   1741      1746  SAG  G   RBR  4995      170                   
+7930       1740   1741      1742  SAG  G   RBR  8800      93                    
+7930       1741   1741      1744  SAG  G   RBR  15400     43                    
+7930 +     1742   ////      1748  SAG  C   RSP  030-180   II/2    2230          
+7930 +     1743   1746      1806  G12  5   XRA  1-8A      C8.8    5.5E-03       
+
+7970       2029   ////      2031  CUL  C   RSP  20-90     III/1                 
+
+7940 +     2034   ////      2036  CUL  C   RSP  18-300    III/2                 
+7940       2035   2035      2035  PAL  G   RBR  245       120                   
+
+7980       2038   ////      2044  CUL  C   RSP  20-90     III/1                 
+
+7950       2135   ////      2136  PAL  C   RSP  025-053   III/1                 
+
+7990       2235   ////      2244  CUL  C   RSP  23-80     III/1                 
+
+8000       2329   ////      2332  CUL  C   RSP  20-100    III/1                 
+
+8010       2341   ////      2341  CUL  C   RSP  20-90     III/1                 
+
+8020 +     2354   ////      0007  G12  5   XRA  1-8A      B5.8    3.9E-04       

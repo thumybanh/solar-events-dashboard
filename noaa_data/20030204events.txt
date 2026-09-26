@@ -1,0 +1,30 @@
+:Product: 20030204events.txt
+:Created: 2003 Feb 07 0302 UT
+:Date: 2003 02 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6420 +     0132   ////      0137  LEA  C   RSP  025-180   III/1                 
+
+6430 +     0213   ////      0217  CUL  C   RSP  18-80     III/2                 
+
+6440 +     1212   1222      1232  GO8  5   XRA  1-8A      B8.3    8.7E-04   0277
+
+6450 +     1337   1340      1342  GO8  5   XRA  1-8A      B6.6    1.7E-04   0277
+
+6460       1808   ////      1809  PAL  C   RSP  025-180   III/1                 
+
+6470       1931   ////      1932  HOL  C   RSP  060-131   III/1                 
+
+6480 +     2004   2015      2031  GO8  5   XRA  1-8A      C1.4    1.9E-03   0278
+6480 +     2015   ////      2016  CUL  C   RSP  40-180    III/1                 
+
+6490 +     2113   2121      2126  GO8  5   XRA  1-8A      C1.6    9.3E-04   0277
+6490       2116   2122      2132  HOL  3   FLA  S20E67    SF      ERU       0277

@@ -1,0 +1,44 @@
+:Product: 20040527events.txt
+:Created: 2004 May 30 0302 UT
+:Date: 2004 05 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 May 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 590 +     0021   0027      0043  G12  5   XRA  1-8A      C1.1    1.1E-03   0618
+ 590       0025   0026      0041  LEA  3   FLA  S08W12    SF      ERU       0618
+ 590       0025   0041      0041  G12  5   XFL  S09W11    2.0E+03 5.1E+03   0618
+
+ 600       0048   ////      0050  CUL  C   RSP  23-550    III/1                 
+ 600 +     0049   0049      0049  LEA  G   RBR  410       160                   
+
+ 610 +     0225   0230      0235  G12  5   XRA  1-8A      B4.2    2.2E-04   0618
+ 610       0229   0233      0233  G12  5   XFL  S09W15    3.5E+02 6.3E+02   0618
+
+ 620 +     0239   0242      0246  G12  5   XRA  1-8A      B7.0    2.4E-04   0618
+ 620       0243   0244      0245  G12  5   XFL  S09W14    1.1E+03 2.7E+03   0618
+
+ 630 +     0256   0300      0306  G12  5   XRA  1-8A      B3.8    2.1E-04   0618
+ 630       0259   0300      0305  G12  5   XFL  S09W14    3.0E+02 5.5E+02   0618
+
+ 640 +     0637   0645      0648  G12  5   XRA  1-8A      B4.2    2.4E-04   0618
+ 640       0640   0645      0647  G12  5   XFL  S09W17    1.0E+03 2.2E+03   0618
+
+ 650 +     0755   0800      0804  G12  5   XRA  1-8A      B4.5    1.8E-04   0618
+ 650       0800   0800      0803  G12  5   XFL  S08W16    5.5E+02 1.1E+03   0618
+
+ 660 +     0907   0913      0919  G12  5   XRA  1-8A      C1.0    5.1E-04   0619
+ 660       0909   0918      0918  G12  5   XFL  S07W90    1.4E+03 4.8E+03   0619
+
+ 670 +     1711   1714      1717  G12  5   XRA  1-8A      B3.2    9.8E-05       
+
+ 680 +     1822   1826      1831  G12  5   XRA  1-8A      B2.3    1.1E-04       
+ 680       1825   1829      1829  G12  5   XFL  S19W90    7.5E+01 4.2E+02       
+
+ 690       2141   ////      2141  CUL  C   RSP  25-70     III/1                 

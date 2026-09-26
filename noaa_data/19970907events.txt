@@ -1,0 +1,49 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 10 Sep 1997
+
+EDITED EVENTS for 1997 Sep 07
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+6290 +     0000   1559      2359  COM  G   RNS  245       220
+
+6280 +     0300   0317      0349  GO9  5   XRA  1-8A      C1.6    3.9E-03
+
+6300       0445   0449      0454  GO9  5   XRA  1-8A      C1.4    6.4E-04
+
+6290       0600   0000      1200       F   RNS  204       12
+
+6310       0606   0620      0629  GO8  5   XRA  1-8A      C3.1    2.7E-03   8085
+6310 +     0614   0615      0619  LEA  3   FLA  S31E77    SF      HSS       8085
+
+6320       0738   0740      0747  SVI  2   FLA  S24E75    SF      HSS       8085
+
+6330 +     0856   0859      0900  LEA  G   RBR  245       150
+
+6340       0945   0947      0951  SVI  2   FLA  S24E73    SF                8085
+
+6350       1141   1141      1141  SAG  G   RBR  245       60
+
+6360 +     1300   1300      1300  SAG  G   RBR  245       120
+
+6370       1336   1337      1356  SVI  3   FLA  N21E00    SF      ERU       8082
+6370       1344   1344      1345  SAG  G   RBR  245       58                8082
+
+6380       1428   1428      1429  SAG  G   RBR  245       62
+
+6390       1446   1447      1459  SVI  2   FLA  S25E68    SF                8085
+6390       1456   1458      1458  SVI  U   RBR  245       140               8085
+
+6400       1551   1551      1554  HOL  3   FLA  S24E68    SF                8085
+
+6410       1642   1644      1648  HOL  3   FLA  S24E67    SF                8085
+
+6420 +     1709   1712      1716  HOL  3   FLA  S24E67    SF                8085
+
+6430 +     1739   1741      1750  HOL  3   FLA  S24E66    SF                8085
+
+6440       1900   1901      1905  HOL  3   FLA  S24E66    SF                8085
+
+6450 +     1916   1918      1921  HOL  3   FLA  S26E05    SF                8083
+
+6460       1920   1921      1928  HOL  3   FLA  S24E66    SF                8085

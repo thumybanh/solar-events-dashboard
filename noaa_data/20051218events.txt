@@ -1,0 +1,24 @@
+:Product: 20051218events.txt
+:Created: 2005 Dec 21 0329 UT
+:Date: 2005 12 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7640 +     0052   0057      0107  G12  5   XRA  1-8A      B1.2    9.6E-05   0836
+7640       0055   0103      0104  G12  5   XFL  S10W90    2.1E+03 5.4E+03   0836
+
+7710      A1350   ////     B0709  SVI  3   DSF  N18W56    16      B.0A          
+
+7650 +     1628   1639      1656  G12  5   XRA  1-8A      B1.6    2.2E-04   0834
+7650       1631   1648      1655  G12  5   XFL  S09W37    2.2E+03 5.6E+03   0834
+
+7660       1833   1833      1833  PAL  G   RBR  410       150                   
+
+7670       1839   1839      2008  PAL  G   RNS  410       75                    

@@ -1,0 +1,41 @@
+:Product: 20000122events.txt
+:Created: 2000 Jan 25 0302 UT
+:Date: 2000 01 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9770       0446   0446      0447  LEA  G   RBR  245       70                    
+
+9780       0501   0501      0501  LEA  G   RBR  245       58                    
+
+9790       0624   0624      0624  LEA  G   RBR  245       58                    
+
+9810       0710   ////      1528  SVI  C   RSP  035-08    CTM/1                 
+
+9800       0801   ////      0915  LEA  C   RSP  030-08    CTM/1                 
+9800 +     0822   0827      0834  GO8  5   XRA  1-8A      C1.2    7.6E-04       
+
+9820       0846   0858      0908  GO8  5   XRA  1-8A      C1.2    1.5E-03       
+
+9830 +     1640   1653      1711  GO8  5   XRA  1-8A      B9.8    1.7E-03       
+
+9840 +     1755   1801      1807  GO8  5   XRA  1-8A      M1.0    4.3E-03   8831
+9840       1756   1757      1757  PAL  G   RBR  15400     29                8831
+9840       1758   1759      1801  PAL  G   RBR  245       2300              8831
+9840       1758   1800      1801  PAL  G   RBR  410       370               8831
+9840       1758   1800      1801  PAL  G   RBR  1415      110               8831
+9840       1758   1759      1801  PAL  G   RBR  2695      250               8831
+9840       1758   1759      1801  PAL  G   RBR  4995      170               8831
+9840       1758   1759      1801  PAL  G   RBR  8800      130               8831
+9840       1759   1800      1801  PAL  G   RBR  606       1000              8831
+9840       1759   1759      1837  RAM  3   FLA  S23W50    SF      DSD       8831
+9840       1801   ////      1804  RAM  3   DSF  S43W32    14      B.0A      8831
+
+9860 +     1906   ////      1907  SAG  C   RSP  030-05    III/1                 

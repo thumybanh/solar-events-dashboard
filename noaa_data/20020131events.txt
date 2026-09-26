@@ -1,0 +1,60 @@
+:Product: 20020131events.txt
+:Created: 2002 Feb 03 0300 UT
+:Date: 2002 01 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1860       0059   ////      0100  CUL  C   RSP  60-180    III/1                 
+
+1870       0150   ////      0150  CUL  C   RSP  57-140    III/1                 
+
+1880 +     0635   ////      0635  LEA  C   RSP  025-061   III/1                 
+
+1890 +     0731   ////      0733  CUL  C   RSP  100-200   III/1                 
+
+1900       0839   0840      0841  SVI  G   RBR  245       86                    
+
+1910 +     1007   1012      1017  GO8  5   XRA  1-8A      C3.3    1.6E-03   9802
+1910       1010   1012      1019  LEA  3   FLA  S16E18    SF      ERU       9802
+
+1920 +     1022   1022      1022  SVI  G   RBR  245       77                    
+
+1930       1153   1204      1229  GO8  5   XRA  1-8A      C2.2    4.3E-03   9798
+1930       1200   1203      1211  RAM  3   FLA  S02W55    SF      ERU       9798
+
+1940       1414   1416      1430  RAM  3   FLA  N06W14    SF      ERU       9800
+1940 +     1420   1425      1435  GO8  5   XRA  1-8A      C4.3    3.0E-03   9800
+
+1950 +     1436   1444      1450  GO8  5   XRA  1-8A      M3.6    1.9E-02       
+1950 +     1439   1440      1440  SAG  G   RBR  4995      170                   
+1950 +     1440   1440      1440  SAG  G   RBR  8800      230                   
+1950 +     1440   1440      1440  SAG  G   RBR  15400     56                    
+
+1960 +     1520   1525      1537  GO8  5   XRA  1-8A      C4.6    3.9E-03   9802
+1960       1533   1535      1541  RAM  3   FLA  S15E12    SF                9802
+
+1970       1538   1539      1540  SVI  G   RBR  15400     93                    
+
+1980 +     1640   1647      1655  GO8  5   XRA  1-8A      C4.9    3.6E-03   9800
+1980 +     1640   1643      1706  RAM  3   FLA  N06W14    SF      ERU       9800
+
+1990       1908   ////      2115  HOL  C   RSP  065-136   CTM/1                 
+
+2020       2147   ////      2149  CUL  C   RSP  57-180    III/1                 
+
+2030       2158   ////      2203  CUL  C   RSP  57-180    III/1                 
+
+2000       2159   ////      2201  HOL  C   RSP  025-180   III/1                 
+
+2010 +     2242   ////      2244  CUL  C   RSP  57-180    III/1                 
+
+2040       2249   ////      2249  CUL  C   RSP  57-90     III/1                 
+
+2050       2312   ////      2312  CUL  C   RSP  57-120    III/1                 

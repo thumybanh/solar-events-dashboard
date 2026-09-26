@@ -1,0 +1,57 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0502 UT 22 Nov 1997
+
+EDITED EVENTS for 1997 Nov 19
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+7200       0340   0340      0340  LEA  G   RBR  410       71
+
+7210       0432   0432      0432  LEA  G   RBR  245       58
+
+7220       0518   ////      0527  LEA  C   RSP  030-04    III/1
+7220       0518   ////      0711  CUL  C   RSP  18-80     CTM/1
+
+7230       0530   ////      0540  LEA  C   RSP  030-05    III/1
+
+7240       0600   ////      0602  LEA  C   RSP  030-05    III/1
+
+7250       0620   ////      0626  LEA  C   RSP  030-05    III/1
+
+7310       0700   0000      1200       F   RNS  204       8
+
+7260       0716   0716      0717  LEA  G   RBR  245       73
+
+7270       0802   ////      0811  LEA  C   RSP  038-05    III/1
+
+7280       0927   ////      0927  LEA  C   RSP  037-04    III/1
+
+7290       1020   1020      1020  LEA  G   RBR  245       110
+
+7300 +     1349   1402      1412  GO9  5   XRA  1-8A      B2.8    3.1E-04   8108
+
+7320       1349   ////      1354  RAM  4   DSF  N25E06    04      B.9A      8108
+
+7300       1350   1352      1359  SAG  G   RBR  245       2400              8108
+7300 +     1357   1402      1412  RAM  4   FLA  N24E05    SF      HSS       8108
+
+7330       1510   1510      1510  SAG  U   RBR  245       52
+
+7310 +     1518   1809      1845  SAG  G   RNS  245       210
+
+7410       1700   1910      2140  GO9  5   XRA  1-8A      C1.6    1.8E-02
+7410 +     1730   1732      1733  SAG  G   RBR  410       130
+7410 +     1800   1801      1803  SAG  U   RBR  245       420
+
+7420       1824   ////      2053  SAG  C   RSP  030-06    CTM/1
+
+7410 +     2135   ////      2220  CUL  C   RSP  400-90    IV/1
+
+7460       2135   ////            CUL  C   RSP  20-120    CTM/1
+
+7410 +     2136   2138      2140  PAL  G   RBR  606       57
+
+7450      U2156  U2156      2215  LEA  G   RBR  410       210
+7450      U2156  U2208      2303  LEA  G   RBR  606       100
+
+7480       2253   ////      1028  LEA  C   RSP  030-08    CTM/2

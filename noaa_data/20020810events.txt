@@ -1,0 +1,59 @@
+:Product: 20020810events.txt
+:Created: 2002 Aug 13 0300 UT
+:Date: 2002 08 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Aug 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 960 +     0234   0235      0236  LEA  G   RBR  245       100                   
+
+ 970       0240   0240      0240  LEA  G   RBR  245       160                   
+
+ 980       0245   0246      0246  LEA  G   RBR  245       120                   
+
+ 990       0258   0258      0258  LEA  G   RBR  245       91                    
+
+1020 +     0308   0330      1035  COM  G   RNS  245       360                   
+
+1000       0340   0340      0340  LEA  G   RBR  410       51                    
+
+1010       0344   0344      0346  LEA  G   RBR  410       56                    
+
+1040       0415   ////      1344  SVI  C   RSP  025-180   CTM/1                 
+
+1020       0600   ////      1200  IZM  F   RNS  204       10                    
+
+1050 +     0757   ////      0758  LEA  C   RSP  025-180   III/1                 
+
+1060 +     0802   ////      0803  LEA  C   RSP  025-180   III/1                 
+
+1070 +     0941   0945      0949  GO8  5   XRA  1-8A      C2.0    7.8E-04       
+
+1080       1000   ////      1000  SVI  C   RSP  025-065   III/1                 
+
+1090       1419   1419      1422  SAG  G   RBR  245       61                    
+
+1100       1424   1425      1426  SAG  G   RBR  245       69                    
+
+1110 +     1614   ////      1615  SVI  C   RSP  025-180   III/1                 
+
+1250      A1657   ////     B1047  RAM  3   DSF  ////      25      B.0A      0000
+
+1420      A1807   ////     B1242  HOL  3   DSF  ////      48      B.0A      0000
+
+1120       1956   1956      1956  SAG  G   RBR  410       65                    
+1120       1956   1956      1956  SAG  G   RBR  606       38                    
+
+1130 +     2007   2010      2017  GO8  5   XRA  1-8A      C1.4    7.8E-04       
+
+1140 +     2042   ////      2042  HOL  C   RSP  025-149   III/1                 
+
+1150       2237   2237      2237  SAG  G   RBR  245       53                    
+
+1170       2309   ////      0950  LEA  C   RSP  025-180   CTM/1                 

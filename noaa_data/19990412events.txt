@@ -1,0 +1,28 @@
+:Product: 19990412events.txt
+:Created: 1999 Apr 15 0302 UT
+:Date: 1999 04 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5790 +     0550   0554      0605  GO8  5   XRA  1-8A      B4.0    3.3E-04   8508
+5790       0551   0557      0603  SVI  3   FLA  N24W39    SF                8508
+
+5800      B1130  U1131     A1145  RAM  3   FLA  S33E16    SF                    
+
+5810 +     1723   1738      1745  GO8  5   XRA  1-8A      C1.2    1.1E-03       
+5810 +     1726   1738      1752  RAM  3   FLA  S35E13    SF                    
+
+5820       1946   1947      1957  RAM  3   FLA  S33E08    SF                    
+
+5830       2003   2009      2018  RAM  3   FLA  S33E11    SF                    
+
+5840       2033   2037      2037  RAM  3   FLA  S33E10    SF                    
+
+5880      A2034   ////      1058  RAM  3   DSF  N16E00    12      B.0A          

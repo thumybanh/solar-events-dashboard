@@ -1,0 +1,48 @@
+:Product: 20040504events.txt
+:Created: 2004 May 07 0302 UT
+:Date: 2004 05 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 May 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7650       0005   0018      0024  G12  5   XFL  S13W62    7.3E+02 1.4E+03   0601
+
+7660       0149   ////      0150  CUL  C   RSP  18-100    III/1                 
+
+7670 +     0401   ////      0401  CUL  C   RSP  120-250   III/1                 
+
+7680 +     0918   0922      0924  G12  5   XRA  1-8A      B2.5    7.2E-05       
+7680       0920   0920      0920  SVI  G   RBR  245       77                    
+7680       0920   ////      0920  SVI  C   RSP  025-079   III/1                 
+7680       0921   0922      0923  G12  5   XFL  S12E09    1.8E+02 3.6E+02       
+
+7690       1104   ////      1105  SVI  C   RSP  025-077   III/1                 
+
+7700       1124   ////      1125  SVI  C   RSP  025-083   III/1                 
+
+7710       1323   ////      1323  SVI  U   RSP  025-153   III/1                 
+
+7720       1335   ////      1335  SVI  U   RSP  025-070   III/1                 
+
+7730 +     1420   ////      1421  SVI  C   RSP  025-126   III/1                 
+
+7740 +     1558   1609      1620  G12  5   XRA  1-8A      B2.8    2.7E-04   0601
+7740       1601   1608      1619  G12  5   XFL  S13W70    3.8E+02 7.5E+02   0601
+7740       1606   ////      1606  SVI  C   RSP  025-180   III/1             0601
+
+7750 +     1630   ////      1631  HOL  C   RSP  025-087   III/1                 
+
+7760 +     1653   1702      1711  G12  5   XRA  1-8A      B2.3    2.1E-04   0605
+7760       1657   1710      1710  G12  5   XFL  S12E05    2.0E+02 3.8E+02   0605
+
+7770       1730   ////      1730  HOL  C   RSP  025-063   III/1                 
+
+7790       2152   ////      2153  CUL  C   RSP  20-180    III/3                 
+
+7780 +     2200   ////      2200  CUL  C   RSP  20-140    III/3                 

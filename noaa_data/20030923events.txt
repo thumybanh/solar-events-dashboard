@@ -1,0 +1,20 @@
+:Product: 20030923events.txt
+:Created: 2003 Sep 26 0302 UT
+:Date: 2003 09 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Sep 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8250       0615   0615      0619  LEA  3   FLA  N03E38    SF                0464
+
+8260 +     1139   1144      1149  G12  5   XRA  1-8A      B8.0    4.1E-04       
+
+8270 +     1440   1444      1452  G12  5   XRA  1-8A      C2.1    1.0E-03   0464
+8270       1443   1443      1448  SVI  3   FLA  N01E42    SF                0464
+8270       1451   1451      1453  SAG  G   RBR  8800      60                0464

@@ -1,0 +1,23 @@
+:Product: 20010118events.txt
+:Created: 2001 Jan 21 0302 UT
+:Date: 2001 01 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5680       0514   ////      0517  CUL  C   RSP  23-90     III/1                 
+
+5640       0648   0648      0649  SVI  G   RBR  245       83                    
+5640       0649   ////      0649  CUL  C   RSP  35-250    III/1                 
+
+5650 +     1252   1256      1305  GO8  5   XRA  1-8A      C1.0    7.7E-04       
+
+5660       1525   1634      1725  GO8  5   XRA  1-8A      C2.9    1.3E-02       
+
+5800       2240   2320      2335  GO8  5   XRA  1-8A      C1.3    2.6E-03       

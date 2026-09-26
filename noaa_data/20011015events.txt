@@ -1,0 +1,61 @@
+:Product: 20011015events.txt
+:Created: 2001 Oct 18 0302 UT
+:Date: 2001 10 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Oct 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3290       0215   ////      0215  LEA  C   RSP  025-159   III/2                 
+
+3300 +     0221   0233      0239  GO8  5   XRA  1-8A      C2.4    2.2E-03       
+
+3310       0311   ////      0312  LEA  C   RSP  025-159   III/2                 
+3310 +     0312   0320      0326  GO8  5   XRA  1-8A      C2.5    1.7E-03       
+
+3320 +     0457   0513      0526  GO8  5   XRA  1-8A      C3.4    4.7E-03       
+
+3330 +     0546   0550      0555  GO8  5   XRA  1-8A      C2.0    1.0E-03       
+3330 +     0547   0548      0548  LEA  G   RBR  15400     110                   
+3330 +     0548   0548      0550  LEA  G   RBR  8800      25                    
+
+3390       0600   0000      1200       F   RNS  204       15                    
+
+3340       0751  U0751      0831  SVI  3   FLA  N17E25    SF      ERU       9661
+3340 +     0812   ////      0812  LEA  C   RSP  032-142   III/1             9661
+
+3350       1037   1037      1042  SVI  3   FLA  N24E69    SF                9667
+
+3360       1126   ////      1151  SVI  U   RSP  025-180   CTM/1                 
+3360       1133   1133      1133  SAG  G   RBR  245       72                    
+
+3390       1133   1133      1151  SVI  G   RNS  245       85                    
+
+3370 +     1237   1242      1245  SVI  G   RBR  245       59                    
+
+3380       1248   1249      1249  SAG  G   RBR  245       54                    
+
+3410       1258   1300      1317  SVI  3   FLA  N16E22    SF                9661
+
+3420       1323   ////      1324  SVI  U   RSP  032-081   III/1                 
+
+3490 +    A1507   ////     B0611  SVI  3   DSF  S33W35    11      B.0A          
+
+3430       1512   1512      1512  SAG  G   RBR  245       94                    
+
+3440       1516   1518      1532  HOL  3   FLA  N24E67    SF      DSD       9667
+
+3450 +     1611   1618      1625  GO8  5   XRA  1-8A      C3.7    2.5E-03   9661
+3450       1614   1616      1643  HOL  3   FLA  N16E24    SF      ERU       9661
+
+3460       1749   ////      1752  SAG  C   RSP  030-065   III/1                 
+
+3470 +     1952   ////      1954  HOL  C   RSP  025-141   III/1                 
+3470       1954   1954      1954  PAL  G   RBR  245       100                   
+
+3480       2229   2230      2235  HOL  3   FLA  N11E69    SF                9669

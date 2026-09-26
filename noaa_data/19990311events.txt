@@ -1,0 +1,103 @@
+:Product: 19990311events.txt
+:Created: 1999 Mar 14 0303 UT
+:Date: 1999 03 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9990 +     0004   0009      0011  GO8  5   XRA  1-8A      C8.7    1.6E-03   8483
+9990 +     0005   0009      0016  HOL  3   FLA  S17W63    SF      DSD       8483
+9990 +     0005   ////      0010  CUL  C   RSP  18-180    III/2             8483
+
+10         0019   0021      0035  HOL  3   FLA  S18W64    SF      DSD       8483
+
+20   +     0104   ////      0104  CUL  C   RSP  30-90     III/1                 
+
+30   +     0155   0158      0200  GO8  5   XRA  1-8A      B5.8    1.5E-04       
+
+40   +     0212   ////      0214  LEA  C   RSP  030-06    III/2                 
+
+50   +     0320   ////      0321  LEA  C   RSP  030-05    III/2                 
+
+60   +     0425   ////      0425  CUL  C   RSP  20-120    III/1                 
+
+70         0634   ////      0635  LEA  C   RSP  030-06    III/1                 
+70   +     0634   0644      0649  COM  3   FLA  N16E76    SF      ERU       8487
+70   +     0638   0646      0648  GO8  5   XRA  1-8A      C1.7    7.9E-04       
+
+80         0742   ////      0742  LEA  C   RSP  030-08    III/2                 
+
+90   +     0746   0748      0751  COM  3   FLA  N16E74    SF                8487
+
+100  +     0819   0824      0833  COM  3   FLA  N16E74    SF      ERU       8487
+100  +     0821   0825      0827  GO8  5   XRA  1-8A      C5.0    8.4E-04   8487
+
+180        0824   0825      0829  LEA  3   FLA  S20W70    SF      ERU       8483
+
+110        0911   0922      0925  GO8  5   XRA  1-8A      B7.2    5.1E-04       
+
+120  +     0926   0936      0948  COM  3   FLA  N17E71    SF      ERU       8487
+
+130  +     1002   1006      1009  GO8  5   XRA  1-8A      C2.0    6.1E-04       
+130        1003   ////      1010  LEA  C   RSP  030-08    III/2                 
+
+140       B1123  U1125     A1135  RAM  2   FLA  N20E33    SF                8485
+140        1126   ////      1126  SAG  C   RSP  035-05    III/1             8485
+
+150  +     1142   1147      1151  GO8  5   XRA  1-8A      B9.3    3.9E-04       
+150        1145   ////      1146  SAG  C   RSP  030-08    III/2                 
+
+160  +     1154   1157      1159  GO8  5   XRA  1-8A      C2.0    3.7E-04   8487
+160  +     1155   1156      1159  COM  G   RBR  245       1700              8487
+160  +     1155   ////      1159  COM  C   RSP  030-08    III/2             8487
+160  +     1156   1156      1157  COM  G   RBR  410       310               8487
+160  +     1158   1159      1204  COM  3   FLA  N15E71    SF      DSD       8487
+
+170        1207   1207      1214  RAM  3   FLA  N20E33    SF                8485
+
+160  +     1207   ////      0000  COM  3   BSL  N18E88    0.16    B.7A      8487
+
+190  +     1312   1324      1335  COM  3   FLA  N14E71    SF      ERU       8487
+190        1324   ////      1331  SAG  C   RSP  030-08    III/1                 
+
+200  +     1414   1414      1430  COM  3   FLA  N14E71    SF      DSD       8487
+
+210  +     1503   1503      1508  COM  3   FLA  N14E70    SF      DSD       8487
+
+220        1532   1533      1538  RAM  3   FLA  S20W68    SF                8483
+
+230  +     1544   1545      1548  COM  3   FLA  N14E70    SF                8487
+
+240        1620   1620      1626  RAM  3   FLA  S30W57    SF                8477
+
+260        1658   1659      1710  RAM  4   FLA  S20W71    SF                8483
+
+270  +     1714   1717      1719  GO8  5   XRA  1-8A      C2.8    3.7E-04   8483
+270        1716   1717      1722  RAM  4   FLA  S18W70    SN      DSD       8483
+270        1716   ////      1717  PAL  C   RSP  025-07    III/1             8483
+
+280  +     1914   1918      1921  GO8  5   XRA  1-8A      B8.8    3.4E-04       
+280  +     1915   1918      1924  COM  3   FLA  N17E68    SF                8487
+
+290        1947   ////      1959  PAL  C   RSP  025-07    III/1             8483
+290       B1959   2001      2003  RAM  3   FLA  S19W77    SF      DSD       8483
+
+300  +     2030   2034      2036  GO8  5   XRA  1-8A      C6.1    8.0E-04   8487
+300        2032   2033      2033  SAG  G   RBR  245       120               8487
+300        2032   2033      2037  HOL  3   FLA  N16E64    SF                8487
+
+310  +     2041   2046      2048  GO8  5   XRA  1-8A      C1.4    3.9E-04       
+
+320        2109   ////      2109  PAL  C   RSP  025-07    III/1                 
+
+330        2248   ////      2248  PAL  C   RSP  025-05    III/1                 
+
+340        2255   2257      2303  HOL  3   FLA  N17E63    SF                8487
+
+350  +     2333   2336      2346  HOL  3   FLA  N16E63    SF                8487

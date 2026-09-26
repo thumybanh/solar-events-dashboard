@@ -1,0 +1,61 @@
+:Product: 20001016events.txt
+:Created: 2000 Oct 19 0302 UT
+:Date: 2000 10 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7260 +     0010   ////      0010  LEA  C   RSP  025-180   III/1                 
+
+7270 +     0532   0549      0623  GO8  5   XRA  1-8A      C7.0    1.7E-02       
+
+7280       0640   0728      0911  GO8  5   XRA  1-8A      M2.5    1.6E-01       
+7280 +     0647   ////      0000  CUL  C   RSP  30-180    IV/1                  
+7280 +     0656   ////      0700  CUL  C   RSP  30-80     III/1                 
+7280 +     0705   ////      0718  CUL  C   RSP  20-60     II/2                  
+7280 +     0726   0727      0730  LEA  G   RBR  606       60                    
+7280 +     0727   0729      0730  LEA  G   RBR  2695      30                    
+7280 +     0728   0730      0732  LEA  G   RBR  1415      21                    
+7280 +     0728   0728      0729  LEA  G   RBR  4995      26                    
+
+7290       0741   0741      0741  LEA  G   RBR  2695      13                    
+7290       0742   ////      0742  SVI  U   RSP  025-180   III/1                 
+
+7310       0754   ////      0755  SVI  U   RSP  025-075   III/1                 
+
+7330 +     1411   ////      1419  SVI  U   RSP  025-180   III/1                 
+7330       1412   1412      1413  SVI  G   RBR  410       54                    
+
+7340       1708   1712      1716  GO8  5   XRA  1-8A      C1.9    8.7E-04   9199
+7340 +     1710   1711      1717  HOL  3   FLA  N09E52    SF      ERU       9199
+7340       1714   1715      1715  PAL  G   RBR  410       320               9199
+
+7350 +     1748   1748      1748  SAG  G   RBR  245       58                    
+7350 +     1748   1748      1748  SAG  G   RBR  410       36                    
+7350 +     1748   ////      1748  HOL  C   RSP  025-180   III/1                 
+
+7440       2009   ////      2009  CUL  C   RSP  30-90     III/1                 
+
+7360       2020   2020      2026  HOL  3   FLA  N04W73    SF                9193
+
+7380       2039   2048      2110  GO8  5   XRA  1-8A      C1.5    2.7E-03       
+
+7370       2105   2107      2110  HOL  3   FLA  N04W73    SF                9193
+
+7520      A2105   ////      1109  RAM  3   DSF  N47E23    05      B.0A          
+
+7390       2154   2200      2202  GO8  5   XRA  1-8A      C1.6    6.3E-04       
+
+7400 +     2253   2253      2253  PAL  G   RBR  606       200                   
+
+7410 +     2318   ////      2318  LEA  C   RSP  025-180   III/1                 
+
+7420       2321  U2322      2328  HOL  3   FLA  S32E46    SF                9198
+
+7430       2354   ////      2354  LEA  C   RSP  025-103   III/1                 

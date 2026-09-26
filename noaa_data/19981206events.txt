@@ -1,0 +1,56 @@
+:Product: 19981206events.txt
+:Created: 1998 Dec 09 0302 UT
+:Date: 1998 12 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9450 +     0004   0008      0013  GO8  5   XRA  1-8A      C1.2    5.5E-04       
+
+9460 +     0115   ////      0117  LEA  C   RSP  030-08    III/2                 
+
+9690       0155   ////      0155  CUL  C   RSP  25-160    III/1                 
+
+9470       0156   ////      0157  LEA  C   RSP  030-08    III/2                 
+
+9490       0254   ////      0311  LEA  C   RSP  030-08    CTM/1                 
+
+9480 +     0255   0300      0306  GO8  5   XRA  1-8A      B9.3    5.5E-04       
+
+9490       0310   ////      0311  CUL  C   RSP  23-90     III/1                 
+
+9500 +     0333   0339      0345  GO8  5   XRA  1-8A      C1.6    8.3E-04       
+
+9510 +     0433   ////      0436  LEA  C   RSP  030-08    III/2                 
+
+9520 +     0514   ////      0514  LEA  C   RSP  030-05    III/2                 
+
+9530 +     0738   0750      0804  GO8  5   XRA  1-8A      C1.6    2.0E-03       
+
+9540 +     1440   1446      1452  GO8  5   XRA  1-8A      C1.0    6.3E-04   8402
+9540 +     1442   1442      1446  HOL  3   FLA  N19E02    SF                8402
+
+9550       1515   1516      1518  HOL  3   FLA  N22W60    SF                8398
+
+9560 +     1600   1612      1635  GO8  5   XRA  1-8A      C1.2    2.3E-03   8397
+9560 +     1601   1610      1631  HOL  3   FLA  S16E68    SF                8397
+9560       1635   1635      1635  SAG  G   RBR  245       210               8397
+
+9570 +     1904   1906      1909  HOL  3   FLA  N14E01    SF                8402
+
+9870      A1959   ////      1159  RAM  3   DSF  N17E63    14      B.0A          
+
+9700       2059   ////      2059  CUL  C   RSP  25-90     III/1                 
+
+9580       2324   2325      2330  LEA  G   RBR  245       60                    
+9580 +     2326   ////      2327  CUL  C   RSP  23-90     III/1                 
+
+9590 +     2341   ////      2343  CUL  C   RSP  18-130    III/2                 
+
+9600 +     2343   2352      0001  GO8  5   XRA  1-8A      C1.6    1.4E-03       

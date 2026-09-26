@@ -1,0 +1,50 @@
+:Product: 20240213events.txt
+:Created: 2024 Feb 16 0357 UT
+:Date: 2024 02 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Feb 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9880 +     0025   ////      0038  LEA  C   RSP  025-180   VI/2                  
+
+9890 +     0132   0138      0145  G16  5   XRA  1-8A      C4.9    2.9E-03   3583
+9890       0137   0137      0138  LEA  3   FLA  N12E24    SF                3583
+
+9900       0153   0153      0153  PAL  G   RBR  245       170                   
+
+9910       0205   0205      0205  PAL  G   RBR  245       140                   
+
+9920       0444   ////      0444  LEA  C   RSP  067-180   III/1                 
+
+9930       0530   ////      0530  LEA  C   RSP  068-180   III/1                 
+
+9940 +     0728   0759      0816  G16  5   XRA  1-8A      C5.0    1.1E-02       
+9940       0738   ////      0756  LEA  C   RSP  025-180   VI/1                  
+9940       0744   ////      0746  SVI  C   RSP  059-180   III/1                 
+
+9950       1159   ////      1200  SVI  C   RSP  114-168   III/1                 
+
+9960 +     1212   1219      1223  G16  5   XRA  1-8A      C3.1    1.5E-03   3583
+
+9970 +     1305   1312      1329  G16  5   XRA  1-8A      C1.8    2.5E-03   3576
+
+9990       1406   ////      1419  SVI  C   RSP  025-121   VI/1                  
+
+9980       1406   ////      1406  SAG  C   RSP  025-069   III/1                 
+
+  10 +     1656   1706      1714  G16  5   XRA  1-8A      C3.1    2.6E-03   3576
+  10       1657   ////      1702  SAG  C   RSP  117-180   III/1                 
+
+  20       1853   ////      1853  PAL  C   RSP  065-095   III/1                 
+  20       1853   1853      1853  PAL  G   RBR  245       100                   
+
+  30 +     1949   1957      2009  G16  5   XRA  1-8A      C3.3    3.7E-03   3576
+  30       1954   1956      2004  HOL  3   FLA  S14W44    SF      ERU       3576
+
+  40       2052   2052      2052  PAL  G   RBR  245       110                   

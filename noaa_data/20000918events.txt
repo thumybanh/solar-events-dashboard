@@ -1,0 +1,96 @@
+:Product: 20000918events.txt
+:Created: 2000 Sep 21 0302 UT
+:Date: 2000 09 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Sep 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+60        A0034   ////      1335  HOL  3   DSF  N14W60    30      B.0A          
+
+9890 +     0113   0133      0137  GO8  5   XRA  1-8A      C3.0    3.2E-03       
+9890       0115   0115      0115  LEA  G   RBR  4995      22                    
+
+9900       0217   0217      0218  LEA  G   RBR  245       67                    
+
+9910 +     0244   0249      0251  GO8  5   XRA  1-8A      C2.3    8.5E-04   9167
+9910       0246   0246      0247  LEA  G   RBR  410       56                9167
+9910       0247   0249      0253  LEA  4   FLA  N12E69    SF                9167
+
+9920 +     0333   0336      0338  GO8  5   XRA  1-8A      C3.2    6.7E-04   9165
+9920       0334   0336      0345  LEA  4   FLA  N15W33    SF                9165
+
+9930       0408   0414      0445  LEA  G   RBR  4995      10                    
+9930       0408   0415      0455  LEA  G   RBR  8800      36                    
+9930       0408   0415      0455  LEA  G   RBR  8800      4                     
+
+9940       0518   0529      0556  GO8  5   XRA  1-8A      C3.2    3.3E-03   9166
+9940       0519   0530      0535  LEA  3   FLA  S10E35    SF      ERU       9166
+9940 +     0528   0528      0529  LEA  G   RBR  606       66                9166
+9940 +     0529   0529      0529  LEA  G   RBR  410       620               9166
+9940       0529   0529      0530  SVI  G   RBR  245       20                9166
+
+9950       0554   0554      0556  SVI  G   RBR  245       92                    
+9950       0554   0554      0556  SVI  G   RBR  410       23                    
+
+9970       0626   ////      1106  SVI  C   RSP  025-075   CTM/1                 
+
+20         0637   ////      1145  SVI  3   DSF  N28W41    30      B.9A          
+
+9960       0700   0701      0708  LEA  3   FLA  N11E68    SF                9167
+
+30         0759   0806      0820  GO8  5   XRA  1-8A      C1.9    2.1E-03       
+
+9980       0837   ////      0838  SVI  C   RSP  025-047   III/1                 
+
+190       A0848   ////      2340  LEA  4   DSF  N20W56    16      B.0A          
+
+9990       0900   0901      0908  SVI  3   FLA  S12E30    SF      ERU       9166
+
+10   +     1219   1231      1242  GO8  5   XRA  1-8A      C3.3    4.1E-03   9167
+10         1227   1230      1244  RAM  3   FLA  N12E63    SF      ERU       9167
+
+40         1342   1344      1349  HOL  3   FLA  N13E64    SF                9167
+
+50         1352   1352      1356  HOL  3   FLA  N14E65    SF                9167
+
+70         1444   1449      1545  HOL  3   FLA  S13E31    SF      ERU       9166
+
+90         1513   1514      1522  HOL  3   FLA  N11E63    SF      ERU       9167
+
+80         1634   ////      1634  HOL  C   RSP  070-090   III/1                 
+
+100        1854   1857      1915  HOL  3   FLA  S10E26    SF      ERU       9166
+
+110        2018   2107      2200  HOL  3   FLA  S14E27    1F                9166
+
+200        2030   2034      2105  HOL  3   FLA  N15E61    SF      ERU       9167
+
+110  +     2105   2114      2129  GO8  5   XRA  1-8A      C5.7    6.7E-03   9166
+
+120        2215   2222      2242  HOL  3   FLA  S11E24    SF      ERU       9166
+120  +     2217   2223      2228  GO8  5   XRA  1-8A      C4.3    2.4E-03   9166
+120        2224   ////      2225  HOL  C   RSP  025-162   III/1             9166
+
+130        2322   ////      2322  LEA  C   RSP  090-180   III/1                 
+
+140        2330   2332      2343  HOL  3   FLA  N14E59    SF                9167
+
+150        2341   2350      2352  LEA  G   RBR  4995      34                9166
+150        2341   2350      2355  LEA  G   RBR  8800      45                9166
+
+210        2343   2353      2357  HOL  3   FLA  N14E59    SF                9167
+
+150        2346   2353      2353  LEA  G   RBR  2695      13                9166
+150        2346   2352      2352  LEA  G   RBR  15400     12                9166
+150  +     2347   2352      2356  GO8  5   XRA  1-8A      C8.6    3.2E-03   9166
+
+220  +     2348   2353      0005  HOL  3   FLA  N15W38    1F      ERU       9165
+
+150  +     2350   2351      0029  HOL  3   FLA  S14E25    1F      ERU       9166
+150  +     2353   ////      2354  HOL  C   RSP  025-180   III/1             9166

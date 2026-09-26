@@ -1,0 +1,25 @@
+:Product: 20020118events.txt
+:Created: 2002 Jan 21 0300 UT
+:Date: 2002 01 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9570       0406   ////      0408  LEA  C   RSP  025-104   III/1                 
+
+9580       1153   1201      1208  GO8  5   XRA  1-8A      C1.7    1.5E-03       
+9580       1156   1156      1210  SVI  3   FLA  N18E24    SF      ERU           
+
+9690      A1459   ////     B1135  SVI  3   DSF  N30E13    40      B.0A          
+
+9610       1520   1606      1621  GO8  5   XRA  1-8A      C2.6    7.7E-03       
+
+9590       1953   ////      1953  HOL  C   RSP  054-151   III/1                 
+
+9600 +     1954   1954      1954  PAL  G   RBR  245       79                    

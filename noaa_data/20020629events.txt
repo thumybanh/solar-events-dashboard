@@ -1,0 +1,49 @@
+:Product: 20020629events.txt
+:Created: 2002 Jul 02 0300 UT
+:Date: 2002 06 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8600 +     0022   0034      0037  GO8  5   XRA  1-8A      C2.6    1.1E-03       
+8600       0030   0030      0030  LEA  G   RBR  606       59                    
+8600       0030   ////      0032  LEA  C   RSP  025-180   III/1                 
+
+8710       0414   0419      0424  GO8  5   XRA  1-8A      B6.1    3.2E-04       
+
+8610       0513   ////      0513  SVI  C   RSP  025-059   III/1                 
+
+8620       0600   ////      0600  SVI  U   RSP  025-082   III/1                 
+
+8630 +     0637   0640      0643  GO8  5   XRA  1-8A      C1.2    3.9E-04       
+
+8640       0651   ////      0652  SVI  C   RSP  025-074   III/1                 
+
+8650 +     0724   0728      0732  GO8  5   XRA  1-8A      B7.0    2.9E-04       
+
+8660 +     0846   0851      0859  GO8  5   XRA  1-8A      B9.0    6.0E-04       
+
+8670 +     0927   0933      0937  GO8  5   XRA  1-8A      C2.0    8.7E-04       
+8670       0929   0929      0929  SVI  G   RBR  410       110                   
+8670       0929   0929      0929  SVI  G   RBR  1415      34                    
+8670       0930   0930      0930  SVI  G   RBR  245       100                   
+
+8680 +     1247   1253      1257  GO8  5   XRA  1-8A      B8.4    4.2E-04       
+
+8790      A1533   ////     B0455  SVI  3   DSF  S34W13    12      B.0A      0000
+
+8720       1540   1550      1559  GO8  5   XRA  1-8A      C1.1    1.1E-03       
+
+8690       1731   1732      1745  RAM  3   FLA  N15W70    SF                0018
+
+8740       1745   1748      1751  GO8  5   XRA  1-8A      B7.5    2.4E-04       
+
+8700       2042   ////      2042  PAL  C   RSP  025-087   III/1                 
+
+8730       2155   2155      2155  SAG  G   RBR  245       50                    

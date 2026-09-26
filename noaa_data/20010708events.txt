@@ -1,0 +1,44 @@
+:Product: 20010708events.txt
+:Created: 2001 Jul 11 0302 UT
+:Date: 2001 07 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jul 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8660       0111   ////      0126  CUL  C   RSP  55-160    III/1                 
+
+8550 +     0119   0127      0134  GO8  5   XRA  1-8A      B4.6    3.5E-04       
+
+8560 +     0145   0150      0154  GO8  5   XRA  1-8A      B4.0    1.9E-04       
+
+8670       0621   ////      0621  CUL  C   RSP  55-150    III/1                 
+
+8570       1110   1113      1115  G10  5   XRA  1-8A      B3.4    8.9E-05       
+
+8580 +     1134   1141      1146  GO8  5   XRA  1-8A      C2.5    1.1E-03       
+8580 +     1138   ////      1141  SVI  C   RSP  025-180   III/1                 
+8580 +     1139   1139      1139  SVI  G   RBR  245       110                   
+
+8590 +     1331   1349      1358  GO8  5   XRA  1-8A      C1.2    1.5E-03       
+8590 +     1340   1350      1403  HOL  3   FLA  S06E26    SF                    
+
+8600 +     1434   1437      1439  GO8  5   XRA  1-8A      B6.7    1.6E-04   9531
+8600       1437   1438      1442  HOL  3   FLA  S06E25    SF                9531
+
+8610 +     1606   1619      1629  GO8  5   XRA  1-8A      C3.4    3.1E-03   9531
+8610 +     1611   1619      1634  RAM  3   FLA  S07E23    SF      ERU       9531
+
+8620 +     1658   1702      1708  GO8  5   XRA  1-8A      C1.1    5.3E-04   9531
+8620 +     1702   1703      1708  RAM  3   FLA  S07E24    SF      ERU       9531
+
+8630 +     2026   2037      2048  GO8  5   XRA  1-8A      C1.3    1.4E-03       
+
+8640 +     2133   ////      2134  HOL  C   RSP  025-053   III/1                 
+
+8650 +     2159   2204      2208  GO8  5   XRA  1-8A      C1.3    5.1E-04       

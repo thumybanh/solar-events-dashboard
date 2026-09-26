@@ -1,0 +1,49 @@
+:Product: 19991102events.txt
+:Created: 1999 Nov 05 0302 UT
+:Date: 1999 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8580 +     0037   0043      0052  GO8  5   XRA  1-8A      C2.8    2.0E-03       
+8580       0038   ////      0038  LEA  C   RSP  030-08    III/1                 
+
+8600       0143   ////      0144  LEA  C   RSP  030-05    III/1                 
+
+8610 +     0158   0202      0206  GO8  5   XRA  1-8A      C1.1    4.5E-04       
+
+8710       0452   ////      0457  CUL  C   RSP  18-90     III/2                 
+
+8720       0503   ////      0503  CUL  C   RSP  23-90     III/1                 
+
+8620 +     0558   0602      0604  GO8  5   XRA  1-8A      B6.9    2.1E-04       
+8620 +     0559   ////      0602  LEA  C   RSP  030-08    III/3                 
+
+8630 +     0613   0617      0620  GO8  5   XRA  1-8A      C1.0    3.2E-04       
+8630 +     0614   0615      0615  LEA  G   RBR  245       280                   
+8630 +     0615   ////      0616  CUL  C   RSP  18-260    III/3                 
+8630       0616   ////      0618  CUL  C   RSP  20-90     V/2                   
+
+8640 +     0659   0659      0659  LEA  G   RBR  245       130                   
+
+8650 +     0829   ////      0830  LEA  C   RSP  030-07    III/2                 
+
+8660 +     0942   0949      0952  GO8  5   XRA  1-8A      C1.4    7.0E-04   8749
+8660 +     0947   0948      0955  SVI  3   FLA  S19W03    SF                8749
+
+8670       1226   ////      1229  SVI  C   RSP  035-07    V/2                   
+8670       1227   ////      1228  SAG  C   RSP  030-05    III/1                 
+
+8680 +     1246   1250      1255  RAM  3   FLA  S19W04    SF                8749
+
+8690 +     1316   1321      1327  GO8  5   XRA  1-8A      C1.4    6.9E-04       
+
+8700 +     1420   ////      1421  SAG  C   RSP  030-04    III/2                 
+
+8730       2317   ////      2317  CUL  C   RSP  20-90     III/1                 

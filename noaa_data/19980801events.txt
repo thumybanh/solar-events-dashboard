@@ -1,0 +1,46 @@
+:Product: 19980801events.txt
+:Created: 1998 Aug 04 0302 UT
+:Date: 1998 08 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Aug 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7510 +     0618   0630      0651  G10  5   XRA  1-8A      B7.8    1.2E-03   8288
+7510       0622   0631      0707  SVI  3   FLA  S19E44    1F      ERU       8288
+7510 +     0631   ////      0655  SVI  C   RSP  035-08    II/3    600       8288
+
+7520 +     0658   ////      0706  SVI  C   RSP  035-04    IV/3                  
+
+7530       0753   ////      0753  SVI  C   RSP  046-05    III/1                 
+
+7550 +     1131   1137      1141  G10  5   XRA  1-8A      B6.2    2.9E-04       
+
+7560       1145   ////      1146  SVI  U   RSP  035-05    III/3                 
+
+7570 +     1228   ////      1228  SVI  C   RSP  035-05    III/1                 
+
+7580       1326   ////      1326  SVI  C   RSP  035-04    III/1                 
+
+7590 +     1412   ////      1412  SAG  C   RSP  030-06    III/1                 
+
+7610 +     1552   1610      1628  GO8  5   XRA  1-8A      B9.2    1.6E-03       
+
+7600 +     1554   1554      1555  SAG  G   RBR  245       79                    
+
+7610       1621   ////      1621  SVI  U   RSP  035-05    III/1                 
+
+7620 +     1804   1820      1842  G10  5   XRA  1-8A      C3.3    5.1E-03       
+
+7840       2201   ////      2201  CUL  C   RSP  30-90     III/1                 
+
+7640 +     2217   2221      2225  GO8  5   XRA  1-8A      B5.3    2.0E-04       
+
+7650 +     2323   2325      2325  PAL  G   RBR  245       99                    
+
+7670       2323  U2324      2337  LEA  G   RNS  245       77                    

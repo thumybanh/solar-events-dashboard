@@ -1,0 +1,72 @@
+:Product: 20010322events.txt
+:Created: 2001 Mar 25 0302 UT
+:Date: 2001 03 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Mar 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3120 +     0138   ////      0142  CUL  C   RSP  35-150    III/1                 
+
+3130 +     0152   0204      0223  GO8  5   XRA  1-8A      C6.4    9.7E-03       
+
+3140       0508   0515      0526  G10  5   XRA  1-8A      M1.0    7.8E-03       
+
+3150       0553   0553      0554  SVI  G   RBR  410       57                    
+3150 +     0554   0554      0554  SVI  G   RBR  245       74                    
+
+3320       0635   ////      0636  CUL  C   RSP  23-50     III/1                 
+
+3180 +     0709   0821      0825  GO8  5   XRA  1-8A      M1.6    2.2E-02       
+3180 +     0802   ////      0802  LEA  C   RSP  025-180   III/1                 
+
+3190 +     0817   0817      0818  SVI  G   RBR  245       410                   
+3190       0817   0817      0818  SVI  G   RBR  410       58                    
+
+3200 +     0821   0821      0822  SVI  G   RBR  245       130                   
+3200 +     0822   ////      0825  SVI  C   RSP  054-180   II/2    571           
+
+3210 +     0826   ////      0855  LEA  C   RSP  066-111   IV/1                  
+3210       0832   ////      0833  SVI  U   RSP  029-083   III/1                 
+
+3220       0901   ////      0910  SVI  U   RSP  028-065   III/1                 
+
+3230       1025   1026      1027  SVI  G   RBR  410       61                    
+3230       1026   ////      1114  SVI  U   RSP  044-075   CTM/1                 
+
+3240       1045   1046      1048  SVI  3   FLA  N13E52    SF                9390
+
+3250 +     1055   1055      1055  SVI  G   RBR  245       50                9390
+3250       1055  U1056      1059  SVI  3   FLA  N13E54    SF      DSD       9390
+
+3260       1303   1303      1304  SAG  U   RBR  410       57                    
+
+3270       1307   1311      1315  SVI  U   RBR  606       58                9390
+3270       1310   1311      1311  SVI  G   RBR  245       38                9390
+3270 +     1310   1311      1311  SVI  G   RBR  410       200               9390
+3270       1310   1310      1311  SVI  G   RBR  2695      47                9390
+3270       1310   1311      1311  SVI  G   RBR  4995      51                9390
+3270 +     1310   1311      1312  SVI  G   RBR  8800      130               9390
+3270       1310   1311      1312  SVI  G   RBR  15400     110               9390
+3270       1311   1311      1311  SVI  G   RBR  1415      29                9390
+3270 +     1311   ////      1311  SAG  C   RSP  030-052   III/1             9390
+3270 +     1312   1319      1334  GO8  5   XRA  1-8A      M1.0    1.1E-02   9390
+3270      B1316  U1317     A1351  SVI  2   FLA  N13E49    SF      ERU       9390
+
+3280       1349   1349      1350  SVI  U   RBR  245       320                   
+
+3290       1553   1553      1553  SVI  G   RBR  410       78                    
+
+3300 +     1619   1627      1701  GO8  5   XRA  1-8A      C7.8    1.5E-02       
+3300       1650   ////      1650  SAG  C   RSP  030-055   III/1                 
+
+3410       1815   1834      1843  GO8  5   XRA  1-8A      C5.3    6.9E-03       
+
+3330       2032   ////      2038  CUL  C   RSP  60-90     III/1                 
+
+3310 +     2253   2300      2307  GO8  5   XRA  1-8A      C5.7    3.9E-03       

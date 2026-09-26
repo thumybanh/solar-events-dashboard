@@ -1,0 +1,70 @@
+:Product: 20021014events.txt
+:Created: 2002 Oct 17 0300 UT
+:Date: 2002 10 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Oct 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1930       0000   0020      0052  LEA  2   FLA  S13E75    SF      ERU       0159
+1930 +     0002   0004      0027  LEA  G   RBR  4995      45                0159
+1930       0004   ////      0008  CUL  C   RSP  50-100    II/1              0159
+1930       0005   0008      0028  PAL  G   RBR  245       45                0159
+1930 +     0007   ////      0015  CUL  C   RSP  27-120    III/3             0159
+1930 +     0008   0012      0028  LEA  G   RBR  8800      36                0159
+1930       0008   0021      0035  LEA  G   RBR  15400     40                0159
+
+1940       0238   0247      0301  GO8  5   XRA  1-8A      C5.8    7.5E-03   0145
+1940       0246   0248      0315  LEA  3   FLA  N10E11    SF      ERU       0145
+1940 +     0251   ////      0328  PAL  C   RSP  025-180   CTM/1             0145
+1940 +     0256   ////      0256  CUL  C   RSP  23-100    III/1             0145
+1940 +     0302   0303      0303  LEA  G   RBR  245       100               0145
+1940       0307   0310      0312  PAL  G   RBR  410       53                0145
+
+1960       0423   ////      0425  CUL  C   RSP  30-120    III/2                 
+
+1970 +     0603   ////      0603  LEA  C   RSP  025-093   III/1                 
+
+2130       0633   ////      0635  CUL  C   RSP  57-80     III/1                 
+
+1980 +     0646   0649      0653  LEA  G   RBR  606       1200                  
+1980       0646   ////      0654  CUL  C   RSP  400-740   III/1                 
+1980 +     0650   0650      0650  LEA  G   RBR  410       75                    
+
+2140       0705   ////      0717  CUL  C   RSP  30-90     III/1                 
+
+1990 +     0713   ////      0716  LEA  C   RSP  025-074   III/1                 
+
+2000 +     0922   ////      0923  LEA  C   RSP  025-138   III/1                 
+
+2010 +     0931   0945      0959  GO8  5   XRA  1-8A      C4.7    5.8E-03   0159
+2010 +     0931   0935      0958  LEA  2   FLA  S13E60    1F      ERU       0159
+
+2020       1154   1154      1154  SAG  G   RBR  245       51                    
+
+2030 +     1419   1423      1426  GO8  5   XRA  1-8A      C1.3    4.7E-04       
+2030       1423   1428      1432  SAG  G   RBR  245       72                    
+2030       1425   1427      1432  SAG  G   RBR  410       100                   
+2030       1425   1425      1432  SAG  G   RBR  606       130                   
+2030 +     1425   1426      1432  SAG  G   RBR  1415      50                    
+2030 +     1429   ////      1438  HOL  C   RSP  025-180   II/1    743           
+
+2050       1532   ////      1533  SAG  C   RSP  030-055   III/1                 
+
+2060 +     1659   ////      1700  HOL  C   RSP  025-131   III/1                 
+
+2080 +     1741   1743      1745  PAL  G   RBR  245       220                   
+
+2090       1745   ////      1745  HOL  C   RSP  025-180   III/1                 
+2090       1745   1745      1745  SAG  G   RBR  245       150                   
+
+2100       1958   2002      2026  HOL  3   FLA  S10W55    SF                0140
+2100       1958   2010      2021  GO8  5   XRA  1-8A      C4.9    6.4E-03   0140
+
+2120       2317   2322      2331  GO8  5   XRA  1-8A      C3.5    2.7E-03   0149
+2120       2319   2328      2338  LEA  3   FLA  N13E05    SF      ERU       0149

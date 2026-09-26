@@ -1,0 +1,46 @@
+:Product: 20000628events.txt
+:Created: 2000 Jul 01 0302 UT
+:Date: 2000 06 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jun 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4740       0006   0006      0006  LEA  G   RBR  245       74                    
+
+4760       0057   ////      0057  LEA  C   RSP  029-11    III/1                 
+
+4770       0211   ////      0212  LEA  C   RSP  075-18    III/1                 
+
+4880       0515   ////      0516  CUL  C   RSP  30-180    III/1                 
+
+4810       0600   0000      1200       F   RNS  204       10                    
+
+4780       0755   0800      0807  LEA  3   FLA  S21W70    SF                9064
+
+4790 +     1215   1219      1224  GO8  5   XRA  1-8A      C6.1    2.2E-03       
+4790       1217   1217      1218  SAG  G   RBR  606       240                   
+4790 +     1217   1217      1218  SVI  G   RBR  1415      120                   
+4790       1217   1218      1218  SVI  G   RBR  4995      25                    
+4790       1217   1217      1218  SVI  G   RBR  8800      27                    
+
+4820       1534   ////      1541  SVI  C   RSP  035-07    III/1                 
+
+4830 +     1647   1653      1700  GO8  5   XRA  1-8A      C2.4    1.4E-03       
+
+4840       1831   ////      2049  HOL  3   EPL  N20W90    0.22    B.0A      9051
+4840 +     1848   1910      1939  GO8  5   XRA  1-8A      C3.7    9.0E-03   9051
+4840 +     1858   ////      1905  SAG  C   RSP  030-08    II/2              9051
+
+4860 +     2109   ////      2109  PAL  C   RSP  025-07    III/1                 
+
+4890       2313   ////      2314  CUL  C   RSP  60-160    III/1                 
+
+4900 +     2339   2340      2340  SAG  U   RBR  245       75                    
+
+4910       2343   ////      2345  CUL  C   RSP  50-180    III/1                 

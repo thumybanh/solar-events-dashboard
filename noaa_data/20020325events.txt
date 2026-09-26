@@ -1,0 +1,50 @@
+:Product: 20020325events.txt
+:Created: 2002 Mar 28 0300 UT
+:Date: 2002 03 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4490       0038   ////      0038  CUL  C   RSP  57-180    III/1                 
+
+4500 +     0113   0118      0123  GO8  5   XRA  1-8A      C1.3    7.2E-04       
+
+4510 +     0135   0140      0144  GO8  5   XRA  1-8A      C2.0    8.0E-04       
+
+4520 +     0254   0300      0306  GO8  5   XRA  1-8A      C2.0    1.2E-03       
+
+4530 +     0522   ////      0523  LEA  C   RSP  042-101   III/1                 
+
+4540 +     0629   0634      0641  GO8  5   XRA  1-8A      C2.8    1.6E-03       
+4540 +     0637   ////      0637  LEA  C   RSP  045-102   III/1                 
+
+4550 +     1031   1039      1045  GO8  5   XRA  1-8A      C6.0    3.2E-03   9878
+4550      B1034   1038      1053  SVI  3   FLA  N09E26    SF      ERU       9878
+4550 +     1035   1036      1037  SVI  G   RBR  2695      57                9878
+4550       1036   1036      1037  SVI  G   RBR  1415      34                9878
+4550       1036   1036      1037  SVI  G   RBR  4995      29                9878
+
+4560       1050   ////      1050  SVI  C   RSP  030-043   III/1                 
+
+4570 +     1124   1127      1131  GO8  5   XRA  1-8A      C2.1    7.8E-04       
+4570       1126   1127      1128       F   RBR  3000      8                     
+
+4580       1322   1322      1322  SAG  G   RBR  245       68                    
+4580       1322   ////      1325  SVI  U   RSP  110-180   III/1                 
+
+4590 +     1401   1405      1410  GO8  5   XRA  1-8A      B9.9    4.8E-04       
+
+4600 +     1552   1600      1609  GO8  5   XRA  1-8A      C1.8    1.6E-03   9878
+4600       1555   1555      1610  RAM  3   FLA  N08E21    SF      ERU       9878
+
+4610       1810   1811      1814  RAM  3   FLA  S01W44    SF                9881
+
+4620 +     2001   2008      2012  GO8  5   XRA  1-8A      C9.8    3.6E-03   9878
+
+4630       2245   ////      0048  LEA  C   RSP  025-052   CTM/1                 

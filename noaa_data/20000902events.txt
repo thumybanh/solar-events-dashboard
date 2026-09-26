@@ -1,0 +1,61 @@
+:Product: 20000902events.txt
+:Created: 2000 Sep 05 0302 UT
+:Date: 2000 09 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Sep 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6640 +    A0046   ////      1150  COM  3   DSF  S33W21    09      B.0A          
+
+6480       0131   ////      0131  LEA  C   RSP  025-109   III/1                 
+
+6490       0205   0340      0411  GO8  5   XRA  1-8A      C2.3    1.2E-02       
+
+6500       0453   ////      0454  SVI  C   RSP  025-180   III/2                 
+6500       0453   0453      0454  SVI  G   RBR  245       810                   
+6500       0453   0453      0454  SVI  G   RBR  410       35                    
+
+6510       0513   ////      0513  SVI  C   RSP  025-049   III/1                 
+
+6530       0545   0545      0546  SVI  G   RBR  245       660                   
+6530       0545   0545      0546  SVI  G   RBR  410       99                    
+
+6540       0559   ////      0600  LEA  C   RSP  025-180   III/2                 
+
+6550       0617   0617      0617  SVI  G   RBR  245       300                   
+
+6560       0629   ////      0629  LEA  C   RSP  033-118   III/1                 
+
+6570       0726   0727      0727  SVI  G   RBR  245       310                   
+6570       0726   ////      0727  SVI  C   RSP  025-177   III/2                 
+6570       0726   0727      0727  SVI  G   RBR  410       39                    
+
+6580       0853   0853      0853  SVI  G   RBR  245       53                    
+6580       0853   0853      0853  SVI  G   RBR  410       140                   
+6580       0853   ////      0853  SVI  C   RSP  025-170   III/2                 
+
+6590       0907   ////      0907  SVI  U   RSP  028-082   III/1                 
+
+6600 +     0937   ////      0943  SVI  C   RSP  025-180   III/3                 
+6600 +     0939   0942      0943  SVI  G   RBR  245       920                   
+
+6610       1024   ////      1025  SVI  U   RSP  028-082   III/1                 
+
+6650 +     1431   ////      1439  SAG  C   RSP  030-080   III/3                 
+
+6660       1524   ////      1525  HOL  C   RSP  025-084   III/1                 
+
+6670       1541   ////      1547  HOL  C   RSP  025-160   III/2                 
+
+6680       1549   ////      1552  HOL  C   RSP  025-166   III/1                 
+6680       1550   1550      1550  SVI  G   RBR  245       81                    
+
+6700 +     1702   ////      1709  HOL  C   RSP  025-086   III/1                 
+
+6710 +     2115   ////      2131  PAL  C   RSP  025-180   III/2                 

@@ -1,0 +1,39 @@
+:Product: 20030729events.txt
+:Created: 2003 Aug 01 0302 UT
+:Date: 2003 07 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jul 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1270 +     0128   0139      0143  G12  5   XRA  1-8A      M1.3    4.7E-03   0421
+1270      B0133  U0137     A0148  LEA  3   FLA  S13E72    1F      ERU       0421
+1270       0135   0136      0136  LEA  G   RBR  606       160               0421
+1270       0136   0136      0136  LEA  G   RBR  2695      34                0421
+
+1280 +     0532   0548      0550  G12  5   XRA  1-8A      C1.0    5.1E-04   0421
+
+1290       0948   1009      1014  G10  5   XRA  1-8A      B3.7    4.8E-04   0422
+
+1300 +     1245   1304      1312  G12  5   XRA  1-8A      B8.0    8.6E-04   0422
+
+1310 +     1449   1454      1459  G12  5   XRA  1-8A      B4.0    1.9E-04   0421
+
+1320 +     1552   1556      1600  G12  5   XRA  1-8A      B3.7    1.3E-04   0421
+1320       1555   1557      1559  HOL  3   FLA  S10E63    SF                0421
+
+1330 +     1633   1641      1646  G12  5   XRA  1-8A      C1.7    7.8E-04   0422
+
+1340 +     1906   1910      1920  G12  5   XRA  1-8A      B2.7    2.0E-04   0422
+
+1350 +     2132   2138      2144  G12  5   XRA  1-8A      B6.1    3.7E-04   0422
+
+1360 +     2257   2303      2309  G12  5   XRA  1-8A      B9.0    5.1E-04   0422
+
+1370 +     2344   2354      0003  G12  5   XRA  1-8A      C1.4    1.1E-03   0422
+1370       2348   2349      0002  HOL  3   FLA  N15W55    SF      DSD       0422

@@ -1,0 +1,85 @@
+:Product: 19990613events.txt
+:Created: 1999 Jun 16 0302 UT
+:Date: 1999 06 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jun 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9840       0023   0025      0027  LEA  3   FLA  S14E56    SF                8583
+
+9850 +     0055   0059      0105  GO8  5   XRA  1-8A      C1.0    5.8E-04       
+9850       0057   0058      0109  LEA  4   FLA  N18W34    SF      BPT       8569
+
+9860       0147   ////      0147  PAL  C   RSP  025-06    III/2                 
+
+9870       0158   0158      0203  LEA  3   FLA  N18W35    SF                8569
+
+9880       0244   0244      0248  LEA  3   FLA  S13E55    SF                8583
+
+9890       0254   ////      0254  PAL  C   RSP  030-05    III/1                 
+
+9900       0301   0304      0308  LEA  4   FLA  S13E55    SF                8583
+
+9910       0416   0416      0420  LEA  3   FLA  N25E16    SF                8582
+
+9920       0431   0431      0435  LEA  3   FLA  N18W37    SF                8569
+
+9930       0438   0441      0446  LEA  3   FLA  N18W37    SF                8569
+
+9940 +     0554   0556      0558  LEA  3   FLA  N18W37    SF                8569
+
+9950 +     0635   0647      0658  GO8  5   XRA  1-8A      C2.9    3.5E-03   8583
+9950 +     0636   0643      0656  SVI  3   FLA  S28W35    SF                8576
+
+30         0637   0644      0648  LEA  3   FLA  S13E53    SF                8583
+
+9960       0700   ////      0700  SVI  U   RSP  035-04    III/2                 
+
+9970       0736   ////      0737  SVI  C   RSP  035-05    III/1                 
+
+9980 +     0739   0743      0745  GO8  5   XRA  1-8A      C2.3    6.4E-04   8569
+9980 +     0740   0743      0755  SVI  3   FLA  N18W40    SF                8569
+
+9990       0815   0816      0820  LEA  3   FLA  N25E14    SF                8582
+
+10         0916   0916      0927  SVI  3   FLA  N25E14    SF                8582
+
+20   +     1118   1119      1122  SVI  3   FLA  N16W43    SF                8569
+
+40   +     1221   1225      1233  GO8  5   XRA  1-8A      C2.1    1.2E-03   8582
+40   +     1224   1225      1244  RAM  3   FLA  N25E11    1F      ERU       8582
+
+50   +     1249   1252      1305  RAM  3   FLA  N17W42    SF                8569
+
+60   +     1306   1311      1315  GO8  5   XRA  1-8A      C2.4    1.0E-03   8569
+60   +     1307   1311      1333  RAM  3   FLA  N17W42    SF                8569
+
+70         1445   1450      1515  RAM  3   FLA  N26E09    SF                8582
+
+80         1529   1529      1533  RAM  3   FLA  S19W40    SF                8571
+
+90   +     1543   1543      1610  RAM  3   FLA  N24E07    SF                8582
+
+100  +     1619   1623      1636  RAM  3   FLA  N25E09    SF                8582
+
+110        1638   1639      1640  SAG  G   RBR  245       59                8569
+110        1638   1638      1644  SVI  3   FLA  N16W46    SF                8569
+110        1639   ////      1640  SVI  U   RSP  036-05    III/1             8569
+110        1644   1657      1706  GO8  5   XRA  1-8A      C1.4    1.7E-03   8569
+
+120  +     1647   1651      1703  RAM  3   FLA  N25E09    SF                8582
+
+290       A1711   ////      1221  RAM  3   DSF  S67E63    48      B.0A          
+
+130        1747   1805      1819  GO8  5   XRA  1-8A      C1.8    2.8E-03       
+
+140        1934   1937      1942  HOL  3   FLA  N26E07    SF      ERU       8582
+
+150        2345   2345      0005  HOL  3   FLA  N19W62    SF                8578
+150        2345   ////      2347  COM  C   RSP  50-130    II/1              8578

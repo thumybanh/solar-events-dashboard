@@ -1,0 +1,44 @@
+:Product: 19990831events.txt
+:Created: 1999 Sep 03 0302 UT
+:Date: 1999 08 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5130 +     0029   0037      0049  LEA  4   FLA  N21W18    SF                8681
+5130 +     0030   0038      0051  GO8  5   XRA  1-8A      C7.3    7.6E-03   8681
+
+5140 +     0541   0554      0624  GO8  5   XRA  1-8A      C8.8    1.7E-02   8681
+5140       0545   0551      0600  LEA  3   FLA  N19W20    SF      ERU       8681
+5140       0612   ////      0708  SVI  C   RSP  070-08    CTM/1             8681
+
+5150 +     0641   ////      0646  CUL  C   RSP  30-90     III/1                 
+
+5160 +     0713   ////      0713  CUL  C   RSP  30-150    III/2                 
+
+5170       0939   0939      0939  SVI  G   RBR  410       56                    
+
+5180       1125   1127      1135  RAM  3   FLA  N19W25    SF                8681
+
+5190 +     1257   1302      1306  GO8  5   XRA  1-8A      C6.9    2.5E-03       
+5190 +     1259   1259      1300  SVI  G   RBR  4995      99                    
+5190 +     1259   1259      1300  SVI  U   RBR  8800      290                   
+5190 +     1259   1259      1300  SAG  G   RBR  15400     270                   
+
+5200       1649   1649      1655  HOL  3   FLA  N22W26    SF                8681
+5200       1649   ////      1650  SAG  C   RSP  030-05    III/1             8681
+
+5210       1719   1741      1831  GO8  5   XRA  1-8A      C3.5    1.1E-02   8681
+5210 +     1722   1731      1822  COM  3   FLA  N19W25    SF      ERU       8681
+
+5230       1958   ////      1959  PAL  C   RSP  028-06    III/1                 
+
+5240 +     2223   2230      2244  GO8  5   XRA  1-8A      C2.0    2.2E-03       
+
+5250       2356   0032      0103  HOL  3   FLA  N08W07    1F                8677

@@ -1,0 +1,41 @@
+:Product: 20051221events.txt
+:Created: 2005 Dec 24 0329 UT
+:Date: 2005 12 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7970       0436   ////      0440  LEA  C   RSP  044-180   III/2                 
+
+7980       0652   ////      0652  LEA  C   RSP  076-180   III/1                 
+
+7990       0806   ////      0807  LEA  U   RSP  040-117   III/1                 
+
+8000       0823   ////      0823  LEA  C   RSP  056-123   III/1                 
+
+8010       1016   ////      1022  SVI  C   RSP  025-077   III/1             0837
+8010 +     1017   1021      1023  G12  5   XRA  1-8A      B1.3    3.8E-05   0837
+8010       1020   1020      1020  G12  5   XFL  S10W27    2.8E+03 6.8E+03   0837
+
+8020 +     1238   1243      1247  G12  5   XRA  1-8A      B1.2    5.7E-05   0837
+8020       1243   1244      1244  G12  5   XFL  S10W28    3.9E+03 1.2E+04   0837
+
+8030 +     1311   1315      1319  G12  5   XRA  1-8A      B4.4    1.4E-04   0835
+8030       1315   1316      1319  G12  5   XFL  N21W81    3.2E+03 1.7E+04   0835
+
+8040       1337   ////      1337  SVI  C   RSP  025-149   III/1                 
+
+8050       1349   ////      1350  SVI  C   RSP  025-180   III/1                 
+8050       1350   1350      1350  SAG  G   RBR  245       52                    
+
+8060       1931   1931      1931  PAL  G   RBR  245       83                    
+
+8070       2254   ////      2255  LEA  C   RSP  077-147   III/1                 
+
+8080       2333   ////      2334  LEA  C   RSP  025-073   III/1                 

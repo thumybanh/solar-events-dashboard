@@ -1,0 +1,20 @@
+:Product: 19990205events.txt
+:Created: 1999 Feb 08 0302 UT
+:Date: 1999 02 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Feb 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2300       0656   ////      1301  SVI  C   RSP  039-05    CTM/1                 
+
+2310       1357   ////      1530  RAM  3   DSF  S62E09    38      B.0A          
+
+2320      B1936   ////      2046  RAM  3   EPL  S50W90    0.45    B.7A          
+
+2330       2359   ////      0000  PAL  C   RSP  025-06    III/2                 

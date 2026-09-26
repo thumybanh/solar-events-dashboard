@@ -1,0 +1,37 @@
+:Product: 19990319events.txt
+:Created: 1999 Mar 22 0302 UT
+:Date: 1999 03 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2630 +     0057   0101      0103  GO8  5   XRA  1-8A      B9.4    2.7E-04       
+
+2640 +     0245   0248      0250  GO8  5   XRA  1-8A      B7.0    1.8E-04       
+
+2650       0547   ////      0547  LEA  C   RSP  030-07    III/2                 
+
+2660       0856   0900      0902  GO8  5   XRA  1-8A      B5.5    1.7E-04       
+2660 +     0857   ////      0858  LEA  C   RSP  030-08    III/2                 
+
+2670       1213   1215      1215  SVI  G   RBR  245       70                    
+
+2680       1307   1308      1308  SAG  G   RBR  8800      420                   
+
+2700 +    B1532   ////      1620  RAM  3   EPL  S58E90    0.3     B.7A          
+
+2720       2009   2010      2014  HOL  3   FLA  S12W02    SF                    
+
+2730       2110   2112      2114  GO8  5   XRA  1-8A      C1.1    1.9E-04   8493
+2730 +     2112   2112      2116  HOL  3   FLA  N20W21    SF                8493
+
+2740 +     2228   2233      2239  GO8  5   XRA  1-8A      B8.0    4.3E-04       
+
+2750 +     2325   2330      2332  GO8  5   XRA  1-8A      C4.9    9.2E-04   8493
+2750       2328   2330      2336  HOL  3   FLA  N20W22    SF                8493

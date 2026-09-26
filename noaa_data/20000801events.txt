@@ -1,0 +1,35 @@
+:Product: 20000801events.txt
+:Created: 2000 Aug 04 0302 UT
+:Date: 2000 08 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8840 +     0337   0346      0354  GO8  5   XRA  1-8A      C2.8    2.1E-03       
+8840       0340   ////      0342  LEA  C   RSP  025-180   V/1                   
+8840       0340   ////      0343  PAL  C   RSP  025-175   III/1                 
+8840 +     0347   ////      0353  CUL  C   RSP  35-100    II/1    750           
+
+8850       0442   0444      0454  LEA  3   FLA  S21E57    SF                9110
+
+8860       1032   ////      1032  SVI  C   RSP  037-050   III/1                 
+
+8870       1316   1323      1329  RAM  3   FLA  N17E18    SF      ERU       9105
+
+8880 +     1351   1354      1356  GO8  5   XRA  1-8A      B7.8    2.0E-04       
+
+8890 +     1719   ////      1719  HOL  C   RSP  025-086   III/1                 
+
+8900 +     1730   ////      1733  HOL  C   RSP  025-138   III/1                 
+
+8910       2014   2015      2015  SAG  G   RBR  245       99                    
+
+8920 +     2116   ////      2119  CUL  C   RSP  30-90     III/1                 
+
+8930       2132   ////      2133  CUL  C   RSP  100-150   III/1                 

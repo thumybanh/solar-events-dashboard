@@ -1,0 +1,58 @@
+:Product: 19990706events.txt
+:Created: 1999 Jul 09 0302 UT
+:Date: 1999 07 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jul 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8320 +     0041   0044      0047  GO8  5   XRA  1-8A      C1.3    3.4E-04       
+
+8330       0325   0325      0326  LEA  U   RBR  245       53                    
+
+8370       0344   ////      0804  SVI  C   RSP  035-08    CTM/2                 
+
+8340 +     0425   0425      0425  SVI  G   RBR  245       51                    
+
+8350       0540   0541      0541  SVI  U   RBR  245       97                    
+
+8360 +     0656   0656      0657  LEA  U   RBR  245       140                   
+
+8380       0803   0806      0810  GO8  5   XRA  1-8A      C1.1    4.6E-04   8620
+8380       0805   0807      0816  SVI  3   FLA  N18E19    SF                8620
+
+8390       0913   0913      0914  SVI  G   RBR  245       67                    
+
+8400 +     1154   1207      1217  GO8  5   XRA  1-8A      C2.4    2.6E-03       
+
+8410       1306   ////      1306  SVI  C   RSP  045-01    III/2                 
+
+8420       1404   1409      1419  RAM  3   FLA  S24W52    SF                8611
+
+8450       1438   ////      1652  SVI  C   RSP  048-08    CTM/1                 
+
+8430 +     1509   ////      1511  SVI  C   RSP  036-08    III/2                 
+
+8460       1743   1744      1744  SAG  G   RBR  245       68                    
+
+8470       1846   1846      1847  PAL  G   RBR  245       110                   
+
+8480       1851   1852      1852  PAL  G   RBR  245       78                    
+
+8490 +     1915   ////      1915  SAG  C   RSP  030-07    III/1                 
+
+8500       2018   2026      2038  GO8  5   XRA  1-8A      C2.1    2.3E-03   8611
+8500       2022   2024      2032  RAM  3   FLA  S28W64    SF      ERU       8611
+
+8510       2116   ////      2116  SAG  C   RSP  030-06    III/1                 
+
+8540       2329   ////      2329  PAL  C   RSP  025-06    III/1                 
+
+8530       2343   2343      2345  LEA  U   RBR  245       160                   
+
+8520 +     2346   2353      0129  PAL  G   RNS  245       86                    

@@ -1,0 +1,52 @@
+:Product: 20040401events.txt
+:Created: 2004 Apr 04 0302 UT
+:Date: 2004 04 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2150 +     0007   ////      0008  CUL  C   RSP  20-130    III/2                 
+
+2160       0103   0103      0103  LEA  G   RBR  245       53                    
+
+2200       0117   ////      0119  CUL  C   RSP  20-150    III/2                 
+
+2170 +     0305   ////      0310  CUL  C   RSP  20-120    III/2                 
+
+2180 +     0338   0341      0343  G12  5   XRA  1-8A      B6.6    1.6E-04   0582
+2180       0341   0341      0341  PAL  G   RBR  2695      56                0582
+2180       0341   0341      0341  G12  5   XFL  N17W15    4.8E+02 1.2E+03   0582
+
+2190       0444   ////      0444  LEA  C   RSP  025-180   III/2                 
+
+2210 +     0520   0520      0520  LEA  G   RBR  245       610                   
+
+2220       0527   0535      0540  G10  5   XRA  1-8A      B5.5    3.6E-04       
+2220 +     0540   ////      0540  LEA  C   RSP  025-101   III/1                 
+
+2240       0658   ////      0658  SVI  C   RSP  025-081   III/1                 
+
+2250       1147   ////      1149  SVI  U   RSP  025-045   III/1                 
+
+2260 +     1204   1208      1211  G12  5   XRA  1-8A      B4.1    1.4E-04   0582
+2260       1207   1207      1210  G12  5   XFL  N14W16    3.3E+02 8.1E+02   0582
+
+2270       1612   1616      1618  G10  5   XRA  1-8A      B3.6    1.1E-04       
+2270 +     1614   1614      1616  SAG  G   RBR  245       100                   
+
+2280 +     1704   1711      1724  G12  5   XRA  1-8A      C1.4    1.2E-03   0582
+2280       1707   1710      1723  G12  5   XFL  N15W18    2.4E+03 5.1E+03   0582
+
+2290       1752   1752      1752  SAG  G   RBR  410       82                    
+
+2300 +     2108   2120      2145  G12  5   XRA  1-8A      B6.6    1.1E-03   0582
+2300       2111   2122      2143  G12  5   XFL  N12W27    3.3E+02 6.3E+02   0582
+
+2310 +     2258   2303      2308  G12  5   XRA  1-8A      B4.2    2.1E-04   0581
+2310       2303   2303      2307  G12  5   XFL  S72E90                      0581

@@ -1,0 +1,51 @@
+:Product: 19980526events.txt
+:Created: 1998 May 29 0303 UT
+:Date: 1998 05 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 May 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4800       0142   0142      0142  LEA  G   RBR  245       51                    
+
+4810       0240   ////      0241  PAL  C   RSP  029-07    III/2                 
+
+4880       0600   0000      1200       F   RNS  204       20                    
+
+4820 +     0746   0750      0754  GO9  5   XRA  1-8A      B2.9    1.2E-04       
+
+4830       1017   1017      1018  SVI  U   RBR  245       300                   
+
+4850       1246   1246      1246  SAG  G   RBR  410       59                    
+4850       1246   1246      1246  SAG  G   RBR  410       59                    
+4850       1246   1246      1246  SAG  G   RBR  410       59                    
+
+4860       1306   1307      1307  SVI  U   RBR  245       210                   
+
+4870 +     1534   1542      1558  GO9  5   XRA  1-8A      B3.6    4.4E-04       
+
+4890       1911   1912      1916  HOL  3   FLA  S21W70    SF                8224
+
+4900 +     1919   ////      1919  SAG  C   RSP  030-05    III/1                 
+
+4910       1926   1926      1927  SAG  U   RBR  245       130                   
+4910       1926   1926      1927  SAG  U   RBR  410       160                   
+
+4920 +     2022   2035      2040  GO9  5   XRA  1-8A      C1.2    7.4E-04   8226
+4920       2032   2034      2044  HOL  3   FLA  N21W50    1F                8226
+
+4930 +     2107   2125      2141  GO9  5   XRA  1-8A      C1.7    2.7E-03   8226
+4930       2113   2113      2117  HOL  3   FLA  N21W52    SF                8226
+4930       2124   ////      2124  PAL  C   RSP  028-06    III/1             8226
+4930       2124   ////      2132  SAG  C   RSP  030-05    V/1               8226
+
+4940 +     2228   ////      2230  PAL  C   RSP  027-07    V/2                   
+
+4880 +     2311   0817      0930  LEA  G   RNS  245       530                   
+
+4950       2321   ////      2322  PAL  C   RSP  027-05    V/1                   

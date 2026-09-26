@@ -1,0 +1,29 @@
+:Product: 20040805events.txt
+:Created: 2004 Aug 08 0302 UT
+:Date: 2004 08 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Aug 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5250       0114   ////      0924  LEA  C   RSP  120-180   CTM/1                 
+
+5330       0602   ////      1739  SVI  C   RSP  120-170   CTM/1                 
+
+5260       0723   ////      0723  SVI  C   RSP  025-064   III/1                 
+
+5270       0753   ////      0753  SVI  U   RSP  025-056   III/1                 
+
+5290 +     2040   2108      2114  G12  5   XRA  1-8A      B3.3    5.4E-04   0655
+5290       2043   2048      2113  G12  5   XFL  S09W09    3.5E+02 8.5E+02   0655
+
+5300       2159   ////      2159  PAL  C   RSP  025-146   III/1                 
+
+5310       2200   ////      2200  CUL  C   RSP  18-90     III/2                 
+
+5340       2333   ////      0925  LEA  C   RSP  081-180   CTM/1                 

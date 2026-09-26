@@ -1,0 +1,55 @@
+:Product: 20020906events.txt
+:Created: 2002 Sep 09 0300 UT
+:Date: 2002 09 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Sep 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1600 +    B0000   0010      1309  COM  G   RNS  245       250                   
+
+1510       0219   0219      0219  LEA  G   RBR  245       51                    
+
+1520       0358   0358      0358  LEA  U   RBR  245       230                   
+
+1530 +     0446   0446      0446  LEA  G   RBR  245       150                   
+
+1630       0449   ////      0709  SVI  C   RSP  025-180   CTM/1                 
+
+1540 +     0512   0512      0512  LEA  G   RBR  245       330                   
+
+1550 +     0638   0638      0638  LEA  G   RBR  245       100                   
+
+1560 +     0718   ////      0719  LEA  C   RSP  025-180   III/1                 
+
+1570       0854   0854      0855  SVI  G   RBR  245       52                    
+1570 +     0855   ////      0855  LEA  C   RSP  025-180   III/1                 
+
+1580       1143   1143      1143  SAG  G   RBR  245       110                   
+
+1610       1209   ////      1210  SAG  C   RSP  030-080   III/1                 
+
+1620 +     1216   1225      1236  GO8  5   XRA  1-8A      C2.0    2.1E-03       
+
+1640 +     1623   1628      1631  GO8  5   XRA  1-8A      C9.2    2.5E-03       
+1640 +     1623   ////      1628  HOL  C   RSP  025-180   III/1                 
+
+1660 +     1636   1644      1650  GO8  5   XRA  1-8A      C5.3    3.5E-03       
+
+1670 +     1938   1938      1938  PAL  G   RBR  245       340                   
+
+1680 +     2009   ////      2010  HOL  C   RSP  046-180   III/1                 
+1680 +     2010   2010      2010  PAL  G   RBR  245       210                   
+
+1690       2113   ////      2119  HOL  C   RSP  025-135   III/1                 
+
+1700       2143   2143      2143  SAG  G   RBR  245       79                    
+
+1710 +     2324   2327      2330  COM  3   FLA  N12E70    SF      ERU       0107
+
+1720       2339   2339      2339  LEA  G   RBR  245       52                    

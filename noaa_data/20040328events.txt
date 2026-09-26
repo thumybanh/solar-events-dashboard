@@ -1,0 +1,47 @@
+:Product: 20040328events.txt
+:Created: 2004 Mar 31 0302 UT
+:Date: 2004 03 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Mar 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 730 +     0002   0008      0015  G12  5   XRA  1-8A      C1.0    7.7E-04   0582
+ 730       0006   0014      0014  G12  5   XFL  N12E43    1.3E+03 2.9E+03   0582
+
+ 740       0338   0355      0422  G12  5   XRA  1-8A      C1.3    2.7E-03   0585
+ 740       0346   0347      0402  LEA  3   FLA  S13E48    SF                0585
+ 740 +    U0347  U0347      0347  LEA  G   RBR  410       60                0585
+ 740 +    U0347  U0348      0348  LEA  G   RBR  606       140               0585
+ 740       0348   0348      0348  PAL  G   RBR  245       55                0585
+ 740       0415   ////      0415  CUL  C   RSP  65-140    III/1             0585
+
+ 750       0438   0443      0447  G10  5   XRA  1-8A      C1.2    5.9E-04       
+ 750       0440   ////      0544  CUL  C   RSP  25-140    CTM/1                 
+
+ 760 +     0631   0636      0641  G12  5   XRA  1-8A      B8.0    3.9E-04   0582
+ 760       0634   0637      0641  G12  5   XFL  N11E40    5.5E+02 1.2E+03   0582
+
+ 780 +     1157   1244      1307  G12  5   XRA  1-8A      C1.8    4.2E-03   0582
+ 780       1226   ////      1226  SVI  C   RSP  025-164   III/1             0582
+ 780 +     1259   1259      1259  SVI  G   RBR  245       95                0582
+ 780 +     1259   1259      1259  SVI  G   RBR  410       120               0582
+
+ 810       1725   ////      1726  HOL  C   RSP  025-047   III/1                 
+
+ 830       1848   ////      1913  HOL  2   DSF  N23E33    06      B.0A      0582
+
+ 820       1922   ////      1922  PAL  C   RSP  025-062   III/1                 
+
+ 840 +     2133   ////      2134  CUL  C   RSP  20-200    III/3                 
+
+ 850       2151   2157      2202  G10  5   XRA  1-8A      B5.9    3.5E-04       
+
+ 860       2309   ////      2310  CUL  C   RSP  20-80     III/1                 
+
+ 870       2322   ////      2322  CUL  C   RSP  27-90     III/1                 

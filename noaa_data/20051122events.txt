@@ -1,0 +1,57 @@
+:Product: 20051122events.txt
+:Created: 2005 Nov 25 0329 UT
+:Date: 2005 11 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Nov 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4880 +     0112   0119      0126  G12  5   XRA  1-8A      B2.9    1.9E-04   0824
+4880       0115   0124      0124  G12  5   XFL  S14E57    4.6E+03 1.9E+04   0824
+
+4890 +     0200   0213      0222  G12  5   XRA  1-8A      B3.6    3.9E-04   0824
+4890       0203   0216      0220  G12  5   XFL  S14E57    5.3E+03 2.6E+04   0824
+
+4900       0346   ////      0915  LEA  C   RSP  083-142   CTM/1             0824
+
+4910       0414   0414      0414  LEA  G   RBR  245       100                   
+
+4900 +     0414   0417      0423  G12  5   XRA  1-8A      B1.4    6.9E-05   0824
+4900       0419   0419      0420  G12  5   XFL  S13E55    4.0E+03 1.3E+04   0824
+4900       0422   0422      0422  LEA  G   RBR  245       140               0824
+
+4920       1302   ////      1303  SAG  C   RSP  030-135   III/1                 
+
+4930 +     1322   ////      1322  SAG  U   RSP  030-073   III/1                 
+
+4940       1327   1328      1331  SVI  G   RBR  245       89                    
+
+4950 +     1348   1349      1349  SAG  G   RBR  245       68                    
+
+4960 +     1509   1516      1519  G12  5   XRA  1-8A      B7.7    2.2E-04   0822
+4960       1513   1516      1516  G12  5   XFL  S08W50    7.6E+03 2.7E+04   0822
+
+4970       1654   1654      1654  SAG  G   RBR  245       70                    
+
+4980       1700   1700      1700  SAG  G   RBR  245       90                    
+
+4990       1736   1736      1736  SAG  G   RBR  245       63                    
+
+5000 +     1901   1906      1911  G12  5   XRA  1-8A      B1.5    7.5E-05   0824
+5000       1904   1907      1909  G12  5   XFL  S13E48    3.4E+03 1.1E+04   0824
+
+5010       1952   1955      1955  SAG  U   RBR  410       78                    
+
+5020       1958   1959      2000  SAG  U   RBR  410       170                   
+
+5030       2003   2005      2007  SAG  U   RBR  410       190                   
+
+5040       2014   2015      2015  SAG  U   RBR  410       70                    
+
+5050 +     2145   2150      2155  G12  5   XRA  1-8A      B1.5    7.6E-05   0824
+5050       2148   2151      2153  G12  5   XFL  S13E47    3.4E+03 1.1E+04   0824

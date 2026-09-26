@@ -1,0 +1,46 @@
+:Product: 20020515events.txt
+:Created: 2002 May 18 0300 UT
+:Date: 2002 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8630       0015   ////      0015  CUL  C   RSP  100-130   III/1                 
+
+8940      A0026   ////     B1314  HOL  3   DSF  N46E26    07      B.0A          
+
+8640       0107   ////      0107  CUL  C   RSP  57-90     III/1                 
+
+8650       0118   ////      0118  CUL  C   RSP  100-130   III/1                 
+
+8660       0658   0659      0659  LEA  G   RBR  606       65                    
+
+8670 +     0800   0813      0825  GO8  5   XRA  1-8A      M1.0    9.6E-03   9948
+8670       0817   0831      0848  SVI  3   FLA  S23E23    SF      ERU       9948
+8670       0821   ////      0821  SVI  C   RSP  025-041   III/1             9948
+
+8680       0844   ////      0844  LEA  C   RSP  075-180   III/1                 
+
+8690       0909   0909      0915  SVI  3   FLA  S03W32    SF      ERU       9945
+
+8750       1421   1438      1500  GO8  5   XRA  1-8A      C1.6    3.1E-03       
+
+8700       1447   1448      1449  HOL  3   FLA  S22E07    SF                9948
+
+8710       1447   1448      1450  HOL  3   FLA  S05W27    SF                9946
+
+8720 +     1534   1536      1551  HOL  3   FLA  S06W31    SF      ERU       9945
+
+8880      A1919   ////     B1107  RAM  3   DSF  N51E20    14      B.0A          
+
+8730       2108   2114      2120  G10  5   XRA  1-8A      C1.1    7.7E-04       
+
+8740 +     2243   2243      2243  PAL  G   RBR  245       140                   
+
+8760 +     2344   2359      0006  GO8  5   XRA  1-8A      C3.5    3.6E-03       

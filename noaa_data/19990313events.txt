@@ -1,0 +1,105 @@
+:Product: 19990313events.txt
+:Created: 1999 Mar 16 0302 UT
+:Date: 1999 03 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+840  +     0026   ////      0035  LEA  C   RSP  030-08    III/2                 
+
+930        0139   ////      0146  LEA  C   RSP  030-06    III/2                 
+
+850  +     0151   0155      0204  GO8  5   XRA  1-8A      C1.0    7.0E-04       
+
+860        0228   ////      0228  LEA  C   RSP  030-05    III/1                 
+
+870  +     0316   ////      0320  LEA  C   RSP  030-08    III/3                 
+
+880  +     0337   0343      0345  GO8  5   XRA  1-8A      C1.1    4.8E-04   8487
+880        0338   0339      0343  LEA  3   FLA  N15E49    SF                8487
+
+890        0416   ////      0417  LEA  C   RSP  030-06    III/2                 
+
+900        0428   0430      0439  LEA  3   FLA  N17E48    SF                8487
+
+910        0459   0502      0504  G10  5   XRA  1-8A      C1.1    2.4E-04   8487
+910        0500   ////      0503  LEA  C   RSP  030-08    III/3             8487
+910        0501   0502      0505  LEA  3   FLA  N15E47    SF                8487
+
+920        0506   0516      0530  G10  5   XRA  1-8A      C2.7    2.7E-03   8487
+920        0510   0525      0535  LEA  3   FLA  N17E50    SF      ERU       8487
+920        0524   ////      0642  SVI  C   RSP  035-05    CTM/1             8487
+920        0528   ////      0528  LEA  C   RSP  035-05    III/1             8487
+
+940        0536   0545      0551  LEA  3   FLA  N17E48    SF      ERU       8487
+940  +     0539   ////      0548  LEA  C   RSP  030-08    III/2             8487
+
+950        0551   0557      0613  LEA  3   FLA  N17E48    SF      ERU       8487
+
+960  +     0632   ////      0633  LEA  C   RSP  030-06    III/2                 
+960        0632   0632      0632  SVI  G   RBR  245       87                    
+
+970  +     0647   ////      0650  LEA  C   RSP  030-07    III/2                 
+
+980  +     0810   ////      0813  LEA  C   RSP  030-08    III/3                 
+980        0811   0811      0812  SVI  G   RBR  245       68                    
+980        0811   0811      0812  SVI  G   RBR  410       8                     
+
+1150      A0834   ////      2311  LEA  4   DSF  N02E32    15      B.0A          
+
+1160      A0834   ////      2311  LEA  4   DSF  S27E65    20      B.0A          
+
+990        0904   0909      0913  GO8  5   XRA  1-8A      C1.1    5.0E-04       
+
+1360       0948   0948      0948  SVI  U   RBR  410       320                   
+
+1370       1008   ////      1429  SVI  C   RSP  035-07    CTM/1                 
+
+1000 +     1048   1054      1100  GO8  5   XRA  1-8A      C4.3    2.0E-03       
+
+1010 +     1114   1122      1134  GO8  5   XRA  1-8A      C2.7    2.5E-03       
+1010      B1120  U1121     A1137  RAM  2   FLA  N15E47    SF                8487
+1010 +     1132   ////      1137  SVI  C   RSP  035-07    III/1             8487
+1010 +     1132   1133      1134  SVI  G   RBR  245       95                8487
+
+1020       1420   1424      1429  HOL  3   FLA  N17E43    SF      ERU       8487
+
+1030       1430   1435      1439  HOL  3   FLA  N17E43    SF                8487
+
+1040       1519   1522      1527  HOL  3   FLA  N17E42    SF      ERU       8487
+
+1050       1537   1541      1551  HOL  3   FLA  N17E42    SF      ERU       8487
+
+1060       1634   1637      1643  RAM  3   FLA  N22E02    SF      ERU       8485
+
+1070 +     1655   1712      1722  RAM  3   FLA  N22E02    SF                8485
+
+1080 +     1731   1734      1739  HOL  3   FLA  N16E42    SF      ERU       8487
+
+1090       1853   1854      1913  RAM  3   FLA  N24E01    SF                8485
+
+1100       1951   1951      1958  RAM  3   FLA  N15E39    SF                8487
+
+1110       1959   2002      2007  HOL  3   FLA  N17E40    SF      ERU       8487
+1110       2006   ////      2006  PAL  C   RSP  025-05    III/1             8487
+
+1120 +     2018   2018      2023  HOL  3   FLA  N17E39    SF      ERU       8487
+1120 +     2022   2034      2039  GO8  5   XRA  1-8A      M1.9    1.2E-02   8487
+1120       2028   2029      2034  SAG  G   RBR  15400     25                8487
+1120 +     2028   2032      2033  PAL  G   RBR  1415      26                8487
+1120 +     2028   2032      2035  PAL  G   RBR  2695      55                8487
+1120 +     2028   2032      2035  PAL  G   RBR  4995      30                8487
+1120 +     2028   2029      2035  PAL  G   RBR  8800      37                8487
+1120 +     2029   2032      2035  PAL  G   RBR  606       34                8487
+
+1130       2056   2100      2103  SAG  G   RBR  606       47                    
+
+1140 +     2108   ////      2109  SAG  C   RSP  030-05    III/1                 
+
+1310      A2113   ////      1110  RAM  3   DSF  S38E55    07      B.0A          

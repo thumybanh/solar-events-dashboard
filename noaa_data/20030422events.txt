@@ -1,0 +1,68 @@
+:Product: 20030422events.txt
+:Created: 2003 Apr 25 0302 UT
+:Date: 2003 04 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Apr 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9080       0113   0113      0113  PAL  G   RBR  410       58                    
+
+9090 +     0125   0132      0139  G10  5   XRA  1-8A      B7.2    5.3E-04       
+
+9100 +     0716   ////      0734  LEA  C   RSP  025-180   II/2    967           
+9100 +     0719   0719      0719  LEA  G   RBR  245       76                    
+
+9110 +     0810   0813      0815  G10  5   XRA  1-8A      C1.1    2.9E-04   0338
+
+9120       0844   ////      0845  SVI  C   RSP  025-040   III/1                 
+
+9130       0858   ////      0906  SVI  C   RSP  025-151   III/1                 
+
+9140 +     0911   0911      0911  SVI  G   RBR  245       62                    
+
+9250      A0922   ////     B2321  LEA  3   DSF  ////      43      B.0A      0000
+
+9150 +     0929   0935      0938  G10  5   XRA  1-8A      C1.0    4.8E-04       
+
+9160       1033   ////      1035  SVI  U   RSP  025-083   III/1                 
+
+9170       1134   ////      1135  SVI  U   RSP  025-083   III/1                 
+
+9190       1319   ////      1325  SVI  C   RSP  025-147   III/2                 
+
+9180       1325   ////      1325  HOL  C   RSP  025-136   III/1                 
+
+9210       1539   ////      1539  SAG  C   RSP  030-045   III/1                 
+
+9200       1613   1617      1622  G12  5   XRA  1-8A      C2.2    9.3E-04   0338
+9200 +     1614   ////      1616  SVI  C   RSP  025-180   III/3             0338
+9200 +     1615   1616      1624  HOL  3   FLA  N20W17    SF      ERU       0338
+9200       1615   1615      1615  SVI  G   RBR  410       28                0338
+9200 +     1615   1615      1615  SAG  G   RBR  245       140               0338
+9200 +     1615   1615      1615  SAG  G   RBR  2695      50                0338
+9200 +     1615   1615      1615  SAG  G   RBR  4995      69                0338
+9200       1615   1615      1615  SAG  G   RBR  8800      41                0338
+
+9220 +     1941   2011      2037  G10  5   XRA  1-8A      C4.0    8.4E-03   0338
+9220 +     1957   2006      2022  HOL  3   FLA  N20W14    SF                0338
+9220 +     1958   2004      2008  PAL  G   RBR  606       240               0338
+9220 +     1958   2012      2018  PAL  G   RBR  245       7500              0338
+9220 +     1959   ////      2004  HOL  C   RSP  025-086   III/1             0338
+9220 +     2003   2004      2006  PAL  G   RBR  410       150               0338
+9220 +     2004   2004      2004  PAL  G   RBR  1415      100               0338
+9220 +     2010   ////      2018  HOL  C   RSP  111-180   IV/1              0338
+
+9470      A2051   ////     B1051  RAM  3   DSF  ////      05      B.0A      0000
+
+9230 +     2103   2111      2118  G10  5   XRA  1-8A      C3.0    2.0E-03   0339
+9230       2106   2107      2112  HOL  3   FLA  N17W70    SF                0339
+9230 +     2110   ////      2110  HOL  C   RSP  025-180   III/1             0339
+9230 +     2113   2113      2114  PAL  G   RBR  410       72                0339
+
+9240 +     2125   2126      2126  PAL  G   RBR  410       290                   

@@ -1,0 +1,59 @@
+:Product: 20000510events.txt
+:Created: 2000 May 13 0302 UT
+:Date: 2000 05 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7340       0000   ////      0000  CUL  C   RSP  28-160    CTM/1             8989
+
+7350       0003   0004      0009  HOL  3   FLA  N15E62    SF                8991
+
+7360       0012   0015      0021  HOL  3   FLA  S22W72    SF                8982
+
+7370 +     0136   0140      0143  GO8  5   XRA  1-8A      C1.1    4.1E-04       
+
+7380 +     0204   0209      0213  GO8  5   XRA  1-8A      C1.3    6.1E-04   8989
+7380       0207   0209      0224  LEA  4   FLA  N17E12    SF      ERU       8989
+
+7390       0549   0550      0554  LEA  4   FLA  S17W76    SF                8980
+
+7410 +     0815   0819      0827  GO8  5   XRA  1-8A      C1.3    8.2E-04   8989
+7410       0817   0818      0842  LEA  3   FLA  N10E06    SF      ERU       8989
+
+7420       1218   1221      1224  G10  5   XRA  1-8A      B9.8    3.1E-04       
+7420       1220   1221      1226  RAM  3   FLA  N10E04    SF                    
+
+7430       1356   1357      1358  SVI  G   RBR  245       160                   
+
+7440       1359   ////      1359  SVI  C   RSP  035-05    III/1                 
+
+7450       1413   1413      1414  SVI  G   RBR  245       120                   
+
+7460 +     1527   1528      1542  RAM  3   FLA  N25W18    SF                8983
+
+7480 +     1917   ////      1928  RAM  3   DSF  N14E16    08      B.9A      8990
+
+7470 +     1926   1941      2014  GO8  5   XRA  1-8A      C8.7    1.8E-02   8990
+7470 +     1930   ////      1931  SAG  C   RSP  030-08    III/2             8990
+7470 +     1932   1937      2100  HOL  3   FLA  N14E20    2N      YSR       8990
+7470       1938   ////      1947  SAG  C   RSP  030-08    II/3              8990
+7470       1940   1942      1950  PAL  G   RBR  245       2500              8990
+7470       1940   1942      1952  PAL  G   RBR  410       310               8990
+7470       1940   1950      1951  PAL  G   RBR  606       79                8990
+7470       1940   1941      1944  PAL  G   RBR  1415      190               8990
+7470 +     1957   ////      0107  PAL  C   RSP  025-07    IV/1              8990
+
+7490       2038   2038      2038  SAG  G   RBR  245       75                    
+
+7500       2040   2041      2043  SAG  G   RBR  245       270                   
+
+7510       2057   2058      2059  SAG  G   RBR  245       140                   
+
+7520       2315   2340      0002  HOL  3   FLA  N15E50    SF                8991

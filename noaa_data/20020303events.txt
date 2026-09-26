@@ -1,0 +1,48 @@
+:Product: 20020303events.txt
+:Created: 2002 Mar 06 0300 UT
+:Date: 2002 03 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9600 +     0021   ////      0021  CUL  C   RSP  57-160    III/2                 
+
+9730       0102   ////      0102  CUL  C   RSP  57-90     III/1                 
+
+9740       0141   ////      0145  CUL  C   RSP  57-90     III/1                 
+
+9610 +     0201   0207      0214  GO8  5   XRA  1-8A      C3.2    1.9E-03       
+9610 +     0202   ////      0206  LEA  C   RSP  025-180   III/2                 
+9610       0203   0203      0204  LEA  G   RBR  2695      20                    
+9610       0203   0203      0204  LEA  G   RBR  4995      17                    
+
+9620 +     0226   ////      0228  LEA  C   RSP  025-176   III/2                 
+
+9630 +     0248   0256      0306  GO8  5   XRA  1-8A      C2.0    1.9E-03       
+
+9750       0349   ////      0350  CUL  C   RSP  57-90     III/1                 
+
+9640 +     0513   ////      0513  CUL  C   RSP  57-180    III/1                 
+
+9650 +     0536   ////      0542  CUL  C   RSP  57-250    III/1                 
+
+9660 +     0656   ////      0656  CUL  C   RSP  57-180    III/2                 
+
+9670 +     0752   ////      0758  LEA  C   RSP  035-166   III/1                 
+
+9680 +     0823   ////      0824  LEA  C   RSP  032-127   III/1                 
+
+9690       0857   0857      0857  LEA  G   RBR  245       61                    
+
+9700 +     0930   ////      0931  LEA  C   RSP  051-109   III/1                 
+
+9710       1226   ////      1226  SVI  U   RSP  030-083   III/1                 
+
+9720 +     1816   1833      1851  GO8  5   XRA  1-8A      C2.3    4.3E-03       
+9720 +     1828   ////      1839  PAL  C   RSP  025-055   III/1                 

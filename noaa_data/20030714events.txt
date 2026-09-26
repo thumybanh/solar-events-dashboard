@@ -1,0 +1,52 @@
+:Product: 20030714events.txt
+:Created: 2003 Jul 17 0302 UT
+:Date: 2003 07 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jul 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8140 +     0058   0120      0134  G12  5   XRA  1-8A      C8.7    1.1E-02   0409
+
+8150 +     0230   0240      0253  G12  5   XRA  1-8A      C1.0    1.3E-03   0409
+
+8160 +     0602   0608      0615  G12  5   XRA  1-8A      B7.8    5.2E-04   0409
+
+8170       0622   0622      0622  SVI  G   RBR  245       67                    
+
+8180       1121   ////      1129  SAG  C   RSP  030-080   III/3                 
+
+8190       1218   ////      1218  SVI  C   RSP  025-180   III/1                 
+
+8200       1440   ////      1449  HOL  C   RSP  025-087   III/1                 
+
+8210 +     1503   1506      1509  G12  5   XRA  1-8A      B5.5    1.7E-04   0409
+8210       1506   1507      1509  HOL  3   FLA  N18E56    SF      DSD       0409
+
+8220       1616   1620      1625  G10  5   XRA  1-8A      B6.3    3.1E-04   0409
+
+8230       1629   1632      1636  PAL  G   RBR  245       140                   
+8230       1633   1634      1634  PAL  G   RBR  410       440                   
+
+8240 +     1644   1649      1657  G12  5   XRA  1-8A      B7.3    4.8E-04       
+
+8250       1711   1712      1723  HOL  3   FLA  N18E55    SF      ERU       0409
+8250       1722   1724      1725  PAL  G   RBR  245       140               0409
+
+8260 +     1919   1919      1919  SAG  G   RBR  245       160                   
+8260       1919   ////      1919  HOL  C   RSP  075-180   III/1                 
+
+8270 +     1930   ////      1930  HOL  C   RSP  025-083   III/1                 
+
+8280 +     2022   ////      2023  SAG  C   RSP  030-080   III/2                 
+
+8290       2054   2057      2102  HOL  3   FLA  N16E62    SF      ERU       0409
+8290       2101   ////      2101  HOL  C   RSP  025-125   III/1             0409
+
+8300 +     2301   2304      2306  G12  5   XRA  1-8A      B6.3    1.5E-04   0409
+8300       2304   2304      2309  HOL  3   FLA  N16E63    SF                0409

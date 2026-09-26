@@ -1,0 +1,46 @@
+:Product: 19980610events.txt
+:Created: 1998 Jun 13 0302 UT
+:Date: 1998 06 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8340       0152   ////      0153  LEA  C   RSP  030-03    III/1                 
+
+8350       0200   0200      0201  LEA  G   RBR  245       70                    
+
+8360 +     0224   0232      0244  GO9  5   XRA  1-8A      C1.3    1.2E-03       
+
+8370 +     0402   0408      0413  GO9  5   XRA  1-8A      C1.2    6.3E-04       
+8370 +     0403   0404      0405  LEA  G   RBR  245       41                    
+8370 +     0404   0404      0404  LEA  G   RBR  410       83                    
+8370       0404   0404      0404  LEA  G   RBR  1415      19                    
+
+8380       0505   ////      1017  SVI  C   RSP  035-08    CTM/2                 
+
+8390 +     0700   0707      0717  GO9  5   XRA  1-8A      B7.2    6.1E-04       
+
+8400       0903   0903      0905  LEA  U   RBR  15400     59                    
+
+8420       0912   0916     U1010  SVI  G   RNS  245       71                    
+
+8410       0916   0919      0919  LEA  G   RBR  245       120                   
+
+8460       0919   0919      0922  LEA  G   RBR  245       580                   
+
+8430 +     1516   ////      1517  SAG  C   RSP  030-05    III/1                 
+
+8440       1804   ////      1805  PAL  C   RSP  025-07    III/2                 
+8440       1805   ////      1807  SAG  C   RSP  030-08    V/2                   
+
+8450 +     1847   1847      1847  SAG  G   RBR  245       85                    
+
+8470       2303   2304      2304  SAG  U   RBR  245       52                    
+
+8480       2311   0014      0120  GO9  5   XRA  1-8A      C1.1    6.9E-03       

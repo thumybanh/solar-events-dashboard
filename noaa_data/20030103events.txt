@@ -1,0 +1,77 @@
+:Product: 20030103events.txt
+:Created: 2003 Jan 06 0302 UT
+:Date: 2003 01 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 460       0005   0005      0012  LEA  3   FLA  S08E57    SF      ERU       0242
+
+ 470 +     0147   0156      0159  GO8  5   XRA  1-8A      B6.8    3.4E-04       
+ 470       0151   0151      0151  LEA  G   RBR  245       120                   
+
+ 480 +     0302   0305      0308  GO8  5   XRA  1-8A      B3.8    1.2E-04       
+
+ 490 +     0420   0425      0431  GO8  5   XRA  1-8A      B7.2    4.0E-04       
+
+ 500 +     0447   0452      0456  GO8  5   XRA  1-8A      C1.0    3.9E-04   0242
+ 500       0450   0451      0457  LEA  3   FLA  S09E57    SF      ERU       0242
+
+ 510       0515   ////      0515  LEA  C   RSP  025-060   III/1                 
+
+ 520 +     0629   0634      0639  GO8  5   XRA  1-8A      B7.3    3.6E-04       
+
+ 530 +     0854   0904      0912  GO8  5   XRA  1-8A      B4.9    4.7E-04       
+
+ 540       0947   0947      0947  LEA  G   RBR  245       73                    
+
+ 550 +     1031   1034      1037  GO8  5   XRA  1-8A      B8.1    2.3E-04   0242
+ 550       1034   1034      1039  LEA  2   FLA  S09E51    SF      ERU       0242
+
+ 560      B1309  U1312      1318  RAM  3   FLA  S23E68    SF      ERU       0244
+
+ 570 +     1420   1423      1426  GO8  5   XRA  1-8A      B6.6    2.1E-04       
+ 570 +     1421   ////      1428  SVI  C   RSP  025-180   III/2                 
+
+ 580 +     1433   1445      1500  GO8  5   XRA  1-8A      C2.0    2.7E-03   0234
+ 580 +     1440   1442      1453  HOL  3   FLA  N18W51    SF      ERU       0234
+
+ 600       1454   1458      1500  HOL  3   FLA  N19W51    SF      ERU       0234
+
+ 610       1506   ////      1757  HOL  2   EPL  ////      0.22    B.4A      0235
+
+ 590 +     1538   1543      1547  GO8  5   XRA  1-8A      B6.7    3.2E-04   0242
+ 590       1541   1542      1547  HOL  3   FLA  S07E50    SF      ERU       0242
+
+ 620 +    B1652  U1654     A1700  RAM  3   FLA  S20W31    SF                0243
+ 620       1658   1702      1706  GO8  5   XRA  1-8A      B6.2    2.7E-04   0243
+
+ 630       1734   1734      1739  HOL  3   FLA  S22E54    SF      ERU       0244
+
+ 640       1819   ////      1820  HOL  C   RSP  025-130   III/1                 
+
+ 650       1858   1859      1901  HOL  3   FLA  S20W32    SF      ERU       0243
+
+ 660 +     1934   1938      1940  GO8  5   XRA  1-8A      C1.9    5.6E-04   0243
+ 660 +     1936   1938      1946  HOL  3   FLA  S19W31    SF      ERU       0243
+
+ 670 +     1953   1959      2010  HOL  3   FLA  S22E56    SF                0244
+
+ 680 +     2046   2050      2059  GO8  5   XRA  1-8A      C2.0    1.4E-03   0243
+ 680       2046   2050      2108  HOL  3   FLA  S19W31    SF                0243
+
+ 690       2110   2111      2122  HOL  3   FLA  S23E56    SF                0244
+
+ 700 +     2144   2200      2217  GO8  5   XRA  1-8A      C4.7    7.2E-03   0244
+ 700       2151   2159      2215  HOL  3   FLA  S22E55    SF                0244
+
+ 710 +     2237   2244      2249  GO8  5   XRA  1-8A      C3.3    2.0E-03   0243
+ 710 +     2240   2242      2308  LEA  3   FLA  S19W31    SF      ERU       0243
+
+ 720 +     2341   2354      2357  GO8  5   XRA  1-8A      C1.5    1.3E-03   0243

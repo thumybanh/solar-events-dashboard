@@ -1,0 +1,49 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 30 Mar 1998
+
+EDITED EVENTS for 1998 Mar 27
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+2850       0036   0046      0127  GO9  5   XRA  1-8A      C1.0    2.8E-03
+2850       0042   ////      0051  LEA  C   RSP  030-08    II/3    1000
+
+2860       0057   ////      0113  PAL  C   RSP  030-05    V/1
+
+2870       0154   0154      0154  PAL  U   RBR  245       68
+2870       0154   0154      0154  PAL  U   RBR  245       68
+
+2880       0229   0229      0229  PAL  U   RBR  245       76
+
+2890 +     0545   0553      0607  GO9  5   XRA  1-8A      B8.1    8.1E-04
+
+2900       1135   1135      1135  SAG  G   RBR  245       56
+
+2920 +     1307   1323      1339  GO9  5   XRA  1-8A      C1.3    2.0E-03
+2920       1310   1319      1355  SVI  3   FLA  S25W11    SF      ERU
+
+2930       1443   1454      1500  SAG  G   RBR  606       2700
+2930       1453   1455      1500  SAG  G   RBR  410       63
+2930 +     1453   1455      1457  SAG  G   RBR  1415      840
+2930       1454   1458      1500  SAG  G   RBR  245       44
+
+2970       1522   1523      1523  SAG  U   RBR  245       460
+
+2980       1537   1537      1538  SAG  U   RBR  245       330
+
+2990 +     1557   1603      1608  GO9  5   XRA  1-8A      C1.0    5.8E-04   8185
+2990 +     1559   1600      1612  HOL  3   FLA  S28W03    SF      ERU       8185
+
+2910 +     1714  U1717      1751  SAG  G   RNS  245       100
+
+3000 +     1738   1739      1740  SAG  U   RBR  245       390
+
+3010 +     2004   2004      2004  SAG  G   RBR  245       380
+
+3020 +     2149   2227      2317  GO9  5   XRA  1-8A      M2.4    6.8E-02   8185
+3020       2153   2225      0030  HOL  3   FLA  S24W03    3N      PRB       8185
+3020       2214   2215      2253  PAL  G   RBR  2695      42                8185
+3020       2215   2231      2253  PAL  G   RBR  4995      53                8185
+3020       2217   2231      2253  PAL  G   RBR  8800      47                8185
+
+3030      B2319   2341      0029  LEA  3   FLA  S28W05    SF                8185

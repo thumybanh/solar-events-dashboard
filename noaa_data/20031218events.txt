@@ -1,0 +1,58 @@
+:Product: 20031218events.txt
+:Created: 2003 Dec 19 2102 UT
+:Date: 2003 12 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Dec 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4370 +     0028   0032      0039  G12  5   XRA  1-8A      C1.1    6.5E-04       
+
+4380 +     0101   0112      0126  G12  5   XRA  1-8A      C1.3    1.7E-03       
+
+4390 +     0146   0151      0155  G12  5   XRA  1-8A      C2.1    8.5E-04       
+
+4400 +     0412   0418      0427  G12  5   XRA  1-8A      C1.3    9.9E-04       
+
+4410 +     0525   0528      0535  G12  5   XRA  1-8A      B7.3    4.0E-04       
+
+4420       0809   0809      0809  SVI  G   RBR  245       53                    
+4420       0809   0809      0809  SVI  G   RBR  410       97                    
+4420       0809   0809      0809  SVI  G   RBR  2695      58                    
+
+4430 +     0839   0843      0847  G12  5   XRA  1-8A      C3.4    1.5E-03       
+
+4440 +     0919   0931      0937  G12  5   XRA  1-8A      C8.6    5.5E-03   0525
+4440       0925   0931      0935  LEA  3   FLA  N08E53    SF      ERU       0525
+
+4450 +     1053   1056      1107  G12  5   XRA  1-8A      B9.9    7.1E-04       
+
+4460 +     1142   1147      1150  G12  5   XRA  1-8A      C1.4    4.8E-04       
+
+4470 +     1200   1209      1211  G12  5   XRA  1-8A      C5.5    1.4E-03       
+
+4480 +     1228   1237      1243  G12  5   XRA  1-8A      C2.9    1.9E-03   0525
+4480       1234   1236      1240  SVI  3   FLA  N10E47    SF                0525
+
+4490 +     1343   1351      1359  G12  5   XRA  1-8A      C1.0    8.2E-04       
+
+4500 +     1420   1429      1437  G12  5   XRA  1-8A      C1.4    1.2E-03       
+
+4510 +     1624   1628      1632  G12  5   XRA  1-8A      B8.4    3.3E-04       
+
+4520 +     1836   1840      1843  G12  5   XRA  1-8A      C1.4    4.4E-04       
+
+4530 +     2016   2024      2030  G12  5   XRA  1-8A      C1.9    1.3E-03   0525
+4530       2018   2019      2022  HOL  3   FLA  N11E47    SF                0525
+
+4540 +     2209   2216      2220  G12  5   XRA  1-8A      C3.5    1.5E-03   0525
+4540 +     2217   2217      2221  HOL  3   FLA  N10E46    SF      ERU       0525
+
+4550 +     2252   2257      2308  G12  5   XRA  1-8A      C1.7    1.4E-03       
+
+4560 +     2342   2346      2354  G12  5   XRA  1-8A      C1.3    8.9E-04       

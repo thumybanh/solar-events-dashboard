@@ -1,0 +1,73 @@
+:Product: 20050117events.txt
+:Created: 2005 Jan 20 0302 UT
+:Date: 2005 01 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jan 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3470       0033   ////      0035  CUL  C   RSP  18-180    III/3                 
+
+3480       0155   ////      0156  CUL  C   RSP  18-100    III/3                 
+
+3450 +     0244   0259      0307  G12  5   XRA  1-8A      C3.9    3.6E-03   0720
+3450       0247   0303      0305  G12  5   XFL  N15W20    4.3E+03 1.3E+04   0720
+3450       0249   ////      0249  CUL  C   RSP  27-350    III/2             0720
+3450 +     0255   0256      0259  LEA  G   RBR  15400     73                0720
+
+3490 +     0310   0321      0332  G12  5   XRA  1-8A      M2.6    2.2E-02   0720
+3490 +     0312   0313      0339  LEA  G   RBR  15400     770               0720
+3490 +     0313   0314      0321  LEA  G   RBR  4995      220               0720
+3490 +     0313   0313      0321  LEA  G   RBR  8800      310               0720
+3490       0313   0321      0330  G12  5   XFL  N15W21    9.6E+03 4.9E+04   0720
+
+3500       0519   0519      0519  LEA  G   RBR  15400     64                    
+
+3510 +     0606   0610      0615  G12  5   XRA  1-8A      C3.9    1.9E-03   0720
+3510       0609   0611      0613  G12  5   XFL  N15W21    5.6E+03 1.7E+04   0720
+
+3530       0652   0652      0653  SVI  U   RBR  245       59                    
+
+3590       0657   ////      0900  SVI  C   RSP  025-180   CTM/1                 
+
+3540 +     0659   0952      1007  G12  5   XRA  1-8A      X3.8    8.4E-01   0720
+3540       0702   0957      1005  G12  5   XFL  N15W25    5.8E+04 6.2E+05   0720
+
+3590       0734   0734      0735  SVI  G   RBR  410       64                    
+3590       0744   0926      1141  SVI  G   RBR  8800      16000                 
+3590       0744   0943      1207  SVI  G   RBR  15400     17000                 
+3590       0755   1005     U1207  SVI  U   RBR  245       39000                 
+3590       0756   0929      1207  SVI  G   RBR  4995      23000                 
+
+3550       0804   0931      1207  SVI  G   RBR  2695      12000                 
+3550       0812   0957     U1207  SVI  U   RBR  410       36000                 
+3550       0841   0931      1153  SVI  G   RBR  1415      4000                  
+3550      U0845   0926     U1209  SVI  U   RBR  606       12000                 
+3550       0900   ////      1524  SVI  C   RSP  025-180   IV/2                  
+
+3560      B0906  U0950     A1011  SVI  2   FLA  N13W23    2F      PRB       0720
+3560 +     0941   ////      0946  LEA  C   RSP  025-180   III/3             0720
+3560 +     0944   ////      0947  LEA  C   RSP  025-065   II/3    1578      0720
+
+3570      B1012  U1032     A1043  SVI  2   FLA  N13W22    SF      ERU       0720
+
+3580 +     1232  U1242      1242  SVI  G   RNS  410       64                    
+3580 +     1232   1234     A2359  COM  G   RNS  245       330                   
+
+3600       1946   1955      2010  HOL  3   FLA  N14W28    SF      ERU       0720
+
+3610       2014   2018      2026  HOL  3   FLA  N16W27    SF                0720
+
+3670       2032   ////      0354  PAL  C   RSP  030-180   IV/2                  
+
+3620       2052   2054      2058  HOL  3   FLA  N13W26    SF                0720
+
+3630       2214   2215      2217  HOL  3   FLA  N10W26    SF      ERU       0720
+3630       2217   ////      1055  LEA  C   RSP  025-180   IV/1              0720
+
+3640       2313   ////      2314  CUL  C   RSP  300-1000  III/1                 

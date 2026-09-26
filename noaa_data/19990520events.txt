@@ -1,0 +1,56 @@
+:Product: 19990520events.txt
+:Created: 1999 May 23 0302 UT
+:Date: 1999 05 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 May 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2690       0000   ////      0000  CUL  C   RSP  20-140    CTM/2                 
+
+2700       0433   ////      0433  CUL  C   RSP  18-180    III/2                 
+
+2510 +     0502   0508      0513  GO8  5   XRA  1-8A      C2.3    1.1E-03       
+
+2710       0524   ////      0525  CUL  C   RSP  20-180    III/2                 
+
+2520 +     0856   0901      0906  GO8  5   XRA  1-8A      C2.1    9.5E-04       
+
+2530      B1120  U1120     A1126  RAM  3   FLA  N37E04    SF                8545
+
+2550       1207   1212      1217  RAM  3   FLA  N24W61    SF                    
+
+2680       1247   ////      2339  SAG  C   RSP  030-08    CTM/2                 
+
+2540 +     1556   1559      1601  GO8  5   XRA  1-8A      B8.1    2.0E-04       
+
+2630 +     1620   1748      2313  SAG  G   RNS  245       400                   
+
+2570       1622   1622      1637  RAM  3   FLA  N23W63    SF                8549
+
+2630       1624   1647      2140  SAG  G   RNS  410       120                   
+
+2580       1710   1711      1718  HMN  3   FLA  N24W63    SF                8549
+
+2560 +     1725   1731      1737  GO8  5   XRA  1-8A      C1.6    9.2E-04       
+
+2600       1754   1755      1758  HMN  3   FLA  N24W63    SF                8549
+
+2590       1913   1914      1914  PAL  G   RBR  245       660                   
+
+2610       2029   2031      2033  HOL  3   FLA  N26W64    SF                8549
+
+2620       2124   2125      2131  HOL  3   FLA  N27W65    SF                8549
+
+2640       2224   2224      2228  HOL  3   FLA  N27W65    SF                8549
+
+2650       2240   2241      2244  HOL  3   FLA  N26W66    SF                8549
+
+2660       2256   2257      2301  HOL  3   FLA  N26W66    SF                8549
+
+2670       2331   2331      2338  HOL  3   FLA  N27W67    SF      ERU       8549

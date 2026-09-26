@@ -1,0 +1,62 @@
+:Product: 20001105events.txt
+:Created: 2000 Nov 08 0302 UT
+:Date: 2000 11 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Nov 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+190        0017   0149      0254  GO8  5   XRA  1-8A      C5.4    2.9E-02   9218
+190        0044   0045      0047  LEA  G   RBR  606       560               9218
+190        0115   0148      0232  LEA  3   FLA  N14W06    1F      ERU       9218
+190  +     0131   ////      0133  LEA  C   RSP  025-178   III/2             9218
+
+320        0131   ////      0134  CUL  C   RSP  20-300    III/2                 
+
+190        0133   0133      0133  LEA  G   RBR  245       66                9218
+190  +     0138   0140      0140  LEA  G   RBR  410       100               9218
+
+330        0139   ////      0141  CUL  C   RSP  110-420   III/1                 
+
+200        0231   ////      0232  CUL  C   RSP  30-240    III/1                 
+
+210  +     0251   ////      0251  CUL  C   RSP  30-150    III/1                 
+
+220  +     0329   ////      0330  CUL  C   RSP  23-180    III/1                 
+
+230  +     0357   ////      0357  CUL  C   RSP  30-60     III/1                 
+
+340        0409   ////      0412  CUL  C   RSP  30-90     III/1                 
+
+240  +     0432   0436      0440  GO8  5   XRA  1-8A      C1.9    8.4E-04       
+
+250        0523   0526      0529  G10  5   XRA  1-8A      C1.5    4.7E-04       
+
+350        0700   ////      0701  CUL  C   RSP  23-80     III/1                 
+
+360        0709   ////      0709  CUL  C   RSP  30-50     III/1                 
+
+370        0735   ////      0738  CUL  C   RSP  40-90     III/1                 
+
+270  +     1539   1603      1629  G10  5   XRA  1-8A      C2.9    6.5E-03   9209
+
+260        1549   1549      1556  RAM  3   FLA  N03W26    SF      ERU       9213
+
+270        1559   1602      1612  RAM  3   FLA  S18W63    SF                9209
+
+280        1735   1735      1735  SAG  G   RBR  245       160                   
+
+290        1902   1902      1902  SAG  G   RBR  245       79                    
+
+380        2027   ////      2028  CUL  C   RSP  30-90     III/1                 
+
+300  +     2232   ////      2233  CUL  C   RSP  23-160    III/2                 
+
+310        2317   ////      2323  LEA  C   RSP  025-063   III/1                 
+
+390        2324   ////      2324  CUL  C   RSP  20-60     III/1                 

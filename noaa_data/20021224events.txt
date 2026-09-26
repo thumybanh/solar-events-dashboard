@@ -1,0 +1,42 @@
+:Product: 20021224events.txt
+:Created: 2002 Dec 27 0300 UT
+:Date: 2002 12 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9760       0124   ////      0125  LEA  C   RSP  025-092   III/1                 
+
+9770       0259   0302      0308  LEA  3   FLA  S07W21    SF                0230
+
+9790 +     0519   0527      0547  GO8  5   XRA  1-8A      C5.8    6.4E-03   0224
+9790       0520   0521      0521  LEA  G   RBR  245       80                0224
+9790 +     0524   0527      0534  LEA  3   FLA  S15W69    SF      ERU       0224
+
+9830       0540   0542      0556  LEA  3   FLA  S07W22    SF      ERU       0230
+
+9800       0552   0552      0552  LEA  G   RBR  245       70                    
+
+9810 +     0830   0830      0830  SVI  G   RBR  245       50                    
+
+9820 +     1323   1329      1338  GO8  5   XRA  1-8A      C1.6    1.3E-03   0224
+9820      B1326  U1326      1336  RAM  3   FLA  S15W79    SF      ERU       0224
+
+9850 +     1443   1451      1512  GO8  5   XRA  1-8A      C5.8    6.9E-03   0224
+9850      B1446  U1446      1539  RAM  3   FLA  S15W75    SF      ERU       0224
+
+9860      B1642  U1642      1721  RAM  3   FLA  S08W30    SF      ERU       0230
+
+9870 +     1811   1821      1833  GO8  5   XRA  1-8A      C2.7    3.0E-03       
+
+9880       2046   2047      2051  HOL  3   FLA  S15W86    SF                0224
+
+9890       2152   ////      2156  HOL  C   RSP  025-140   III/1                 
+
+9900       2316   2336      2339  GO8  5   XRA  1-8A      C2.7    2.4E-03       

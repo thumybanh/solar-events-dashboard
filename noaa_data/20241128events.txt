@@ -1,0 +1,101 @@
+:Product: 20241128events.txt
+:Created: 2024 Dec 01 0357 UT
+:Date: 2024 11 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Nov 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2420       0115   0115      0115  PAL  G   RBR  245       180                   
+
+2430       0120   0120      0120  PAL  G   RBR  245       110                   
+
+2440       0135   0137      0137  LEA  G   RBR  245       420                   
+
+2450       0140   ////      0140  LEA  C   RSP  025-102   III/2                 
+
+2460       0143   0144      0144  LEA  G   RBR  245       140                   
+
+2470       0206   0206      0206  LEA  G   RBR  245       110                   
+
+2480       0212   ////      0212  LEA  C   RSP  025-081   III/2                 
+
+2490 +     0239   0245      0256  G16  5   XRA  1-8A      C2.9    2.2E-03   3912
+
+2500       0301   ////      0327  LEA  C   RSP  025-180   VI/2                  
+
+2510       0359   0359      0359  LEA  G   RBR  245       420                   
+
+2520       0359   ////      0402  LEA  C   RSP  025-180   III/2                 
+
+2600       0423   ////      0705  LEA  C   RSP  025-154   VI/1                  
+
+2530 +     0511   0514      0518  G16  5   XRA  1-8A      C7.0    2.3E-03   3905
+
+2610       0526   ////      0704  LEA  C   RSP  101-180   CTM/1                 
+
+2540 +     0628   0633      0639  G16  5   XRA  1-8A      C6.7    4.0E-03   3912
+
+2550       0640   0640      0640  LEA  G   RBR  245       120                   
+
+2560       0641   0641      0641  SVI  G   RBR  245       270                   
+
+2570       0647   0647      0648  SVI  G   RBR  245       360                   
+
+2620       0653   ////      0654  SVI  C   RSP  035-050   III/1                 
+
+2580       0658   0658      0658  LEA  G   RBR  245       140                   
+
+2690 +     0820   ////      1035  SVI  C   RSP  025-180   VI/1                  
+
+2630       0856   0856      0856  LEA  G   RBR  245       140                   
+
+2640       0935   0935      0935  LEA  G   RBR  245       110                   
+
+2650 +     0937   0937      0937  SVI  G   RBR  245       950                   
+2650       0937   0937      0937  SVI  G   RBR  410       230                   
+2650 +     0937   ////      0938  LEA  C   RSP  079-180   III/2                 
+
+2660       0943   0943      0943  SVI  G   RBR  410       230                   
+
+2670       0945   ////      0945  SVI  C   RSP  126-180   III/1                 
+
+2680       0945   0945      0945  LEA  G   RBR  245       100                   
+
+2700       1152   ////      1152  SVI  C   RSP  025-083   III/1                 
+
+2710      B1205  U1205     A1213  SVI  3   FLA  S19E03    SF                3906
+
+2720       1213   1213      1214  SAG  U   RBR  245       150                   
+
+2730 +     1219   1219      1219  SVI  G   RBR  245       180                   
+
+2740       1221   ////      1253  SVI  C   RSP  025-082   VI/2                  
+2740       1230   1230      1230  SAG  U   RBR  245       190                   
+
+2750       1313   1313      1313  SAG  U   RBR  245       100                   
+
+2760       1719   ////      1720  SAG  C   RSP  025-180   III/1                 
+
+2770       1832   1832      1835  SAG  U   RBR  245       180                   
+
+2780 +     1840   1840      1843  PAL  G   RBR  245       170                   
+
+2790       1856   1856      1856  PAL  G   RBR  245       110                   
+
+2800       1910   1911      1915  SAG  U   RBR  245       390                   
+
+2590 +     1911   2014      2121  PAL  G   RNS  245       540                   
+
+2810       1921   1921      1925  SAG  U   RBR  245       370                   
+
+2820       2131   ////      2131  PAL  C   RSP  139-180   III/1                 
+
+2830 +     2240   2251      2300  G16  5   XRA  1-8A      C4.0    3.9E-03   3906
+
+2840       2328   ////      2359  LEA  C   RSP  025-180   CTM/2                 

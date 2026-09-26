@@ -1,0 +1,48 @@
+:Product: 19991008events.txt
+:Created: 1999 Oct 11 0302 UT
+:Date: 1999 10 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Oct 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1470       0146   ////      0147  LEA  C   RSP  030-07    III/2                 
+
+1480 +     0331   0343      0352  GO8  5   XRA  1-8A      C1.7    1.7E-03       
+
+1490       0829   0833      0837  GO8  5   XRA  1-8A      B8.7    3.6E-04       
+
+1500       0949   0949      0950  LEA  G   RBR  245       53                    
+
+1510       0959   0959      1003  SVI  G   RBR  410       130                   
+1510       1000   ////      1002  LEA  C   RSP  030-08    III/2                 
+1510       1000   ////      1010  SVI  C   RSP  035-08    V/3                   
+1510       1001   1003      1003  SVI  G   RBR  245       50                    
+
+1520 +     1007   1021      1036  GO8  5   XRA  1-8A      C1.7    2.5E-03   8720
+1520       1017  U1024      1039  SVI  3   FLA  N13E09    SF      ERU       8720
+
+1530 +     1238   1253      1318  GO8  5   XRA  1-8A      C6.4    9.9E-03       
+1530 +     1242   1252      1409  SVI  3   FLA  N14E09    1N      PRB       8720
+
+1540       1329   1332      1344  SVI  3   FLA  N03E22    SF                8716
+
+1550       1539   1539      1546  COM  2   FLA  N13E07    SF                8720
+
+1560       1758   1758      1801  COM  2   FLA  N13E05    SF                8720
+
+1590       1929   1931      1932  PAL  G   RBR  245       230                   
+1590       1929   1930      1936  PAL  G   RBR  410       130                   
+1590       1929   1930      1931  PAL  G   RBR  606       46                    
+
+1580       1950   1959      2005  GO8  5   XRA  1-8A      C1.8    1.4E-03       
+
+1600       2039   2041      2045  RAM  3   FLA  N22E77    SF                8728
+
+1570       2057   2103      2107  GO8  5   XRA  1-8A      C1.5    7.6E-04       
+1570       2059   2101      2114  RAM  3   FLA  N13E04    SF                8720

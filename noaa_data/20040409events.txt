@@ -1,0 +1,25 @@
+:Product: 20040409events.txt
+:Created: 2004 Apr 12 0302 UT
+:Date: 2004 04 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3530       0954   ////      0958  SVI  C   RSP  025-151   III/2                 
+
+3550 +     2013   2040      2102  G12  5   XRA  1-8A      C2.8    5.7E-03   0588
+3550       2018   2047      2101  G12  5   XFL  S16W29    3.9E+03 1.5E+04   0588
+3550       2019   2028      2101  HOL  3   FLA  S17W29    SF      PRB       0588
+
+3540       2025   2030      2034  SAG  G   RBR  1415      39                    
+3540 +     2033   2034      2034  PAL  G   RBR  606       130                   
+
+3560       2155   ////      2155  HOL  C   RSP  025-054   III/1                 
+
+3570       2243   ////      2243  HOL  C   RSP  025-063   III/1                 

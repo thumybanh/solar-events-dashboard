@@ -1,0 +1,30 @@
+:Product: 20060425events.txt
+:Created: 2006 Apr 28 0329 UT
+:Date: 2006 04 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Apr 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4340       0152   0213      0236  G12  5   XRA  1-8A      B6.0    1.2E-03   0875
+
+4320       0635   0647      0655  IZM  F   RBR  3000      16                    
+4320       0635   0640      0637  IZM  F   RBR  204       10                    
+4320       0636   0726      0812  G12  5   XRA  1-8A      C1.3    5.9E-03   0875
+4320 +     0638   ////      0752  SVI  C   RSP  025-150   CTM/1                 
+
+4310 +     0646   ////      0752  SVI  C   RSP  025-150   CTM/1                 
+
+4330 +     1431   1436      1440  G12  5   XRA  1-8A      B4.8    1.8E-04   0875
+4330       1436   1438      1438  G12  5   XFL  S06E51    6.5E+02 1.4E+03   0875
+
+4350       1543   1606      1622  G12  5   XRA  1-8A      B4.2    8.4E-04   0875
+
+4360       1700   1706      1717  G12  5   XRA  1-8A      B2.9    2.7E-04   0876
+
+4370       2136   ////      2136  CUL  C   RSP  20-70     III/1                 

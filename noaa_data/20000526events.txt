@@ -1,0 +1,71 @@
+:Product: 20000526events.txt
+:Created: 2000 May 29 0302 UT
+:Date: 2000 05 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3440 +     0125   0132      0140  GO8  5   XRA  1-8A      C3.4    2.3E-03   9002
+3440       0126   0129      0154  LEA  3   FLA  N21W66    1F      ERU       9002
+
+3450       0232   ////      0232  LEA  C   RSP  030-05    III/1                 
+
+3460       0334   0334      0335  LEA  G   RBR  245       620                   
+
+3470       0358   0402      0408  GO8  5   XRA  1-8A      C1.0    6.0E-04   9017
+3470       0400   0401      0414  LEA  4   FLA  S15E70    SF                9017
+
+3480 +     0451   ////      0451  LEA  C   RSP  030-04    III/2                 
+
+3490 +     0532   ////      0532  LEA  C   RSP  030-08    III/2                 
+
+3500 +     0554   0554      0554  LEA  G   RBR  245       57                    
+
+3580       0749   0750      0801  LEA  3   FLA  S15E67    SF                9017
+
+3590       0758   0801      0807  LEA  3   FLA  N12W79    SF                9004
+
+3520       0758   0807      0819  LEA  3   FLA  N21W69    SF                9002
+3520 +     0803   0808      0812  GO8  5   XRA  1-8A      C2.2    1.0E-03   9002
+
+3530       0813   0814      0816  LEA  3   FLA  N12W80    SF                9004
+
+3540       0830   0830      0837  LEA  3   FLA  S11E65    SF                9017
+
+3720      B0848   ////      0208  LEA  3   DSF  N26E62    09      B.0A          
+
+3550 +     0851   0852      0853  SVI  G   RBR  245       170                   
+
+3620       0905   0000      1200       F   RNS  204       5                     
+
+3560 +     0914   0917      0922  GO8  5   XRA  1-8A      C1.1    4.9E-04       
+
+3570 +     0935   0943      1001  GO8  5   XRA  1-8A      C1.5    2.1E-03       
+
+3600 +     1127   1135      1208  GO8  5   XRA  1-8A      C6.1    1.1E-02       
+3600       1130   1132      1135       F   RBR  3000      11                    
+
+3610       1219   1219      1228  RAM  3   FLA  S17E64    SF                9017
+
+3630 +     1456   1457      1501  RAM  3   FLA  S21W09    SF                9018
+
+3640 +     1518   1529      1544  HOL  3   FLA  N19W73    SF                9002
+3640 +     1521   1530      1538  GO8  5   XRA  1-8A      C3.3    2.7E-03   9002
+
+3670       1535   1535      1541  RAM  3   FLA  S18E62    SF                9017
+
+3660       1538   ////      1546  RAM  3   EPL  N27W83    0.15    B.9A      9002
+3660       1538   ////      1546  RAM  3   BSL  N27W83    0.15    B.9A      9002
+
+3650       1612   1616      1618  RAM  3   FLA  S20W10    SF                9018
+
+3680       1626   1626      1629  HOL  3   FLA  N20W72    SF                9002
+
+3690 +     1802   1807      1816  GO8  5   XRA  1-8A      C2.9    2.1E-03   9004
+3690       1805   1806      1809  RAM  3   FLA  N14W85    SF                9004

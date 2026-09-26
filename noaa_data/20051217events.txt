@@ -1,0 +1,33 @@
+:Product: 20051217events.txt
+:Created: 2005 Dec 20 0329 UT
+:Date: 2005 12 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7560 +     0155   0205      0210  G12  5   XRA  1-8A      B4.1    2.5E-04   0836
+7560       0159   0208      0208  G12  5   XFL  S09W90    4.7E+03 2.3E+04   0836
+
+7570       0252   0255      0258  G10  5   XRA  1-8A      B1.0    3.2E-05       
+
+7580 +     0321   0326      0335  G12  5   XRA  1-8A      B1.2    9.0E-05   0836
+7580       0324   0332      0332  G12  5   XFL  S09W90    2.6E+03 7.7E+03   0836
+
+7590 +     0643   0646      0649  G12  5   XRA  1-8A      B1.6    4.5E-05   0836
+7590       0647   0648      0648  G12  5   XFL  S09W90    2.4E+03 8.9E+03   0836
+
+7600 +     0831   0835      0839  G12  5   XRA  1-8A      B1.1    4.9E-05   0836
+7600       0835   0836      0839  G12  5   XFL  S09W90    3.2E+03 9.0E+03   0836
+
+7610       1459   1509      1516  G10  5   XRA  1-8A      B1.7    1.4E-04       
+
+7620 +     1722   1725      1727  G12  5   XRA  1-8A      B1.1    2.8E-05       
+
+7630 +     1940   1951      1957  G12  5   XRA  1-8A      B3.1    2.3E-04   0834
+7630       1944   1955      1956  G12  5   XFL  S05W32    2.7E+03 1.3E+04   0834

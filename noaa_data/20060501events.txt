@@ -1,0 +1,54 @@
+:Product: 20060501events.txt
+:Created: 2006 May 04 0329 UT
+:Date: 2006 05 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 May 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5720 +     0049   0052      0056  G12  5   XRA  1-8A      B2.3    8.3E-05   0875
+5720       0052   0052      0054  G12  5   XFL  S07W25    1.8E+02 3.1E+02   0875
+
+5730       0139   ////      0139  LEA  C   RSP  025-151   III/1                 
+
+5840       0140   ////      0140  CUL  C   RSP  20-140    III/1                 
+
+5740 +     0152   0157      0200  G12  5   XRA  1-8A      B9.3    2.5E-04   0876
+5740 +     0154   ////      0156  LEA  C   RSP  025-176   III/1             0876
+5740       0156   0159      0203  LEA  3   FLA  S11W02    SF      ERU       0876
+5740       0156   0157      0157  G12  5   XFL  S10W01    1.6E+03 6.4E+03   0876
+5740 +     0158   ////      0201  LEA  C   RSP  068-175   II/1    436       0876
+
+5850       0234   ////      0235  CUL  C   RSP  20-100    III/1                 
+
+5860       0251   ////      0252  CUL  C   RSP  30-90     III/1                 
+
+5750       0407   ////      0408  LEA  C   RSP  028-109   III/1                 
+
+5760       0410   ////      0411  LEA  C   RSP  025-123   III/1                 
+
+5870       0457   ////      0457  CUL  C   RSP  20-80     III/1                 
+
+5770 +     0540   ////      0541  LEA  C   RSP  025-121   III/1                 
+
+5780 +     0600   ////      0600  CUL  C   RSP  20-90     III/2                 
+
+5880       0620   ////      0620  CUL  C   RSP  20-100    III/2                 
+
+5890       0647   ////      0647  CUL  C   RSP  20-100    III/2                 
+
+5790       1419   ////      1426  SAG  C   RSP  030-070   III/1                 
+
+5800       1433   1535      1634  G12  5   XRA  1-8A      C1.0    6.4E-03   0875
+5800       1532   1543      1547  HOL  3   FLA  S17W29    SF      ERU       0875
+
+5810       1552   1555      1603  HOL  3   FLA  S11W30    SF      ERU       0875
+
+5820       1647   ////      1647  SAG  C   RSP  030-054   III/1                 
+
+5830 +     2039   2043      2049  G12  5   XRA  1-8A      B2.1    1.2E-04   0875

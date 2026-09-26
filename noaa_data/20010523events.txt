@@ -1,0 +1,56 @@
+:Product: 20010523events.txt
+:Created: 2001 May 26 0302 UT
+:Date: 2001 05 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8940       0012   ////      0014  CUL  C   RSP  35-80     III/1                 
+
+8910       0056   0057      0058  LEA  G   RBR  245       160                   
+
+8930       0128   0129      0130  LEA  G   RBR  245       75                    
+
+8950       0247   0248      0249  PAL  G   RBR  245       110                   
+
+8960 +     0329   0401      0420  GO8  5   XRA  1-8A      C1.6    4.2E-03       
+
+8920 +     0349   0356      0550  LEA  G   RNS  245       90                    
+
+8960 +     0404   0404      0404  LEA  G   RBR  245       180                   
+
+8970       0848   ////      0849  LEA  C   RSP  030-148   III/1                 
+
+8980       0930   0930      0930  SVI  G   RBR  245       270                   
+
+8990 +     1026   1032      1038  GO8  5   XRA  1-8A      C2.4    1.2E-03       
+8990 +     1033   1033      1034  SVI  G   RBR  245       78                    
+
+9000       1041   1041      1042  SVI  G   RBR  245       72                    
+
+9010       1105   1111      1119  GO8  5   XRA  1-8A      B9.6    7.4E-04   9461
+9010       1111   1112      1116  RAM  3   FLA  N25W21    SF                9461
+
+9020 +     1238   1238      1238  SVI  G   RBR  245       200                   
+
+9030 +     1247   1252      1255  GO8  5   XRA  1-8A      C1.2    4.3E-04   9468
+9030       1250   1251      1259  HOL  3   FLA  N08E45    SF                9468
+
+9040 +     1425   1428      1431  GO8  5   XRA  1-8A      C1.0    3.1E-04   9468
+9040 +     1428   1428      1431  SVI  3   FLA  N07E44    SF                9468
+
+9050 +     1501   1502      1502  SAG  G   RBR  245       76                    
+
+9160      A1606   ////      0613  SVI  3   DSF  S52E12    05      B.0A          
+
+9060       2005   2008      2008  PAL  G   RBR  245       86                    
+
+9070 +     2103   2106      2108  GO8  5   XRA  1-8A      B7.0    1.8E-04       
+
+9080 +     2259   2303      2307  GO8  5   XRA  1-8A      C1.0    4.3E-04       

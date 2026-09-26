@@ -1,0 +1,68 @@
+:Product: 20011114events.txt
+:Created: 2001 Nov 17 0300 UT
+:Date: 2001 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3670 +     0035   0038      0041  GO8  5   XRA  1-8A      C1.5    4.9E-04       
+
+3680 +     0053   0102      0106  GO8  5   XRA  1-8A      C2.1    1.4E-03   9697
+3680       0054  U0058      0110  LEA  3   FLA  N13E46    1F      ERU       9697
+
+3690       0422   ////      0422  CUL  C   RSP  57-150    III/2                 
+
+3700       0425   ////      0427  CUL  C   RSP  57-180    III/1                 
+
+3710 +     0654   0658      0701  GO8  5   XRA  1-8A      C2.5    8.6E-04   9690
+3710 +     0659   0700      0704  LEA  2   FLA  S16W35    SF      ERU       9690
+
+3760       0700   0000      1200       F   RNS  204       5                     
+
+3720 +     0718   0722      0725  GO8  5   XRA  1-8A      C3.0    9.7E-04   9690
+3720       0721   0721      0729  LEA  2   FLA  S18W40    SF      ERU       9690
+
+3730 +     0919   0924      0929  GO8  5   XRA  1-8A      C5.8    2.7E-03   9690
+3730       0921   0922      0922  SVI  G   RBR  4995      48                9690
+3730       0922   0922      0922  SVI  G   RBR  8800      57                9690
+3730       0922   0922      0930  LEA  1   FLA  S18W39    SF      ERU       9690
+
+3740 +     1250   1250      1250  SVI  G   RBR  245       78                    
+
+3760 +     1314   1325     U2019  SAG  G   RNS  245       240                   
+
+3750 +     1350   1356      1403  GO8  5   XRA  1-8A      C3.0    1.8E-03   9690
+3750       1352   1356      1408  RAM  3   FLA  S17W37    SF                9690
+
+3770       1516   1516      1524  HOL  3   FLA  N07E39    SF      ERU       9697
+
+3780 +     1644   1709      1722  GO8  5   XRA  1-8A      C2.2    4.7E-03   9690
+
+3790       1649   1651      1656  HOL  3   FLA  S18W42    SF      ERU       9690
+
+3780 +     1700   1704     A1751  RAM  3   FLA  S19W49    SF                9690
+
+3820       1736   1802      1828  GO8  5   XRA  1-8A      C5.4    1.2E-02       
+
+3800       1811   1815      1829  HOL  3   FLA  S21E70    SF                    
+
+3810       2055   2056      2100  HOL  3   FLA  S14E65    SF                9704
+
+3830 +     2143   2211      2234  GO8  5   XRA  1-8A      M1.9    3.0E-02   9690
+3830       2151   ////      1024  LEA  C   RSP  038-180   CTM/1             9690
+3830       2201   2207      2244  HOL  3   FLA  S19W49    1F      ERU       9690
+3830       2202   2202      2203  PAL  G   RBR  245       1700              9690
+3830 +     2205   2205      2205  PAL  G   RBR  2695      71                9690
+3830 +     2205   2205      2206  PAL  G   RBR  4995      92                9690
+3830       2205   2205      2205  LEA  U   RBR  1415      22                9690
+
+3840       2245   2245      2250  HOL  3   FLA  S22W55    SF                9690
+
+3850       2353   0003      0009  GO8  5   XRA  1-8A      C4.8    4.7E-03   9703
+3850       2357   0005      0016  LEA  3   FLA  N22E15    SF                9703

@@ -1,0 +1,41 @@
+:Product: 20040923events.txt
+:Created: 2004 Sep 26 0302 UT
+:Date: 2004 09 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Sep 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4860       0421   ////      0422  CUL  C   RSP  30-60     III/1                 
+
+4870       0528   0532      0535  G10  5   XRA  1-8A      B2.6    9.1E-05       
+
+4880 +     0624   0628      0633  G12  5   XRA  1-8A      B1.6    8.0E-05   0673
+
+4890 +     0742   0800      0807  G12  5   XRA  1-8A      C1.4    1.3E-03       
+4890       0745   0803      0806  G12  5   XFL  N06W90    9.0E+02 2.3E+03       
+4890 +     0749   ////      0750  LEA  C   RSP  043-103   III/1                 
+
+4900 +     0826   ////      0826  LEA  C   RSP  025-125   III/1                 
+
+4910       0843   0905      0926  G12  5   XRA  1-8A      B5.3    1.1E-03   0672
+4910       0847   0850      0923  G12  5   XFL  N41W54    7.5E+01 4.1E+02   0672
+
+4920       0945   ////      0946  SVI  C   RSP  025-081   III/1                 
+
+4930       1055   ////      1057  SVI  C   RSP  025-052   III/1                 
+
+4940 +     1212   1235      1245  G12  5   XRA  1-8A      B4.7    6.0E-04   0673
+4940       1213   ////      1219  SVI  C   RSP  025-049   III/1             0673
+4940       1223   1231      1243  G12  5   XFL  S13W24    4.5E+02 8.6E+02   0673
+
+4950 +     1559   1603      1607  G12  5   XRA  1-8A      B2.4    8.7E-05   0673
+
+4960       2110   ////      2110  CUL  C   RSP  23-90     III/1                 
+
+4970       2117   ////      2117  CUL  C   RSP  30-90     III/1                 

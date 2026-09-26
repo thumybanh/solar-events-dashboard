@@ -1,0 +1,40 @@
+:Product: 19990905events.txt
+:Created: 1999 Sep 08 0302 UT
+:Date: 1999 09 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6050       0008   ////      0009  CUL  C   RSP  80-180    III/1                 
+
+5740       0022   0022      0041  HOL  3   FLA  N09W34    SF      ERU       8687
+
+5750 +     0531   0539      0552  GO8  5   XRA  1-8A      C2.0    2.0E-03   8681
+5750      B0533  U0534     A0619  SVI  2   FLA  N17W62    SF      ERU       8681
+5750 +     0542   ////      0544  SVI  C   RSP  035-08    III/2                 
+5750 +     0542   ////      0544  SVI  C   RSP  035-08    III/2                 
+
+5830       0927   0927      0927  LEA  G   RBR  15400     74                    
+
+5760       1126   1126      1131  RAM  3   FLA  N22W83    SF                8681
+
+5770       1238   1238      1245  RAM  3   FLA  S25W59    SF                8686
+5770       1238   1238      1245  RAM  3   FLA  S25W59    SF                8686
+
+5780       1318   1318      1323  RAM  3   FLA  S25W59    SF                8686
+
+5790       1354   1354      1403  RAM  3   FLA  S38W64    SF                8679
+
+5800       2011   ////      2012  PAL  C   RSP  025-05    III/1                 
+
+5890 +     2224   ////      2233  CUL  C   RSP  20-120    III/2                 
+
+6070       2316   ////      2317  CUL  C   RSP  23-90     III/1                 
+
+5820 +     2320   ////      2322  CUL  C   RSP  18-90     III/2                 

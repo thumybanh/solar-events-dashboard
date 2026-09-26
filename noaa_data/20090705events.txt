@@ -1,0 +1,41 @@
+:Product: 20090705events.txt
+:Created: 2009 Jul 08 2332 UT
+:Date: 2009 07 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2009 Jul 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1080       0053   0056      0100  G10  5   XRA  1-8A      B1.1    3.5E-05       
+
+1090       0106   0115      0129  G10  5   XRA  1-8A      B5.9    5.4E-04       
+
+1100       0208   0213      0217  G10  5   XRA  1-8A      B2.2    9.5E-05       
+
+1110       0441   0447      0450  G10  5   XRA  1-8A      B2.3    7.4E-05       
+
+1120       0451   0501      0508  G10  5   XRA  1-8A      B2.2    2.0E-04       
+
+1130       0608   0614      0621  G10  5   XRA  1-8A      B5.1    2.4E-04       
+
+1140       0707   0713      0718  G10  5   XRA  1-8A      C2.7    9.5E-04   1024
+1140       0711   0713      0721  LEA  3   FLA  S27W02    SF                1024
+
+1150       0934   0937      0950  G10  5   XRA  1-8A      B3.0    1.9E-04       
+
+1160       1053   1057      1100  G10  5   XRA  1-8A      B1.2    4.3E-05       
+
+1170       1105   1109      1113  G10  5   XRA  1-8A      B5.0    1.7E-04       
+
+1180       1245   1250      1255  G10  5   XRA  1-8A      B3.5    1.9E-04       
+
+1190       1542   1547      1604  G10  5   XRA  1-8A      B1.4    1.5E-04       
+
+1200       1638   1649      1654  G10  5   XRA  1-8A      B1.8    1.3E-04       
+
+1210       1734   1737      1746  G10  5   XRA  1-8A      B1.0    6.0E-05       

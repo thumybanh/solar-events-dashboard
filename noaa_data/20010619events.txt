@@ -1,0 +1,52 @@
+:Product: 20010619events.txt
+:Created: 2001 Jun 22 0302 UT
+:Date: 2001 06 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jun 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5570       0000   ////      0000  CUL  C   RSP  30-150    CTM/1                 
+
+5580 +     0031   ////      0032  LEA  C   RSP  025-180   III/1                 
+
+5590 +     0335   0336      0337  LEA  G   RBR  410       85                    
+5590 +     0335   0335      0335  LEA  G   RBR  606       36                    
+5590 +     0335   ////      0349  LEA  C   RSP  025-180   II/1    650           
+5590       0336   0339      0340  LEA  G   RBR  245       58                    
+
+5600 +     0354   ////      0354  LEA  C   RSP  025-180   III/2                 
+
+5620 +     0806   ////      0809  LEA  C   RSP  025-170   III/1                 
+
+5730      A0905   ////      2342  LEA  3   DSF  S05W07    10      B.0A          
+
+5740      A0905   ////      2342  LEA  3   DSF  S09W22    10      B.0A          
+
+5630       1335   ////      1337  SVI  C   RSP  025-147   III/1                 
+
+5650       1338   ////      1721  SAG  C   RSP  030-080   CTM/1                 
+
+5660 +     1715   ////      1722  HOL  C   RSP  025-085   III/1                 
+
+5640 +     1819   1826      1836  GO8  5   XRA  1-8A      C2.0    1.6E-03   9504
+5640       1821   1822      1829  HOL  3   FLA  N11W01    SF                9504
+
+5670 +     2153   ////      2159  CUL  C   RSP  35-140    III/1                 
+
+5700 +     2310   2326      0019  GO8  5   XRA  1-8A      C4.2    1.2E-02   9501
+
+5680       2312   2314      2314  PAL  G   RBR  1415      320                   
+
+5700       2319   ////      0815  LEA  C   RSP  025-180   CTM/1             9501
+
+5690       2322   2323      2323  LEA  U   RBR  245       66                    
+
+5700      B2337  U2343      0030  LEA  2   FLA  S10W37    SF      ERU       9501
+
+5720       2340   2340      0027  LEA  G   RNS  245       64                    

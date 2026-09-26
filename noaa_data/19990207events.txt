@@ -1,0 +1,45 @@
+:Product: 19990207events.txt
+:Created: 1999 Feb 10 0302 UT
+:Date: 1999 02 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Feb 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2440       0119   ////      0120  LEA  C   RSP  030-05    III/1                 
+
+2450       0305   0305      0305  LEA  G   RBR  245       53                    
+
+2460       0609   ////      0610  LEA  C   RSP  030-04    III/1                 
+
+2470 +     0637   0649      0659  GO8  5   XRA  1-8A      B4.7    5.0E-04       
+
+2480       0700   0700      0701  LEA  G   RBR  245       54                    
+
+2490       0730   0730      0730  LEA  G   RBR  245       78                    
+
+2500       0741   0741      0741  LEA  G   RBR  245       69                    
+
+2510       0824   0827      0832  LEA  G   RBR  245       180                   
+
+2570 +    B1007   ////      1149  SVI  3   DSF  N13W61    09      B.0A          
+
+2540       1059   1100      1100  SVI  U   RBR  245       220                   
+
+2560       1158   1159      1200  SVI  U   RBR  245       290                   
+
+2580 +     1450   1450      1450  SAG  G   RBR  245       110                   
+
+2520 +     1607   1616      1617  SAG  G   RNS  245       88                    
+
+2590       1653   1653      1654  SAG  G   RBR  245       100                   
+
+2600 +     1851   1859      1905  GO8  5   XRA  1-8A      B6.6    4.5E-04       
+2600 +     1852   1858      1923  RAM  3   FLA  N21E18    SF                    
+
+2620 +     2220   2221      2227  COM  3   FLA  N22E75    SF                8456

@@ -1,0 +1,31 @@
+:Product: 20040410events.txt
+:Created: 2004 Apr 13 0302 UT
+:Date: 2004 04 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3580 +     0123   0133      0147  G12  5   XRA  1-8A      B4.5    4.8E-04   0589
+3580       0127   0142      0147  G12  5   XFL  N12W02    9.3E+02 2.2E+03   0589
+3580       0128   0128      0146  LEA  3   FLA  N10E01    SF                0589
+
+3590 +     1546   1551      1556  G12  5   XRA  1-8A      B2.5    1.1E-04   0587
+3590       1550   1555      1555  G12  5   XFL  S13W90    4.8E+02 9.6E+02   0587
+
+3600       1659   ////      1715  HOL  C   RSP  025-180   III/1             0588
+3600 +     1711   1715      1717  G12  5   XRA  1-8A      B2.5    5.5E-05   0588
+3600       1715   1715      1715  G12  5   XFL  S18W35    2.8E+02 6.5E+02   0588
+
+3610       1851   ////      1851  HOL  C   RSP  025-044   III/1                 
+
+3620       1907   ////      1912  HOL  C   RSP  025-088   III/1                 
+
+3630       2128   2134      2139  G10  5   XRA  1-8A      B1.8    1.0E-04       
+
+3640       2338   ////      2338  PAL  C   RSP  025-145   III/1                 

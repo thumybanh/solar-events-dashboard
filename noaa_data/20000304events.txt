@@ -1,0 +1,53 @@
+:Product: 20000304events.txt
+:Created: 2000 Mar 07 0302 UT
+:Date: 2000 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7540 +     0032   0036      0041  GO8  5   XRA  1-8A      C1.3    6.1E-04       
+
+7550       0331   0333      0334  LEA  3   FLA  N15W33    SF                8889
+
+7560       0408   0409      0412  LEA  3   FLA  S16E25    SF                    
+
+7570       0537   0537      0538  LEA  G   RBR  245       61                    
+
+7580       0541   0542      0557  LEA  3   FLA  S16E25    SF                8900
+
+7590       0620   0628      0708  LEA  3   FLA  S17E26    SF                8900
+
+7650 +     0658   ////      1033  LEA  C   RSP  030-08    CTM/2                 
+
+7600       0750   0750      0752  LEA  G   RBR  245       70                    
+
+7630 +     0750   2019      2306  COM  G   RNS  245       160                   
+
+7640 +     0804   ////      0900  LEA  4   DSF  N40W36    09      B.0A      8888
+
+7610       0825   0827      0838  LEA  3   FLA  S16E23    SF                8900
+
+7620 +     1115   1120      1124  GO8  5   XRA  1-8A      C2.4    1.2E-03       
+
+7660       1441   1445      1448  SAG  G   RBR  410       73                    
+
+7720       1617   ////      2125  SAG  C   RSP  030-08    CTM/2             8899
+7720       1618   1652      1759  GO8  5   XRA  1-8A      C1.6    7.7E-03   8899
+7720       1625   1627      1627  SAG  G   RBR  606       75                8899
+7720       1642   1650      1707  HOL  3   FLA  S11E24    SF                8899
+
+7700       1811   1832      1859  GO8  5   XRA  1-8A      C1.8    4.8E-03       
+7700       1818   ////      1821  PAL  C   RSP  040-06    II/1    400           
+
+7710 +     2017   2020      2022  GO8  5   XRA  1-8A      C1.5    3.8E-04       
+
+7730      B2052   ////      2130  COM  3   DSF  N24W40    8                 8889
+7730       2056   2145      2228  GO8  5   XRA  1-8A      C2.2    1.0E-02   8889
+
+7760       2257   ////      2257  PAL  C   RSP  025-07    III/1                 

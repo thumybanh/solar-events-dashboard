@@ -1,0 +1,48 @@
+:Product: 19990304events.txt
+:Created: 1999 Mar 07 0302 UT
+:Date: 1999 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8800       0000   ////      0000  CUL  C   RSP  30-180    CTM/2                 
+
+8900      A0031   ////      1418  HOL  3   DSF  S16W25    09      B.0A          
+
+8790       0258   0303      0312  G10  5   XRA  1-8A      B7.3    5.4E-04       
+
+8810 +     0507   0514      0523  GO8  5   XRA  1-8A      C3.3    0.0E+00       
+8810       0510   0514      0529  LEA  4   FLA  N32W09    SF      ERU       8475
+
+8850       0700   0000      1200       F   RNS  204       30                    
+
+8970      A1015   ////      2340  LEA  3   DSF  S05E16    04      B.0A          
+
+8850 +     1531   1538      1552  SAG  G   RNS  245       87                    
+
+8860       1544   ////      1547  SAG  C   RSP  030-06    III/1                 
+
+8870       1559   1609      1615  GO8  5   XRA  1-8A      C1.0    8.5E-04   8477
+8870       1602   1609      1623  RAM  3   FLA  S25E30    SF                8477
+
+8880       1808   1808      1814  RAM  3   FLA  N31W16    SF                8475
+
+8890       1904   1905      1906  SAG  G   RBR  245       81                    
+
+8910       1926   1929      1931  SAG  G   RBR  245       500                   
+8910 +     1926   1931      1937  GO8  5   XRA  1-8A      C1.4    7.8E-04       
+8910 +     1927   ////      1928  SAG  C   RSP  030-05    III/1                 
+
+8920       2013   2018      2025  GO8  5   XRA  1-8A      C1.2    8.3E-04       
+
+8990      A2058   ////      1153  RAM  3   DSF  S07E11    07      B.7A          
+
+9000      A2058   ////      1153  RAM  3   DSF  S28E47    09      B.0A          
+
+9010      A2058   ////      1153  RAM  3   DSF  S63E69    38      B.0A          

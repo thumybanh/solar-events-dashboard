@@ -1,0 +1,22 @@
+:Product: 20010208events.txt
+:Created: 2001 Feb 11 0302 UT
+:Date: 2001 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7910 +     1807   1811      1815  GO8  5   XRA  1-8A      B7.8    3.3E-04       
+
+7920 +     2025   2030      2042  GO8  5   XRA  1-8A      C1.1    9.2E-04   9335
+7920       2029   2029      2033  HOL  3   FLA  N08E04    SF                9335
+
+7930 +     2119   2122      2124  GO8  5   XRA  1-8A      B6.4    1.6E-04       
+7930       2122   ////      2122  CUL  C   RSP  25-45     III/1                 
+
+7940       2143   ////      2143  CUL  C   RSP  28-90     III/1                 

@@ -1,0 +1,37 @@
+:Product: 20070607events.txt
+:Created: 2007 Jun 11 2332 UT
+:Date: 2007 06 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jun 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3410 +     0018   0045      0049  G11  5   XRA  1-8A      B7.6    6.6E-04       
+
+3420 +     0133   0140      0146  G11  5   XRA  1-8A      B6.6    3.2E-04       
+
+3430 +     0311   ////      0312  CUL  C   RSP  18-50     III/1                 
+
+3440 +     0327   ////      0327  LEA  C   RSP  063-180   III/1                 
+
+3450       0347   0348      0350  LEA  3   FLA  S07E09    SF                0960
+
+3460 +     0622   0644      0650  G11  5   XRA  1-8A      C3.9    2.2E-03       
+
+3470 +     0831   0835      0837  G11  5   XRA  1-8A      B4.9    1.1E-04       
+
+3480 +     1010   1052      1107  G11  5   XRA  1-8A      C1.1    2.4E-03       
+
+3490 +     1508   ////      1515  SVI  C   RSP  034-180   III/2                 
+
+3500 +     1707   1720      1725  G11  5   XRA  1-8A      B9.7    6.5E-04   0960
+3500       1713   1721      1730  HOL  3   FLA  S07E02    SF      ERU       0960
+
+3510       2309   ////      2309  CUL  C   RSP  23-90     III/1                 
+
+3520       2328   ////      2328  CUL  C   RSP  20-50     III/1                 

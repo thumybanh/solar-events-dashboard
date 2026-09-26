@@ -1,0 +1,54 @@
+:Product: 20010317events.txt
+:Created: 2001 Mar 20 0302 UT
+:Date: 2001 03 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Mar 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1980 +     0245   0248      0251  GO8  5   XRA  1-8A      B4.1    1.3E-04       
+
+2000 +     0331   0532      0627  G10  5   XRA  1-8A      C2.0    1.5E-02       
+2000       0354   ////      0355  LEA  C   RSP  025-056   III/1                 
+
+2010       0454   ////      0705  LEA  C   RSP  076-180   CTM/1                 
+
+2020 +     0610   0610      0610  SVI  G   RBR  245       80                    
+2020 +     0610   ////      0611  LEA  C   RSP  025-180   III/1                 
+
+2030       0811   ////      0815  LEA  C   RSP  025-073   III/1                 
+
+2040       0910   0914      0918  GO8  5   XRA  1-8A      B8.8    3.5E-04   9384
+2040       0913   0914      0918  LEA  3   FLA  N10W24    SF      ERU       9384
+
+2050       1407   1412      1417  G10  5   XRA  1-8A      B5.2    2.8E-04       
+
+2060 +     1712   1720      1729  GO8  5   XRA  1-8A      C3.9    2.4E-03   9373
+2060 +     1714   1715      1716  SAG  G   RBR  245       33                9373
+2060 +     1714   1715      1716  SAG  G   RBR  410       59                9373
+2060 +     1714   1715      1716  SAG  G   RBR  1415      69                9373
+2060 +     1714   1717      1718  SAG  G   RBR  2695      18                9373
+2060       1715   1715      1716  SAG  G   RBR  606       44                9373
+2060       1715   1717      1718  SAG  G   RBR  4995      17                9373
+2060 +     1717   1719      1742  RAM  3   FLA  S08W37    SF      PRB       9373
+
+2070       1817   1817      1818  SAG  G   RBR  245       73                    
+
+2080 +     1938   ////      1938  HOL  C   RSP  025-087   III/1                 
+
+2090       2034   ////      2034  HOL  C   RSP  025-180   III/1                 
+
+2100       2036   ////      2038  HOL  C   RSP  025-127   III/1                 
+
+2110 +     2128   2128      2128  PAL  G   RBR  245       110                   
+
+2150       2243   ////      0535  LEA  C   RSP  025-180   CTM/1                 
+
+2120       2301   2301      2303  LEA  U   RBR  245       53                    
+
+2130 +     2313   ////      2313  HOL  C   RSP  025-117   III/1                 

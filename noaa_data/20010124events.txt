@@ -1,0 +1,67 @@
+:Product: 20010124events.txt
+:Created: 2001 Jan 27 0302 UT
+:Date: 2001 01 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6420       0010   0023      0033  LEA  3   FLA  N04W65    SF      ERU       9311
+
+6430 +     0038   0049      0100  GO8  5   XRA  1-8A      C9.2    7.3E-03   9311
+6430       0041   0051      0247  LEA  3   FLA  N06W65    1F      ERU       9311
+
+6440       0124   0124      0129  LEA  3   FLA  S07E00    SF                9313
+
+6450       0202   0205      0226  LEA  3   FLA  S06E00    SF      ERU       9313
+
+6480       0220   0220      0225  LEA  3   FLA  S06E45    SF                9321
+
+6460       0249   0249      0255  LEA  3   FLA  S21W03    SF                9322
+
+6490       0249   0254      0255  LEA  3   FLA  N04W67    SF                9311
+
+6470 +     0404   0419      0425  GO8  5   XRA  1-8A      C1.6    1.7E-03       
+
+6500 +     0525   0534      0547  GO8  5   XRA  1-8A      C2.6    2.9E-03       
+
+6510 +     0716   0727      0737  GO8  5   XRA  1-8A      C1.8    1.8E-03   9321
+6510      B0723  U0723      0732  LEA  3   FLA  S05E41    SF                9321
+
+6520 +     0815   0818      0822  GO8  5   XRA  1-8A      C1.3    4.7E-04   9311
+6520       0818   0818      0827  LEA  3   FLA  N04W69    SF      ERU       9311
+
+6530 +     0828   0831      0834  GO8  5   XRA  1-8A      C1.2    4.0E-04       
+
+6540       0842   0842      0905  LEA  3   FLA  N03W70    SF      ERU       9311
+
+6550 +     1055   1106      1111  GO8  5   XRA  1-8A      C6.4    4.2E-03       
+
+6560       1230   1231      1252  RAM  3   FLA  S17W80    SF      DSD       9319
+6560       1236   1250      1255  GO8  5   XRA  1-8A      C2.2    2.4E-03   9319
+
+6570 +     1437   1447      1450  GO8  5   XRA  1-8A      M1.0    4.4E-03   9311
+6570       1441   1444      1501  RAM  3   FLA  N06W77    2F      DSD       9311
+
+6580 +     1540   1551      1555  GO8  5   XRA  1-8A      C6.3    3.6E-03   9311
+6580       1548   1548      1557  RAM  3   FLA  N06W78    SF                9311
+
+6590 +     1708   1713      1722  GO8  5   XRA  1-8A      C1.4    1.1E-03       
+
+6600 +     1825   1834      1842  GO8  5   XRA  1-8A      C4.5    3.6E-03   9311
+6600 +     1825   1829      1848  RAM  3   FLA  N06W78    SF                9311
+
+6610 +     1929   1933      1939  RAM  3   FLA  N07W79    SF                9311
+6610       1929   1932      1939  GO8  5   XRA  1-8A      C2.1    1.2E-03   9311
+
+6620 +     2019   2022      2025  GO8  5   XRA  1-8A      C1.9    5.1E-04       
+
+6630 +     2041   2045      2048  GO8  5   XRA  1-8A      C1.4    4.3E-04   9311
+6630       2046   2047      2049  HOL  3   FLA  N07W80    SF      ERU       9311
+
+6640 +     2323   2345      2348  GO8  5   XRA  1-8A      C4.2    2.9E-03       

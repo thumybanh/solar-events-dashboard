@@ -1,0 +1,42 @@
+:Product: 20000106events.txt
+:Created: 2000 Jan 09 0302 UT
+:Date: 2000 01 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6890       0030   ////      0037  LEA  C   RSP  030-06    III/2                 
+
+6900       0226   ////      0227  LEA  C   RSP  030-05    III/1                 
+
+6910 +     0645   0653      0706  GO8  5   XRA  1-8A      C5.8    4.9E-03   8816
+6910       0647   ////      0650  LEA  C   RSP  030-08    III/2             8816
+6910 +     0648   0648      0649  LEA  G   RBR  410       51                8816
+6910 +     0648   0649      0651  LEA  G   RBR  2695      78                8816
+6910 +     0648   0649      0650  LEA  G   RBR  4995      71                8816
+6910       0648   0649      0650  LEA  G   RBR  8800      44                8816
+6910       0648   0649      0653  SVI  U   RBR  1415      31                8816
+6910       0648   0650      0721  LEA  3   FLA  N24W35    1N                8816
+6910       0649   0649      0649  LEA  G   RBR  245       40                8816
+
+6920       1038   1039      1039  SVI  G   RBR  245       57                    
+
+6930       1054   1054      1054  SVI  G   RBR  245       68                    
+
+6940 +     1112   1119      1128  GO8  5   XRA  1-8A      B9.3    7.6E-04       
+
+6950       1559   1602      1604  GO8  5   XRA  1-8A      B6.0    1.4E-04       
+
+6960       1850   1854      1903  G10  5   XRA  1-8A      B9.6    6.7E-04       
+
+6970       2215   2217      2219  PAL  G   RBR  245       84                    
+6970 +     2215   2223      2232  GO8  5   XRA  1-8A      C1.6    1.3E-03       
+6970 +     2218   ////      2219  PAL  C   RSP  025-04    III/1                 
+
+6980       2250   2251      2253  HOL  3   FLA  N20W43    SF                8816

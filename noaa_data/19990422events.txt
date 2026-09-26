@@ -1,0 +1,24 @@
+:Product: 19990422events.txt
+:Created: 1999 Apr 25 0302 UT
+:Date: 1999 04 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7110 +     0021   0029      0041  GO8  5   XRA  1-8A      C1.5    1.3E-03       
+
+7120 +     0458   0509      0519  GO8  5   XRA  1-8A      C4.5    3.8E-03       
+
+7140       0548   ////      1628  SVI  C   RSP  035-08    CTM/1                 
+
+7130       0815   ////      0815  SVI  C   RSP  035-06    III/2                 
+
+7160       1107   ////      2120  SAG  C   RSP  030-08    CTM/2                 
+
+7150       1802   ////      0000  PAL  C   RSP  025-06    CTM/1                 

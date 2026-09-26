@@ -1,0 +1,65 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 20 Mar 1998
+
+EDITED EVENTS for 1998 Mar 17
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+850  +     0028   0041      0101  GO9  5   XRA  1-8A      C2.0    3.4E-03
+850  +     0029   0031      0032  LEA  G   RBR  606       130
+
+860  +     0300   ////      0301  CUL  C   RSP  20-150    III/2
+
+870  +     0320   0327      0331  GO9  5   XRA  1-8A      C2.0    1.0E-03   8179
+870        0323   0323      0334  LEA  4   FLA  S22W19    SF      ERU       8179
+
+880  +     0411   0417      0421  GO9  5   XRA  1-8A      C1.2    6.1E-04
+
+890        0423   0424      0456  LEA  3   FLA  S21W21    SF                8179
+
+900        0524   0524      0524  LEA  G   RBR  410       88
+900        0524   0524      0524  LEA  G   RBR  606       340
+900        0524   0524      0525  LEA  G   RBR  1415      18
+
+1010       0546   0618      0629  GO9  5   XRA  1-8A      C1.4    2.8E-03
+
+1070       0713   ////      0716  CUL  C   RSP  30-90     III/1
+
+910  +     0733   ////      0734  LEA  C   RSP  030-08    III/3
+
+920  +     0754   ////      0755  LEA  C   RSP  030-06    III/2
+
+930  +     0813   0829      0834  GO9  5   XRA  1-8A      C1.1    1.1E-03   8179
+930        0829   0829      0836  SVI  3   FLA  S23W21    SF      ERU       8179
+
+940  +     0908   ////      0909  LEA  C   RSP  035-06    III/2
+
+950  +     1037   1041      1048  GO9  5   XRA  1-8A      C2.3    1.1E-03
+
+960       B1059  U1059      1107  SVI  3   FLA  S23W23    SF      ERU       8179
+
+1040      B1249   ////      1718  RAM  4   DSF  S05W27    06      B.0A
+
+970  +     1253   1257      1304  GO9  5   XRA  1-8A      B8.2    4.7E-04   8179
+970        1255   1257      1303  RAM  3   FLA  S20W23    SF                8179
+
+980        1311   1311      1325  SVI  3   FLA  S21W26    SF      ERU       8179
+
+990  +     1329   1335      1341  GO9  5   XRA  1-8A      C3.6    1.7E-03   8179
+990  +    B1333  U1333      1346  RAM  3   FLA  S21W23    SF                8179
+
+1000       1413   1417      1422  HOL  3   FLA  S25W21    SF      ERU       8179
+
+1040       1629   1716      1730  GO9  5   XRA  1-8A      C1.2    3.3E-03
+
+1020 +     1944   1944      1944  PAL  G   RBR  606       310
+
+1030 +     2036   2036      2037  PAL  G   RBR  606       130
+
+1050       2316   2316      2320  LEA  3   FLA  S25W25    SF                8179
+
+1080 +     2344   ////      2344  LEA  C   RSP  030-05    III/1
+
+1090       2345   ////      2345  CUL  C   RSP  20-90     III/1
+
+1060       2359   0000      0000  LEA  G   RBR  245       84

@@ -1,0 +1,43 @@
+:Product: 20020428events.txt
+:Created: 2002 May 01 0300 UT
+:Date: 2002 04 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Apr 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4240 +     0458   0458      0459  LEA  G   RBR  245       72                    
+
+4250       0503   0503      0504  LEA  G   RBR  245       58                    
+
+4260 +     0531   0531      0531  LEA  G   RBR  245       160                   
+
+4270       0536   ////      0545  LEA  C   RSP  025-180   III/1                 
+
+4280       0546   0547      0547  LEA  G   RBR  245       73                    
+
+4290 +     0714   ////      0717  LEA  C   RSP  025-180   III/1                 
+
+4300 +     0732   0732      0732  LEA  G   RBR  245       81                    
+
+4310       1347   1347      1347  SAG  G   RBR  245       100                   
+
+4320 +     1817   1823      1841  GO8  5   XRA  1-8A      C1.0    1.2E-03   9924
+4320       1820   1822     A1853  HOL  3   FLA  S15W57    SF                9924
+4320       1822   ////      1825  HOL  C   RSP  025-180   III/1             9924
+
+4360 +     1822   1823      2009  SAG  G   RNS  245       73                    
+
+4330       2054   2103      2113  GO8  5   XRA  1-8A      C1.2    1.3E-03   9915
+4330       2058   2101      2109  HOL  3   FLA  N15W39    SF      ERU       9915
+
+4370       2231   2241      2256  GO8  5   XRA  1-8A      C1.3    1.9E-03       
+
+4340       2248   ////      2248  HOL  C   RSP  025-180   III/1                 
+
+4350       2313   ////      2313  LEA  C   RSP  025-054   III/1                 

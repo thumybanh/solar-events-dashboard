@@ -1,0 +1,41 @@
+:Product: 20020805events.txt
+:Created: 2002 Aug 08 0300 UT
+:Date: 2002 08 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Aug 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9880 +     0002   ////      0003  CUL  C   RSP  57-160    III/1                 
+
+9890       0236   ////      0236  CUL  C   RSP  57-80     III/1                 
+
+9900 +     0327   0331      0335  GO8  5   XRA  1-8A      C1.5    6.8E-04   0057
+9900       0329   0329      0336  LEA  3   FLA  S07W45    SF                0057
+
+9910 +     0421   0517      0533  GO8  5   XRA  1-8A      C4.8    1.5E-02   0057
+9910 +     0431   ////      0431  CUL  C   RSP  57-100    III/1             0057
+
+  10       0501   ////      0501  CUL  C   RSP  57-90     III/1                 
+
+9910 +     0515   0517      0528  LEA  3   FLA  S10W43    SF                0057
+
+9920 +     0642   ////      0645  CUL  C   RSP  57-280    III/2                 
+
+9930       0910   0910      0910  SVI  G   RBR  245       66                    
+
+9950 +     2114   2122      2130  GO8  5   XRA  1-8A      M1.0    6.6E-03   0063
+9950       2124   ////      2127  CUL  C   RSP  57-180    III/1             0063
+
+9960       2200   ////      2200  CUL  C   RSP  57-90     III/1                 
+
+9970       2245   ////      2248  CUL  C   RSP  57-80     III/1                 
+
+9980       2343   2345      2345  LEA  G   RBR  606       85                    
+
+9990       2356   2356      2356  LEA  G   RBR  606       85                    

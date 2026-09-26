@@ -1,0 +1,55 @@
+:Product: 20000819events.txt
+:Created: 2000 Aug 22 0302 UT
+:Date: 2000 08 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3230       0159   0200      0203  LEA  4   FLA  N21W01    SF                9132
+
+3210 +     0432   0439      0442  GO8  5   XRA  1-8A      C5.0    1.7E-03   9125
+3210       0435   0437      0449  LEA  4   FLA  N22W37    SF      ERU       9125
+
+3220       0527   0551      0624  LEA  4   FLA  N26W45    SF      ERU       9125
+
+3270       0539   0545      0548  LEA  4   FLA  S39W74    SF                9127
+
+3220 +     0544   0553      0601  GO8  5   XRA  1-8A      C2.2    2.1E-03       
+3220       0545   ////      0548  SVI  C   RSP  026-083   III/1             9125
+
+3240 +     0656   0703      0712  GO8  5   XRA  1-8A      B8.9    7.8E-04   9132
+3240 +     0657   0659      0710  LEA  4   FLA  N21W04    SF                9132
+
+3250 +     0946   0950      0952  GO8  5   XRA  1-8A      B7.7    2.4E-04       
+
+3330       1407   1407      1420  RAM  3   FLA  S09W58    SF                9133
+3330       1413   ////      1429  SVI  C   RSP  036-053   III/1             9133
+
+3300       1427   1431      1444  HOL  3   FLA  N20W44    SF                9125
+
+3320       1445   1445      1450  HOL  3   FLA  S13W48    SF                9124
+
+3340       1451   1452      1455  HOL  3   FLA  S14W48    SF                9124
+
+3280 +     1506   ////      1506  SAG  C   RSP  030-048   III/1                 
+
+3290       1543   ////      1548  SAG  C   RSP  030-050   III/1                 
+
+3350       1738   1738      1818  RAM  3   FLA  N22W45    SF                9125
+3350       1739   ////      1739  SAG  C   RSP  030-070   III/1             9125
+
+3360 +     1919   1925      1930  GO8  5   XRA  1-8A      C4.1    1.6E-03   9125
+3360 +     1922   1922      1924  SAG  G   RBR  606       75                9125
+3360       1922   1924      1949  HOL  3   FLA  N21W46    1F      BPT       9125
+
+3370       1952   1952      1957  HOL  3   FLA  N19W45    SF                9125
+
+3380       1957   2002      2004  HOL  3   FLA  N21W13    SF                9132
+
+3390       2140   2142      2148  HOL  3   FLA  N27W53    SF                9125

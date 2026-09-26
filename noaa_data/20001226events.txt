@@ -1,0 +1,47 @@
+:Product: 20001226events.txt
+:Created: 2000 Dec 29 0302 UT
+:Date: 2000 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+830        0025   0041      0049  GO8  5   XRA  1-8A      C1.2    1.5E-03       
+
+660  +     0413   0416      0421  GO8  5   XRA  1-8A      C1.1    4.7E-04   9283
+
+670  +     0431   0438      0445  GO8  5   XRA  1-8A      C3.4    2.0E-03       
+
+680  +     0523   0531      0539  GO8  5   XRA  1-8A      C2.4    1.8E-03   9283
+
+690  +     0609   0615      0626  GO8  5   XRA  1-8A      C5.0    3.6E-03       
+
+700  +     0859   0902      0908  GO8  5   XRA  1-8A      C1.1    5.5E-04       
+
+710  +     0929   ////      0930  LEA  C   RSP  030-117   III/1                 
+
+720  +     0944   ////      0945  LEA  C   RSP  025-180   III/2                 
+
+730  +     1043   1056      1111  GO8  5   XRA  1-8A      C5.4    6.5E-03   9283
+
+740  +     1118   1122      1132  GO8  5   XRA  1-8A      C6.8    4.5E-03       
+
+750  +     1349   ////      1349  SAG  C   RSP  030-080   III/3                 
+
+760  +     1602   1613      1619  GO8  5   XRA  1-8A      M1.3    8.0E-03   9289
+760  +     1606   1606      1618  RAM  3   FLA  S09E90    SF                9289
+
+770  +     1741   1753      1803  GO8  5   XRA  1-8A      C1.5    1.8E-03   9283
+
+800        1844   ////      1844  HOL  C   RSP  025-149   III/1                 
+
+810  +     1928   1933      1939  GO8  5   XRA  1-8A      C2.9    1.3E-03       
+
+820  +     2024   2028      2033  GO8  5   XRA  1-8A      C2.5    1.2E-03       
+
+840  +     2340   2350      0004  GO8  5   XRA  1-8A      C4.0    3.8E-03       

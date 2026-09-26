@@ -1,0 +1,61 @@
+:Product: 20000926events.txt
+:Created: 2000 Sep 29 0302 UT
+:Date: 2000 09 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Sep 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2570 +     0055   0059      0102  GO8  5   XRA  1-8A      C4.2    1.1E-03       
+2570       0100   0101      0101  LEA  G   RBR  245       66                    
+
+2580       0103   0106      0107  LEA  G   RBR  245       87                    
+
+2590       0443   0446      0448  G10  5   XRA  1-8A      C2.0    5.1E-04       
+
+2690       0511   ////      1618  SVI  C   RSP  025-168   CTM/1                 
+
+2640       0600   0000      1200       F   RNS  204       20                    
+
+2610 +     0911   ////      0912  LEA  C   RSP  025-180   III/3                 
+
+2640 +     0919   1054      1055  SVI  G   RNS  245       120                   
+
+2620       0922   0926      0936  GO8  5   XRA  1-8A      C2.5    1.9E-03       
+
+2630 +     1228   1231      1241  GO8  5   XRA  1-8A      C4.3    2.9E-03   9173
+
+2750       1230   ////      1931  SAG  C   RSP  030-080   CTM/2                 
+
+2630      B1232  U1233     A1240  SVI  3   FLA  S15E59    SF                9173
+
+2650       1319   ////      1320  HOL  C   RSP  025-081   III/1                 
+
+2660 +     1348   1354      1400  HOL  3   FLA  S07W26    SF      ERU       9170
+
+2680       1449   1449      1449  SAG  G   RBR  245       65                    
+
+2700       1824   ////      1826  HOL  C   RSP  025-176   V/1                   
+
+2710 +     1949   2000      2005  GO8  5   XRA  1-8A      C8.2    4.8E-03       
+
+2720       2106   2110      2116  HOL  3   FLA  S08E89    SF                    
+
+2760       2116   2122      2129  HOL  3   FLA  S09E89    SF                    
+
+2730       2132   ////      2132  SAG  C   RSP  030-070   III/1                 
+
+2740 +     2140   2149      2159  GO8  5   XRA  1-8A      C6.7    5.5E-03   9173
+2740       2142   2147      2205  HOL  3   FLA  S13E57    SF      ERU       9173
+
+2820       2222   ////      0015  HOL  C   RSP  025-180   CTM/1                 
+
+2780       2225   ////      1004  LEA  C   RSP  025-180   CTM/1             9169
+2780       2307   2308      2311  HOL  3   FLA  N15W34    SF      ERU       9169
+
+2790 +     2351   2353      2358  LEA  3   FLA  N22E68    SF                9175

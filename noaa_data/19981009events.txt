@@ -1,0 +1,46 @@
+:Product: 19981009events.txt
+:Created: 1998 Oct 12 0302 UT
+:Date: 1998 10 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6140 +     0044   0050      0058  GO8  5   XRA  1-8A      B6.6    4.4E-04       
+6140       0048   0049      0101  LEA  3   FLA  N19W12    SF                8350
+
+6150       0424   0429      0435  G10  5   XRA  1-8A      B5.5    3.2E-04       
+
+6160 +     0742   0753      0809  GO8  5   XRA  1-8A      C1.3    1.7E-03       
+6160       0748   0754      0801  LEA  3   FLA  N20W07    SF      BPT       8356
+
+6170       1001   1005      1008  GO8  5   XRA  1-8A      C1.6    3.9E-04       
+
+6180       1143   1144      1148  RAM  3   FLA  S24W73    SF                8349
+
+6190 +     1318   1322      1325  GO8  5   XRA  1-8A      B9.3    2.5E-04   8355
+6190 +     1320   1321      1322  SAG  G   RBR  245       75                8355
+6190 +     1320   1320      1320  SVI  G   RBR  410       34                8355
+
+6200       1321   1331      1335  RAM  3   FLA  S19E40    SF      DSD       8355
+6200 +     1327   1330      1332  GO8  5   XRA  1-8A      C1.5    2.8E-04       
+6200 +     1327   1328      1329  SVI  G   RBR  410       31                    
+6200 +     1328   1328      1329  SAG  G   RBR  245       620                   
+
+6210       1342   ////      1342  SAG  C   RSP  030-08    III/2                 
+
+6230       1545   1546      1556  RAM  3   FLA  S24W76    SF                8349
+
+6240 +     1601   1610      1618  RAM  4   FLA  S25W76    SF                8349
+6240 +     1605   1608      1612  GO8  5   XRA  1-8A      B4.4    1.6E-04   8349
+
+6250       1645   1648      1702  RAM  3   FLA  S25W77    SF                8349
+
+6260       1709   1710      1712  RAM  4   FLA  S25W77    SF                8349
+
+6270       2326   2327      2337  HOL  3   FLA  S23E40    SF                8355

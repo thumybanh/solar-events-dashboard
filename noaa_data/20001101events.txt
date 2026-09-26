@@ -1,0 +1,45 @@
+:Product: 20001101events.txt
+:Created: 2000 Nov 04 0302 UT
+:Date: 2000 11 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Nov 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9440 +     0926   0931      0935  GO8  5   XRA  1-8A      C2.5    1.2E-03       
+
+9450       1040   1042      1049  SVI  3   FLA  N20E44    SF                    
+
+9460       1139   ////      1139  SVI  C   RSP  075-159   III/2                 
+
+9470 +     1302   1308      1313  GO8  5   XRA  1-8A      C3.2    1.8E-03       
+9470       1302   1308      1320  RAM  3   FLA  N17E44    SF                    
+
+9480       1536   1537      1540  RAM  3   FLA  N06E24    SF      ERU       9212
+
+9490 +     1551   1610      1721  GO8  5   XRA  1-8A      C2.2    1.1E-02       
+
+9520       1627   1652      1748  SAG  G   RNS  245       110                   
+
+9530       1724   ////      1900  SAG  C   RSP  030-080   CTM/1                 
+
+9500       1735   1738      1740  SAG  G   RBR  606       100                   
+9500       1736   1738      1740  SAG  G   RBR  410       42                    
+
+9510 +     1831   1845      1853  GO8  5   XRA  1-8A      C3.8    3.7E-03   9218
+9510 +     1840   1844      1854  HOL  3   FLA  N20E42    SF      ERU       9218
+
+9540       1948   1948      1948  PAL  G   RBR  245       54                    
+9540       1948   1948      1948  PAL  G   RBR  410       59                    
+
+9550       2130   2133      2147  HOL  3   FLA  N19E42    SF      ERU       9218
+
+9560 +     2250   2301      2312  GO8  5   XRA  1-8A      C2.5    3.0E-03   9218
+9560       2301   2303      2311  HOL  3   FLA  N19E39    SF      ERU       9218
+
+9570       2314   ////      2316  CUL  C   RSP  30-90     III/1                 

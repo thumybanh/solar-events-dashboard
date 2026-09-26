@@ -1,0 +1,84 @@
+:Product: 20240719events.txt
+:Created: 2024 Jul 22 0357 UT
+:Date: 2024 07 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Jul 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2030       0443   0454      0510  SVI  3   FLA  S06W12    SF                3759
+
+2040 +     0518   0529      0531  G16  5   XRA  1-8A      C5.0    4.5E-03   3753
+2040       0523   0528      0549  SVI  3   FLA  N07W64    SF      ERU       3753
+
+2050 +     0558   ////      0558  SVI  C   RSP  055-180   III/2                 
+
+2060       0641   0642      0645  SVI  3   FLA  N26E29    SF                3754
+
+2070       0722   0725      0730  SVI  3   FLA  S09E13    SF                3751
+
+2080 +     0752   0801      0809  G16  5   XRA  1-8A      C6.5    4.7E-03   3751
+2080       0755   ////      0820  LEA  C   RSP  065-180   VI/1              3751
+2080       0755   ////      0755  SVI  C   RSP  129-180   III/1             3751
+2080       0756   0759      0808  SVI  3   FLA  S11E08    SF      ERU       3751
+
+2090 +     0813   0823      0830  G16  5   XRA  1-8A      M3.2    2.0E-02   3753
+2090 +     0815   0819      0839  SVI  3   FLA  N11W67    1F      ERU       3753
+2090       0817   0818      0821  SVI  G   RBR  4995      260               3753
+2090       0817   0818      0820  SVI  G   RBR  8800      190               3753
+2090       0818   0818      0819  SVI  G   RBR  15400     100               3753
+2090       0818   ////      0821  SVI  C   RSP  025-066   III/1             3753
+
+2100       0925   0928      0934  SVI  3   FLA  S09E23    SF      DSD           
+
+2110       1052   1053      1055  SVI  3   FLA  S08W56    SF                3743
+
+2120 +     1138   1201      1224  G16  5   XRA  1-8A      C6.2    1.3E-02   3742
+2120       1142   1149      1210  SVI  3   FLA  S19W58    SF      ERU       3742
+
+2150 +     1258   ////      1300  SAG  C   RSP  112-180   III/1                 
+
+2130       1259   1304      1308  SVI  3   FLA  N20E39    SF                3757
+
+2160       1324   1325      1328  HOL  3   FLA  S11E07    SF                3751
+
+2170       1333   1334      1343  HOL  3   FLA  S15E33    SF      DSD       3756
+
+2270       1344   1345      1353  HOL  3   FLA  S09E21    SF      DSD       3751
+
+2260       1349   1349      1351  SVI  3   FLA  S10E09    SF                3751
+
+2180 +     1353   1401      1416  G16  5   XRA  1-8A      C8.7    9.1E-03   3751
+2180 +     1414   1414      1440  HOL  3   FLA  S12E08    1N      ERU       3751
+
+2190 +     1447   ////      1559  SAG  C   RSP  025-180   VI/1                  
+
+2200 +     1548   1554      1558  G16  5   XRA  1-8A      C2.7    1.5E-03   3751
+2200 +     1553   1553      1601  HOL  3   FLA  S09E06    SF                3751
+
+2210       1600   1600      1600  SVI  G   RBR  245       120                   
+
+2220       1612   1612      1615  HOL  3   FLA  S09E06    SF                3751
+
+2230       1647   1647      1647  PAL  G   RBR  245       110                   
+
+2430      A1651   ////     A0511  SVI  3   DSF  S24E04    19                    
+
+2240 +     1702   1702      1702  PAL  G   RBR  245       130                   
+
+2250 +     1753   1806      1825  G16  5   XRA  1-8A      M2.0    2.2E-02   3751
+2250       1758   1806      1910  HOL  3   FLA  S10E03    2N      DSD       3751
+2250       1801   1802      1802  SVI  G   RBR  8800      270               3751
+2250 +     1802   1803      1803  PAL  G   RBR  2695      220               3751
+2250 +     1802   1802      1803  PAL  G   RBR  4995      200               3751
+2250       1802   1802      1803  SVI  G   RBR  1415      170               3751
+
+2280 +     2225   2237      2244  G16  5   XRA  1-8A      C8.7    2.4E-03   3758
+2280       2234   2251      2301  HOL  3   FLA  S05W68    SF                3758
+
+2290 +     2244   2251      2306  G16  5   XRA  1-8A      M1.0    1.3E-02   3758

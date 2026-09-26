@@ -1,0 +1,46 @@
+:Product: 20000703events.txt
+:Created: 2000 Jul 06 0302 UT
+:Date: 2000 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5990       0010   ////      0010  CUL  C   RSP  23-90     III/1                 
+
+5880       0041   0047      0052  GO8  5   XRA  1-8A      B8.6    5.0E-04   9063
+5880       0044   0045      0050  LEA  3   FLA  N26W37    SF                9063
+
+5890 +     0136   0142      0148  GO8  5   XRA  1-8A      B8.8    5.8E-04       
+
+6000       0330   ////      0336  CUL  C   RSP  28-90     III/1                 
+
+5980       0407   0415      0421  GO8  5   XRA  1-8A      B8.1    6.2E-04       
+
+5900       0419   0421      0426  LEA  3   FLA  N17E69    SF      ERU       9070
+
+5910 +     0603   ////      0605  CUL  C   RSP  23-180    III/2                 
+
+6010       0607   ////      0607  CUL  C   RSP  30-120    III/1                 
+
+5930       1320   ////      1320  SAG  C   RSP  030-06    III/1                 
+
+5940       1627   1630      1632  G10  5   XRA  1-8A      B7.2    1.9E-04   9062
+5940       1629   1630      1635  HOL  3   FLA  S14W31    SF                9062
+
+5950       1655   1701      1706  HOL  3   FLA  S13W44    SF                9061
+5950       1704   1720      1727  GO8  5   XRA  1-8A      B9.8    1.1E-03   9061
+
+5960 +     1719   ////      1720  HOL  C   RSP  025-18    III/1                 
+
+5970       2046   2054      2057  GO8  5   XRA  1-8A      B7.3    3.8E-04   9068
+5970       2053   2054      2100  HOL  3   FLA  S17E39    SF      ERU       9068
+
+6020       2119   ////      2119  CUL  C   RSP  30-80     III/1                 
+
+6030 +     2337   ////      2337  HOL  C   RSP  025-13    III/1                 

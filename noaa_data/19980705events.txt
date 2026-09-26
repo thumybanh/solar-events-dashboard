@@ -1,0 +1,67 @@
+:Product: 19980705events.txt
+:Created: 1998 Jul 08 0303 UT
+:Date: 1998 07 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2690       0227   ////      0229  LEA  C   RSP  030-03    III/1                 
+
+2700 +     0257   ////      0302  PAL  C   RSP  034-05    III/1                 
+
+2710       0312   ////      0312  LEA  C   RSP  030-04    III/1                 
+
+2720 +     0342   0346      0354  GO9  5   XRA  1-8A      B7.8    4.7E-04       
+
+2730 +     0451   ////      0451  SVI  C   RSP  051-08    III/2                 
+
+2740       0530   ////      0530  SVI  C   RSP  073-08    III/1                 
+
+2850       0600   0000      1200       F   RNS  204       30                    
+
+2750 +     0613   0618      0623  GO9  5   XRA  1-8A      C1.2    6.2E-04       
+
+2760 +     0653   ////      0654  SVI  C   RSP  035-08    III/2                 
+
+2770 +     0718   ////      0719  SVI  C   RSP  035-08    III/2                 
+
+2780 +     0821   0822      0822  SVI  G   RBR  245       89                    
+
+2790 +     0852   0858      0904  GO9  5   XRA  1-8A      C1.1    6.4E-04       
+
+2800 +     1025   1031      1036  GO9  5   XRA  1-8A      C1.9    9.5E-04       
+2800       1027   ////      1029  SVI  C   RSP  035-08    V/3                   
+
+2810 +     1103   ////      1109  SVI  C   RSP  035-08    III/2                 
+
+2820 +     1129   1144      1202  GO9  5   XRA  1-8A      C7.3    9.6E-03       
+2820       1129   1140      1252  SVI  3   FLA  N16E24    2F      ERU       8264
+2820 +     1153   1153      1153  SVI  G   RBR  245       55                8264
+
+2850 +     1208   1216      1257  SVI  G   RNS  245       75                    
+
+2830       1215   1216      0000  SAG  G   RBR  245       90                8264
+2830      B1219  U1219     A1316  HOL  3   FLA  N17E25    SF                8264
+
+2860       1248   ////      1319  SVI  U   RSP  035-08    CTM/1                 
+
+2830 +     1252   1256      1302  GO9  5   XRA  1-8A      C1.7    9.4E-04   8264
+2830 +     1252   ////      1254  SVI  C   RSP  035-07    V/2               8264
+
+2870 +     1638   1644      1652  GO9  5   XRA  1-8A      B7.4    5.4E-04   8256
+2870 +     1640   ////      1640  SVI  C   RSP  035-07    III/3             8256
+2870       1640   ////      1641  SAG  C   RSP  030-07    V/2               8256
+2870       1641   1642      1658  SVI  3   FLA  S24W59    SF      ERU       8256
+
+2880 +     1800   1824      1839  GO9  5   XRA  1-8A      C1.6    2.9E-03   8256
+2880       1805   1806      1816  HOL  3   FLA  S22W56    SF                8256
+
+2890 +     2131   ////      2131  PAL  C   RSP  028-05    III/1                 
+
+2900       2315   ////      2316  PAL  C   RSP  027-05    III/2                 

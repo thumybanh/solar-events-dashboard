@@ -1,0 +1,51 @@
+:Product: 20060407events.txt
+:Created: 2006 Apr 10 0329 UT
+:Date: 2006 04 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Apr 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3410       0048   ////      1000  LEA  C   RSP  119-180   CTM/1             0865
+3410 +     0118   0121      0124  G12  5   XRA  1-8A      B2.2    7.3E-05   0865
+3410       0121   0121      0121  G12  5   XFL  S08W63    2.3E+02 4.2E+02   0865
+
+3420       0425   ////      0425  CUL  C   RSP  25-60     III/1                 
+
+3430       0457   0500      0502  G10  5   XRA  1-8A      B3.2    6.6E-05       
+
+3510       0600   ////      1200  IZM  F   RNS  204       10                    
+
+3440       0615   0615      0616  SVI  G   RBR  245       53                    
+
+3450 +     0725   0729      0733  G12  5   XRA  1-8A      B5.8    2.4E-04   0867
+3450       0729   0731      0731  G12  5   XFL  S16W43    4.5E+02 1.1E+03   0867
+
+3460 +     0757   0803      0805  G12  5   XRA  1-8A      C9.7    2.3E-03   0867
+3460       0801   0803      0803  G12  5   XFL  S16W44    2.8E+03 2.0E+04   0867
+
+3470 +     0936   0940      0943  G12  5   XRA  1-8A      B4.4    1.6E-04   0867
+3470       0939   0941      0941  G12  5   XFL  S16W45    3.0E+02 7.3E+02   0867
+
+3480       0949   ////      0950  SVI  C   RSP  025-085   III/1                 
+
+3490 +     1117   ////      1117  SVI  C   RSP  025-162   III/2                 
+
+3500 +     1229   ////      1230  SVI  C   RSP  025-085   III/2                 
+
+3520       1853   1853      1853  SAG  G   RBR  245       58                    
+
+3530 +     2001   2001      2001  PAL  G   RBR  245       520                   
+
+3540       2042   2043      2043  PAL  G   RBR  245       550                   
+
+3550 +     2120   2123      2125  G12  5   XRA  1-8A      B2.5    6.6E-05   0865
+3550       2123   2123      2123  G12  5   XFL  S08W74    3.3E+02 6.2E+02   0865
+
+3560 +     2237   2241      2244  G12  5   XRA  1-8A      B3.3    1.1E-04   0865
+3560       2241   2243      2243  G12  5   XFL  S10W74    9.8E+02 2.0E+03   0865

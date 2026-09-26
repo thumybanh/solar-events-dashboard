@@ -1,0 +1,30 @@
+:Product: 20070610events.txt
+:Created: 2007 Jun 14 2332 UT
+:Date: 2007 06 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jun 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3760 +     0506   0512      0520  G11  5   XRA  1-8A      B1.6    1.1E-04       
+
+3770 +     0721   0727      0735  G11  5   XRA  1-8A      B1.9    1.3E-04       
+
+3780       0931   0934      0937  G10  5   XRA  1-8A      B1.0    3.3E-05       
+
+3790 +     0945   0951      0956  G11  5   XRA  1-8A      B1.4    7.4E-05       
+
+3800 +     1101   1111      1114  G11  5   XRA  1-8A      C1.9    5.6E-04   0960
+3800       1110   1110      1116  SVI  3   FLA  S11W40    SF                0960
+
+3810 +     1833   1837      1842  G11  5   XRA  1-8A      B1.1    4.5E-05   0960
+3810       1836   1836      1839  HOL  3   FLA  S08W44    SF      ERU       0960
+
+3830 +     2348   0027      0049  G11  5   XRA  1-8A      B8.1    2.0E-03       
+
+3820       2351   2355      0005  HOL  3   FLA  S07W45    SF      ERU       0960

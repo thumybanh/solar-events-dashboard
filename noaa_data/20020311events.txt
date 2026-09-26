@@ -1,0 +1,56 @@
+:Product: 20020311events.txt
+:Created: 2002 Mar 14 0300 UT
+:Date: 2002 03 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+860        0100   ////      1005  LEA  3   LPS  S11E90    0.08    B.9A          
+
+830  +     0140   ////      0145  CUL  C   RSP  57-160    III/1                 
+
+840  +     0612   ////      0612  LEA  C   RSP  025-153   III/2                 
+
+850  +     0623   ////      0624  LEA  C   RSP  025-141   III/2                 
+
+870        0842   ////      0842  LEA  C   RSP  043-106   III/1                 
+
+880        0918   ////      1027  LEA  C   RSP  087-180   CTM/1                 
+
+920        1617   1637      1642  GO8  5   XRA  1-8A      C1.3    1.7E-03       
+
+890        1819   1819      1819  SAG  G   RBR  245       170                   
+890        1819   1819      1819  SAG  G   RBR  410       37                    
+
+930        1828   1850      1859  GO8  5   XRA  1-8A      C1.66   2.6E-03       
+
+900  +     1905   1905      1905  SAG  G   RBR  245       200                   
+
+910        1947   ////      1954  PAL  C   RSP  025-150   III/1                 
+
+980        2025   ////      2027  CUL  C   RSP  57-130    III/1                 
+
+940  +     2205   ////      2205  CUL  C   RSP  57-160    III/3                 
+
+990  +     2240   ////      0905  LEA  C   RSP  037-180   CTM/1                 
+990        2248   0109      0404  GO8  5   XRA  1-8A      C3.0    4.6E-02       
+
+950        2322   2322      2322  PAL  G   RBR  245       100                   
+
+960        2327   2328      2328  PAL  G   RBR  245       100                   
+
+970        2343   2343      2344  PAL  G   RBR  245       1500                  
+970        2344   2347      2347  PAL  G   RBR  606       37                    
+970        2344   2344      2346  PAL  G   RBR  1415      57                    
+
+990        2345   ////      2348  CUL  C   RSP  600-140   III/1                 
+
+1000       2346   ////      0423  PAL  C   RSP  025-180   III/1                 
+
+1040 +     2354   2354      0000  PAL  G   RNS  245       82                    

@@ -1,0 +1,53 @@
+:Product: 20000729events.txt
+:Created: 2000 Aug 01 0302 UT
+:Date: 2000 07 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jul 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8350 +     0008   0013      0017  GO8  5   XRA  1-8A      C1.3    6.4E-04       
+
+8370 +     0151   0156      0201  GO8  5   XRA  1-8A      C1.9    8.7E-04       
+
+8380 +     0240   0244      0250  GO8  5   XRA  1-8A      C1.2    6.8E-04   9107
+8380 +     0243   0245      0251  COM  3   FLA  S22E84    SF                9107
+
+8390 +     0329   0337      0341  GO8  5   XRA  1-8A      C3.4    1.8E-03       
+
+8400       0435   0436      0444  LEA  3   FLA  S26W78    SF                9094
+
+8410 +     0553   ////      0554  LEA  C   RSP  025-128   III/1                 
+
+8440       0626   ////      0917  LEA  C   RSP  075-180   CTM/1                 
+
+8420 +     0709   0715      0718  GO8  5   XRA  1-8A      C2.3    7.8E-04   9100
+8420       0712   0714      0717       F   RBR  3000      40                9100
+8420 +     0713   0714      0723  SVI  3   FLA  S29W23    SF      DSD       9100
+
+8450       0801   ////      0801  SVI  U   RSP  035-054   III/1                 
+
+8460       0833   ////      0833  SVI  C   RSP  035-063   III/1                 
+
+8470       0937   ////      0938  SVI  C   RSP  036-071   III/1                 
+
+8510       1007   ////      1023  SVI  C   RSP  035-060   V/1                   
+
+8480       1011   1011      1011  SVI  G   RBR  410       89                    
+
+8490       1104   1113      1123  RAM  3   FLA  N10W05    SF                9103
+
+8500       1129   1129      1129  SVI  G   RBR  245       140                   
+8500       1129   1129      1129  SVI  G   RBR  410       75                    
+
+8520       1256   1258      1258  SAG  G   RBR  245       51                    
+
+8530 +     1316   ////      1316  SAG  C   RSP  030-060   III/1                 
+
+8540 +     1632   1638      1644  GO8  5   XRA  1-8A      C1.4    8.7E-04   9103
+8540       1635   1638      1653  HOL  3   FLA  N10W05    SF                9103

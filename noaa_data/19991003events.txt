@@ -1,0 +1,50 @@
+:Product: 19991003events.txt
+:Created: 1999 Oct 06 0302 UT
+:Date: 1999 10 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Oct 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+870       B0635  U0635      0638  SVI  3   FLA  N19E68    SF                8716
+
+880        0929  U0937      1008  SVI  3   FLA  N18E66    SF      ERU       8716
+880  +     0930   0950      0957  GO8  5   XRA  1-8A      C3.3    3.7E-03       
+
+890  +     1153   1157      1202  GO8  5   XRA  1-8A      B8.7    4.0E-04       
+
+900  +     1254   1300      1307  RAM  3   FLA  N20E71    SF                8716
+
+910        1416   1416      1416  SVI  G   RBR  245       52                    
+
+920  +     1424   1429      1434  GO8  5   XRA  1-8A      B8.9    4.8E-04   8720
+920  +     1426   1428      1439  COM  3   FLA  N13E79    SF                8720
+
+930        1508   1545      1625  GO8  5   XRA  1-8A      C3.0    1.0E-02   8716
+930  +     1528   1537      1627  HOL  3   FLA  N15E70    SF      ERU       8716
+
+940  +     1700   1705      1710  GO8  5   XRA  1-8A      C2.8    1.4E-03   8720
+940  +     1703   1704      1709  RAM  3   FLA  N13E76    SF                8720
+
+950        1733   1738      1742  HOL  3   FLA  N12E78    SF                8720
+
+960        1907   1908      1918  HOL  3   FLA  N20E63    SF                8716
+
+1110      A2036   ////      1128  RAM  3   DSF  N40E18    16      B.0A          
+
+1090      A2036   ////      1128  RAM  3   DSF  N33E11    12      B.0A          
+
+1100      A2036   ////      1128  RAM  3   DSF  N28W28    17      B.0A          
+
+970        2132   2135      2138  HOL  3   FLA  S20E54    SF                8719
+
+980        2205   2206      2217  HOL  3   FLA  N13E74    SF                8720
+
+990        2309   2311      2315  HOL  3   FLA  S18E59    SF                8721
+
+1000       2333   2346      2353  HOL  3   FLA  S18E58    SF                8721

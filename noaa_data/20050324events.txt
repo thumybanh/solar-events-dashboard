@@ -1,0 +1,44 @@
+:Product: 20050324events.txt
+:Created: 2005 Mar 25 1229 UT
+:Date: 2005 03 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Mar 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3010       0052   ////      0057  CUL  C   RSP  30-100    III/1                 
+
+3020       0206   0209      0212  G10  5   XRA  1-8A      B1.0    3.3E-05       
+
+3030       0419   ////      0419  CUL  C   RSP  30-100    III/1                 
+
+3040       0858   0901      0904  G12  5   XRA  1-8A      B1.1    3.5E-05       
+
+3050       0908   0911      0914  G12  5   XRA  1-8A      B1.3    3.9E-05       
+
+3060 +     1019   1031      1043  G12  5   XRA  1-8A      B3.5    4.0E-04   0745
+3060       1025   1031      1041  G12  5   XFL  N11E26    3.5E+02 7.5E+02   0745
+
+3070 +     1109   1117      1124  G12  5   XRA  1-8A      B3.8    2.7E-04   0745
+3070       1115   1119      1123  G12  5   XFL  N11E25    3.8E+02 8.4E+02   0745
+
+3080 +     1207   ////      1212  SAG  C   RSP  030-070   III/1                 
+
+3090 +     1759   1804      1808  G12  5   XRA  1-8A      B1.8    7.6E-05   0744
+3090       1803   1805      1807  G12  5   XFL  S14W52    3.0E+02 6.3E+02   0744
+
+3100 +     1917   1922      1928  G12  5   XRA  1-8A      B1.3    7.0E-05   0744
+3100       1921   1921      1921  G12  5   XFL  S14W53    1.3E+02 2.2E+02   0744
+
+3110 +     2041   2045      2055  G12  5   XRA  1-8A      B1.1    8.3E-05       
+
+3120 +     2221   2239      2255  G12  5   XRA  1-8A      B1.8    2.9E-04       
+
+3130 +     2312   2344      2353  G12  5   XRA  1-8A      C1.0    1.2E-03   0745
+3130       2317   2347      2351  G12  5   XFL  N11E19    1.5E+03 5.4E+03   0745
+3130       2340   2344      2355  LEA  3   FLA  N09E18    SF      YSR       0745

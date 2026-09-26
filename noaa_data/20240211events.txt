@@ -1,0 +1,59 @@
+:Product: 20240211events.txt
+:Created: 2024 Feb 14 0357 UT
+:Date: 2024 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9410       0000   ////      0010  LEA  3   FLA  S14W10    SF                3576
+9410 +     0000   ////      1053  LEA  C   RSP  025-180   CTM/1             3576
+
+9420       0015   0015      0020  LEA  3   FLA  S12W11    SF      DSD       3576
+9420       0015   0015      0015  PAL  G   RBR  410       590               3576
+9420       0015   0015      0015  PAL  G   RBR  245       8500              3576
+
+9430       0025   0025      0025  PAL  G   RBR  245       470                   
+9430       0025   0025      0025  PAL  G   RBR  410       440                   
+
+9440 +     0033   0038      0045  G16  5   XRA  1-8A      C7.3    4.9E-03   3576
+9440       0034   0035      0103  LEA  3   FLA  S14W05    SF                3576
+
+9450 +     0150   0154      0158  G16  5   XRA  1-8A      C3.3    1.5E-03   3582
+
+9460       0459   0505      0510  LEA  3   FLA  N09E42    SF                3583
+9460       0459   ////      0500  LEA  C   RSP  025-155   III/2             3583
+
+9470       0559   0607      0616  LEA  3   FLA  N09E42    SF                3583
+9470       0603   ////      0836  SVI  C   RSP  075-180   CTM/1             3583
+
+9480 +     0641   ////      0643  LEA  C   RSP  025-180   III/2                 
+
+9490       0720   ////      0720  SVI  C   RSP  025-180   III/2                 
+
+9500       0825   ////      0827  SVI  C   RSP  025-041   III/1                 
+
+9510 +     0836   0846      0901  G16  5   XRA  1-8A      C4.7    5.7E-03   3583
+
+9520       0947   ////      1204  SVI  C   RSP  075-180   CTM/1                 
+
+9530       1322   ////      1323  SVI  C   RSP  025-048   III/1                 
+
+9540 +     1344   ////      1344  SVI  C   RSP  025-049   III/1                 
+
+9550 +     1356   1405      1413  G16  5   XRA  1-8A      C2.9    2.4E-03   3583
+
+9570 +     1717   1725      1744  G16  5   XRA  1-8A      C3.5    4.9E-03   3583
+
+9560       1736   1736      1736  PAL  G   RBR  410       110                   
+
+9580 +     1957   2003      2009  G16  5   XRA  1-8A      C3.1    2.0E-03   3576
+
+9590 +     2235   2245      2250  G16  5   XRA  1-8A      M1.0    5.2E-03       
+
+9600 +     2350   2358      0004  G16  5   XRA  1-8A      C2.3    1.7E-03       

@@ -1,0 +1,101 @@
+:Product: 19990723events.txt
+:Created: 1999 Jul 26 0303 UT
+:Date: 1999 07 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jul 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2870       0033   0040      0108  LEA  3   FLA  N22E13    SF      ERU       8636
+
+2880       0122   0125      0136  LEA  4   FLA  N36W51    SF      BPT       8639
+2880 +     0122   ////      0123  PAL  C   RSP  025-05    III/2             8639
+
+2890 +     0206   ////      0206  PAL  C   RSP  040-05    III/1                 
+
+2900       0216   0217      0219  LEA  3   FLA  N21E17    SF      BPT       8636
+
+2910 +     0321   ////      0322  PAL  C   RSP  035-06    III/1                 
+
+2920       0329   0329      0329  LEA  U   RBR  245       380                   
+
+2930 +     0411   ////      0412  LEA  C   RSP  030-07    III/1                 
+
+3290       0416   0418      0421  LEA  3   FLA  N22E05    SF                8636
+
+3010       0449   0449      0501  LEA  3   FLA  N22E07    SF      ERU       8636
+
+2940 +     0459   0505      0520  GO8  5   XRA  1-8A      C9.3    1.0E-02   8636
+2940 +     0503   0507      0538  SVI  3   FLA  N21E14    SF      ERU       8636
+2940 +     0503   ////      0504  LEA  C   RSP  030-08    III/2             8636
+
+2950 +     0558   ////      0558  SVI  C   RSP  035-06    III/1                 
+
+2960 +     0627   0631      0633  GO8  5   XRA  1-8A      C4.9    1.5E-03       
+2960 +     0627   0631      0653  LEA  4   FLA  N36W54    1F      ERU       8639
+
+2990 +     0657   0658      0708  SVI  3   FLA  N20E13    SF      ERU       8636
+
+3000       0715   0720      0724  SVI  3   FLA  N19E13    SF      ERU       8636
+
+3020 +     0819   ////      0820  SVI  C   RSP  035-05    III/2                 
+
+3030 +     0829   0834      0847  LEA  3   FLA  N19E09    SF                8636
+
+3040 +     0906   0914      0929  GO8  5   XRA  1-8A      C3.0    3.6E-03       
+
+3050       1003   1005      1014  SVI  3   FLA  N22E05    SF      ERU       8636
+
+3060       1132  U1145      1149  SVI  3   FLA  N23E05    SF      ERU       8636
+
+3070 +     1237   1243      1258  GO8  5   XRA  1-8A      C5.9    6.5E-03       
+
+3120       1435   ////      1450  HOL  3   LPS  S23E90    0.04    B.9A      8636
+
+3080       1439   1442      1444  HOL  3   FLA  S27E87    SF                8636
+
+3100       1439   1442      1446  HOL  3   FLA  N21E07    SF                8636
+
+3110       1447   1449      1452  HOL  3   FLA  N19E06    SF                8636
+
+3090       1452   1453      1459  HOL  3   FLA  N19E08    SF                8636
+
+3130       1504   1509      1543  HOL  3   FLA  N21E01    SF                8636
+
+3140 +     1554   1601      1613  GO8  5   XRA  1-8A      M1.0    9.7E-03   8645
+
+3150       1800   ////      1801  SAG  C   RSP  030-06    III/1                 
+
+3190       1832   2005      2046  GO8  5   XRA  1-8A      M1.1    6.5E-02       
+3190       1832   1942      2057  HOL  3   FLA  N20E04    2F      ERU       8636
+3190 +     1846   ////      1855  PAL  C   RSP  025-07    III/2                 
+3190       1846   ////      2141  SAG  C   RSP  030-08    CTM/2             8636
+
+3160       1856   ////      2044  PAL  C   RSP  035-05    CTM/1                 
+
+3190       1912   1913      1913  SAG  G   RBR  245       140                   
+3190       1913   1913      1913  SAG  G   RBR  410       50                    
+3190       1913   1913      1913  SAG  G   RBR  606       10                    
+3190 +     1937   1938      2055  SAG  G   RBR  4995      38                8636
+3190 +     1937   2003      2055  SAG  G   RBR  8800      42                8636
+3190 +     1938   2006      2055  SAG  G   RBR  1415      52                8636
+3190 +     1938   1938      2052  SAG  G   RBR  2695      27                8636
+3190 +     1946   1948      2055  SAG  G   RBR  15400     36                8636
+
+3240 +     2104   2109      2115  GO8  5   XRA  1-8A      C8.8    5.0E-03       
+
+3250 +     2255   2300      2306  GO8  5   XRA  1-8A      M1.2    5.8E-03   8644
+3250 +     2300   2300      2315  COM  3   FLA  S26E87    SF                8645
+
+3260 +     2317   2318      2318  PAL  G   RBR  245       41                    
+3260       2317   2318      2319  PAL  G   RBR  410       86                    
+
+3270 +     2341   2341      2341  PAL  G   RBR  245       77                    
+3270 +     2341   ////      2348  PAL  C   RSP  025-07    III/3                 
+
+3280 +     2351   2354      2356  HOL  3   FLA  N21E00    SF                8636

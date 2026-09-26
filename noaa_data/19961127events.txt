@@ -1,0 +1,64 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0009 UT 5 Dec 1996
+
+EDITED EVENTS for 1996 Nov 27
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+6890       0001   ////      0004  CUL  C   RSP  060-170   III/1
+
+6900 +     0033   ////      0033  CUL  C   RSP  020-070   III/1
+
+6910       0125   ////      0126  CUL  C   RSP  020-070   III/1
+
+6920       0238   0239      0240  PAL  U   RBR  245       100
+6920 +     0239   ////      0240  LEA  C   RSP  030-080   III/3
+
+6930       0436   ////      0437  CUL  C   RSP  060-170   III/1
+
+6940 +     0539   ////      0539  CUL  C   RSP  030-160   III/2
+
+6100 +     0636  U0712      0816  SVI  G   RNS  410       11
+6100 +     0636  U0712      0816  SVI  G   RNS  410       11
+
+6950       0651   ////      0651  CUL  C   RSP  070-170   III/1
+
+6960       0709   ////      0714  CUL  C   RSP  060-300   III/1
+6960       0710   0713      0717  LEA  G   RBR  245       62
+6960       0710   0711      0714  LEA  G   RBR  410       5
+
+6100       0726  U0732      0735  SVI  G   RNS  606       7
+
+7090       0733   0738      0740  LEA  G   RBR  410       4
+7090       0733   0734      0740  LEA  G   RBR  245       28
+7090 +     0734   ////      0735  LEA  C   RSP  030-080   III/2
+
+6980       0820   0820      0820  LEA  G   RBR  245       22
+
+6990       0956   0957      0957  SVI  G   RBR  245       7
+
+6100 +     0956   0957      1152  SVI  G   RNS  245       9
+6100 +     1056   0957      1152  SVI  G   RNS  245       9
+
+7000       1154   1157      1217  RAM  4   FLA  S03W14    SF      ERU       7999
+
+7010       1250   1250      1250  SAG  U   RBR  245       6
+
+7040       1926   1935      2008  GO9  5   XRA  1-8A      B8.9    1.86E-03  7999
+7040       1929   1929      1941  HOL  3   FLA  S04W18    SF      ERU       7999
+7040       1958   ////      1959  PAL  C   RSP  025-046   III/1             7999
+
+7050       2006   ////      2006  SAG  C   RSP  030-052   III/1
+
+7060 +     2047   ////      2048  CUL  C   RSP  018-160   III/2
+
+7070 +     2116   ////      2116  CUL  C   RSP  020-130   III/1
+
+7080       2137   ////      2137  PAL  U   RSP  025-040   III/1
+
+7110       2212   ////      2212  CUL  C   RSP  030-090   III/1
+
+7120       2227   ////      2227  CUL  C   RSP  030-080   III/1
+
+7130       2344   2351      0012  GO9  5   XRA  1-8A      B5.6    8.67E-04  7999
+7130       2345   ////      0948  LEA  C   RSP  030-080   CTM/1             7999

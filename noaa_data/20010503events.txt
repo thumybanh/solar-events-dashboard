@@ -1,0 +1,66 @@
+:Product: 20010503events.txt
+:Created: 2001 May 06 0302 UT
+:Date: 2001 05 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5060       0015   ////      0016  CUL  C   RSP  30-170    III/1                 
+
+5260       0018   0043      0056  GO8  5   XRA  1-8A      C2.3    3.6E-03       
+
+5070       0022   ////      0026  CUL  C   RSP  30-180    III/1                 
+
+5080 +     0033   ////      0036  CUL  C   RSP  30-180    III/2                 
+
+5090       0054   0056      0104  LEA  4   FLA  N11W15    SF      ERU       9447
+5090       0055   ////      0734  LEA  C   RSP  062-180   CTM/1             9447
+
+5100 +     0359   0405      0409  GO8  5   XRA  1-8A      C2.3    9.7E-04   9445
+5100       0402   0407      0420  LEA  3   FLA  N26E25    SF                9445
+
+5110      B0509  U0512      0519  LEA  3   FLA  N11W20    SF      DSD       9447
+
+5120       0529   ////      0530  LEA  C   RSP  025-119   V/2                   
+5120 +     0529   ////      0530  CUL  C   RSP  18-90     III/3                 
+
+5130 +     0544   0548      0552  GO8  5   XRA  1-8A      C1.6    6.5E-04       
+
+5280       0635   ////      0635  CUL  C   RSP  30-80     III/1                 
+
+5140       0739   0739      0743  SVI  3   FLA  N11W22    SF                9447
+
+5150       0754   0831      0849  GO8  5   XRA  1-8A      C2.9    5.9E-03   9447
+5150       0822   0830      0844  SVI  3   FLA  N13W21    SF      ERU       9447
+5150 +     0824   0824      0826  SVI  G   RBR  245       120               9447
+
+5160       1107   1108      1115  SVI  3   FLA  N12W25    SF      ERU       9447
+
+5170       1211   1218      1224  SVI  3   FLA  N29E22    SF                9445
+
+5180       1356   1358      1359  HOL  3   FLA  N24E19    SF                9445
+
+5190       1432   ////      1432  SVI  U   RSP  029-063   III/1                 
+
+5200       1532   1533      1537  SVI  3   FLA  N29E19    SF      ERU       9445
+
+5210       1546   1602      1609  GO8  5   XRA  1-8A      C2.3    2.7E-03   9447
+5210       1549   1551      1558  SVI  3   FLA  N12W28    SF      ERU       9447
+
+5230       1927   ////      1929  HOL  C   RSP  025-112   III/1                 
+
+5240       2040   2040      2048  HOL  3   FLA  N24E12    SF                9445
+
+5250 +     2116   2141      2157  GO8  5   XRA  1-8A      C2.3    4.1E-03       
+
+5270       2246   ////      2247  PAL  C   RSP  025-180   III/2                 
+5270       2246   2247      2247  PAL  G   RBR  245       69                    
+5270       2246   2247      2254  PAL  G   RBR  410       76                    
+
+5290       2300   ////      0126  LEA  C   RSP  115-180   CTM/1                 

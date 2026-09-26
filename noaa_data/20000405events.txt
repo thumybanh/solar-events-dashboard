@@ -1,0 +1,74 @@
+:Product: 20000405events.txt
+:Created: 2000 Apr 08 0302 UT
+:Date: 2000 04 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Apr 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8440       0004   0004      0004  PAL  G   RBR  245       87                    
+
+8450       0025   0026      0041  HOL  3   FLA  N16W73    SF                8933
+
+8460       0043   0043      0047  HOL  3   FLA  S14E65    SF                8948
+
+8470       0058   ////      0058  PAL  C   RSP  025-07    III/2                 
+
+8480       0104   0105      0114  LEA  3   FLA  S17W11    SF                8936
+
+8490       0313   0313      0313  LEA  G   RBR  245       83                    
+
+8510       0424   ////      0425  PAL  C   RSP  025-05    III/1                 
+8510       0424   0428      0433  G10  5   XRA  1-8A      C1.6    7.9E-04       
+
+8540 +     0446   0459      0515  LEA  G   RNS  245       92                    
+
+8520       0449   ////      0449  LEA  C   RSP  030-05    III/1                 
+
+8530       0538   0545      0559  LEA  3   FLA  N25W03    SF                8939
+
+8550       0549   0556      0603  LEA  3   FLA  S08W50    SF                8935
+
+8540       0600   0000      1200       F   RNS  204       15                    
+
+8560       0641   0642      0654  LEA  3   FLA  N25W03    SF                8939
+
+8610       0648   0655      0703  LEA  3   FLA  S17E62    SF                8948
+
+8570       0708   0709      0709  LEA  G   RBR  245       290                   
+
+8580       0714   0714      0714  LEA  G   RBR  245       120                   
+
+8590       0718   0718      0718  SVI  G   RBR  1415      81                    
+
+8600       0724   ////      0724  SVI  C   RSP  035-08    III/1                 
+
+8620 +     1641   1648      1655  HOL  3   FLA  N15W62    SF                    
+
+8630       1724   1727      1734  HOL  3   FLA  N21W08    SF      ERU       8939
+
+8640       1823   1827      1837  HOL  3   FLA  S12E58    SF                8948
+8640       1834   1838      1838  SAG  G   RBR  245       85                8948
+
+8650       1911   1911      1911  SAG  G   RBR  245       52                    
+
+8670       1959   2001      2001  SAG  G   RBR  245       10                    
+
+8660       2013   2013      2024  HOL  3   FLA  S14W58    SF                8932
+
+8800      A2101   ////      1152  RAM  3   DSF  S25E02    18      B.0A          
+
+8680       2155   2156      2200  HOL  3   FLA  N16W80    SF                8933
+
+8690       2239   2244      2248  HOL  3   FLA  N16W66    SF                8933
+
+8700       2249   2250      2253  HOL  3   FLA  N16W66    SF                8933
+
+8710       2255   2256      2259  HOL  3   FLA  N17W83    SF                8933
+
+8720       2312   2312      2321  HOL  3   FLA  N16W83    SF                8933

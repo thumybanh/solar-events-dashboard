@@ -1,0 +1,51 @@
+:Product: 20031126events.txt
+:Created: 2003 Nov 27 2102 UT
+:Date: 2003 11 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Nov 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2080       0000   ////      0253  CUL  C   RSP  20-170    CTM/1                 
+2080       0054   ////      0058  CUL  C   RSP  18-230    III/3                 
+2080 +     0055   0056      0056  LEA  G   RBR  245       72                    
+
+2090 +     0310   0316      0320  G12  5   XRA  1-8A      C1.2    6.3E-04   0508
+
+2100       1215   1216      1216  SAG  G   RBR  245       76                    
+2100       1216   1216      1216  SAG  G   RBR  410       41                    
+
+2110 +     1217   1224      1227  G12  5   XRA  1-8A      B9.4    5.1E-04       
+
+2210       1532   ////      2331  HOL  C   RSP  075-180   CTM/1                 
+
+2130       1553   ////      1558  HOL  C   RSP  025-180   III/1                 
+
+2120       1554   1555      1555  SAG  G   RBR  245       120                   
+
+2140 +     1614   1618      1624  G12  5   XRA  1-8A      C1.7    7.9E-04   0508
+2140       1617   1617      1617  SAG  G   RBR  245       52                0508
+2140       1617   1618      1625  HOL  3   FLA  S13W14    SF      ERU       0508
+
+2150       1643   1643      1643  SAG  G   RBR  245       62                    
+
+2160 +     1701   ////      1702  HOL  C   RSP  025-180   III/1                 
+
+2180 +     1702   1702      1802  SAG  G   RNS  245       92                    
+
+2170       1714   1716      1718  HOL  3   FLA  S19W18    SF                0508
+
+2230       2002   ////      2016  CUL  C   RSP  23-150    III/1                 
+
+2190       2051   ////      2051  PAL  C   RSP  025-048   III/1                 
+
+2200 +     2134   ////      2140  CUL  C   RSP  18-250    III/3                 
+
+2330       2144   ////      1005  LEA  C   RSP  035-180   CTM/1                 
+
+2220 +     2229   ////      2233  CUL  C   RSP  18-180    III/2                 

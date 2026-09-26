@@ -1,0 +1,34 @@
+:Product: 20030727events.txt
+:Created: 2003 Jul 30 0302 UT
+:Date: 2003 07 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jul 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1040      A0022   ////     B1334  HOL  3   DSF  ////      14      B.0A      0422
+
+1020       0029   ////      0029  HOL  C   RSP  025-078   III/1                 
+
+1030       0044   ////      0046  HOL  C   RSP  025-074   III/1                 
+
+1050 +     1722   ////      1723  SAG  C   RSP  030-075   III/2                 
+
+1060 +     1738   1742      1746  G12  5   XRA  1-8A      B2.8    1.2E-04   0409
+
+1070       2017   2020      2023  G10  5   XRA  1-8A      B4.5    1.3E-04   0422
+
+1080       2041   2042      2045  HOL  3   FLA  N14W25    SF                0422
+
+1090 +     2225   2232      2241  G12  5   XRA  1-8A      B6.7    5.4E-04   0421
+
+1100 +     2326   ////      2326  HOL  C   RSP  025-104   III/1                 
+
+1110       2327   ////      2328  CUL  C   RSP  30-180    III/2                 
+
+1120 +     2350   2356      0003  G12  5   XRA  1-8A      B8.1    5.0E-04   0422

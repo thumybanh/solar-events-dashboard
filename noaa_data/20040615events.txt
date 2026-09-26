@@ -1,0 +1,69 @@
+:Product: 20040615events.txt
+:Created: 2004 Jun 18 0302 UT
+:Date: 2004 06 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jun 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2900 +     0001   0007      0014  G12  5   XRA  1-8A      B6.9    4.9E-04   0635
+2900       0005   0014      0014  G12  5   XFL  S11E83    3.9E+03 8.8E+03   0635
+
+2910       0031   ////      0032  LEA  C   RSP  070-163   III/1                 
+
+2950       0044   ////      0906  LEA  C   RSP  075-180   CTM/1                 
+
+2920       0051   ////      0053  LEA  C   RSP  056-162   III/1                 
+
+2930 +     0144   ////      0144  CUL  C   RSP  40-200    III/2                 
+
+2940       0421   0421      0421  PAL  G   RBR  245       62                    
+
+3080 +     0421   0421      0545  LEA  G   RNS  245       76                    
+
+2960       0527   ////      0527  LEA  C   RSP  025-045   III/1                 
+
+2970       0546   0546      0546  SVI  G   RBR  245       150                   
+
+3080       0600   ////      1200  IZM  F   RNS  204       30                    
+
+2980 +     0610   ////      0615  CUL  C   RSP  20-150    III/3                 
+
+3090       0620   ////      0620  CUL  C   RSP  40-180    III/2                 
+
+2990 +     0849   ////      0850  LEA  C   RSP  061-142   III/1                 
+
+3000       0947   ////      0951  SVI  C   RSP  025-162   III/1                 
+
+3010       1126   1126      1126  SVI  G   RBR  245       61                    
+
+3020 +     1339   ////      1340  HOL  C   RSP  025-067   III/1                 
+
+3030 +     1631   ////      1631  SVI  C   RSP  025-175   III/1                 
+
+3040 +     1956   2001      2005  G12  5   XRA  1-8A      C1.1    4.6E-04   0634
+3040 +     1958   1959      1959  PAL  G   RBR  410       160               0634
+3040       1958   1958      1959  SAG  G   RBR  606       50                0634
+3040       1958   2000      2007  HOL  3   FLA  N10E40    1F      ERU       0634
+3040 +     1959   1959      1959  PAL  G   RBR  245       310               0634
+3040       1959   ////      1959  HOL  C   RSP  025-065   III/1             0634
+3040       1959   2001      2005  G12  5   XFL  N10E42    1.1E+03 3.9E+03   0634
+
+3050       2013   2013      2014  SAG  G   RBR  245       56                    
+
+3060 +     2017   2017      2017  PAL  G   RBR  245       52                    
+
+3070       2039   ////      2046  PAL  C   RSP  025-125   III/1                 
+
+3100       2130   ////      2131  CUL  C   RSP  23-150    III/3                 
+
+3110       2141   ////      2142  CUL  C   RSP  20-140    III/2                 
+
+3120       2216   ////      2222  CUL  C   RSP  20-180    III/2                 
+
+3130 +     2359   0003      0009  G12  5   XRA  1-8A      B3.5    1.9E-04   0635

@@ -1,0 +1,35 @@
+:Product: 20050109events.txt
+:Created: 2005 Jan 12 0302 UT
+:Date: 2005 01 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jan 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1010 +     0525   0546      0549  G12  5   XRA  1-8A      B4.6    3.3E-04   0718
+1010       0529   0545      0548  G12  5   XFL  S07E66    1.0E+03 2.4E+03   0718
+1010      B0540   0545      0547  CUL  3   FLA  S06E73    1F                0718
+
+1020 +     0722   0722      0722  LEA  G   RBR  606       72                    
+
+1030 +     0825   0851      0909  G12  5   XRA  1-8A      M2.4    3.3E-02   0719
+1030 +     0828   0845      1017  LEA  3   FLA  S09E69    1N      ERU       0719
+1030       0828   0855      0908  G12  5   XFL  S09E70    8.2E+03 6.8E+04   0719
+1030 +     0838   0844      0847  SVI  G   RBR  2695      77                0719
+1030       0841   0842      0846  SVI  G   RBR  1415      30                0719
+1030       0842   0844      0847  SVI  G   RBR  8800      66                0719
+1030       0842   0844      0847  SVI  G   RBR  15400     44                0719
+1030       0854   ////      0911  SVI  C   RSP  025-083   II/1    847       0719
+1030       0858   0858      0858  SVI  G   RBR  606       77                0719
+1030       0859   0859      0859  SVI  G   RBR  410       22                0719
+1030 +     0909   0909      0909  SVI  G   RBR  245       35                0719
+1030 +     0909   0909      0909  SVI  G   RBR  4995      580               0719
+
+1040 +     1433   1447      1456  G12  5   XRA  1-8A      C2.6    2.3E-03   0719
+1040       1436   1452      1454  G12  5   XFL  S09E67    3.0E+03 1.4E+04   0719
+1040       1452   1453      1458  HOL  3   FLA  S09E68    SF                0719

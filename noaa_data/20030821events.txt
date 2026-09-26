@@ -1,0 +1,41 @@
+:Product: 20030821events.txt
+:Created: 2003 Aug 24 0302 UT
+:Date: 2003 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4800       0409   ////      0411  CUL  C   RSP  27-180    III/1                 
+
+4890      A0820   ////     B2345  LEA  2   DSF  ////      19      B.0A      0000
+
+4810       1009   1009      1009  SVI  G   RBR  245       190                   
+
+4820 +     1515   1522      1525  G12  5   XRA  1-8A      C4.9    1.8E-03   0431
+4820 +     1517   1519      1525  SAG  G   RBR  2695      110               0431
+4820 +     1518   1518      1525  SAG  G   RBR  410       240               0431
+4820       1518   1518      1525  SAG  G   RBR  606       48                0431
+4820 +     1518   1519      1525  SAG  G   RBR  1415      73                0431
+4820       1518   1519      1522  SAG  G   RBR  4995      27                0431
+4820 +     1520   1521      1525  SAG  G   RBR  245       96                0431
+
+4830 +     1624   1628      1637  G12  5   XRA  1-8A      B7.6    5.2E-04   0431
+
+4840 +     1713   1718      1722  G12  5   XRA  1-8A      B9.6    4.1E-04       
+
+4850 +     1727   1731      1737  G12  5   XRA  1-8A      C1.4    6.4E-04   0431
+4850       1729   1730      1730  SAG  G   RBR  410       50                0431
+4850       1729   1729      1731  SAG  G   RBR  606       50                0431
+4850       1730   1730      1730  SAG  G   RBR  245       83                0431
+4850       1730   1730      1730  SAG  G   RBR  1415      22                0431
+4850 +     1730   ////      1731  HOL  C   RSP  025-180   III/2             0431
+
+4860 +     1741   ////      1824  COM  3   EPL  ////      0.22    B.9A      0431
+
+4870       2041   2041      2041  PAL  G   RBR  245       150                   

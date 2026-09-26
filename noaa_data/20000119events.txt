@@ -1,0 +1,69 @@
+:Product: 20000119events.txt
+:Created: 2000 Jan 22 0303 UT
+:Date: 2000 01 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9050 +     0109   0139      0152  GO8  5   XRA  1-8A      C1.4    3.3E-03       
+
+9040 +     0140   ////      0947  LEA  C   RSP  030-08    CTM/1                 
+
+9060       0216   ////      0216  LEA  U   RSP  030-08    III/2                 
+
+9220       0452   ////      0454  CUL  C   RSP  18-160    III/3                 
+
+9230       0511   ////      0516  CUL  C   RSP  40-230    III/2                 
+
+9080 +     0638   0638      0843  LEA  G   RNS  245       120                   
+
+9240       0710   ////      0711  CUL  C   RSP  50-180    III/1                 
+
+9070       0801   ////      0803  SVI  C   RSP  035-08    III/2                 
+
+9090 +     1001   ////      1004  SVI  C   RSP  035-08    III/3                 
+9090       1004   ////      1525  SVI  C   RSP  035-08    CTM/1                 
+
+9100 +     1030   1038      1042  GO8  5   XRA  1-8A      C1.4    9.3E-04   8833
+9100       1034   1034      1039  LEA  3   FLA  N18E12    SF                8833
+
+9110       1118   1122      1124  G10  5   XRA  1-8A      C1.3    4.3E-04   8829
+9110       1119   1119      1120  SVI  G   RBR  15400     75                8829
+9110       1119   ////      1121  SVI  C   RSP  035-08    III/3             8829
+9110      B1124  U1124      1129  RAM  2   FLA  N14W24    SF      DSD       8829
+
+9130 +     1330   ////      1718  RAM  3   DSF  N58E18    16      B.6A          
+
+9120 +     1755   1759      1803  GO8  5   XRA  1-8A      C2.4    8.9E-04   8824
+9120 +     1757   1758      1805  RAM  3   FLA  S16W55    SF                8824
+
+9140 +     1932   ////      1932  PAL  C   RSP  025-07    III/1                 
+
+9150       1951   1951      1951  SAG  G   RBR  245       170                   
+9150       1951   ////      1952  SAG  C   RSP  030-08    V/3                   
+9150       1951   ////      1952  PAL  C   RSP  025-07    III/1                 
+
+9160       1958   1959      1959  SAG  G   RBR  245       70                    
+
+9250       2043   ////      2044  CUL  C   RSP  20-180    III/2                 
+
+9260       2051   ////      2051  CUL  C   RSP  20-180    III/2                 
+
+9270       2105   ////      2107  CUL  C   RSP  20-260    III/2                 
+
+9280       2210   ////      2212  CUL  C   RSP  18-180    III/3                 
+
+9170 +     2213   2221      2224  GO8  5   XRA  1-8A      C2.4    1.2E-03       
+9170 +     2215   ////      2218  CUL  C   RSP  18-430    III/3                 
+
+9180       2308   ////      2308  LEA  C   RSP  030-06    III/2                 
+
+9380 +     2312   ////      1022  LEA  C   RSP  030-08    CTM/2                 
+
+9190       2323   2323      2324  LEA  G   RBR  245       230                   

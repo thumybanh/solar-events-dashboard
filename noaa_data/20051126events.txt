@@ -1,0 +1,29 @@
+:Product: 20051126events.txt
+:Created: 2005 Nov 29 0329 UT
+:Date: 2005 11 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Nov 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5350       0331   0409      0423  G12  5   XRA  1-8A      C1.0    2.2E-03   0822
+
+5300       0358   ////      0358  LEA  C   RSP  025-051   III/1                 
+
+5310       0631   0705      0749  G12  5   XRA  1-8A      B8.9    2.8E-03   0824
+5310       0657   0658      0704  SVI  G   RBR  410       76                    
+5310 +     0658   0658      0658  LEA  G   RBR  245       51                    
+
+5320       0710   0712      0712  SVI  G   RBR  245       76                    
+
+5330       0752   0752      0752  SVI  G   RBR  245       78                    
+
+5360 +     1653   1658      1701  G12  5   XRA  1-8A      B1.7    7.1E-05   0824
+5360       1656   1700      1700  G12  5   XFL  S14W03    2.3E+03 6.4E+03   0824
+
+5370       2151   ////      0232  LEA  C   RSP  075-180   CTM/1                 

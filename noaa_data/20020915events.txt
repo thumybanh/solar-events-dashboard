@@ -1,0 +1,83 @@
+:Product: 20020915events.txt
+:Created: 2002 Sep 18 0300 UT
+:Date: 2002 09 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Sep 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4520       0000   ////      0000  CUL  C   RSP  57-180    CTM/1                 
+
+4440 +     0012   0235      0450  LEA  G   RNS  245       230                   
+
+4330 +     0019   ////      0020  LEA  C   RSP  025-146   V/2                   
+4330       0019   ////      0020  CUL  C   RSP  57-150    III/2                 
+
+4340       0223   0227      0227  PAL  G   RBR  245       230                   
+
+4350 +     0411   0417      0419  GO8  5   XRA  1-8A      C1.7    7.0E-04       
+
+4360       0441   0450      0458  G10  5   XRA  1-8A      C3.9    3.2E-03       
+
+4370 +     0554   0555      0555  LEA  G   RBR  245       200                   
+
+4440       0600   ////      1200  IZM  F   RNS  204       40                    
+
+4380 +     0747   0752      0756  GO8  5   XRA  1-8A      C3.7    1.7E-03   0105
+4380 +     0749   0752     A0815  SVI  3   FLA  S04W26    SF      ERU       0105
+
+4390 +     0848   0848      0849  SVI  G   RBR  245       390                   
+
+4400       0852   0852      0852  SVI  G   RBR  245       66                    
+4400       0852   0852      0852  SVI  G   RBR  410       59                    
+
+4410       0901   0901      0901  SVI  G   RBR  245       100                   
+
+4420       0922   0923      0930  LEA  2   FLA  N17W79    SF                0103
+4420       0922   0926      0930  GO8  5   XRA  1-8A      C1.3              0103
+
+4430       0944   ////      0949  LEA  C   RSP  025-180   III/2                 
+
+4510      A0946   ////     B2330  LEA  1   DSF  ////      34      B.0A      0000
+
+4530       1255   1259      1303  GO8  5   XRA  1-8A      C1.2    5.7E-04       
+
+4540       1356   1400      1404  GO8  5   XRA  1-8A      C1.3    6.2E-04       
+
+4450 +     1533   1538      1541  GO8  5   XRA  1-8A      C3.1    1.0E-03   0114
+4450       1534   1538      1545  SVI  3   FLA  S08W12    SF      ERU       0114
+
+4460 +     1546   ////      1552  HOL  C   RSP  025-163   III/1                 
+
+4470 +     1729   1738      1745  GO8  5   XRA  1-8A      M1.0    5.7E-03   0105
+4470 +     1734   1738      1739  SAG  G   RBR  8800      95                0105
+4470       1734   1736      1756  HOL  3   FLA  S05W29    SF      ERU       0105
+4470       1735   1738      1738  SAG  G   RBR  4995      69                0105
+
+4590       1813   ////      0002  HOL  C   RSP  068-167   CTM/1                 
+
+4550       1900   1904      1909  GO8  5   XRA  1-8A      C1.2    6.5E-04       
+
+4480       1909   1909      1910  SAG  G   RBR  2695      89                    
+
+4670      A1943   ////      2019  HOL  3   DSF  ////      41      B.0A      0000
+
+4490 +     2034   2039      2042  GO8  5   XRA  1-8A      C2.9    9.0E-04       
+
+4560       2117   ////      2117  CUL  C   RSP  57-180    III/1                 
+
+4600       2237   ////      0052  LEA  C   RSP  074-180   CTM/1                 
+
+4570       2308   ////      2312  CUL  C   RSP  57-80     III/1                 
+
+4500 +     2330   2338      2350  GO8  5   XRA  1-8A      C1.7    1.8E-03   0114
+4500      B2334  U2336     A2346  HOL  3   FLA  S16W13    SF      ERU       0114
+4500       2340   ////      2340  CUL  C   RSP  57-180    III/1             0114
+
+4580 +     2353   ////      2353  LEA  C   RSP  025-180   III/1             0105
+4580 +     2357   2358      0001  HOL  3   FLA  S07W36    SF                0105

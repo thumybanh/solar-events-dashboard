@@ -1,0 +1,19 @@
+:Product: 20070120events.txt
+:Created: 2007 Jan 24 2332 UT
+:Date: 2007 01 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7640 +     0335   0338      0340  G12  5   XRA  1-8A      B1.0    2.3E-05       
+
+7650 +     0822   0826      0829  G12  5   XRA  1-8A      B1.6    4.6E-05       
+7650       0826   0829      0829  G12  5   XFL  S02W09    2.8E+02 7.0E+02       
+
+7660 +     0936   0939      0941  G11  5   XRA  1-8A      B1.4    1.9E-05       

@@ -1,0 +1,38 @@
+:Product: 19990226events.txt
+:Created: 1999 Mar 01 0302 UT
+:Date: 1999 02 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Feb 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7650 +     0746   0750      0756  GO8  5   XRA  1-8A      B3.6    1.9E-04   8470
+7650       0748   0750      0755  LEA  3   FLA  S22E29    SF                8470
+
+7660 +     0817   0818      0818  LEA  G   RBR  245       110                   
+7660       0817   ////      0825  LEA  C   RSP  030-08    III/3                 
+
+7670       0921   0943      1045  G10  5   XRA  1-8A      B3.9    1.6E-03       
+
+7680      B1156  U1156      1200  RAM  3   FLA  N31E62    SF                    
+
+7690       1351   ////      1352  SAG  C   RSP  030-08    III/1                 
+
+7700       1710   ////      1711  SAG  C   RSP  030-06    III/1                 
+
+7710 +     1856   1909      1915  GO8  5   XRA  1-8A      C1.1    9.2E-04   8471
+7710       1903   1905      1914  HOL  3   FLA  N30E18    SF      ERU       8471
+
+7720 +     1959   ////      2000  PAL  C   RSP  025-07    III/3                 
+
+7730 +     2015   2021      2027  GO8  5   XRA  1-8A      C1.5    7.9E-04   8471
+7730       2019   2021      2034  HOL  3   FLA  N30E19    SF      ERU       8471
+
+7740       2056   ////      2056  PAL  C   RSP  025-05    III/1                 
+
+7750       2318   ////      2320  LEA  C   RSP  030-05    III/1                 

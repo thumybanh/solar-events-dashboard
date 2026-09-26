@@ -1,0 +1,49 @@
+:Product: 20020202events.txt
+:Created: 2002 Feb 05 0300 UT
+:Date: 2002 02 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Feb 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2160       0038   ////      0039  LEA  C   RSP  025-180   III/1                 
+
+2170       0219   ////      0219  LEA  C   RSP  025-046   III/1                 
+
+2180       0558   ////      0601  LEA  C   RSP  025-180   III/1                 
+2180       0600   0601      0602  LEA  U   RBR  245       71                    
+
+2250       1132   1135      1137  GO8  5   XRA  1-8A      C1.4    3.9E-04       
+
+2260       1157   1203      1209  GO8  5   XRA  1-8A      C1.5    1.0E-03       
+
+2190       1328   ////      1329  SVI  C   RSP  025-160   III/1                 
+
+2200       1416   ////      1417  SVI  C   RSP  025-180   III/1                 
+
+2210       1434   ////      1434  SVI  U   RSP  075-180   III/1                 
+
+2220 +     1532   1536      1541  GO8  5   XRA  1-8A      C2.2    1.1E-03   9802
+2220       1535   1535      1541  RAM  3   FLA  S18W13    SF      ERU       9802
+
+2230       1954   1954      1954  SAG  G   RBR  245       150                   
+
+2240 +     1957   2003      2010  GO8  5   XRA  1-8A      C2.9    1.7E-03   9802
+2240       2000   2004      2018  RAM  3   FLA  S19W16    SF      ERU       9802
+
+2270 +     2143   ////      2152  PAL  C   RSP  025-180   III/1                 
+
+2280       2151   ////      2153  HOL  C   RSP  025-180   III/2                 
+
+2290 +     2154   2158      2201  GO8  5   XRA  1-8A      C2.9    1.1E-03       
+
+2300 +     2230   ////      2231  LEA  C   RSP  025-150   III/1                 
+
+2310 +     2254   ////      2258  LEA  C   RSP  025-180   III/2                 
+
+2320       2317   ////      2320  LEA  C   RSP  029-123   III/1                 

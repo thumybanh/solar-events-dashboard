@@ -1,0 +1,18 @@
+:Product: 20050123events.txt
+:Created: 2005 Jan 26 0302 UT
+:Date: 2005 01 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jan 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4730 +     0128   0151      0201  G12  5   XRA  1-8A      M1.0    9.4E-03   0720
+4730 +     0132   0158      0200  COM  5   XFL  N15W90    4.9E+03 2.6E+04   0720
+
+4740 +     0443   0505      0523  G12  5   XRA  1-8A      C4.5    7.1E-03   0720
+4740 +     0446   0520      0522  COM  5   XFL  N15W90    3.8E+03 1.4E+04   0720

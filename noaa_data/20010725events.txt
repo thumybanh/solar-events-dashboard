@@ -1,0 +1,49 @@
+:Product: 20010725events.txt
+:Created: 2001 Jul 28 0302 UT
+:Date: 2001 07 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jul 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+520        0200   0206      0211  GO8  5   XRA  1-8A      B6.1    3.8E-04   9543
+520        0208   0211      0214  LEA  2   FLA  S21W49    SF      ERU       9543
+
+530  +     0402   0403      0404  LEA  G   RBR  245       66                    
+
+540  +     0510   0515      0521  GO8  5   XRA  1-8A      B7.3    4.1E-04       
+
+550  +     0528   0535      0541  GO8  5   XRA  1-8A      C1.7    9.8E-04       
+
+560        0710   ////      0712  SVI  C   RSP  025-085   III/1                 
+
+570  +     0924   0929      0933  GO8  5   XRA  1-8A      C1.0    4.4E-04   9543
+570        0927   0928      0932  LEA  3   FLA  S22W50    SF                9543
+570        0927   0927      0927  SVI  G   RBR  245       80                9543
+
+700        1207   1317      2205  SAG  G   RNS  245       210                   
+
+590        1233   1233      1234  SVI  G   RBR  245       61                    
+
+600        1317   1317      1318  SVI  G   RBR  245       100                   
+
+650        1413   ////      1700  HOL  U   RSP  025-075   CTM/1                 
+
+610        1525   1527      1527  SVI  G   RBR  245       76                    
+
+620        1600   1600      1600  SVI  G   RBR  245       66                    
+
+630        1608   1610      1610  SVI  G   RBR  245       52                    
+
+640        1614   1614      1615  SVI  G   RBR  245       60                    
+
+660        1645   1645      1646  SVI  G   RBR  245       55                    
+
+670  +     1723   1724      1726  PAL  G   RBR  245       70                    
+
+740        2123   2124      2124  PAL  G   RBR  245       53                    

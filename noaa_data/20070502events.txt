@@ -1,0 +1,23 @@
+:Product: 20070502events.txt
+:Created: 2007 May 06 1202 UT
+:Date: 2007 05 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 May 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9720 +     0359   0413      0426  G11  5   XRA  1-8A      B1.3    1.9E-04   0953
+
+9730 +     1506   1512      1523  G11  5   XRA  1-8A      B1.2    1.0E-04   0953
+
+9740 +     1556   1602      1605  G11  5   XRA  1-8A      B8.1    1.9E-04   0953
+
+9750 +     1805   1854      2045  G11  5   XRA  ////      B3.8    2.5E-03   0953
+
+9760 +     2328   2348      0002  G11  5   XRA  1-8A      C8.5    1.1E-02   0953
+9760       2333   2339      0009  LEA  3   FLA  S14W17    1B      ERU       0953

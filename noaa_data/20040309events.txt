@@ -1,0 +1,78 @@
+:Product: 20040309events.txt
+:Created: 2004 Mar 12 0302 UT
+:Date: 2004 03 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Mar 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7630       0122   0122      0122  LEA  G   RBR  245       53                    
+7630 +     0122   ////      0124  CUL  C   RSP  18-100    III/3                 
+
+7640       0123   0123      0123  PAL  G   RBR  245       54                    
+
+7650 +     0155   ////      0156  CUL  C   RSP  18-90     III/2                 
+
+7670       0230   ////      0233  CUL  C   RSP  18-60     III/2                 
+
+7660       0232   ////      0232  LEA  C   RSP  025-050   III/1                 
+
+7680       0328   ////      0328  LEA  C   RSP  025-047   III/1                 
+
+7690 +     0329   ////      0334  CUL  C   RSP  18-90     III/2                 
+7690 +     0331   0336      0350  G12  5   XRA  1-8A      B6.4    5.7E-04       
+7690       0334   0337      0349  G12  5   XFL  S03W66    7.0E+02 2.3E+03       
+7690 +     0337   0337      0337  LEA  G   RBR  245       120                   
+
+7700 +     0402   ////      0403  CUL  C   RSP  18-130    III/2                 
+
+7710 +     0422   0435      0439  G12  5   XRA  1-8A      C1.1    7.8E-04   0570
+7710       0425   0431      0432  G12  5   XFL  S14E46    1.1E+03 2.5E+03   0570
+7710       0434   0436      0441  LEA  3   FLA  S13E41    SF      ERU       0570
+
+7850       0455   ////      0455  CUL  C   RSP  20-80     III/1                 
+
+7720 +     0639   0648      0702  G12  5   XRA  1-8A      C1.3    1.4E-03   0570
+7720       0642   0649      0701  G12  5   XFL  S15E46    1.6E+03 4.5E+03   0570
+7720       0644   0648      0658  LEA  3   FLA  S16E43    SF      ERU       0570
+7720 +     0652   0653      0655  LEA  G   RBR  606       52                0570
+
+7730       0713   0742      0805  LEA  G   RBR  606       250                   
+
+7760 +     0714   0742      1240  SVI  G   RNS  410       330                   
+
+7730       0715   0742      0810  LEA  G   RBR  410       280                   
+
+7760      U0716   1231     U1240  SVI  U   RNS  606       1700                  
+
+7730       0728   0752      0759  LEA  G   RBR  245       110                   
+
+7760 +     0816   0837      1006  LEA  G   RNS  245       110                   
+
+7740       1318   ////      1327  SVI  C   RSP  025-039   III/1                 
+
+7750       1341   ////      1341  SVI  C   RSP  025-041   III/1                 
+
+7770 +     1405   ////      1406  SVI  C   RSP  025-084   III/1                 
+
+7780 +     1424   1429      1434  G12  5   XRA  1-8A      B5.4    2.3E-04   0570
+7780       1427   1429      1433  G12  5   XFL  S15E41    8.0E+02 1.9E+03   0570
+
+7790       1442   ////      1443  SVI  C   RSP  025-039   III/1                 
+
+7800 +     1631   1635      1637  G12  5   XRA  1-8A      B4.8    1.4E-04       
+7800       1634   1635      1636  G12  5   XFL  S04W73    7.0E+02 1.7E+03       
+
+7810       1655   ////      1740  HOL  4   EPL  ////      0.22    B.9A          
+
+7820       1949   1949      1949  SAG  G   RBR  245       51                    
+
+7830 +     2148   ////      2149  CUL  C   RSP  18-130    III/3                 
+7830 +     2149   ////      2152  CUL  C   RSP  18-75     V/3                   
+
+7840 +     2337   ////      2338  HOL  C   RSP  025-084   III/1                 

@@ -1,0 +1,49 @@
+:Product: 20030127events.txt
+:Created: 2003 Jan 30 0302 UT
+:Date: 2003 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5320 +     0210   ////      0210  CUL  C   RSP  18-70     III/2                 
+
+5330 +     0339   ////      0340  CUL  C   RSP  18-80     III/3                 
+
+5450       0449   ////      0500  CUL  C   RSP  18-60     III/1                 
+
+5460       0752   ////      0752  CUL  C   RSP  18-60     III/2                 
+
+5470       0755   ////      0755  CUL  C   RSP  18-50     III/1                 
+
+5340       0821   0821      0821  SVI  G   RBR  245       62                    
+5340       0821   0821      0821  SVI  G   RBR  410       25                    
+
+5350 +     0849   0853      0856  GO8  5   XRA  1-8A      B3.5    1.2E-04       
+
+5360       1015   ////      1015  SVI  U   RSP  028-041   III/1                 
+
+5370 +     1023   1026      1029  GO8  5   XRA  1-8A      B5.3    1.6E-04       
+
+5380 +    B1150  U1150      1159  COM  3   FLA  N06W13    SF                0273
+
+5390      B1601  U1601      1611  RAM  3   FLA  S02W37    SF      ERU       0266
+
+5400       1719   ////      1720  HOL  C   RSP  025-043   III/1                 
+
+5410 +     1926   1929      1932  GO8  5   XRA  1-8A      B3.3    9.5E-05       
+
+5440 +    A2102   ////      2136  HOL  3   DSF  S19W19    21      B.0A      0000
+
+5480       2129   ////      2129  CUL  C   RSP  50-70     III/1                 
+
+5420 +     2131   2134      2136  GO8  5   XRA  1-8A      B3.5    9.6E-05       
+
+5430 +     2142   2219      2250  GO8  5   XRA  1-8A      C2.4    7.2E-03   0000
+5430       2149   2151      2222  HOL  3   FLA  S17W23    SF      ERU       0000
+5430 +     2210   ////      2213  HOL  C   RSP  025-051   III/1             0000

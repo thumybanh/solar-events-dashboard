@@ -1,0 +1,22 @@
+:Product: 20060511events.txt
+:Created: 2006 May 14 0329 UT
+:Date: 2006 05 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 May 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6310 +     1710   1722      1737  G12  5   XRA  1-8A      B1.5    2.1E-04       
+
+6320       1752   ////      2000  HOL  3   EPL  ////      0.2     B.6A          
+
+6330 +     1929   1932      1935  G12  5   XRA  1-8A      B1.1    3.3E-05       
+
+6340 +     2257   2316      2354  G12  5   XRA  1-8A      B3.9    1.0E-03   0883
+6340       2302   2310      2353  G12  5   XFL  S06W00    6.0E+02 1.6E+03   0883
+6340       2304   2304      2313  HOL  3   FLA  S06E00    SF      ERU       0883

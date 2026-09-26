@@ -1,0 +1,28 @@
+:Product: 19980519events.txt
+:Created: 1998 May 22 0302 UT
+:Date: 1998 05 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 May 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4050       0552   ////      0552  CUL  C   RSP  27-50     III/1                 
+
+4010 +     0756   0802      0804  GO9  5   XRA  1-8A      C4.4    9.6E-04       
+
+4030      A0830   ////      0948  SVI  3   DSF  S29E44    17      B.0A          
+
+4080      A0926   ////      0309  LEA  3   DSF  N29W46    20      B.0A          
+
+4020 +     0951   ////      1015  SVI  C   RSP  035-08    II/3    2000          
+4020 +     1010   1015      1018  GO9  5   XRA  1-8A      B7.9    3.2E-04       
+
+4040 +     1541   1605      1634  GO9  5   XRA  1-8A      C3.0    6.8E-03   8218
+4040       1555   ////      1610  HOL  3   EPL  S20W90    0.16    B.9A      8218
+
+4070       2324   0038      0105  GO9  5   XRA  1-8A      C1.1    4.2E-03       

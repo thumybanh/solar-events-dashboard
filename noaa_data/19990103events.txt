@@ -1,0 +1,54 @@
+:Product: 19990103events.txt
+:Created: 1999 Jan 06 0302 UT
+:Date: 1999 01 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5510 +     0229   0230      0231  LEA  G   RBR  245       140                   
+
+5530 +     0523   0526      0528  GO8  5   XRA  1-8A      C1.0    2.8E-04   8420
+5530       0525   0526      0530  LEA  3   FLA  N16W68    SF                8420
+
+5660       0700   0715      0734  GO8  5   XRA  1-8A      C1.4    2.6E-03       
+
+5540       0807   0854      0958  GO8  5   XRA  1-8A      C8.2    4.2E-02   8420
+5540       0827   0900      0903  LEA  4   FLA  N16W70    SF                8420
+5540 +     0847   0849      0850  LEA  G   RBR  245       150               8420
+
+5550 +     0937   0938      0938  LEA  G   RBR  245       53                    
+
+5560       0946   ////      1056  SVI  C   RSP  040-08    CTM/1                 
+
+5570       1435   ////      1525  RAM  3   DSF  S21W58    18      B.9A      8422
+5570 +     1446   1501      1710  RAM  3   FLA  S23W49    1N      ERU       8422
+5570 +     1449   1514      1552  GO8  5   XRA  1-8A      C6.2    1.9E-02   8422
+5570 +     1454   1458      1517  SAG  G   RBR  410       360               8422
+5570       1454   1458      1504  SAG  G   RBR  606       250               8422
+5570 +     1456   1456      1514  SAG  G   RBR  245       200               8422
+5570 +     1457   1457      1459  SAG  G   RBR  2695      40                8422
+5570       1521   ////      1525  SAG  C   RSP  030-05    II/1    1200      8422
+
+5590       1609   1613      1614  SAG  G   RBR  410       84                    
+
+5600       1732   1733      1736  HOL  3   FLA  S23W47    SF                8422
+
+5610 +     1854   1903      1911  RAM  3   FLA  N21W67    SF                8421
+5610 +     1859   1903      1907  GO8  5   XRA  1-8A      C2.6    1.0E-03   8421
+
+5620       1909   1909      1914  RAM  3   FLA  S23W51    SF                8422
+
+5640 +     1946   1950      1953  GO8  5   XRA  1-8A      C2.8    8.1E-04   8426
+5640       1949   1950      1952  HOL  3   FLA  N15E19    SF                8426
+
+5670       2204   ////      2204  CUL  C   RSP  40-75     III/1                 
+
+5680       2236   ////      2236  CUL  C   RSP  20-80     III/1                 
+
+5690       2300   ////      2300  CUL  C   RSP  20-80     III/1                 

@@ -1,0 +1,55 @@
+:Product: 20050617events.txt
+:Created: 2005 Jun 18 1229 UT
+:Date: 2005 06 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jun 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6370 +     0120   0555      0556  LEA  G   RNS  245       110                   
+
+6380       0257   ////      0000  LEA  C   RSP  079-180   CTM/1                 
+
+6400       0406   ////      1022  SVI  C   RSP  070-180   CTM/1                 
+
+6390       0419   0421      0421  PAL  U   RBR  245       860                   
+
+6410       0833   ////      0833  SVI  U   RSP  025-080   III/2                 
+
+6420       1022   ////      1022  SVI  C   RSP  025-055   III/1                 
+
+6430       1105   ////      1237  SVI  C   RSP  064-180   CTM/1                 
+
+6440       1233   1233      1233  SAG  G   RBR  245       57                    
+
+6450       1424   1424      1424  SAG  G   RBR  245       310                   
+
+6460       1646   1646      1646  SAG  G   RBR  245       470                   
+
+6470 +     1845   1904      1911  G12  5   XRA  1-8A      C1.4    1.6E-03   0780
+6470       1849   1909      1909  G12  5   XFL  S06E69    2.4E+03 8.8E+03   0780
+
+6480 +     2052   2052      2053  PAL  G   RBR  245       57                    
+
+6490       2058   2059      2059  SAG  G   RBR  245       72                    
+
+6500       2106   2106      2107  PAL  G   RBR  245       64                    
+
+6510 +     2115   2119      2121  G12  5   XRA  1-8A      B5.4    1.3E-04   0780
+6510       2119   2119      2119  G12  5   XFL  S06E66    6.0E+02 1.5E+03   0780
+
+6520       2128   ////      2128  PAL  C   RSP  025-140   III/1                 
+
+6530 +     2210   2236      2243  G12  5   XRA  1-8A      C2.7    3.0E-03   0780
+6530       2213   2241      2241  G12  5   XFL  S06E67    2.6E+03 1.4E+04   0780
+6530       2214   ////      2216  PAL  C   RSP  025-095   III/1             0780
+
+6550       2301   ////      2358  SAG  C   RSP  115-180   CTM/1                 
+
+6540 +     2335   2338      2340  G12  5   XRA  1-8A      B3.2    8.6E-05   0780
+6540       2339   2339      2339  G12  5   XFL  S07E65    3.8E+02 6.6E+02   0780

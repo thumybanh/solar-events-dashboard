@@ -1,0 +1,60 @@
+:Product: 20030927events.txt
+:Created: 2003 Sep 30 0302 UT
+:Date: 2003 09 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Sep 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9000       0005   0005      0005  LEA  G   RBR  245       270                   
+
+9180       0508   ////      1620  SVI  C   RSP  025-180   CTM/1                 
+
+9010 +     0518   ////      0519  LEA  C   RSP  025-180   III/1                 
+
+9020       0548   0549      0549  SVI  G   RBR  245       180                   
+
+9170       0600   ////      1200  IZM  F   RNS  204       10                    
+
+9030       0625   ////      0627  LEA  C   RSP  025-180   III/1                 
+
+9040       0808   0808      0808  LEA  G   RBR  245       55                    
+
+9050 +     0819   0821      0821  SVI  G   RBR  245       63                    
+
+9060       0824   0824      0825  SVI  G   RBR  245       62                    
+
+9070 +     1105   1109      1111  G12  5   XRA  1-8A      B6.7    1.9E-04       
+
+9080 +     1139   1143      1148  G12  5   XRA  1-8A      C1.3    4.9E-04   0464
+9080       1142   1143      1150  SVI  3   FLA  N14W20    SF      ERU       0464
+
+9090 +     1154   ////      1155  SAG  C   RSP  030-080   III/2                 
+9090       1155   1157      1200  SVI  U   RBR  245       54                    
+
+9100       1157   1157      1157  SAG  G   RBR  245       52                    
+
+9110 +     1200   1204      1210  G12  5   XRA  1-8A      C1.3    7.3E-04   0464
+9110       1201   1205      1223  SVI  3   FLA  N16W23    SF      ERU       0464
+9110 +     1209   1217      1217  SVI  G   RBR  245       280               0464
+
+9120       1214   1214      1214  SAG  G   RBR  245       66                    
+
+9140 +     1240   1242      1242  SVI  G   RBR  245       78                    
+
+9150       1242   1242      1242  SAG  G   RBR  245       90                    
+
+9160       1244   1247      1250  SVI  3   FLA  N17W16    SF      DSD       0464
+
+9190       1607   ////      1607  SAG  C   RSP  030-080   III/2                 
+
+9200 +     1815   ////      1815  PAL  C   RSP  025-058   III/1                 
+
+9210 +     2130   2134      2148  G12  5   XRA  1-8A      B5.7    5.5E-04       
+
+9220       2246   ////      0941  LEA  C   RSP  075-180   CTM/1                 

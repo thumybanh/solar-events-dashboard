@@ -1,0 +1,57 @@
+:Product: 20040417events.txt
+:Created: 2004 Apr 20 0302 UT
+:Date: 2004 04 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4570       0020   0020      0020  PAL  G   RBR  410       52                    
+
+4580       0026   0026      0026  PAL  G   RBR  410       110                   
+
+4590       0130   0131      0131  LEA  G   RBR  245       87                    
+
+4600       0449   0501      0506  G10  5   XRA  1-8A      B3.7    3.0E-04   0595
+
+4610       0817   ////      0817  SVI  U   RSP  119-170   III/1                 
+
+4620 +     0854   ////      0854  LEA  C   RSP  025-100   III/1                 
+
+4630 +     0906   ////      0906  LEA  C   RSP  053-167   III/1                 
+
+4640       0919   0919      0919  SVI  G   RBR  245       54                    
+4640       0919   ////      0919  SVI  U   RSP  119-163   III/1                 
+
+4650       1001   ////      1001  SVI  U   RSP  112-152   III/1                 
+
+4660       1027   ////      1027  SVI  U   RSP  114-144   III/1                 
+
+4670 +     1134   1142      1151  G12  5   XRA  1-8A      C1.8    1.1E-03       
+4670       1138   1144      1150  G12  5   XFL  S07E81    1.9E+03 8.3E+03       
+
+4680       1500   ////      1500  SVI  U   RSP  025-057   III/1                 
+
+4690       1510   ////      1511  SVI  C   RSP  025-066   III/1                 
+
+4700 +     1526   1526      1526  SAG  G   RBR  245       52                    
+
+4710       1830   1830      1830  SAG  G   RBR  245       63                    
+4710 +     1830   ////      1830  HOL  C   RSP  025-180   III/1                 
+
+4720       1831   1831      1831  PAL  G   RBR  245       57                    
+
+4730       1833   1836      1838  G10  5   XRA  1-8A      B1.5    3.9E-05       
+4730 +     1835   1836      1836  SAG  G   RBR  245       97                    
+
+4740 +     1919   1920      1920  SAG  G   RBR  245       95                    
+4740 +     1919   ////      1920  HOL  C   RSP  025-180   III/1                 
+
+4750       2025   2025      2025  SAG  G   RBR  245       61                    
+
+4760       2111   2111      2111  SAG  G   RBR  245       92                    

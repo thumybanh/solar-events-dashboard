@@ -1,0 +1,56 @@
+:Product: 20021221events.txt
+:Created: 2002 Dec 24 0300 UT
+:Date: 2002 12 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9220       0002   0002      0004  LEA  3   FLA  S28W38    SF                0226
+
+9340       0023   0024      0142  LEA  3   FLA  N21W15    SF                0229
+
+9230       0028   0032      0035  LEA  3   FLA  S26W37    SF      DSD       0226
+
+9240       0246   0252      0257  GO8  5   XRA  1-8A      C2.4    1.4E-03   0226
+9240       0249   0250      0253  LEA  3   FLA  S27W45    SF      ERU       0226
+
+9250       0339   0349      0356  GO8  5   XRA  1-8A      C2.9    2.8E-03   0229
+9250       0342   0342      0354  LEA  3   FLA  N19W19    SF                0229
+
+9260 +     0438   0441      0445  GO8  5   XRA  1-8A      C2.2    8.5E-04       
+
+9270       0440   0453      0505  LEA  3   FLA  S25W41    1F      ERU       0226
+9270 +     0448   0453      0457  GO8  5   XRA  1-8A      C4.6    1.8E-03   0226
+
+9310       0700   ////      1200  IZM  F   RNS  204       5                     
+
+9280 +     0946   0951      0954  GO8  5   XRA  1-8A      C1.6    5.9E-04   0226
+9280       0950   0951      0958  LEA  2   FLA  S25W44    SF                0226
+
+9290       1048   1048      1048  SVI  G   RBR  245       77                    
+
+9300       1336   1336      1336  SAG  G   RBR  245       51                    
+
+9330      A1446   ////     B0745  SVI  3   DSF  ////      35      B.0A      0000
+
+9350       1539   1540      1540  SAG  G   RBR  245       100                   
+
+9360       1553   1553      1553  SAG  G   RBR  245       51                    
+
+9370       1652   1652      1652  SAG  G   RBR  245       53                    
+
+9380       1821   1821      1821  SAG  G   RBR  245       72                    
+
+9390       1856   1910      1917  G10  5   XRA  1-8A      C1.0    1.2E-03   0226
+9390       1905   1905      1917  RAM  3   FLA  S25W49    SF      ERU       0226
+9390       1914   1914      1914  SAG  G   RBR  245       54                0226
+
+9400       2043   2049      2050  PAL  G   RBR  245       68                    
+
+9410 +     2144   2147      2151  GO8  5   XRA  1-8A      C1.2    4.7E-04       

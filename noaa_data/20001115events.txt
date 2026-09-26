@@ -1,0 +1,41 @@
+:Product: 20001115events.txt
+:Created: 2000 Nov 18 0302 UT
+:Date: 2000 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1740 +     0218   0246      0250  GO8  5   XRA  1-8A      C5.7    3.2E-03   9223
+1740 +     0243   0244      0245  LEA  G   RBR  4995      95                9223
+1740 +     0243   0244      0245  LEA  G   RBR  8800      93                9223
+1740       0243   0244      0244  PAL  G   RBR  245       270               9223
+1740       0243   0244      0245  PAL  G   RBR  410       780               9223
+1740       0243   0244      0244  PAL  G   RBR  606       200               9223
+1740       0243   0244      0308  LEA  3   FLA  S15W48    1B      ERU       9223
+1740 +     0243   ////      0246  CUL  C   RSP  18-800    III/3             9223
+1740       0244   0244      0244  LEA  G   RBR  1415      28                9223
+1740       0244   0244      0245  LEA  G   RBR  2695      52                9223
+1740       0244   0244      0245  LEA  G   RBR  15400     38                9223
+
+1750 +     0848   0851      0853  GO8  5   XRA  1-8A      B9.1    2.2E-04       
+
+1760       0855   ////      0857  LEA  C   RSP  025-180   V/3                   
+
+1780       1545   ////      1545  SAG  C   RSP  030-050   III/1                 
+
+1790 +     1815   1822      1825  GO8  5   XRA  1-8A      C1.7    6.5E-04   9231
+1790       1819   1821      1829  RAM  4   FLA  S26E42    SF      ERU       9231
+
+1800       1832   1834      1841  RAM  4   FLA  S26E42    SF                9231
+
+1810 +     2044   2047      2052  GO8  5   XRA  1-8A      B9.9    4.2E-04       
+
+1820 +     2129   2134      2137  GO8  5   XRA  1-8A      C1.8    5.9E-04       
+
+1830 +     2215   2229      2250  GO8  5   XRA  1-8A      C3.0    4.6E-03       

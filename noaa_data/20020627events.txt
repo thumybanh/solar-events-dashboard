@@ -1,0 +1,90 @@
+:Product: 20020627events.txt
+:Created: 2002 Jun 30 0300 UT
+:Date: 2002 06 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8050 +     0006   0007      0007  LEA  G   RBR  245       920                   
+8050 +     0007   0007      0007  LEA  G   RBR  410       40                    
+8050 +     0007   ////      0007  CUL  C   RSP  57-430    III/2                 
+
+8060       0011   ////      0011  LEA  C   RSP  025-180   V/2                   
+8060 +     0011   0011      0011  LEA  G   RBR  245       310                   
+8060 +     0011   ////      0012  CUL  C   RSP  57-260    III/3                 
+
+8070       0016   0016      0016  LEA  G   RBR  245       110                   
+8070       0016   ////      0016  LEA  C   RSP  025-180   III/2                 
+
+8130       0017   ////      0017  CUL  C   RSP  57-250    III/1                 
+
+8080       0019   0019      0019  LEA  G   RBR  245       97                    
+
+8340       0033   0040      0044  GO8  5   XRA  1-8A      B4.1    2.4E-04       
+8340       0039   0039      0039  LEA  G   RBR  245       130                   
+
+8100       0047   0047      0047  LEA  G   RBR  245       210                   
+
+8140       0327   ////      0333  CUL  C   RSP  57-180    III/1                 
+
+8110 +     0336   0344      0347  GO8  5   XRA  1-8A      B6.6    3.6E-04   0005
+8110       0340   0342      0349  LEA  3   FLA  N11W65    SF                0005
+
+8120       0352   0352      0352  LEA  G   RBR  245       58                    
+
+8150       0402   ////      0402  SVI  C   RSP  025-180   III/1                 
+
+8160       0450   0450      0450  LEA  G   RBR  245       55                    
+
+8170       0454   0454      0455  SVI  G   RBR  245       110                   
+8170       0454   ////      0455  SVI  C   RSP  025-180   III/1                 
+
+8380       0550   ////      0557  CUL  C   RSP  57-140    III/1                 
+
+8180       0551   ////      0556  SVI  U   RSP  029-082   III/1                 
+
+8390       0633   ////      0633  CUL  C   RSP  57-180    III/1                 
+
+8190       0651   ////      0651  SVI  C   RSP  028-034   III/1                 
+
+8200 +     0743   ////      0750  SVI  C   RSP  025-180   III/1                 
+
+8210       0851   ////      0851  SVI  C   RSP  025-053   III/1                 
+
+8350       1017   1029      1041  GO8  5   XRA  1-8A      B4.2    5.5E-04       
+
+8220       1222   1222      1222  SAG  G   RBR  245       65                    
+
+8230       1228   1228      1228  SVI  G   RBR  245       64                    
+8230       1228   ////      1228  SVI  C   RSP  140-180   III/1                 
+
+8250 +     1252   1252      1252  SVI  G   RBR  245       53                    
+
+8260       1312   ////      1313  SAG  C   RSP  030-055   III/2                 
+
+8270       1438   ////      1439  SVI  C   RSP  028-072   III/1                 
+
+8280 +     1620   ////      1624  SVI  C   RSP  025-142   III/1                 
+
+8290       1642   ////      1642  SVI  U   RSP  030-082   III/1                 
+
+8330 +     1801   1801      1805  SAG  G   RNS  245       82                    
+
+8300 +     1914   1914      1916  SAG  G   RBR  245       370                   
+8300       1914   1917      1921  GO8  5   XRA  1-8A      B3.8    1.5E-04       
+8300       1915   ////      1920  HOL  C   RSP  025-180   III/1                 
+
+8320       2006   2006      2006  PAL  G   RBR  245       53                    
+8320       2006   ////      2006  HOL  C   RSP  025-066   III/1                 
+
+8360       2039   2039      2039  PAL  G   RBR  245       58                    
+
+8370 +     2202   ////      2203  PAL  C   RSP  025-180   III/1                 
+
+8400       2222   ////      2223  CUL  C   RSP  57-180    III/1                 

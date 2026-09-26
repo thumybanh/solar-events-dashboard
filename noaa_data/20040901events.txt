@@ -1,0 +1,47 @@
+:Product: 20040901events.txt
+:Created: 2004 Sep 04 0302 UT
+:Date: 2004 09 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Sep 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1910 +     0021   ////      0022  LEA  C   RSP  025-103   III/1                 
+
+1920       0109   0109      0109  PAL  G   RBR  245       54                    
+
+1930       0125   ////      0125  LEA  C   RSP  025-034   III/1                 
+
+1940 +     0611   ////      0611  LEA  C   RSP  025-103   III/1                 
+
+1950 +     0729   ////      0729  CUL  C   RSP  25-140    III/1                 
+
+1960 +     0810   ////      0817  SVI  C   RSP  025-048   III/1                 
+
+1970       0945   ////      0945  SVI  C   RSP  025-044   III/1                 
+
+1980       1010   ////      1014  SVI  C   RSP  025-042   III/1                 
+
+1990       1043   ////      1043  SVI  C   RSP  025-044   III/1                 
+
+2000       1127   ////      1127  SVI  C   RSP  025-039   III/1                 
+
+2010       1139   1139      1139  SVI  G   RBR  245       76                    
+
+2020       1217   ////      1217  SVI  C   RSP  025-043   III/1                 
+
+2030       1436   ////      1437  SVI  C   RSP  025-049   III/1                 
+
+2040       1516   ////      1516  SAG  C   RSP  025-039   III/1                 
+
+2050 +     1803   1806      1809  G12  5   XRA  1-8A      B3.4    1.0E-04       
+2050       1806   1808      1808  G12  5   XFL  S12E81    1.1E+03 2.1E+03       
+
+2060       2139   ////      2140  CUL  C   RSP  30-180    III/1                 
+
+2070       2340   ////      2340  CUL  C   RSP  23-90     III/1                 

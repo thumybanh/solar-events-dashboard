@@ -1,0 +1,22 @@
+:Product: 19990324events.txt
+:Created: 1999 Mar 27 0302 UT
+:Date: 1999 03 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3170      A0017   ////      1419  HOL  2   DSF  N27W25    05      B.0A          
+
+3100       0914   0914      0914  SVI  U   RBR  245       200                   
+
+3110       0951   0955      1001  G10  5   XRA  1-8A      B2.9    1.6E-04       
+
+3160 +     1245   1252      1300  GO8  5   XRA  1-8A      B3.4    2.5E-04       
+
+3190      A1744   ////      1122  RAM  3   DSF  S12W11    17      B.0A          

@@ -1,0 +1,92 @@
+:Product: 20021104events.txt
+:Created: 2002 Nov 07 0300 UT
+:Date: 2002 11 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Nov 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8380 +     0101   ////      0103  LEA  C   RSP  025-123   III/1                 
+
+8390       0122   0127      0136  LEA  3   FLA  S09E37    SF      ERU       0180
+
+8410 +     0200   0204      0206  GO8  5   XRA  1-8A      C1.7    4.9E-04       
+
+8420 +     0215   ////      0216  CUL  C   RSP  20-250    III/1                 
+
+8430       0232   ////      0232  LEA  C   RSP  025-076   III/1                 
+
+8440       0318   0318      0318  PAL  G   RBR  410       54                    
+
+8450 +     0320   0330      0343  GO8  5   XRA  1-8A      C3.7    3.9E-03   0177
+8450       0324   0330      0346  LEA  3   FLA  N14E19    SF      ERU       0177
+
+8460       0511   0515      0535  LEA  3   FLA  S10E33    SF                0180
+
+8480       0642   0646      0650  LEA  3   FLA  S10E32    SF                0180
+
+8570       0700   ////      1200  IZM  F   RNS  204       40                    
+
+8490       0716   0728      0732  LEA  3   FLA  S11E33    SF                0180
+
+8500       0733   0735      0738  LEA  3   FLA  S10E36    SF      ERU       0180
+
+8510       0752   0755      0809  LEA  3   FLA  S10E31    SF      DSD       0180
+
+8520       0837   0838      0846  LEA  3   FLA  S10E31    SF                0180
+
+8530       0900   ////      0913  SVI  U   RSP  115-180   CTM/1                 
+
+8540       0930   0931      0938  LEA  3   FLA  S10E30    SF                0180
+
+8710      A0943   ////     B2253  LEA  3   DSF  ////      09      B.0A      0000
+
+8560       1005   1120      1213  GO8  5   XRA  1-8A      C3.7    2.0E-02   0180
+
+8550       1019   ////      1022  SVI  C   RSP  025-180   III/2                 
+
+8570       1020   1029     U1042  SVI  G   RNS  606       86                    
+
+8560      B1125  U1127      1136  RAM  3   FLA  S08E31    SF      ERU       0180
+
+8570 +     1142   1530      2109  SAG  G   RNS  245       570                   
+
+8920      A1334   ////     B0814  SVI  3   DSF  ////      10      B.0A      0000
+
+8580       1506   ////      1509  SAG  C   RSP  030-080   III/1                 
+
+8590       1625   1634      1708  RAM  3   FLA  N16E03    SF      ERU       0177
+8590       1648   1648      1648  SAG  G   RBR  410       94                0177
+
+8600      B1811  U1822      1906  RAM  3   FLA  S09E26    SF      ERU       0180
+8600 +     1813   1823      1832  GO8  5   XRA  1-8A      C4.4    3.6E-03   0180
+
+8610       1850   1850      1851  SAG  G   RBR  410       110                   
+
+8620       1856   1856      1857  SAG  G   RBR  410       610                   
+
+8720       1939   2024      2046  GO8  5   XRA  1-8A      C2.1    5.9E-03       
+
+8930      A1942   ////     B1134  RAM  3   DSF  ////      11      B.0A      0000
+
+8630       1951   ////      1957  HOL  C   RSP  025-168   III/1                 
+
+8650       2104   2106      2109  PAL  G   RBR  606       270                   
+8650       2104   2106      2106  PAL  G   RBR  1415      73                    
+
+8660       2146   ////      2147  HOL  C   RSP  025-146   III/1                 
+
+8670 +     2154   2158      2203  GO8  5   XRA  1-8A      C2.1    9.7E-04       
+8670       2155   ////      1020  LEA  C   RSP  025-180   CTM/1                 
+
+8680       2213   ////      2213  LEA  C   RSP  025-180   III/1                 
+8680       2213   2214      2214  PAL  G   RBR  410       100                   
+
+8690 +     2233   2243      2249  GO8  5   XRA  1-8A      C5.4    3.4E-03       
+
+8700 +     2347   2352      2358  GO8  5   XRA  1-8A      C2.1    1.2E-03       

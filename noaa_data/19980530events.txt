@@ -1,0 +1,43 @@
+:Product: 19980530events.txt
+:Created: 1998 Jun 02 0302 UT
+:Date: 1998 05 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 May 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6200       0034   ////      0036  PAL  C   RSP  040-05    III/1                 
+
+6210       0113   ////      0135  LEA  C   RSP  033-04    CTM/1                 
+
+6220 +     0343   ////      0344  CUL  C   RSP  20-180    III/1                 
+
+6240       0813   ////      0813  SVI  C   RSP  036-05    III/2                 
+
+6250       0916   ////      0916  SVI  C   RSP  037-06    III/2                 
+
+6260       1001   ////      1003  SVI  C   RSP  035-08    III/2                 
+
+6290       1044   1048      1052  GO9  5   XRA  1-8A      C1.0    4.5E-04       
+
+6270       1127   ////      1127  SVI  C   RSP  035-06    III/2                 
+
+6280       1207   ////      1208  SVI  C   RSP  036-05    III/2                 
+6280       1207   ////      1208  SAG  C   RSP  030-05    V/1                   
+
+6420      A1453   ////      0632  SVI  2   DSF  S42E07    15      B.0A          
+
+6300       1535   ////      1536  SVI  C   RSP  036-08    III/2                 
+6300       1535   ////      1536  SAG  C   RSP  030-06    V/1                   
+
+6310       1730   ////      1730  SAG  C   RSP  030-04    III/1                 
+
+6320 +     2248   2251      2255  PAL  G   RBR  245       500                   
+6320 +     2248   ////      2256  CUL  C   RSP  30-340    II/2                  
+6320       2250   ////      2254  CUL  C   RSP  18-130    III/3                 
+6320 +     2251   ////      2252  SAG  C   RSP  030-07    V/2                   

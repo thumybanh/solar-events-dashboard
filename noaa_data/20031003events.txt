@@ -1,0 +1,44 @@
+:Product: 20031003events.txt
+:Created: 2003 Oct 06 0302 UT
+:Date: 2003 10 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Oct 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 290 +     0058   0106      0147  G12  5   XRA  1-8A      B9.4    2.4E-03       
+
+ 300 +     0333   0338      0346  G12  5   XRA  1-8A      C2.0    1.1E-03   0471
+ 300       0338   0338      0352  LEA  3   FLA  S06E32    SF                0471
+
+ 310 +     0610   0619      0637  G12  5   XRA  1-8A      C1.0    1.4E-03       
+
+ 320 +     0640   0644      0647  G12  5   XRA  1-8A      C1.4    4.7E-04       
+
+ 330 +     0753   0757      0801  G12  5   XRA  1-8A      C1.7    5.5E-04   0471
+ 330       0756   0756      0756  SVI  G   RBR  410       23                0471
+ 330 +     0756   0756      0756  SVI  G   RBR  2695      58                0471
+ 330 +     0756   0756      0756  SVI  G   RBR  4995      61                0471
+ 330       0756   0756      0756  SVI  G   RBR  8800      40                0471
+ 330       0756   0759      0803  LEA  3   FLA  S10E42    SF                0471
+
+ 340       0909   0910      0910  SVI  G   RBR  245       51                    
+
+ 350       1119   1218      1244  G12  5   XRA  1-8A      C2.1    5.8E-03       
+
+ 360       1511   ////      1513  SVI  C   RSP  025-081   III/1                 
+
+ 370       1736   ////      1743  HOL  C   RSP  025-124   III/1                 
+
+ 380       1833   1833      1833  PAL  G   RBR  245       59                    
+
+ 390       1919   1922      1932  G10  5   XRA  1-8A      B6.8    4.9E-04       
+
+ 400       2125   2125      2125  PAL  G   RBR  245       160                   
+
+ 410 +     2301   2314      2328  G12  5   XRA  1-8A      C2.7    3.4E-03       

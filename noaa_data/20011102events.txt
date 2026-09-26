@@ -1,0 +1,62 @@
+:Product: 20011102events.txt
+:Created: 2001 Nov 05 0300 UT
+:Date: 2001 11 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Nov 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9820       0000   ////      0105  CUL  C   RSP  57-180    CTM/2             9682
+9820 +    B0000   ////      1523  COM  C   RSP  30-80     CTM/2                 
+
+9830       0105   0106      0106  LEA  G   RBR  410       100                   
+
+9870 +     0129   0139      0220  LEA  G   RNS  410       55                    
+
+9840 +     0156   0201      0208  GO8  5   XRA  1-8A      C8.9    5.9E-03   9687
+
+9880       0413   0413      0446  LEA  3   FLA  N12W22    SF      ERU       9682
+
+9850       0415   0419      0432  GO8  5   XRA  1-8A      C4.4    4.2E-03       
+
+9860 +     0503   0510      0518  GO8  5   XRA  1-8A      C4.0    3.3E-03   9687
+9860       0513   0513      0517  LEA  3   FLA  S20E62    SF                9687
+
+9890       0742   0809      0845  GO8  5   XRA  1-8A      M1.1    3.1E-02   9687
+9890 +     0803   0809      0821  LEA  2   FLA  S20E71    SF      ERU       9687
+
+9910       0813   0819      0825  LEA  2   FLA  N09W28    SF      ERU       9682
+
+9930 +     1433   1438      1442  GO8  5   XRA  1-8A      C3.1    1.3E-03   9687
+9930 +     1436   1438      1444  RAM  3   FLA  S21E70    SF      ERU       9687
+
+9940 +     1511   1515      1523  GO8  5   XRA  1-8A      C2.3    1.5E-03   9682
+9940       1514   1514      1520  RAM  3   FLA  N12W33    SF                9682
+
+9950       1605   1606      1611  RAM  3   FLA  N02E02    SF      ERU       9684
+
+9960       1612   1615      1641  HOL  3   FLA  S18E63    SF      ERU       9687
+
+9870 +     1653   1925      1956  PAL  G   RNS  245       120                   
+
+40         1653   ////      0322  PAL  C   RSP  025-180   CTM/1                 
+
+9970 +     1701   1705      1710  GO8  5   XRA  1-8A      C3.2    1.5E-03   9684
+9970 +     1703   1703      1710  HOL  3   FLA  N04E03    SF                9684
+
+9990 +     1938   1945      1952  GO8  5   XRA  1-8A      C2.6    1.8E-03       
+
+10         2037   2037      2038  PAL  G   RBR  245       540                   
+
+20         2128   2130      2135  HOL  3   FLA  S18E62    SF                9687
+
+50         2156   ////      0322  LEA  C   RSP  075-180   CTM/1                 
+
+30   +     2231   2236      2242  GO8  5   XRA  1-8A      C3.1    1.5E-03   9687
+30         2234   2234      2235  LEA  U   RBR  2695      39                9687
+30         2234   2234      2234  LEA  U   RBR  4995      38                9687

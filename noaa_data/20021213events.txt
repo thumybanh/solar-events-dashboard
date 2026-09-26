@@ -1,0 +1,68 @@
+:Product: 20021213events.txt
+:Created: 2002 Dec 16 0300 UT
+:Date: 2002 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6980 +     0103   0110      0128  GO8  5   XRA  1-8A      C3.0    3.6E-03   0220
+6980       0106   0106      0135  LEA  3   FLA  S12E08    SF      ERU       0220
+
+6990       0435   0446      0454  GO8  5   XRA  1-8A      C1.5    1.4E-03   0223
+6990       0436   0442      0447  LEA  3   FLA  N23E66    SF                0223
+6990       0446   0447      0447  LEA  G   RBR  410       65                0223
+
+7000       0659   0702      0714  LEA  3   FLA  N24E66    SF                0223
+
+7010 +     0832   0836      0841  GO8  5   XRA  1-8A      C3.4    1.4E-03   0224
+7010       0834   0835      0842  LEA  3   FLA  S16E63    SF      ERU       0224
+
+7020 +     0920   0936      0944  GO8  5   XRA  1-8A      C1.9    2.5E-03       
+
+7030 +     1013   1021      1030  GO8  5   XRA  1-8A      C2.4    2.0E-03       
+7030       1019   1020      1022  IZM  F   RBR  3000      12                    
+
+7040       1158   1158      1158  SVI  G   RBR  245       50                    
+7040       1158   1158      1158  SVI  G   RBR  410       30                    
+
+7050 +     1325   1332      1338  GO8  5   XRA  1-8A      C8.0    4.6E-03       
+7050 +     1327   1328      1330  SVI  G   RBR  1415      40                    
+7050 +     1328   1328      1328  SVI  G   RBR  245       39                    
+7050       1328   1329      1329  SVI  G   RBR  410       29                    
+7050 +     1328   1328      1332  SVI  G   RBR  606       75                    
+7050 +     1328   1328      1329  SVI  G   RBR  2695      36                    
+7050       1328   1328      1329  SVI  G   RBR  4995      24                    
+
+7060 +     1527   1532      1537  GO8  5   XRA  1-8A      C1.6    9.2E-04       
+
+7070       1710   1711      1712  SAG  G   RBR  245       84                    
+7070 +     1710   1725      1738  GO8  5   XRA  1-8A      C6.8    8.2E-03       
+
+7080       1846   1846      1846  SAG  G   RBR  245       91                    
+
+7090       1904   1905      1911  HOL  3   FLA  S29E57    SF                0226
+
+7100       1906   1909      1911  HOL  3   FLA  S17E63    SF                0224
+
+7110       1924   1925      1946  HOL  3   FLA  S28E57    SF                0226
+
+7120      B1958   2009     A2014  RAM  2   FLA  S29E56    SF                0226
+
+7130       2033   2055      2105  HOL  3   FLA  S28E56    SF                0226
+
+7140       2210   2233      2234  HOL  3   FLA  S28E53    SF                0226
+
+7150       2236   2237      2242  LEA  3   FLA  S29E53    SF                0226
+
+7180 +     2242   ////      2330  LEA  3   EPL  ////      0.22    B.9A      0000
+
+7160       2247   2255      2300  HOL  3   FLA  S28E55    SF                0226
+7160       2255   2325      2334  GO8  5   XRA  1-8A      C1.7    3.5E-03   0000
+
+7170       2325   2325      2329  LEA  3   FLA  S29E53    SF                0226

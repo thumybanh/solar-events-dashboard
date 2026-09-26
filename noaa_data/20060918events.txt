@@ -1,0 +1,31 @@
+:Product: 20060918events.txt
+:Created: 2006 Sep 22 1735 UT
+:Date: 2006 09 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Sep 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5970       0609   0609      0609  LEA  G   RBR  410       110                   
+5970       0609   0609      0609  LEA  G   RBR  606       86                    
+
+5980 +     0924   0932      0944  G12  5   XRA  1-8A      B2.8    2.6E-04   0908
+5980       0934   0935      0942  G12  5   XFL  S11W90    1.0E+02 1.7E+02   0908
+
+6030      A1012   ////     B2220  LEA  2   DSF  S58E05    07      B.0A          
+
+5990 +     1702   1706      1710  G12  5   XRA  1-8A      B1.3    4.7E-05       
+5990       1707   1707      1707  G12  5   XFL  S07E51    1.0E+02 1.9E+02       
+
+6000 +     1925   1945      2001  G12  5   XRA  1-8A      C1.0    1.3E-03   0910
+6000       1935   1946      1959  G12  5   XFL  S10E49    3.6E+03 9.2E+03       
+
+6010 +     2349   2356      0001  G12  5   XRA  1-8A      B8.0    3.5E-04   0910
+6010       2352   ////      2353  LEA  C   RSP  027-180   III/1             0910
+6010       2354   2358      2359  G12  5   XFL  S07E48    1.3E+03 5.2E+03   0910
+6010       2356   ////      0001  LEA  3   RSP  51-148    II/2    736       0910

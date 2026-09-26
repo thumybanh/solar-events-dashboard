@@ -1,0 +1,68 @@
+:Product: 20030620events.txt
+:Created: 2003 Jun 23 0302 UT
+:Date: 2003 06 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jun 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3050       0013   0013      0013  PAL  G   RBR  245       59                    
+
+3060       0014   0014      0014  PAL  G   RBR  410       280                   
+
+3480      A0025   ////     B1256  HOL  3   DSF  ////      11      B.0A      0000
+
+3070       0052   0052      0052  PAL  G   RBR  245       56                    
+
+3080       0127   0127      0127  LEA  G   RBR  245       53                    
+
+3090       0137   0138      0138  LEA  G   RBR  245       70                    
+
+3170 +     0141   0241      0455  LEA  G   RNS  245       110                   
+
+3100       0233   0233      0234  PAL  G   RBR  245       82                    
+
+3110       0254   0254      0255  PAL  G   RBR  410       140                   
+
+3120       0257   0257      0257  LEA  G   RBR  410       130                   
+
+3130 +     0453   0501      0516  G12  5   XRA  1-8A      C1.2    1.4E-03   0386
+
+3140       0642   0642      0642  LEA  G   RBR  410       85                    
+
+3150       0653   ////      0656  LEA  C   RSP  025-180   III/1                 
+
+3210       0835   0847      0855  G12  5   XRA  1-8A      B9.0    9.3E-04   0386
+3210       0836   ////      0843  LEA  C   RSP  025-180   III/1             0386
+
+3250       1154   1210      1216  G12  5   XRA  1-8A      B5.9    6.7E-04       
+
+3180       1235   1235      1236  SAG  G   RBR  245       110                   
+
+3190       1339   1339      1339  SAG  G   RBR  245       59                    
+
+3200 +     1413   1417      1421  G12  5   XRA  1-8A      B5.5    2.3E-04   0386
+
+3220 +     1435   1441      1457  G12  5   XRA  1-8A      C1.2    1.4E-03   0386
+
+3260 +     1638   1643      1648  G12  5   XRA  1-8A      B6.5    3.1E-04   0388
+
+3270 +     1805   ////      1805  SAG  C   RSP  030-060   III/2                 
+
+3280       1832   1833      1833  SAG  G   RBR  245       75                    
+
+3290       2050   2104      2110  G12  5   XRA  1-8A      B4.3    4.0E-04   0388
+3290       2103   2103      2103  SAG  G   RBR  410       50                0388
+3290       2103   2103      2103  SAG  G   RBR  606       31                0388
+3290       2103   2108      2117  HOL  3   FLA  S02W07    SF                0388
+
+3300       2221   2231      2245  G10  5   XRA  1-8A      C1.0    1.3E-03   0386
+3300       2224   2225      2242  HOL  3   FLA  S09E17    SF      ERU       0386
+3300       2225   ////      2225  HOL  C   RSP  025-084   III/1             0386
+
+3310       2313   ////      2313  HOL  C   RSP  025-179   III/1                 

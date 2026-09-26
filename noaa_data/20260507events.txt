@@ -1,0 +1,50 @@
+:Product: 20260507events.txt
+:Created: 2026 May 10 0357 UT
+:Date: 2026 05 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1630       0049   0049      0049  LEA  G   RBR  245       100                   
+
+1640 +     0128   0215      0308  G18  5   XRA  1-8A      C4.5    2.2E-02       
+1640 +     0138   0138      0138  LEA  G   RBR  245       100                   
+
+1650 +     1035   1045      1053  G18  5   XRA  1-8A      C2.3    1.8E-03   4431
+
+1660 +     1253   1259      1303  G18  5   XRA  1-8A      C1.5    8.5E-04   4433
+1660 +    B1257  U1258      1308  SVI  3   FLA  S18E21    SF                4433
+
+1670       1341   1343      1346  SVI  3   FLA  S13W26    SF      ERU       4431
+
+1680 +     1420   1514      1540  G18  5   XRA  1-8A      M2.6    8.1E-02       
+
+1690       1614   1614      1614  SAG  G   RBR  245       100                   
+
+1710 +     1744   1757      1813  G18  5   XRA  1-8A      C6.0    8.8E-03   4433
+1710       1747   1750      1843  HOL  3   FLA  S17E19    1N      PRB       4433
+
+1700       1750   1750      1755  HOL  3   FLA  N12W11    SF                4432
+
+1720       1824   1826      1828  HOL  3   FLA  N12W11    SF                4432
+
+1730 +     1840   1840      1840  SAG  G   RBR  245       730                   
+
+1740       1853   1853      1853  SAG  G   RBR  245       120                   
+
+1750       2104   2104      2104  SAG  G   RBR  410       160                   
+1750 +     2104   2104      2104  PAL  G   RBR  245       340                   
+
+1760 +     2104   ////      2104  SAG  C   RSP  025-052   III/2                 
+
+1770 +     2118   2118      2118  PAL  G   RBR  245       190                   
+
+1780 +     2341   2341      2341  PAL  G   RBR  245       150                   
+
+1790 +     2344   2344      2346  PAL  G   RBR  245       1000                  

@@ -1,0 +1,25 @@
+:Product: 20050904events.txt
+:Created: 2005 Sep 07 0329 UT
+:Date: 2005 09 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Sep 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7670 +     0911   ////      0911  SVI  C   RSP  025-081   III/2                 
+
+7680 +     1408   1506      1621  G12  5   XRA  1-8A      C2.0    1.0E-02   0803
+7680       1415   1519      1619  G12  5   XFL  N13W72    5.8E+03 2.0E+04   0803
+
+7690       1554   ////      1556  SAG  U   RSP  030-057   III/1                 
+
+7700       1618   ////      1631  SAG  U   RSP  030-060   III/1                 
+
+7710 +     2215   ////      2216  PAL  C   RSP  025-180   III/1                 
+
+7720 +     2236   ////      2237  PAL  C   RSP  025-136   III/1                 

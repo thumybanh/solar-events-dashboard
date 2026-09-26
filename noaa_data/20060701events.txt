@@ -1,0 +1,38 @@
+:Product: 20060701events.txt
+:Created: 2006 Jul 04 0329 UT
+:Date: 2006 07 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Jul 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8070 +     0227   0236      0257  G12  5   XRA  1-8A      B2.8    4.0E-04       
+
+8080 +     0657   0736      0756  G12  5   XRA  1-8A      B9.8    1.8E-03   0898
+8080       0704   0750      0754  G12  5   XFL  S09E39    1.6E+03 3.0E+03   0898
+
+8090       1138   1138      1139  SVI  G   RBR  245       140                   
+8090       1138   ////      1139  SVI  C   RSP  064-180   III/1                 
+
+8100 +     1419   ////      1421  SAG  C   RSP  030-077   III/1                 
+
+8110 +     1518   ////      1519  SVI  C   RSP  028-083   III/1                 
+
+8120 +     1540   ////      1540  SVI  C   RSP  025-061   III/1                 
+
+8130 +     1633   ////      1633  SVI  C   RSP  028-083   III/2                 
+
+8140 +     1731   ////      1735  SVI  C   RSP  061-160   III/1                 
+
+8150 +     1846   ////      1850  SAG  C   RSP  030-172   III/1                 
+
+8180       2329   ////      0747  LEA  C   RSP  084-180   CTM/1                 
+
+8160       2334   ////      2334  LEA  C   RSP  071-146   III/1                 
+
+8170 +     2345   ////      2345  LEA  C   RSP  025-180   III/1                 

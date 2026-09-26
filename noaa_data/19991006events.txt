@@ -1,0 +1,36 @@
+:Product: 19991006events.txt
+:Created: 1999 Oct 09 0302 UT
+:Date: 1999 10 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Oct 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1280       0438   0444      0450  G10  5   XRA  1-8A      C1.2    7.5E-04   8720
+1280       0442   0448      0456  LEA  2   FLA  N13E42    SF      ERU       8720
+
+1290       0721   0721      0722  SVI  G   RBR  245       65                    
+
+1300 +     0731   ////      0732  LEA  C   RSP  030-06    III/1                 
+
+1310       0822   0822      0822  SVI  G   RBR  245       73                    
+
+1320 +     1121   1125      1131  GO8  5   XRA  1-8A      C1.2    5.4E-04       
+1320 +     1129   1129      1135  RAM  3   FLA  S20E25    SF      ERU       8721
+
+1330       1155   1156      1201  RAM  3   FLA  S21E23    SF      ERU       8721
+
+1340 +     1300   1308      1318  GO8  5   XRA  1-8A      C2.3    1.8E-03       
+1340 +     1302   1306      1337  RAM  3   FLA  N13E34    SF      ERU       8720
+
+1390      A1501   ////      0517  SVI  2   DSF  S09W16    08      B.0A          
+
+1350 +     1537   1544      1602  GO8  5   XRA  1-8A      C1.5    2.0E-03   8720
+1350 +     1539   1541      1606  RAM  3   FLA  N13E35    SF      ERU       8720
+
+1410      A1657   ////      1109  RAM  3   DSF  S09W18    07      B.0A          

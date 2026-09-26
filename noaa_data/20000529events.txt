@@ -1,0 +1,78 @@
+:Product: 20000529events.txt
+:Created: 2000 Jun 01 0303 UT
+:Date: 2000 05 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4250       0005   0005      0008  HOL  3   FLA  S21E69    SF                9022
+
+4260       0012   0012      0016  HOL  3   FLA  S21E66    SF                9022
+
+4270 +     0039   ////      0046  PAL  C   RSP  025-06    III/1                 
+
+4280       0330   ////      0331  PAL  C   RSP  025-14    III/1                 
+
+4290 +     0339   0341      0341  LEA  G   RBR  410       52                    
+
+4300 +     0428   ////      0429  LEA  C   RSP  030-08    III/1                 
+
+4310 +     0446   0447      0448  LEA  G   RBR  245       54                    
+
+4320 +     0503   0511      0515  LEA  G   RBR  245       220                   
+
+4330       0517   0517      0517  SVI  G   RBR  245       110                   
+
+4340       0522   0524      0524  SVI  G   RBR  245       88                    
+
+4350 +     0627   ////      0628  SVI  C   RSP  035-05    III/1                 
+
+4370 +     0716   0716      0717  LEA  G   RBR  245       57                    
+
+4380 +     0737   0737      0737  SVI  G   RBR  245       67                    
+
+4500       1144   ////      1645  SVI  C   RSP  035-08    CTM/1                 
+
+4390       1224   ////      1233  SVI  C   RSP  035-08    III/2                 
+
+4400 +     1225   1225      1226  SVI  G   RBR  245       78                    
+
+4390 +     1225   1229      1232  GO8  5   XRA  1-8A      B9.8    3.4E-04       
+4390 +     1228   1228      1229  SVI  G   RBR  245       850                   
+4390 +     1228   1228      1229  SVI  G   RBR  410       150                   
+
+4410       1238   1240      1240  SVI  G   RBR  245       110                   
+
+4430 +     1425   1429      1449  HOL  3   FLA  S14E23    SF                9017
+4430 +     1439   1439      1440  SAG  G   RBR  245       140               9017
+4430       1439   1439      1440  SAG  G   RBR  410       27                9017
+4430       1439   ////      1440  SAG  C   RSP  030-07    III/2             9017
+
+4440       1454   1455      1507  HOL  3   FLA  S36W70    SF                9019
+4440       1507   1507      1508  SAG  G   RBR  245       71                9019
+
+4450 +     1508   1512      1517  GO8  5   XRA  1-8A      B8.5    3.9E-04       
+
+4460       1530   1530      1530  SVI  G   RBR  245       84                    
+
+4470       1547   1552      1553  SAG  G   RBR  245       75                    
+
+4480       1556   ////      1556  SAG  C   RSP  030-06    III/1                 
+
+4490       1634   1637      1638  HOL  3   FLA  S12E18    SF                9017
+
+4360 +     1634   1655      1755  SAG  G   RNS  245       95                    
+
+4510       1931   ////      1937  SAG  C   RSP  030-06    III/1                 
+
+4730       2322   2346      0116  GO8  5   XRA  1-8A      C1.7    8.8E-03       
+
+4530       2326   ////      2331  CUL  C   RSP  28-280    III/1             9017
+4530 +     2328   2341      0015  HOL  3   FLA  S12E18    SF                9017
+4530 +     2330   2330      2330  PAL  G   RBR  245       110               9017

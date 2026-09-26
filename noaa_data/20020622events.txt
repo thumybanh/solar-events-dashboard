@@ -1,0 +1,36 @@
+:Product: 20020622events.txt
+:Created: 2002 Jun 25 0300 UT
+:Date: 2002 06 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7120 +     0229   0236      0248  GO8  5   XRA  1-8A      C2.0    1.8E-03   0005
+7120       0234   0236      0246  LEA  3   FLA  N14E12    SF      ERU       0005
+
+7130 +     0334   0337      0339  GO8  5   XRA  1-8A      B7.6    1.9E-04       
+
+7140       0826   ////      0826  SVI  C   RSP  025-051   III/1                 
+
+7150 +     0910   0910      0912  SVI  G   RBR  245       54                    
+7150       0910   0911      0912  SVI  G   RBR  410       55                    
+
+7160 +     1057   1102      1105  GO8  5   XRA  1-8A      B8.4    3.1E-04       
+
+7170       1140   ////      1141  SVI  U   RSP  025-082   III/1                 
+
+7190 +     1339   1342      1342  SVI  G   RBR  410       77                    
+7190       1340   1340      1340  SAG  G   RBR  245       42                    
+
+7200 +     1554   ////      1559  SVI  C   RSP  025-180   III/1                 
+
+7210       1730   1731      1731  SAG  G   RBR  245       63                    
+7210       1731   1731      1731  SAG  G   RBR  410       37                    
+
+7220 +     1923   ////      1925  HOL  C   RSP  025-162   III/1                 

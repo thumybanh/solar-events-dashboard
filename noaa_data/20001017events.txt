@@ -1,0 +1,63 @@
+:Product: 20001017events.txt
+:Created: 2000 Oct 20 0302 UT
+:Date: 2000 10 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7450       0050   0052      0055  LEA  3   FLA  N06W75    SF                9193
+
+7460       0137   ////      0138  LEA  C   RSP  025-073   III/1                 
+
+7470       0153   0201      0224  LEA  3   FLA  N06W75    SF                9193
+7470 +     0156   0204      0246  GO8  5   XRA  1-8A      C3.0    6.9E-03   9193
+
+7500       0236   0238      0246  LEA  3   FLA  N06W78    SF                9193
+
+7480       0249   ////      0251  LEA  C   RSP  031-145   III/1                 
+
+7490       0355   ////      0357  LEA  C   RSP  025-103   III/1                 
+
+7670       0556   ////      0556  CUL  C   RSP  40-90     III/1                 
+
+7510 +     0720   ////      0720  CUL  C   RSP  28-160    III/2                 
+
+7610       1001   1020      1032  GO8  5   XRA  1-8A      C1.0    1.7E-03       
+
+7620 +     1114   1122      1128  GO8  5   XRA  1-8A      C1.1    8.1E-04       
+
+7530 +     1357   ////      1358  SVI  U   RSP  025-147   III/2                 
+
+7540 +     1515   ////      1518  SAG  C   RSP  030-080   III/2                 
+
+7550 +     1541   ////      1545  HOL  C   RSP  025-144   III/1                 
+
+7560       1634   ////      1636  HOL  C   RSP  025-056   III/1                 
+
+7570       1655   ////      1656  HOL  C   RSP  025-084   III/1                 
+
+7580       1703   1712      1721  GO8  5   XRA  1-8A      B9.7    9.8E-04   9193
+7580       1717   1718      1732  HOL  3   FLA  N05W82    SF                9193
+
+7590 +     1749   1759      1810  GO8  5   XRA  1-8A      C2.2    2.4E-03   9200
+7590       1750   1753      1801  HOL  3   FLA  S21E47    SF      ERU       9200
+
+7600       1816   1823      1830  HOL  2   FLA  S18E55    SF      ERU       9200
+7600 +     1826   ////      1826  HOL  C   RSP  025-149   III/1             9200
+
+7680       2048   ////      2049  CUL  C   RSP  30-80     III/1                 
+
+7690       2127   ////      2129  CUL  C   RSP  25-120    III/1                 
+
+7640 +     2140   2205      2257  GO8  5   XRA  1-8A      C4.2    1.5E-02       
+7640 +     2217   ////      2217  CUL  C   RSP  30-120    III/1                 
+
+7650 +     2250   ////      2253  CUL  C   RSP  18-180    III/2                 
+
+7660 +     2314   ////      2314  LEA  C   RSP  025-115   III/1                 

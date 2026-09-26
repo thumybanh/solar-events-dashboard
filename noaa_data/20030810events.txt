@@ -1,0 +1,47 @@
+:Product: 20030810events.txt
+:Created: 2003 Aug 13 0302 UT
+:Date: 2003 08 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Aug 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3470      A0022   ////     B1332  HOL  3   DSF  ////      17      B.0A      0000
+
+3420       0024   ////      0032  LEA  C   RSP  074-180   III/1                 
+
+3430       0111   0111      0111  PAL  G   RBR  245       600                   
+3430       0111   0111      0111  PAL  G   RBR  410       160                   
+3430       0111   ////      0111  CUL  C   RSP  50-460    III/3                 
+
+3440 +     0124   0127      0129  G12  5   XRA  1-8A      C1.8    3.5E-04   0431
+3440       0126   0127      0133  LEA  3   FLA  S14E64    SF                0431
+
+3530       0455   ////      0455  CUL  C   RSP  100-180   III/1                 
+
+3540       0549   ////      0549  CUL  C   RSP  27-90     III/1                 
+
+3450 +     1011   1020      1031  G12  5   XRA  1-8A      C3.5    2.9E-03   0425
+3450 +     1016   1021     A1024  SVI  3   FLA  S06W36    SF      ERU       0425
+
+3520       1057   1128      1144  G12  5   XRA  1-8A      C2.1    5.5E-03   0425
+
+3460 +     1558   ////      1559  SVI  C   RSP  055-180   III/2                 
+
+3480 +     1914   1918      1923  G12  5   XRA  1-8A      B7.9    3.5E-04   0424
+
+3490 +     1930   ////      1935  HOL  C   RSP  025-145   III/1                 
+
+3500 +     2036   2047      2055  G12  5   XRA  1-8A      B7.1    6.8E-04   0431
+
+3550       2102   ////      2102  CUL  C   RSP  50-90     III/1                 
+
+3560       2150   ////      2152  CUL  C   RSP  30-180    III/1                 
+
+3510 +     2310   2316      2320  G12  5   XRA  1-8A      B8.8    4.0E-04   0424
+3510       2315   2315      2319  HOL  3   FLA  S17W47    SF                0424

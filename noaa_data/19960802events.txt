@@ -1,0 +1,47 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+2242 UT 27 Aug 1996
+
+EDITED EVENTS for 1996 Aug 02
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+3310 +     0018   ////      0020  CUL  C   RSP  020-260   III/2
+3310 +     0018   0018      0019  LEA  G   RBR  245       15
+3310       0018   ////      0020  PAL  C   RSP  025-075   V  /2
+
+3320       0806   ////      1110  SVI  U   RSP  035-079   CTM/2
+
+3350 +     0811   1013      1102  SVI  G   RNS  410       8
+
+3330       1034   1049      1057  GO7  5   XRA  1-8A      B1.4    1.68E-04  7981
+3330       1036   1037      1047  RAM  3   FLA  S07W02    SF      HSS       7981
+
+3360       1518   1524      1533  GO8  5   XRA  1-8A      B2.8    1.74E-04  7981
+3360 +     1522   1523      1546  RAM  4   FLA  S07W03    SF                7981
+
+3370 +     1720   1720      1720  PAL  U   RBR  245       5
+
+3400       2033   ////      2034  PAL  C   RSP  027-046   III/1
+
+3390       2038   2038      2038  PAL  U   RBR  245       5
+
+3410 +     2052   ////      2057  PAL  C   RSP  025-060   III/2
+3410       2053   2054      2055  PAL  U   RBR  410       5
+3410       2053   2053      2053  PAL  U   RBR  245       2
+
+3450       2215   ////      2215  CUL  C   RSP  060-090   III/1
+
+3340      A2225   ////     B1016  RAM  3   DSF  S09E01    07      B.0A      7981
+
+3460       2237   ////      2241  CUL  C   RSP  035-150   III/1
+
+3420 +     2246   2249      2254  GO9  5   XRA  1-8A      B1.0    4.60E-05
+
+3470       2315   ////      2315  CUL  C   RSP  060-160   III/1
+
+3430       2324   2327      2329  GO8  5   XRA  1-8A      B1.9    4.27E-05
+
+3480       2342   ////      2342  CUL  C   RSP  030-180   III/1
+
+3440 +     2347   ////      2347  CUL  C   RSP  020-180   III/2
+3440 +     2347   2347      2347  LEA  G   RBR  245       8

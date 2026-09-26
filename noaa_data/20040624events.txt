@@ -1,0 +1,57 @@
+:Product: 20040624events.txt
+:Created: 2004 Jun 27 0302 UT
+:Date: 2004 06 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jun 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5840 +     0021   0026      0034  G12  5   XRA  1-8A      B5.3    3.7E-04   0635
+5840       0024   0032      0033  G12  5   XFL  S11W40    1.5E+03 3.4E+03   0635
+
+5850 +     0127   ////      0127  CUL  C   RSP  50-200    III/1                 
+
+5860       0134   ////      0134  CUL  C   RSP  20-80     III/1                 
+
+5870       0423   ////      0430  CUL  C   RSP  20-100    III/1                 
+
+5880 +     0552   0559      0608  G12  5   XRA  1-8A      C1.4    1.0E-03   0635
+5880       0555   0557      0609  LEA  3   FLA  S16W39    SF      ERU       0635
+5880       0555   0604      0607  G12  5   XFL  S17W38    2.1E+03 6.9E+03   0635
+
+5890 +     0612   0621      0634  G12  5   XRA  1-8A      C1.7    1.8E-03   0635
+
+5900 +     0613   ////      0618  CUL  C   RSP  18-200    III/3             0635
+5900 +     0615   0616      0647  LEA  3   FLA  S09W36    SF      PRB       0635
+5900       0615   0630      0633  G12  5   XFL  S08W35    2.1E+03 7.7E+03   0635
+5900 +     0619   ////      0631  LEA  C   RSP  030-164   II/1    555       0635
+
+5890 +     0626   ////      0635  CUL  C   RSP  35-100    II/1                  
+
+5910       0647   ////      0750  LEA  C   RSP  117-180   CTM/1                 
+
+5920       0806   ////      0807  LEA  C   RSP  025-114   III/1                 
+
+5930       0915   ////      0915  SVI  C   RSP  025-153   III/1                 
+
+5940       1054   ////      1055  SVI  C   RSP  025-126   III/1                 
+
+5960 +     1502   ////      1512  SVI  C   RSP  025-155   III/1                 
+
+5970       1701   1701      1701  SVI  G   RBR  245       21                    
+5970       1701   1701      1701  SVI  U   RBR  410       51                    
+5970       1701   ////      1701  HOL  C   RSP  025-092   III/1                 
+
+5980 +     1901   1905      1913  G12  5   XRA  1-8A      B4.5    2.9E-04   0635
+5980       1904   1910      1912  G12  5   XFL  S09W52    8.5E+02 1.7E+03   0635
+
+5990       2135   ////      2137  CUL  C   RSP  57-120    III/1                 
+
+6000       2157   ////      2157  CUL  C   RSP  25-50     III/1                 
+
+6010       2254   ////      2300  CUL  C   RSP  18-100    III/1                 

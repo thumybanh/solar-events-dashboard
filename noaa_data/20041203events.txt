@@ -1,0 +1,28 @@
+:Product: 20041203events.txt
+:Created: 2004 Dec 06 0302 UT
+:Date: 2004 12 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Dec 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7240 +     0000   ////      0058  CUL  C   RSP  25-1700   IV/2              0708
+7240 +     0000   ////      0003  CUL  C   RSP  20-150    III/3             0708
+
+7270 +     0126   0144      0152  LEA  G   RBR  410       150                   
+7270 +     0128   0140      0144  LEA  G   RBR  245       67                    
+7270 +     0133   0134      0147  LEA  G   RBR  606       160                   
+
+7280       0208   0209      0209  LEA  G   RBR  410       58                    
+
+7290       0212   0214      0214  LEA  G   RBR  410       78                    
+
+7300       0258   0258      0259  LEA  G   RBR  410       58                    
+
+7310 +     1302   1308      1315  G12  5   XRA  1-8A      B8.0    4.4E-04   0707
+7310       1306   1309      1314  G12  5   XFL  S18W46    7.0E+02 1.9E+03   0707

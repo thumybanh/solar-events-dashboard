@@ -1,0 +1,37 @@
+:Product: 19980910events.txt
+:Created: 1998 Sep 13 0302 UT
+:Date: 1998 09 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Sep 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9560 +     0020   ////      0020  CUL  C   RSP  30-100    III/1                 
+
+9570       0218   0305      0316  GO8  5   XRA  1-8A      C4.2    8.1E-03       
+9570       0259   0303      0323  LEA  3   FLA  N22W05    SF                8326
+
+9580 +     1303   1311      1318  GO8  5   XRA  1-8A      C1.0    8.7E-04       
+
+9600       1537   1549      1600  GO8  5   XRA  1-8A      B8.7    1.1E-03   8333
+9600 +     1546   1552      1602  RAM  4   FLA  N10W39    SF                8333
+
+9610       1631   1638      1643  GO8  5   XRA  1-8A      B8.7    5.7E-04   8329
+9610 +     1633   1637      1653  RAM  4   FLA  N12W14    SF                8329
+
+9620       1808   1808      1823  RAM  4   FLA  S17W02    SF                8328
+9620       1813   ////      2241  SAG  C   RSP  030-06    CTM/2             8328
+
+9630 +     2129   2135      2143  GO8  5   XRA  1-8A      C2.2    1.3E-03       
+9630 +    B2135  U2136      2147  RAM  3   FLA  S25W90    SF                8323
+
+9640 +     2156   2205      2218  GO8  5   XRA  1-8A      C2.0    2.2E-03   8333
+9640      B2159   2208      2223  HOL  3   FLA  N11W43    SF      ERU       8333
+
+9650       2341   2341      2345  HOL  2   FLA  N11W45    SF                8333
+9650 +     2343   2343      2344  PAL  G   RBR  245       79                8333

@@ -1,0 +1,41 @@
+:Product: 20040414events.txt
+:Created: 2004 Apr 17 0302 UT
+:Date: 2004 04 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4160 +     0231   0238      0244  G12  5   XRA  1-8A      B2.4    1.7E-04   0591
+4160       0232   0232      0232  LEA  G   RBR  1415      65                0591
+4160       0235   0239      0243  G12  5   XFL  S15W16    2.5E+02 6.5E+02   0591
+
+4260       0512   0517      0523  G12  5   XRA  1-8A      B2.5    1.5E-04       
+
+4180       0739   0746      0750  G12  5   XRA  1-8A      B2.0    1.2E-04   0591
+4180       0744   0744      0747  LEA  3   FLA  S16W20    SF                0591
+
+4190 +     0923   0928      0933  G12  5   XRA  1-8A      B3.9    1.9E-04       
+4190       0927   0931      0931  G12  5   XFL  N14E81    7.5E+02 1.7E+03       
+
+4200 +     1216   1225      1237  G12  5   XRA  1-8A      B3.9    4.1E-04   0591
+4200       1222   1231      1235  G12  5   XFL  S15W20    4.3E+02 9.8E+02   0591
+
+4210 +     1330   1337      1343  G12  5   XRA  1-8A      B3.5    2.4E-04       
+4210       1334   1342      1343  G12  5   XFL  N16E77    6.0E+02 1.2E+03       
+
+4220 +     1352   1417      1428  G12  5   XRA  1-8A      B9.1    1.6E-03   0591
+4220       1355   1418      1427  G12  5   XFL  S15W20    1.9E+03 4.8E+03   0591
+4220       1414   ////      1415  SVI  C   RSP  025-068   III/1             0591
+
+4230       1432   ////      1438  SVI  C   RSP  025-073   III/1                 
+
+4240 +     1514   1517      1522  G12  5   XRA  1-8A      B3.0    1.3E-04       
+4240       1518   1519      1522  G12  5   XFL  S08E35    1.8E+02 3.7E+02       
+
+4250       2120   2120      2120  SAG  G   RBR  410       57                    

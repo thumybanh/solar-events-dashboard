@@ -1,0 +1,56 @@
+:Product: 20011010events.txt
+:Created: 2001 Oct 13 0302 UT
+:Date: 2001 10 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Oct 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2270 +     0222   0225      0227  GO8  5   XRA  1-8A      C1.5    3.8E-04       
+
+2280       0316   ////      0316  LEA  C   RSP  025-180   III/3                 
+
+2290       0456   0456      0456  LEA  U   RBR  245       75                    
+2290       0456   ////      0456  LEA  C   RSP  025-180   III/2                 
+
+2300       0457   0506      0509  LEA  3   FLA  N19E53    SF      ERU       9657
+2300       0501   ////      0505  LEA  C   RSP  025-180   III/3             9657
+
+2310       0618   ////      0618  LEA  C   RSP  025-180   III/3                 
+
+2320 +     0817   0822      0827  GO8  5   XRA  1-8A      C3.4    1.6E-03   9658
+2320 +     0819   0820      0824  LEA  3   FLA  S16E64    SF      ERU       9658
+
+2330 +     0836   ////      0837  LEA  C   RSP  041-105   III/1                 
+
+2340       0914   0920      0946  GO8  5   XRA  1-8A      C1.7    2.9E-03   9658
+2340       0917   0917      0929  SVI  3   FLA  S16E66    SF                9658
+
+2350 +     1046   1103      1110  GO8  5   XRA  1-8A      C2.1    2.5E-03   9658
+2350 +    B1057  U1102      1114  RAM  3   FLA  S12E63    SF      ERU       9658
+
+2390      B1339   1339      1344  SVI  3   FLA  N23E53    SF                9657
+
+2400 +     1421   1425      1431  HOL  3   FLA  S22E08    SF      ERU       9653
+
+2520      A1512   ////     B0606  SVI  2   DSF  S35E31    13      B.0A          
+
+2410 +     1730   ////      1730  SAG  C   RSP  030-067   III/2                 
+
+2420 +     1920   1930      1938  GO8  5   XRA  1-8A      C2.2    2.2E-03   9657
+2420       1921   1928      1954  HOL  3   FLA  N22E49    SF      PRB       9657
+
+2430 +     1946   1951      1956  GO8  5   XRA  1-8A      C2.4    1.3E-03       
+
+2460       2123   2238      2321  GO8  5   XRA  1-8A      C2.8    1.5E-02       
+
+2530      A2126   ////     B1131  RAM  3   DSF  S32E15    13      B.0A          
+
+2450 +    A2126   ////     B2231  COM  3   DSF  S33E22    12      B.0A          
+
+2440       2215   ////      2220  LEA  C   RSP  025-119   III/1                 

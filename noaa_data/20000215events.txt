@@ -1,0 +1,42 @@
+:Product: 20000215events.txt
+:Created: 2000 Feb 18 0302 UT
+:Date: 2000 02 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2680       0401   0415      0434  GO8  5   XRA  1-8A      B8.1    1.4E-03   8867
+2680       0406   0408      0411  LEA  3   FLA  S15W39    SF                8867
+
+2690       0446   0447      0452  LEA  3   FLA  N24W65    SF                8858
+
+2700       0515   0519      0522  LEA  3   FLA  N24W65    SF                8858
+
+2720       0527   0536      0543  LEA  3   FLA  N24W65    SF                8858
+
+2740       0546   0547      0600  LEA  3   FLA  N24W65    SF                8858
+
+2730       0600   0606      0617  LEA  3   FLA  N24W65    SF                8858
+
+2750       0740   0741      0743  LEA  3   FLA  N24W66    SF                8858
+
+2760       1008   1010      1013  LEA  3   FLA  N24W67    SF                8858
+
+2780 +     1522   1525      1527  GO8  5   XRA  1-8A      B6.6    1.8E-04       
+
+2790       1553   1553      1554  SAG  G   RBR  245       110                   
+
+2800       1618   1619      1623  HOL  3   FLA  N26W70    SF                8858
+
+2810       1639   1641      1653  HOL  3   FLA  S23E13    SF                8869
+
+2820       1842   1855      1905  G10  5   XRA  1-8A      C2.1    2.3E-03   8867
+2820 +     1848   1855      1904  RAM  3   FLA  S18W45    SF                8867
+
+2830       2130   2134      2138  HOL  3   FLA  N25W67    SF                    

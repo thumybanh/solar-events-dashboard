@@ -1,0 +1,40 @@
+:Product: 20020218events.txt
+:Created: 2002 Feb 21 0300 UT
+:Date: 2002 02 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Feb 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6310       0321   0321      0321  LEA  G   RBR  245       140                   
+
+6320       0529   0529      0529  LEA  G   RBR  245       200                   
+
+6330       0531   0537      0537  LEA  G   RBR  245       100                   
+6330       0537   0537      0537  LEA  G   RBR  410       33                    
+
+6340 +     0744   0757      0804  GO8  5   XRA  1-8A      C5.9    4.7E-03   9829
+6340       0747   0757      0822  LEA  3   FLA  S06E34    1F      ERU       9829
+
+6350       0834   0846      0905  LEA  3   FLA  S19E21    SF      ERU       9830
+
+6400      A1029   ////     B2250  LEA  2   DSF  N21E37    07      B.0A          
+
+6360       1345   1345      1349  RAM  3   FLA  N22W56    SF                9822
+
+6370       1409   1409      1409  SAG  G   RBR  245       460                   
+
+6380       1448   1449      1451  RAM  3   FLA  N20W58    SF                9822
+
+6390       2018   2115      2158  GO8  5   XRA  1-8A      M1.0    4.2E-02   9830
+6390       2043   ////      2043  CUL  C   RSP  65-100    III/1             9830
+6390       2046   2052      2137  RAM  3   FLA  S20E16    SF      ERU       9830
+
+6410       2305   ////      2311  CUL  C   RSP  57-90     III/1                 
+
+6420      B2319  U2332     A2334  HOL  3   FLA  S17E14    SF      ERU       9830

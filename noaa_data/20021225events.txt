@@ -1,0 +1,27 @@
+:Product: 20021225events.txt
+:Created: 2002 Dec 28 0300 UT
+:Date: 2002 12 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9910 +     0540   0546      0552  GO8  5   XRA  1-8A      C4.8    2.9E-03       
+
+9920 +     1153   1207      1214  GO8  5   XRA  1-8A      C3.5    3.1E-03       
+
+9930       1458   ////      1500  HOL  C   RSP  025-180   III/1                 
+
+9940 +     1749   1809      1829  GO8  5   XRA  1-8A      C2.9    5.8E-03       
+
+9950 +     1955   1955      1955  PAL  G   RBR  245       72                    
+
+9960 +     2125   2132      2138  GO8  5   XRA  1-8A      C1.7    1.0E-03   0230
+9960       2129   2137      2143  HOL  3   FLA  S09W45    SF      ERU       0230
+
+9970 +     2244   2248      2251  GO8  5   XRA  1-8A      C1.1    4.2E-04       

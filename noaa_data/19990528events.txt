@@ -1,0 +1,58 @@
+:Product: 19990528events.txt
+:Created: 1999 May 31 0302 UT
+:Date: 1999 05 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 May 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4790       0020   ////      0023  CUL  C   RSP  18-180    III/2                 
+
+4800       0054   ////      0055  CUL  C   RSP  18-180    III/2                 
+
+4810 +     0549   0553      0558  GO8  5   XRA  1-8A      C2.3    8.9E-04       
+4810 +     0551   0552      0602  COM  3   FLA  N12E81    SF      DSD       8558
+
+4820       0623   0625      0640  SVI  U   RBR  606       50                    
+
+4840       0623   0640      0718  SVI  U   RNS  245       100                   
+4840       0623   0625      0710  SVI  U   RNS  410       97                    
+
+4830       0823   0831      0840  G10  5   XRA  1-8A      C1.2    1.1E-03       
+
+4850       0925   0928      0940  SVI  3   FLA  N26E10    SF                8554
+
+4860 +     1130   1213      1242  G10  5   XRA  1-8A      C2.1    7.2E-03   8557
+4860       1154   1154      1157  SAG  G   RBR  245       48                8557
+4860 +     1157   1212      1228  RAM  3   FLA  S28E63    SF                8557
+4860       1216   ////      1217  SAG  C   RSP  030-05    III/1             8557
+
+4870 +     1358   ////      2108  SAG  C   RSP  030-08    CTM/2                 
+
+4880 +     1412   1416      1421  GO8  5   XRA  1-8A      C1.3    6.7E-04   8545
+4880       1417   1417      1420  RAM  3   FLA  N39W82    SF                8545
+
+4890       1642   1643      1647  SVI  3   FLA  S30E64    SF                8557
+
+4900       1724   1724      1727  RAM  3   FLA  S29E64    SF                8557
+
+4910       1813   1813      1816  RAM  3   FLA  S29E62    SF                8557
+
+4920       1915   1917      1923  SAG  G   RBR  245       73                    
+
+4930       1951   1952      1953  SAG  G   RBR  410       73                    
+
+4940       1958   1959      2000  SAG  G   RBR  245       60                    
+
+4950       2002   2002      2004  SAG  G   RBR  245       58                    
+
+4980 +     2226   2232      2236  GO8  5   XRA  1-8A      C1.7    6.8E-04       
+
+4990 +     2239   2244      2304  GO8  5   XRA  1-8A      C1.2    1.6E-03       
+
+5000       2344   ////      2349  PAL  C   RSP  025-04    III/1                 

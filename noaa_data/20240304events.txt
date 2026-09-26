@@ -1,0 +1,47 @@
+:Product: 20240304events.txt
+:Created: 2024 Mar 07 0357 UT
+:Date: 2024 03 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Mar 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4090       0156   0156      0156  LEA  G   RBR  245       130                   
+
+4100       0212   ////      0329  PAL  C   RSP  025-172   VI/1                  
+4100 +     0222   0228      0232  G16  5   XRA  1-8A      C1.3    4.2E-04   3602
+4100       0230   ////      0243  LEA  C   RSP  025-180   III/2                 
+
+4110 +     0233   0238      0242  G16  5   XRA  1-8A      C1.1    6.0E-04   3599
+
+4120 +     0249   0253      0257  G16  5   XRA  1-8A      C2.3    7.3E-04   3599
+
+4130 +     0308   0316      0320  G16  5   XRA  1-8A      C2.4    1.0E-03   3602
+4130       0309   ////      0400  LEA  3   SPY  ////      9                     
+4130       0318   0318      0318  LEA  G   RBR  610       110                   
+
+4140       0619   ////      0720  LEA  C   RSP  025-180   VI/1                  
+4140       0652   ////      0655  SVI  C   RSP  045-180   III/2                 
+
+4150       0817   ////      0818  SVI  C   RSP  025-120   III/2                 
+4150       0817   ////      1038  LEA  C   RSP  025-150   VI/1                  
+
+4160 +     0821   0830      0839  G16  5   XRA  1-8A      C1.5    1.3E-03   3602
+4160       0834   0841      0842  LEA  3   FLA  N18E39    SF                3602
+
+4170 +     1123   1133      1149  G16  5   XRA  1-8A      C1.2    1.7E-03   3602
+
+4180 +     1200   1211      1223  G16  5   XRA  1-8A      C1.6    2.0E-03   3595
+
+4190 +     1356   ////      1427  SVI  C   RSP  025-180   VI/1                  
+
+4200       1512   ////      1609  SVI  C   RSP  032-147   VI/1                  
+
+4210       1907   ////      1907  PAL  C   RSP  025-061   III/1                 
+
+4220       2343   ////      2345  LEA  C   RSP  025-144   III/1                 

@@ -1,0 +1,26 @@
+:Product: 20040218events.txt
+:Created: 2004 Feb 21 0300 UT
+:Date: 2004 02 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Feb 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4350       0058   0108      0110  G12  5   XRA  1-8A      B1.1    7.5E-05       
+
+4360       0202   0215      0219  G12  5   XRA  1-8A      B1.7    1.5E-04       
+
+4320       1035   1035      1035  SVI  G   RBR  245       100                   
+
+4330 +     1057   1101      1104  G12  5   XRA  1-8A      B1.7    5.8E-05       
+4330       1101   1101      1103  G12  5   XFL  N07E14                          
+
+4430      A1433   ////     B1014  SVI  3   DSF  S30E67    26      B.0A          
+
+4340 +     1658   1708      1720  G12  5   XRA  1-8A      B5.0    5.4E-04   0556
+4340       1703   1717      1719  G12  5   XFL  N19W90    1.4E+03 3.6E+03   0556

@@ -1,0 +1,47 @@
+:Product: 20000414events.txt
+:Created: 2000 Apr 17 0302 UT
+:Date: 2000 04 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Apr 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+400  +     0141   0151      0218  GO8  5   XRA  1-8A      C4.7    7.3E-03       
+400  +     0142   0145      0147  LEA  G   RBR  1415      98                    
+400  +     0142   0144      0146  LEA  G   RBR  2695      120                   
+400  +     0143   0145      0145  LEA  G   RBR  4995      120                   
+400  +     0144   0144      0144  PAL  G   RBR  8800      23                    
+400        0145   ////      0228  LEA  C   RSP  030-08    CTM/1                 
+
+420        0254   ////      0530  LEA  C   RSP  050-08    CTM/1                 
+420        0302   0428      0600  GO8  5   XRA  1-8A      C1.1    9.3E-03       
+
+430        0422   ////      0423  LEA  C   RSP  030-07    III/3                 
+
+460        0509   ////      0755  SVI  C   RSP  060-08    CTM/1                 
+
+440        0530   ////      0530  LEA  C   RSP  030-05    III/1                 
+
+450  +     0603   ////      0604  LEA  C   RSP  030-05    III/2                 
+
+470  +     0809   0816      0842  GO8  5   XRA  1-8A      C7.2    1.0E-02   8948
+470        0811   0814      0847  SVI  3   FLA  S14W54    1F      ERU       8948
+470        0811   0815      0816       F   RBR  3000      17                8948
+
+480        0918   ////      0920  LEA  C   RSP  030-08    III/2                 
+
+490        1448   1448      1452  HOL  3   FLA  N20W26    SF                8960
+
+500        1523   1525      1528  HOL  3   FLA  N19W26    SF                8960
+
+520  +     2329   2338      2341  GO8  5   XRA  1-8A      B8.7    4.8E-04   8955
+520  +     2331   ////      2336  LEA  C   RSP  030-08    III/2             8955
+520        2335   2338      2345  HOL  3   FLA  S21E36    SF                8955
+
+510  +     2341   2345      2351  GO8  5   XRA  1-8A      C4.3    1.9E-03   8948
+510        2341   2344      2359  HOL  3   FLA  S16W63    SF                8948

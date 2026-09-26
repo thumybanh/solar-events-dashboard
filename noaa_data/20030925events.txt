@@ -1,0 +1,64 @@
+:Product: 20030925events.txt
+:Created: 2003 Sep 28 0302 UT
+:Date: 2003 09 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Sep 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8580 +     0029   0035      0052  G12  5   XRA  1-8A      C1.1    1.4E-03   0464
+
+8590       0233   0233      0233  LEA  G   RBR  410       59                    
+
+8600       0234   ////      0230  CUL  C   RSP  150-460   III/1                 
+
+8610 +     1248   1248      1248  SVI  G   RBR  245       67                    
+8610       1251   ////      1252  SVI  C   RSP  025-042   III/1                 
+
+8630       1300   1300      1302  SVI  G   RBR  245       91                    
+
+8640       1305   ////      1306  SVI  C   RSP  025-042   III/1                 
+
+8650 +     1307   1308      1308  SVI  G   RBR  245       120                   
+8650 +     1308   1313      1320  G12  5   XRA  1-8A      B6.2    3.9E-04       
+
+8660 +     1512   1512      1512  SAG  G   RBR  245       81                    
+
+8680 +     1521   1535      1607  SAG  G   RNS  245       160                   
+
+8670       1523   1523      1524  SVI  G   RBR  245       140                   
+
+8690       1530   1530      1530  SVI  G   RBR  245       59                    
+
+8700       1537   1537      1537  SVI  G   RBR  245       66                    
+
+8710       1557   1557      1557  SVI  G   RBR  245       75                    
+8710       1557   1557      1557  SVI  G   RBR  410       22                    
+
+8720 +     1717   1725      1734  G12  5   XRA  1-8A      C1.1    9.4E-04   0464
+
+8730       2023   ////      2024  PAL  C   RSP  025-150   III/1                 
+
+8740 +     2032   ////      2035  CUL  C   RSP  20-180    III/3                 
+
+8750       2045   2046      2046  PAL  G   RBR  245       75                    
+8750 +     2046   ////      2047  CUL  C   RSP  18-180    III/3                 
+
+8760 +     2113   ////      2117  CUL  C   RSP  18-180    III/3                 
+
+8800       2127   ////      2130  CUL  C   RSP  18-200    III/3                 
+
+8770 +     2212   2215      2229  G12  5   XRA  1-8A      B9.2    8.4E-04       
+
+8810       2257   ////      2300  CUL  C   RSP  18-180    III/2                 
+
+8780       2330   2330      2330  PAL  G   RBR  245       79                    
+
+8820       2336   ////      2339  CUL  C   RSP  18-180    III/2                 
+
+8790       2341   2341      2341  PAL  G   RBR  245       120                   

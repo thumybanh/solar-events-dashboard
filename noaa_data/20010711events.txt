@@ -1,0 +1,23 @@
+:Product: 20010711events.txt
+:Created: 2001 Jul 14 0302 UT
+:Date: 2001 07 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jul 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8990 +     0041   0047      0052  GO8  5   XRA  1-8A      C1.2    6.0E-04   9531
+8990       0046   0047      0050  LEA  3   FLA  S07W10    SF      ERU       9531
+
+9000       0200   0201      0202  LEA  G   RBR  245       52                    
+
+9010       0237   ////      0237  LEA  C   RSP  025-048   III/1                 
+
+9020 +     1405   ////      1409  HOL  C   RSP  025-058   III/1                 
+
+9030 +     1703   1711      1721  GO8  5   XRA  1-8A      C2.4    2.3E-03       

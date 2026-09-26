@@ -1,0 +1,62 @@
+:Product: 19990818events.txt
+:Created: 1999 Aug 21 0303 UT
+:Date: 1999 08 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1220       0000   ////      0500  CUL  C   RSP  20-130    CTM/1                 
+
+1190       0203   ////      0212  LEA  C   RSP  030-08    V/3                   
+1190       0203   ////      0212  CUL  C   RSP  20-340    III/2                 
+1190       0206   0206      0206  PAL  G   RBR  245       140                   
+
+1200       0257   ////      0307  LEA  C   RSP  030-05    III/2                 
+
+1230       0325   ////      0327  LEA  C   RSP  030-05    III/2                 
+
+1240 +     0420   ////      0421  CUL  C   RSP  18-170    III/2                 
+
+1310       0525   ////      0528  CUL  C   RSP  23-150    III/2                 
+
+1320       0533   ////      0538  CUL  C   RSP  20-140    III/2                 
+
+1260 +     0621   0627      0636  GO8  5   XRA  1-8A      C3.0    2.1E-03       
+
+1280       0921   1043      1138  GO8  5   XRA  1-8A      C7.8    4.5E-02       
+
+1270 +     1151   1154      1203  RAM  3   FLA  N14E05    SF      ERU       8672
+1270       1154   ////      1156  SAG  C   RSP  030-06    III/1             8672
+
+1290       1221   ////      1221  SAG  C   RSP  030-06    III/1                 
+
+1420       1535   ////      1601  RAM  3   DSF  S19W09    06      B.0A      8669
+
+1300       1604   ////      1617  SAG  C   RSP  030-04    III/1                 
+
+1330       1717   1719      1725  HOL  3   FLA  N14E02    SF                8672
+1330       1717   ////      1719  PAL  C   RSP  028-05    III/1             8672
+
+1340 +     2001   2001      2001  PAL  G   RBR  245       170                   
+
+1440       2107   2249      0208  GO8  5   XRA  1-8A      C4.9    6.5E-02       
+
+1350 +     2146   ////      2148  CUL  C   RSP  20-160    III/2                 
+
+1360       2148   2148      2152  HOL  3   FLA  N15W01    SF      ERU       8672
+
+1370       2209   ////      2211  CUL  C   RSP  25-90     III/1                 
+
+1380       2253   ////      2254  SAG  C   RSP  030-05    III/1                 
+
+1390       2307   ////      2307  LEA  C   RSP  030-05    III/1                 
+
+1400       2329   ////      2329  LEA  C   RSP  030-05    III/1                 
+
+1410       2336   ////      2345  LEA  C   RSP  030-06    III/1                 

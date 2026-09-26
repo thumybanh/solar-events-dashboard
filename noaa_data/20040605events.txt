@@ -1,0 +1,24 @@
+:Product: 20040605events.txt
+:Created: 2004 Jun 08 0302 UT
+:Date: 2004 06 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jun 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2020 +     0555   0604      0612  G12  5   XRA  1-8A      B2.3    1.8E-04   0625
+2020 +     0557   ////      0606  LEA  C   RSP  025-146   III/1             0625
+2020       0559   0606      0611  G12  5   XFL  S12W73    5.0E+02 1.1E+03   0625
+
+2030       1238   1244      1248  G12  5   XRA  1-8A      B1.9    1.1E-04       
+
+2040       1332   1350      1407  G12  5   XRA  1-8A      B2.6    4.4E-04       
+
+2050 +     2118   2123      2127  G12  5   XRA  1-8A      B2.0    8.0E-05   0627
+2050       2121   ////      2122  HOL  C   RSP  025-122   III/1             0627
+2050       2122   2123      2126  G12  5   XFL  S09E34    2.3E+02 6.4E+02   0627

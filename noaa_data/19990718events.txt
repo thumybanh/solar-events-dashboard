@@ -1,0 +1,68 @@
+:Product: 19990718events.txt
+:Created: 1999 Jul 21 0302 UT
+:Date: 1999 07 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jul 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1660 +     0000   0005      0008  GO8  5   XRA  1-8A      C4.3    1.5E-03       
+
+1730       0036   0036      0043  COM  3   FLA  N18E78    SF                8636
+
+1770       0044   ////      0045  COM  C   RSP  030-08    III/3                 
+
+1740       0059   0103      0106  COM  3   FLA  N21E78    SF                8636
+
+1750       0207   0215      0222  COM  3   FLA  N18E77    SF                8636
+1750       0220   ////      0332  COM  C   RSP  025-06    CTM/1             8636
+
+1670 +     0346   0352      0358  GO8  5   XRA  1-8A      C1.6    9.9E-04       
+
+1760       0455   0459      0511  COM  3   FLA  N18E72    SF                8636
+
+1680 +     0545   0549      0555  GO8  5   XRA  1-8A      C1.7    8.0E-04       
+
+1800       0621   0622      0625  COM  3   FLA  N18E65    SF                8636
+
+1850       0653   ////      0653  COM  C   RSP  035-05    III/1                 
+
+1860       0700   ////      1140  COM  U   RSP  35-85     CTM/1                 
+
+1690 +     0739   0746      0757  GO8  5   XRA  1-8A      C4.0    3.4E-03       
+
+1700 +     0901   1028      1058  GO8  5   XRA  1-8A      C3.3    1.7E-02       
+
+1870       1014   ////      1018  COM  C   RSP  035-07    III/3                 
+
+1880 +     1151   ////      1157  COM  C   RSP  030-06    V/3                   
+
+1810       1348   1447      1531  COM  3   FLA  N19E64    SF                8636
+
+1890       1525   ////      1525  COM  U   RSP  035-08    III/3                 
+1890       1525   ////      1526  COM  C   RSP  030-07    V/1                   
+
+1900       1549   ////      1551  COM  C   RSP  030-05    V/1                   
+1900       1551   ////      1618  COM  U   RSP  035-08    CTM/3                 
+
+1910       1605   ////      1707  COM  C   RSP  030-08    CTM/3                 
+
+1820 +     1632   1633      1636  COM  3   FLA  N19E65    SF                8636
+
+1830       1723   1723      1730  COM  3   FLA  N20E64    SF                8636
+
+1790 +     1747   1752      1756  GO8  5   XRA  1-8A      C3.4    1.1E-03       
+1790       1749   1752      1804  COM  3   FLA  N20E64    SF                8636
+
+1840 +     1837   1851      1901  GO8  5   XRA  1-8A      C2.9    3.2E-03       
+
+1920 +     2028   2032      2037  GO8  5   XRA  1-8A      C1.2    5.6E-04       
+
+1930 +     2207   2216      2223  GO8  5   XRA  1-8A      C1.6    1.3E-03       
+
+1940 +     2337   2343      2350  GO8  5   XRA  1-8A      C2.3    1.6E-03       

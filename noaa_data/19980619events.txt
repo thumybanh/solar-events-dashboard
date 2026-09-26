@@ -1,0 +1,39 @@
+:Product: 19980619events.txt
+:Created: 1998 Jun 22 0302 UT
+:Date: 1998 06 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9900 +     0041   0045      0050  GO9  5   XRA  1-8A      B2.3    1.2E-04   8243
+9900       0043   0045      0050  HOL  3   FLA  N15E02    SF                8243
+
+9910 +     0149   0153      0157  GO9  5   XRA  1-8A      B2.2    9.1E-05       
+
+9970       0229   0230      0241  GO9  5   XRA  1-8A      B1.6    1.2E-04       
+
+9980       0435   0436      0440  GO9  5   XRA  1-8A      B1.7    5.0E-05       
+
+9920 +     0453   0457      0459  GO9  5   XRA  1-8A      B2.2    6.7E-05       
+
+9930 +     0640   0655      0708  LEA  G   RBR  410       560               8249
+9930 +     0643   0643      0643  LEA  G   RBR  245       26                8249
+9930 +     0648   0711      0753  GO9  5   XRA  1-8A      B8.5    2.6E-03   8249
+9930 +     0650   0700      0652  LEA  G   RBR  606       430               8249
+9930 +     0652   0656      0728  LEA  4   FLA  S32E36    SF      BPT       8249
+
+9940 +     0710   0723      0734  LEA  G   RNS  245       51                    
+
+9950 +     0710   ////      0904  SVI  C   RSP  035-08    CTM/2             8249
+
+9990 +     2048   2051      2054  GO9  5   XRA  1-8A      B2.8    8.7E-05       
+
+20        A2113   ////      1108  RAM  3   DSF  S28W31    05      B.0A      8242
+
+10   +     2201   2210      2217  GO9  5   XRA  1-8A      B3.8    2.8E-04       

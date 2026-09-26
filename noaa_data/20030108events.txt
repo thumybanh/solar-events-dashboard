@@ -1,0 +1,89 @@
+:Product: 20030108events.txt
+:Created: 2003 Jan 11 0302 UT
+:Date: 2003 01 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1460 +     0132   0135      0137  GO8  5   XRA  1-8A      C1.4    3.6E-04   0251
+1460       0134   0136     A0142  LEA  3   FLA  S13E83    SF                0251
+
+1500       0153   ////      0157  CUL  C   RSP  23-80     III/1                 
+
+1470 +     0231   0238      0245  GO8  5   XRA  1-8A      C2.0    1.5E-03       
+
+1480       0301   0303      0303  LEA  G   RBR  410       110                   
+
+1510 +     0540   0552      0620  GO8  5   XRA  1-8A      C6.2    1.0E-02   0244
+1510       0542   ////      0542  CUL  C   RSP  18-90     III/1             0244
+1510       0543   0550      0637  LEA  3   FLA  S22W05    1F      ERU       0244
+
+1570       0613   0618      0626  LEA  3   FLA  S13W12    SF      ERU       0242
+
+1520 +     0656   ////      0658  LEA  C   RSP  025-180   III/1                 
+
+1530 +     0720   0720      0720  LEA  G   RBR  245       60                    
+
+1540 +     0721   0731      0738  GO8  5   XRA  1-8A      C3.4    3.0E-03   0242
+1540       0724   0724      0725  SVI  G   RBR  4995      48                0242
+1540       0724   0724      0724  SVI  G   RBR  8800      57                0242
+1540      B0729  U0730      0738  LEA  2   FLA  S14W11    SF      ERU       0242
+
+1550 +     0811   0811      0811  SVI  G   RBR  245       100                   
+
+1560 +     0844   0847      0849  GO8  5   XRA  1-8A      C2.6    6.3E-04       
+
+1580       1141   ////      1142  SVI  C   RSP  035-152   III/1                 
+
+1590       1205   1205      1206  SVI  G   RBR  245       57                    
+1590       1205   ////      1206  SVI  C   RSP  040-180   III/2                 
+
+1600       1248   ////      1421  SVI  C   RSP  050-180   CTM/1                 
+1600 +     1347   1348      1348  SAG  G   RBR  245       52                    
+
+1670       1347   1353      1606  SAG  G   RNS  245       68                    
+
+1610      B1430  U1430      1449  RAM  3   FLA  S13E76    SF                0251
+
+1620 +     1525   1530      1534  GO8  5   XRA  1-8A      C2.5    1.0E-03       
+1620       1528   ////      1528  HOL  C   RSP  025-180   III/1                 
+
+1630       1555   1559     A1610  RAM  3   FLA  S16E52    SF      ERU       0247
+
+1650       1558   1558      1601  RAM  3   FLA  N11E13    SF                0245
+
+1640 +    B1611  U1631     A1702  RAM  2   FLA  S08W18    SF      ERU       0242
+
+1660      B1618  U1649      1731  RAM  2   FLA  S16E53    SF      ERU       0247
+
+1640 +     1621   1627      1631  GO8  5   XRA  1-8A      C1.7    8.8E-04   0242
+
+1680      B1704  U1713     A1724  RAM  2   FLA  S08W17    SF      ERU       0242
+
+1690       1854   1855      1902  RAM  3   FLA  S25W09    SF                0244
+
+1700       1909   1925      1929  RAM  3   FLA  S16E52    SF      ERU       0247
+
+1730       2020   ////      2020  CUL  C   RSP  27-90     III/1                 
+
+1740       2050   ////      2055  CUL  C   RSP  27-90     III/1                 
+
+1710 +     2137   2142      2150  GO8  5   XRA  1-8A      C1.8    1.2E-03       
+1710       2138   ////      2138  CUL  C   RSP  57-90     III/1                 
+
+1750       2202   ////      2202  CUL  C   RSP  60-160    III/1                 
+
+1760       2225   ////      2226  CUL  C   RSP  27-90     III/1                 
+
+1770       2238   ////      2249  CUL  C   RSP  18-100    III/1                 
+
+1780       2258   ////      2258  CUL  C   RSP  27-90     III/1                 
+
+1720       2304   2323      2351  LEA  3   FLA  S16E49    SF      ERU       0247
+1720       2307   ////      2308  CUL  C   RSP  35-90     III/1             0247

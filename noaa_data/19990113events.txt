@@ -1,0 +1,84 @@
+:Product: 19990113events.txt
+:Created: 1999 Jan 16 0303 UT
+:Date: 1999 01 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6700 +     0106   0107      0107  LEA  G   RBR  245       67                    
+
+6710       0125   0125      0127  LEA  G   RBR  245       80                    
+
+6720       0129   0129      0130  LEA  G   RBR  245       58                    
+
+6730       0141   0142      0143  LEA  G   RBR  245       130                   
+
+6740       0149   0149      0149  LEA  G   RBR  245       65                    
+
+6750 +     0335   0339      0341  GO8  5   XRA  1-8A      B5.5    1.7E-04       
+
+6760 +     0552   0610      0614  GO8  5   XRA  1-8A      C1.6    1.1E-03       
+
+6990       0616   ////      0617  CUL  C   RSP  23-75     III/1                 
+
+6770 +     0710   0715      0718  GO8  5   XRA  1-8A      B6.4    2.5E-04       
+
+6780 +     0721   0725      0729  GO8  5   XRA  1-8A      C1.6    5.7E-04       
+
+6790 +     0832   0835      0837  GO8  5   XRA  1-8A      B4.6    1.2E-04       
+
+6800       1143   ////      1143  SVI  C   RSP  066-06    III/1                 
+
+6810 +     1238   1249      1252  GO8  5   XRA  1-8A      C1.0    5.4E-04       
+
+6820       1255   1257      1302  RAM  3   FLA  N21E75    SF                    
+
+6830       1337   1355      1402  RAM  3   FLA  S25E74    SF                8439
+6830 +     1351   1356      1359  GO8  5   XRA  1-8A      C1.2    4.9E-04   8439
+
+6840 +     1428   1434      1436  GO8  5   XRA  1-8A      C2.9    7.2E-04   8439
+6840 +     1433   1435      1440  RAM  3   FLA  S24E72    SF                8439
+
+6850 +     1456   1507      1517  GO8  5   XRA  1-8A      C6.9    5.5E-03       
+6850 +     1459   1503      1534  RAM  3   FLA  S25E74    SF      ERU       8439
+
+6860       1529   1541      1548  RAM  3   FLA  N20E70    SF                    
+6860 +     1534   1538      1545  GO8  5   XRA  1-8A      C2.0    1.1E-03       
+
+6870       1632   1633      1649  HOL  3   FLA  N21E75    SF                8440
+
+6880       1700   1702      1704  HOL  3   FLA  N20E68    SF                8440
+
+6890       1713   1735      1747  HOL  3   FLA  N20E73    SF                8440
+
+6900 +     1759   1803      1807  GO8  5   XRA  1-8A      B6.4    2.7E-04       
+
+6910       1835   1838      1848  HOL  3   FLA  N19E68    SF                8440
+
+6920 +     1851   1858      1905  GO8  5   XRA  1-8A      C5.5    3.0E-03   8440
+6920 +     1853   1855      1855  SAG  G   RBR  245       98                8440
+6920       1855   1856      1911  HOL  3   FLA  N21E73    1N                8440
+
+6930       1914   ////      1936  HOL  3   BSL  N23E90    0.19    B.7A      8440
+
+6940       1952   1958      2000  HOL  3   FLA  N21E73    SF                8440
+
+6950       2002   2021      2035  HOL  3   FLA  N21E72    1F                8440
+6950 +     2010   2021      2031  GO8  5   XRA  1-8A      C2.9    2.5E-03   8440
+6950 +     2012   ////      2012  PAL  C   RSP  025-05    III/2             8440
+
+6960       2047   2049      2052  HOL  3   FLA  S23E66    SF                8439
+
+6970 +     2154   2201      2211  GO8  5   XRA  1-8A      C1.1    9.5E-04   8440
+6970       2156   2200      2208  HOL  3   FLA  N20E70    SF                8440
+
+6980 +     2233   2238      2242  HOL  3   FLA  N20E71    SF                8440
+6980 +     2234   2239      2247  GO8  5   XRA  1-8A      B9.2    6.6E-04   8440
+
+7000       2236   2243      2301  HOL  3   FLA  S24E67    SF                8439

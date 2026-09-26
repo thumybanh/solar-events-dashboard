@@ -1,0 +1,69 @@
+:Product: 20020109events.txt
+:Created: 2002 Jan 12 0300 UT
+:Date: 2002 01 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7600       0043   0051      0101  LEA  1   FLA  N15E08    SF      ERU       9773
+
+7790       0051   0054      0057  LEA  1   FLA  S19W45    SF      ERU       9767
+
+7610 +     0302   0303      0308  LEA  2   FLA  N14E05    SF      ERU       9773
+
+7620       0401   0407      0418  LEA  1   FLA  S20W45    SF      ERU       9767
+
+7630       0546   0547      0553  LEA  2   FLA  S14E67    SF      ERU       9778
+
+7640       0630   0633      0636  LEA  1   FLA  N14E03    SF      ERU       9773
+
+7650       0638   0640      0657  LEA  2   FLA  N14E04    SF      ERU       9773
+
+7800       0646   0649      0657  LEA  2   FLA  S14E66    SF                9778
+
+7660 +     0712   ////      0713  LEA  C   RSP  025-090   III/1                 
+
+7670       0744   0752      0758  LEA  2   FLA  N13E00    SF      ERU       9773
+
+7680       0805   0809      0812  LEA  1   FLA  N32E57    SF      DSD       9779
+
+7690       0817   0818      0822  LEA  1   FLA  S13E65    SF      ERU       9778
+7690 +     0818   0818      0818  SVI  G   RBR  410       28                9778
+7690 +     0818   0818      0818  SVI  G   RBR  606       85                9778
+
+7700       0848   0848      0854  LEA  1   FLA  S16W54    SF      ERU       9767
+
+7710 +     0952   0955      0957  GO8  5   XRA  1-8A      C4.3    1.0E-03       
+
+7720 +     1101   1113      1130  GO8  5   XRA  1-8A      M1.6    2.0E-02   9773
+7720      B1115   1147      1214  RAM  3   FLA  N13E08    1F      ERU       9773
+
+7730       1251   1305      1310  RAM  3   FLA  N13W01    SF                9773
+
+7740 +     1742   1801      1812  GO8  5   XRA  1-8A      M9.5    9.1E-02   9773
+7740       1744   1800      1900  RAM  3   FLA  N13W02    2B      PRB       9773
+7740 +     1751   1757      1759  SAG  G   RBR  1415      630               9773
+7740 +     1751   1757      1759  SAG  G   RBR  4995      560               9773
+7740 +     1751   1757      1759  SAG  G   RBR  8800      820               9773
+7740 +     1752   1757      1759  SAG  G   RBR  2695      230               9773
+7740 +     1757   1757      1758  SAG  G   RBR  15400     620               9773
+7740       1805   ////      1806  HOL  C   RSP  025-090   III/1             9773
+
+7810       1941   ////      1942  CUL  C   RSP  57-90     III/1                 
+
+7750       1957   1957      1957  SAG  G   RBR  245       570                   
+7750       1957   1957      1957  SAG  G   RBR  410       31                    
+
+7760       1958   1959      2004  RAM  3   FLA  S19E72    SF      DSD       9778
+
+7820       2227   ////      2227  CUL  C   RSP  57-90     III/1                 
+
+7770 +     2303   ////      2303  CUL  C   RSP  57-160    III/2                 
+
+7780       2321   2321      2323  LEA  2   FLA  N15W10    SF      ERU       9773

@@ -1,0 +1,31 @@
+:Product: 20010219events.txt
+:Created: 2001 Feb 22 0302 UT
+:Date: 2001 02 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Feb 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8640 +     1030   1043      1047  GO8  5   XRA  1-8A      B7.5    6.5E-04       
+
+8650      B1131  U1132      1135  RAM  3   FLA  S09E00    SF      ERU       9354
+
+8660 +     1308   1314      1319  GO8  5   XRA  1-8A      B7.9    4.5E-04   9354
+8660       1312   1313      1321  RAM  3   FLA  S09W01    SF      ERU       9354
+
+8670 +     1348   1351      1358  GO8  5   XRA  1-8A      B7.8    4.0E-04       
+
+8680 +     1514   1518      1525  GO8  5   XRA  1-8A      B7.7    4.0E-04       
+
+8690 +     1947   1952      2000  GO8  5   XRA  1-8A      B9.7    6.5E-04       
+
+8810      A2027   ////      1700  RAM  3   DSF  S35W23    10      B.0A          
+
+8700 +     2043   2100      2121  GO8  5   XRA  1-8A      C5.4    8.5E-03       
+
+8710 +     2123   ////      2123  CUL  C   RSP  50-170    III/2                 

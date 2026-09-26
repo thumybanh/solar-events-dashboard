@@ -1,0 +1,44 @@
+:Product: 20040115events.txt
+:Created: 2004 Jan 18 0300 UT
+:Date: 2004 01 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jan 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9050 +     0119   0123      0126  G12  5   XRA  1-8A      B6.2    2.3E-04   0540
+9050       0122   0124      0125  G12  5   XFL  S16E55    5.8E+02 1.1E+03   0540
+
+9060       0123   0230      0304  PAL  G   RNS  245       130                   
+
+9070       0454   ////      0457  LEA  C   RSP  025-180   V/1                   
+
+9090 +     0620   0632      0637  G12  5   XRA  1-8A      C3.2    2.3E-03   0540
+
+9080       0623   0623      0623  LEA  G   RBR  410       59                    
+
+9090       0623   0634      0636  G12  5   XFL  S15E52    3.3E+03 1.5E+04   0540
+9090       0624   0629      0643  LEA  3   FLA  S16E52    1F      ERU       0540
+9090       0626   0626      0626  LEA  G   RBR  245       65                0540
+
+9100       0722   ////      0725  LEA  C   RSP  025-180   V/1                   
+9100       0723   ////      0724  SVI  C   RSP  025-175   III/1                 
+
+9110 +     0844   ////      0845  LEA  C   RSP  025-180   III/1                 
+
+9120 +     0903   ////      0904  LEA  C   RSP  025-117   III/1                 
+
+9130 +     0927   ////      0929  LEA  C   RSP  025-180   III/1                 
+
+9140 +     1955   ////      1957  SAG  C   RSP  030-050   III/2                 
+
+9150 +     2257   2304      2313  G12  5   XRA  1-8A      C1.2    8.9E-04   0540
+9150       2300   2306      2312  G12  5   XFL  S15E43    1.6E+03 4.3E+03   0540
+
+9160       2351   ////      2351  LEA  C   RSP  025-124   III/1                 
+9160       2351   2351      2351  LEA  G   RBR  245       52                    

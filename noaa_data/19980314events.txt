@@ -1,0 +1,44 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 17 Mar 1998
+
+EDITED EVENTS for 1998 Mar 14
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+180  +     0053   ////      0053  LEA  C   RSP  030-06    III/2
+
+190        0303   ////      0303  LEA  C   RSP  030-05    III/1
+
+200  +     0628   ////      0629  LEA  C   RSP  030-08    III/2
+
+210  +     0923   ////      0923  LEA  C   RSP  030-08    III/1
+
+220  +     1056   1117      1127  GO9  5   XRA  1-8A      C1.1    1.5E-03   8179
+220  +     1117   1118      1141  RAM  3   FLA  S23E15    SF      ERU       8179
+
+230  +     1147   1152      1156  GO9  5   XRA  1-8A      C2.2    7.6E-04
+
+240        1411   ////      1411  SAG  C   RSP  030-05    III/1
+
+250  +     1443   1452      1507  GO9  5   XRA  1-8A      C1.4    1.6E-03   8179
+250        1446   1448      1503  RAM  3   FLA  S21E16    SF      ERU       8179
+
+260  +     1622   1626      1628  GO9  5   XRA  1-8A      B8.3    2.6E-04   8179
+260        1625   1625      1629  RAM  3   FLA  S23E13    SF                8179
+
+270        1718   1732      1737  HOL  3   FLA  S23E13    SF      ERU       8179
+270  +     1726   1729      1731  GO9  5   XRA  1-8A      B6.8    1.8E-04   8179
+270        1729   1730      1737  RAM  3   FLA  S21E13    SF                8179
+
+280        1753   1753      1801  HOL  3   FLA  S22E12    SF      ERU       8179
+280        1753   1753      1801  RAM  3   FLA  S21E11    SF                8179
+
+290        1811   1811      1829  HOL  3   FLA  S22E11    SF                8179
+
+300        1841   1844      1846  GO8  5   XRA  1-8A      B6.6    1.7E-04
+
+310        1856   1858      1906  HOL  3   FLA  S22E11    SF      ERU       8179
+
+320  +     2157   2201      2203  GO9  5   XRA  1-8A      B8.3    2.1E-04
+
+450  +    A2158   ////      1629  HOL  3   DSF  S55W12    12      B.0A      8179

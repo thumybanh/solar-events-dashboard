@@ -1,0 +1,23 @@
+:Product: 20091031events.txt
+:Created: 2009 Nov 03 2332 UT
+:Date: 2009 10 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2009 Oct 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2330       0544   ////      0544  LEA  C   RSP  034-157   III/1                 
+2330       0544   ////      0609  LEA  C   RSP  042-110   CTM/1                 
+
+2340       0854   ////      0854  LEA  C   RSP  032-078   III/1                 
+
+2350 +     0923   0935      0943  G10  5   XRA  1-8A      C1.0    1.0E-03   1029
+
+2360       1437   1437      1437  SAG  G   RNS  245       110                   
+
+2370 +     1512   1524      1554  G10  5   XRA  1-8A      B3.0    6.5E-04   1029

@@ -1,0 +1,27 @@
+:Product: 20031016events.txt
+:Created: 2003 Oct 19 0302 UT
+:Date: 2003 10 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Oct 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1340 +     0248   0252      0301  G12  5   XRA  1-8A      B6.6    4.4E-04   0477
+1340       0254   0258      0301  LEA  3   FLA  S13W52    SF      ERU       0477
+
+1350 +     0735   0759      0812  G12  5   XRA  1-8A      B7.8    1.2E-03       
+
+1360 +     1648   1653      1700  G12  5   XRA  1-8A      B2.7    1.8E-04   0477
+
+1370 +     1739   1751      1756  G12  5   XRA  1-8A      B3.4    2.8E-04       
+
+1380 +     1943   1954      2001  G12  5   XRA  1-8A      B2.8    2.5E-04       
+
+1390 +     2128   2134      2140  G12  5   XRA  1-8A      B4.1    2.3E-04       
+
+1400       2246   ////      2352  HOL  3   EPL  ////      0.13    B.0A      0000

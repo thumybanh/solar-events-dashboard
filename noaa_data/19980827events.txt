@@ -1,0 +1,22 @@
+:Product: 19980827events.txt
+:Created: 1998 Aug 30 0302 UT
+:Date: 1998 08 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Aug 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4510       0840   0844      0850  SVI  3   FLA  N21E05    SF                8319
+
+4550       1051   1129      1208  GO8  5   XRA  1-8A      C3.0              8319
+
+4530      B1142  U1142     A1204  SVI  2   FLA  N19E04    SF                8319
+
+4560 +     1953   1958      2003  GO8  5   XRA  1-8A      C1.6    7.1E-04       
+
+4570       2317   2324      2329  GO8  5   XRA  1-8A      B9.7                  

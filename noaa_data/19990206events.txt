@@ -1,0 +1,40 @@
+:Product: 19990206events.txt
+:Created: 1999 Feb 09 0302 UT
+:Date: 1999 02 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Feb 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2350 +     0521   ////      0525  CUL  C   RSP  23-90     III/1                 
+
+2340 +     0609   0614      0621  GO8  5   XRA  1-8A      B5.3    3.2E-04       
+2340       0617   ////      1028  SVI  C   RSP  039-05    CTM/1                 
+
+2360 +     0746   0755      0805  GO8  5   XRA  1-8A      B6.9    6.7E-04       
+
+2370 +     1120   1127      1138  GO8  5   XRA  1-8A      B8.6    7.8E-04       
+2370       1125   ////      1331  SVI  C   RSP  039-05    CTM/1                 
+
+2420      B1219   ////      1540  RAM  3   DSF  S54W34    23      B.0A          
+
+2530      A1248   ////      1540  SVI  3   DSF  S30W47    28      B.0A          
+
+2380 +     1500   1501      1501  SAG  G   RBR  245       58                    
+
+2390 +     1527   1531      1534  GO8  5   XRA  1-8A      B6.8    2.3E-04       
+
+2400       1603   1603      1606  SAG  G   RBR  245       130                   
+
+2410       1623   1623      1623  SAG  G   RBR  245       59                    
+
+2430       2015   2016      2017  SAG  G   RBR  245       50                    
+
+2610       2049   ////      2053  CUL  C   RSP  20-90     III/1                 
+
+2550      A2135   ////      1143  RAM  3   DSF  N15W48    06      B.0A          

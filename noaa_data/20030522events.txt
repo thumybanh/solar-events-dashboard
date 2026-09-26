@@ -1,0 +1,55 @@
+:Product: 20030522events.txt
+:Created: 2003 May 25 0302 UT
+:Date: 2003 05 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 May 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4960      A0020   ////     B1309  HOL  3   DSF  ////      11      B.0A      0000
+
+4980      A0020   ////     B1309  HOL  3   DSF  ////      11      B.0A      0000
+
+4970      A0020   ////     B1309  HOL  3   DSF  ////      14      B.0A      0000
+
+4870 +     0052   ////      0058  LEA  C   RSP  025-180   III/1                 
+
+4860 +     0053   ////      0058  HOL  C   RSP  025-120   III/1                 
+
+4880       0331   0331      0332  PAL  G   RBR  410       110                   
+
+4890 +     0611   0617      0621  G12  5   XRA  1-8A      C1.1    5.6E-04   0362
+
+4900 +     0642   0703      0712  G12  5   XRA  1-8A      C4.9    6.5E-03   0362
+
+4910       0952   ////      0953  SVI  C   RSP  025-057   III/1                 
+
+4920       1139   ////      1140  SVI  U   RSP  025-083   III/1                 
+
+4930       1303   ////      1303  SVI  C   RSP  025-066   III/1                 
+
+4940 +     1344   1356      1401  G12  5   XRA  1-8A      B5.5    5.1E-04   0362
+4940       1347   1354      1403  HOL  3   FLA  S10W11    SF      ERU       0362
+
+4950 +     1411   1416      1420  G12  5   XRA  1-8A      B5.6    2.5E-04       
+
+4990       1524   1528      1531  G10  5   XRA  1-8A      B7.2    2.7E-04       
+
+5020       1636   1723      1743  G12  5   XRA  1-8A      C1.1    2.6E-03   0362
+
+5000       1708   ////      1709  SVI  C   RSP  052-062   III/1                 
+
+5010       1714   1714      1714  PAL  G   RBR  410       76                    
+
+5020       1720   1721      1726  PAL  G   RBR  410       230                   
+
+5030       1857   ////      1858  PAL  C   RSP  025-132   III/1                 
+
+5040 +     2107   2114      2130  G12  5   XRA  1-8A      C1.1    1.3E-03   0362
+5040       2110   2113      2126  HOL  3   FLA  S14W11    SF                0362
+5040 +     2115   ////      2118  HOL  C   RSP  025-078   III/1             0362

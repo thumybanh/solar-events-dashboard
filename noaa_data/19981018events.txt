@@ -1,0 +1,62 @@
+:Product: 19981018events.txt
+:Created: 1998 Oct 21 0302 UT
+:Date: 1998 10 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7540 +     0028   0056      0349  COM  G   RNS  245       230                   
+7540       0110   0110      0112  PAL  U   RNS  410       61                    
+
+7720       0128   ////      0128  CUL  C   RSP  60-130    III/1                 
+
+7550 +     0130   ////      0130  CUL  C   RSP  25-120    III/1                 
+
+7560 +     0138   0145      0152  GO8  5   XRA  1-8A      M2.4    9.9E-03   8358
+7560       0142   0144      0208  LEA  3   FLA  N16W52    1N      ERU       8358
+
+7580       0213   ////      0302  LEA  C   RSP  030-08    CTM/1                 
+
+7570       0242   0243      0247  PAL  U   RBR  410       55                    
+
+7590 +     0521   ////      0524  CUL  C   RSP  35-90     III/1                 
+
+7600 +     0533   0538      0549  GO8  5   XRA  1-8A      C2.6    1.8E-03   8358
+7600       0537   0537      0548  LEA  3   FLA  N16W57    1F      ERU       8358
+7600       0539   ////      0540  SVI  U   RSP  036-07    III/2             8358
+
+7610       0610   ////      0610  LEA  C   RSP  030-06    III/1                 
+
+7620       0613   ////      0709  LEA  C   RSP  030-07    CTM/1                 
+7620       0640   0640      0640  LEA  U   RBR  410       51                    
+
+7630       0717   0717      0717  LEA  U   RBR  245       72                    
+
+7640       0725   0725      0725  SVI  U   RBR  245       170                   
+7640       0725   0725      0725  SVI  U   RBR  410       74                    
+
+7660 +     1055   1103      1118  GO8  5   XRA  1-8A      B7.6    9.2E-04       
+
+7820      A1303   ////      0853  SVI  3   DSF  N24W18    12      B.0A          
+
+7670       1811   ////      1816  SAG  C   RSP  030-08    V/2                   
+7670       1811   ////      1816  PAL  C   RSP  025-07    III/2                 
+
+7820      A2034   ////      1054  RAM  3   DSF  N21W26    08      B.0A          
+
+7730       2108   ////      2112  CUL  C   RSP  19-180    III/2                 
+7730       2108   ////      0348  PAL  C   RSP  025-05    CTM/2                 
+
+7680 +     2110   2110      2110  SAG  G   RBR  245       51                    
+
+7690       2112   ////      0000  CUL  C   RSP  28-160    II/1                  
+
+7740       2125   ////      2127  CUL  C   RSP  28-85     III/1                 
+
+7700       2327   2332      2338  HOL  2   FLA  N13W53    SF                8361

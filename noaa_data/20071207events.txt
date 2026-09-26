@@ -1,0 +1,50 @@
+:Product: 20071207events.txt
+:Created: 2007 Dec 11 2359 UT
+:Date: 2007 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center.
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6650       0246   0259      0458  LEA  3   FLA  S11E66    2F                0978
+
+6660       0434   ////      0437  LEA  C   RSP  025-058   III/1             0977
+6660 +     0435   0441      0455  G11  5   XRA  1-8A      B1.4    1.5E-04   0977
+6660       0436   0439      0501  LEA  3   FLA  S05W06    SF      PRB       0977
+
+6670       0541   0549      0555  LEA  3   FLA  S10E63    SF                0978
+
+6680       0605   0608      0611  LEA  3   FLA  S10E63    SF                0978
+
+6690       0612   0612      0615  LEA  3   FLA  S10E63    SF                0978
+
+6700       0620   0621      0634  LEA  3   FLA  S10E63    SF                0978
+
+6710       0635   0650      0655  LEA  3   FLA  S10E63    SF                0978
+
+6720       0706   0708      0710  LEA  3   FLA  S10E63    SF                0978
+
+6730       0745   0745      0749  LEA  3   FLA  S10E62    SF                0978
+
+6740       0757   0759      0801  LEA  3   FLA  S10E62    SF                0978
+
+6750       0841   0843      0848  LEA  3   FLA  S10E62    SF                0978
+
+6780       0848   0918      0939  LEA  3   FLA  S11E62    SF                0978
+
+6760       0941   0945      1004  LEA  3   FLA  S10E61    SF                0978
+
+6770 +     1426   1450      1504  G11  5   XRA  1-8A      B1.8    3.6E-04       
+
+6790       2220   2225      2230  LEA  2   FLA  S11E55    SF                0978
+
+6800       2243   2244      2249  LEA  2   FLA  S11E52    SF                0978
+
+6810       2349   2349      2353  LEA  3   FLA  S11E52    SF                0978
+
+6820       2356   2358      0002  LEA  3   FLA  S11E52    SF                0978

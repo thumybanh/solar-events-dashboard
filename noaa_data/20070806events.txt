@@ -1,0 +1,39 @@
+:Product: 20070806events.txt
+:Created: 2007 Aug 10 2332 UT
+:Date: 2007 08 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Aug 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5640 +     0002   ////      0002  CUL  C   RSP  20-90     III/1                 
+
+5650       0037   ////      0037  LEA  C   RSP  025-046   III/1                 
+
+5660       0106   0154      0217  LEA  3   FLA  S07E44    SN                0966
+5660       0145   0153      0159  G11  5   XRA  1-8A      B4.2    2.4E-04   0966
+
+5670 +     0304   0304      0331  LEA  3   FLA  S08E45    1F                0966
+
+5680 +     0419   0422      0441  LEA  3   FLA  S08E44    SF                0966
+
+5690       0905   0913      0921  G11  5   XRA  1-8A      C1.5    8.5E-04   0966
+5690 +     0910   0910      0923  SVI  2   FLA  S05E41    SF      ERU       0966
+5690 +     0915   ////      0915  LEA  C   RSP  025-092   III/1             0966
+5690 +     0916   ////      0921  LEA  C   RSP  025-094   II/1    670       0966
+
+5700 +     1524   1537      1546  G11  5   XRA  1-8A      C1.1    1.0E-03   0966
+5700       1527   1531      1554  HOL  3   FLA  S08E38    SF      ERU       0966
+5700       1529   1530      1533  SAG  G   RBR  245       63                0966
+5700       1530   1532      1533  SAG  G   RBR  410       67                0966
+5700       1530   1530      1532  SAG  G   RBR  606       26                0966
+5700 +     1536   ////      1536  SVI  C   RSP  025-078   III/1             0966
+
+5710       1602   ////      1603  SVI  C   RSP  025-167   III/1                 
+
+5720 +     2240   2248      2255  G11  5   XRA  1-8A      B1.3    1.1E-04       

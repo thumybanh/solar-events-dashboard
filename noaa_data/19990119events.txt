@@ -1,0 +1,100 @@
+:Product: 19990119events.txt
+:Created: 1999 Jan 22 0302 UT
+:Date: 1999 01 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9090       0051   ////      0052  LEA  C   RSP  036-04    III/1                 
+
+9120 +     0100   0138      0151  GO8  5   XRA  1-8A      C7.6    1.2E-02   8439
+
+9100       0103   0105      0115  LEA  3   FLA  S21W05    SF      ERU       8439
+
+9110       0112   0114      0118  LEA  3   FLA  N19W01    SF                8440
+
+9120       0128   0129      0209  LEA  4   FLA  S24E01    SF                8439
+
+9130       0205   0205      0205  LEA  G   RBR  245       65                    
+
+9140       0206   ////      0206  LEA  C   RSP  030-08    III/2                 
+
+9160       0216   ////      0216  LEA  C   RSP  030-06    III/1                 
+
+9170 +     0224   0226      0226  LEA  G   RBR  245       120                   
+
+9180       0232   ////      0602  LEA  C   RSP  030-05    CTM/1             8440
+9180       0307   0307      0309  LEA  3   FLA  N20W02    SF                8440
+
+9190 +     0500   0507      0513  GO8  5   XRA  1-8A      C2.6    1.8E-03   8440
+9190       0503   0503      0518  LEA  4   FLA  N19E00    SF                8440
+
+9200       0615   0619      0630  LEA  4   FLA  S21W08    SF      ERU       8439
+9200       0625   0626      0628  LEA  G   RBR  245       60                8439
+9200       0626   0626      0626  LEA  G   RBR  410       110               8439
+
+9210       0641   0642      0645  LEA  4   FLA  S21W08    SF                8439
+
+9220       0717   0717      0724  LEA  4   FLA  N17E01    SF      ERU       8440
+
+9350 +     0752   ////      1526  SVI  C   RSP  035-08    CTM/2                 
+
+9230 +     0802   0805      0817  GO8  5   XRA  1-8A      C3.3    2.5E-03   8440
+9230       0803   0803      0803  LEA  G   RBR  606       15                8440
+9230 +     0803   0803      0805  LEA  G   RBR  2695      24                8440
+9230       0803   0803      0803  LEA  G   RBR  410       23                8440
+9230 +     0803   0803      0803  SVI  G   RBR  1415      52                8440
+9230       0803   0803      0803  SVI  G   RBR  4995      29                8440
+9230 +     0804   0804      0817  LEA  3   FLA  N22E05    SF      ERU       8440
+
+9240 +     0849   0849      0850  SVI  G   RBR  245       180               8440
+9240       0849   0859      0914  SVI  3   FLA  N21W02    SF      ERU       8440
+
+9300       0914   0914      0920  SVI  3   FLA  S21W11    SF                8439
+
+9250 +     0940   0940      0942  SVI  G   RBR  245       200                   
+
+9260       1014   1031      1049  SVI  3   FLA  N19W02    SF      ERU       8440
+
+9310       1023   1024      1111  SVI  3   FLA  S23W09    SF      ERU       8439
+
+9270 +     1118   1124      1132  GO8  5   XRA  1-8A      C3.9    2.9E-03   8439
+9270       1119   1122      1200  SVI  3   FLA  S23W08    SF      ERU       8439
+
+9340       1127   1138      1149  SVI  3   FLA  N21W03    SF      ERU       8440
+
+9330 +     1404   1411      1418  GO8  5   XRA  1-8A      C2.9    1.9E-03   8439
+9330 +     1406   1407      1409  SAG  G   RBR  1415      20                8439
+9330 +     1407   1407      1409  SAG  G   RBR  410       30                8439
+9330 +     1407   1408      1411  SAG  G   RBR  606       52                8439
+9330 +     1408   1409      1425  RAM  3   FLA  S22W13    SF                8439
+
+9360       1456   1510      1521  RAM  3   FLA  S23W13    SF      ERU       8439
+9360 +     1503   1510      1516  GO8  5   XRA  1-8A      C2.5    1.7E-03   8439
+
+9370       1536   1536      1540  RAM  3   FLA  N18E25    SF                    
+
+9380 +     1605   1610      1619  RAM  3   FLA  S24W06    SF                8439
+
+9540      A1616   ////      1126  RAM  3   DSF  S41E06    17      B.9A          
+
+9390       1623   1623      1623  SAG  G   RBR  245       65                    
+
+9400 +     1629   1630      1641  HOL  3   FLA  S23W10    SF      ERU       8439
+
+9410       1647   1657      1701  HOL  3   FLA  S23W09    SF      ERU       8439
+
+9420 +     1723   1725      1739  HOL  3   FLA  S25W06    SF      ERU       8439
+
+9430       2019   2029      2045  HOL  3   FLA  S23W14    SF      ERU       8439
+9430 +     2022   2027      2033  GO8  5   XRA  1-8A      C2.8    1.5E-03   8439
+
+9440 +     2241   2247      2252  GO8  5   XRA  1-8A      C3.5    1.6E-03       
+
+9450       2349   2350      0000  LEA  4   FLA  N20W12    SF      BPT       8440

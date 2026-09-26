@@ -1,0 +1,37 @@
+:Product: 20010114events.txt
+:Created: 2001 Jan 17 0302 UT
+:Date: 2001 01 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5060 +     0246   0251      0254  GO8  5   XRA  1-8A      C8.1    2.2E-03   9306
+5060       0249   0250      0306  LEA  4   FLA  N10W17    SF      ERU       9306
+
+5070       0435   0442      0446  LEA  3   FLA  N08W74    SF                9296
+
+5080 +     0654   ////      0655  LEA  C   RSP  025-096   III/2                 
+
+5090       0659   0703      0709  G10  5   XRA  1-8A      C1.4    7.6E-04       
+
+5100 +     0843   0847      0850  GO8  5   XRA  1-8A      C2.4    8.4E-04       
+
+5110 +     1024   1030      1036  GO8  5   XRA  1-8A      C4.6    2.5E-03       
+5110       1026   1027      1030  LEA  G   RBR  1415      21                    
+5110       1026   1027      1030  LEA  U   RBR  2695      24                    
+5110 +     1027   1027      1028  SVI  G   RBR  4995      35                    
+5110 +     1027   1027      1028  SVI  G   RBR  8800      54                    
+5110       1027   1027      1028  LEA  U   RBR  15400     24                    
+
+5120 +     1213   1217      1223  GO8  5   XRA  1-8A      C1.3    7.5E-04       
+
+5130 +     1553   1557      1600  GO8  5   XRA  1-8A      C1.7    5.8E-04   9306
+5130       1556   1558      1605  RAM  3   FLA  N14W19    SF                9306
+
+5140 +     2103   2107      2110  GO8  5   XRA  1-8A      C1.5    5.2E-04       

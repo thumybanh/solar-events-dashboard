@@ -1,0 +1,45 @@
+:Product: 20040131events.txt
+:Created: 2004 Feb 03 0300 UT
+:Date: 2004 01 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jan 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 920      A0045   ////     B1543  HOL  3   DSF  S13W42    06      B.0A          
+
+ 840       0139   ////      0141  LEA  C   RSP  025-157   III/1                 
+
+ 850 +     0212   0219      0224  G12  5   XRA  1-8A      B2.7    1.7E-04   0549
+ 850 +     0215   ////      0218  LEA  C   RSP  025-169   III/1             0549
+ 850       0215   0222      0223  G12  5   XFL  N13E80    1.0E+03 2.2E+03   0549
+
+ 860 +     0358   0412      0421  G12  5   XRA  1-8A      B6.3    6.2E-04   0549
+ 860       0402   0415      0419  G12  5   XFL  N13E80    1.8E+03 5.0E+03   0549
+
+ 870       0512   ////      0513  LEA  C   RSP  025-143   III/1                 
+
+ 880 +     0537   0540      0542  G12  5   XRA  1-8A      B3.0    7.4E-05   0549
+ 880       0541   0541      0541  G12  5   XFL  N13E77    0.0E+00 0.0E+00   0549
+
+ 890 +     0607   0622      0628  G12  5   XRA  1-8A      C4.1    2.7E-03   0549
+ 890       0610   0623      0627  G12  5   XFL  N13E79    3.5E+03 1.9E+04   0549
+
+ 900 +     0824   0828      0834  G12  5   XRA  1-8A      B1.8    1.0E-04   0549
+ 900       0827   0831      0833  G12  5   XFL  N13E77    7.3E+02 1.5E+03   0549
+
+ 910 +     1358   1358      1358  SAG  G   RBR  245       740                   
+ 910       1358   ////      1358  SVI  C   RSP  112-180   III/1                 
+
+ 930 +     1742   1750      1757  G12  5   XRA  1-8A      B2.5    2.0E-04   0549
+ 930       1746   1755      1755  G12  5   XFL  N12E73    6.5E+02 1.2E+03   0549
+
+ 940       2026   ////      2026  HOL  C   RSP  025-042   III/1                 
+
+ 950 +     2147   2151      2155  G12  5   XRA  1-8A      B2.4    9.5E-05   0549
+ 950       2150   2150      2154  G12  5   XFL  N13E70    5.8E+02 1.3E+03   0549

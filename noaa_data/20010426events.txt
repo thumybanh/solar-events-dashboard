@@ -1,0 +1,73 @@
+:Product: 20010426events.txt
+:Created: 2001 Apr 29 0302 UT
+:Date: 2001 04 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Apr 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3210 +     0043   ////      0043  CUL  C   RSP  20-300    III/3                 
+
+3240 +     0100   0108      0116  GO8  5   XRA  1-8A      C3.4    2.3E-03   9433
+3240       0101   0103      0109  LEA  G   RBR  4995      60                9433
+3240       0102   0105      0109  LEA  G   RBR  8800      21                9433
+3240       0103   0108      0128  LEA  3   FLA  N19W08    SF      ERU       9433
+
+3250 +     0153   0200      0208  GO8  5   XRA  1-8A      C3.7    2.5E-03   9433
+3250       0155   0158      0225  LEA  3   FLA  N19W07    SF      ERU       9433
+
+3260 +     0431   ////      0437  CUL  C   RSP  23-300    III/3             9437
+3260       0433   0433      0442  LEA  3   FLA  N09E16    SF                9437
+
+3270 +     0433   1133      1142  SVI  U   RNS  245       290                   
+
+3280       0435   0438      0449  LEA  3   FLA  N19W10    SF                9433
+
+3350       0625   0631      0700       F   RBR  3000      35                    
+
+3340 +     0741   ////      0854  LEA  3   DSF  N24W27    10      B.9A      9433
+
+3510      A0906   ////      2318  LEA  3   DSF  N02W49    05      B.0A          
+
+3300 +     0958   1002      1004  GO8  5   XRA  1-8A      C2.2    6.5E-04       
+
+3310       1118   1118      1119  SVI  G   RBR  410       67                    
+
+3320 +     1123   1130      1131  SVI  G   RBR  1415      1500                  
+
+3380 +     1126   1312      1319  GO8  5   XRA  1-8A      M7.8    9.2E-02   9433
+3380 +     1141   1142      1143  SVI  G   RBR  1415      190               9433
+3380 +     1142   1142      1143  SVI  G   RBR  245       320               9433
+3380 +     1211   1311      1431  RAM  3   FLA  N17W31    2B      UMB       9433
+3380 +     1236   1238      1255  SVI  G   RBR  410       290               9433
+3380 +     1237   1238      1257  SVI  G   RBR  606       420               9433
+3380 +     1237   1240      1257  SVI  G   RBR  8800      37                9433
+3380 +     1237   1239      1257  SVI  G   RBR  15400     43                9433
+3380 +     1238   1239      1257  SVI  G   RBR  4995      35                9433
+3380       1241   ////      1341  HOL  C   RSP  025-180   CTM/1             9433
+3380 +     1307   1307      1317  SVI  G   RBR  2695      360               9433
+3380 +     1309   ////      1310  SAG  C   RSP  030-080   III/2             9433
+3380 +     1335   ////      1339  SAG  C   RSP  038-050   II/2    475       9433
+3380 +     1341   ////      2314  SAG  C   RSP  030-080   IV/2              9433
+
+3460       1341   ////      0133  HOL  C   RSP  025-180   IV/1                  
+
+3470       1608   1611      1615  SVI  3   FLA  N20W08    SF      ERU       9433
+
+3480 +     1909   1909      1909  SAG  G   RBR  245       99                    
+
+3490       2008   2010      2014  HOL  3   FLA  N08E53    SF                9441
+
+3530       2145   ////      2146  CUL  C   RSP  100-180   III/2                 
+
+3590       2257   ////      0946  LEA  C   RSP  025-180   CTM/1                 
+
+3500       2300   2301      2301  PAL  G   RBR  410       150                   
+
+3520       2336   2355      0005  GO8  5   XRA  1-8A      C4.2    5.3E-03   9433
+3520 +     2354   2355      0002  HOL  3   FLA  N18W22    SF      ERU       9433

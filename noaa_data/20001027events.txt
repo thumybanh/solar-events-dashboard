@@ -1,0 +1,41 @@
+:Product: 20001027events.txt
+:Created: 2000 Oct 30 0302 UT
+:Date: 2000 10 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8630 +     0422   0425      0428  GO8  5   XRA  1-8A      C1.3    4.5E-04       
+
+8640 +     0835   0838      0843  GO8  5   XRA  1-8A      C1.7    6.7E-04       
+
+8670 +     1055   ////      1146  SVI  3   DSF  N05W34    12      B.0A          
+
+8650 +     1114   1127      1150  GO8  5   XRA  1-8A      C8.2    1.2E-02       
+
+8660 +     1155   1203      1213  GO8  5   XRA  1-8A      C9.7    8.0E-03       
+8660       1212   ////      1212  SAG  C   RSP  030-060   III/1                 
+
+8680 +     1406   1406      1408  SAG  G   RBR  245       160                   
+8680       1406   1406      1408  SVI  G   RBR  410       51                    
+
+8690       1437   1438      1438  SVI  G   RBR  245       77                    
+8690       1438   1438      1439  SVI  G   RBR  410       18                    
+
+8700       1458   ////      1459  SVI  U   RSP  112-161   III/1                 
+
+8710       1518   1518      1519  SAG  G   RBR  245       56                    
+
+8730 +     1850   1855      1903  GO8  5   XRA  1-8A      C1.8    1.2E-03       
+
+8740 +     1947   1956      2004  GO8  5   XRA  1-8A      C3.3    2.8E-03       
+
+8750 +     2039   2056      2108  GO8  5   XRA  1-8A      M1.1    1.1E-02       
+
+8760 +     2329   2333      2338  GO8  5   XRA  1-8A      C2.0    1.0E-03       

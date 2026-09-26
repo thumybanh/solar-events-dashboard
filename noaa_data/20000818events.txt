@@ -1,0 +1,64 @@
+:Product: 20000818events.txt
+:Created: 2000 Aug 21 0302 UT
+:Date: 2000 08 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3020       0321   ////      0321  LEA  C   RSP  074-111   III/1                 
+
+3030 +     0416   0445      0520  GO8  5   XRA  1-8A      C5.5    1.4E-02   9127
+3030       0425   0433      0516  LEA  4   FLA  S38W58    1F      ERU       9127
+
+3040 +     0538   ////      0539  LEA  C   RSP  042-153   III/1                 
+
+3050       0722   ////      0722  SVI  U   RSP  031-056   III/1                 
+
+3060       0724   0724      0725  SVI  G   RBR  245       670                   
+
+3070 +     0744   ////      0753  SVI  C   RSP  028-081   III/1                 
+3070       0753   0753      0755  SVI  G   RBR  245       180                   
+
+3080       0817   0817      0818  SVI  G   RBR  245       160                   
+
+3090       0941   0941      0943  SVI  G   RBR  245       140                   
+
+3100       1156   ////      1156  SVI  C   RSP  028-080   III/1                 
+
+3110       1307   ////      1307  SVI  C   RSP  028-055   III/1                 
+
+3120 +     1323   1323      1323  SVI  G   RBR  245       220                   
+3120       1323   ////      1323  SVI  C   RSP  059-177   III/1                 
+
+3130 +     1553   1555      1556  SAG  G   RBR  245       330                   
+3130 +     1553   1555      1559  SAG  G   RBR  410       71                    
+3130 +     1554   ////      1555  SVI  C   RSP  049-180   III/2                 
+
+3260      B1638   ////      0455  SVI  2   DSF  S39E06    07      B.0A          
+
+3140       1724   1726      1737  RAM  3   FLA  N31W35    SF                9125
+
+3150       1803   1805      1809  RAM  3   FLA  N23W32    SF      DSD       9125
+3150       1809   1809      1810  SAG  G   RBR  245       1300              9125
+3150       1809   1810      1812  GO8  5   XRA  1-8A      C1.1    1.7E-04   9125
+3150 +     1809   ////      1810  PAL  C   RSP  025-180   III/2             9125
+3150       1809   1810      1811  SAG  G   RBR  410       330               9125
+3150       1809   1809      1811  SAG  G   RBR  606       890               9125
+
+3160       1836   1836      1845  HOL  3   FLA  N29W36    SF                9125
+
+3170       1901   1902      1909  HOL  3   FLA  N29W36    SF                9125
+
+3180       2121   2124      2127  G10  5   XRA  1-8A      B7.8    2.5E-04   9125
+3180       2122   2123      2128  RAM  3   FLA  N23W33    SF      ERU       9125
+
+3190       2343   2343      2344  LEA  G   RBR  245       37                    
+
+3200 +     2350   2355      2357  GO8  5   XRA  1-8A      C1.3    4.4E-04   9125
+3200       2351   2356      0004  LEA  3   FLA  N22W34    SF      ERU       9125

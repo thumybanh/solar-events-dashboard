@@ -1,0 +1,57 @@
+:Product: 19980620events.txt
+:Created: 1998 Jun 23 0302 UT
+:Date: 1998 06 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+30   +     1412   1430      1444  GO9  5   XRA  1-8A      C4.0    4.9E-03   8243
+30   +     1419   1426      1456  SVI  3   FLA  N13W23    1N      DSD       8243
+30   +     1422   ////      1445  SAG  C   RSP  030-08    II/2    600       8243
+30   +     1422   1448      1456  SAG  G   RBR  245       280               8243
+30   +     1425   1449      1456  SAG  G   RBR  410       380               8243
+30         1426   1454      1456  SAG  G   RBR  606       150               8243
+30   +     1445   ////      2113  SAG  C   RSP  030-08    IV/3              8243
+
+40   +     1458   1458      1505  SAG  G   RBR  245       810                   
+40   +     1458   1458      1505  SAG  G   RBR  410       1100                  
+40   +     1458   1458      1500  SAG  G   RBR  606       310                   
+40   +     1458   1458      1501  SAG  G   RBR  1415      160                   
+40   +     1458   1459      1502  SAG  G   RBR  2695      59                    
+
+60   +     1505   1702      2359  SAG  G   RNS  245       410                   
+
+70         1511   1701      1754  SVI  G   RNS  245       550                   
+
+50   +     1550   1551      1555  SAG  G   RBR  606       120                   
+
+60         1657   1704      1704  SVI  G   RNS  410       68                    
+
+70         1757   1704      1704  SVI  G   RNS  410       68                    
+
+80   +     2025   2038      2044  GO9  5   XRA  1-8A      B5.0    4.8E-04   8243
+80         2028   2028      2033  HOL  3   FLA  N16W21    SF      ERU       8243
+
+100  +     2054   2100      2104  GO9  5   XRA  1-8A      C1.9    7.4E-04   8243
+100        2057   2100      2131  HOL  3   FLA  N16W21    1F      ERU       8243
+100        2109   2109      2110  SAG  G   RBR  410       310               8243
+100        2109   2110      2113  SAG  G   RBR  606       940               8243
+100        2109   ////      2110  SAG  C   RSP  030-08    III/1             8243
+
+120        2148   2151      2158  HOL  3   FLA  N19W22    SF      ERU       8243
+
+130        2201   2210      2228  HOL  3   FLA  N17W23    SF      ERU       8243
+130  +     2205   2210      2214  GO9  5   XRA  1-8A      C3.9    1.6E-03   8243
+
+140        2323   2325      2325  LEA  G   RBR  410       64                    
+140        2323   2325      2325  LEA  G   RBR  410       64                    
+140  +     2324   2324      2325  SAG  G   RBR  606       120                   
+140  +     2324   2324      2325  SAG  G   RBR  606       120                   
+
+150        2329   2337      2342  HOL  3   FLA  N16W23    SF                8243

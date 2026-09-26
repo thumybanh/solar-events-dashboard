@@ -1,0 +1,45 @@
+:Product: 20000131events.txt
+:Created: 2000 Feb 03 0302 UT
+:Date: 2000 01 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+650  +     0147   0157      0202  GO8  5   XRA  1-8A      C1.7    1.0E-03   8841
+650        0152   0158      0230  LEA  3   FLA  S28W44    SF                8841
+650        0154   ////      0159  LEA  C   RSP  030-08    III/2             8841
+650  +     0157   0158      0159  LEA  G   RBR  245       180               8841
+650  +     0157   0157      0158  LEA  G   RBR  410       230               8841
+650        0158   0158      0158  LEA  G   RBR  606       56                8841
+650        0158   0158      0158  LEA  G   RBR  4995      28                8841
+
+660        0231   0239      0259  LEA  3   FLA  S28W44    SN                8841
+660  +     0236   0242      0246  GO8  5   XRA  1-8A      C1.3    5.8E-04   8841
+660        0237   0242      0243  LEA  G   RBR  245       930               8841
+660        0237   0240      0243  LEA  G   RBR  410       1200              8841
+660  +     0237   ////      0243  LEA  C   RSP  030-08    III/3             8841
+
+670        0822   0826      0832  G10  5   XRA  1-8A      B7.9    4.1E-04   8841
+670        0825   0826      0836  LEA  4   FLA  S30W55    SF                8841
+
+680  +     0851   0851      0851  SVI  G   RBR  245       97                    
+
+690  +     0908   0908      0908  SVI  G   RBR  245       150                   
+
+700  +     0914   ////      1112  SVI  C   RSP  035-08    CTM/2                 
+700        0931   ////      0934  SVI  C   RSP  035-08    III/2                 
+
+710  +     1016   1024      1031  GO8  5   XRA  1-8A      C1.5    1.1E-03       
+
+720  +     1058   1101      1105  GO8  5   XRA  1-8A      C1.0    3.8E-04   8851
+720        1101   1101      1104  SVI  3   FLA  N28E39    SF                8851
+
+740  +     1348   1406      1417  GO8  5   XRA  1-8A      C1.4    2.1E-03       
+
+750  +     2227   2231      2234  GO8  5   XRA  1-8A      C1.4    5.1E-04       

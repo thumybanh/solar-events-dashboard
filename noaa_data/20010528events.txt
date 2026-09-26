@@ -1,0 +1,43 @@
+:Product: 20010528events.txt
+:Created: 2001 May 31 0302 UT
+:Date: 2001 05 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9960 +     0550   ////      0550  CUL  C   RSP  20-150    III/1                 
+
+9970       1108   ////      1109  SVI  C   RSP  025-048   III/1                 
+
+9990       1324   ////      1328  SVI  U   RSP  112-156   III/1                 
+
+9980       1328   1329      1329  SVI  G   RBR  245       57                    
+9980       1328   1328      1328  SVI  G   RBR  410       120                   
+
+10   +     1352   1352      1353  SAG  G   RBR  245       88                    
+
+30         1402   1410      1416  GO8  5   XRA  1-8A      B7.2    5.0E-04       
+
+20   +     1449   1449      1450  SAG  G   RBR  245       110                   
+
+40         1459   1459      1501  SAG  G   RBR  245       54                    
+
+50   +     1505   ////      1506  HOL  C   RSP  025-083   III/1                 
+
+60   +     1538   ////      1538  HOL  C   RSP  025-080   III/1                 
+
+70   +     1548   1556      1602  GO8  5   XRA  1-8A      C1.2    7.8E-04       
+
+80   +     1822   1848      1856  GO8  5   XRA  1-8A      C1.3    2.0E-03       
+
+90   +     1906   1906      1906  SAG  G   RBR  245       74                    
+
+100  +     2111   2123      2136  GO8  5   XRA  1-8A      B8.0    1.1E-03       
+
+110  +     2155   2155      2155  PAL  G   RBR  245       88                    

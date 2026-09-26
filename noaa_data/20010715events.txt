@@ -1,0 +1,49 @@
+:Product: 20010715events.txt
+:Created: 2001 Jul 18 0302 UT
+:Date: 2001 07 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jul 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9300 +     0009   0023      0108  LEA  3   FLA  S19W05    1F      ERU       9539
+9300       0015   0023      0029  GO8  5   XRA  1-8A      C7.7    3.6E-03   9539
+
+9330       0046   0048      0052  GO8  5   XRA  1-8A      C2.0    7.2E-04   9539
+
+9340       0504   0508      0510  GO8  5   XRA  1-8A      B6.1    2.1E-04   9543
+9340       0505   0507      0512  LEA  3   FLA  S24E88    SF                    
+
+9350 +     0642   0656      0707  GO8  5   XRA  1-8A      C6.9    6.5E-03   9539
+9350 +     0645   0652      0721  LEA  3   FLA  S19W08    SF      ERU       9539
+9350 +     0650   0651      0657  SVI  G   RBR  410       400               9539
+9350 +     0650   0650      0652  SVI  G   RBR  606       100               9539
+9350 +     0650   0651      0652  SVI  G   RBR  2695      62                9539
+9350 +     0650   0651      0653  SVI  G   RBR  4995      140               9539
+9350 +     0650   0651      0653  SVI  G   RBR  8800      98                9539
+9350 +     0650   0651      0653  SVI  G   RBR  15400     56                9539
+9350 +     0652   0657      0658  SVI  G   RBR  245       190               9539
+9350 +     0657   ////      0658  SVI  C   RSP  025-146   III/1             9539
+
+9360       0735   0736      0801  SVI  3   FLA  S18W10    SF      ERU       9539
+
+9370 +     1135   1140      1152  GO8  5   XRA  1-8A      B9.9    9.1E-04       
+
+9380 +     1352   1408      1435  HOL  3   FLA  S19W10    SF      ERU       9539
+9380 +     1357   1409      1419  GO8  5   XRA  1-8A      C2.4    2.4E-03   9539
+
+9390       1435   1444      1448  HOL  3   FLA  S25E79    SF                    
+
+9400 +     1626   1626      1627  SAG  G   RBR  245       67                    
+
+9550      A1810   ////      1405  RAM  3   DSF  N42E46    16      B.0A          
+
+9410       2036   2043      2054  GO8  5   XRA  1-8A      B5.7    5.8E-04   9533
+9410       2038   2044      2051  HOL  3   FLA  S09W50    SF      ERU       9533
+
+9420 +     2320   2325      2332  GO8  5   XRA  1-8A      B8.6    5.3E-04       

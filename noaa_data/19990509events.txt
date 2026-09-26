@@ -1,0 +1,96 @@
+:Product: 19990509events.txt
+:Created: 1999 May 12 0302 UT
+:Date: 1999 05 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 May 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9570       0004   0004      0027  LEA  4   FLA  N21E69    SF      BPT       8541
+
+9590       0033   ////      0033  PAL  C   RSP  025-05    III/1                 
+
+9600       0035   0044      0103  LEA  4   FLA  N21E69    1F                8541
+9600 +     0036   0047      0058  GO8  5   XRA  1-8A      M1.1    1.2E-02   8541
+9600       0047   ////      0047  PAL  C   RSP  025-06    III/1             8541
+
+9610 +     0251   0257      0303  GO8  5   XRA  1-8A      C2.8    1.9E-03   8541
+9610       0254   0256      0301  LEA  3   FLA  N21E67    SF                8541
+
+9630 +     0402   0403      0429  SVI  G   RNS  410       83                    
+
+9620 +     0432   0436      0441  GO8  5   XRA  1-8A      C2.5    1.3E-03       
+
+9640       0605   0608      0613  LEA  3   FLA  N17W82    SF                8537
+
+9650       0629   0629      0637  LEA  3   FLA  N21E63    SF                8541
+
+9660       0639   0642      0647  LEA  3   FLA  N18W78    SF                8537
+
+9670       0717   ////      0718  SVI  C   RSP  035-08    III/3                 
+
+9680 +     0938   0949      0955  GO8  5   XRA  1-8A      C3.0    2.3E-03       
+
+9630 +     0955  U1620      1916  SAG  G   RNS  245       350                   
+
+9690 +     1037   1041      1049  GO8  5   XRA  1-8A      C3.2    2.0E-03       
+
+9700       1150   1150      1156  RAM  3   FLA  N21W46    SF                8525
+
+9940       1152   1227      1248  GO8  5   XRA  1-8A      M1.0    2.8E-02       
+9940       1205   ////      1206  COM  C   RSP  039-04    III/2                 
+
+9710       1355   1358      1402  HOL  2   FLA  N21E62    SF                8541
+
+9720       1405   1408      1412  G10  5   XRA  1-8A      C3.7    1.4E-03       
+
+9730 +     1534   1535      1539  RAM  3   FLA  N19W89    SF                8537
+
+9740 +     1606   1612      1619  GO8  5   XRA  1-8A      C5.1    2.9E-03   8537
+9740       1609   1609      1614  RAM  3   FLA  N20W89    SF                8537
+
+9750       1643   ////      1643  SAG  C   RSP  030-04    III/1                 
+
+9760       1645   1645      1651  RAM  3   FLA  N20E59    SF                8541
+
+9770       1653   1653      1657  RAM  3   FLA  N12W57    SF                8538
+
+9780 +     1753   1807      1815  GO8  5   XRA  1-8A      M7.6    6.1E-02   8537
+
+9810 +     1754   1755      1808  RAM  3   FLA  N19E29    SF                8535
+
+9820 +     1755   1800      1805  HOL  3   FLA  N21E55    SF                8541
+
+9780 +     1756   1758      1801  SAG  G   RBR  4995      260               8541
+9780 +     1756   1757      1802  SAG  G   RBR  8800      490               8541
+9780 +     1757   1759      1801  SAG  G   RBR  2695      150               8541
+9780 +     1757   1757      1802  SAG  G   RBR  15400     690               8541
+9780 +     1758   1758      1801  COM  G   RBR  1415      70                8537
+9780 +     1801   1802      1803  SAG  G   RBR  245       770               8541
+9780 +     1803   ////      1803  SAG  C   RSP  030-08    III/1             8541
+9780 +     1803   1804      1806  SAG  G   RBR  410       47                8541
+
+9840       1806   1806      1813  RAM  3   FLA  N18W02    SF      ERU       8531
+
+9790       1817   ////      1921  SAG  C   RSP  030-08    CTM/1                 
+
+9800 +     1940   1945      1954  RAM  3   FLA  N20E57    SF                8541
+
+9830 +     2107   2108      2123  HOL  3   FLA  N23E56    SF                8541
+
+9850       2116   2116      2122  HOL  3   FLA  N20W89    SF                8537
+
+9890       2223   2235      2259  HOL  3   FLA  N20E51    SF      ERU       8541
+
+9900       2321   ////      2330  PAL  C   RSP  025-07    III/2                 
+
+9870       2322   2327      2333  HOL  3   FLA  N21E56    SF                8541
+
+9860       2325   2325      2329  HOL  3   FLA  S29E56    SF                8540
+
+9880       2330   2332      2341  HOL  3   FLA  S29E58    SF                8540

@@ -1,0 +1,45 @@
+:Product: 20081103events.txt
+:Created: 2008 Nov 06 2332 UT
+:Date: 2008 11 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2008 Nov 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9870 +     0024   ////      0025  LEA  C   RSP  025-180   III/1                 
+
+9880       0030   ////      0030  CUL  C   RSP  18-90     III/1                 
+
+9890       0103   ////      0103  CUL  C   RSP  18-130    III/2                 
+
+9900 +     0313   0315      0316  LEA  G   RBR  245       230                   
+9900 +     0313   0314      0315  LEA  G   RBR  410       600                   
+
+  10       0436   ////      0439  CUL  C   RSP  20-80     III/1                 
+
+9910 +     0807   ////      0808  LEA  C   RSP  035-106   III/1                 
+
+9920 +     0829   ////      0829  LEA  C   RSP  025-110   III/1                 
+
+9930       1042   1046      1048  G10  5   XRA  1-8A      B2.9    5.2E-05       
+
+9940       1115   1119      1122  G10  5   XRA  1-8A      C1.6    3.5E-04       
+
+9950       1459   ////      1459  SAG  C   RSP  030-148   III/1                 
+
+9960       1922   ////      1922  SAG  U   RSP  030-080   III/1                 
+
+9970       1958   ////      1959  PAL  C   RSP  025-053   V/1                   
+9970       1958   ////      1959  SAG  C   RSP  030-121   III/1                 
+
+9980 +     2155   ////      2155  CUL  C   RSP  18-80     III/1                 
+
+9990       2245   2256      2303  G10  5   XRA  1-8A      B2.4    1.9E-04   1007
+9990 +     2246   ////      2248  LEA  C   RSP  025-180   V/1               1007
+9990 +     2246   ////      2248  CUL  C   RSP  18-130    III/3             1007
+9990       2248   2249      2302  HOL  3   FLA  N37W42    SF      ERU       1007

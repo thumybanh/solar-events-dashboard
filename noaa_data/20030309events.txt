@@ -1,0 +1,67 @@
+:Product: 20030309events.txt
+:Created: 2003 Mar 12 0302 UT
+:Date: 2003 03 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Mar 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1190 +     0002   0007      0010  GO8  5   XRA  1-8A      C2.6    7.3E-04   0304
+1190 +     0004   0005      0005  LEA  G   RBR  410       560               0304
+1190       0004   0005      0005  LEA  G   RBR  2695      32                0304
+1190 +     0005   0007      0014  HOL  3   FLA  S15W31    SF                0304
+
+1220 +     0011   ////      0017  LEA  C   RSP  025-180   III/2             0306
+1220       0015   0015      0019  LEA  3   FLA  N03E59    SF                0306
+1220 +     0016   0017      0017  LEA  G   RBR  410       410               0306
+1220       0016   0017      0017  LEA  G   RBR  606       24                0306
+1220 +     0017   0017      0017  LEA  G   RBR  245       150               0306
+
+1370       0159   ////      0159  CUL  C   RSP  57-80     III/1                 
+
+1230 +     0202   0206      0209  GO8  5   XRA  1-8A      B7.8    2.7E-04   0306
+1230       0205   0207      0212  LEA  3   FLA  N06E64    SF      ERU       0306
+
+1240 +     0230   0230      0231  LEA  G   RBR  245       300                   
+1240 +     0231   ////      0231  CUL  C   RSP  18-250    III/3                 
+
+1250       0243   0243      0243  LEA  G   RBR  245       45                    
+1250 +     0243   ////      0244  CUL  C   RSP  25-180    III/1                 
+
+1260       0247   0247      0247  PAL  G   RBR  245       89                    
+
+1270 +     0336   ////      0342  CUL  C   RSP  30-180    III/1                 
+1270 +     0338   0339      0340  LEA  G   RBR  245       91                    
+
+1280 +     0342   0345      0347  GO8  5   XRA  1-8A      B6.4    1.7E-04   0306
+1280       0344   0344      0348  LEA  3   FLA  N03E61    SF                0306
+
+1290 +     0427   ////      0428  CUL  C   RSP  23-180    III/2                 
+
+1300       0531   0536      0542  G10  5   XRA  1-8A      B8.3    4.6E-04       
+
+1310 +     0641   0647      0650  GO8  5   XRA  1-8A      C4.4    1.3E-03   0304
+1310       0644   0644      0646  LEA  G   RBR  245       120               0304
+1310 +     0644   ////      0647  CUL  C   RSP  25-230    III/3             0304
+1310      B0646   0646      0654  LEA  3   FLA  S18W38    SF      ERU       0304
+1310       0646   ////      0651  CUL  C   RSP  30-130    V/1               0304
+
+1320       0930   ////      0931  LEA  C   RSP  025-180   III/1                 
+
+1330 +     1510   1520      1528  GO8  5   XRA  1-8A      C1.6    1.4E-03   0304
+
+1340 +     1747   1754      1802  GO8  5   XRA  1-8A      C2.0    1.2E-03   0310
+1340 +     1750   1750      1751  SAG  G   RBR  245       160               0310
+1340 +     1750   ////      1752  HOL  C   RSP  025-180   III/2             0310
+1340       1752   1753      1757  RAM  3   FLA  S16W46    SF      ERU       0310
+
+1350 +     2053   2101      2103  GO8  5   XRA  1-8A      C1.2    5.0E-04   0304
+1350 +     2058   2058      2058  PAL  G   RBR  245       60                    
+1350 +     2058   2058      2058  PAL  G   RBR  410       290                   
+
+1360       2242   2250      2254  GO8  5   XRA  1-8A      B6.7    4.0E-04   0297

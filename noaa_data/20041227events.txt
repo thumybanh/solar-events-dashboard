@@ -1,0 +1,42 @@
+:Product: 20041227events.txt
+:Created: 2004 Dec 30 0302 UT
+:Date: 2004 12 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Dec 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9110 +     0432   0439      0446  G12  5   XRA  1-8A      B3.4    2.5E-04       
+9110       0435   0444      0445  G12  5   XFL  N05E79    5.0E+01 8.3E+01       
+
+9120 +     1409   ////      1409  SVI  C   RSP  031-147   III/1                 
+
+9130       1509   1513      1516  G10  5   XRA  1-8A      B1.5    5.9E-05   0713
+
+9140 +     1653   1656      1658  G12  5   XRA  1-8A      B1.9    4.7E-05   0714
+9140       1657   1657      1657  G12  5   XFL  N04W82                      0714
+
+9150 +     1840   1843      1845  G12  5   XRA  1-8A      B2.4    5.8E-05   0715
+9150       1843   1843      1843  G12  5   XFL  N04E90                      0715
+
+9160 +     1918   1921      1924  G12  5   XRA  1-8A      B2.2    7.0E-05   0715
+9160       1921   1921      1923  G12  5   XFL  N04E90                      0715
+
+9170 +     1952   2000      2005  G12  5   XRA  1-8A      B2.7    1.8E-04   0715
+9170       1955   1955      2003  G12  5   XFL  N04E90                      0715
+
+9180 +     2058   2102      2107  G12  5   XRA  1-8A      B3.7    1.7E-04   0713
+9180       2100   2104      2105  G12  5   XFL  S11W66    5.5E+02 1.3E+03   0713
+
+9190       2221   ////      2222  LEA  C   RSP  025-125   III/1                 
+
+9200 +     2235   2240      2243  G12  5   XRA  1-8A      B4.7    1.6E-04   0713
+9200       2239   2242      2249  LEA  3   FLA  S11W82    SF      ERU       0713
+9200       2240   2241      2241  G12  5   XFL  S12W66    6.8E+02 1.8E+03   0713
+
+9210 +     2317   2318      2321  LEA  3   FLA  S11W82    SF      ERU       0713

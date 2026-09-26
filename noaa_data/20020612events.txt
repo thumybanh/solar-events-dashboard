@@ -1,0 +1,96 @@
+:Product: 20020612events.txt
+:Created: 2002 Jun 15 0300 UT
+:Date: 2002 06 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5550       0005   ////      0338  LEA  C   RSP  060-180   CTM/1                 
+
+5370 +     0021   0322      0929  LEA  G   RNS  245       340                   
+
+5220 +     0115   0119      0122  GO8  5   XRA  1-8A      B8.6    3.2E-04       
+
+5230 +     0132   ////      0135  LEA  C   RSP  025-180   III/1                 
+
+5240       0137   0138      0141  LEA  G   RBR  410       84                    
+
+5250 +     0145   ////      0000  CUL  C   RSP  57-100    II/2                  
+5250       0200   0200      0200  LEA  U   RBR  245       400                   
+5250 +     0200   ////      0200  CUL  C   RSP  57-250    III/2                 
+
+5260       0251   ////      0251  CUL  C   RSP  57-300    III/1                 
+
+5270       0328   ////      0333  CUL  C   RSP  57-130    III/1                 
+
+5280       0336   ////      0338  CUL  C   RSP  57-300    III/1                 
+
+5290       0513   ////      0513  SVI  C   RSP  037-052   III/1                 
+
+5300       0520   0520      0520  LEA  G   RBR  410       51                    
+
+5370       0600   0000      1200  IZM  F   RNS  204       40                    
+
+5310 +     0648   0649      0650  SVI  G   RBR  245       570                   
+
+5320       0649   0649      0649  LEA  U   RBR  245       720                   
+5320 +     0649   ////      0651  LEA  C   RSP  025-180   III/3                 
+5320 +     0649   ////      0651  LEA  C   RSP  025-180   V/3                   
+
+5330       0816   ////      0817  SVI  U   RSP  028-058   III/1                 
+
+5340       0835   ////      0836  SVI  U   RSP  028-083   III/1                 
+
+5350       0854   0903      0914  GO8  5   XRA  1-8A      C1.0    9.2E-04       
+5350       0903   ////      0903  SVI  U   RSP  025-084   III/1                 
+
+5360       1048   1048      1048  SVI  U   RBR  410       70                    
+
+5380       1212   ////      1212  SVI  C   RSP  025-038   III/1                 
+
+5500       1219   1237      1251  GO8  5   XRA  1-8A      B4.2    1.5E-03       
+
+5390       1335   ////      1337  SVI  C   RSP  025-060   III/1                 
+
+5400       1342   ////      1343  SVI  C   RSP  025-059   V/1                   
+5400       1342   ////      1343  SAG  C   RSP  030-045   III/1                 
+
+5410       1439   1440      1442  RAM  3   FLA  N16W70    SF                9985
+5410       1449   1456      1503  GO8  5   XRA  1-8A      B5.5    4.5E-04   9985
+
+5420 +     1526   ////      1526  SVI  C   RSP  025-068   III/1                 
+
+5430       1546   ////      1547  SAG  C   RSP  030-045   III/1                 
+
+5440       1622   1622      1622  SVI  G   RBR  245       74                    
+
+5460       1628   ////      1629  SAG  C   RSP  030-040   III/1                 
+
+5450       1629   ////      1629  HOL  C   RSP  025-058   III/1                 
+
+5470       1728   1728      1728  PAL  G   RBR  245       46                    
+
+5480       1849   ////      1855  HOL  C   RSP  025-075   III/1                 
+
+5490 +     2114   2119      2122  GO8  5   XRA  1-8A      C1.5    5.1E-04   9991
+5490 +     2115   2115      2115  PAL  G   RBR  245       380               9991
+5490 +     2115   2115      2115  PAL  G   RBR  410       210               9991
+5490 +     2115   2115      2115  PAL  G   RBR  4995      62                9991
+5490 +     2115   2115      2115  PAL  G   RBR  8800      67                9991
+5490 +     2115   2115      2115  PAL  G   RBR  15400     55                9991
+5490       2116   ////      2116  CUL  C   RSP  57-260    III/1             9991
+5490       2116   2116      2117  SAG  G   RBR  1415      22                9991
+5490       2116   2116      2117  SAG  G   RBR  2695      51                9991
+5490       2117   2122      2126  HOL  3   FLA  S24E05    SF                9991
+
+5520       2223   ////      2223  CUL  C   RSP  57-180    III/1                 
+
+5530       2306   ////      2310  CUL  C   RSP  57-120    III/1                 
+
+5540       2353   ////      2353  CUL  C   RSP  70-180    III/1                 

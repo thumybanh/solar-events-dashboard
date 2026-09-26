@@ -1,0 +1,40 @@
+:Product: 20040402events.txt
+:Created: 2004 Apr 05 0302 UT
+:Date: 2004 04 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Apr 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2330       0016   ////      0029  CUL  C   RSP  20-180    III/1                 
+
+2320       0030   0032      0032  LEA  G   RBR  245       220                   
+2320 +     0030   ////      0033  CUL  C   RSP  18-280    III/3                 
+
+2340 +     0141   ////      0200  CUL  C   RSP  20-200    III/2                 
+
+2350 +     0239   0243      0247  G12  5   XRA  1-8A      B3.7    1.6E-04   0588
+2350       0240   ////      0241  CUL  C   RSP  23-160    III/1             0588
+2350       0243   0243      0243  G12  5   XFL  S16E74                      0588
+
+2360 +     0649   0654      0656  G12  5   XRA  1-8A      B4.6    1.4E-04   0587
+2360 +     0652   0652      0652  LEA  G   RBR  245       82                0587
+2360       0652   0652      0654  SVI  G   RBR  410       150               0587
+2360 +     0652   ////      0655  LEA  C   RSP  025-180   III/2             0587
+2360       0653   0654      0655  G12  5   XFL  S15E15    4.0E+02 1.1E+03   0587
+
+2370 +     1610   1614      1619  G12  5   XRA  1-8A      B2.9    1.4E-04   0582
+2370       1615   1615      1617  G12  5   XFL  N45E04                      0582
+
+2380       1902   1902      1902  PAL  G   RBR  245       69                    
+
+2390       2021   ////      2033  PAL  C   RSP  025-058   III/1                 
+2390       2030   2030      2031  PAL  G   RBR  245       320                   
+
+2400 +     2131   2137      2144  G12  5   XRA  1-8A      B3.5    2.3E-04   0582
+2400       2135   2135      2143  G12  5   XFL  N54E43                      0582

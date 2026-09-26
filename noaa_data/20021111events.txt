@@ -1,0 +1,67 @@
+:Product: 20021111events.txt
+:Created: 2002 Nov 14 0300 UT
+:Date: 2002 11 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Nov 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 550       0007   ////      0009  CUL  C   RSP  57-90     III/1                 
+
+ 560       0037   0037      0043  LEA  3   FLA  S12W49    SF      ERU       0180
+
+ 570 +     0117   0123      0140  GO8  5   XRA  1-8A      C4.9    5.1E-03       
+
+ 580       0235   0236      0238  LEA  2   FLA  S10W51    SF      ERU       0180
+
+ 590       0344   0355      0411  LEA  3   FLA  S11W52    SF      DSD       0180
+ 590       0401   ////      0403  CUL  C   RSP  200-450   III/1             0180
+ 590       0402   0402      0402  LEA  G   RBR  410       280               0180
+
+ 600 +     0648   0651      0700  LEA  3   FLA  S11W54    SF                0180
+
+ 610 +     0725   0733      0739  GO8  5   XRA  1-8A      M2.9    1.4E-02   0180
+ 610 +     0729   0730      0731  LEA  G   RBR  2695      190               0180
+ 610 +     0729   0730      0732  LEA  G   RBR  4995      340               0180
+ 610 +     0729   0730      0731  LEA  G   RBR  8800      550               0180
+ 610 +     0729   0730      0731  LEA  G   RBR  15400     490               0180
+ 610 +     0729   0731      0807  LEA  3   FLA  S12W53    1N      ERU       0180
+ 610 +     0730   0730      0731  LEA  G   RBR  1415      120               0180
+ 610 +     0731   ////      0741  CUL  C   RSP  23-180    III/1             0180
+ 610       0732   0732      0732  SVI  G   RBR  245       27                0180
+
+ 620       1135   1142      1157  RAM  3   FLA  S12W56    SF      ERU       0180
+
+ 630       1225   1254      1310  GO8  5   XRA  1-8A      C7.1    1.4E-02   0180
+ 630 +     1236   1250      1353  RAM  3   FLA  S12W57    1F      ERU       0180
+
+ 640       1411   1416      1418  RAM  3   FLA  S12W59    SF                0180
+
+ 660 +     1437   1445      1455  GO8  5   XRA  1-8A      C6.5    5.8E-03   0180
+ 660       1437   1439      1457  SVI  3   FLA  S07W59    SF      ERU       0180
+
+ 670       1437   1519      1739  RAM  3   FLA  S13W60    1N      ERU       0180
+ 670 +     1511   1620      1645  GO8  5   XRA  1-8A      M1.8    7.2E-02   0180
+ 670       1525   ////      1525  SAG  C   RSP  030-080   III/1             0180
+ 670       1605   1606      1614  SAG  G   RBR  1415      73                0180
+ 670       1605   1611      1618  SAG  G   RBR  2695      230               0180
+ 670       1605   1607      1619  SAG  G   RBR  4995      230               0180
+ 670       1605   1611      1618  SAG  G   RBR  8800      120               0180
+ 670       1605   ////      1618  SAG  C   RSP  030-080   II/3    900       0180
+ 670       1606   1606      1606  SAG  G   RBR  245       51                0180
+ 670       1607   1607      1608  SAG  G   RBR  606       130               0180
+ 670       1607   1610      1613  SAG  G   RBR  15400     45                0180
+ 670       1610   1610      1611  SAG  G   RBR  410       41                0180
+
+ 680       1732   1732      1740  RAM  3   FLA  S14W28    SF                0185
+
+ 700       2155   ////      2155  CUL  C   RSP  50-90     III/1                 
+
+ 690 +     2235   2255      2334  GO8  5   XRA  1-8A      C7.4    2.2E-02   0191
+ 690       2241   2325      0043  LEA  3   FLA  S23E34    SF      ERU       0191
+ 690 +     2255   ////      2256  CUL  C   RSP  18-160    III/1             0191

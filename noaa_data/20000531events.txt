@@ -1,0 +1,57 @@
+:Product: 20000531events.txt
+:Created: 2000 Jun 03 0302 UT
+:Date: 2000 05 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4700 +     0000   0000      0000  LEA  G   RBR  245       91                    
+
+4710       0031   0031      0031  LEA  G   RBR  245       50                    
+
+4720 +     0042   0042      0042  LEA  G   RBR  245       62                    
+
+4740 +     0054   0055      0055  LEA  G   RBR  245       71                    
+
+4750       0057   0057      0058  PAL  U   RBR  245       550                   
+
+4760 +     0059   0100      0101  LEA  G   RBR  245       130                   
+
+4770 +     0138   0144      0159  GO8  5   XRA  1-8A      C3.9    3.5E-03       
+4770       0147   ////      0406  LEA  C   RSP  030-06    CTM/1                 
+4770       0148   0149      0150  LEA  G   RBR  245       53                    
+
+4780       0440   ////      0929  LEA  C   RSP  030-05    CTM/1                 
+
+4920       0550   ////      0640  LEA  3   DSF  N23E01    13      B.0A          
+
+4800       0600   0000      1200       F   RNS  204       60                    
+
+4790 +     0638   0638      0638  LEA  G   RBR  245       120                   
+
+4850       0750   ////      1628  SVI  C   RSP  035-08    CTM/1                 
+
+4800 +     1010   1104      1104  SAG  G   RNS  245       260                   
+
+4820       1335   ////      1335  SAG  C   RSP  030-08    III/1                 
+
+4830 +     1345   1359      1411  GO8  5   XRA  1-8A      C4.8    5.7E-03       
+
+4860       1417   ////      1420  SVI  C   RSP  035-08    III/3                 
+
+4840 +     1418   1418      1419  SAG  G   RBR  245       300                   
+
+4870       1716   ////      1908  RAM  2   DSF  S03E04    10      B.7A          
+
+4880       1738   1825      1944  GO8  5   XRA  1-8A      C3.9    1.9E-02       
+
+4890       2046   ////      2047  HOL  C   RSP  025-15    III/1                 
+4890       2047   2047      2048  SAG  G   RBR  245       94                    
+
+4900 +     2222   2230      2257  GO8  5   XRA  1-8A      C1.4    2.6E-03       

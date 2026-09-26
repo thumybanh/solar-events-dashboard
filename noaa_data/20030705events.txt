@@ -1,0 +1,56 @@
+:Product: 20030705events.txt
+:Created: 2003 Jul 08 0302 UT
+:Date: 2003 07 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jul 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6230 +     0327   0331      0337  G12  5   XRA  1-8A      C1.0    5.4E-04   0397
+
+6240 +     0539   0544      0548  G12  5   XRA  1-8A      C1.0    4.7E-04   0397
+
+6250 +     0550   0553      0555  G12  5   XRA  1-8A      C1.1    3.0E-04   0397
+
+6320       0650   ////      1800  SVI  C   RSP  025-180   CTM/2                 
+
+6260 +     0907   0915      0927  G12  5   XRA  1-8A      C2.3    2.0E-03   0397
+6260       0911   0913      0924  SVI  3   FLA  N13W17    SF      ERU       0397
+
+6270       0935   ////      0935  SVI  C   RSP  025-053   III/1                 
+
+6280 +     1116   1116      1116  SVI  G   RBR  245       69                    
+6280       1116   ////      2100  SAG  C   RSP  030-080   CTM/2                 
+
+6290 +     1236   1245      1255  G12  5   XRA  1-8A      C2.5    2.3E-03   0397
+6290       1239   1246      1249  SVI  3   FLA  N13W20    SF                0397
+
+6390       1319   ////      0153  HOL  C   RSP  038-162   CTM/1                 
+
+6300 +     1508   1508      1508  SAG  G   RBR  245       63                    
+
+6310 +     1531   1531      1532  SAG  G   RBR  245       180                   
+
+6380 +     1536   1602      2019  SAG  G   RNS  245       190                   
+
+6400       1612   ////      0441  PAL  C   RSP  025-180   CTM/1                 
+
+6330 +     1655   1702      1718  G12  5   XRA  1-8A      C3.9    3.8E-03   0397
+6330 +     1657   1700      1721  HOL  3   FLA  N14W22    SF      ERU       0397
+
+6340 +     1935   1946      2044  G12  5   XRA  1-8A      C4.4    1.4E-02   0397
+6340       1940   1944      2018  HOL  3   FLA  N11W26    SF      ERU       0397
+
+6350       2220   ////      2230  SAG  C   RSP  030-080   III/1                 
+
+6360 +     2319   ////      2321  HOL  C   RSP  025-163   III/2                 
+
+6370 +     2330   2335      2338  G12  5   XRA  1-8A      C1.7    5.4E-04   0400
+6370       2333   2333      2339  HOL  3   FLA  N05E20    SF      ERU       0400
+
+6410       2344   ////      0912  LEA  C   RSP  042-180   CTM/2             0400

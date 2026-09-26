@@ -1,0 +1,30 @@
+:Product: 20030513events.txt
+:Created: 2003 May 16 0302 UT
+:Date: 2003 05 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 May 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4210 +     0012   ////      0014  CUL  C   RSP  18-160    III/3                 
+
+4220 +     0134   0138      0141  G10  5   XRA  1-8A      B2.7    8.6E-05       
+4220 +     0136   0137      0137  LEA  G   RBR  245       120                   
+
+4230       0251   ////      0252  CUL  C   RSP  20-180    III/1                 
+
+4240       0646   0646      0646  LEA  G   RBR  245       160                   
+4240       0646   ////      0646  SVI  U   RSP  118-180   III/1                 
+
+4250 +     0814   ////      0814  LEA  C   RSP  025-119   III/1                 
+
+4260       1005   ////      1006  SVI  C   RSP  025-073   III/1                 
+
+4270       1302   ////      1303  SVI  C   RSP  025-073   III/1                 
+
+4280 +     1602   1632      1644  G10  5   XRA  1-8A      B2.7    5.2E-04       

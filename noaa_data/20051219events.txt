@@ -1,0 +1,41 @@
+:Product: 20051219events.txt
+:Created: 2005 Dec 22 0329 UT
+:Date: 2005 12 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7680       0019   0023      0024  LEA  G   RBR  606       200                   
+
+7690 +     0649   0653      0655  G12  5   XRA  1-8A      B4.1    6.5E-05   0837
+7690       0652   0652      0652  G12  5   XFL  S10E02    2.4E+03 9.5E+03   0837
+
+7700 +     1100   1104      1107  G12  5   XRA  1-8A      B1.1    4.2E-05   0837
+7700       1104   1104      1104  G12  5   XFL  S10W00    2.7E+03 9.0E+03   0837
+
+7720 +     1408   1415      1425  G12  5   XRA  1-8A      B3.0    2.2E-04   0837
+7720       1412   1415      1424  G12  5   XFL  S10W02    3.7E+03 1.7E+04   0837
+
+7730 +     1456   1500      1502  G12  5   XRA  1-8A      B2.2    5.8E-05   0837
+7730       1459   1500      1500  G12  5   XFL  S10W02    3.5E+03 1.5E+04   0837
+
+7740 +     1539   1542      1544  G12  5   XRA  1-8A      B1.0    2.8E-05   0837
+7740       1543   1543      1543  G12  5   XFL  S10W03    3.1E+03 9.3E+03   0837
+
+7750       1822   1825      1828  G10  5   XRA  1-8A      B1.4    4.6E-05       
+
+7760 +     2002   2005      2008  G12  5   XRA  1-8A      B1.7    4.6E-05   0837
+7760       2007   2007      2007  G12  5   XFL  S11W05    3.2E+03 1.1E+04   0837
+
+7770       2335   2337      2337  LEA  G   RBR  245       75                    
+7770       2337   2337      2337  LEA  G   RBR  245       67                    
+
+7780 +     2346   2346      2346  PAL  G   RBR  245       54                    
+
+7790       2351   ////      2351  LEA  U   RSP  025-133   III/1                 

@@ -1,0 +1,72 @@
+:Product: 20000807events.txt
+:Created: 2000 Aug 10 0302 UT
+:Date: 2000 08 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+70   +     0357   0401      0403  GO8  5   XRA  1-8A      C1.3    3.5E-04       
+
+80         0420   ////      0420  SVI  C   RSP  035-066   III/1                 
+
+280        0451   ////      0451  CUL  C   RSP  20-120    III/2                 
+
+290  +     0624   ////      0624  CUL  C   RSP  23-140    III/3                 
+
+300        0706   ////      0707  CUL  C   RSP  30-180    III/3                 
+
+90         0736   0736      0737  SVI  G   RBR  245       110                   
+
+100        0747   0748      0748  SVI  G   RBR  245       50                    
+
+110        0851   0852      0856  SVI  G   RBR  245       52                    
+
+120        0912   0912      0913  SVI  G   RBR  245       380                   
+
+130        1012   1012      1012  SVI  G   RBR  245       78                    
+
+140        1018   1018      1019  SVI  G   RBR  245       130                   
+
+150  +     1033   1033      1131  SVI  G   RNS  245       180                   
+
+160        1209   ////      1211  SAG  C   RSP  030-080   III/2                 
+
+170        1247   ////      1248  SAG  C   RSP  030-080   III/2                 
+
+180        1332   ////      1332  SAG  C   RSP  030-060   III/1                 
+
+190        1344   1344      1344  SVI  G   RBR  245       52                    
+
+200        1430   1431      1431  SAG  G   RBR  245       76                    
+
+210        1442   1442      1442  SAG  G   RBR  245       60                    
+
+220        1511   1517      1524  GO8  5   XRA  1-8A      B7.6    5.7E-04   9114
+220        1516   1516      1521  RAM  3   FLA  N13E19    SF                9114
+
+310        1550   ////      2332  SAG  C   RSP  030-070   CTM/1                 
+
+230  +     1645   1646      1646  SAG  G   RBR  245       54                    
+
+240        1728   ////      1730  PAL  C   RSP  025-070   III/1                 
+
+330  +     1750   1750      0230  PAL  G   RNS  245       69                    
+
+250        1946   1946      1947  PAL  G   RBR  410       100                   
+
+260  +     2001   2005      2017  GO8  5   XRA  1-8A      C1.0    8.9E-04       
+
+340        2025   ////      0226  PAL  C   RSP  025-180   CTM/1                 
+
+270  +     2207   2211      2213  GO8  5   XRA  1-8A      C1.0    3.1E-04       
+
+370        2310   ////      0948  LEA  C   RSP  025-180   CTM/1                 
+
+320        2317   2342      0007  GO8  5   XRA  1-8A      C1.6    3.6E-03   9122
+320        2341   2345      0030  HOL  3   FLA  N23E49    SF                9122

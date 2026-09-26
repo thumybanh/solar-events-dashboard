@@ -1,0 +1,75 @@
+:Product: 20011203events.txt
+:Created: 2001 Dec 04 2100 UT
+:Date: 2001 12 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8940       0000   ////      0013  CUL  C   RSP  57-90     CTM/1             9715
+8940       0012   0013      0022  LEA  2   FLA  N07W36    SF      DSD       9715
+
+8950       0016   0016      0020  LEA  2   FLA  S06W21    SF      ERU       9716
+
+8960 +     0232   ////      0232  LEA  C   RSP  025-107   III/1                 
+
+8970       0246   0248      0302  LEA  1   FLA  S07W22    SF      ERU       9716
+
+8980       0556   0557      0600  LEA  2   FLA  S01W42    SF      ERU       9715
+
+8990       0608   0609      0611  LEA  2   FLA  S07W25    SF      ERU       9716
+
+9000       0654   0654      0654  LEA  G   RBR  245       120                   
+
+9010 +     0706   0712      0716  GO8  5   XRA  1-8A      C7.0    2.8E-03   9715
+9010       0709   0710      0711  LEA  G   RBR  4995      35                9715
+9010      B0709   0711      0722  LEA  1   FLA  S02W40    1F      ERU       9715
+9010      B0709   0711      0722  LEA  1   FLA  S02W40    1F      ERU       9715
+9010       0710   0710      0710  LEA  G   RBR  8800      54                9715
+9010       0711   ////      0712  LEA  C   RSP  025-085   III/1             9715
+
+9020       0834   ////      0836  LEA  C   RSP  025-086   III/1                 
+
+9030       0915   0920      0936  SVI  3   FLA  S07E12    SF      ERU       9718
+
+9040       0958   1005      1022  SVI  3   FLA  N04W41    SF      ERU       9715
+
+9050 +     1049   1055      1103  GO8  5   XRA  1-8A      C3.4    2.3E-03   9715
+9050       1052   1055      1102  SVI  3   FLA  N01W43    SF      ERU       9715
+
+9060       1221   1225      1228  RAM  3   FLA  S04W28    SF      ERU       9716
+
+9300      A1344   ////     B0715  SVI  3   DSF  N33W08    17      B.0A          
+
+9070 +     1453   1453      1509  HOL  3   FLA  S05W29    SF      ERU       9716
+
+9080 +     1619   1623      1639  HOL  3   FLA  S06E09    SF      ERU       9718
+9080 +     1620   1625      1629  GO8  5   XRA  1-8A      C3.7    1.8E-03   9718
+
+9310      A1625   ////     B1119  RAM  3   DSF  N21W21    16      B.0A          
+
+9090 +     1701   1709      1717  GO8  5   XRA  1-8A      C4.6    3.5E-03   9718
+9090 +     1703   1706      1734  HOL  3   FLA  S06E08    SF      ERU       9718
+
+9100       1823   1824      1826  HOL  3   FLA  S11W53    SF                9725
+
+9110 +     1829   1835      1843  GO8  5   XRA  1-8A      C6.9    4.6E-03   9718
+9110       1830   1832      1931  HOL  3   FLA  S06E07    SF      ERU       9718
+9110       1831   1831      1831  SAG  G   RBR  4995      64                9718
+9110       1831   1831      1831  SAG  U   RBR  8800      60                9718
+
+9120       1848   1849      1855  HOL  3   FLA  N06W44    SF      ERU       9715
+9120 +     1852   1856      1901  GO8  5   XRA  1-8A      C6.1    3.0E-03   9715
+
+9140       2028   ////      2041  CUL  C   RSP  57-90     III/1                 
+
+9130 +     2034   ////      2035  CUL  C   RSP  57-300    III/3                 
+
+9320      A2317   ////     B1406  HOL  2   DSF  N24W21    13      B.0A          
+
+9150       2339   ////      2345  CUL  C   RSP  57-150    III/1                 

@@ -1,0 +1,75 @@
+:Product: 20010502events.txt
+:Created: 2001 May 05 0302 UT
+:Date: 2001 05 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4820       0023   0029      0039  HOL  3   FLA  N25E41    SF                9445
+
+4830       0031   0031      0036  HOL  3   FLA  N08W17    SF                9441
+
+4840 +     0032   0040      0047  GO8  5   XRA  1-8A      M1.8    1.1E-02   9441
+4840       0033   0036      0039  LEA  G   RBR  4995      210               9441
+4840       0034   0036      0038  LEA  G   RBR  2695      82                9441
+4840       0035   0036      0036  LEA  G   RBR  8800      55                9441
+4840       0035   0036      0036  LEA  G   RBR  15400     25                9441
+
+5010       0043   0047      0054  HOL  3   FLA  N06W19    SF                9441
+
+4860 +     0056   0058      0139  HOL  3   FLA  N06W18    SF                9441
+
+4870       0118   0120      0123  LEA  2   FLA  N28E40    SF      ERU       9445
+4870       0120   0120      0120  LEA  U   RBR  245       58                9445
+
+4880 +     0204   0236      0309  GO8  5   XRA  1-8A      C2.7    9.1E-03   9445
+4880 +     0210   ////      0211  LEA  C   RSP  025-103   III/1             9445
+4880       0233   0233      0300  LEA  2   FLA  N24E35    SF      ERU       9445
+
+4890 +     0515   ////      0516  CUL  C   RSP  23-160    III/1                 
+
+4900       0606   ////      0606  SVI  C   RSP  025-072   III/1                 
+
+4910 +     0626   0633      0643  GO8  5   XRA  1-8A      C8.7    6.0E-03   9441
+4910 +     0628   ////      0628  LEA  C   RSP  051-173   III/1             9441
+4910 +     0628   0630      0633  LEA  G   RBR  4995      91                9441
+4910 +     0628   0630      0702  SVI  3   FLA  N06W22    1F      ERU       9441
+4910 +     0629   0630      0631  LEA  G   RBR  2695      62                9441
+4910 +     0629   0630      0631  LEA  G   RBR  8800      26                9441
+
+4920       0957   0957      0957  SVI  G   RBR  245       73                    
+4920       0957   0957      0957  SVI  G   RBR  410       82                    
+4920       0957   0957      0957  SVI  G   RBR  606       85                    
+4920       0957   ////      0957  SVI  C   RSP  130-170   III/1                 
+
+4930 +     1040   1046      1049  GO8  5   XRA  1-8A      C1.9    8.2E-04       
+4930 +     1041   1041      1042  SVI  G   RBR  410       240                   
+
+4940 +     1053   1056      1108  RAM  3   FLA  N23E29    SF                9445
+
+4950 +     1119   1120      1129  RAM  3   FLA  N07W23    SF      ERU       9441
+
+4960       1127   1128      1134  RAM  3   FLA  N23E30    SF                9445
+
+4970 +     1526   ////      1529  SVI  C   RSP  025-180   III/2                 
+
+4990 +     1708   1720      1734  GO8  5   XRA  1-8A      C1.9    2.6E-03       
+
+5000 +     1746   ////      1747  HOL  C   RSP  025-134   III/1                 
+5000 +     1747   1747      1747  SAG  G   RBR  245       66                    
+
+5020 +     1753   1753      1754  SAG  G   RBR  245       64                    
+
+5030 +     1928   1933      1943  GO8  5   XRA  1-8A      C2.4    1.6E-03       
+
+5040 +     1945   ////      1957  HOL  C   RSP  025-151   III/1                 
+5040 +     1946   1946      1946  PAL  G   RBR  245       89                    
+
+5050 +     2003   2003      2004  PAL  G   RBR  245       170                   
+5050       2003   2005      2005  PAL  G   RBR  410       48                    

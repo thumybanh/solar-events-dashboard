@@ -1,0 +1,18 @@
+:Product: 20041210events.txt
+:Created: 2004 Dec 13 0302 UT
+:Date: 2004 12 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Dec 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7460 +     0742   0746      0752  G12  5   XRA  1-8A      B1.1    6.1E-05       
+7460       0751   0751      0751  G12  5   XFL  N55E90                          
+
+7470 +     0945   0952      1004  G12  5   XRA  1-8A      B1.2    1.3E-04       
+7470       0949   0949      0959  G12  5   XFL  S58W90                          

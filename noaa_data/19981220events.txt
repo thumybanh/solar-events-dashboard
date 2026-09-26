@@ -1,0 +1,55 @@
+:Product: 19981220events.txt
+:Created: 1998 Dec 23 0302 UT
+:Date: 1998 12 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2510       0415   0417      0439  LEA  3   FLA  N24W33    SF                8410
+2510 +     0417   ////      0417  CUL  C   RSP  18-100    III/1             8410
+
+2520       0442   0447      0454  LEA  3   FLA  N24W33    SF                8410
+
+2530 +     0507   0514      0521  GO8  5   XRA  1-8A      C3.4    2.2E-03   8415
+2530       0511   0511      0512  LEA  G   RBR  245       74                8415
+2530       0511   0511      0511  LEA  G   RBR  410       13                8415
+2530       0511   0525      0535  LEA  3   FLA  N20E44    SF                8415
+
+2540 +     0552   0600      0607  GO8  5   XRA  1-8A      C1.5    1.2E-03   8415
+2540       0557   0557      0607  LEA  4   FLA  N18E44    SF      ERU       8415
+
+2550 +     0725   0730      0736  GO8  5   XRA  1-8A      C1.1    6.2E-04       
+
+2560 +     0849   0900      0903  GO8  5   XRA  1-8A      M1.8    6.2E-03   8415
+2560 +     0849   0859      0916  LEA  3   FLA  N21E46    1N                8415
+2560 +     0852   0853      0854  LEA  G   RBR  8800      12                8415
+2560 +     0853   0856      0857  LEA  G   RBR  15400     68                8415
+2560 +     0853   0854      0857  SVI  G   RBR  1415      81                8415
+2560 +     0853   0857      0857  SVI  G   RBR  2695      28                8415
+2560 +     0854   0856      0857  SVI  G   RBR  4995      24                8415
+2560       0856   0859      0901  LEA  G   RBR  606       28                8415
+2560       0857   0857      0857  LEA  G   RBR  410       110               8415
+
+2570       1124   ////      1125  SVI  C   RSP  036-06    III/1                 
+
+2580 +     1234   1238      1243  GO8  5   XRA  1-8A      C2.2    1.0E-03       
+
+2590       1854   1854      1857  RAM  3   FLA  N18E73    SF                8416
+
+2600 +     2028   2028      2033  HOL  3   FLA  N20E89    SF                8416
+
+2650 +     2155   ////      2157  PAL  C   RSP  027-05    III/1                 
+
+2610       2157   2158      2204  HOL  3   FLA  N20E89    SF                8416
+
+2660       2214   ////      2215  CUL  C   RSP  30-90     III/1                 
+
+2620 +     2242   ////      2243  CUL  C   RSP  30-130    III/1                 
+
+2630       2255   ////      2257  PAL  C   RSP  027-05    III/1                 

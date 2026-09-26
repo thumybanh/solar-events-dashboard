@@ -1,0 +1,27 @@
+:Product: 19980918events.txt
+:Created: 1998 Sep 21 0302 UT
+:Date: 1998 09 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Sep 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+940        0002   ////      0002  CUL  C   RSP  23-40     III/1                 
+
+960  +     1154   1203      1219  GO8  5   XRA  1-8A      B4.7    6.3E-04       
+
+970        1301   ////      1302  SAG  C   RSP  030-08    III/2             8339
+970  +    B1305   1314      1321  RAM  3   FLA  S14E35    SF                8339
+
+980  +     1401   1430      1438  SVI  3   FLA  S16E35    SF                8339
+
+990        1439   1439      1449  SVI  3   FLA  S17E33    SF                8339
+
+1000       1509   1511      1524  SVI  3   FLA  S16E35    SF                8339
+
+1010       1625   1625      1631  HOL  3   FLA  S15E32    SF                8339

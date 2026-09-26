@@ -1,0 +1,58 @@
+:Product: 19990813events.txt
+:Created: 1999 Aug 16 0303 UT
+:Date: 1999 08 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+100  +     0600   0605      0610  GO8  5   XRA  1-8A      B9.1    4.3E-04   8662
+100        0603   0603      0607  SVI  3   FLA  S15W20    SF                8662
+
+120  +     0718   0719      0719  SVI  G   RBR  606       57                    
+
+130  +     0745   0752      0757  GO8  5   XRA  1-8A      C3.0    1.3E-03   8662
+130        0745   0750      0755       F   RBR  3000      21                8662
+130  +     0747   0748      0748  SVI  G   RBR  410       140               8662
+130        0747   0749      0750  LEA  U   RBR  245       230               8662
+130        0749   0749      0750  SVI  G   RBR  4995      31                8662
+130        0749   0753      0804  SVI  3   FLA  S15W20    SF      ERU       8662
+
+140  +     1124   1129      1134  GO8  5   XRA  1-8A      B6.6    3.4E-04   8662
+140  +    B1126   1127      1143  RAM  3   FLA  S15W21    SF                8662
+
+150  +     1312   1323      1332  GO8  5   XRA  1-8A      B8.0    8.4E-04   8662
+150        1314   1330      1343  RAM  3   FLA  S16W24    SF                8662
+
+160        1333   1333      1341  RAM  3   FLA  S33W72    SF                8657
+
+170  +     1502   1515      1529  GO8  5   XRA  1-8A      C5.3    5.5E-03       
+
+180  +     1548   1559      1605  GO8  5   XRA  1-8A      C4.2    3.5E-03   8662
+180  +     1550   1555      1616  HOL  3   FLA  S15W26    SF                8662
+
+190  +     1658   1704      1711  GO8  5   XRA  1-8A      C1.4    9.5E-04       
+
+200  +     1927   1933      1951  GO8  5   XRA  1-8A      C3.2    3.5E-03   8662
+200  +     1930   1940      1958  HOL  3   FLA  S13W31    SF      ERU       8662
+
+210  +     2107   2117      2127  GO8  5   XRA  1-8A      C1.7    1.7E-03       
+210  +     2116   2116      2117  PAL  G   RBR  410       97                    
+210        2116   2116      2116  PAL  G   RBR  606       43                    
+210  +     2116   2116      2117  PAL  G   RBR  2695      40                    
+210  +     2116   2116      2117  PAL  G   RBR  4995      71                    
+210  +     2116   2116      2117  PAL  G   RBR  8800      76                    
+210        2116   2116      2117  SAG  G   RBR  15400     46                    
+
+220        2136   2136      2136  SAG  G   RBR  245       110                   
+220        2136   ////      2138  PAL  C   RSP  025-07    V/3                   
+220        2136   ////      2138  SAG  C   RSP  030-08    III/3                 
+
+230        2141   2142      2146  HOL  3   FLA  N21E74    SF                8668
+
+240  +     2331   2334      2336  GO8  5   XRA  1-8A      B5.6    1.4E-04       

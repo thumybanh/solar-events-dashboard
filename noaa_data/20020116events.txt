@@ -1,0 +1,91 @@
+:Product: 20020116events.txt
+:Created: 2002 Jan 19 0300 UT
+:Date: 2002 01 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9090       0149   0150      0203  LEA  2   FLA  S08W79    SF      ERU       9775
+9090       0152   0152      0152  LEA  G   RBR  245       220               9775
+
+9100       0242   ////      0242  CUL  C   RSP  120-750   III/1                 
+
+9110       0243   0243      0243  LEA  G   RBR  410       780                   
+
+9120       0251   ////      0251  CUL  C   RSP  100-450   III/1                 
+
+9130       0306   0306      0310  LEA  1   FLA  S08W80    SF      ERU       9775
+
+9140       0312   0312      0312  LEA  G   RBR  245       54                    
+
+9150       0452   0452      0452  LEA  U   RBR  245       70                    
+
+9160       0518   0518      0519  LEA  U   RBR  245       96                    
+9160       0518   0518      0518  LEA  U   RBR  410       75                    
+9160       0518   ////      0519  CUL  C   RSP  120-420   III/1                 
+
+9170 +     0544   ////      0544  CUL  C   RSP  57-100    III/1                 
+
+9180       0550   0550      0550  LEA  U   RBR  245       290                   
+9180       0550   0550      0550  LEA  U   RBR  410       38                    
+9180       0550   ////      0550  CUL  C   RSP  120-380   III/1                 
+
+9400       0605   ////      0606  CUL  C   RSP  57-180    III/1                 
+
+9410       0719   ////      0736  CUL  C   RSP  57-180    III/1                 
+
+9190       0734   0740      0744  G10  5   XRA  1-8A      C4.3    2.1E-03       
+
+9290       0800   0809      0817  G10  5   XRA  1-8A      C7.1    5.6E-03   9775
+9290       0805   0809      0814  LEA  2   FLA  S07W80    SF      ERU       9775
+
+9200       0813   0813      0817  LEA  2   FLA  N14W89    SF                9773
+
+9210       0903   0908      0919  G10  5   XRA  1-8A      C4.3    3.5E-03   9775
+9210       0917   0918      0921  LEA  2   FLA  S07W85    SF      ERU       9775
+
+9220       0927   0932      0938  G10  5   XRA  1-8A      C6.6    3.3E-03       
+
+9230       1005   1013      1018  G10  5   XRA  1-8A      M1.5    7.7E-03   9775
+9230 +     1009   1010      1020  SVI  3   FLA  S05W75    SF      ERU       9775
+
+9390      A1016   ////     B2259  LEA  2   DSF  N05W18    12      B.0A          
+
+9240       1226   1237      1244  RAM  3   FLA  S06W82    SF      ERU       9775
+
+9250       1319   1320      1320  SAG  G   RBR  410       890                   
+9250       1320   1320      1320  SAG  G   RBR  245       130                   
+
+9260       1351   1413      1438  G10  5   XRA  1-8A      C9.5    2.0E-02       
+
+9270       1502   1508      1513  G10  5   XRA  1-8A      C4.6    2.6E-03       
+
+9280       1525   1529      1532  G10  5   XRA  1-8A      C4.1    1.6E-03   9775
+9280 +     1525   1527     A1545  RAM  3   FLA  S05W83    SF                9775
+
+9370       1542   1557      1608  GO8  5   XRA  1-8A      C5.0    0.0E+00       
+
+9300 +     1650   1655      1712  RAM  3   FLA  S07W88    SF      ERU       9775
+9300       1652   1655      1658  G10  5   XRA  1-8A      C4.3    1.3E-03   9775
+
+9310       1750   1756      1801  G10  5   XRA  1-8A      C6.2    3.0E-03   9773
+9310       1753   1756      1816  HOL  3   FLA  N15W89    SN                9773
+
+9320       1804   1804      1817  RAM  3   FLA  N15W89    SF                9773
+
+9330       1929   1929      1938  RAM  3   FLA  S06W88    SF                9775
+
+9340 +     2000   2005      2019  G10  5   XRA  1-8A      C5.8    5.5E-03   9773
+9340       2005   2005      2028  RAM  3   FLA  N14W79    SF      DSD       9773
+
+9360       2019   2024      2030  G10  5   XRA  1-8A      C9.2    5.0E-03       
+
+9350       2046   2047      2050  RAM  3   FLA  S05W86    SF      DSD       9775
+
+9380       2238   2239      2243  HOL  3   FLA  S05W88    SF                9775

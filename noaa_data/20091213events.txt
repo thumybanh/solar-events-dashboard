@@ -1,0 +1,22 @@
+:Product: 20091213events.txt
+:Created: 2009 Dec 18 2027 UT
+:Date: 2009 12 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2009 Dec 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2590       0917   0925      0928  G14  5   XRA  1-8A      B1.4              1034
+
+2600       1658   1702      1705  G14  5   XRA  1-8A      B1.8    4.8E-05    
+
+2610       1749   1752      1754  G14  5   XRA  1-8A      B1.0    1.5E-05    
+
+2620 +     1838   1843      1845  G14  5   XRA  1-8A      B1.5    4.0E-05   1034
+
+2630 +     1959   2002      2005  G14  5   XRA  1-8A      B1.0    2.3E-05   1034

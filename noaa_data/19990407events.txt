@@ -1,0 +1,66 @@
+:Product: 19990407events.txt
+:Created: 1999 Apr 10 0302 UT
+:Date: 1999 04 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4780       0218   0222      0224  LEA  3   FLA  N10E16    SF                8507
+
+4790       0411   0411      0415  LEA  3   FLA  N10E17    SF                8507
+
+4800 +     0432   0435      0437  GO8  5   XRA  1-8A      C1.1    2.5E-04       
+
+4810 +     0533   0536      0539  GO8  5   XRA  1-8A      C1.2    3.9E-04       
+
+4820       0558   0601      0605  LEA  3   FLA  N10E14    SF                8507
+4820       0600   ////      0605  SVI  C   RSP  035-08    III/2             8507
+4820       0601   ////      1218  SVI  C   RSP  035-08    CTM/2             8507
+
+4830       0612   0613      0620  SVI  3   FLA  N24E35    SF                8508
+
+4840       0810   0811      0811  SVI  G   RBR  245       92                    
+
+4850       0920   0924      0927  GO8  5   XRA  1-8A      C1.3    4.9E-04   8508
+4850       0922   0923      0929  SVI  4   FLA  N20E34    SF                8508
+
+4860       1102   ////      1103  SAG  C   RSP  030-06    III/1                 
+
+4870       1113   1113      1114  SAG  G   RBR  245       50                    
+
+4960       1156   1302      1430  SAG  G   RNS  245       160                   
+
+4880       1234   1236      1246  SVI  4   FLA  N14E37    SF                8509
+
+4900       1238   1243      1247  RAM  4   FLA  N21E31    SF                8508
+
+4910 +     1249   ////      1252  SVI  C   RSP  035-08    III/2                 
+
+4920       1325   1326      1330  RAM  4   FLA  N20E30    SF                8508
+
+4930       1352   ////      1353  SVI  C   RSP  035-08    III/2                 
+
+4940 +     1411   1414      1428  SVI  4   FLA  S20E52    SF      ERU       8511
+
+4970       1924   1925      1925  SAG  G   RBR  245       76                    
+
+4980       1950   1950      1955  SAG  G   RBR  245       62                    
+
+5040       2021   ////      2054  RAM  3   DSF  S08W06    06      B.0A          
+
+4990       2049   2049      2049  SAG  G   RBR  245       57                    
+
+5000       2054   2054      2055  SAG  G   RBR  245       52                    
+
+5010       2119   2121      2126  RAM  3   FLA  S28W48    SF                8506
+
+5020 +     2149   ////      2151  SAG  C   RSP  030-08    III/3                 
+
+5030 +     2208   2208      2213  SAG  G   RBR  245       92                    
+5030       2211   ////      2212  PAL  C   RSP  025-07    III/1                 

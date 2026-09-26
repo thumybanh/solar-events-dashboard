@@ -1,0 +1,25 @@
+:Product: 20010129events.txt
+:Created: 2001 Feb 01 0302 UT
+:Date: 2001 01 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7270       0406   0428      0440  GO8  5   XRA  1-8A      C1.8    2.4E-03   9329
+7270 +     0415   ////      0415  CUL  C   RSP  20-170    III/2             9329
+7270 +     0422   0423      0448  COM  3   FLA  S10E60    SF      ERU       9329
+
+7280 +     1335   1341      1353  GO8  5   XRA  1-8A      C1.6    1.4E-03       
+
+7290      B1525  U1539      1604  HOL  3   FLA  S09E57    SF      ERU       9329
+7290 +     1532   1540      1550  GO8  5   XRA  1-8A      C5.7    3.6E-03   9329
+
+7300       1741   1804      1825  GO8  5   XRA  1-8A      C2.1    4.3E-03       
+
+7310       2204   ////      2205  CUL  C   RSP  20-170    III/1                 

@@ -1,0 +1,20 @@
+:Product: 20061014events.txt
+:Created: 2006 Oct 17 0329 UT
+:Date: 2006 10 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Oct 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6950 +     0214   0218      0220  G12  5   XRA  1-8A      B1.3    2.9E-05       
+
+6960       0749   ////      0749  SVI  C   RSP  025-039   III/1                 
+
+6970 +     0757   0805      0818  G12  5   XRA  1-8A      B1.2    1.3E-04       
+6970 +     0758   ////      0759  SVI  C   RSP  025-081   III/2                 
+6970       0807   0807      0807  G12  5   XFL  S09E61    1.5E+02 6.8E+02       

@@ -1,0 +1,33 @@
+:Product: 20010707events.txt
+:Created: 2001 Jul 10 0302 UT
+:Date: 2001 07 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jul 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8480 +     0322   0331      0337  GO8  5   XRA  1-8A      C9.0    4.4E-03   9530
+8480       0325   ////      0328  LEA  C   RSP  025-180   III/2             9530
+8480       0326   0328      0328  LEA  U   RBR  245       54                9530
+8480       0326   0332      0345  LEA  3   FLA  S20W28    SF      ERU       9530
+8480       0327   0328      0328  LEA  U   RBR  4995      26                9530
+8480 +     0330   ////      0345  LEA  C   RSP  033-153   II/2    440       9530
+
+8490 +     0751   0751      0751  SVI  G   RBR  245       130                   
+
+8500       1452   1506      1514  GO8  5   XRA  1-8A      B4.8    6.0E-04       
+
+8510 +     1832   1837      1841  GO8  5   XRA  1-8A      B3.3    1.6E-04       
+
+8520 +     1925   ////      1926  PAL  C   RSP  025-060   III/1                 
+8520       1925   ////      1926  SAG  C   RSP  030-055   V/1                   
+
+8530 +     2148   2151      2155  GO8  5   XRA  1-8A      B2.6    9.9E-05       
+
+8540 +     2238   2245      2249  GO8  5   XRA  1-8A      B7.3    3.3E-04       
+8540       2239   ////      2240  HOL  C   RSP  025-087   III/1                 

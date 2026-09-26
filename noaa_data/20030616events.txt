@@ -1,0 +1,39 @@
+:Product: 20030616events.txt
+:Created: 2003 Jun 19 0302 UT
+:Date: 2003 06 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jun 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2590       0000   0002      0007  LEA  3   FLA  S17W37    SF                0380
+2590       0000   ////      0007  CUL  C   RSP  20-120    III/3             0380
+
+2580      B0015   ////      0857  LEA  3   LPS  ////      0.06    B.9A      0000
+
+2610 +     0244   0248      0251  G12  5   XRA  1-8A      M1.0    3.6E-03   0386
+
+2620       0337   0337      0345  LEA  3   FLA  S12W48    SF      ERU       0380
+
+2630      B0500   ////      0858  SVI  3   LPS  ////      0.06    B.9A      0000
+
+2640 +     1152   1200      1204  G12  5   XRA  1-8A      M1.7    4.9E-03   0386
+2640       1159   1200      1205  SVI  3   FLA  S12E83    SF      DSD       0386
+
+2660       1355   ////      1551  HOL  3   DSF  ////      18      B.0A      0000
+
+2650 +     1628   1634      1639  G12  5   XRA  1-8A      B9.3    4.8E-04   0386
+2650       1631   1633      1635  HOL  3   FLA  S10E80    SF      ERU       0386
+
+2670 +     1925   1928      1931  G12  5   XRA  1-8A      B5.1    1.6E-04       
+
+2680 +     2151   2156      2200  G12  5   XRA  1-8A      C1.6    5.9E-04   0380
+
+2700       2246   ////      2246  CUL  C   RSP  30-180    III/3                 
+
+2690 +     2247   2252      2256  G12  5   XRA  1-8A      B8.2    3.3E-04       

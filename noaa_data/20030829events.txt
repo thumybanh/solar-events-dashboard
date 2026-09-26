@@ -1,0 +1,41 @@
+:Product: 20030829events.txt
+:Created: 2003 Sep 01 0302 UT
+:Date: 2003 08 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Aug 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5930       0004   0005      0005  LEA  G   RBR  245       72                    
+
+5960       0022   0044      0045  PAL  G   RNS  245       110                   
+
+5940 +     0041   ////      0041  CUL  C   RSP  20-180    III/2                 
+
+5950       0105   0105      0106  PAL  G   RBR  245       93                    
+
+5970       0136   ////      0136  CUL  C   RSP  23-100    III/2                 
+
+5980       0152   ////      0152  CUL  C   RSP  23-70     III/1                 
+
+5990       0205   ////      0205  CUL  C   RSP  23-50     III/1                 
+
+6000       0220   ////      0220  CUL  C   RSP  40-160    III/1                 
+
+6010       0342   ////      0343  CUL  C   RSP  30-90     III/1                 
+
+6020 +     0821   0821      0821  SVI  G   RBR  245       200                   
+
+6030 +     0900   ////      0901  SVI  C   RSP  044-170   III/2                 
+6030 +     0900   0900      0901  SVI  G   RBR  245       270                   
+
+6040       0944   ////      0946  SVI  C   RSP  025-064   III/1                 
+
+6050       1924  U1959      2007  G12  5   XRA  1-8A      C1.0    1.6E-03   0450
+
+6100       1954   ////      2022  COM  3   DSF  ////      17                    

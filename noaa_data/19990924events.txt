@@ -1,0 +1,28 @@
+:Product: 19990924events.txt
+:Created: 1999 Sep 27 0302 UT
+:Date: 1999 09 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9900       0910   ////      0912  SVI  C   RSP  035-04    III/1                 
+
+9910 +     1012   1017      1021  GO8  5   XRA  1-8A      B6.5    2.9E-04       
+
+9930 +     1147   ////      1148  SAG  C   RSP  030-06    III/1                 
+
+9940 +     1319   ////      1327  SVI  C   RSP  035-08    III/2                 
+
+9950       1458   1511      1517  GO8  5   XRA  1-8A      B4.7    4.6E-04   8706
+9950       1506   1510      1519  SVI  3   FLA  N17E17    SF      ERU       8706
+
+9960 +     2014   2015      2017  PAL  G   RBR  245       300               8706
+9960 +     2014   2018      2020  GO8  5   XRA  1-8A      B5.4    1.6E-04   8706
+9960 +     2016   ////      2017  SAG  C   RSP  040-08    III/3             8706
+9960       2016   2018      2022  HOL  3   FLA  N18E15    SF                8706

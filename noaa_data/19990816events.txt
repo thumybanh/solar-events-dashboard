@@ -1,0 +1,66 @@
+:Product: 19990816events.txt
+:Created: 1999 Aug 19 0303 UT
+:Date: 1999 08 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+690  +     0005   ////      0006  CUL  C   RSP  20-180    III/3                 
+
+710        0018   0024      0045  HOL  3   FLA  N19E50    SF                8668
+710  +     0018   0034      0048  GO8  5   XRA  1-8A      C1.3    2.1E-03   8668
+
+720  +     0108   ////      0115  CUL  C   RSP  20-150    III/1                 
+
+730        0153   ////      0153  PAL  C   RSP  040-06    III/1                 
+
+810        0325   ////      0325  CUL  C   RSP  20-110    III/1                 
+
+740        0326   ////      0326  LEA  C   RSP  030-05    III/1                 
+
+820        0412   ////      0415  CUL  C   RSP  30-90     III/1                 
+
+750        0448   ////      0449  LEA  C   RSP  030-04    III/1                 
+
+760  +     0628   ////      0633  SVI  C   RSP  035-08    III/2                 
+
+770        0712   ////      0713  SVI  U   RSP  035-06    III/1                 
+
+780  +     0810   ////      0810  SVI  C   RSP  035-06    III/2                 
+
+790        0900   ////      0901  SVI  U   RSP  035-05    III/1                 
+
+800        1147   1148      1154  RAM  3   FLA  N23E50    SF                8668
+
+830        1156   ////      1200  SVI  C   RSP  035-08    III/2                 
+
+840        1301   ////      1311  SVI  C   RSP  035-08    V/2                   
+
+850  +     1335   1335      1346  HOL  3   FLA  N24E47    SF                8668
+
+860  +     1549   ////      1550  SAG  C   RSP  030-06    III/1                 
+
+870  +     1634   1641      1645  HOL  3   FLA  N24E47    SF                8668
+870  +     1637   1642      1653  GO8  5   XRA  1-8A      B8.1    6.8E-04   8668
+870  +     1639   1639      1640  SAG  G   RBR  245       56                8668
+
+880        1719   ////      1721  PAL  C   RSP  025-05    III/1                 
+
+890  +     1727   1732      1739  GO8  5   XRA  1-8A      B9.7    6.0E-04       
+890  +     1730   1730      1731  SAG  G   RBR  245       200                   
+
+900  +     1851   ////      1851  PAL  C   RSP  025-05    III/2                 
+
+920        2011   ////      2011  PAL  C   RSP  028-05    III/1                 
+
+910        2016   2026      2040  HOL  3   FLA  N24E40    SF      ERU       8668
+910  +     2023   2029      2035  GO8  5   XRA  1-8A      C1.2    7.7E-04   8668
+910        2025   ////      2029  PAL  C   RSP  025-07    III/2             8668
+
+930        2326   ////      2326  LEA  C   RSP  030-04    III/1                 

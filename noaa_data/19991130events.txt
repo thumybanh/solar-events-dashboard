@@ -1,0 +1,64 @@
+:Product: 19991130events.txt
+:Created: 1999 Dec 03 0302 UT
+:Date: 1999 11 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Nov 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8820 +     0158   0201      0204  GO8  5   XRA  1-8A      B9.7    3.2E-04       
+
+8830 +     0308   0313      0318  GO8  5   XRA  1-8A      C1.6    7.7E-04       
+
+8840       0330   0342      0423  LEA  3   FLA  N10W30    1F      BPT       8782
+8840 +     0407   0414      0421  GO8  5   XRA  1-8A      C2.6    1.7E-03   8782
+
+8850       0620   0629      0629  LEA  3   FLA  N10W31    SF                8782
+
+8860 +     0701   0706      0711  GO8  5   XRA  1-8A      C1.8    8.1E-04   8778
+8860       0704   0705      0713  LEA  3   FLA  S16W45    SF                8778
+
+8870       0725   0726      0729  LEA  3   FLA  S12W46    SF                8778
+
+8880       0739   0745      0755  LEA  2   FLA  N10W32    SF                8782
+
+8890       0802   0802      0808  LEA  2   FLA  N10W32    SF                8782
+
+8900 +     0827   0830      0834  GO8  5   XRA  1-8A      C2.3    7.1E-04   8782
+8900 +     0830   0833      0953  LEA  2   FLA  N10W33    1F                8782
+
+8910 +     1108   1113      1117  GO8  5   XRA  1-8A      C1.2    5.9E-04       
+
+8920 +     1215   1225      1238  GO8  5   XRA  1-8A      C1.1    1.4E-03       
+
+8930       1315   1315      1316  SVI  G   RBR  410       59                    
+
+8940 +     1317   1323      1323  SVI  G   RBR  245       130                   
+
+8960       1351   1409      1410  SVI  U   RNS  245       70                    
+
+8950 +     1415   1429      1440  GO8  5   XRA  1-8A      C2.2    2.5E-03   8782
+8950       1425   1425      1437  RAM  3   FLA  N10W35    SF                8782
+
+8970       1519   1519      1519  SAG  G   RBR  245       140                   
+
+8980 +     1602   1608      1613  GO8  5   XRA  1-8A      C1.8    8.7E-04   8782
+8980 +     1605   1608      1615  HOL  3   FLA  N11W37    SF                8782
+
+9000      B1615   ////      1822  RAM  3   DSF  N12E17    09      B.8A          
+
+8990 +     1736   1744      1753  GO8  5   XRA  1-8A      C1.4    1.2E-03   8782
+8990 +     1739   1741      1801  HOL  3   FLA  N11W37    SF                8782
+
+9010       1854   ////      1855  PAL  C   RSP  025-07    III/1                 
+
+9020 +     2229   ////      2230  CUL  C   RSP  18-170    III/1                 
+
+9030       2236   ////      2238  CUL  C   RSP  23-90     III/1                 
+
+9040 +     2340   2345      2348  GO8  5   XRA  1-8A      C2.7    7.9E-04       

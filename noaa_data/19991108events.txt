@@ -1,0 +1,105 @@
+:Product: 19991108events.txt
+:Created: 1999 Nov 11 0303 UT
+:Date: 1999 11 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Nov 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9580       0003   0006      0011  LEA  3   FLA  N38W18    SF                8757
+
+9520       0008   ////      0008  LEA  C   RSP  038-05    III/1                 
+
+9530       0036   0040      0045  LEA  3   FLA  N17E50    SF                8758
+
+9540 +     0050   ////      0051  CUL  C   RSP  20-300    III/1                 
+
+9550       0101   0102      0106  LEA  3   FLA  N14E73    SF                8759
+
+9560 +     0108   ////      0109  CUL  C   RSP  18-90     III/2                 
+
+9570 +     0114   0136      0222  LEA  4   FLA  N38W06    SF      BPT       8757
+9570 +     0152   ////      0153  CUL  C   RSP  23-150    III/2             8757
+
+9590       0239   ////      0240  LEA  C   RSP  030-08    III/3                 
+
+9600       0258   0302      0306  LEA  3   FLA  N20E16    SF                8753
+
+9610       0335   0338      0345  LEA  4   FLA  N20E14    SF      BPT       8753
+
+9620       0438   ////      0440  LEA  C   RSP  030-08    III/3             8760
+9620       0440   0454      0505  LEA  4   FLA  N13E32    SF                8760
+
+9630       0514   0518      0532  LEA  4   FLA  N13E32    SF                8760
+9630       0514   ////      0516  LEA  C   RSP  030-08    III/2             8760
+
+9640       0535   ////      0537  LEA  C   RSP  030-08    III/2                 
+
+9650 +     0555   0602      0609  GO8  5   XRA  1-8A      C5.9    3.4E-03   8749
+9650       0557   0558      0614  LEA  4   FLA  S18W82    SF                8749
+
+9660       0612   ////      0613  LEA  C   RSP  030-08    III/1                 
+
+9670       0627   ////      0629  LEA  C   RSP  030-06    III/1                 
+
+9680       0643   0646      0652  LEA  4   FLA  N09E65    SF                8759
+
+9690       0658   ////      0659  LEA  C   RSP  030-08    III/3                 
+
+9700       0711   ////      0717  LEA  C   RSP  030-08    III/2                 
+
+9720       0826   1113      1516  SVI  G   RBR  1415      13                8760
+9720       0826   1056      1516  SVI  G   RBR  4995      32                8760
+9720       0826   1056      1516  SVI  G   RBR  8800      98                8760
+
+9780       0857   0900      0907  LEA  3   FLA  N13E31    SF                8760
+
+9720       0857   1056      1516  SVI  G   RBR  2695      17                8760
+
+9740       1109   1110      1110  SVI  G   RBR  245       190                   
+9740       1109   1109      1110  SVI  G   RBR  410       25                    
+
+9730 +     1110   1117      1124  GO8  5   XRA  1-8A      C4.6    2.8E-03       
+9730      B1116  U1117     A1139  RAM  3   FLA  N12E28    SN      ERU       8760
+
+9750 +     1149   1153      1201  GO8  5   XRA  1-8A      C2.0    1.2E-03       
+
+9760       1255   1312      1406  G10  5   XRA  1-8A      C3.2    1.2E-02   8759
+9760       1256   1309      1346  RAM  3   FLA  N07E54    SF                8759
+
+9770       1528   ////      1529  SAG  C   RSP  030-05    III/1                 
+
+9790       1544   ////      1545  SAG  C   RSP  030-08    III/3                 
+
+9800 +     1609   1614      1646  HOL  3   FLA  N12E24    SF      ERU       8760
+9800 +     1610   1615      1625  GO8  5   XRA  1-8A      C4.6    3.7E-03   8760
+9800       1612   1614      1616  SAG  G   RBR  245       1300              8760
+9800       1614   ////      1615  SAG  C   RSP  030-08    III/3             8760
+
+9810 +     1703   1707      1712  GO8  5   XRA  1-8A      C4.2    2.0E-03       
+
+9830       1804   1852      1925  GO8  5   XRA  1-8A      C8.5    2.6E-02   8759
+9830 +     1835   1838      1840  SAG  G   RBR  4995      46                8759
+9830       1835   1838      1840  SAG  G   RBR  8800      53                    
+9830 +     1837   1838      1838  SAG  G   RBR  15400     29                8759
+9830 +     1838   1838      1843  PAL  G   RBR  245       94                8759
+9830       1838   1852      1923  HOL  3   FLA  N12E65    SF      ERU       8759
+
+9850       1957   1957      2001  HOL  3   FLA  N21E45    SF                8758
+
+9890 +     2239   0135      0210  LEA  G   RNS  245       190                   
+
+9860       2240   2241      2244  HOL  3   FLA  N10E49    SF                8759
+
+9970       2240   ////      2256  LEA  C   RSP  030-08    CTM/2                 
+
+9870       2325   ////      2325  LEA  C   RSP  040-05    III/1                 
+
+9880 +     2329   2337      2344  LEA  3   FLA  N09E55    SF                8759
+
+9930       2331   ////      0143  LEA  C   RSP  030-08    CTM/2                 

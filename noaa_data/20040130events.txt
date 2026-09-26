@@ -1,0 +1,42 @@
+:Product: 20040130events.txt
+:Created: 2004 Feb 02 0300 UT
+:Date: 2004 01 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jan 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 720 +     1040   1043      1048  G12  5   XRA  1-8A      B5.9    2.6E-04       
+ 720       1043   1046      1047  G12  5   XFL  N13E90    2.3E+03 5.2E+03       
+
+ 730 +     1143   1152      1157  G12  5   XRA  1-8A      C1.4    8.8E-04       
+ 730       1146   1154      1155  G12  5   XFL  N13E85    2.6E+03 8.6E+03       
+
+ 740 +     1221   1225      1228  G12  5   XRA  1-8A      C1.1    3.8E-04       
+ 740       1225   1226      1227  G12  5   XFL  N13E86    2.4E+03 7.8E+03       
+
+ 750 +     1245   1253      1303  G12  5   XRA  1-8A      B8.3    7.8E-04       
+ 750       1249   1251      1302  G12  5   XFL  N13E87    2.2E+03 6.4E+03       
+
+ 760 +     1601   1608      1614  G12  5   XRA  1-8A      C2.1    1.1E-03       
+ 760       1605   1610      1613  G12  5   XFL  N13E85    2.8E+03 1.1E+04       
+
+ 770 +     2007   2011      2016  G12  5   XRA  1-8A      B4.9    2.3E-04       
+ 770       2010   2014      2015  G12  5   XFL  N13E83    1.6E+03 4.1E+03       
+
+ 780 +     2102   2107      2111  G12  5   XRA  1-8A      C1.0    4.1E-04       
+ 780       2105   2106      2111  G12  5   XFL  N13E82    2.2E+03 7.5E+03       
+
+ 790 +     2247   ////      2248  LEA  C   RSP  036-180   III/1                 
+
+ 800       2249   ////      2249  LEA  C   RSP  041-144   III/1                 
+
+ 810       2256   2302      2304  G10  5   XRA  1-8A      B2.3    9.6E-05       
+
+ 820 +     2318   2324      2328  G12  5   XRA  1-8A      B8.0    3.1E-04       
+ 820       2323   2326      2327  G12  5   XFL  N13E81    1.7E+03 5.3E+03       

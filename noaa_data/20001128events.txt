@@ -1,0 +1,59 @@
+:Product: 20001128events.txt
+:Created: 2000 Dec 01 0302 UT
+:Date: 2000 11 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Nov 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4940       0154   0155      0155  LEA  G   RBR  410       150                   
+
+4950       0316   0317      0320  LEA  3   FLA  N20W53    SF                9236
+
+4960       0339   ////      0350  CUL  C   RSP  25-150    III/1                 
+
+4970       0526   0526      0528  LEA  3   FLA  N18W58    SF                9236
+
+4980       0609   ////      0612  LEA  C   RSP  025-180   III/2                 
+
+4990       0655   0700      0701  SVI  G   RBR  15400     74                    
+
+5030       0700   0000      1200       F   RNS  204       15                    
+
+5000       0719   ////      0720  SVI  U   RSP  113-180   III/1                 
+
+5020 +     0955   ////      0956  LEA  C   RSP  077-180   III/1                 
+
+5030       1218  U1226      1238  SAG  G   RNS  245       83                    
+
+5050       1427   1428      1433  RAM  3   FLA  N20E17    SF                9242
+
+5060       1633   1637      1643  HOL  3   FLA  S12E51    SF      ERU       9246
+
+5070       1646   1647      1657  HOL  3   FLA  S12E51    SF      DSF       9246
+
+5460 +    A1653   ////      0649  COM  3   DSF  S45W39    23      B.0A          
+
+5470 +    A1653   ////      0649  COM  3   DSF  S18E38    15      B.0A          
+
+5080       1750   1756      1803  HOL  3   FLA  N21E14    SF      ERU       9242
+
+5090       1804   1811      1818  HOL  3   FLA  N21E15    SF      ERU       9242
+
+5110       1904   1910      1915  GO8  5   XRA  1-8A      C1.3    7.7E-04   9242
+
+5100       1908   ////      1908  HOL  C   RSP  025-147   III/1                 
+
+5110      B1910  U1910      1925  HOL  2   FLA  N19E21    SF                9242
+
+5120       1959   2001      2005  HOL  3   FLA  S12E48    SF                9246
+
+5130       2145   2151      2224  GO8  5   XRA  1-8A      C1.4    2.9E-03   9242
+5130       2151   2151      2200  HOL  3   FLA  N19E14    SF                9242
+
+5140 +     2215   2215      2219  HOL  3   FLA  N20E14    SF                9242

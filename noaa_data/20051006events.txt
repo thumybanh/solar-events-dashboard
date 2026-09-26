@@ -1,0 +1,20 @@
+:Product: 20051006events.txt
+:Created: 2005 Oct 09 0329 UT
+:Date: 2005 10 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Oct 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1320       0404   ////      0405  LEA  C   RSP  025-180   III/2                 
+
+1330       0453   ////      0454  LEA  C   RSP  025-151   III/2                 
+
+1340 +     0558   0603      0606  G12  5   XRA  1-8A      B2.1    8.9E-05       
+
+1350       1321   ////      1514  SVI  C   RSP  025-180   CTM/1                 

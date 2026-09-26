@@ -1,0 +1,73 @@
+:Product: 20000512events.txt
+:Created: 2000 May 15 0302 UT
+:Date: 2000 05 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7750       0023   0023      0023  LEA  G   RBR  245       120                   
+
+7770 +     0213   0213      0214  LEA  G   RBR  245       210                   
+
+8020       0312   0356      0510  LEA  G   RNS  245       68                    
+
+7780       0313   0314      0314  PAL  G   RBR  245       50                    
+
+7790 +     0345   ////      0346  LEA  C   RSP  030-08    III/2                 
+
+7800 +     0430   0434      0438  GO8  5   XRA  1-8A      C4.7    1.5E-03       
+
+7820 +     0737   0737      0737  SVI  G   RBR  245       80                    
+
+7830       0755   0755      0755  SVI  G   RBR  245       85                    
+
+7840       0757   0800      0800  LEA  G   RBR  245       83                    
+
+7850 +     0838   0846      0853  GO8  5   XRA  1-8A      C8.1    5.6E-03       
+
+7860 +     0921   0926      0934  GO8  5   XRA  1-8A      C5.4    3.3E-03       
+
+7870 +     1204   1212      1217  GO8  5   XRA  1-8A      C3.8    2.4E-03       
+
+7880 +     1350   1356      1400  GO8  5   XRA  1-8A      C5.0    2.2E-03       
+
+7900 +     1725   1725      1729  SAG  G   RBR  245       160                   
+
+7910 +     1746   1748      1748  SAG  G   RBR  245       69                    
+7910 +     1747   ////      1747  PAL  C   RSP  030-05    III/1                 
+
+7930       2009   2009      2016  RAM  3   FLA  S19W33    SF      ERU       8993
+
+7940 +     2040   2052      2055  GO8  5   XRA  1-8A      C2.8    2.1E-03       
+
+8200 +    A2110   ////      1026  RAM  3   DSF  N51E35    06      B.0A          
+
+8210      A2110   ////      1026  RAM  3   DSF  S42W11    09      B.0A          
+
+7950 +     2128   2144      2208  GO8  5   XRA  1-8A      C9.8    1.8E-02   8998
+7950       2134   2135      2217  HOL  3   FLA  S15E81    SF                8998
+
+8000       2211   2304      0008  HOL  3   FLA  N14W24    1F      ERU       8989
+
+7960       2242   2244      2247  GO8  5   XRA  1-8A      C6.6    1.9E-03   8996
+7960       2243   2244      2251  HOL  3   FLA  S21E74    SF                8996
+
+7970 +     2314   2316      2317  PAL  G   RBR  1415      110               8993
+7970       2314   2320      2349  HOL  3   FLA  S23W31    SF                8993
+
+8430       2316   ////      2326  CUL  U   RSP  25-170    II/1    581           
+
+7980       2318   2319      2319  LEA  U   RBR  2695      24                    
+7980       2319   ////      2325  PAL  C   RSP  025-18    III/1                 
+
+7990 +     2320   2324      2327  PAL  G   RBR  4995      59                    
+7990       2321   2324      2328  PAL  G   RBR  1415      35                    
+7990 +     2321   2321      2327  PAL  G   RBR  2695      53                    
+7990       2321   2321      2328  PAL  G   RBR  8800      23                    
+7990 +     2323   2329      2337  GO8  5   XRA  1-8A      M1.0    7.4E-03   8998

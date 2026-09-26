@@ -1,0 +1,41 @@
+:Product: 20010316events.txt
+:Created: 2001 Mar 19 0302 UT
+:Date: 2001 03 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Mar 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1870       0000   ////      0218  CUL  C   RSP  30-160    CTM/2                 
+
+1850       0024   ////      0025  LEA  C   RSP  025-064   III/1                 
+
+1880 +     0633   0640      0647  GO8  5   XRA  1-8A      C1.3    9.0E-04       
+
+1900       0950   0955      1000  GO8  5   XRA  1-8A      B5.8    3.2E-04       
+
+1910 +     1033   1041      1049  GO8  5   XRA  1-8A      C5.4    3.2E-03   9373
+1910 +     1036   1042      1059  SVI  3   FLA  S06W15    SN      ERU       9373
+1910       1036   1041      1055       F   RBR  3000      20                9373
+
+1920       1502   1508      1511  GO8  5   XRA  1-8A      C1.2    6.2E-04   9373
+1920 +     1504   1508      1513  RAM  3   FLA  S07W15    SF      ERU       9373
+1920       1510   ////      1511  SVI  U   RSP  030-153   III/1             9373
+
+1930 +     1548   1554      1601  GO8  5   XRA  1-8A      C1.7    1.1E-03   9384
+1930 +     1550   1554      1609  HOL  3   FLA  N09W20    SF      ERU       9384
+
+1940       1924   1924      1929  RAM  3   FLA  S07W20    SF                9373
+
+1950       1948   2000      2004  GO8  5   XRA  1-8A      B8.5    8.0E-04   9373
+1950       1950   1950      2003  RAM  3   FLA  S07W18    SF                9373
+
+1960 +     2042   2048      2053  GO8  5   XRA  1-8A      C2.4    1.0E-03       
+
+1970       2305   ////      2307  HOL  C   RSP  025-085   III/1                 
+1970 +     2305   2314      2323  GO8  5   XRA  1-8A      B6.6    6.1E-04       

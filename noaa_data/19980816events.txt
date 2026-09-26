@@ -1,0 +1,57 @@
+:Product: 19980816events.txt
+:Created: 1998 Aug 19 0303 UT
+:Date: 1998 08 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Aug 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2460       0004   ////      0007  CUL  C   RSP  20-90     III/1                 
+
+2320       0015   0015      0015  PAL  G   RBR  245       99                    
+
+2470       0100   ////      0101  CUL  C   RSP  20-180    III/1                 
+
+2330 +     0155   ////      0158  CUL  C   RSP  20-90     III/1                 
+
+2480       0348   ////      0352  CUL  C   RSP  30-180    III/1                 
+
+2340       0350   ////      0351  LEA  C   RSP  030-05    III/1                 
+
+2350 +     0531   ////      0532  SVI  C   RSP  040-05    III/2                 
+
+2360 +     0621   ////      0621  SVI  C   RSP  035-05    III/2                 
+
+2370 +     0635   ////      0635  SVI  C   RSP  035-04    III/2                 
+
+2380 +     0716   ////      0716  SVI  C   RSP  035-06    III/2                 
+
+2390       0825   ////      0827  SVI  C   RSP  035-06    III/2                 
+
+2400       1003   1012      1025  G10  5   XRA  1-8A      C1.2    1.4E-03       
+
+2410 +     1157   1159      1201  SVI  3   FLA  N17W32    SF                8299
+
+2420 +     1456   1500      1505  GO8  5   XRA  1-8A      C1.1    5.3E-04       
+2420 +     1457   ////      1458  SVI  C   RSP  035-08    III/2                 
+
+2430       1540   ////      1541  SAG  C   RSP  030-08    III/1                 
+
+2610       1736   ////      1737  SAG  C   RSP  030-05    III/1                 
+
+2440 +     1737   1821      1859  GO8  5   XRA  1-8A      M3.1    1.0E-01       
+2440 +     1739   1744      1802  SAG  G   RBR  2695      99                    
+2440 +     1747   ////      1758  SAG  C   RSP  030-08    II/3    800           
+2440 +     1747   ////      1758  SAG  C   RSP  030-08    II/3    800           
+2440       1758   ////      1856  SAG  C   RSP  030-08    IV/3                  
+
+2450       2029   ////      2030  PAL  C   RSP  030-06    III/1                 
+
+2440       2159   ////      0200  HOL  3   LPS  N32E90    .10                   
+
+2550       2212   ////      0445  PAL  C   RSP  025-04    CTM/1                 

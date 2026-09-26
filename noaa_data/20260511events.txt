@@ -1,0 +1,60 @@
+:Product: 20260511events.txt
+:Created: 2026 May 14 0357 UT
+:Date: 2026 05 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2570       0010   0010      0010  LEA  G   RBR  245       310                   
+
+2580 +     0045   0052      0058  G18  5   XRA  1-8A      C1.0    7.9E-04   4432
+
+2590       0248   0248      0248  LEA  G   RBR  245       100                   
+
+2600       0256   0256      0256  LEA  G   RBR  245       120                   
+
+2610      U0358  U0358      0358  LEA  G   RBR  245       330                   
+
+2620 +     0621   0628      0632  G18  5   XRA  1-8A      B7.1    4.6E-04   4436
+
+2730      A0700   ////     A0753  SVI  3   DSF  S45E06    25                    
+
+2630       0719   0719      0719  SVI  G   RBR  245       150                   
+
+2640 +     0821   0832      0841  G18  5   XRA  1-8A      C1.4    1.4E-03   4432
+
+2650 +     0946   0957      1013  G18  5   XRA  1-8A      B9.3    1.4E-03   4431
+
+2660       1024   ////      1100  SAG  C   RSP  025-180   VI/1                  
+2660       1041   ////      1045  SVI  C   RSP  025-083   III/1                 
+
+2710       1139   ////      1401  SAG  C   RSP  112-180   CTM/1                 
+
+2670 +     1149   1154      1159  G18  5   XRA  1-8A      C1.2    7.2E-04   4432
+2670 +     1155   ////      1158  SVI  C   RSP  025-152   III/2                 
+
+2680       1203   ////      1236  SVI  C   RSP  125-180   CTM/1                 
+
+2690 +     1246   1252      1258  G18  5   XRA  1-8A      B9.0    8.5E-04   4432
+
+2700 +     1258   1303      1305  G18  5   XRA  1-8A      B8.7    5.1E-04   4432
+
+2720 +     1405   1415      1417  G18  5   XRA  1-8A      C1.8    9.8E-04   4432
+2720       1406   1407      1412  HOL  3   FLA  N10W72    SF      ERU       4432
+2720 +     1412   ////      1416  SVI  C   RSP  025-180   III/2             4432
+
+2740       1547   ////      1606  SVI  C   RSP  025-180   VI/2                  
+
+2750       1809   1822      1819  HOL  3   FLA  S14W31    SF      ERU       4433
+
+2760       1840   1841      1844  HOL  3   FLA  N18W67    SF                4432
+
+2780       1925   ////      2218  HOL  3   EPL  ////      0.19                  
+
+2770 +     1932   ////      1933  SAG  C   RSP  025-137   III/1                 

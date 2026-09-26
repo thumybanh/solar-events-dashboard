@@ -1,0 +1,18 @@
+:Product: 20041002events.txt
+:Created: 2004 Oct 05 0302 UT
+:Date: 2004 10 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Oct 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5350 +     1327   1332      1342  G12  5   XRA  1-8A      B1.5    1.0E-04   0675
+5350       1335   1335      1339  G12  5   XFL  S11W14                      0675
+
+5360 +     1413   1420      1424  G12  5   XRA  1-8A      B1.6    8.6E-05   0675
+5360       1417   1422      1423  G12  5   XFL  S11W14    2.0E+02 3.9E+02   0675

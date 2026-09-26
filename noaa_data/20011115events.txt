@@ -1,0 +1,66 @@
+:Product: 20011115events.txt
+:Created: 2001 Nov 18 0300 UT
+:Date: 2001 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3860       0019   0020      0020  LEA  G   RBR  606       23                    
+
+3870       0111   0111      0112  LEA  G   RBR  245       76                    
+
+3880 +     0113   0119      0125  GO8  5   XRA  1-8A      C2.6    1.7E-03   9690
+3880       0115   0117      0136  LEA  3   FLA  S16W46    SF                9690
+
+3890       0204   0204      0204  LEA  G   RBR  245       150                   
+
+4030       0440   ////      0441  CUL  C   RSP  57-90     III/1                 
+
+4040       0500   ////      0500  CUL  C   RSP  57-80     III/1                 
+
+4050       0507   ////      0507  CUL  C   RSP  57-90     III/1                 
+
+4060       0612   ////      0612  CUL  C   RSP  57-80     III/1                 
+
+3900       0625   0626      0634  LEA  3   FLA  N22E11    SF      ERU       9703
+
+4070       0656   ////      0656  CUL  C   RSP  57-180    III/1                 
+
+3910      B0718   0718     A0727  SVI  2   FLA  S19W53    SF      ERU       9690
+3910       0723   ////      0725  CUL  C   RSP  100-180   III/1             9690
+
+3920       0739   0740      0745  LEA  3   FLA  S18W54    SF                9690
+3920       0740   ////      0742  CUL  C   RSP  57-80     III/1             9690
+
+3960       1122   ////      1243  SVI  C   RSP  073-180   CTM/1                 
+
+3930       1122   1126      1134  GO8  5   XRA  1-8A      C1.7    1.1E-03   9704
+3930       1123   1124      1124  SVI  G   RBR  4995      25                9704
+3930       1123   1124      1125  SVI  G   RBR  8800      41                9704
+3930 +     1124   1124      1124  SVI  G   RBR  245       67                9704
+3930 +     1124   1124      1124  SVI  G   RBR  410       24                9704
+3930       1124   1124      1124  SVI  G   RBR  1415      24                9704
+3930       1124   1124      1124  SVI  G   RBR  2695      37                9704
+3930       1124   1124      1130  SVI  3   FLA  S15E65    SF                9704
+
+3940       1529   1529      1529  SAG  G   RBR  245       90                    
+
+3950       1640   1640      1640  SAG  G   RBR  245       61                    
+
+3970       1645   1645      1649  SAG  G   RBR  410       120                   
+
+3980 +     1715   1715      1715  SAG  G   RBR  410       62                9690
+3980       1715   1721      1729  GO8  5   XRA  1-8A      C1.7    1.3E-03   9690
+3980       1720   1722      1743  RAM  3   FLA  S17W53    SF      ERU       9690
+
+4000       1839   1839      1839  SAG  G   RBR  245       53                    
+
+4010 +     2054   2103      2117  GO8  5   XRA  1-8A      C2.5    3.0E-03       
+
+4020       2302   2304      2304  LEA  G   RBR  410       160                   

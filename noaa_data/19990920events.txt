@@ -1,0 +1,47 @@
+:Product: 19990920events.txt
+:Created: 1999 Sep 23 0303 UT
+:Date: 1999 09 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9440      A0021   ////      1402  HOL  3   DSF  S24E13    16      B.0A          
+
+9380       0052   0057      0102  GO8  5   XRA  1-8A      C1.3    7.2E-04       
+
+9390       0122   0139      0152  GO8  5   XRA  1-8A      C2.5    3.5E-03       
+
+9400       0254   0312      0321  GO8  5   XRA  1-8A      C2.4    3.1E-03       
+
+9320       0512   ////      0514  LEA  C   RSP  030-04    III/1                 
+
+9330 +     0546   0550      0610  GO8  5   XRA  1-8A      C2.8    3.6E-03       
+
+9340 +     0658   ////      0706  LEA  C   RSP  030-05    III/1                 
+
+9350 +     0740   ////      0741  LEA  C   RSP  030-05    III/1                 
+
+9410 +     1307   1324      1330  GO8  5   XRA  1-8A      C2.6    2.8E-03       
+9410 +     1310   1325      1340  SVI  3   FLA  N11W13    SF      ERU       8700
+
+9420       1403   ////      1403  SAG  C   RSP  030-05    III/1                 
+
+9430 +     1421   1429      1442  GO8  5   XRA  1-8A      C1.6    1.8E-03       
+
+9450       1715   ////      1715  SAG  C   RSP  030-05    III/1                 
+
+9460       2033   2034      2036  HOL  3   FLA  N12W21    SF                8700
+
+9470       2057   2058      2101  HOL  3   FLA  N11W19    SF                8700
+
+9480       2317   ////      2320  LEA  C   RSP  030-08    III/1                 
+
+9490 +     2317   ////      2323  CUL  C   RSP  18-100    III/1                 
+
+9480 +     2318   2332      2350  GO8  5   XRA  1-8A      C1.3    2.3E-03       

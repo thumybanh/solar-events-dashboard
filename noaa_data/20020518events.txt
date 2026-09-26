@@ -1,0 +1,76 @@
+:Product: 20020518events.txt
+:Created: 2002 May 21 0300 UT
+:Date: 2002 05 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9400       0244   ////      0245  LEA  C   RSP  025-142   III/1                 
+
+9410 +     0430   ////      0432  LEA  C   RSP  025-146   III/1                 
+
+9420       0500   ////      0502  LEA  C   RSP  025-180   III/1                 
+
+9430       0530   ////      0530  LEA  C   RSP  025-180   III/1                 
+
+9440       0700   ////      0701  LEA  C   RSP  025-180   III/1                 
+
+9450       0830   ////      0830  LEA  C   RSP  025-180   III/1                 
+
+9460 +     0917   ////      0918  SVI  C   RSP  025-124   III/2             9957
+9460 +     0918   0925      0935  GO8  5   XRA  1-8A      C2.6    2.0E-03   9957
+9460       0922   0925      0945  SVI  3   FLA  N12E61    SF      ERU       9957
+9460       0930   ////      1027  SVI  C   RSP  112-153   CTM/1             9957
+
+9470       0939   0939      0939  SVI  G   RBR  245       51                    
+
+9480       0947   0949      0953  SVI  3   FLA  N13E85    SF                    
+
+9550       1025   0000      1200  IZM  F   RNS  204       10                    
+
+9510       1042   1139      1209  GO8  5   XRA  1-8A      C3.0    1.1E-02   9955
+
+9490       1106   1106      1106  SAG  G   RBR  245       78                    
+
+9500       1114   1114      1129  RAM  4   FLA  S14E36    SF      ERU       9955
+
+9510 +     1130   1139      1154  RAM  4   FLA  S17E36    SF      ERU       9955
+9510       1131   1133      1134  SVI  U   RBR  606       32                9955
+9510       1132   ////      1446  SVI  C   RSP  025-180   CTM/1             9955
+9510 +     1133   1133      1133  SAG  G   RBR  410       52                9955
+
+9550 +     1144   1330      1523  SAG  G   RNS  245       240                   
+
+9520       1236   1239      1242  G10  5   XRA  1-8A      C2.5    8.3E-04       
+
+9530       1248   1249      1253  SVI  3   FLA  N12E80    SF                    
+
+9580       1254   ////      1700  HOL  C   RSP  065-180   CTM/1                 
+
+9540       1323   ////      1325  SVI  C   RSP  025-146   V/1                   
+9540 +     1324   ////      1325  SAG  C   RSP  030-055   III/2                 
+
+9560 +     1535   ////      1536  HOL  C   RSP  025-180   III/1             9957
+9560 +     1537   1542      1553  RAM  4   FLA  N11E54    SF      ERU       9957
+9560 +     1540   1544      1548  GO8  5   XRA  1-8A      C3.4    1.4E-03   9957
+
+9590       1630   ////      1737  SVI  C   RSP  124-153   CTM/1             9957
+9590       1707   1707      1711  HOL  3   FLA  N12E53    SF                9957
+9590       1718   1718      1718  SVI  U   RBR  245       70                9957
+
+9600 +     1824   1829      1833  GO8  5   XRA  1-8A      C2.2    1.0E-03   9957
+9600       1826   1828      1836  HOL  3   FLA  N11E53    SF                9957
+
+9630       1906   ////      0138  HOL  C   RSP  040-180   CTM/1                 
+
+9610       2057   2057      2057  PAL  G   RBR  245       81                    
+
+9620 +     2122   2126      2131  GO8  5   XRA  1-8A      C1.4    6.3E-04       
+
+9640       2307   ////      0933  LEA  C   RSP  039-180   CTM/1                 

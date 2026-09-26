@@ -1,0 +1,20 @@
+:Product: 20040905events.txt
+:Created: 2004 Sep 08 0302 UT
+:Date: 2004 09 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Sep 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2460       0000   ////      0000  CUL  C   RSP  20-90     CTM/1                 
+
+2470       0555   ////      0555  CUL  C   RSP  27-160    III/1                 
+
+2450 +     2058   2058      2058  PAL  G   RBR  245       82                    
+
+2480       2158   ////      2203  CUL  C   RSP  120-180   III/1                 

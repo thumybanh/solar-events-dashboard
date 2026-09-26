@@ -1,0 +1,58 @@
+:Product: 20050824events.txt
+:Created: 2005 Aug 27 0329 UT
+:Date: 2005 08 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Aug 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6740       0000   ////      0000  CUL  C   RSP  23-60     CTM/1                 
+
+6690       0101   0101      0104  LEA  3   FLA  N16W07    SF      PRB       0800
+
+6700 +     0154   ////      0154  CUL  C   RSP  18-140    III/3                 
+
+6710 +     0155   0201      0207  G12  5   XRA  1-8A      C2.2    1.2E-03       
+6710       0158   0206      0206  G12  5   XFL  N12E85    2.9E+03 1.0E+04       
+6710 +     0206   ////      0206  CUL  C   RSP  20-60     III/3                 
+
+6720 +     0244   0248      0256  G12  5   XRA  1-8A      B9.6    5.7E-04   0800
+6720       0248   0248      0254  G12  5   XFL  N18W09    8.5E+02 2.4E+03   0800
+
+6730 +     0407   0411      0418  G12  5   XRA  1-8A      C1.2    7.0E-04       
+6730       0410   0410      0416  G12  5   XFL  N12E84    1.7E+03 3.8E+03       
+
+6750       0440   ////      1014  SVI  C   RSP  025-180   CTM/1                 
+
+6840       0605   ////      0000  CUL  C   RSP  23-60     CTM/1                 
+
+6770       0613   0613      0613  LEA  G   RBR  8800      51                    
+6770       0613   0613      0614  LEA  G   RBR  15400     56                    
+
+6760 +     0613   0706      0728  G12  5   XRA  1-8A      C4.7    1.3E-02   0798
+6760       0616   0619      0619  SVI  U   RBR  606       66                0798
+6760 +     0616   0616      0616  LEA  G   RBR  4995      59                0798
+6760 +     0616   0616      0617  LEA  G   RBR  8800      200               0798
+6760 +     0616   0616      0617  LEA  G   RBR  15400     340               0798
+6760       0616   0718      0726  G12  5   XFL  S11W90    7.0E+03 2.3E+04   0798
+
+6780       1020   ////      1020  SVI  C   RSP  025-040   III/1                 
+
+6790       1733   1734      1734  PAL  G   RBR  410       520                   
+
+6800       1758   ////      1801  SAG  C   RSP  030-069   III/1                 
+
+6810       1921   ////      1922  SAG  C   RSP  030-059   III/1                 
+
+6820       2013   2016      2021  G10  5   XRA  1-8A      B5.4    2.3E-04       
+
+6830       2035   2039      2047  G10  5   XRA  1-8A      B4.4    2.9E-04       
+
+6850       2134   ////      2134  CUL  C   RSP  30-57     III/1                 
+
+6970       2339   ////      0135  LEA  C   RSP  080-180   CTM/1                 

@@ -1,0 +1,90 @@
+:Product: 20021023events.txt
+:Created: 2002 Oct 26 0300 UT
+:Date: 2002 10 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Oct 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4670       0007   ////      0007  CUL  C   RSP  35-70     III/1                 
+
+4620       0027   0109      0116  GO8  5   XRA  1-8A      C3.5    5.5E-03   0162
+
+4750       0047   0116      0145  LEA  3   FLA  S04W62    SF      ERU       0158
+
+4620       0101   0101      0104  LEA  3   FLA  N25E22    SF      ERU       0162
+4620 +     0111   ////      0112  LEA  C   RSP  025-180   III/1             0162
+
+4750       0117   0232      0247  GO8  5   XRA  1-8A      C6.6    1.9E-02   0158
+
+4630 +     0242   ////      0242  CUL  C   RSP  18-180    III/2                 
+
+4640       0259   0300      0300  LEA  G   RBR  410       68                    
+
+4650       0409   0409      0409  LEA  G   RBR  245       440                   
+4650       0409   0409      0409  LEA  G   RBR  410       74                    
+4650 +     0409   ////      0410  CUL  C   RSP  18-430    III/3                 
+
+4680       0604   ////      0606  SVI  C   RSP  025-155   III/1                 
+
+4690       0634   0635      0641  LEA  3   FLA  S16W60    SF                0160
+
+4700       0715   0715      0715  SVI  G   RBR  410       57                    
+
+4710       0719   0719      0721  SVI  G   RBR  410       52                    
+
+4720 +     0758   0759      0759  SVI  G   RBR  245       75                    
+4720       0758   0759      0759  SVI  G   RBR  410       30                    
+
+4730       0836   ////      0838  LEA  C   RSP  025-180   III/2                 
+4730 +     0837   0837      0837  SVI  G   RBR  245       98                    
+4730       0837   ////      0838  SVI  C   RSP  025-180   V/2                   
+
+4740       1210   ////      1221  SVI  C   RSP  025-180   V/2                   
+4740       1221   1221      1221  SAG  G   RBR  245       690                   
+4740       1221   ////      1221  SAG  C   RSP  030-080   III/2                 
+
+4760 +     1445   ////      1445  HOL  C   RSP  025-150   III/1                 
+
+4780       1523   1624      1700  GO8  5   XRA  1-8A      C3.2    1.2E-02   0165
+4780 +     1538   1616      1716  RAM  3   FLA  N20E37    SF      ERU       0165
+
+4770       1549   1549      1549  SAG  G   RBR  1415      84                    
+
+4790       1746   ////      1748  HOL  C   RSP  025-130   III/1                 
+
+4800       1809   ////      1809  HOL  C   RSP  025-180   III/1                 
+
+4810 +     1927   ////      1929  HOL  C   RSP  025-180   III/1                 
+4810 +     1929   1929      1929  SAG  G   RBR  245       260                   
+
+4960 +     1952   0849     U1020  COM  G   RNS  245       1400                  
+
+4820       1957   1957      1957  SAG  G   RBR  410       75                    
+
+4830       2003   2003      2004  SAG  G   RBR  410       100                   
+
+4960 +     2003   0041      0755  COM  G   RNS  410       110                   
+
+4840       2007   2008      2008  PAL  G   RBR  410       100                   
+
+4850 +     2009   2014      2016  SAG  G   RBR  245       1000                  
+
+4860       2025   2027      2032  SAG  G   RBR  245       990                   
+
+4870       2309   ////      2309  LEA  C   RSP  025-180   III/1                 
+
+4880 +     2323   ////      2325  LEA  C   RSP  025-180   III/1                 
+
+4890       2335   2335      2336  LEA  G   RBR  245       78                    
+
+4900       2339   2340      2340  LEA  G   RBR  245       92                    
+
+4910       2344   2344      2345  LEA  G   RBR  245       95                    
+
+4660 +     2349   0800      1004  LEA  G   RNS  245       790                   

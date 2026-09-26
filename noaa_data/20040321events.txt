@@ -1,0 +1,45 @@
+:Product: 20040321events.txt
+:Created: 2004 Mar 24 0302 UT
+:Date: 2004 03 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Mar 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9920       0002   0009      0023  HOL  3   FLA  N15E46    SF      ERU       0578
+
+9930 +     0111   0117      0128  G12  5   XRA  1-8A      C1.0    8.4E-04   0578
+9930       0114   0123      0127  G12  5   XFL  N14E48    1.6E+03 4.1E+03   0578
+9930       0115   0115      0121  LEA  3   FLA  N15E48    SF      ERU       0578
+
+9940       0512   ////      0744  SVI  U   RSP  025-180   CTM/1                 
+
+9950       0939   0952      1002  G12  5   XRA  1-8A      C6.3    5.1E-03   0576
+9950       0942   ////      1640  SVI  U   RSP  025-180   CTM/1                 
+9950       0942   0957      1001  G12  5   XFL  S17W84    4.3E+03 3.2E+04   0576
+9950       0945   ////      0946  LEA  C   RSP  025-147   III/1             0576
+
+9960 +     1059   1113      1138  G12  5   XRA  1-8A      B8.7    1.5E-03   0578
+9960       1102   1115      1137  G12  5   XFL  N14E42    1.3E+03 3.6E+03   0578
+
+9970 +     1538   1546      1601  G12  5   XRA  1-8A      B4.8    5.9E-04   0578
+9970       1541   1545      1600  G12  5   XFL  N14E40    5.5E+02 1.3E+03   0578
+
+9980 +     1628   1634      1702  G12  5   XRA  1-8A      C1.3    2.1E-03   0578
+9980       1631   1641      1700  G12  5   XFL  N14E39    2.1E+03 6.5E+03   0578
+9980       1632   1637      1642  HOL  3   FLA  N16E39    SF      ERU       0578
+
+9990 +     1840   1855      1906  G12  5   XRA  1-8A      B5.8    7.6E-04   0578
+9990       1844   1905      1905  G12  5   XFL  N14E37    1.1E+03 2.7E+03   0578
+
+  10 +     2018   2033      2044  G12  5   XRA  1-8A      C1.1    1.2E-03   0578
+  10       2021   2033      2043  G12  5   XFL  N14E37    1.8E+03 5.0E+03   0578
+
+  20 +     2046   ////      2046  PAL  C   RSP  025-085   III/1                 
+
+  50       2304   ////      0333  LEA  C   RSP  086-180   CTM/1                 

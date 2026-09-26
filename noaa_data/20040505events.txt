@@ -1,0 +1,40 @@
+:Product: 20040505events.txt
+:Created: 2004 May 08 0302 UT
+:Date: 2004 05 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 May 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7820       0000   ////      0027  CUL  C   RSP  20-180    III/2                 
+
+7840       0228   ////      0742  LEA  C   RSP  070-180   CTM/1                 
+
+7800 +     0313   0319      0321  G12  5   XRA  1-8A      B1.8    7.4E-05   0605
+7800       0316   0318      0320  G12  5   XFL  S11W06    2.8E+02 6.7E+02   0605
+
+7810 +     0330   0338      0343  G12  5   XRA  1-8A      B2.5    1.7E-04   0605
+7810       0333   0338      0342  G12  5   XFL  S11W06    4.0E+02 8.4E+02   0605
+
+7830       0348   ////      0351  CUL  C   RSP  18-200    III/2                 
+
+7850 +     0835   0843      0851  G12  5   XRA  1-8A      B3.1    2.3E-04   0603
+7850       0840   0844      0850  G12  5   XFL  S13W82    6.8E+02 1.3E+03   0603
+
+7860       0909   0909      0909  SVI  G   RBR  245       55                    
+
+7870 +     1146   1150      1152  G12  5   XRA  1-8A      B5.4    1.1E-04   0605
+7870       1149   1150      1151  G12  5   XFL  S11W10    6.0E+02 2.1E+03   0605
+
+7880 +     1437   1440      1444  G12  5   XRA  1-8A      B1.6    5.8E-05   0605
+7880       1440   1442      1443  G12  5   XFL  S11W12    1.3E+02 2.2E+02   0605
+
+7890 +     1804   1807      1810  G12  5   XRA  1-8A      B1.3    3.8E-05   0601
+7890       1809   1809      1809  G12  5   XFL  S10W90                      0601
+
+7900       2106   ////      2106  CUL  C   RSP  23-60     III/1                 

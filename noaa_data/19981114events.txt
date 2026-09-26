@@ -1,0 +1,67 @@
+:Product: 19981114events.txt
+:Created: 1998 Nov 17 0302 UT
+:Date: 1998 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3720 +     0021   0021      0021  LEA  G   RBR  245       200                   
+
+3730 +     0203   0210      0216  GO8  5   XRA  1-8A      C2.5    1.5E-03       
+
+3740       0442   ////      0446  LEA  C   RSP  030-05    III/1                 
+
+3760 +     0500   0508      0515  GO8  5   XRA  1-8A      C1.3    1.1E-03       
+
+3790 +     0501   ////      0536  COM  C   RSP  030-08    IV/3                  
+
+3760 +     0502   0502      0503  COM  G   RBR  245       110                   
+
+3750 +     0515   0518      0522  GO8  5   XRA  1-8A      C1.7    6.1E-04   8385
+
+3820       0518   0519      0522  LEA  3   FLA  N24W69    SF                8377
+
+3750       0518   0519      0529  LEA  3   FLA  N20W60    SF                8385
+
+3790 +     0518   ////      0543  COM  3   BSL  N28W90    0.2     B.9A          
+
+3780       0545   0546      0553  LEA  3   FLA  S15E13    SF                8383
+
+3800       0627   ////      0632  LEA  C   RSP  030-08    III/3                 
+
+3810       0641   0642      0653  LEA  3   FLA  N20W62    SF                8385
+
+3830       0828   ////      0837  LEA  C   RSP  030-08    III/2                 
+
+3840 +     0843   0851      0854  GO8  5   XRA  1-8A      C1.7    7.7E-04       
+3840       0847   0850      0900  LEA  3   FLA  N20W63    SF                8385
+3840       0850   ////      0856  LEA  C   RSP  040-07    III/1             8385
+
+3850       1011   1011      1014  SVI  3   FLA  N22E50    SF                    
+
+3860       1033   ////      1034  SVI  C   RSP  035-07    III/1                 
+
+3870       1309   ////      1310  SAG  C   RSP  030-04    III/1                 
+
+3880 +     1436   1441      1446  GO8  5   XRA  1-8A      C1.6    6.7E-04   8383
+3880       1440   1440      1448  RAM  3   FLA  S15E06    SF                8383
+
+3890       1921   ////      1921  SAG  C   RSP  030-06    III/1                 
+
+3900       1955   1957      1959  HOL  3   FLA  N19W71    SF                8377
+
+3910 +     2038   ////      2041  PAL  C   RSP  030-04    III/1                 
+
+3920       2238   ////      2238  LEA  C   RSP  036-05    III/1                 
+
+3930       2330   2330      2330  LEA  G   RBR  245       50                    
+
+3940       2334   2335      2339  HOL  3   FLA  S30E17    SF                8384
+
+3950 +     2359   ////      0000  LEA  C   RSP  030-08    III/2                 

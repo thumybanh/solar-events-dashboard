@@ -1,0 +1,46 @@
+:Product: 20030724events.txt
+:Created: 2003 Jul 27 0302 UT
+:Date: 2003 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 830       0025   0025      0025  LEA  G   RBR  245       69                    
+
+ 840       0110   0110      0110  LEA  G   RBR  245       86                    
+
+ 850 +     0119   0123      0140  G12  5   XRA  1-8A      C1.4    1.5E-03       
+ 850       0135   ////      0919  LEA  C   RSP  088-180   CTM/1                 
+
+ 860       0155   0155      0155  LEA  G   RBR  245       77                    
+
+ 880       0229   0249      0305  G12  5   XRA  1-8A      C1.6    2.8E-03   0417
+
+ 870       0241   0241      0241  LEA  G   RBR  245       57                    
+
+ 880 +     0242   ////      0000  CUL  C   RSP  35-100    II/3              0417
+
+ 920 +     0252   0252      0919  LEA  G   RNS  245       170                   
+
+ 890       0425   ////      0637  SVI  C   RSP  075-180   CTM/1                 
+ 890       0445   ////      0445  CUL  C   RSP  25-130    III/1                 
+
+ 920       0600   ////      1000  IZM  F   RNS  204       10                    
+
+ 960       0609   ////      0609  CUL  C   RSP  40-140    III/1                 
+
+ 930       0649   0734      0743  G12  5   XRA  1-8A      C1.4    3.9E-03   0417
+
+ 900       0838   0838      0838  SVI  G   RBR  245       57                    
+
+ 910       0919   0919      0919  SVI  G   RBR  245       110                   
+
+ 940 +     1400   1403      1405  G12  5   XRA  1-8A      C1.2    2.7E-04       
+
+ 950       1739   1740      1740  SAG  G   RBR  245       74                    

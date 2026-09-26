@@ -1,0 +1,53 @@
+:Product: 19980720events.txt
+:Created: 1998 Jul 23 0302 UT
+:Date: 1998 07 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5010 +     0048   0052      0059  GO9  5   XRA  1-8A      B4.1    2.5E-04       
+
+5020 +     0720   0720      0721  LEA  G   RBR  245       80                    
+
+5030       0742   0744      0747  SVI  3   FLA  S24W54    SF                8270
+
+5040       1010   1010      1016  SVI  3   FLA  N19W55    SF                8269
+
+5050       1029   1030      1032  SVI  3   FLA  S25W56    SF                8270
+
+5060       1034   1034      1037  SVI  3   FLA  S23W57    SF                8270
+
+5070       1129   1131      1134  SVI  3   FLA  S24W55    SF                8270
+
+5080       1300   ////      1301  SAG  C   RSP  030-06    V/1                   
+5080       1300   ////      1302  SVI  C   RSP  035-05    III/2                 
+
+5090 +     1402   1413      1423  GO9  5   XRA  1-8A      B9.6    1.0E-03   8270
+
+5100       1402   ////      1402  SVI  C   RSP  035-04    III/1                 
+
+5090       1404   1406      1427  SVI  3   FLA  S24W59    SF                8270
+
+5110 +     1428   ////      1428  SAG  C   RSP  030-05    III/2                 
+
+5120       1454   1454      1458  SVI  3   FLA  N19W57    SF                8269
+
+5130       1457   1457      1501  SVI  3   FLA  S23W60    SF                8270
+
+5140 +     1532   ////      1532  SAG  C   RSP  030-05    III/2                 
+
+5150       1630   1631      1638  SVI  3   FLA  S24W59    SF                8270
+
+5160       1648   1649      1705  SVI  3   FLA  N19W59    SF                8269
+
+5170       1650   1658      1714  SVI  3   FLA  S24W60    SF                8270
+
+5190       1705   1707      1717  SVI  3   FLA  N19W58    SF                8269
+
+5180 +     1728   1733      1743  GO9  5   XRA  1-8A      B8.9    7.1E-04       

@@ -1,0 +1,22 @@
+:Product: 20000201events.txt
+:Created: 2000 Feb 04 0302 UT
+:Date: 2000 02 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+760        0507   ////      0507  LEA  C   RSP  030-08    III/1                 
+
+780        0745   ////      1345  SVI  C   RSP  035-06    CTM/1                 
+
+770        0800   0800      0800  SVI  G   RBR  245       130                   
+
+860       A1922   ////      1148  RAM  3   DSF  N23E20    07      B.0A      8851
+
+790        2337   2338      2344  LEA  3   FLA  S08E01    SF                8848

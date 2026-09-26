@@ -1,0 +1,28 @@
+:Product: 19990111events.txt
+:Created: 1999 Jan 14 0302 UT
+:Date: 1999 01 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jan 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6510 +     0026   ////      0032  CUL  C   RSP  20-80     III/1                 
+
+6520       1506   1506      1506  SAG  G   RBR  245       55                    
+
+6530 +     1655   1701      1708  GO8  5   XRA  1-8A      B7.4    4.9E-04       
+
+6540 +     1727   1735      1749  GO8  5   XRA  1-8A      C1.2    1.3E-03       
+
+6560       1752   1756      1802  RAM  3   FLA  S28W03    SF      DSF       8434
+
+6570 +     1951   1959      2007  GO8  5   XRA  1-8A      C2.4    1.9E-03       
+
+6580       2116   2143      2225  GO8  5   XRA  1-8A      C1.3    4.6E-03       
+
+6590       2259   ////      2317  GO8  5   XRA  1-8A      C1.2    1.1E-03       

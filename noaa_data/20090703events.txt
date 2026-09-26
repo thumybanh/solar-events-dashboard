@@ -1,0 +1,18 @@
+:Product: 20090703events.txt
+:Created: 2009 Jul 06 2332 UT
+:Date: 2009 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2009 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 900 +     2025   ////      2048  PAL  U   RSP  025-088   III/1                 
+
+ 910 +     2305   2308      2310  G10  5   XRA  1-8A      B1.3    2.8E-05   1024
+
+ 920 +     2349   2354      2358  G10  5   XRA  1-8A      B3.2    1.1E-04   1024

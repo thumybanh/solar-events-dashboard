@@ -1,0 +1,56 @@
+:Product: 20241203events.txt
+:Created: 2024 Dec 06 0357 UT
+:Date: 2024 12 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Dec 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3860 +     0000   ////      1008  LEA  C   RSP  068-180   CTM/1                 
+3860 +     0025   ////      0208  PAL  C   RSP  025-180   VI/2                  
+
+3870       0128   0128      0128  LEA  G   RBR  245       160                   
+
+3880       0149   0149      0150  LEA  G   RBR  245       130                   
+
+3890       0209   0209      0209  LEA  G   RBR  245       120                   
+
+3900       0241   0241      0241  LEA  G   RBR  245       140                   
+
+3910       0246   0246      0246  PAL  G   RBR  245       130                   
+
+3920 +     0256   0300      0304  G16  5   XRA  1-8A      C5.4    1.8E-03   3912
+3920       0259   0259      0304  LEA  3   FLA  S07E22    SF                3912
+
+3930       0317   0317      0317  LEA  G   RBR  245       100                   
+
+3940       0328   0328      0328  LEA  G   RBR  245       210                   
+
+3950       0351   0351      0351  LEA  G   RBR  245       100                   
+
+3960       0530   0531      0531  LEA  G   RBR  245       320                   
+
+3970 +     0534   0544      0549  G16  5   XRA  1-8A      C6.1    2.9E-03   3906
+3970       0542   0542      0548  LEA  3   FLA  S19W61    SF                3906
+
+4010       0620   ////      1438  SVI  C   RSP  075-180   CTM/2                 
+
+3980 +     0952   0958      1004  G16  5   XRA  1-8A      C3.4    1.9E-03   3915
+3980       0955   0955      0959  LEA  3   FLA  N16E65    SF                3915
+
+3990       1001   1001      1005  LEA  3   FLA  N16E65    SF                3915
+
+4000 +     1317   1326      1342  G16  5   XRA  1-8A      C2.0    2.8E-03   3916
+
+4020 +     1403   1412      1418  G16  5   XRA  1-8A      C2.4    1.1E-03   3916
+
+4030 +     1815   1824      1832  G16  5   XRA  1-8A      C2.9    2.5E-03   3916
+
+4040 +     2236   2247      2256  G16  5   XRA  1-8A      C5.4    4.4E-03   3916
+
+4050       2338   2338      2338  PAL  G   RBR  410       160                   

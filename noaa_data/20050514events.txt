@@ -1,0 +1,71 @@
+:Product: 20050514events.txt
+:Created: 2005 May 15 1229 UT
+:Date: 2005 05 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 May 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9280       0114   ////      1256  HOL  3   DSF  S42E41    17      B.0A          
+
+9180       0202   0203      0222  LEA  3   FLA  S16E38    SF                0763
+
+9190       0330   0330      0330  PAL  G   RBR  410       240                   
+
+9200       0509   0511      0522  LEA  3   FLA  S16E36    SF                0763
+
+9330       0644   ////      1734  SVI  C   RSP  025-125   CTM/1                 
+
+9210       0742   0742      0742  SVI  G   RBR  245       61                    
+
+9220 +     1128   1131      1134  G12  5   XRA  1-8A      B9.9    3.1E-04   0758
+9220       1131   1131      1131  G12  5   XFL  S09W90    2.0E+03 4.9E+03   0758
+
+9230       1146   1149      1149  SVI  G   RBR  245       95                    
+9230       1146   1146      1149  SVI  U   RBR  410       32                    
+
+9240       1202   1202      1202  SVI  G   RBR  245       120                   
+9240       1202   1202      1202  SVI  U   RBR  410       27                    
+
+9250 +     1321   1326      1330  G12  5   XRA  1-8A      C1.1    5.1E-04   0758
+9250       1326   1327      1327  G12  5   XFL  S10W90    1.8E+03 4.5E+03   0758
+
+9260 +     1335   1335      1335  SVI  G   RBR  245       66                    
+
+9270 +     1415   1415      1415  SAG  G   RBR  245       63                    
+
+9290 +     1459   1506      1513  G12  5   XRA  1-8A      C4.0    2.3E-03   0758
+9290       1502   1512      1512  G12  5   XFL  S09W90    3.6E+03 1.6E+04   0758
+
+9300       1537   1537      1537  SVI  G   RBR  245       210                   
+
+9310 +     1551   1557      1603  G12  5   XRA  1-8A      C3.5    1.7E-03   0758
+9310       1555   1559      1602  G12  5   XFL  S10W90    3.8E+03 1.2E+04   0758
+
+9320 +     1654   1654      1654  PAL  G   RBR  245       51                    
+
+9340       1723   1723      1723  PAL  G   RBR  245       140                   
+
+9350 +     1812   1812      1812  SAG  G   RBR  245       55                    
+
+9360 +     1902   1904      1904  SAG  G   RBR  245       53                    
+
+9420       1904   1904      2220  PAL  G   RNS  245       420                   
+
+9400       2018   2058      2236  G12  5   XRA  1-8A      C2.8    1.6E-02   0758
+
+9370       2038   2038      2038  SAG  G   RBR  245       61                    
+
+9380       2040   2040      2040  SAG  G   RBR  245       57                    
+
+9390 +     2046   ////      2059  PAL  C   RSP  025-065   II/3    1261          
+9390       2047   2050      2050  SAG  G   RBR  245       79                    
+
+9400       2058   ////      0000  SAG  C   RSP  030-144   IV/1                  
+
+9410       2321   2324      2335  LEA  G   RBR  410       140                   

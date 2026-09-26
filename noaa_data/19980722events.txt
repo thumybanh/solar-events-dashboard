@@ -1,0 +1,41 @@
+:Product: 19980722events.txt
+:Created: 1998 Jul 25 0302 UT
+:Date: 1998 07 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5330 +     0005   0005      0005  LEA  G   RBR  410       99                    
+
+5340 +     0039   0039      0039  LEA  G   RBR  410       140                   
+
+5350 +     0315   ////      0316  LEA  C   RSP  030-05    III/1                 
+
+5360 +     0439   0503      0526  GO9  5   XRA  1-8A      C6.5    1.2E-02       
+5360 +     0450   ////      0612  LEA  C   RSP  030-08    CTM/1                 
+
+5370 +     0704   0711      0716  GO9  5   XRA  1-8A      C1.4    8.7E-04       
+
+5380       0720   ////      0726  SVI  C   RSP  035-05    III/2                 
+
+5390       0800   ////      0943  SVI  U   RSP  035-07    CTM/1                 
+5390       0822   ////      0832  SVI  C   RSP  035-06    III/2                 
+
+5400 +     0902   0905      0907  GO9  5   XRA  1-8A      B7.3    1.8E-04       
+
+5420 +    A1003   ////      1028  SVI  4   DSF  S40W31    06      B.0A          
+
+5430 +     1649   1652      1655  GO9  5   XRA  1-8A      C1.5    3.8E-04   8280
+5430 +     1651   1652      1658  HOL  3   FLA  S22E63    SF                8280
+
+5440 +     1724   1734      1743  GO9  5   XRA  1-8A      B5.8    5.9E-04       
+
+5450 +     1801   ////      1801  SAG  C   RSP  030-05    III/1                 
+
+5460 +     1951   1954      1957  GO9  5   XRA  1-8A      B5.8    1.8E-04       

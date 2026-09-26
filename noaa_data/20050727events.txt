@@ -1,0 +1,55 @@
+:Product: 20050727events.txt
+:Created: 2005 Jul 28 1229 UT
+:Date: 2005 07 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jul 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3320 +     0433   0502      0530  G12  5   XRA  1-8A      M3.7    7.9E-02       
+3320       0438   0520      0528  G12  5   XFL  N11E90    1.1E+04 9.7E+04       
+3320 +     0439   ////      0511  LEA  3   EPL  ////      0.55    B.9A          
+3320 +     0443   ////      0503  CUL  C   RSP  20-130    II/3                  
+
+3310       0444   0445      0447  LEA  G   RBR  606       82                    
+3310 +     0444   0444      0444  LEA  G   RBR  1415      68                    
+3310       0444   ////      0457  PAL  C   RSP  025-180   II/2    1588          
+3310       0444   0522      0535  SVI  U   RBR  410       690                   
+3310 +     0444   0506      0541  LEA  G   RBR  2695      800                   
+3310       0445   0446      0447  LEA  G   RBR  245       73                    
+3310       0445   ////      0535  CUL  C   RSP  20-180    CTM/1                 
+3310 +     0446   0456      0542  LEA  G   RBR  4995      1400                  
+3310 +     0446   ////      0524  LEA  C   RSP  025-180   IV/1                  
+3310       0447   0456      0535  LEA  G   RBR  8800      1200                  
+
+3320 +     0449   0457      0525  SVI  G   RBR  8800      910                   
+3320       0450   0453      0506  LEA  G   RBR  410       310                   
+3320 +     0450   0457      0530  LEA  G   RBR  15400     620                   
+3320       0451   0458      0501  SVI  G   RBR  245       310                   
+
+3330       0744   ////      0744  SVI  C   RSP  025-059   III/1                 
+
+3370       1030   1102      1234  G12  5   XRA  1-8A      C1.7    9.3E-03       
+
+3340       1137   ////      1137  SVI  C   RSP  025-081   III/2                 
+
+3350 +     1551   ////      1552  SVI  C   RSP  025-066   III/1                 
+
+3360       1718   1718      1719  SAG  G   RBR  1415      57                    
+
+3390       2211   2300      2300  SAG  G   RNS  245       250                   
+
+3400       2237   ////      2237  CUL  C   RSP  20-50     III/1                 
+
+3380 +     2239   2300      2315  G12  5   XRA  1-8A      C4.5    6.3E-03       
+3380       2242   2306      2314  G12  5   XFL  N06E87    5.2E+03 2.1E+04       
+
+3410       2336   ////      2336  LEA  C   RSP  025-113   III/1                 
+3410       2336   ////      2336  LEA  C   RSP  025-113   III/1                 
+
+3420       2337   ////      2337  CUL  C   RSP  20-150    III/2                 

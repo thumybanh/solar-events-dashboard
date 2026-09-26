@@ -1,0 +1,46 @@
+:Product: 20020127events.txt
+:Created: 2002 Jan 30 0300 UT
+:Date: 2002 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+920        0420   0421      0421  LEA  G   RBR  410       100                   
+
+930        0724   0724      0724  SVI  G   RBR  410       79                    
+
+940        0828   ////      0828  LEA  C   RSP  048-180   III/1                 
+
+950  +     0943   0943      0944  SVI  G   RBR  245       74                    
+
+960  +     0944   ////      0945  LEA  C   RSP  038-180   III/1                 
+
+1110      A0959   ////     B0110  LEA  3   DSF  N11W13    07      B.0A      9794
+
+970        1009   1009      1009  LEA  G   RBR  245       55                    
+
+980  +     1017   1017      1022  SVI  G   RBR  245       120                   
+
+1000 +     1024   1050      1237  SVI  G   RNS  245       250                   
+
+990  +     1032   ////      1033  LEA  C   RSP  045-180   III/1                 
+
+1020 +     1214   1214      1219  SVI  3   FLA  N18W63    SF                9788
+
+1030       1237   1237      1237  SAG  G   RBR  245       65                    
+
+1040 +     1718   1723      1728  GO8  5   XRA  1-8A      C2.7    1.4E-03   9787
+1040       1719   1720      1720  SAG  G   RBR  410       62                9787
+1040       1720   1720      1721  SAG  G   RBR  245       110               9787
+1040       1720   1722      1731  RAM  3   FLA  S07W48    SF      ERU       9787
+1040 +     1721   ////      1723  SAG  C   RSP  030-080   III/2             9787
+
+1060       2033   2033      2036  RAM  3   FLA  S17E61    SF                9802
+
+1230      A2116   ////     B1318  RAM  3   DSF  S29E18    25      B.0A          

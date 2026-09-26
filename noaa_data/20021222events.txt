@@ -1,0 +1,52 @@
+:Product: 20021222events.txt
+:Created: 2002 Dec 25 0300 UT
+:Date: 2002 12 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9420       0128   ////      0128  PAL  C   RSP  070-180   III/1                 
+
+9430       0148   0150      0150  PAL  G   RBR  245       65                    
+
+9440       0214   0252      0312  GO8  5   XRA  1-8A      M1.1    2.3E-02   0223
+9440       0232   0246      0323  LEA  3   FLA  N23W42    2F      PRB       0223
+9440 +     0234   0315      0321  PAL  G   RBR  606       250               0223
+9440 +     0234   0244      0309  PAL  G   RBR  2695      230               0223
+9440 +     0239   0244      0252  PAL  G   RBR  4995      220               0223
+9440 +     0240   0315      0322  PAL  G   RBR  245       160               0223
+9440 +     0243   0244      0257  LEA  G   RBR  8800      130               0223
+9440 +     0243   0311      0320  LEA  G   RBR  1415      1300              0223
+9440 +     0246   0304      0304  PAL  G   RBR  15400     110               0223
+9440 +     0248   ////      0252  PAL  C   RSP  030-180   II/1    833       0223
+9440       0248   ////      0253  PAL  C   RSP  025-180   III/1             0223
+9440       0305   ////      0346  LEA  C   RSP  059-180   IV/1              0223
+
+9460       0310   ////      0311  PAL  C   RSP  066-180   III/1                 
+9460 +     0312   0314      0318  LEA  G   RBR  410       75                0223
+
+9470       0331   0337      0348  LEA  G   RBR  245       250                   
+9470       0332   0335      0340  LEA  G   RBR  606       190                   
+9470       0334   0335      0344  LEA  G   RBR  410       93                    
+
+9530       0732   0736      0740  GO8  5   XRA  1-8A      C2.3    1.0E-03       
+
+9480       1028   ////      1029  SVI  C   RSP  061-133   III/2                 
+
+9490       1229   ////      1230  SVI  C   RSP  025-125   III/1                 
+
+9500       1359   ////      1406  SVI  C   RSP  025-180   III/1                 
+9500 +     1403   1408      1416  GO8  5   XRA  1-8A      C2.2    1.4E-03       
+
+9510 +     1535   1539      1541  GO8  5   XRA  1-8A      C1.5    4.7E-04       
+9510 +     1544   ////      1545  HOL  C   RSP  025-180   III/1                 
+
+9540 +     2141   2149      2154  GO8  5   XRA  1-8A      C1.9    1.2E-03       
+
+9550       2312   2315      2320  LEA  3   FLA  S13W56    SF      ERU       0224

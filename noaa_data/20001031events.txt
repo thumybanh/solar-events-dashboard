@@ -1,0 +1,41 @@
+:Product: 20001031events.txt
+:Created: 2000 Nov 03 0302 UT
+:Date: 2000 10 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9310       0006   0010      0031  LEA  3   FLA  S21E08    SF      ERU       9209
+9310 +     0007   0010      0015  GO8  5   XRA  1-8A      C2.1    8.9E-04   9209
+
+9320 +     0251   0300      0307  GO8  5   XRA  1-8A      C6.0    3.6E-03   9209
+9320       0253   0300      0322  LEA  3   FLA  S18E07    1F      ERU       9209
+9320       0259   0259      0259  LEA  G   RBR  606       270               9209
+
+9340       0747   ////      0747  SVI  U   RSP  059-083   III/1                 
+
+9350       0844   0902      0914  GO8  5   XRA  1-8A      C1.6    2.5E-03   9207
+9350       0857   0858      0907  SVI  3   FLA  S17W26    SF      ERU       9207
+
+9360       0951   0952      0953  LEA  G   RBR  245       120                   
+9360       0951   0952      0953  LEA  G   RBR  410       35                    
+9360       0952   0952      0953  LEA  G   RBR  606       11                    
+
+9370       1749   1749      1749  SAG  G   RBR  245       60                    
+
+9380       1750   1751      1800  RAM  3   FLA  S02E35    SF                9213
+
+9390       1946   1958      2022  GO8  5   XRA  1-8A      C2.0    3.6E-03   9209
+9390       2020   2026      2029  HOL  3   FLA  S20W02    SF      BPT       9209
+
+9400       2220   ////      2223  HOL  C   RSP  025-180   III/1                 
+
+9410       2228   ////      2231  HOL  C   RSP  025-180   III/1                 
+
+9420       2234   ////      2238  HOL  C   RSP  025-180   III/1                 

@@ -1,0 +1,45 @@
+:Product: 20020107events.txt
+:Created: 2002 Jan 10 0300 UT
+:Date: 2002 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7370       0020   0020      0020  PAL  G   RBR  245       58                    
+
+7380       0023   0023      0024  LEA  G   RBR  245       56                    
+
+7470       0227   0256      0305  GO8  5   XRA  1-8A      C2.4    4.4E-03       
+
+7390       0532   0532      0540  LEA  3   FLA  N16E33    SF                9773
+
+7400 +     0641   0647      0652  GO8  5   XRA  1-8A      C3.5    1.8E-03   9773
+7400       0643   0645      0700  LEA  3   FLA  N15E37    1F      ERU       9773
+
+7410       1318   1319      1338  RAM  3   FLA  S22W24    SF      ERU       9767
+
+7420 +     1414   1422      1430  GO8  5   XRA  1-8A      C3.8    2.9E-03   9767
+7420 +     1415   1419      1439  RAM  3   FLA  S20W27    SF      PRB       9767
+
+7430 +     1526   1534      1603  GO8  5   XRA  1-8A      C2.7    5.0E-03   9773
+7430       1559   1559      1608  RAM  3   FLA  N14E27    SF                9773
+
+7440       1819   1819      1822  RAM  3   FLA  N08W58    SF      DSD       9763
+
+7450       2049   2050      2053  HOL  3   FLA  N07W58    SF                9765
+
+7460       2049   2101      2119  GO8  5   XRA  1-8A      C2.96   4.3E-03   9773
+7460       2055   2058      2124  HOL  3   FLA  N13E24    SF      ERU       9773
+
+7450       2113   ////      2114  CUL  C   RSP  57-140    III/1             9765
+
+7480       2210   2221      2228  GO8  5   XRA  1-8A      C2.3    2.0E-03       
+
+7490       2243   2255      2312  GO8  5   XRA  1-8A      C2.8    4.3E-03   9773
+7490       2245   2248      2307  HOL  3   FLA  N14E24    SF      ERU       9773

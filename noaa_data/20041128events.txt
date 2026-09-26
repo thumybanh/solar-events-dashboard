@@ -1,0 +1,27 @@
+:Product: 20041128events.txt
+:Created: 2004 Dec 01 0302 UT
+:Date: 2004 11 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Nov 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6850       0006   ////      0243  LEA  3   DSF  S04E35    12      B.0A      0706
+
+6810 +     0854   0858      0907  G12  5   XRA  1-8A      B4.6    3.0E-04       
+6810       0901   0901      0901  G12  5   XFL  N62E90                          
+
+6820 +     1020   1023      1027  G12  5   XRA  1-8A      B3.0    1.1E-04       
+
+6830 +     1045   1049      1053  G12  5   XRA  1-8A      B3.6    1.5E-04       
+6830       1050   1051      1051  G12  5   XFL  S09E32    1.8E+02 3.2E+02       
+
+6840 +     1119   1125      1131  G12  5   XRA  1-8A      B5.4    3.2E-04   0708
+6840       1123   1127      1130  G12  5   XFL  N09E60    3.5E+02 6.4E+02   0708
+
+6860       1826   1857      1909  G10  5   XRA  1-8A      B4.3    8.7E-04       

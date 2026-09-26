@@ -1,0 +1,95 @@
+:Product: 20020721events.txt
+:Created: 2002 Jul 24 0300 UT
+:Date: 2002 07 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jul 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4360       0212   ////      0212  LEA  C   RSP  041-174   III/1                 
+
+4370 +     0307   0310      0312  GO8  5   XRA  1-8A      C7.9    1.8E-03       
+
+4380 +     0434   0434      0434  LEA  G   RBR  245       95                    
+4380 +     0434   0434      0434  LEA  G   RBR  410       150                   
+
+4390 +     0442   0442      0442  LEA  G   RBR  245       170                   
+4390 +     0442   0442      0442  LEA  G   RBR  410       68                    
+
+4400 +     0449   0449      0452  LEA  G   RBR  245       270                   
+
+4410      U0456  U0456      0456  SVI  U   RBR  245       55                    
+
+4420 +     0533   0533      0533  LEA  G   RBR  245       58                    
+
+4430       0548   ////      0549  SVI  C   RSP  025-180   III/1                 
+
+4440 +     0605   0613      0624  GO8  5   XRA  1-8A      C6.7    6.1E-03       
+
+4450       0718   0733      0739  SVI  U   RNS  245       95                    
+
+4460 +     0735   0745      0754  GO8  5   XRA  1-8A      C6.7    5.9E-03       
+
+4470       0810   0810      0811  SVI  U   RBR  245       110                   
+4470       0810   ////      0812  SVI  C   RSP  025-180   III/1                 
+
+4480      U0844  U0844      0844  SVI  U   RBR  245       81                    
+
+4490       0904   ////      0904  SVI  U   RSP  025-082   III/1                 
+
+4500 +     0910   0910      0910  LEA  G   RBR  245       270                   
+
+4510       1009   1009      1009  SVI  G   RBR  410       48                    
+
+4520      U1010  U1013      1014  SVI  U   RBR  245       53                    
+
+4530       1022   ////      1023  SVI  U   RSP  025-082   III/2                 
+
+4540       1242   ////      1242  SVI  U   RSP  025-082   III/1                 
+
+4550       1245   1245      1245  SAG  G   RBR  410       50                    
+
+4580 +     1333   1337      1339  GO8  5   XRA  1-8A      C1.8    5.2E-04   0035
+4580 +     1334   1334      1334  SVI  G   RBR  410       83                0035
+4580       1334   1334      1334  SVI  G   RBR  1415      27                0035
+4580 +     1335   1336      1342  RAM  3   FLA  S09W17    SF                0035
+
+4590 +     1414   1421      1431  GO8  5   XRA  1-8A      C3.4    2.6E-03       
+
+4600       1435   1437      1437  SAG  G   RBR  245       60                    
+
+4560 +     1459   1603      1725  SAG  G   RNS  245       320                   
+
+4610       1516   1516      1517  SVI  U   RBR  245       70                    
+
+4620 +     1547   1548      1550  RAM  3   FLA  S09W16    SF      ERU       0035
+
+4630       1603   1603      1603  SVI  U   RBR  245       210                   
+4630       1603   1603      1603  SVI  G   RBR  410       77                    
+
+4640       1732   1732      1732  PAL  G   RBR  410       62                    
+
+4910 +    A1735   ////     B0607  SVI  3   DSF  ////      07      B.0A      0000
+
+4920 +    A1735   ////     B0607  SVI  3   DSF  ////      11      B.0A      0000
+
+4650       1851   1851      1851  PAL  G   RBR  245       100                   
+
+4660       1933   1933      1933  PAL  G   RBR  245       62                    
+
+4670       2000   ////      2000  PAL  C   RSP  025-058   III/1                 
+
+4680 +     2001   2001      2001  PAL  G   RBR  245       87                    
+
+4690 +     2020   2021      2021  PAL  G   RBR  245       150                   
+
+4700       2047   2047      2047  PAL  G   RBR  245       53                    
+
+4710 +     2124   2124      2124  PAL  G   RBR  245       87                    
+
+4720       2129   2129      2129  PAL  G   RBR  245       87                    

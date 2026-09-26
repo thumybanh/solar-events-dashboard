@@ -1,0 +1,61 @@
+:Product: 19980524events.txt
+:Created: 1998 May 27 0302 UT
+:Date: 1998 05 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 May 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4360 +     0013   0016      0018  GO9  5   XRA  1-8A      B2.9    7.2E-05       
+
+4370       0045   0050      0100  HOL  3   FLA  N18W11    SF                8226
+4370 +     0048   ////      0049  CUL  C   RSP  20-85     III/1             8226
+4370       0053   0053      0054  PAL  G   RBR  245       57                8226
+
+4380 +     0247   ////      0247  PAL  C   RSP  028-07    III/1                 
+
+4390       0608   0608      0618  SVI  3   FLA  N17W16    SF                8226
+4390 +     0618   0632      0636  GO9  5   XRA  1-8A      B6.8    6.3E-04   8226
+
+4400       0638   ////      0638  SVI  U   RSP  036-08    III/2                 
+
+4410 +     0728   0733      0740  GO9  5   XRA  1-8A      B5.6    3.5E-04   8226
+4410       0732   0733      0746  SVI  3   FLA  N16W17    SF      ERU       8226
+
+4420 +     0746   0807      0817  GO9  5   XRA  1-8A      C1.8    2.0E-03       
+4420 +     0758   0758      0758  LEA  G   RBR  245       82                    
+
+4430       0821   ////      0823  LEA  C   RSP  030-04    III/2                 
+4430       0821   ////      0823  SVI  C   RSP  035-06    V/2                   
+
+4440 +     0830   0831      0831  LEA  G   RBR  245       95                    
+
+4450       0858   0859      0859  LEA  G   RBR  245       71                    
+
+4480 +     0858   0859      0859  SVI  G   RNS  245       80                    
+
+4460       1046   1046      1047  SVI  U   RBR  245       50                    
+
+4470       1115   1115      1115  SVI  U   RBR  245       62                    
+
+4500      B1153  U1154     A1204  SVI  3   FLA  N18W19    SF                8226
+
+4510 +     1223   1232      1238  GO9  5   XRA  1-8A      B6.9    5.1E-04       
+
+4520 +     1240   1243      1248  GO9  5   XRA  1-8A      B7.2    3.1E-04   8226
+4520       1241   1245      1302  SVI  3   FLA  N17W20    SF      ERU       8226
+
+4530 +     1758   1803      1807  GO9  5   XRA  1-8A      B5.4    2.4E-04       
+
+4540 +     2113   2120      2128  GO9  5   XRA  1-8A      B5.4    4.0E-04       
+4540       2118   ////      2123  SAG  C   RSP  030-08    V/1                   
+4540 +     2121   ////      2123  PAL  C   RSP  030-07    III/1                 
+
+4550       2138   ////      2138  SAG  C   RSP  030-05    III/1                 
+
+4560 +     2152   ////      2153  PAL  C   RSP  035-06    III/1                 

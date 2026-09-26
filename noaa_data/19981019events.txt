@@ -1,0 +1,71 @@
+:Product: 19981019events.txt
+:Created: 1998 Oct 22 0302 UT
+:Date: 1998 10 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Oct 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7930      A0001   ////      1641  HOL  3   DSF  N19W28    15      B.0A          
+
+7750 +     0647   0651      0656  GO8  5   XRA  1-8A      B5.8    2.8E-04   8361
+7750       0649   0653      0656  LEA  3   FLA  N14W60    SF                8361
+
+7760       0658   ////      0659  LEA  C   RSP  030-05    III/1                 
+
+7770 +     0831   0836      0841  GO8  5   XRA  1-8A      B5.7    3.0E-04       
+
+7780 +     0851   ////      0851  LEA  C   RSP  030-08    III/1                 
+
+7830       0858   ////      1109  SVI  C   RSP  035-08    CTM/2                 
+
+7790       0900   ////      1011  LEA  C   RSP  030-08    CTM/1                 
+7790       0902   ////      0903  LEA  C   RSP  030-05    III/1                 
+
+7800       1016   1016      1016  SVI  U   RBR  245       140                   
+
+7810 +     1124   1129      1133  GO8  5   XRA  1-8A      C1.9    6.7E-04       
+7810       1127  U1128     A1139  SVI  3   FLA  N13W59    SF      ERU       8361
+7810       1129   ////      1129  SVI  C   RSP  039-04    III/2             8361
+
+7840       1151   1154      1204  RAM  3   FLA  N14W59    SF                8361
+
+7850 +     1218   1231      1241  GO8  5   XRA  1-8A      C7.1    5.8E-03   8361
+7850 +     1221   1232      1309  RAM  4   FLA  N14W59    1N      BPT       8361
+7850       1223   1227      1230  SVI  G   RBR  4995      43                8361
+7850       1224   1227      1228  SVI  G   RBR  8800      33                8361
+7850       1226   1227      1227  SVI  G   RBR  15400     26                8361
+
+7860       1354   1354      1402  RAM  4   FLA  N21E08    SF                8364
+
+7870       1416   ////      1419  SAG  C   RSP  030-06    III/1                 
+
+7880       1426   1426      1438  RAM  3   FLA  N14W60    SF                8361
+
+7890       1527   1530      1542  RAM  3   FLA  N16W62    SF      ERU       8361
+7890       1539   ////      1639  RAM  3   EPL  S39E90    0.22    B.9A      8361
+
+7920 +     1551   1619      1624  SAG  G   RNS  245       71                    
+
+7900       1618   1618      1621  RAM  3   FLA  N14W62    SF                8361
+
+7910       1716   1718      1726  RAM  3   FLA  N14W63    SF                8361
+
+8130       1936   ////      2015  RAM  3   EPL  S31E93    0.15    B.0A          
+
+7940 +     2219   2222      2224  GO8  5   XRA  1-8A      C1.5    3.7E-04       
+
+7950 +     2225   2228      2230  GO8  5   XRA  1-8A      C1.9    4.5E-04       
+7950      B2229   ////      2257  LEA  3   EPL  N44E90    0.28    B.6A          
+
+7960 +     2232   2235      2237  GO8  5   XRA  1-8A      C3.2    5.9E-04       
+
+7970       2255   2258      2304  GO8  5   XRA  1-8A      B7.6    3.8E-04       
+
+7980 +     2353   2358      0012  GO8  5   XRA  1-8A      C1.0    1.0E-03   8361
+7980       2356   2359      0003  LEA  3   FLA  N15W63    SF                8361

@@ -1,0 +1,25 @@
+:Product: 20041119events.txt
+:Created: 2004 Nov 22 0302 UT
+:Date: 2004 11 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Nov 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6330 +     0043   0052      0057  G12  5   XRA  1-8A      C2.9    1.8E-03   0700
+6330       0044   ////      0044  CUL  C   RSP  20-80     III/1             0700
+6330       0046   0055      0056  G12  5   XFL  N06W90    2.4E+03 1.2E+04   0700
+
+6340 +     0213   0220      0228  G12  5   XRA  1-8A      C3.4    2.1E-03   0700
+6340       0216   0223      0227  G12  5   XFL  N06W90    2.4E+03 1.0E+04   0700
+
+6350 +     0503   0512      0519  G12  5   XRA  1-8A      C4.9    3.0E-03   0700
+6350       0508   0517      0518  G12  5   XFL  N05W90    3.0E+03 1.4E+04   0700
+
+6360 +     0724   0729      0734  G12  5   XRA  1-8A      B7.4    4.0E-04   0700
+6360       0727   0733      0733  G12  5   XFL  N06W90    9.3E+02 2.0E+03   0700

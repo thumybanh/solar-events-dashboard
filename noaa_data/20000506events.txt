@@ -1,0 +1,26 @@
+:Product: 20000506events.txt
+:Created: 2000 May 09 0302 UT
+:Date: 2000 05 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6520       0309   ////      0309  LEA  C   RSP  030-04    III/1                 
+
+6530       0530   ////      0530  SVI  C   RSP  035-05    III/1                 
+
+6540 +     0932   0936      0939  GO8  5   XRA  1-8A      B5.3    1.9E-04       
+
+6570       0945   1022      1133  GO8  5   XRA  1-8A      B9.4    4.8E-03   8983
+
+6550       1009   ////      1009  SVI  C   RSP  035-05    III/1                 
+
+6580      A1020   ////      1112  SVI  3   DSF  N26E39    06      B.0A      8983
+
+6590       1815   ////      1815  SAG  C   RSP  030-08    III/1                 

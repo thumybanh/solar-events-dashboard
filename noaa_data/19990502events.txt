@@ -1,0 +1,46 @@
+:Product: 19990502events.txt
+:Created: 1999 May 05 0302 UT
+:Date: 1999 05 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 May 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8090       0357   ////      0357  PAL  C   RSP  025-07    III/1                 
+
+8100 +     0547   0551      0553  GO8  5   XRA  1-8A      B7.4    2.3E-04       
+
+8110       0602   ////      0607  SVI  C   RSP  035-08    V/2                   
+8110       0602   ////      0608  CUL  C   RSP  25-180    III/2                 
+
+8120 +     0752   0800      0810  GO8  5   XRA  1-8A      C4.1    2.9E-03   8524
+8120       0754   0759      0816  LEA  4   FLA  N21W43    SF      ERU       8524
+
+8130       0812   ////      0814  SVI  C   RSP  035-08    V/2                   
+
+8140 +     0958   1003      1009  GO8  5   XRA  1-8A      C7.5    2.9E-03       
+
+8150       1218   1221      1235  RAM  3   FLA  N16E42    SF                8525
+
+8160 +     1436   1446      1456  GO8  5   XRA  1-8A      C2.0    1.9E-03       
+8160 +     1437   1440      1502  HOL  3   FLA  N16E42    1F                8525
+8160 +     1442   ////      1443  SAG  C   RSP  030-04    III/1             8525
+
+8170       1505   1506      1510  HOL  3   FLA  N16E43    SF                8525
+
+8180       1637   1652      1716  GO8  5   XRA  1-8A      C2.2    6.7E-03   8527
+8180       1703   1707      1713  RAM  3   FLA  N24E52    SF                8527
+
+8190       1846   1846      1851  RAM  3   FLA  N21W49    SF      ERU       8524
+
+8210       2201   2204      2209  HOL  3   FLA  N16E38    SF      ERU       8525
+
+8220       2242   ////      2242  CUL  C   RSP  130-47    III/1                 
+
+8230 +     2333   2336      2338  GO8  5   XRA  1-8A      B7.8    2.0E-04       
+8230       2335   ////      2335  CUL  C   RSP  18-450    III/1                 

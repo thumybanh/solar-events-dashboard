@@ -1,0 +1,59 @@
+:Product: 20051226events.txt
+:Created: 2005 Dec 29 0329 UT
+:Date: 2005 12 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8580 +     0052   ////      0055  LEA  C   RSP  025-180   III/2                 
+8580       0055   0055      0055  PAL  G   RBR  245       97                    
+
+8590       0056   0056      0056  LEA  G   RBR  245       82                    
+
+8600       0200   ////      0200  LEA  C   RSP  025-088   III/2                 
+
+8610       0226   ////      0227  LEA  C   RSP  025-075   III/2                 
+
+8620       0320   ////      0322  LEA  C   RSP  025-105   III/2                 
+
+8630       0511   ////      0514  LEA  C   RSP  025-180   III/2                 
+
+8640       0526   ////      0527  LEA  C   RSP  025-172   III/2                 
+
+8650       0548   ////      0555  LEA  U   RSP  025-057   III/1                 
+
+8660       0609   ////      0613  LEA  C   RSP  025-180   III/2                 
+8660       0612   0612      0612  LEA  G   RBR  245       100                   
+
+8670       0617   ////      0618  LEA  U   RSP  025-057   III/1                 
+
+8680 +     0635   0638      0641  G12  5   XRA  1-8A      B2.0    6.3E-05       
+8680       0636   ////      0643  LEA  C   RSP  025-180   III/2                 
+
+8690 +     0752   0802      0807  G12  5   XRA  1-8A      B2.6    1.9E-04       
+
+8700       0817   ////      0817  LEA  C   RSP  065-114   III/1                 
+
+8710 +     0924   ////      0925  LEA  C   RSP  025-180   III/2                 
+
+8720       1038   1038      1038  SVI  G   RBR  410       110                   
+8720 +     1038   ////      1039  SVI  C   RSP  025-180   III/2                 
+
+8730       1039   1039      1039  LEA  G   RBR  410       81                    
+8730       1039   1039      1039  SVI  G   RBR  245       22                    
+
+8740       1206   ////      1207  SVI  C   RSP  025-180   III/2                 
+
+8750       1306   ////      1313  SVI  C   RSP  025-180   III/1                 
+
+8760       1557   ////      1558  SAG  C   RSP  030-049   III/1                 
+
+8770       1611   ////      1611  SAG  U   RSP  030-073   III/1                 
+
+8780 +     2216   ////      2217  LEA  C   RSP  025-180   III/2                 

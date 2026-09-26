@@ -1,0 +1,58 @@
+:Product: 19981224events.txt
+:Created: 1998 Dec 27 0302 UT
+:Date: 1998 12 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3390 +     0040   0054      0107  GO8  5   XRA  1-8A      C5.0    7.0E-03       
+3390 +     0042   ////      0049  CUL  C   RSP  20-90     III/1                 
+
+3430       0109   ////      0115  CUL  C   RSP  18-160    III/2                 
+
+3440       0119   ////      0133  CUL  C   RSP  18-600    III/2                 
+
+3400 +     0120   0127      0134  GO8  5   XRA  1-8A      C6.2    4.4E-03       
+3400       0122   0122      0122  PAL  G   RBR  2695      25                    
+3400       0122   0122      0122  PAL  G   RBR  4995      21                    
+3400       0122   0126      0156  LEA  3   FLA  N19E32    SF      ERU       8416
+3400 +     0125   0126      0128  LEA  G   RBR  410       150                   
+3400 +     0126   0127      0127  LEA  G   RBR  1415      26                    
+3400 +     0126   0127      0127  PAL  G   RBR  606       30                    
+3400 +     0126   0131      0134  LEA  G   RBR  245       130                   
+
+3410       0139   ////      0246  LEA  C   RSP  030-06    CTM/1                 
+
+3420 +     0307   0308      0308  LEA  G   RBR  245       2800                  
+3420 +     0308   ////      0309  CUL  C   RSP  40-450    III/2                 
+
+3450       0437   0441      0444  LEA  4   FLA  N17E31    SF                8416
+
+3470       0813   0822      0831  LEA  4   FLA  N17E29    SF                8416
+
+3460       0820   0823      0826  LEA  4   FLA  N28E73    SF                8421
+
+3500 +     1129   1145      1214  GO8  5   XRA  1-8A      M1.7    3.0E-02   8421
+
+3480       1138   1140      1142  SVI  G   RBR  4995      68                    
+3480       1140   1140      1141  SVI  G   RBR  2695      32                    
+3480       1140   1140      1141  SVI  G   RBR  8800      79                    
+3480       1140  U1148     A1229  SVI  3   FLA  N29E79    SF                8421
+
+3500      B1143  U1147     A1213  RAM  3   FLA  N28E73    SF                8421
+
+3490       1150   1150      1151  SVI  G   RBR  4995      49                    
+3490       1150   1150      1151  SVI  G   RBR  8800      47                    
+
+3510 +     1840   1843      1845  GO8  5   XRA  1-8A      B9.8    2.6E-04       
+
+3520 +     1904   1910      1922  HOL  3   FLA  N17E22    SF                8416
+
+3530 +     2037   2120      2145  GO8  5   XRA  1-8A      C1.8    4.7E-03       
+3530       2048   2122      2216  HOL  3   FLA  N28E62    1F                8421

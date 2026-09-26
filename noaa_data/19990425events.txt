@@ -1,0 +1,22 @@
+:Product: 19990425events.txt
+:Created: 1999 Apr 28 0302 UT
+:Date: 1999 04 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7380 +     0746   0752      0757  GO8  5   XRA  1-8A      B5.9    2.6E-04   8523
+7380       0750   0751      0758  LEA  3   FLA  N30E39    SF      ERU       8523
+
+7390 +     0924   0930      0942  GO8  5   XRA  1-8A      B4.5    3.6E-04       
+
+7400 +     1226   1232      1238  GO8  5   XRA  1-8A      B5.2    2.4E-04   8524
+7400       1229   1230      1237  RAM  4   FLA  N22E46    SF                8524
+
+7410 +     1626   1633      1642  GO8  5   XRA  1-8A      B2.0    1.6E-04       

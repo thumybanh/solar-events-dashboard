@@ -1,0 +1,54 @@
+:Product: 20030228events.txt
+:Created: 2003 Mar 03 0302 UT
+:Date: 2003 02 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9240 +     0033   0037      0040  GO8  5   XRA  1-8A      C1.5    4.4E-04       
+
+9250       0223   ////      0224  LEA  C   RSP  025-058   III/1                 
+
+9260       0415   0415      0415  LEA  G   RBR  606       75                    
+
+9270 +     0620   0628      0634  GO8  5   XRA  1-8A      C1.7    1.1E-03       
+
+9280       1203   1203      1203  SAG  G   RBR  245       78                    
+
+9290 +     1206   1212      1216  SVI  G   RBR  245       200                   
+
+9300       1211   1212      1212  SAG  G   RBR  245       87                    
+
+9350       1224   1234      1245  SAG  G   RNS  245       190                   
+
+9320       1230   1234      1234  SVI  G   RBR  245       120                   
+
+9340       1250   1315      1323  GO8  5   XRA  1-8A      C1.0    1.6E-03   0293
+9340 +    B1254  U1254      1311  RAM  3   FLA  S06W19    SF      ERU       0293
+
+9360       1312   1314      1326  RAM  3   FLA  N12E59    SF                0296
+
+9370       1456   1456      1456  SAG  G   RBR  245       51                    
+
+9380       1517   1517      1519  SVI  G   RBR  245       63                    
+9380       1517   1535      1639  SAG  G   RNS  245       100                   
+
+9390       1523   1529      1529  SVI  G   RBR  245       87                    
+
+9400       1534   1535      1537  SVI  G   RBR  245       68                    
+
+9410 +     1732   1735      1737  GO8  5   XRA  1-8A      B9.0    2.2E-04       
+
+9420 +     1742   1751      1755  GO8  5   XRA  1-8A      C1.1    7.3E-04   0297
+
+9430 +     1804   1804      1804  SAG  G   RBR  245       100                   
+
+9440       2056   2056      2056  SAG  G   RBR  245       51                    
+
+9450 +     2227   2234      2238  GO8  5   XRA  1-8A      C1.5    7.4E-04   0296

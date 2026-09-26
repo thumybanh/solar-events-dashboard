@@ -1,0 +1,56 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0402 UT 20 Feb 1998
+
+EDITED EVENTS for 1998 Feb 17
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+6850 +     0209   ////      0209  LEA  C   RSP  030-08    III/2
+
+6860 +     0210   0217      0222  GO9  5   XRA  1-8A      B5.7    3.4E-04
+6860 +     0217   ////      0218  CUL  C   RSP  20-120    III/2
+
+6870 +     0230   ////      0230  LEA  C   RSP  030-05    III/2
+
+6880       0256   ////      0256  CUL  C   RSP  18-60     III/1
+
+6890 +     0346   0351      0400  GO9  5   XRA  1-8A      C1.0    5.9E-04
+
+6900 +     0425   0425      0426  LEA  G   RBR  245       32
+6900 +     0425   0425      0426  LEA  G   RBR  410       49
+6900 +     0426   0430      0432  GO9  5   XRA  1-8A      B4.0    1.1E-04
+6900 +     0429   ////      0431  CUL  C   RSP  18-480    III/3
+
+6910       0923   0953      1016  LEA  3   FLA  S27W16    SF                8156
+6910 +     0948   0953      0956  GO9  5   XRA  1-8A      C2.9    7.9E-04   8156
+6910       0951   0952      0953  SVI  G   RBR  245       52                8156
+
+6920 +    B1053   1109      1153  SVI  2   FLA  S26W16    SF                8156
+6920       1112   1114      1114  SVI  U   RBR  245       76                8156
+
+6930       1158   ////      1159  SVI  U   RSP  036-08    III/2
+
+6940 +     1234   ////      1234  SAG  C   RSP  030-05    III/1
+
+6950 +     1331   1333      1333  SAG  G   RBR  245       55
+
+6970 +     1343   1346      1348  SAG  G   RNS  245       67
+
+6980       1522   ////      1522  SAG  C   RSP  030-04    III/1
+6980       1522   ////      1522  SAG  C   RSP  030-04    III/1
+
+6990 +     1933   1936      1940  GO9  5   XRA  1-8A      B2.1    7.5E-05
+6990 +     1935   1935      1936  SAG  G   RBR  245       960
+6990 +     1935   1935      1935  SAG  G   RBR  410       130
+6990 +     1935   1935      1935  SAG  G   RBR  606       270
+6990 +     1935   ////      1936  PAL  C   RSP  027-04    III/1
+
+7000       2155   2155      2157  PAL  G   RBR  245       96
+7000       2155   2155      2157  PAL  G   RBR  410       17
+7000       2155   2155      2157  PAL  G   RBR  606       43
+7000 +     2156   ////      2156  CUL  C   RSP  18-270    III/3
+
+7010 +     2350   2354      2357  GO9  5   XRA  1-8A      B2.3    9.1E-05
+7010       2350   2351      2351  PAL  G   RBR  245       150
+7010       2350   2351      2351  PAL  G   RBR  245       150
+7010 +     2350   ////      2357  CUL  C   RSP  18-180    III/2

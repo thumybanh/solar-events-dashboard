@@ -1,0 +1,50 @@
+:Product: 20001210events.txt
+:Created: 2000 Dec 13 0302 UT
+:Date: 2000 12 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7170       0112   ////      0112  CUL  C   RSP  35-90     III/1                 
+
+7040 +     0215   ////      0216  LEA  C   RSP  025-095   III/2                 
+
+7180       0322   ////      0322  CUL  C   RSP  60-90     III/1                 
+
+7190       0332   ////      0332  CUL  C   RSP  23-90     III/1                 
+
+7050 +     0344   ////      0345  CUL  C   RSP  18-180    III/3                 
+
+7060 +     0449   0505      0515  GO8  5   XRA  1-8A      C3.3    3.1E-03   9262
+7060       0452   0453      0500  LEA  3   FLA  N13E56    SF      ERU       9262
+7060 +     0514   ////      0517  LEA  C   RSP  025-180   III/3             9262
+
+7200       0559   ////      0602  CUL  C   RSP  20-180    III/2                 
+
+7070       0600   ////      0602  LEA  C   RSP  025-180   III/3                 
+
+7080 +     0648   ////      0650  CUL  C   RSP  20-130    III/1                 
+
+7090 +     0717   ////      0718  CUL  C   RSP  28-120    III/1                 
+
+7160      B0957   ////      2256  LEA  3   DSF  N23E62    25      B.0A          
+
+7100 +     1024   1028      1034  GO8  5   XRA  1-8A      B8.3    4.5E-04       
+
+7110       1149   ////      1150  SVI  C   RSP  025-142   III/1                 
+
+7120       1204   ////      1457  SVI  U   RSP  032-158   CTM/1                 
+
+7130 +     1826   ////      1827  HOL  C   RSP  025-180   III/1                 
+
+7150       1917   1935      1948  GO8  5   XRA  1-8A      C2.8    3.8E-03       
+
+7210       2045   ////      2047  CUL  C   RSP  23-90     III/1                 
+
+7220       2138   ////      2138  CUL  C   RSP  23-90     III/1                 

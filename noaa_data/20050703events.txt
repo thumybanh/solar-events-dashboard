@@ -1,0 +1,66 @@
+:Product: 20050703events.txt
+:Created: 2005 Jul 04 1229 UT
+:Date: 2005 07 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jul 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8670 +     0251   0251      0251  PAL  G   RBR  245       100                   
+
+8860       0311   ////      0311  CUL  C   RSP  40-180    III/1                 
+
+8680 +     0445   0456      0505  G12  5   XRA  1-8A      C4.7    3.5E-03   0787
+8680       0448   0500      0504  G12  5   XFL  S09W39    3.1E+03 1.9E+04   0787
+8680 +     0450   0457      0519  LEA  3   FLA  S09W39    SF      PRB       0787
+8680       0503   ////      0503  CUL  C   RSP  100-180   III/1             0787
+
+8870       0535   ////      0535  CUL  C   RSP  30-70     III/1                 
+
+8770       0600   ////      1200  IZM  F   RNS  204       35                    
+
+8690       0612   0612      0612  LEA  G   RBR  245       290                   
+
+8700 +     0613   ////      0613  CUL  C   RSP  80-180    III/1                 
+
+8710       0708   0709      0709  LEA  G   RBR  245       210                   
+
+8720       0711   0711      0711  LEA  G   RBR  245       120                   
+
+8730       0735   0736      0737  LEA  G   RBR  245       140                   
+
+8770 +     0735   0756      1543  COM  G   RNS  245       160                   
+
+8730       0737   0743      0748  G10  5   XRA  1-8A      B8.1    4.7E-04       
+
+8780       0751   ////      1800  SVI  C   RSP  032-180   CTM/1                 
+
+8740       0849   0925      1004  G12  5   XRA  1-8A      C1.6    4.5E-03   0782
+8740       0953   0955      0958  SVI  3   FLA  S19W32    SF                0782
+
+8820 +     1207   1227      1241  G12  5   XRA  1-8A      C1.0    1.7E-03   0782
+
+8750 +     1307   ////      1308  SVI  C   RSP  030-180   III/1                 
+
+8760 +     1346   1358      1406  G12  5   XRA  1-8A      B8.1    7.7E-04   0786
+8760       1351   1403      1404  G12  5   XFL  N16E84    5.3E+02 1.2E+03   0786
+
+8790 +     1434   ////      1434  SAG  C   RSP  030-180   III/1                 
+
+8800 +     1730   ////      1730  SAG  C   RSP  030-144   III/1                 
+
+8810 +     1908   1911      1914  G12  5   XRA  1-8A      B6.0    1.9E-04       
+
+8830       2030   2030      2030  SAG  G   RBR  245       53                    
+
+8840 +     2102   2111      2124  G12  5   XRA  1-8A      C1.2    1.3E-03   0787
+8840       2106   2109      2124  HOL  3   FLA  S10W46    SF      ERU       0787
+8840       2107   2115      2123  G12  5   XFL  S10W47    1.6E+03 5.2E+03   0787
+
+8850 +     2305   2309      2311  G12  5   XRA  1-8A      B6.7    2.2E-04   0782
+8850       2308   2308      2308  G12  5   XFL  S15W46    3.0E+02 5.4E+02   0782

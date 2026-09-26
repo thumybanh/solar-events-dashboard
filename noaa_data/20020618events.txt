@@ -1,0 +1,36 @@
+:Product: 20020618events.txt
+:Created: 2002 Jun 21 0300 UT
+:Date: 2002 06 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6610       0025   ////      0025  CUL  C   RSP  57-90     III/1                 
+
+6620       0028   ////      0028  CUL  C   RSP  57-90     III/1                 
+
+6600       0107   0107      0107  LEA  G   RBR  245       57                    
+
+6630       0648   ////      0649  LEA  C   RSP  025-086   III/1                 
+
+6640       1015   ////      1016  SVI  U   RSP  025-127   III/1                 
+
+6650 +     1136   1136      1136  SVI  G   RBR  245       100                   
+
+6660       1249   ////      1251  SVI  U   RSP  025-082   III/1                 
+
+6700       1301   1329      1341  GO8  5   XRA  1-8A      B8.4    1.5E-03   0000
+
+6680 +     1340   ////      1344  SVI  U   RSP  025-081   III/1                 
+
+6690       1435   1440      1446  GO8  5   XRA  1-8A      B5.9    3.6E-04   0000
+6690       1438   1438      1447  RAM  3   FLA  N18E03    SF      ERU       0000
+
+6710 +     2052   2052      2052  PAL  G   RBR  245       72                    
+6710 +     2052   ////      2053  SAG  C   RSP  030-080   III/2                 

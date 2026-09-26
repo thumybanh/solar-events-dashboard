@@ -1,0 +1,48 @@
+:Product: 20000816events.txt
+:Created: 2000 Aug 19 0302 UT
+:Date: 2000 08 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2660 +     0042   0046      0048  GO8  5   XRA  1-8A      C4.1    9.8E-04       
+
+2670       0129   ////      0129  PAL  C   RSP  035-055   III/1                 
+
+2700       0152   0152      0152  LEA  G   RBR  245       100                   
+
+2710       0203   0203      0204  LEA  G   RBR  245       65                    
+
+2680       0444   0454      0534  GO8  5   XRA  1-8A      C1.8    4.8E-03       
+2680 +     0447   ////      0447  CUL  C   RSP  18-180    III/3                 
+
+2690 +     0523   ////      0523  CUL  C   RSP  28-120    III/2                 
+
+2720       0614   0617      0627  LEA  3   FLA  N22W59    SF      ERU       9122
+
+2730       0913   ////      0913  SVI  C   RSP  028-068   III/1                 
+
+2740 +     1216   ////      1217  SAG  C   RSP  030-080   III/1             9131
+2740       1217   1219      1222  RAM  3   FLA  N14E41    SF      ERU       9131
+
+2750 +     1456   ////      1457  HOL  C   RSP  025-095   III/1                 
+
+2760       1513   1513      1513  SVI  G   RBR  410       85                    
+
+2770 +     1851   ////      1854  HOL  C   RSP  025-090   III/1                 
+
+2780 +     2044   2053      2114  GO8  5   XRA  1-8A      C1.2    2.0E-03       
+
+2790 +     2141   ////      2146  CUL  C   RSP  28-200    III/1                 
+
+2810 +     2329   2333      2336  GO8  5   XRA  1-8A      C1.2    4.4E-04   9131
+2810 +     2330   ////      2331  CUL  C   RSP  20-120    III/2             9131
+2810      B2333  U2335      2339  LEA  3   FLA  N11E32    SF                9131
+
+2820       2336   ////      2337  CUL  C   RSP  28-80     III/1                 

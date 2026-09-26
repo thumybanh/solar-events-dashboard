@@ -1,0 +1,65 @@
+:Product: 20020524events.txt
+:Created: 2002 May 27 0300 UT
+:Date: 2002 05 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+720        0314   ////      0316  CUL  C   RSP  57-180    III/1             0000
+
+730  +     0322   ////      0328  CUL  C   RSP  57-140    II/2              0000
+730  +     0323   ////      0325  CUL  C   RSP  57-170    III/2             0000
+
+740        0410   0410      0410  SVI  G   RBR  4995      31                0000
+740        0410   0410      0410  SVI  G   RBR  8800      35                0000
+740        0410   0410      0410  SVI  G   RBR  15400     52                0000
+
+750  +     0637   0646      0651  GO8  5   XRA  1-8A      M1.1    5.6E-03   0000
+
+760        0655   0702      0709  LEA  3   FLA  N13E30    SF      ERU       9963
+
+980       A0717   ////     B0007  LEA  2   DSF  S33W41    15      B.0A      0000
+
+810        0723   0740      0757  GO8  5   XRA  1-8A      C1.3    2.3E-03   0000
+
+770  +     0821   0828      0838  GO8  5   XRA  1-8A      C2.0    1.7E-03   9963
+770       B0823  U0830     A0845  SVI  2   FLA  N18E35    SF      ERU       9963
+
+780  +     0955   0959      1004  GO8  5   XRA  1-8A      C1.3    5.8E-04   0000
+
+790        1041   ////      1041  SVI  C   RSP  025-085   III/1             0000
+
+800  +     1050   1055      1058  GO8  5   XRA  1-8A      C2.9    9.4E-04   0000
+800  +     1053   1053      1053  SVI  G   RBR  4995      73                0000
+800  +     1053   1053      1053  SVI  G   RBR  8800      91                0000
+
+820        1245   ////      1246  SVI  C   RSP  025-058   III/1             0000
+
+830        1254   1254      1254  SVI  G   RBR  245       66                0000
+
+840  +     1317   ////      0000  SVI  C   RSP  025-180   III/2             0000
+
+850        1333   ////      1334  HOL  C   RSP  025-180   III/2             0000
+850  +     1333   1333      1334  SVI  G   RBR  245       300               0000
+
+860        1756   1758      1803  RAM  3   FLA  N14E27    SF                9963
+
+870        1805   1812      1819  RAM  3   FLA  N14E27    SF                9963
+
+880  +     1905   1911      1921  GO8  5   XRA  1-8A      C2.6    2.0E-03   9963
+880        1907   1908      1908  PAL  G   RBR  4995      39                9963
+
+890        1908   1910      1917  RAM  3   FLA  N10W29    SF      ERU       9957
+
+880  +     1908   1910      1920  RAM  3   FLA  N13E25    SF      ERU       9963
+880        1908   1908      1908  PAL  G   RBR  2695      32                9963
+
+900        2040   2040      2050  RAM  3   FLA  N16E11    SF      ERU       9962
+
+910        2149   2151      2153  GO8  5   XRA  1-8A      C1.1    2.4E-04   0000

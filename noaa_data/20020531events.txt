@@ -1,0 +1,63 @@
+:Product: 20020531events.txt
+:Created: 2002 Jun 03 0300 UT
+:Date: 2002 05 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2310 +     0004   0016      0025  GO8  5   XRA  1-8A      M2.4    2.2E-02   0000
+2310 +     0006   0011      0016  LEA  G   RBR  2695      100               0000
+2310 +     0006   0007      0015  LEA  G   RBR  4995      240               0000
+2310       0007   0007      0007  LEA  G   RBR  245       57                0000
+2310       0007   0007      0007  LEA  G   RBR  410       30                0000
+2310 +     0007   0007      0012  LEA  G   RBR  8800      160               0000
+2310 +     0007   0007      0012  LEA  G   RBR  15400     140               0000
+
+2320 +     0237   0321      0506  GO8  5   XRA  1-8A      C3.1    2.4E-02   0000
+2320       0304   ////      0318  LEA  U   RSP  037-087   II/1    498       0000
+
+2330       0700   0700      0701  SVI  G   RBR  245       55                0000
+
+2490       0943   0948      0951  GO8  5   XRA  1-8A      C1.1    5.0E-04   0000
+
+2340       1114   ////      1115  SVI  C   RSP  025-131   III/1             0000
+
+2350       1125   1125      1126  SAG  G   RBR  245       66                0000
+
+2360       1134   1134      1135  SAG  G   RBR  245       84                0000
+
+2370       1251   1258      1300  SVI  G   RBR  2695      17                9973
+2370       1254   1258      1300  SVI  G   RBR  4995      65                9973
+2370       1255   1258      1300  SVI  G   RBR  8800      62                9973
+2370 +     1257   1305      1309  GO8  5   XRA  1-8A      C2.7    1.6E-03   9973
+2370 +     1302   1306      1315  HOL  3   FLA  S18E36    SF      ERU       9973
+
+2380       1423   1423      1423  SAG  G   RBR  245       69                0000
+
+2390 +     1434   1436      1437  SAG  G   RBR  245       170               0000
+
+2470 +     1445   1445      1505  SAG  G   RNS  245       240               0000
+
+2410       1459   1524      1553  GO8  5   XRA  1-8A      C3.0    8.3E-03   9973
+2410       1518   1518      1527  HOL  3   FLA  S17E37    SF      ERU       9973
+
+2420       1559   ////      1600  SVI  U   RSP  036-082   III/1             0000
+
+2430 +     1722   ////      1723  HOL  C   RSP  025-140   III/1             0000
+2430       1723   ////      1724  SAG  C   RSP  030-047   V/1               0000
+
+2440       1808   ////      1809  SAG  C   RSP  030-054   V/2               0000
+
+2450       1905   1907      1910  RAM  3   FLA  S21E60    SF                0000
+
+2460 +     1933   1940      1951  GO8  5   XRA  1-8A      C3.2    3.1E-03   0000
+
+2500       2313   ////      0056  LEA  C   RSP  120-180   CTM/1             0000
+
+2480       2337   ////      2338  HOL  C   RSP  025-075   III/1             0000

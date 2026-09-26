@@ -1,0 +1,71 @@
+:Product: 19981227events.txt
+:Created: 1998 Dec 30 0302 UT
+:Date: 1998 12 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3930 +     0114   0119      0124  GO8  5   XRA  1-8A      C2.0    9.7E-04   8419
+3930       0117   0117      0124  LEA  4   FLA  N26W11    SF      ERU       8419
+
+3940 +     0129   0135      0140  GO8  5   XRA  1-8A      C3.0    1.5E-03   8419
+3940       0131   0134      0140  LEA  4   FLA  N26W14    SF      BPT       8419
+
+3950       0255   ////      0259  LEA  C   RSP  030-05    III/1                 
+
+3960 +     0307   0312      0321  GO8  5   XRA  1-8A      C3.3    1.9E-03   8421
+3960       0310   0312      0322  LEA  4   FLA  N26E37    SF      ERU       8421
+
+3970       0420   0421      0430  LEA  4   FLA  N26W15    SF      BPT       8419
+
+4020       0459   0507      0510  LEA  4   FLA  N28E37    SF      ERU       8421
+
+3980       0522   0524      0527  LEA  4   FLA  N28E37    SF      ERU       8421
+
+3990 +     0552   0559      0608  GO8  5   XRA  1-8A      C2.2    1.7E-03   8421
+3990       0555   0556      0601  LEA  4   FLA  N28E37    SF      ERU       8421
+3990       0603   ////      0604  LEA  C   RSP  030-05    III/1             8421
+
+4000       0650   0652      0700  LEA  4   FLA  N26E38    SF                8421
+4000       0654   0654      0656  SVI  G   RBR  245       56                8421
+
+4010 +     0703   0708      0715  GO8  5   XRA  1-8A      C2.2    1.3E-03       
+
+4030 +     0915   0921      0927  GO8  5   XRA  1-8A      C2.3    1.5E-03   8421
+4030       0916   0920      0936  LEA  4   FLA  N28E35    SF      ERU       8421
+
+4210      A1007   ////      2239  LEA  3   DSF  S23W40    09      B.0A      8418
+
+4040       1328   ////      1503  SVI  C   RSP  035-05    CTM/2                 
+
+4050       1542   1542      1546  RAM  3   FLA  S24E39    SF                8422
+
+4070       1733   ////      1805  RAM  3   DSF  S16E36    08      B.5A      8422
+
+4060       1759  U1801     A1805  RAM  3   FLA  N15W90    SF                    
+
+4070       1808   1810      1815  RAM  3   FLA  S25E38    SF      DSF       8422
+
+4080 +     1824   1836      1846  GO8  5   XRA  1-8A      C2.0    2.4E-03       
+
+4100 +     2012   2019      2024  GO8  5   XRA  1-8A      C3.4    1.9E-03       
+4100       2015   2018      2033  HOL  3   FLA  N30E33    SF                8421
+
+4110       2044   ////      2045  PAL  C   RSP  030-06    III/1                 
+
+4120 +     2117   2123      2129  GO8  5   XRA  1-8A      C1.4    9.5E-04       
+
+4130 +     2150   2155      2201  GO8  5   XRA  1-8A      C1.4    7.9E-04   8416
+4130       2153   2153      2157  HOL  3   FLA  N21W19    SF                8416
+
+4140 +     2338   2342      2346  GO8  5   XRA  1-8A      C2.7    1.1E-03   8423
+4140       2340   2342      2346  LEA  3   FLA  N21W30    SF                8423
+
+4150 +     2353   2359      0010  GO8  5   XRA  1-8A      C3.6    3.0E-03       
+4150       2355   2358      0019  LEA  3   FLA  N18W19    SF                8416

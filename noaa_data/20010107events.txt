@@ -1,0 +1,47 @@
+:Product: 20010107events.txt
+:Created: 2001 Jan 10 0302 UT
+:Date: 2001 01 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Jan 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3900       0431   0447      0524  GO8  5   XRA  1-8A      C1.6    3.7E-03       
+
+3910 +     0834   0840      0847  GO8  5   XRA  1-8A      C2.0    1.2E-03       
+3910       0834   0837      0845       F   RBR  3000      16                    
+
+4060       1116   1142      1153  GO8  5   XRA  1-8A      C1.3    2.6E-03       
+
+3920       1140   1140      1141  SVI  G   RBR  245       110                   
+3920       1140   ////      1141  SVI  C   RSP  025-180   III/1                 
+
+4070       1204   1218      1228  GO8  5   XRA  1-8A      C1.9    2.5E-03       
+
+3930       1253   ////      1254  SVI  C   RSP  029-068   III/1                 
+
+3970       1255   ////      1512  SVI  U   RSP  033-153   CTM/1                 
+
+3940 +     1336   1336      1337  SVI  G   RBR  245       75                    
+
+3950 +     1343   ////      1343  SVI  C   RSP  025-180   III/2                 
+
+3960 +     1439   1439      1440  SAG  G   RBR  245       55                    
+
+3980       1525   1526      1526  SAG  G   RBR  245       70                    
+
+3990       1651   1652      1652  SAG  G   RBR  245       62                    
+
+4000       1937   1939      1939  SAG  G   RBR  245       83                    
+
+4010 +     2033   2034      2034  PAL  G   RBR  245       390                   
+4010 +     2033   ////      2035  CUL  C   RSP  18-300    III/3                 
+
+4030 +     2111   2118      2124  GO8  5   XRA  1-8A      C2.0    1.4E-03       
+
+4160       2315   ////      1054  LEA  C   RSP  070-180   CTM/1                 

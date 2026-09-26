@@ -1,0 +1,53 @@
+:Product: 20000429events.txt
+:Created: 2000 May 02 0303 UT
+:Date: 2000 04 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Apr 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4920 +     0007   0013      0023  GO8  5   XRA  1-8A      C1.2    1.1E-03       
+
+5040       0012   ////      0943  LEA  C   RSP  032-08    CTM/2                 
+
+5030       0331   0414      0510  GO8  5   XRA  1-8A      C1.8    9.0E-03       
+
+4930       0506   0506      0506  LEA  G   RBR  245       390                   
+
+4940 +     0525   0528      0530  GO8  5   XRA  1-8A      C2.0    5.4E-04   8970
+4940 +     0526   0526      0527  SVI  G   RBR  8800      58                8970
+4940       0527   0527      0534  LEA  3   FLA  S12W26    SF                8970
+
+5060 +    A0911   ////      2345  LEA  3   DSF  S05E07    10      B.0A          
+
+4970 +     1010  U1835      2245  SAG  G   RNS  245       480                   
+
+5050       1055   1101      1108  GO8  5   XRA  1-8A      B9.0    6.3E-04       
+5050       1105   ////      1111  SAG  C   RSP  030-08    III/1                 
+
+4960 +     1123   1206      1234  GO8  5   XRA  1-8A      C3.0    8.1E-03   8976
+4960       1135   ////      2319  SAG  C   RSP  030-08    CTM/1             8976
+4960       1145   1146      1154  SAG  G   RBR  606       67                8976
+4960       1145   1146      1154  SAG  G   RBR  1415      76                8976
+4960       1146   1146      1154  SAG  G   RBR  410       53                8976
+4960       1146   1147      1154  SAG  G   RBR  2695      28                8976
+4960       1147   1150      1154  SAG  U   RBR  245       520               8976
+4960 +     1158   1206      1219  RAM  3   FLA  S11W06    SF                8976
+
+5000 +     1340   1343      1345  GO8  5   XRA  1-8A      C1.0    2.8E-04   8970
+5000       1342   1342      1342  SAG  G   RBR  8800      31                8970
+5000       1342   1342      1345  HOL  3   FLA  S14W31    SF                8970
+
+5010       1702   1710      1739  HOL  3   FLA  N20W35    SF      ERU       8971
+5010       1721   1721      1721  SAG  G   RBR  410       95                8971
+
+5020       1902   ////      0000  PAL  C   RSP  025-01    CTM/1                 
+
+4970 +     1958   2231      2316  PAL  G   RNS  410       130                   
+
+5070       2358   0002      0004  HOL  3   FLA  S14W37    SF                8970

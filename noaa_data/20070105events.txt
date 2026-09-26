@@ -1,0 +1,43 @@
+:Product: 20070105events.txt
+:Created: 2007 Jan 09 2332 UT
+:Date: 2007 01 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Jan 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5840 +     0206   ////      0211  LEA  C   RSP  025-180   III/2                 
+
+5850       0212   ////      0212  CUL  C   RSP  30-70     III/1                 
+
+5860       0610   0610      0610  LEA  G   RBR  245       190                   
+5860       0610   0610      0610  LEA  G   RBR  410       140                   
+5860       0610   ////      0610  LEA  C   RSP  025-180   III/1                 
+
+5870 +     0645   0645      0645  LEA  G   RBR  245       150                   
+
+5880 +     0657   0657      0657  LEA  G   RBR  245       110                   
+
+5890       0708   ////      0708  LEA  C   RSP  025-069   III/1                 
+
+5900       0727   0727      0727  LEA  G   RBR  245       100                   
+
+5910 +     0749   0749      0749  SVI  G   RBR  245       140                   
+
+5920 +     0752   0752      0752  SVI  G   RBR  245       120                   
+
+5930 +     0809   0809      0809  SVI  G   RBR  245       140                   
+
+5940 +     0825   0825      0825  SVI  G   RBR  245       340                   
+
+5950       0859   0859      0859  LEA  G   RBR  245       100                   
+5950 +     0859   ////      0859  LEA  C   RSP  057-180   III/1                 
+
+5960 +     0942   0942      0942  SVI  G   RBR  245       730                   
+
+5970       1128   1132      1132  SVI  G   RBR  245       380                   

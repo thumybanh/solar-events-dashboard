@@ -1,0 +1,33 @@
+:Product: 20030508events.txt
+:Created: 2003 May 11 0302 UT
+:Date: 2003 05 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 May 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3740       0110   0110      0110  PAL  G   RBR  245       280                   
+
+3760       0154   ////      0154  CUL  C   RSP  20-180    III/1                 
+
+3750       0201   0201      0201  PAL  G   RBR  245       74                    
+3750       0201   0201      0201  PAL  G   RBR  410       68                    
+
+3770 +     0540   0547      0615  G10  5   XRA  1-8A      C2.3    4.3E-03   0348
+
+3780 +     0854   0858      0901  G10  5   XRA  1-8A      C1.2    4.6E-04   0348
+
+3790 +     1141   1146      1148  G10  5   XRA  1-8A      C1.9    6.1E-04   0349
+
+3810 +     1421   1421      1421  SAG  G   RBR  245       200                   
+
+3820       1825   ////      1825  HOL  C   RSP  025-045   III/1                 
+
+3830       2018   ////      2018  HOL  C   RSP  025-080   III/1                 
+
+3840 +     2137   2144      2151  G10  5   XRA  1-8A      B6.8    5.2E-04   0348

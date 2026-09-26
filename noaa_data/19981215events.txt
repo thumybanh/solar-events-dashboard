@@ -1,0 +1,45 @@
+:Product: 19981215events.txt
+:Created: 1998 Dec 18 0302 UT
+:Date: 1998 12 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1340 +    B0224  C0231     B0238  GO8  5   XRA  1-8A      C1.3                  
+
+1350       0236   0236      0236  LEA  G   RBR  245       52                    
+
+1360       0302   0302      0302  LEA  G   RBR  245       52                    
+
+1430       0700   0000      1200       F   RNS  204       10                    
+
+1370 +     0738   0738      0742  LEA  3   FLA  S20W30    SF                8408
+
+1380 +     0825   0829      0835  LEA  3   FLA  S20W30    SF                8408
+1380       0826   0829      0833  G10  5   XRA  1-8A      B7.3    2.8E-04   8408
+
+1390 +     1047   1053      1057  GO8  5   XRA  1-8A      C1.0    5.1E-04   8409
+1390      B1052  U1052      1055  SVI  3   FLA  S28W15    SF      ERU       8409
+
+1400       1219   1219      1219  SVI  G   RBR  245       140                   
+
+1410      B1309  U1310      1323  SVI  3   FLA  N24E49    SF      ERU           
+
+1420 +     1414   1417      1420  GO8  5   XRA  1-8A      B7.0    2.2E-04       
+
+1440 +     1752   1801      1815  GO8  5   XRA  1-8A      C1.3    1.6E-03       
+
+1450 +     1923   1928      1931  GO8  5   XRA  1-8A      C1.0    4.3E-04       
+
+1470       2029   ////      2029  CUL  C   RSP  20-90     III/1                 
+
+1460 +     2037   2041      2045  GO8  5   XRA  1-8A      B7.5    3.1E-04       
+1460      B2040  U2041     A2049  RAM  2   FLA  S18W36    SF                8408
+
+1480       2332   2336      2339  G10  5   XRA  1-8A      B6.4    2.4E-04       

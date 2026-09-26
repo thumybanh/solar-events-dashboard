@@ -1,0 +1,45 @@
+:Product: 19990921events.txt
+:Created: 1999 Sep 24 0302 UT
+:Date: 1999 09 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9500       0256   ////      0333  LEA  4   EPL  N19W90    0.25    B.9A      8699
+9500 +     0300   0332      0341  GO8  5   XRA  1-8A      C5.2    8.6E-03   8699
+9500       0312   ////      0315  CUL  C   RSP  50-160    II/1              8699
+9500       0312   ////      0315  CUL  C   RSP  50-160    II/1              8699
+
+9520       0342   0352      0416  G10  5   XRA  1-8A      C9.4    1.5E-02   8706
+9520       0342   ////      0400  LEA  C   RSP  030-08    III/3             8706
+
+9510 +     0342   ////      0346  CUL  C   RSP  18-260    III/3                 
+
+9520 +     0343   0343      0346  LEA  G   RBR  245       340               8706
+9520       0343   0344      0346  LEA  G   RBR  2695      46                8706
+9520 +    B0344  U0349      0411  COM  3   FLA  N20E61    SF      ERU       8706
+9520       0344   0345      0346  LEA  G   RBR  1415      48                8706
+
+9530 +     0715   0720      0724  GO8  5   XRA  1-8A      C2.7    1.0E-03   8704
+9530       0718   0719      0722       F   RBR  3000      19                8704
+9530       0719   0719      0723  SVI  3   FLA  S23E28    SF                8704
+
+9540       0939   1047      1120  GO8  5   XRA  1-8A      C6.4    2.3E-02       
+
+9550       1622   ////      1623  SAG  C   RSP  030-07    V/2                   
+
+9560 +     1720   ////      1721  SAG  C   RSP  030-06    III/1                 
+
+9570       1917   ////      1920  PAL  C   RSP  025-04    III/1                 
+
+9700      A2000   ////      1114  RAM  3   DSF  N32W20    12      B.0A          
+
+9710      A2145   ////      1114  RAM  3   DSF  S13E16    05      B.0A      8704
+
+9580       2157   ////      2159  PAL  C   RSP  025-05    III/1                 

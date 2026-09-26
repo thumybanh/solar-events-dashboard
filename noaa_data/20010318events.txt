@@ -1,0 +1,92 @@
+:Product: 20010318events.txt
+:Created: 2001 Mar 21 0302 UT
+:Date: 2001 03 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Mar 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2140 +     0015   ////      0015  LEA  C   RSP  025-102   III/1                 
+
+2160       0350   ////      0350  LEA  C   RSP  025-120   III/1                 
+
+2170       0421   0426      0434  G10  5   XRA  1-8A      B5.8    4.0E-04       
+
+2180       0516   0524      0531  G10  5   XRA  1-8A      C1.9    1.2E-03   9373
+2180       0520   0522      0542  LEA  4   FLA  S04W28    SF      ERU       9373
+2180 +     0521   0522      0522  SVI  G   RBR  245       110               9373
+
+2350       0700   0000      1200       F   RNS  204       10                    
+
+2530       0705   ////      1130  SVI  U   RSP  025-180   CTM/1                 
+
+2190 +     0739   0748      0755  GO8  5   XRA  1-8A      C3.4    2.3E-03   9373
+2190       0742   0748      0800  LEA  2   FLA  S09W41    SF      ERU       9373
+2190       0742   ////      1022  LEA  C   RSP  060-180   CTM/1             9373
+
+2200 +     0758   0759      0759  SVI  G   RBR  245       71                    
+
+2210       0845   0850      0853  GO8  5   XRA  1-8A      C3.1    9.9E-04   9373
+2210 +     0846   0847      0847  SVI  G   RBR  410       64                9373
+2210 +     0846   ////      0847  SVI  C   RSP  025-180   III/2             9373
+2210       0846   0847      0847  LEA  U   RBR  606       27                9373
+2210 +     0847   0847      0847  SVI  G   RBR  245       39                9373
+2210 +     0850   0851      0855  SVI  3   FLA  S05W27    SF      ERU       9373
+2210 +     0852   ////      0856  LEA  C   RSP  043-132   II/2    380       9373
+
+2220 +     0925   ////      0928  SVI  C   RSP  025-180   III/1                 
+
+2230 +     1101   1109      1118  GO8  5   XRA  1-8A      C1.8    1.6E-03   9373
+2230      B1104  U1106      1137  RAM  3   FLA  S08W44    SF      ERU       9373
+
+2240       1133   ////      1142  SVI  C   RSP  025-180   III/1                 
+
+2250       1213   ////      1217  SVI  C   RSP  025-123   III/2                 
+
+2260 +     1220   1226      1228  GO8  5   XRA  1-8A      C2.1    7.4E-04       
+
+2270 +     1242   1242      1243  SVI  G   RBR  245       68                    
+
+2280       1244   1246      1249  RAM  3   FLA  S05W32    SF      ERU       9373
+
+2290 +     1304   1308      1317  GO8  5   XRA  1-8A      B9.1    6.3E-04       
+
+2300       1342   ////      1342  SVI  C   RSP  025-162   III/1                 
+
+2310       1345   1347      1349  RAM  3   FLA  S03W31    SF      ERU       9373
+
+2320       1355   1355      1359  RAM  3   FLA  S03W34    SF      ERU       9373
+
+2330 +     1411   1414      1416  GO8  5   XRA  1-8A      B8.3    2.1E-04   9373
+2330 +     1411   1415      1421  HOL  3   FLA  S05W31    SF      ERU       9373
+2330       1413   1414      1414  SAG  G   RBR  410       70                9373
+
+2340       1423   1428      1432  HOL  3   FLA  S05W33    SF                9373
+
+2360 +     1531   ////      1532  HOL  C   RSP  025-180   III/1                 
+
+2570      A1555   ////      0652  SVI  3   DSF  S21E57    08      B.0A          
+
+2370 +     1559   1600      1600  SAG  G   RBR  245       52                    
+
+2380 +     1727   1733      1738  GO8  5   XRA  1-8A      C1.9    9.2E-04   9384
+2380 +     1730   1734      1742  HOL  3   FLA  N09W48    SF      ERU       9384
+
+2390 +     1957   ////      2001  PAL  C   RSP  025-164   III/1                 
+
+2400 +     2031   ////      2037  PAL  C   RSP  025-180   III/1                 
+
+2410 +     2159   ////      2202  PAL  C   RSP  025-180   III/1                 
+
+2420       2201   ////      2202  HOL  C   RSP  025-085   III/1                 
+
+2430 +     2326   ////      2327  PAL  C   RSP  025-180   III/2                 
+
+2440       2341   2342      2342  LEA  U   RBR  245       160                   
+2440 +     2341   ////      2344  HOL  C   RSP  025-180   III/2                 
+2440 +     2341   ////      2343  PAL  C   RSP  025-180   V/3                   

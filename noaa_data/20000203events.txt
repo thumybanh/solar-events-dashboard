@@ -1,0 +1,51 @@
+:Product: 20000203events.txt
+:Created: 2000 Feb 06 0302 UT
+:Date: 2000 02 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+880  +     0106   0110      0115  GO8  5   XRA  1-8A      C1.3    6.8E-04       
+
+890        0120   ////      0120  LEA  C   RSP  030-05    III/1                 
+
+900        0315   ////      0315  LEA  C   RSP  030-05    III/1                 
+
+910  +     0452   0457      0502  GO8  5   XRA  1-8A      C2.7    1.0E-03       
+910        0501   ////      0501  LEA  C   RSP  030-04    III/1                 
+
+920  +     0714   0715      0718  LEA  G   RBR  410       86                8848
+920  +     0714   ////      0717  LEA  C   RSP  030-08    III/3             8848
+920  +     0715   0717      0717  LEA  G   RBR  245       110               8848
+920        0716   0717      0723  LEA  3   FLA  S08W17    SF                8848
+
+930  +     1026   1030      1035  GO8  5   XRA  1-8A      B8.1    3.8E-04       
+
+940  +     1201   1205      1210  GO8  5   XRA  1-8A      C1.2    5.4E-04       
+940        1202   ////      1204  SVI  C   RSP  035-07    III/1                 
+
+950        1322   1322      1322  SVI  U   RBR  245       110                   
+
+960  +     1501   1506      1508  GO8  5   XRA  1-8A      C1.4    4.0E-04       
+
+970  +     1635   1659      1705  GO8  5   XRA  1-8A      C1.0    1.7E-03       
+
+980  +     1849   1852      1854  GO8  5   XRA  1-8A      B8.7    2.3E-04       
+
+990  +     1957   2000      2004  GO8  5   XRA  1-8A      C8.4    2.4E-03       
+990  +     1958   1959      2005  PAL  G   RBR  4995      180                   
+990  +     1958   1959      2003  PAL  G   RBR  8800      67                    
+990  +     1958   1959      2003  PAL  G   RBR  15400     160                   
+990        1959   1959      2002  SAG  G   RBR  2695      30                    
+
+1000       2008   2010      2015  HOL  3   FLA  S36E66    SF                8854
+
+1010       2046   2055      2110  GO8  5   XRA  1-8A      C1.7    2.3E-03       
+
+1020 +     2335   2339      2343  GO8  5   XRA  1-8A      B8.2    3.4E-04       

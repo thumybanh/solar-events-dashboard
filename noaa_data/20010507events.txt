@@ -1,0 +1,42 @@
+:Product: 20010507events.txt
+:Created: 2001 May 10 0302 UT
+:Date: 2001 05 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5680 +     0231   0245      0250  GO8  5   XRA  1-8A      B7.7    6.8E-04       
+
+5690 +     0358   0403      0422  GO8  5   XRA  1-8A      B6.2    8.1E-04       
+5690       0359   ////      0400  CUL  C   RSP  40-110    III/1                 
+
+5700       0445   0446      0446  SVI  G   RBR  410       67                    
+
+5710 +     0620   0624      0627  GO8  5   XRA  1-8A      B7.7    2.6E-04       
+
+5720 +     0632   0643      0656  GO8  5   XRA  1-8A      C1.0    1.2E-03       
+
+5740 +     1136   1220      1243  GO8  5   XRA  1-8A      C3.9    9.6E-03   9445
+
+5730       1138   1142      1148  RAM  3   FLA  N26W32    SF      ERU       9445
+
+5740       1205   1214      1241  RAM  3   FLA  N25W35    SF      ERU       9445
+
+5750 +     1534   1559      1616  GO8  5   XRA  1-8A      C2.2    4.4E-03   9445
+5750 +     1538   1544      1613  RAM  3   FLA  N24W40    SF      ERU       9445
+
+5760 +     1629   1629      1629  SAG  G   RBR  245       120                   
+5760 +     1629   1629      1629  SAG  G   RBR  410       52                    
+
+5770 +     1650   1650      1650  SAG  G   RBR  245       100                   
+
+5780 +     1819   1831      1846  GO8  5   XRA  1-8A      C1.7    2.4E-03       
+5780 +     1821   ////      1821  PAL  U   RSP  025-086   III/2                 
+
+5790       1834   ////      1835  PAL  U   RSP  025-055   III/1                 

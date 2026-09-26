@@ -1,0 +1,94 @@
+:Product: 20000321events.txt
+:Created: 2000 Mar 24 0302 UT
+:Date: 2000 03 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Mar 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3450       0008   0008      0012  LEA  3   FLA  N14W39    SF                8910
+
+3460       0031   0035      0039  LEA  3   FLA  N30W32    SF                8918
+
+3480       0041  U0045     A0100  LEA  3   FLA  N29W32    SF                8918
+3480       0043   ////      0047  LEA  C   RSP  030-08    III/2             8918
+
+3490       0111   0111      0115  LEA  3   FLA  N31W29    SF                8918
+
+3500       0116   0121      0136  LEA  3   FLA  N31W29    SF                8918
+
+3510       0153   ////      0158  PAL  C   RSP  025-15    III/2                 
+
+3520       0234   0242      0308  LEA  3   FLA  N13W38    SF                8910
+3520       0236   0243      0249  G10  5   XRA  1-8A      C5.2    3.4E-03   8910
+
+3540       0242   0242      0309  LEA  3   FLA  S29W34    SF      ERU       8909
+
+3530       0401   0410      0428  LEA  3   FLA  N11W36    SF      ERU       8910
+
+3620       0509  U0534      0535  SVI  U   RNS  245       99                    
+
+3550       0625   ////      0625  LEA  C   RSP  030-05    III/1                 
+
+3560       0656   0656      0700  LEA  3   FLA  N08W37    SF      ERU       8910
+3560 +     0657   ////      0659  LEA  C   RSP  030-07    III/2             8910
+
+3570 +     0701   0718      0755  LEA  3   FLA  N11W39    SF      ERU       8910
+
+3630 +     0708   ////      0801  LEA  C   RSP  040-06    CTM/1                 
+
+3870       0711   0712      0712  SVI  G   RBR  410       89                    
+
+3570 +     0717   0724      0728  GO8  5   XRA  1-8A      C7.1    4.0E-03   8910
+
+3580       0731   0731      0732  SVI  G   RBR  410       63                    
+
+3630       0734   ////      0740  CUL  C   RSP  28-180    III/1                 
+
+3590 +     0736   ////      0737  LEA  C   RSP  030-08    III/2                 
+
+3600 +     0742   0746      0749  GO8  5   XRA  1-8A      C5.3    1.8E-03       
+
+3610       0756   0757      0759  SVI  G   RBR  245       94                    
+
+3640       0918   0930      1024  LEA  3   FLA  N11W41    SF                8910
+
+3650       1202   ////      1203  SVI  C   RSP  035-06    III/1                 
+
+3660       1229   1229      1229  SVI  G   RBR  245       58                    
+
+3670       1230   1232      1232  SAG  G   RBR  245       68                    
+
+3680       1326   1326      1326  SAG  G   RBR  245       52                    
+
+3690 +     1412   1424      1435  GO8  5   XRA  1-8A      M1.0    1.2E-02   8918
+3690       1421   ////      1424  SVI  C   RSP  067-08    III/1             8918
+3690       1421   ////      1424  SVI  C   RSP  067-08    II/1    1200      8918
+
+3880       1430   1511      1534  HOL  3   FLA  N31W36    SF                8918
+
+3690       1430   1511      0000  HOL  3   FLA  N31W36    SF                8918
+
+3720       1446   1455      1532  HOL  3   FLA  N13E64    SF                8918
+
+3890       1507   1507      1507  SAG  G   RBR  245       9                     
+
+3740       1518   1519      1521  HOL  3   FLA  N09W42    SF                8910
+
+3700       1519   1519      1525  HOL  3   FLA  N11E33    SF                8916
+
+3710       1603   1606      1613  RAM  3   FLA  N12W47    SF                8910
+
+3750 +     1927   2015      2037  HOL  3   FLA  N30W41    SF                8918
+
+3760       2128   2130      2136  PAL  G   RBR  2695      40                    
+3760 +     2128   2130      2136  PAL  G   RBR  8800      180                   
+3760 +     2128   2130      2136  PAL  G   RBR  15400     220                   
+3760 +     2128   2141      2157  GO8  5   XRA  1-8A      C8.8    1.2E-02       
+3760       2129   2131      2136  PAL  G   RBR  1415      25                    
+3760 +     2129   2130      2136  PAL  G   RBR  4995      91                    

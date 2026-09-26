@@ -1,0 +1,33 @@
+:Product: 20091231events.txt
+:Created: 2010 Jan 03 0332 UT
+:Date: 2009 12 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2009 Dec 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4160       0042   0048      0100  G14  5   XRA  1-8A      B2.6    2.5E-04       
+
+4170       0107   0112      0116  G14  5   XRA  1-8A      B3.1    1.1E-04       
+
+4180       0330   0417      0439  G14  5   XRA  1-8A      B2.6    8.0E-04       
+4180       0413   0413      0413  LEA  G   RBR  245       100                   
+
+4190       0742   0747      0750  G14  5   XRA  1-8A      B2.9    8.8E-05       
+
+4200       1024   1027      1029  G14  5   XRA  1-8A      B1.9    2.9E-05       
+
+4210       1054   1059      1106  G14  5   XRA  1-8A      B1.6    9.3E-05       
+
+4220       1115   1120      1131  G14  5   XRA  1-8A      B1.9    1.6E-04       
+
+4230       1429   1432      1451  G14  5   XRA  1-8A      B1.3    1.4E-04       
+
+4240       1537   1542      1546  G14  5   XRA  1-8A      B1.5    6.1E-05       
+
+4250       1902   1906      1910  G14  5   XRA  1-8A      B1.8    5.7E-05       

@@ -1,0 +1,76 @@
+:Product: 20021212events.txt
+:Created: 2002 Dec 15 0300 UT
+:Date: 2002 12 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Dec 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6710       0118   ////      0119  PAL  C   RSP  025-047   III/1                 
+
+6730       0311   ////      0311  CUL  C   RSP  25-80     III/1                 
+
+6720 +     0413   ////      0413  CUL  C   RSP  18-180    III/1                 
+
+6740 +     0427   ////      0427  LEA  C   RSP  025-180   III/1                 
+
+6750 +     0750   ////      0752  CUL  C   RSP  30-130    III/1                 
+
+6760 +     0802   0817      0832  GO8  5   XRA  1-8A      C4.2    5.1E-03       
+6760 +     0804   0805      0805  SVI  G   RBR  245       390                   
+
+6970       1008   ////      1013  LEA  C   RSP  025-180   III/1                 
+
+6770       1009   ////      1013  SVI  U   RSP  029-179   III/1                 
+
+6820       1014  U1238      1318  SVI  U   RNS  245       790                   
+
+6780 +     1121   1143      1223  GO8  5   XRA  1-8A      C5.8    1.7E-02       
+6780 +     1123   ////      1124  SVI  C   RSP  025-180   III/2                 
+
+6830       1200   ////      1409  SVI  U   RSP  067-180   CTM/1                 
+
+6790 +     1233   1239      1242  GO8  5   XRA  1-8A      C8.3    3.6E-03       
+6790       1235   1236      1238  SAG  G   RBR  245       290                   
+6790       1236   ////      1239  SVI  C   RSP  025-180   III/2                 
+
+6800 +     1318   ////      1319  SVI  C   RSP  025-180   III/2                 
+6800       1318   1318      1318  SAG  G   RBR  245       100                   
+
+6810       1352   ////      1354  SVI  C   RSP  032-180   III/2                 
+6810       1354   1354      1354  SAG  G   RBR  245       65                    
+
+6840      B1844   1857      1911  RAM  3   FLA  N24E74    SF                0223
+6840       1859   1859      1859  SAG  G   RBR  245       65                0223
+6840 +     1859   ////      1900  HOL  C   RSP  025-170   III/1             0223
+
+6850 +     1943   ////      1951  SAG  C   RSP  030-080   III/2                 
+
+6860       1951   ////      1952  HOL  C   RSP  025-180   III/2                 
+
+6880       2008   2015      2015  PAL  G   RBR  245       400                   
+6880       2014   2016      2016  PAL  G   RBR  410       320                   
+6880       2015   2016      2016  PAL  G   RBR  606       87                    
+
+6870 +     2020   ////      2021  CUL  C   RSP  20-180    III/2                 
+
+6900       2028   ////      2028  CUL  C   RSP  20-180    III/3                 
+
+6910       2037   ////      2037  CUL  C   RSP  220-310   III/1                 
+
+6920       2124   ////      2126  CUL  C   RSP  20-180    III/1                 
+
+6930       2138   ////      2138  CUL  C   RSP  23-140    III/1                 
+
+6940       2141   ////      2143  CUL  C   RSP  23-100    III/1                 
+
+6950       2151   ////      2151  CUL  C   RSP  27-120    III/1                 
+
+6960       2157   ////      2157  CUL  C   RSP  150-350   III/1                 
+
+6890 +     2222   ////      2226  CUL  C   RSP  20-150    III/2                 

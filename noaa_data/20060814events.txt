@@ -1,0 +1,47 @@
+:Product: 20060814events.txt
+:Created: 2006 Aug 17 0329 UT
+:Date: 2006 08 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Aug 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1510       0000   ////      0000  CUL  C   RSP  40-130    CTM/1                 
+
+1530       0150   0150      0150  PAL  G   RBR  410       110                   
+1530 +     0150   0150      0150  LEA  G   RBR  245       730                   
+1530 +     0150   ////      0150  CUL  C   RSP  240-500   III/1                 
+
+1540       0210   ////      0211  LEA  U   RSP  103-146   III/1                 
+1540 +     0211   0211      0211  LEA  G   RBR  245       310                   
+
+1550 +     0226   0226      0226  LEA  G   RBR  245       420                   
+1550 +     0226   ////      0226  CUL  C   RSP  200-400   III/1                 
+
+1560 +     0249   ////      0250  PAL  C   RSP  025-180   III/1                 
+
+1570 +     0348   0349      0349  LEA  G   RBR  245       400                   
+1570       0348   ////      0349  CUL  C   RSP  110-650   III/1                 
+
+1610 +     0420   ////      2326  COM  C   RSP  30-80     CTM/1                 
+
+1590 +     0451   0831      1650  COM  G   RNS  245       93                    
+
+1580       0851   ////      0852  LEA  C   RSP  029-107   III/1                 
+1580 +     0852   0857      0900  G12  5   XRA  1-8A      B2.7    1.2E-04       
+
+1600 +     1434   1440      1444  G12  5   XRA  1-8A      B1.4    7.4E-05       
+1600 +     1438   ////      1438  SVI  C   RSP  025-159   III/2                 
+
+1620       1623   1628      1635  G12  5   XRA  1-8A      B1.1    7.3E-05       
+
+1750       1643   ////      0447  PAL  C   RSP  030-180   CTM/1                 
+
+1850       2105   ////      0951  LEA  C   RSP  040-180   CTM/1                 
+
+1650 +     2357   ////      2358  LEA  C   RSP  025-094   III/1                 

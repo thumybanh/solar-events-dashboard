@@ -1,0 +1,27 @@
+:Product: 19990903events.txt
+:Created: 1999 Sep 06 0302 UT
+:Date: 1999 09 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Sep 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5540 +     0001   ////      0008  LEA  C   RSP  030-04    IV/1                  
+
+5600       0339   0428      0524  GO8  5   XRA  1-8A      C1.7    5.3E-03       
+
+5620       1720   ////      1720  SAG  C   RSP  030-05    III/1                 
+
+5630       2005   2006      2018  HOL  3   FLA  N17E03    SF                8682
+
+5640       2034   2049      2058  GO8  5   XRA  1-8A      C1.3    1.3E-03   8675
+5640       2047   2049      2102  HOL  3   FLA  N21W50    SF                8675
+
+5650       2342   2342      2342  PAL  G   RBR  410       78                    
+
+5660       2344   2347      2347  PAL  G   RBR  410       110                   

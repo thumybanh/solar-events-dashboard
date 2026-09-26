@@ -1,0 +1,47 @@
+:Product: 20070516events.txt
+:Created: 2007 May 20 2332 UT
+:Date: 2007 05 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 May 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 510 +     0109   0113      0121  G11  5   XRA  1-8A      B1.0    6.6E-05   0956
+
+ 520 +     0148   0153      0155  G11  5   XRA  1-8A      B2.0    6.2E-05   0956
+ 520 +     0150   ////      0152  LEA  C   RSP  025-083   III/1             0956
+
+ 530 +     0214   0222      0238  G11  5   XRA  1-8A      B2.6    2.9E-04   0956
+ 530 +     0230   ////      0233  CUL  C   RSP  20-80     III/1             0956
+
+ 540 +     0556   0601      0606  G11  5   XRA  1-8A      B1.9    8.9E-05   0956
+
+ 550       0646   ////      0647  SVI  C   RSP  025-059   III/1                 
+
+ 560       0717   ////      0718  SVI  C   RSP  029-044   III/1                 
+
+ 570       0726   ////      0727  SVI  C   RSP  025-040   III/1                 
+
+ 580       0739   ////      0740  LEA  C   RSP  025-044   III/1                 
+
+ 590       0801   ////      0802  LEA  C   RSP  025-092   III/1                 
+
+ 600       0913   ////      0921  SVI  C   RSP  025-054   III/1                 
+
+ 610 +     1208   1222      1230  G11  5   XRA  1-8A      B1.8    2.1E-04   0956
+
+ 620 +     1302   1305      1308  G11  5   XRA  1-8A      B1.8    5.8E-05   0956
+
+ 630 +     1334   ////      1334  SVI  C   RSP  025-078   III/1                 
+
+ 640 +     1719   1741      1753  G11  5   XRA  1-8A      C2.9    3.5E-03   0956
+ 640 +     1724   ////      1733  SAG  C   RSP  030-180   III/1             0956
+ 640       1725   1741      1819  HOL  3   FLA  N00E35    SF      ERU       0956
+
+ 650 +     1859   1904      1909  G11  5   XRA  1-8A      B1.7    8.7E-05   0956
+ 650       1900   ////      1900  PAL  C   RSP  025-052   III/1             0956

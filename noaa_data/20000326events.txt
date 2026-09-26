@@ -1,0 +1,69 @@
+:Product: 20000326events.txt
+:Created: 2000 Mar 29 0302 UT
+:Date: 2000 03 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Mar 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5380       0000   ////      0000  CUL  C   RSP  23-180    CTM/1                 
+
+5170 +     0257   ////      0259  CUL  C   RSP  18-180    III/3                 
+
+5180 +     0259   0300      0300  LEA  G   RBR  245       500                   
+
+5190       0313   0313      0313  PAL  G   RBR  245       130                   
+
+5200 +     0647   0648      0648  LEA  G   RBR  245       180                   
+5200       0647   ////      0647  LEA  C   RSP  030-06    III/2                 
+
+5210       1036   1038      1042  SVI  U   RBR  245       80                    
+5210       1036   ////      1042  SVI  C   RSP  035-07    III/1                 
+
+5220       1118   ////      1118  SAG  C   RSP  035-06    III/1                 
+
+5260 +     1134   1149      1318  SVI  G   RNS  245       79                    
+
+5230       1138   1216      1251  GO8  5   XRA  1-8A      C4.5    1.5E-02       
+
+5240       1329   1339      1343  GO8  5   XRA  1-8A      C2.9    2.0E-03       
+
+5250 +     1444   1508      1604  HOL  3   FLA  N08W30    SF                8916
+5250       1446   1507      1525  GO8  5   XRA  1-8A      C2.8    5.9E-03   8916
+
+5280       1601   1606      1614  HOL  3   FLA  S18E38    SF                8925
+
+5290       1618   1626      1632  HOL  3   FLA  S18E01    SF                8921
+
+5320       1624   1624      1635  HOL  3   FLA  S18E38    SF                8925
+
+5300       1638   1641      1644  HOL  3   FLA  S11E27    SF                8925
+
+5310 +     1645   1645      1649  RAM  3   FLA  S18E01    SF                8921
+
+5360       1710   ////      1755  SAG  C   RSP  030-07    CTM/1                 
+
+5330 +     1727   1734      1739  GO8  5   XRA  1-8A      M2.3    9.9E-03   8926
+5330       1730   1730      1733  SAG  G   RBR  410       36                8926
+5330       1730   1731      1733  SAG  G   RBR  606       83                8926
+5330       1730   1731      1736  SAG  G   RBR  8800      52                8926
+
+5350       1730   ////      1747  RAM  3   DSF  S11W55    06      B.9A      8926
+
+5330       1731   1731      1736  SAG  U   RBR  4995      38                8926
+5330       1731   1731      1736  SAG  G   RBR  15400     44                8926
+5330 +     1731   1736      1752  RAM  3   FLA  S12W55    SF      ERU       8926
+
+5340       1802   1806      1810  HOL  3   FLA  S17W14    SF                8921
+
+5390       2111   ////      0000  CUL  C   RSP  30-160    CTM/1                 
+
+5370 +     2205   2212      2220  GO8  5   XRA  1-8A      C4.1    2.9E-03   8926
+5370 +     2206   2212      2234  HOL  3   FLA  S09W59    SF                8926
+
+5420       2316   ////      0151  LEA  C   RSP  040-08    CTM/1                 

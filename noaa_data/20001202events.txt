@@ -1,0 +1,33 @@
+:Product: 20001202events.txt
+:Created: 2000 Dec 05 0302 UT
+:Date: 2000 12 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Dec 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6130 +     0015   0019      0024  GO8  5   XRA  1-8A      C1.0    4.9E-04   9246
+6130       0018   0019      0023  LEA  3   FLA  S13E06    SF                9246
+
+6140 +     0109   0109      0110  LEA  G   RBR  410       270                   
+
+6200       0617   ////      1458  SVI  C   RSP  025-180   CTM/1                 
+
+6170       0946   0946      0946  LEA  G   RBR  245       68                    
+
+6180 +     1026   1030      1035  GO8  5   XRA  1-8A      C1.2    5.4E-04       
+6180       1028   1028      1029  SVI  G   RBR  245       54                    
+
+6190       1431   1432      1432  SAG  G   RBR  245       63                    
+
+6150       2105   2107      2307  PAL  G   RNS  410       110                   
+6150 +     2109   2329      0136  PAL  G   RNS  245       430                   
+
+6220       2149   ////      0248  LEA  C   RSP  025-180   CTM/1                 
+
+6210       2207   2207      2207  PAL  G   RBR  245       2100                  

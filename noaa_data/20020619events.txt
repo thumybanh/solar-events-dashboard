@@ -1,0 +1,63 @@
+:Product: 20020619events.txt
+:Created: 2002 Jun 22 0300 UT
+:Date: 2002 06 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6720 +     0240   ////      0241  LEA  C   RSP  025-135   III/1                 
+
+6730       0255   ////      0257  CUL  C   RSP  57-230    III/1                 
+
+6740 +     0317   ////      0328  CUL  C   RSP  57-180    III/1                 
+
+6910       0509   ////      0510  CUL  C   RSP  57-180    III/1                 
+
+6750       0510   ////      0510  LEA  C   RSP  025-180   III/1                 
+
+6920       0518   ////      0522  CUL  C   RSP  57-180    III/1                 
+
+6760       0521   ////      0521  LEA  C   RSP  025-180   III/1                 
+
+6930       0601   ////      0602  CUL  C   RSP  57-80     III/1                 
+
+6770       0701   0701      0703  SVI  G   RBR  410       87                    
+
+6780 +     0834   ////      0835  SVI  C   RSP  025-180   III/2                 
+6780 +     0834   0834      0834  SVI  G   RBR  245       120                   
+6780       0834   0834      0834  SVI  G   RBR  410       83                    
+
+6790 +     0852   0854      0854  SVI  G   RBR  245       72                    
+6790       0852   ////      0856  LEA  C   RSP  082-180   III/1                 
+
+6800       0902   ////      0904  LEA  C   RSP  025-180   III/1                 
+
+6810       0957   0958      0959  SVI  G   RBR  245       75                    
+
+6820 +     1001   1015      1024  GO8  5   XRA  1-8A      C5.5    4.7E-03       
+6820       1004   1007      1007  SVI  G   RBR  1415      79                    
+6820       1007   1008      1009  SVI  G   RBR  4995      32                    
+6820       1007   1009      1010  SVI  G   RBR  8800      55                    
+6820       1020   ////      1022  SVI  C   RSP  025-132   III/1                 
+
+6830 +     1504   1508      1512  GO8  5   XRA  1-8A      B7.5    2.9E-04       
+
+6840       1524   ////      1525  SVI  C   RSP  036-056   III/1                 
+
+6850       1544   ////      1544  SVI  U   RSP  025-082   III/1                 
+
+6860       1632   1632      1632  PAL  G   RBR  245       98                    
+
+6870       1820   1829      1838  GO8  5   XRA  1-8A      B7.9    5.9E-04   0000
+
+6900       2047   ////      2057  SAG  C   RSP  030-060   III/1                 
+
+6880       2054   2054      2055  PAL  U   RBR  245       430                   
+
+6890       2108   2109      2109  PAL  G   RBR  245       75                    

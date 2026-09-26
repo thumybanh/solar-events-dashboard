@@ -1,0 +1,66 @@
+:Product: 20020401events.txt
+:Created: 2002 Apr 04 0300 UT
+:Date: 2002 04 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Apr 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6220       0152   ////      0152  CUL  C   RSP  57-170    III/1                 
+
+5980       0237   0239      0242  LEA  3   FLA  N14E16    SF      ERU       9885
+
+6230       0355   ////      0356  CUL  C   RSP  65-140    III/1                 
+
+6240       0424   ////      0424  CUL  C   RSP  57-75     III/1                 
+
+6000       0523   ////      0739  LEA  C   RSP  125-180   CTM/1                 
+
+5990       0534   0534      0534  LEA  G   RBR  245       50                    
+
+6010 +     0810   0810      0814  LEA  3   FLA  N00E32    SF      ERU       9887
+
+6020       0901   ////      1009  LEA  C   RSP  113-180   CTM/1                 
+
+6030 +     1300   1303      1307  GO8  5   XRA  1-8A      C1.3    5.1E-04       
+
+6040       1313   1314      1317  SVI  3   FLA  N01E29    SF                9887
+
+6050 +     1359   1408      1413  SVI  3   FLA  N01E29    SF                9887
+
+6060       1420   1424      1433  SVI  3   FLA  S01E28    SF      ERU       9887
+
+6080 +     1441   1446      1450  GO8  5   XRA  1-8A      C1.9    8.4E-04   9885
+6080 +     1444   1445      1454  RAM  3   FLA  N11E08    SF      ERU       9885
+
+6090 +     1529   1539      1557  GO8  5   XRA  1-8A      C3.0    4.0E-03   9886
+6090 +     1532   1534      1547  RAM  3   FLA  N10E21    SF      ERU       9886
+
+6100      U1647   1650     U1651  SVI  U   RBR  606       230                   
+
+6110       1713   1713      1718  RAM  3   FLA  S01E28    SF                9887
+
+6120       1720   1722      1730  RAM  3   FLA  S01E28    SF      ERU       9887
+
+6130       1848   ////      1850  PAL  C   RSP  025-065   III/1                 
+
+6140       1905   1912      1920  G10  5   XRA  1-8A      C1.9    1.6E-03       
+
+6150       1928   1928      1928  SAG  G   RBR  245       65                    
+
+6160       1948   ////      1955  HOL  C   RSP  025-140   III/1                 
+
+6170 +     2119   2130      2143  GO8  5   XRA  1-8A      C3.3    3.9E-03       
+
+6180       2145   2146      2146  SAG  G   RBR  245       88                    
+
+6190       2149   2149      2149  SAG  G   RBR  245       50                    
+
+6210       2151   2151      2151  PAL  G   RBR  245       83                    
+
+6200       2152   2152      2152  SAG  G   RBR  245       60                    

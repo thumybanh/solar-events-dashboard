@@ -1,0 +1,52 @@
+:Product: 20040830events.txt
+:Created: 2004 Sep 02 0302 UT
+:Date: 2004 08 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Aug 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1580 +     0304   0311      0318  G12  5   XRA  1-8A      C2.4    1.1E-03   0663
+1580       0306   0306      0307  LEA  U   RBR  245       140               0663
+1580 +     0307   ////      0311  CUL  C   RSP  27-330    III/2             0663
+1580       0307   0314      0317  G12  5   XFL  N06W66    2.1E+03 1.0E+04   0663
+1580 +     0315   ////      0325  CUL  C   RSP  40-140    II/3              0663
+
+1590       0400   ////      0400  CUL  C   RSP  20-75     III/2                 
+
+1600 +     0954   1000      1010  G12  5   XRA  1-8A      B2.6    2.3E-04   0663
+1600       0955   ////      0957  SVI  C   RSP  025-147   III/1             0663
+1600       0957   1009      1009  G12  5   XFL  N04W71    5.5E+02 1.0E+03   0663
+
+1610 +     1400   1403      1405  G12  5   XRA  1-8A      B2.5    6.2E-05   0663
+1610       1403   1403      1403  G12  5   XFL  N06W72    4.8E+02 9.5E+02   0663
+
+1620       1449   1452      1454  G12  5   XRA  1-8A      B2.5    6.2E-05   0663
+1620       1453   1453      1453  G12  5   XFL  N06W73    2.3E+02 4.1E+02   0663
+
+1630 +     1458   1502      1504  G12  5   XRA  1-8A      B4.8    1.2E-04   0663
+1630       1502   1503      1503  G12  5   XFL  N06W73    9.8E+02 2.4E+03   0663
+
+1640       1541   1544      1547  G10  5   XRA  1-8A      B2.6    7.9E-05       
+
+1650       1714   ////      1714  SAG  C   RSP  025-050   III/1                 
+
+1660 +     1806   1818      1829  G12  5   XRA  1-8A      C1.0    1.1E-03   0663
+1660       1808   ////      1810  SAG  C   RSP  025-076   V/1               0663
+1660       1808   ////      1809  PAL  C   RSP  025-155   III/1             0663
+1660       1810   1825      1828  G12  5   XFL  N04W78    1.9E+03 4.7E+03   0663
+
+1670 +     1948   ////      1948  PAL  C   RSP  025-058   III/1                 
+
+1680 +     2038   ////      2038  SAG  C   RSP  025-073   III/1                 
+
+1700       2045   2125      2147  G12  5   XRA  1-8A      C1.4    3.4E-03       
+
+1690 +     2249   ////      2252  CUL  C   RSP  20-90     III/3                 
+
+1720       2335   ////      0049  LEA  C   RSP  075-091   CTM/1                 

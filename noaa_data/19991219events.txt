@@ -1,0 +1,72 @@
+:Product: 19991219events.txt
+:Created: 1999 Dec 22 0302 UT
+:Date: 1999 12 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Dec 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2760       0100   0106      0113  LEA  3   FLA  N18E60    SF                8806
+
+2740       0116   0117      0117  PAL  G   RBR  245       59                    
+2740       0116   0117      0117  PAL  G   RBR  410       57                    
+
+2770 +     0216   0216      0218  LEA  G   RBR  245       87                    
+2770       0216   0216      0218  LEA  G   RBR  410       14                    
+
+2780       0315   0318      0319  PAL  G   RBR  410       77                    
+
+2790 +     0757   0758      0759  SVI  G   RBR  245       66                    
+
+2800       0911   0915      0918  G10  5   XRA  1-8A      C2.1    7.4E-04   8806
+2800       0916   0917      0920  LEA  3   FLA  N17E63    SF      ERU       8806
+
+2810 +     1117   1122      1134  GO8  5   XRA  1-8A      C2.7    2.2E-03       
+2810       1119   1120      1120  SVI  G   RBR  4995      27                    
+2810       1119   1119      1120  SVI  G   RBR  8800      58                    
+2810       1119   1119      1120  SVI  G   RBR  15400     35                    
+
+2820       1205   ////      1206  SVI  U   RSP  035-08    III/2                 
+
+2830       1231   ////      1235  SVI  C   RSP  055-08    II/2    500           
+
+2850 +     1616   1620      1623  GO8  5   XRA  1-8A      C1.8    5.9E-04   8806
+2850       1622   1622      1635  RAM  3   FLA  N19E58    SF                8806
+
+2860 +     1819   1824      1827  GO8  5   XRA  1-8A      C3.4    1.2E-03       
+
+2870       1910   1910      1910  SAG  G   RBR  245       55                    
+
+2880       1913   1916      1918  GO8  5   XRA  1-8A      C2.3    5.8E-04   8806
+2880       1915   1915      1925  RAM  3   FLA  N19E57    SF                8806
+
+2890 +     1927   1931      1935  GO8  5   XRA  1-8A      C2.1    8.8E-04   8794
+2890       1929   1929      1937  RAM  3   FLA  S14W68    SF                8794
+
+2900       2001   2001      2005  HOL  3   FLA  N11E61    SF                8807
+
+2910 +     2012   2015      2018  GO8  5   XRA  1-8A      C2.0    6.3E-04   8798
+2910       2017   2018      2021  HOL  3   FLA  S15W03    SF                8798
+
+2920       2118   2120      2133  HOL  3   FLA  N13E60    SF                8807
+
+2930       2209   2210      2218  HOL  3   FLA  N19E55    SF                8806
+
+2960       2213   2214      2219  HOL  3   FLA  S15W67    SF                8794
+
+2940 +     2223   2234      2245  GO8  5   XRA  1-8A      C5.6    5.9E-03   8806
+2940       2225   2228      2306  HOL  3   FLA  N21E52    SF                8806
+
+2970       2231   2234      2241  HOL  3   FLA  S15W04    SF                8798
+
+2950       2250   2251      2254  HOL  3   FLA  S15W05    SF                8798
+
+2980 +     2310   2313      2317  GO8  5   XRA  1-8A      C2.6    9.2E-04   8807
+2980       2312   2312      2319  HOL  3   FLA  N09E56    SF                8807
+
+2990 +     2358   0003      0012  GO8  5   XRA  1-8A      C4.0    2.5E-03       

@@ -1,0 +1,52 @@
+:Product: 20010416events.txt
+:Created: 2001 Apr 19 0302 UT
+:Date: 2001 04 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Apr 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+730  +     0321   0325      0329  GO8  5   XRA  1-8A      B9.0    3.8E-04       
+
+740  +     0616   0622      0625  GO8  5   XRA  1-8A      M1.1    2.9E-03       
+
+890        0628   ////      0629  CUL  C   RSP  30-100    III/1                 
+
+750  +     0656   0706      0712  GO8  5   XRA  1-8A      C3.7    2.5E-03   9415
+750        0659   0700      0703  LEA  3   FLA  S19W90    SF                9415
+
+760  +     0714   ////      0714  CUL  C   RSP  40-140    III/2                 
+
+880       A0917   ////      2330  LEA  3   DSF  N16E56    06      B.0A          
+
+770        0957   ////      0958  SVI  U   RSP  025-082   III/1                 
+
+780  +     1007   1011      1020  GO8  5   XRA  1-8A      C1.0    7.3E-04       
+
+790  +     1110   1124      1141  GO8  5   XRA  1-8A      C2.9    4.3E-03       
+
+800        1147   ////      1147  SVI  U   RSP  029-045   III/1                 
+
+850        1335   1357      1410  GO8  5   XRA  1-8A      C1.2    1.9E-03       
+
+810  +     1525   ////      1526  SVI  C   RSP  025-077   III/1                 
+
+820  +     1708   ////      1709  PAL  C   RSP  025-080   III/1                 
+
+830  +     2015   2021      2030  GO8  5   XRA  1-8A      B8.3    6.6E-04       
+
+840  +     2103   ////      2105  PAL  C   RSP  025-180   V/3                   
+840        2104   2104      2106  SAG  G   RBR  245       140                   
+840        2104   ////      2105  CUL  C   RSP  23-470    III/3                 
+840        2104   2104      2106  SAG  G   RBR  410       110                   
+
+860        2111   ////      2113  PAL  C   RSP  025-073   III/1                 
+
+870  +     2120   ////      2120  HOL  C   RSP  025-071   III/1                 
+
+900        2224   ////      2226  CUL  C   RSP  50-180    III/1                 

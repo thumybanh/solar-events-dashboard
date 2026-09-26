@@ -1,0 +1,66 @@
+:Product: 20020420events.txt
+:Created: 2002 Apr 23 0300 UT
+:Date: 2002 04 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Apr 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2370 +     0022   ////      0023  HOL  C   RSP  034-083   III/1                 
+
+2600       0045   0055      0110  GO8  5   XRA  1-8A      C1.7    2.3E-03       
+
+2420 +     0417   0428      0446  GO8  5   XRA  1-8A      C2.4    3.3E-03       
+
+2430       0513   0519      0525  GO8  5   XRA  1-8A      C2.3    1.5E-03       
+
+2380       0636   ////      0637  SVI  C   RSP  025-053   III/1                 
+
+2440       0908   0932      0956  GO8  5   XRA  1-8A      C1.3    3.3E-03       
+2440       0911   ////      0914  SVI  C   RSP  025-060   III/1                 
+
+2450       1141   1209      1225  GO8  5   XRA  1-8A      C2.7    5.4E-03       
+2450 +     1222   ////      1224  SVI  C   RSP  025-060   III/1                 
+
+2460       1325   ////      1326  SVI  C   RSP  025-054   III/1                 
+
+2470       1330   1330      1338  SVI  3   FLA  S11W74    SF      DSD       9906
+2470       1330   1330      1338  SVI  3   FLA  S11W74    SF      DSD       9906
+2470 +     1331   1331      1331  SVI  G   RBR  245       67                9906
+
+2480       1347   ////      1347  SVI  C   RSP  031-044   III/1                 
+
+2490 +     1419   1426      1450  GO8  5   XRA  1-8A      C2.1    3.4E-03       
+2490 +     1446   ////      1446  HOL  C   RSP  025-054   III/1                 
+
+2510      B1454  U1457     A1506  HOL  3   FLA  N09E07    SF      ERU       9912
+
+2520 +     1538   1548      1601  GO8  5   XRA  1-8A      C4.1    4.8E-03   9912
+2520 +    B1539  U1551     A1609  HOL  3   FLA  N09E06    SF      ERU       9912
+2520 +     1557   ////      1558  SVI  U   RSP  025-157   III/1             9912
+2520       1557   ////      1558  SAG  C   RSP  030-060   V/1               9912
+
+2530       1720   ////      1720  PAL  C   RSP  033-066   III/1                 
+
+2540       1734   1748      1810  GO8  5   XRA  1-8A      C2.2    4.1E-03       
+2540       1743   ////      1746  PAL  C   RSP  030-071   III/1                 
+
+2550       1811   ////      1812  PAL  C   RSP  033-076   III/1                 
+
+2560       1944   2014      2035  GO8  5   XRA  1-8A      C2.5    6.0E-03       
+2560       1945   1945      1945  SAG  G   RBR  245       58                    
+
+2570 +     2013   2013      2013  PAL  G   RBR  245       61                    
+
+2580       2032   2032      2032  PAL  G   RBR  245       57                    
+
+2590       2235   ////      2236  HOL  C   RSP  025-070   III/1                 
+
+2630 +     2310   ////      2311  HOL  C   RSP  025-081   III/1                 
+
+2640 +     2323   2326      2328  GO8  5   XRA  1-8A      C1.9    4.5E-04       

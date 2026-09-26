@@ -1,0 +1,50 @@
+:Product: 20041013events.txt
+:Created: 2004 Oct 16 0302 UT
+:Date: 2004 10 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Oct 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6290 +     0030   0030      0030  LEA  G   RBR  245       280                   
+6290 +     0030   ////      0038  LEA  C   RSP  025-180   III/2                 
+
+6310       0104   0107      0109  G12  5   XRA  1-8A      B1.0    2.7E-05       
+6310       0105   0106      0106  LEA  G   RBR  245       88                    
+
+6320 +     0114   0114      0114  LEA  G   RBR  245       240                   
+6320 +     0114   0114      0114  LEA  G   RBR  410       94                    
+
+6330       0140   ////      0140  LEA  C   RSP  039-138   III/1                 
+
+6340       0146   0146      0146  LEA  G   RBR  410       63                    
+
+6350       0208   ////      0217  LEA  C   RSP  032-180   III/1                 
+
+6360       0234   ////      0234  LEA  C   RSP  039-180   III/1                 
+
+6370       0344   ////      0344  PAL  C   RSP  025-180   III/1                 
+
+6380 +     0346   0354      0403  G12  5   XRA  1-8A      B4.4    3.1E-04       
+6380       0350   0400      0402  G12  5   XFL  S16E70    9.0E+02 2.1E+03       
+
+6390 +     0517   ////      0527  LEA  C   RSP  025-180   III/1                 
+
+6400       0559   ////      0559  LEA  C   RSP  025-180   III/1                 
+
+6410 +     1347   1359      1411  G12  5   XRA  1-8A      B5.1    5.4E-04       
+6410       1350   1403      1410  G12  5   XFL  S16E66    1.1E+03 2.4E+03       
+
+6420       1557   1600      1604  G12  5   XRA  1-8A      B1.0    3.8E-05       
+6420       1602   1602      1602  G12  5   XFL  N31E90                          
+
+6430 +     2108   2114      2117  G12  5   XRA  1-8A      B2.2    9.5E-05   0682
+6430       2113   2114      2116  G12  5   XFL  S17E61    4.0E+02 7.2E+02   0682
+
+6440 +     2120   2206      2220  G12  5   XRA  1-8A      C1.0    1.9E-03   0682
+6440 +     2147   2214      2219  G12  5   XFL  S16E63    3.0E+03 9.4E+03   0682

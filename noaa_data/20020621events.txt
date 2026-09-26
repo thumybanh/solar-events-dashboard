@@ -1,0 +1,32 @@
+:Product: 20020621events.txt
+:Created: 2002 Jun 24 0300 UT
+:Date: 2002 06 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7040       0314   ////      0316  PAL  C   RSP  025-180   III/1                 
+
+7050       0424   0506      0622  GO8  5   XRA  1-8A      C1.6    8.8E-03       
+7050 +     0456   ////      0456  LEA  C   RSP  025-087   III/1                 
+
+7070       0839   ////      0930  LEA  C   RSP  087-180   CTM/1                 
+
+7060 +     0902   0905      0908  GO8  5   XRA  1-8A      B6.9    2.1E-04       
+
+7080 +     1717   1726      1732  GO8  5   XRA  1-8A      B5.9    4.9E-04       
+
+7090 +     1959   2020      2058  GO8  5   XRA  1-8A      C1.8    5.0E-03       
+
+7180      A1959   ////     B1141  RAM  3   DSF  N30E24    12      B.0A      0000
+
+7100 +     2213   ////      2214  PAL  C   RSP  025-063   III/1                 
+7100       2213   2213      2213  PAL  G   RBR  245       100                   
+
+7110 +     2354   ////      2357  LEA  C   RSP  025-119   III/1                 

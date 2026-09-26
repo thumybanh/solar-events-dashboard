@@ -1,0 +1,57 @@
+:Product: 20030628events.txt
+:Created: 2003 Jul 01 0302 UT
+:Date: 2003 06 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jun 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4350       0138   0138      0138  PAL  G   RBR  410       87                    
+
+4360 +     0334   0340      0358  G12  5   XRA  1-8A      B8.2    1.1E-03       
+
+4370 +     0642   ////      0642  LEA  C   RSP  025-123   III/1                 
+
+4380 +     0651   0656      0658  G12  5   XRA  1-8A      C4.3    9.3E-04       
+4380 +     0655   0655      0655  LEA  G   RBR  245       180                   
+4380 +     0655   ////      0656  LEA  C   RSP  125-180   III/1                 
+
+4390       0702   0703      0703  LEA  G   RBR  410       67                    
+4390       0702   0703      0708  IZM  F   RBR  3000      11                    
+
+4400       0707   0707      0707  LEA  G   RBR  606       68                    
+
+4410 +     0802   ////      0802  SVI  C   RSP  025-123   III/1                 
+
+4420 +     0821   0821      0822  SVI  G   RBR  245       140                   
+
+4430       0921   ////      0922  SVI  C   RSP  025-142   III/1                 
+
+4440       0944   ////      0945  SVI  C   RSP  025-081   III/1                 
+
+4450       1435   ////      1435  SVI  C   RSP  025-042   III/1                 
+
+4460 +     1443   1449      1454  G12  5   XRA  1-8A      C1.0    6.0E-04       
+4460 +     1444   ////      1446  SVI  C   RSP  025-180   III/2                 
+
+4470 +     1524   1540      1555  G12  5   XRA  1-8A      C3.0    3.6E-03       
+4470 +     1535   ////      1539  SAG  C   RSP  030-080   III/3                 
+4470 +     1536   1536      1538  SAG  G   RBR  245       2100                  
+4470 +     1536   1536      1538  SAG  G   RBR  410       2500                  
+4470 +     1536   1536      1538  SAG  G   RBR  606       1400                  
+
+4480       1725   ////      1725  SVI  C   RSP  071-180   III/1                 
+
+4490 +     1816   ////      1818  HOL  C   RSP  025-075   III/1                 
+4490       1817   1817      1817  SAG  G   RBR  245       67                    
+
+4500       1946   1946      1947  SAG  G   RBR  410       67                    
+
+4510 +     2051   ////      2052  PAL  C   RSP  025-180   III/2                 
+
+4520 +     2307   2311      2315  G12  5   XRA  1-8A      B7.2    3.0E-04       

@@ -1,0 +1,41 @@
+:Product: 20030731events.txt
+:Created: 2003 Aug 03 0302 UT
+:Date: 2003 07 31
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jul 31
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1500       0046   0049      0052  G12  5   XRA  1-8A      B2.7    9.5E-05       
+
+1440       0103   ////      0104  CUL  C   RSP  57-180    III/2                 
+
+1450 +     0436   0441      0446  G12  5   XRA  1-8A      B3.6    1.6E-04   0422
+1450       0440   0441      0444  LEA  3   FLA  N13W67    SF      ERU       0422
+1450       0440   0440      0440  LEA  G   RBR  606       42                0422
+1450 +     0440   0440      0440  LEA  G   RBR  1415      66                0422
+
+1570       0659   ////      0659  CUL  C   RSP  50-90     III/1                 
+
+1460 +     0759   0803      0805  G12  5   XRA  1-8A      B3.0    9.5E-05   0422
+
+1510       0830   0840      0845  G12  5   XRA  1-8A      B2.9    2.2E-04       
+
+1520       1027   1029      1030  G12  5   XRA  1-8A      B2.7    3.9E-05       
+
+1470 +     1618   1624      1638  G12  5   XRA  1-8A      B6.8    6.3E-04       
+
+1530 +     1724   ////      1726  HOL  C   RSP  025-075   III/1                 
+
+1540 +     2001   2007      2011  G12  5   XRA  1-8A      B6.5    3.1E-04       
+
+1550 +     2117   2123      2129  G12  5   XRA  1-8A      B5.4    3.4E-04       
+
+1560 +     2216   2221      2230  G12  5   XRA  1-8A      C1.9    1.1E-03   0423
+
+1580       2315   ////      2320  CUL  C   RSP  18-180    III/2                 

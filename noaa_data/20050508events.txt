@@ -1,0 +1,64 @@
+:Product: 20050508events.txt
+:Created: 2005 May 09 1229 UT
+:Date: 2005 05 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 May 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7800       0041   ////      0041  CUL  C   RSP  23-130    III/1                 
+
+7810       0109   ////      0109  CUL  C   RSP  30-90     III/1                 
+
+7820       0144   ////      0151  CUL  C   RSP  30-200    III/1                 
+
+7630 +     0208   ////      0208  CUL  C   RSP  23-90     III/2                 
+
+7830       0234   ////      0234  CUL  C   RSP  30-90     III/1                 
+
+7840       0244   ////      0245  CUL  C   RSP  18-150    III/2                 
+
+7850       0326   ////      0327  CUL  C   RSP  18-160    III/3                 
+
+7860       0334   ////      0335  CUL  C   RSP  18-140    III/3                 
+
+7870       0347   ////      0347  CUL  C   RSP  20-150    III/2                 
+
+7880       0412   ////      0414  CUL  C   RSP  18-180    III/3                 
+
+7890       0504   ////      0504  CUL  C   RSP  20-180    III/3                 
+
+7900       0657   ////      0658  CUL  C   RSP  23-150    III/3                 
+
+7690 +     0923   0928      0935  G12  5   XRA  1-8A      C1.2    6.0E-04       
+7690       0928   0928      0933  G12  5   XFL  N16E84    1.0E+03 2.5E+03       
+
+7700 +     1037   ////      1040  SVI  C   RSP  025-180   III/3                 
+
+7710 +     1208   1208      1208  SVI  G   RBR  1415      53                    
+7710 +     1208   ////      1212  SVI  C   RSP  025-180   III/3                 
+
+7720 +     1312   1316      1319  G12  5   XRA  1-8A      B5.9    1.9E-04       
+
+7730 +     1320   1320      1320  SVI  G   RBR  245       56                    
+7730       1320   ////      1320  SVI  C   RSP  037-180   III/1                 
+
+7740       1632   ////      1654  HOL  4   EPL  ////      0.17    B.8A          
+
+7750 +     1944   ////      1945  PAL  C   RSP  025-125   III/1                 
+
+7760       2025   ////      2026  SAG  C   RSP  038-145   III/1                 
+7760 +     2026   2026      2026  PAL  G   RBR  245       110                   
+
+7770 +     2049   ////      2050  CUL  C   RSP  40-200    III/1                 
+
+7910       2110   ////      2112  CUL  C   RSP  23-130    III/1                 
+
+7780 +     2308   2311      2315  G12  5   XRA  1-8A      B4.0    1.5E-04       
+
+7790       2318   2318      2318  PAL  G   RBR  410       210                   

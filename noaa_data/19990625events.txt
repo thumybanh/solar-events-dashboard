@@ -1,0 +1,72 @@
+:Product: 19990625events.txt
+:Created: 1999 Jun 28 0302 UT
+:Date: 1999 06 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jun 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3390       0010   0011      0017  LEA  3   FLA  N22E30    SF                8598
+
+3690       0028   0032      0036  LEA  3   FLA  N22E29    SF      BPT       8598
+
+3700       0154   0203      0205  LEA  4   FLA  N23E28    SF      BPT       8598
+
+3420       0334   ////      0340  CUL  C   RSP  20-180    III/1                 
+3420       0335   0338      0339  PAL  G   RBR  245       180                   
+
+3550 +     0335   0336      0540  LEA  U   RNS  245       420                   
+
+3420       0337   0401      0413  LEA  4   FLA  N15E21    SF      BPT       8594
+
+3570       0434   ////      1800  SVI  C   RSP  035-08    CTM/2                 
+
+3430       0606   0609      0621  SVI  3   FLA  N16E31    SF                8606
+
+3440       0637   0637      0637  SVI  G   RBR  245       260                   
+
+3450       0725   0725      0725  LEA  U   RBR  245       55                    
+
+3460       0938   0940      0941  SVI  U   RBR  245       210                   
+
+3470       0947   0949      0954  SAG  U   RBR  245       72                    
+
+3480       1235   ////      1236  SAG  C   RSP  030-06    III/1                 
+
+3490       1330   1332      1351  HOL  3   FLA  N22E19    SF                8598
+
+3500 +     1330   1348      1452  HOL  3   FLA  N11W65    SF                8604
+
+3560 +     1400   1402      1413  HOL  3   FLA  N23E21    SF                8598
+
+3520       1453   ////      1456  SVI  C   RSP  035-08    III/2                 
+3520       1453   ////      2215  SAG  C   RSP  030-08    CTM/1                 
+
+3530       1526   1526      1529  HOL  3   FLA  N11W65    SF                8604
+
+3540       1534   1535      1545  HOL  3   FLA  N11W65    SF                8604
+
+3580       1713   1714      1718  HOL  3   FLA  N11W65    SF                8604
+
+3590       1726   1728      1730  SVI  3   FLA  N11W64    SF                8591
+
+3600       1731   1737      1742  HOL  3   FLA  N11W66    SF                8604
+
+3610       1824   1825      1825  SAG  G   RBR  245       54                    
+
+3620       1850   1855      1858  HOL  3   FLA  N22E20    SF      ERU       8598
+
+3630       1955   1955      1955  SAG  G   RBR  245       75                    
+
+3640       1959   2000      2005  HOL  3   FLA  N25E11    SF                8598
+
+3650       2037   2037      2037  SAG  G   RBR  245       76                    
+
+3660 +     2152   2157      2203  GO8  5   XRA  1-8A      C2.4    1.3E-03       
+
+3670       2343   2347      2352  HOL  3   FLA  N11W69    SF                8604

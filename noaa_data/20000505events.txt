@@ -1,0 +1,48 @@
+:Product: 20000505events.txt
+:Created: 2000 May 08 0302 UT
+:Date: 2000 05 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 May 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6400 +     0223   0228      0235  GO8  5   XRA  1-8A      C2.7    1.3E-03   8982
+6400       0226   0228      0249  LEA  4   FLA  S21E05    SF      ERU       8982
+
+6410 +     0304   ////      0305  LEA  C   RSP  030-04    III/2                 
+
+6420 +     0922   ////      0923  SVI  C   RSP  035-08    III/2                 
+
+6430 +     0931   0946      1003  GO8  5   XRA  1-8A      C1.2    2.0E-03       
+
+6440       1034   1034      1036  SVI  G   RBR  245       73                    
+
+6450       1445   ////      1446  SVI  C   RSP  035-08    III/2                 
+
+6460       1518   1519      1519  SAG  G   RBR  410       30                    
+6460       1519   1519      1519  SAG  G   RBR  245       44                    
+6460 +     1519   1621      1728  GO8  5   XRA  1-8A      M1.5    8.6E-02       
+
+6470 +     1527   1528      1528  SAG  G   RBR  245       65                    
+6470       1527   1527      1528  SAG  G   RBR  410       30                    
+
+6460 +     1533   ////      1645  SAG  C   RSP  030-08    CTM/1                 
+
+6480       1536   1539      1544  SAG  G   RBR  1415      20                    
+6480 +     1536   1537      1545  SAG  G   RBR  2695      67                    
+6480 +     1536   1538      1545  SAG  G   RBR  4995      52                    
+6480       1536   1538      1545  SAG  G   RBR  8800      30                    
+6480       1536   1538      1545  SAG  G   RBR  15400     18                    
+
+6490 +     1952   1953      2000  HOL  3   FLA  S18W04    SF      ERU       8982
+
+6500       2017   2019      2039  RAM  3   FLA  S17W20    SF                8980
+
+6560      A2020   ////      1110  RAM  3   DSF  N24E44    08      B.0A      8983
+
+6510 +     2052   2053      2113  HOL  3   FLA  N24E46    SF      ERU       8983

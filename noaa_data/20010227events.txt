@@ -1,0 +1,23 @@
+:Product: 20010227events.txt
+:Created: 2001 Mar 02 0302 UT
+:Date: 2001 02 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Feb 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9300       0900   ////      0900  SVI  C   RSP  075-164   III/1                 
+
+9310       1004   1008      1012  G10  5   XRA  1-8A      C1.3    4.8E-04   9359
+9310       1007   1008      1012  LEA  3   FLA  N12W12    SF      ERU       9359
+
+9330       1242   1245      1252  G10  5   XRA  1-8A      B4.8    2.7E-04       
+
+9340 +     1324   1331      1334  GO8  5   XRA  1-8A      C1.1    4.3E-04       
+
+9350       1731   1742      1752  GO8  5   XRA  1-8A      B7.9    9.4E-04       

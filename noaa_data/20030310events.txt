@@ -1,0 +1,69 @@
+:Product: 20030310events.txt
+:Created: 2003 Mar 13 0302 UT
+:Date: 2003 03 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Mar 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1380       0046   ////      0046  CUL  C   RSP  30-45     III/1                 
+
+1390       0245   ////      0245  CUL  C   RSP  60-90     III/1                 
+
+1400       0306   ////      0309  CUL  C   RSP  35-140    III/1                 
+
+1410       0315   ////      0316  CUL  C   RSP  20-140    III/2                 
+
+1420       0329   0329      0330  PAL  G   RBR  410       53                    
+
+1430       0352   0352      0352  LEA  G   RBR  245       150                   
+
+1440       0424   ////      0426  CUL  C   RSP  25-75     III/1                 
+
+1580       0534   ////      0548  CUL  C   RSP  25-260    III/2                 
+1580       0538   0543      0546  GO8  5   XRA  1-8A      B6.3    1.5E-04       
+
+1450       0539   0539      0539  LEA  G   RBR  245       430                   
+
+1460       0540   0540      0545  LEA  4   FLA  S18W54    SF                0295
+
+1590       0550   ////      0000  CUL  C   RSP  30-180    CTM/1                 
+
+1470 +     0842   0853      0910  GO8  5   XRA  1-8A      B9.2    1.4E-03   0306
+1470       0844   0852      0858  LEA  3   FLA  N03E45    SF                0306
+
+1480       0925   0925      0925  LEA  G   RBR  245       120                   
+
+1490 +     0929   0939      0949  GO8  5   XRA  1-8A      C1.5    1.5E-03   0297
+
+1500 +     1001   1005      1009  GO8  5   XRA  1-8A      C1.3    5.4E-04   0306
+1500       1001   ////      1004  LEA  C   RSP  025-180   III/2                 
+1500       1003   1003      1003  LEA  G   RBR  245       1600                  
+1500       1003   1003      1003  LEA  G   RBR  410       78                    
+1500       1003   1003      1003  LEA  G   RBR  606       230                   
+
+1510 +     1039   1044      1048  GO8  5   XRA  1-8A      B8.2    3.8E-04   0297
+
+1520       1252   1252      1252  SAG  G   RBR  245       140                   
+1520       1252   1252      1252  SAG  G   RBR  410       69                    
+
+1530       1256   ////      1257  SAG  C   RSP  030-070   III/1                 
+
+1540       1327   ////      1327  SAG  C   RSP  030-070   III/1                 
+
+1560       1531   1553      1612  GO8  5   XRA  1-8A      B9.7    1.9E-03   0308
+1560       1534   ////      1535  HOL  C   RSP  036-157   III/1                 
+1560       1551   ////      0000  SAG  C   RSP  030-055   CTM/1                 
+1560       1558   1558      1558  SAG  G   RBR  245       55                    
+
+1620       1625   1626      1626  SAG  G   RBR  410       130                   
+1620 +     1626   1626      1626  SAG  G   RBR  245       450                   
+
+1600       1824   1828      1830  GO8  5   XRA  1-8A      B4.1    1.4E-04       
+
+1570       1913   ////      1914  HOL  C   RSP  025-069   III/1                 

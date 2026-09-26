@@ -1,0 +1,61 @@
+:Product: 20020625events.txt
+:Created: 2002 Jun 28 0300 UT
+:Date: 2002 06 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jun 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7740       0000   ////      0430  CUL  C   RSP  57-180    III/1                 
+
+7590 +     0155   0159      0201  GO8  5   XRA  1-8A      B6.1    1.6E-04       
+
+7600       0338   ////      0341  CUL  C   RSP  57-180    III/1                 
+
+7610 +     0346   ////      0347  LEA  C   RSP  052-180   III/1                 
+
+7620 +     0405   ////      0407  LEA  C   RSP  025-180   III/2                 
+7620 +     0406   0407      0407  LEA  G   RBR  245       60                    
+
+7630       0429   ////      0430  CUL  C   RSP  57-180    III/1                 
+
+7750       0449   ////      0449  CUL  C   RSP  57-180    III/1                 
+
+7760       0500   ////      0502  CUL  C   RSP  57-180    III/1                 
+
+7770       0516   ////      0517  CUL  C   RSP  57-180    III/1                 
+
+7640 +     0543   0544      0544  LEA  G   RBR  245       100                   
+
+7650 +     0610   ////      0611  CUL  C   RSP  57-280    III/2                 
+7650 +     0610   0610      0611  LEA  G   RBR  245       190                   
+
+7660       0923   ////      0925  SVI  C   RSP  025-075   III/1                 
+
+7670 +     1402   ////      1404  SAG  C   RSP  030-060   III/2                 
+
+7680 +     1511   1515      1519  GO8  5   XRA  1-8A      B5.6    2.3E-04   0008
+7680       1514   1515      1522  RAM  3   FLA  S11W09    SF      ERU       0008
+
+7690 +     1609   1614      1621  GO8  5   XRA  1-8A      B6.5    3.9E-04       
+7690       1618   ////      1622  HOL  C   RSP  025-180   III/1                 
+
+7700 +     1707   ////      1710  HOL  C   RSP  025-180   III/1                 
+7700 +     1709   1709      1710  SAG  G   RBR  245       240                   
+
+7710 +     1749   ////      1753  HOL  C   RSP  025-138   III/1                 
+
+7720 +     1837   ////      1837  HOL  C   RSP  025-180   III/1                 
+
+7730 +     1902   1914      1919  GO8  5   XRA  1-8A      B6.7    6.0E-04       
+
+7780       2121   ////      2121  CUL  C   RSP  57-180    III/1                 
+
+7790       2224   ////      2225  CUL  C   RSP  100-180   III/1                 
+
+7800       2315   ////      2315  HOL  C   RSP  025-141   III/1                 

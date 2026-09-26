@@ -1,0 +1,56 @@
+:Product: 20030125events.txt
+:Created: 2003 Jan 28 0302 UT
+:Date: 2003 01 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jan 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5060 +     0401   0405      0409  GO8  5   XRA  1-8A      B5.7    2.4E-04       
+
+5070 +     0509   0513      0515  GO8  5   XRA  1-8A      C1.2    2.3E-04       
+
+5120       0718   0836      0919  GO8  5   XRA  1-8A      C1.9    7.4E-03   0268
+
+5080       1010   ////      1010  SVI  U   RSP  030-083   III/1                 
+
+5090 +     1125   1129      1133  GO8  5   XRA  1-8A      B5.1    2.1E-04       
+
+5100 +     1201   1206      1211  GO8  5   XRA  1-8A      B6.6    3.3E-04       
+
+5110 +     1322   1327      1329  GO8  5   XRA  1-8A      B8.8    2.4E-04       
+5110       1325   ////      1328  SVI  C   RSP  025-153   III/2                 
+5110 +     1328   1328      1328  SVI  G   RBR  245       74                    
+5110 +     1328   1328      1328  SVI  G   RBR  410       62                    
+
+5130 +     1842   1855      1911  GO8  5   XRA  1-8A      C4.4    5.2E-03   0268
+5130 +     1844   1847      1901  SAG  G   RBR  410       400               0268
+5130 +     1844   1849      1858  SAG  G   RBR  606       1200              0268
+5130 +     1845   1851      1859  SAG  G   RBR  1415      170               0268
+5130 +     1845   1851      1858  SAG  G   RBR  2695      190               0268
+5130       1846   1850      1901  SAG  G   RBR  245       89                0268
+5130       1846  U1853      1927  HOL  3   FLA  N13W26    SF      ERU       0268
+5130 +     1846   1851      1901  SAG  G   RBR  4995      170               0268
+5130 +     1846   1851      1901  SAG  G   RBR  8800      120               0268
+5130       1849   1851      1900  SAG  G   RBR  15400     59                0268
+5130 +     1850   ////      1851  PAL  C   RSP  025-180   III/1             0268
+
+5140       2059   ////      2104  PAL  C   RSP  025-180   III/1                 
+
+5150 +     2131   2136      2144  GO8  5   XRA  1-8A      C1.3    7.4E-04       
+
+5160       2210   ////      2210  LEA  C   RSP  025-180   III/1                 
+
+5170 +     2243   2247      2252  GO8  5   XRA  1-8A      B4.7    2.2E-04       
+5170       2251   ////      2252  LEA  C   RSP  025-128   III/1                 
+
+5180       2254   ////      2304  LEA  C   RSP  025-140   III/1                 
+
+5190       2336   ////      2340  LEA  C   RSP  026-087   III/1                 
+
+5200       2358   ////      0001  LEA  C   RSP  025-101   III/1                 

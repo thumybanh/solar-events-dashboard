@@ -1,0 +1,58 @@
+:Product: 20030227events.txt
+:Created: 2003 Mar 02 0302 UT
+:Date: 2003 02 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9020 +     0002   ////      0003  LEA  C   RSP  025-088   III/1                 
+
+9060      A0027   ////     B0202  LEA  3   DSF  ////      06      B.0A      0000
+
+9030       0030   ////      0031  LEA  C   RSP  070-180   III/1                 
+
+9040 +     0155   0158      0201  GO8  5   XRA  1-8A      C1.2    4.0E-04   0288
+
+9080 +     0231   ////      0339  PAL  C   RSP  025-180   CTM/1                 
+
+9050       0238   ////      0238  LEA  C   RSP  025-062   III/1                 
+
+9090 +     0528   0533      0535  G10  5   XRA  1-8A      B7.8    2.7E-04       
+9090       0529   ////      0531  LEA  C   RSP  049-180   III/1                 
+
+9100       0611   ////      0611  LEA  C   RSP  079-180   III/1                 
+
+9110 +     0716   0716      0716  LEA  G   RBR  245       99                    
+
+9120 +     0742   0742      0744  SVI  G   RBR  245       64                    
+
+9130 +     0901   0901      0901  SVI  G   RBR  245       50                    
+
+9140       0904   0904      0904  LEA  G   RBR  245       62                    
+
+9150 +     0911   0911      0911  SVI  G   RBR  245       89                    
+
+9160       1015   1015      1015  SVI  G   RBR  245       58                    
+
+9170       1403   ////      1403  SVI  U   RSP  113-180   III/1                 
+
+9180       1423   1423      1425  SVI  G   RBR  245       97                    
+
+9190 +     1433   1433      1434  SAG  G   RBR  245       59                    
+
+9200       1436   1436      1436  SAG  G   RBR  245       53                    
+
+9210 +     1524   ////      1524  HOL  C   RSP  109-180   III/1                 
+
+9220       1658   ////      1659  HOL  C   RSP  030-048   V/1                   
+9220       1658   ////      1659  SAG  C   RSP  030-045   III/2                 
+
+9330 +    A1753   ////     B0721  COM  3   DSF  ////      24      B.0A      0000
+
+9230 +     2344   2352      2359  GO8  5   XRA  1-8A      C3.4    2.0E-03       

@@ -1,0 +1,33 @@
+:Product: 20240306events.txt
+:Created: 2024 Mar 09 0357 UT
+:Date: 2024 03 06
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2024 Mar 06
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4380 +     0000   ////      0001  LEA  C   RSP  025-180   III/1                 
+
+4390       0207   ////      0209  LEA  C   RSP  025-058   III/2                 
+
+4400       0333   ////      0334  LEA  C   RSP  025-180   III/1                 
+4400 +     0333   ////      0344  LEA  C   RSP  025-180   II/2    1516          
+
+4410       0810   ////      0810  SVI  C   RSP  025-039   III/1                 
+
+4420 +     1009   1024      1050  G16  5   XRA  1-8A      C1.0    2.2E-03   3598
+4420       1013   1016      1019  SVI  3   FLA  S16W68    SF      ERU       3598
+
+4430 +     1156   1204      1210  G16  5   XRA  1-8A      C1.3    4.3E-04   3599
+4430      B1201  U1202      1216  SVI  3   FLA  S12E19    SF      ERU       3599
+
+4440 +     1302   ////      1320  SVI  C   RSP  025-083   VI/1                  
+
+4450 +     1410   ////      1413  SAG  C   RSP  025-180   III/2                 
+
+4460 +     1624   1630      1635  G16  5   XRA  1-8A      C1.0    5.8E-04   3599

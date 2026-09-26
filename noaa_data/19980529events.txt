@@ -1,0 +1,74 @@
+:Product: 19980529events.txt
+:Created: 1998 Jun 01 0302 UT
+:Date: 1998 05 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 May 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5960 +     0000   0000      0001  LEA  G   RBR  245       100                   
+
+5970 +     0017   ////      0027  LEA  C   RSP  030-08    III/2             8226
+5970       0020   0022      0030  HOL  3   FLA  N20W81    SF                8226
+
+5980 +     0051   0059      0103  GO9  5   XRA  1-8A      M6.7    2.3E-02       
+5980 +     0055   0056      0057  LEA  G   RBR  4995      86                    
+5980 +     0055   0056      0100  LEA  G   RBR  8800      65                    
+5980 +     0056   0057      0058  LEA  G   RBR  410       570                   
+5980 +     0056   0056      0057  LEA  G   RBR  606       1600                  
+5980 +     0056   0057      0058  LEA  G   RBR  1415      66                    
+5980 +     0056   0056      0058  PAL  G   RBR  2695      140                   
+5980 +     0056   0056      0058  PAL  G   RBR  15400     65                    
+5980 +     0057   0100      0103  LEA  G   RBR  245       560                   
+5980 +     0100   ////      0100  LEA  C   RSP  030-08    III/2                 
+5980 +     0106   ////      0112  PAL  C   RSP  036-07    II/2    1000          
+
+6000 +     0139   ////      0139  PAL  C   RSP  028-05    III/1                 
+
+6020 +     0153   ////      0154  CUL  C   RSP  20-170    III/1                 
+
+6030       0243   ////      0247  LEA  C   RSP  030-04    III/1                 
+
+6040 +     0334   0340      0342  GO9  5   XRA  1-8A      C4.1    1.4E-03       
+6040 +     0334   ////      0339  LEA  C   RSP  030-08    III/2                 
+
+6050       0424   ////      0432  LEA  C   RSP  030-06    III/2                 
+
+6230      A0429   ////      0039  LEA  3   DSF  N43W27    15      B.0A          
+
+6060 +     0655   0711      0715  GO9  5   XRA  1-8A      C4.9    4.2E-03       
+
+6080 +     1053   ////      1053  SAG  C   RSP  040-05    III/1                 
+
+6090 +     1100   1110      1126  GO9  5   XRA  1-8A      C4.3    5.0E-03       
+
+6110 +     1232   1240      1250  GO9  5   XRA  1-8A      C1.9    1.6E-03       
+
+6120 +     1347   1353      1401  GO9  5   XRA  1-8A      C2.0    1.4E-03       
+
+6130 +     1533   ////      1533  SVI  C   RSP  074-08    III/2                 
+
+6140 +     1828   1838      1854  GO9  5   XRA  1-8A      C1.9    2.3E-03       
+6140       1832   ////      1852  HOL  3   EPL  S26W90    0.23    B.8A          
+
+6150       1916   1920      1923  GO8  5   XRA  1-8A      C1.1    4.4E-04       
+6150 +     1918   ////      1918  PAL  C   RSP  025-06    III/1                 
+
+6290      A2013   ////      1113  RAM  3   DSF  S17E37    15      B.0A          
+
+6160 +     2043   ////      2043  PAL  C   RSP  025-05    III/1                 
+
+6170 +     2119   2132      2149  GO9  5   XRA  1-8A      C2.2    3.3E-03       
+
+6180       2309   2309      2309  PAL  G   RBR  245       110                   
+6180       2309   2309      2309  PAL  G   RBR  410       76                    
+6180       2309   ////      2310  PAL  C   RSP  028-05    V/1                   
+
+6190 +     2340   2344      2346  GO9  5   XRA  1-8A      C3.6    8.5E-04       
+6190       2342   2344      2354  HOL  3   FLA  S21E76    SF                    
+6190       2344   ////      2347  PAL  C   RSP  025-05    V/2                   

@@ -1,0 +1,45 @@
+:Product: 19991204events.txt
+:Created: 1999 Dec 07 0302 UT
+:Date: 1999 12 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Dec 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9530       0019   ////      0020  LEA  C   RSP  030-05    III/1                 
+
+9540       0254   0256      0259  LEA  4   FLA  N10W83    SF                8782
+
+9550 +     0421   0427      0435  GO8  5   XRA  1-8A      C1.5    1.1E-03       
+
+9560       1121   1122      1123  SVI  U   RBR  245       75                    
+
+9570 +     1745   1750      1754  GO8  5   XRA  1-8A      C1.7    6.2E-04       
+
+9580 +     1906   1909      1912  HOL  3   FLA  N11E57    SF                8788
+
+9590 +     1920   1920      1921  SAG  G   RBR  410       67                    
+
+9600 +     2005   2007      2016  HOL  3   FLA  N10E57    SF                8788
+
+9610       2018   ////      2019  PAL  C   RSP  025-05    III/1                 
+
+9620       2052   ////      2053  PAL  C   RSP  025-04    III/1                 
+
+9630 +     2116   2127      2151  GO8  5   XRA  1-8A      C4.3    7.0E-03   8788
+9630       2118   2120      2143  HOL  3   FLA  N10E56    1F                8788
+9630       2119   2119      2119  PAL  G   RBR  4995      77                8788
+9630       2125   ////      2125  PAL  C   RSP  035-04    III/1             8788
+
+9640       2220   ////      2220  LEA  C   RSP  030-06    III/1                 
+
+9650       2221   ////      2221  PAL  C   RSP  026-04    III/1                 
+
+9660       2323   ////      2324  LEA  C   RSP  030-07    III/2                 
+
+9670       2343   ////      2344  LEA  C   RSP  030-08    III/2                 

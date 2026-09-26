@@ -1,0 +1,51 @@
+:Product: 20031004events.txt
+:Created: 2003 Oct 06 0302 UT
+:Date: 2003 10 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Oct 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 420       0054   0054      0054  LEA  G   RBR  245       59                    
+
+ 430       0149   ////      0152  LEA  C   RSP  025-149   III/1                 
+
+ 440 +     0409   0415      0419  G12  5   XRA  1-8A      B7.4    3.7E-04       
+
+ 450       0454   0501      0507  G10  5   XRA  1-8A      C1.7    9.7E-04       
+
+ 460       0945   ////      0950  SVI  C   RSP  025-167   III/1                 
+
+ 470 +     1309   1317      1341  G12  5   XRA  1-8A      C2.5    3.2E-03       
+ 470       1310   1315      1315  SAG  G   RBR  245       42                    
+ 470       1312   1312      1315  SAG  G   RBR  606       39                    
+ 470 +     1312   1312      1312  SVI  G   RBR  410       69                    
+ 470       1325   ////      1329  HOL  C   RSP  025-165   III/1                 
+
+ 480 +     1515   1523      1530  G12  5   XRA  1-8A      C1.7    1.3E-03   0471
+
+ 490 +     1542   1547      1549  G12  5   XRA  1-8A      M1.0    2.1E-03   0471
+ 490 +     1545   1546      1547  SAG  G   RBR  8800      80                0471
+ 490 +     1546   1546      1547  SAG  G   RBR  2695      22                0471
+ 490 +     1546   1546      1547  SAG  G   RBR  4995      37                0471
+ 490 +     1546   1546      1546  SAG  G   RBR  15400     40                0471
+ 490       1546   1548      1555  HOL  3   FLA  S10E29    SF      ERU       0471
+
+ 500 +     1753   1757      1803  G12  5   XRA  1-8A      C1.6    6.6E-04   0471
+
+ 510 +     1822   1826      1829  G12  5   XRA  1-8A      C1.3    5.2E-04   0471
+
+ 520 +     1908   1917      1922  G12  5   XRA  1-8A      C1.7    1.2E-03       
+
+ 530       1928   1928      1930  PAL  G   RBR  245       96                    
+
+ 540       1938   1940      1941  PAL  G   RBR  245       170                   
+
+ 550 +     1946   1949      1952  G12  5   XRA  1-8A      B5.9    1.9E-04       
+
+ 560       2308   ////      2308  LEA  C   RSP  025-086   III/1                 

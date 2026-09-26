@@ -1,0 +1,21 @@
+:Product: 19990414events.txt
+:Created: 1999 Apr 17 0302 UT
+:Date: 1999 04 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5990       0803   ////      0805  COM  C   RSP  036-08    III/2                 
+
+5980       0806   0808      0812  COM  3   FLA  S28W25    SF      DS        8512
+
+6000      B1827  U1827      1926  COM  3   FLA  S19W04    SF                8515
+6000      B1827  U1827      1926  COM  3   FLA  S19W04    SF                8515
+
+6020       2200   2201      2201  COM  G   RBR  8800      140                   

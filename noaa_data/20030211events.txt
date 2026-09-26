@@ -1,0 +1,28 @@
+:Product: 20030211events.txt
+:Created: 2003 Feb 14 0302 UT
+:Date: 2003 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7010 +     0050   0056      0103  GO8  5   XRA  1-8A      B7.0    5.1E-04       
+
+7020 +     0741   ////      0741  LEA  C   RSP  025-180   III/1                 
+
+7030       0837   0840      0859  LEA  2   FLA  S05W33    SF      ERU       0280
+
+7040       1512   1515     A1532  RAM  3   FLA  S19W15    SF      ERU       0277
+
+7050 +     1718   1731      1743  GO8  5   XRA  1-8A      C2.3    2.3E-03   0280
+7050       1733   1733      1733  PAL  G   RBR  245       48                0280
+7050       1733   1733      1734  PAL  G   RBR  410       62                0280
+
+7060       1842   ////      1842  HOL  C   RSP  109-146   III/1                 
+
+7070 +     2155   2200      2204  GO8  5   XRA  1-8A      B9.9    4.9E-04   0276

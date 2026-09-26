@@ -1,0 +1,18 @@
+:Product: 20060718events.txt
+:Created: 2006 Jul 21 0329 UT
+:Date: 2006 07 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Jul 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 300 +     0816   0821      0830  G12  5   XRA  1-8A      B1.3    8.6E-05   0900
+ 300       0819   0819      0822  G12  5   XFL  S04W04    1.5E+02 3.3E+02   0900
+
+ 310 +     1104   1107      1111  G12  5   XRA  1-8A      B1.5    4.7E-05   0900
+ 310       1107   1107      1107  G12  5   XFL  S04W07    1.8E+02 3.5E+02   0900

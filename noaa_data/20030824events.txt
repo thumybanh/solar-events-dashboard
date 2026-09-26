@@ -1,0 +1,23 @@
+:Product: 20030824events.txt
+:Created: 2003 Aug 27 0302 UT
+:Date: 2003 08 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Aug 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5110       0000   ////      0000  CUL  C   RSP  23-150    CTM/1                 
+
+5060 +     0410   0417      0426  G12  5   XRA  1-8A      C1.2    8.8E-04   0436
+5060       0413   0415      0436  LEA  3   FLA  N08W21    1F      ERU       0436
+
+5080       0825   ////      1715  SVI  C   RSP  116-180   CTM/1                 
+
+5090       1816   ////      1822  PAL  C   RSP  025-162   III/1                 
+
+5100 +     2332   2337      2339  G12  5   XRA  1-8A      C1.1    2.6E-04   0436

@@ -1,0 +1,64 @@
+:Product: 20031110events.txt
+:Created: 2003 Nov 11 2102 UT
+:Date: 2003 11 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Nov 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8690       0702   ////      0702  CUL  C   RSP  23-57     III/2                 
+
+8530 +     0823   0828      0832  G12  5   XRA  1-8A      B2.1    9.3E-05       
+
+8540       1029   1032      1035  G10  5   XRA  1-8A      B1.9    5.4E-05       
+
+8550 +     1126   1130      1134  G12  5   XRA  1-8A      B1.9    8.1E-05       
+
+8560 +     1346   1350      1352  G12  5   XRA  1-8A      B5.0    1.2E-04       
+8560 +     1350   1350      1350  SAG  G   RBR  410       62                    
+
+8570 +     1623   1633      1636  G12  5   XRA  1-8A      B2.9    1.7E-04       
+
+8580 +     1742   1749      1751  G12  5   XRA  1-8A      B4.3    1.8E-04       
+
+8590 +     1856   1901      1904  G12  5   XRA  1-8A      B8.0    2.4E-04       
+8590       1856   1859      1859  SAG  G   RBR  410       200                   
+
+8600       1906   1907      1907  SAG  G   RBR  245       100                   
+
+8610 +     2011   2014      2016  G12  5   XRA  1-8A      C1.5    2.7E-04   0500
+
+8700       2011   ////      2015  CUL  C   RSP  18-770    III/2                 
+
+8610       2012   2012      2014  SAG  G   RBR  410       340               0500
+8610      B2013  U2015      2018  HOL  3   FLA  S10W38    SF                0500
+8610       2013   ////      2013  HOL  C   RSP  036-178   III/1             0500
+
+8620 +     2028   2032      2034  G12  5   XRA  1-8A      B3.2    9.1E-05       
+8620 +     2030   ////      2032  CUL  C   RSP  18-180    III/3                 
+
+8630       2100   2100      2100  PAL  G   RBR  245       75                    
+8630       2100   2100      2100  PAL  G   RBR  410       140                   
+
+8640 +     2125   2129      2131  G12  5   XRA  1-8A      C1.9    3.3E-04       
+8640 +     2127   ////      2130  CUL  C   RSP  18-150    III/3                 
+
+8710       2206   ////      2206  CUL  C   RSP  20-60     III/1                 
+
+8650       2239   2242      2244  G10  5   XRA  1-8A      B2.2    5.7E-05       
+8650 +     2243   ////      2243  LEA  C   RSP  025-180   III/1                 
+
+8660       2310   ////      2319  LEA  C   RSP  025-180   III/1             0498
+8660 +     2314   2318      2320  G12  5   XRA  1-8A      B4.0    1.0E-04   0498
+8660       2316   2316      2317  LEA  G   RBR  245       260               0498
+
+8670 +     2316   ////      2317  CUL  C   RSP  18-100    III/3                 
+
+8660 +     2317   2317      2321  LEA  3   FLA  N00W51    SF                0498
+
+8680 +     2325   2332      2334  G12  5   XRA  1-8A      B8.3    2.3E-04       

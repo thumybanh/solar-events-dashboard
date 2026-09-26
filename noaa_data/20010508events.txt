@@ -1,0 +1,25 @@
+:Product: 20010508events.txt
+:Created: 2001 May 11 0302 UT
+:Date: 2001 05 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 May 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5800 +     0036   0055      0117  GO8  5   XRA  1-8A      C9.9    1.6E-02   9445
+5800 +     0041   0052      0137  COM  3   FLA  N23W43    1F      PRB       9445
+
+5810 +     0856   ////      0859  SVI  U   RSP  025-082   III/2                 
+
+5820 +     0929   0932      0935  GO8  5   XRA  1-8A      B6.4    1.8E-04       
+
+5830       1205   1205      1206  SVI  G   RBR  245       67                    
+
+5840       1220   ////      1220  SVI  C   RSP  025-057   III/1                 
+
+5850 +     1610   1622      1631  GO8  5   XRA  1-8A      C1.6    1.4E-03       

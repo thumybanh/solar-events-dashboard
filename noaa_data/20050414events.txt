@@ -1,0 +1,34 @@
+:Product: 20050414events.txt
+:Created: 2005 Apr 15 1229 UT
+:Date: 2005 04 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Apr 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4270       0047   ////      0048  CUL  C   RSP  23-180    III/1                 
+
+4310      A0056   ////     B1340  HOL  3   DSF  N06W16    06      B.0A          
+
+4300 +    A0056   ////     B0658  HOL  3   DSF  S11E67    13      B.0A          
+
+4260 +     0246   0250      0303  G12  5   XRA  1-8A      B1.3    1.2E-04   0752
+4260       0256   ////      0259  CUL  C   RSP  20-180    III/2             0752
+
+4280 +     1011   1017      1023  G12  5   XRA  1-8A      B2.9    1.5E-04   0752
+4280       1016   1020      1022  G12  5   XFL  N03E51    6.0E+02 1.4E+03   0752
+
+4290       1043   1046      1048  G12  5   XRA  1-8A      B1.0    2.6E-05   0752
+4290       1046   1046      1046  G12  5   XFL  N03E50    5.0E+01 8.5E+01   0752
+
+4320       1820   1823      1825  G12  5   XRA  1-8A      B1.7    3.9E-05   0754
+4320       1824   1824      1824  G12  5   XFL  S08E53    1.5E+02 2.9E+02   0754
+
+4330       2034   ////      2035  PAL  C   RSP  025-180   III/1                 
+
+4340       2154   ////      2154  PAL  C   RSP  025-065   III/1                 

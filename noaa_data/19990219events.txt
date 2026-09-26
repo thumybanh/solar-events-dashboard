@@ -1,0 +1,82 @@
+:Product: 19990219events.txt
+:Created: 1999 Feb 22 0302 UT
+:Date: 1999 02 19
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Feb 19
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6260 +     0003   ////      0004  CUL  C   RSP  30-150    III/2             8464
+
+6270 +     0045   ////      0046  CUL  C   RSP  23-260    III/3                 
+
+6280 +     0048   0054      0111  GO8  5   XRA  1-8A      C3.2    3.3E-03   8459
+6280       0053   ////      0053  LEA  C   RSP  050-06    III/1                 
+
+6340       0113   ////      0500  LEA  C   RSP  030-08    CTM/1                 
+
+6290 +     0210   ////      0211  LEA  C   RSP  030-08    III/2                 
+
+6300 +     0239   ////      0241  CUL  C   RSP  18-270    III/3                 
+
+6320       0304   ////      0304  CUL  C   RSP  200-50    III/1                 
+
+6310 +     0322   ////      0322  CUL  C   RSP  30-260    III/2                 
+
+6330       0403   ////      0407  LEA  C   RSP  030-08    III/2                 
+
+6350       0634   ////      0636  LEA  C   RSP  030-06    III/1                 
+
+6370       0659   ////      1043  LEA  C   RSP  030-06    CTM/1                 
+
+6360 +     0728   0733      0736  GO8  5   XRA  1-8A      C1.0    4.1E-04   8464
+6360       0731   0732      0739  LEA  3   FLA  N20W15    SF                8464
+
+6380       0803   0803      0803  LEA  G   RBR  245       340                   
+
+6390       0940   0943      0946  G10  5   XRA  1-8A      B9.8    3.1E-04       
+
+6540      A1020   ////      2259  LEA  4   DSF  S31E65    12      B.0A          
+
+6550      A1020   ////      2259  LEA  4   DSF  S50E11    11      B.0A          
+
+6400       1343   1344      1347  RAM  3   FLA  N20W48    SF                8456
+
+6820       1344   1345      1346  RAM  3   FLA  N20W48    SF                8462
+
+6410       1435   1440      1442  SAG  G   RBR  245       620               8458
+6410       1436   ////      1443  SAG  C   RSP  030-08    V/2               8458
+6410       1441   1441      1447  RAM  3   FLA  S19W56    SF                8458
+
+6420       1502   1503      1503  SAG  G   RBR  245       66                    
+
+6430 +     1615   1623      1628  GO8  5   XRA  1-8A      C3.8    1.9E-03   8458
+6430 +     1617   1623      1629  RAM  3   FLA  N21W52    SF                8462
+
+6440       1621   1623      1630  RAM  3   FLA  N14W66    SF                8457
+
+6430       1626   1627      1629  SAG  G   RBR  245       420               8457
+6430       1626   ////      1631  SAG  C   RSP  030-08    V/2               8457
+
+6450       1627   1630      1642  RAM  3   FLA  S23W59    SF                8458
+
+6460       1818   1818      1818  SAG  G   RBR  410       94                    
+
+6470       1900   1900      1900  SAG  G   RBR  245       860                   
+
+6480 +     2038   2040      2040  SAG  G   RBR  245       94                    
+
+6490 +     2046   2046      2046  SAG  G   RBR  245       160                   
+
+6500 +     2052   2053      2056  SAG  G   RBR  245       260                   
+
+6510       2113   2114      2115  SAG  G   RBR  245       200                   
+
+6520       2136   2136      2137  SAG  G   RBR  245       98                    
+
+6530 +     2231   2247      2314  LEA  G   RNS  245       150                   

@@ -1,0 +1,52 @@
+:Product: 20020526events.txt
+:Created: 2002 May 29 0300 UT
+:Date: 2002 05 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1190       0045   0106      0122  GO8  5   XRA  1-8A      C1.6    2.9E-03   0000
+
+1040       0239   0244      0250  G10  5   XRA  1-8A      C1.1    6.5E-04   9963
+1040       0241   0241      0252  LEA  3   FLA  N15E07    SF                9963
+
+1050       0305   0306      0308  LEA  G   RBR  245       120               0000
+
+1060       0314   0322      0337  LEA  3   FLA  N07E65    SF                9969
+1060       0315   0315      0315  LEA  G   RBR  245       120               9969
+
+1070       0448   0448      0501  LEA  3   FLA  N16W44    SF                9957
+
+1080       0618   0619      0621  LEA  3   FLA  N06E64    SF      ERU       9969
+
+1100       0804   0821      0828  GO8  5   XRA  1-8A      C1.0    1.3E-03   0000
+
+1110       0922   0946      1011  GO8  5   XRA  1-8A      C1.1    2.8E-03   0000
+
+1090       1001   1002      1003  SVI  G   RBR  245       95                0000
+
+1120       1029   1043      1053  GO8  5   XRA  1-8A      C1.3    1.5E-03   0000
+
+1130       1226   ////      1227  SVI  C   RSP  040-059   III/1             0000
+
+1140       1239   1239      1239  SVI  G   RBR  245       61                0000
+
+1150 +     1327   1331      1400  RAM  3   FLA  S23W11    SF      ERU       9961
+1150 +     1353   1356      1358  GO8  5   XRA  1-8A      C4.4    9.8E-04   9961
+
+1160       1419   1419      1423  RAM  3   FLA  N03E57    SF                9969
+
+1170 +     1506   1510      1514  GO8  5   XRA  1-8A      C1.7    7.1E-04   9969
+1170 +     1508   1510      1516  RAM  3   FLA  N03E57    SF                9969
+
+1180       1511   1511      1523  SVI  3   FLA  N11W54    SF                9957
+
+1230 +    A1533   ////     B0426  SVI  3   DSF  S27E27    09      B.0A      0000
+
+1200       2117   2125      2134  GO8  5   XRA  1-8A      C1.2    1.1E-03   0000

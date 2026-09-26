@@ -1,0 +1,58 @@
+:Product: 20010804events.txt
+:Created: 2001 Aug 07 0302 UT
+:Date: 2001 08 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Aug 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2160 +     0204   0209      0211  GO8  5   XRA  1-8A      C2.7    6.2E-04   9563
+2160       0207   0209      0214  LEA  3   FLA  N22E13    SF      ERU       9563
+2160 +     0208   0208      0208  LEA  G   RBR  245       290               9563
+2160 +     0208   ////      0209  LEA  C   RSP  025-180   III/3             9563
+
+2170       0300   0303      0305  LEA  3   FLA  N17E32    SF      ERU       9566
+
+2180       0404   0405      0409  LEA  3   FLA  N22E12    SF      ERU       9563
+2180 +     0404   ////      0405  LEA  C   RSP  050-180   III/1             9563
+
+2190       0901   0903      0908  LEA  3   FLA  S17W57    SF                9568
+
+2200 +     0912   0912      0913  LEA  G   RBR  245       540                   
+
+2210 +     0944   0949      0951  GO8  5   XRA  1-8A      C7.9    1.5E-03   9563
+2210       0949   0950      0954  SVI  3   FLA  N24E08    SF                9563
+
+2220 +     1221   1235      1250  GO8  5   XRA  1-8A      C9.6    1.2E-02       
+
+2230 +     1454   ////      1455  HOL  C   RSP  025-085   III/1                 
+
+2240       1754   1758      1818  HOL  3   FLA  N17E25    SF                9566
+2240       1802   1802      1803  PAL  G   RBR  410       500               9566
+2240 +     1803   1803      1804  SAG  G   RBR  606       720               9566
+2240 +     1803   1803      1804  SAG  G   RBR  1415      100               9566
+
+2250 +     1837   1846      1854  GO8  5   XRA  1-8A      C2.3    1.8E-03   9566
+2250       1839  U1840     A1942  HOL  3   FLA  N16E24    SF                9566
+
+2260 +     1939   1945      1949  GO8  5   XRA  1-8A      C2.8    1.2E-03   9557
+2260      B1941  U1943     A2018  HOL  3   FLA  S22W34    SF                9557
+
+2270       2007   2016      2017  GO8  5   XRA  1-8A      C1.0    6.0E-04   9563
+2270      B2013  U2016     A2101  HOL  3   FLA  N21E05    SF                9563
+
+2280       2105   2105      2106  PAL  G   RBR  410       50                    
+
+2290       2245   2245      2245  SAG  G   RBR  245       59                    
+
+2300 +     2253   2257      2259  GO8  5   XRA  1-8A      C1.5    3.5E-04       
+
+2520       2340   2344      2350  HOL  3   FLA  S22W36    SF                9557
+
+2310 +     2348   2353      2356  GO8  5   XRA  1-8A      C1.2    5.2E-04   9563
+2310       2351   2351      0005  HOL  3   FLA  N25E08    SF                9563

@@ -1,0 +1,45 @@
+:Product: 19980821events.txt
+:Created: 1998 Aug 24 0302 UT
+:Date: 1998 08 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Aug 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3810 +     0000   0002      0010  LEA  G   RBR  2695      130                   
+3810 +     0000   0008      0011  LEA  G   RBR  4995      310                   
+3810       0000   0003      0011  PAL  U   RBR  8800      690                   
+3810       0000   0003      0013  PAL  U   RBR  15400     1400                  
+3810 +     0001   0003      0004  LEA  G   RBR  1415      75                    
+3810 +     0003   0003      0004  LEA  G   RBR  245       1600                  
+3810 +     0005   0006      0006  LEA  G   RBR  410       44                    
+
+3680 +     0117   ////      0117  PAL  C   RSP  025-06    III/2                 
+
+3690 +     0147   0154      0203  GO8  5   XRA  1-8A      C2.5    2.0E-03       
+
+3700 +     0617   0625      0635  GO8  5   XRA  1-8A      C2.7    2.3E-03       
+
+3710 +     0853   0903      0915  GO8  5   XRA  1-8A      C4.5    4.4E-03       
+
+3720       1217   1218      1220  SAG  G   RBR  245       62                    
+
+3740       1334   ////      1334  SVI  C   RSP  035-07    III/2                 
+3740       1334   ////      1334  SAG  C   RSP  030-08    V/1                   
+
+3750       1506   1507      1511  HOL  3   FLA  N33E53    SF      ERU       8307
+
+3760       1612   1613      1640  HOL  3   FLA  N32E51    SF                8307
+3760 +     1614   1620      1629  GO8  5   XRA  1-8A      C1.0    8.4E-04   8307
+
+3770 +     2035   2035      2036  PAL  G   RBR  1415      81                    
+
+3780 +     2103   2114      2139  GO8  5   XRA  1-8A      C5.1    7.5E-03       
+
+3800 +     2357   0009      0016  GO8  5   XRA  1-8A      M9.0    6.1E-02       
+3800       2359   0003      0013  LEA  G   RBR  8800      780                   

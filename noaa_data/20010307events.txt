@@ -1,0 +1,71 @@
+:Product: 20010307events.txt
+:Created: 2001 Mar 10 0302 UT
+:Date: 2001 03 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Mar 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+100        0000   0003      0005  HOL  3   FLA  N21W64    SF                9371
+
+110  +     0009   0016      0024  GO8  5   XRA  1-8A      C4.6    3.1E-03   9365
+110  +     0011   0017      0041  LEA  3   FLA  S08W49    1F      ERU       9365
+110  +     0014   0014      0015  PAL  G   RBR  410       89                9365
+
+120  +     0059   0107      0116  GO8  5   XRA  1-8A      C3.9    3.4E-03       
+120  +     0111   ////      0111  CUL  C   RSP  40-100    III/1                 
+
+130  +     0458   ////      0458  CUL  C   RSP  30-100    III/1                 
+
+140        0504   0509      0516  G10  5   XRA  1-8A      C2.9    1.8E-03   9370
+140        0506   0506      0507  LEA  U   RBR  245       500               9370
+140        0506   0506      0506  LEA  U   RBR  4995      26                9370
+140        0507   0509      0511  LEA  3   FLA  N10E10    SF                9370
+140        0507   ////      0507  CUL  C   RSP  200-400   III/1             9370
+
+310        0534   ////      0534  CUL  C   RSP  30-90     III/1                 
+
+320        0605   ////      0605  CUL  C   RSP  40-90     III/1                 
+
+150  +     0714   ////      0714  CUL  C   RSP  40-90     III/1                 
+
+160  +     0832   0841      0855  GO8  5   XRA  1-8A      C2.7    3.3E-03   9371
+160  +     0840   0841      0856  COM  3   FLA  N19W73    SF      ERU       9371
+
+180  +     0914   0921      0925  LEA  3   FLA  N20W68    SF                9371
+
+190        0948   0950      0956  LEA  2   FLA  N20W68    SF      ERU       9371
+190        0948   0949      0955  GO8  5   XRA  1-8A      C2.0    8.4E-04   9371
+
+290       A1015   ////      2304  LEA  3   DSF  N40E63    21      B.0A          
+
+200  +     1446   1502      1555  GO8  5   XRA  1-8A      C5.8    2.0E-02   9371
+200  +     1455   1500      1554  COM  3   FLA  N23W75    SF      ERU       9371
+
+210  +     1606   1606      1607  SAG  G   RBR  245       130               9371
+
+220        1608   1609      1611  HOL  3   FLA  N22W79    SF      ERU       9371
+
+230        1628   1630      1630  SAG  G   RBR  245       93                    
+
+260  +     1714   1851      1854  SAG  G   RNS  245       150                   
+
+240  +     1810   1815      1820  GO8  5   XRA  1-8A      C2.9    1.5E-03       
+
+250  +     1919   1927      1948  GO8  5   XRA  1-8A      C7.3    1.1E-02   9368
+250        1923   1929      1944  HOL  3   FLA  N27W16    SF      PRB       9368
+
+270        2007   2009      2050  HOL  3   FLA  N30W16    SF                9368
+
+280  +     2100   2105      2109  GO8  5   XRA  1-8A      C3.9    1.7E-03       
+
+330        2229   ////      2230  CUL  C   RSP  40-160    III/1                 
+
+340        2259   ////      2259  CUL  C   RSP  60-180    III/1                 
+
+350        2357   0001      0003  G10  5   XRA  1-8A      C1.6    5.0E-04       

@@ -1,0 +1,50 @@
+:Product: 20091218events.txt
+:Created: 2009 Dec 19 2102 UT
+:Date: 2009 12 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2009 Dec 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3030       0109   0132      0158  G14  5   XRA  1-8A      B2.0    4.6E-04   1035
+
+3040       0204   0213      0217  G14  5   XRA  1-8A      B5.6    2.5E-04   1035
+
+3050       0429   0433      0439  G14  5   XRA  1-8A      B3.1    1.3E-04   1035
+
+3100       0700   ////      1200  IZM  F   RNS  204       15                    
+
+3060       0745   0748      0752  G14  5   XRA  1-8A      B2.5    6.1E-05   1035
+
+3070       1030   1038      1044  G14  5   XRA  1-8A      B2.2    1.4E-04   1035
+
+3080       1116   1122      1125  G14  5   XRA  1-8A      B1.8    7.1E-05   1035
+
+3090 +     1315   1315      1315  SVI  G   RBR  245       150                   
+
+3110       1404   1410      1416  G14  5   XRA  1-8A      B3.1    1.6E-04       
+
+3120       1610   1623      1631  G14  5   XRA  1-8A      B5.1    4.3E-04   1035
+
+3130       1659   1703      1706  G14  5   XRA  1-8A      B2.5    7.0E-05   1035
+
+3140       1820   1827      1830  G14  5   XRA  1-8A      B5.4    2.3E-04   1035
+
+3150       1848   1855      1858  G14  5   XRA  1-8A      C7.6    2.0E-03   1035
+
+3160       1917   1920      1923  G14  5   XRA  1-8A      B2.8    6.4E-05   1035
+
+3170       2032   2038      2042  G14  5   XRA  1-8A      B2.7    1.1E-04   1035
+
+3180       2116   2124      2127  G14  5   XRA  1-8A      B3.6    1.5E-04   1035
+
+3190       2158   2202      2205  G14  5   XRA  1-8A      B1.9    5.1E-05   1035
+
+3200       2337   2343      2345  G14  5   XRA  1-8A      B2.0    6.5E-05       
+
+3210       2353   2358      0001  G14  5   XRA  1-8A      B3.1    9.8E-05       

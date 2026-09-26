@@ -1,0 +1,51 @@
+:Product: 20020121events.txt
+:Created: 2002 Jan 24 0300 UT
+:Date: 2002 01 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Jan 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9930       0044   ////      0044  CUL  C   RSP  60-90     III/1                 
+
+9940 +     0135   0139      0149  GO8  5   XRA  1-8A      C1.7    1.4E-03   9788
+9940       0136   0137      0153  LEA  3   FLA  N18E25    SF      ERU       9788
+
+9950       0208   ////      0208  CUL  C   RSP  57-90     III/1                 
+
+9960 +     0322   0329      0338  GO8  5   XRA  1-8A      C3.4    2.6E-03   9788
+9960       0324   0328      0350  LEA  3   FLA  N18E25    SF      ERU       9788
+
+9970       0536   0539      0541  G10  5   XRA  1-8A      C1.6    4.3E-04   9785
+9970       0537   0539      0542  LEA  3   FLA  N07W45    SF                9785
+9970       0539   0539      0539  LEA  G   RBR  8800      29                9785
+
+9980       0638   0638      0638  LEA  G   RBR  245       100                   
+
+9990       0654   ////      0655  LEA  C   RSP  041-180   III/1                 
+
+10         0741   0747      0753  GO8  5   XRA  1-8A      C1.7    1.2E-03   9789
+10         0743   0744      0755  LEA  3   FLA  N15W20    SF                9789
+10   +     0755   ////      0755  LEA  C   RSP  025-180   III/1             9789
+
+20         1021   ////      1022  LEA  C   RSP  049-180   III/1                 
+
+30         1811   1812      1813  PAL  G   RBR  606       180                   
+
+40   +     1815   1819      1821  GO8  5   XRA  1-8A      C1.7    5.3E-04   9791
+40         1815   1816      1817  SAG  G   RBR  606       110               9791
+40         1818   1818      1822  HOL  3   FLA  S03W28    SF                9791
+
+50         2126   2137      2144  G10  5   XRA  1-8A      C2.2    2.1E-03       
+
+80         2148   ////      2148  CUL  C   RSP  150-750   III/1                 
+
+90         2153   ////      2155  CUL  C   RSP  57-160    III/1                 
+
+60   +     2229   2233      2242  GO8  5   XRA  1-8A      C3.5    2.0E-03   9791
+60         2237   2242      2245  HOL  3   FLA  S02W30    SF                9791

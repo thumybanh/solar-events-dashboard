@@ -1,0 +1,18 @@
+:Product: 20030210events.txt
+:Created: 2003 Feb 13 0302 UT
+:Date: 2003 02 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Feb 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6980 +     0222   0230      0242  GO8  5   XRA  1-8A      C1.2    1.1E-03   0277
+
+6990 +     0344   0348      0407  GO8  5   XRA  1-8A      B6.6    8.5E-04       
+
+7000       2124   2242      2341  GO8  5   XRA  1-8A      C1.1    7.8E-03   0274

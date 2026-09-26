@@ -1,0 +1,50 @@
+:Product: 19981118events.txt
+:Created: 1998 Nov 21 0302 UT
+:Date: 1998 11 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4540 +     0131   ////      0132  COM  C   RSP  30-50     III/1                 
+
+4550 +     0217   ////      0218  COM  C   RSP  30-50     III/1                 
+
+4500 +     0719   0723      0727  GO8  5   XRA  1-8A      B4.9    2.0E-04       
+
+4560 +     0837   0843      0851  GO8  5   XRA  1-8A      B6.2    4.2E-04       
+4560 +     0839   ////      0843  COM  C   RSP  30-80     III/2                 
+
+4570 +     1044   1055      1106  GO8  5   XRA  1-8A      C1.0    1.2E-03       
+
+4590       1212   ////      1213  COM  C   RSP  30-45     III/1                 
+
+4580 +     1223   1223      1224  COM  G   RBR  245       110                   
+
+4620       1227   1823      1828  COM  G   RNS  245       490                   
+
+4600       1354   1354      1354  COM  G   RBR  245       71                    
+4600       1354   ////      1354  COM  C   RSP  30-55     III/1                 
+
+4650       1750   ////      1751  COM  C   RSP  30-55     III/1                 
+
+4610       1759   1801      1802  COM  G   RBR  410       70                    
+
+4660       1834   ////      1835  COM  C   RSP  25-35     III/1                 
+
+4670       2039   ////      2041  COM  C   RSP  27-47     V/1                   
+
+4680       2131   2132      2132  COM  G   RBR  245       120                   
+
+4690       2136   2134      2133  COM  G   RBR  245       97                    
+
+4630 +     2146   2149      2151  GO8  5   XRA  1-8A      B4.9    1.1E-04       
+
+4810       2240   ////      0241  COM  3   DSF  S18W00    9                     
+
+4700 +     2354   2354      2354  COM  G   RBR  245       86                    

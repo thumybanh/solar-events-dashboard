@@ -1,0 +1,30 @@
+:Product: 20080403events.txt
+:Created: 2008 Apr 06 2332 UT
+:Date: 2008 04 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2008 Apr 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9450       0112   0124      0136  G10  5   XRA  1-8A      C1.2    1.1E-03       
+
+9460       0218   0227      0235  G10  5   XRA  1-8A      C1.2    7.5E-04       
+
+9470       0555   0559      0612  G10  5   XRA  1-8A      B1.2    9.6E-05       
+
+9480       1527   1531      1533  G10  5   XRA  1-8A      B1.0    3.4E-05       
+
+9490       1551   1557      1600  G10  5   XRA  1-8A      B2.9    1.0E-04   0989
+9490       1555   1556      1609  HOL  4   FLA  S12W36    SF      DSD       0989
+
+9500       1631   1631      1631  SAG  G   RBR  15400     69                    
+
+9510       1944   1951      1958  G10  5   XRA  1-8A      B1.9    1.3E-04       
+
+9520       2020   2024      2028  G10  5   XRA  1-8A      B2.3    9.4E-05   0989
+9520       2023   2023      2028  HOL  3   FLA  S08W42    SF                0989

@@ -1,0 +1,58 @@
+:Product: 20050917events.txt
+:Created: 2005 Sep 20 0329 UT
+:Date: 2005 09 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Sep 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 540 +     0207   0212      0218  G12  5   XRA  1-8A      C2.0    9.9E-04   0808
+ 540       0212   0213      0218  LEA  3   FLA  S10W38    SF                0808
+
+ 550       0415   0419      0425  G10  5   XRA  1-8A      B8.3    4.4E-04       
+
+ 560       0432   0449      0508  G10  5   XRA  1-8A      C3.3    5.0E-03   0808
+ 560       0440   0441      0444  LEA  3   FLA  S10W39    SF                0808
+
+ 620       0445   0450      0500  LEA  3   FLA  S10W39    SF      ERU       0808
+
+ 570 +     0558   0605      0615  G12  5   XRA  1-8A      M9.8    5.3E-02   0808
+ 570 +     0600   0600      0600  LEA  G   RBR  606       99                0808
+ 570 +     0600   0604      0617  LEA  G   RBR  2695      1000              0808
+ 570 +     0600   0603      0621  LEA  G   RBR  4995      1900              0808
+ 570 +     0600   0603      0617  LEA  G   RBR  8800      1800              0808
+ 570 +     0600   0603      0610  LEA  G   RBR  15400     1600              0808
+ 570 +     0602   0605      0733  LEA  3   FLA  S10W39    2N      UMB       0808
+ 570 +     0603   0604      0608  LEA  G   RBR  1415      140               0808
+
+ 580       0619   ////      0627  SVI  C   RSP  025-180   III/2                 
+
+ 710      B0650   0654      0659  CUL  3   FLA  S14W37    SF                    
+
+ 590       0917   0920      0923  G12  5   XRA  1-8A      C1.2    4.1E-04       
+
+ 600       0934   0939      0948  G12  5   XRA  1-8A      C1.5    1.1E-03       
+
+ 610 +     1033   1036      1039  G12  5   XRA  1-8A      C2.5    7.8E-04       
+
+ 630 +     1458   1504      1506  G12  5   XRA  1-8A      C1.5    4.4E-04       
+
+ 640 +     1531   1536      1540  G12  5   XRA  1-8A      B7.3    3.3E-04       
+
+ 650       1656   1659      1701  G10  5   XRA  1-8A      B5.2    1.3E-04       
+
+ 660 +     1809   1814      1818  G12  5   XRA  1-8A      B7.4    3.2E-04       
+
+ 670       2004   2004      2004  SAG  G   RBR  410       51                    
+
+ 680 +     2025   2029      2036  G12  5   XRA  1-8A      B6.4    3.7E-04       
+
+ 690 +     2212   2217      2220  G12  5   XRA  1-8A      B9.9    3.6E-04   0808
+ 690       2217   2218      2222  HOL  3   FLA  S13W51    SF      ERU       0808
+
+ 700 +     2319   2322      2324  G12  5   XRA  1-8A      B4.3    1.2E-04       

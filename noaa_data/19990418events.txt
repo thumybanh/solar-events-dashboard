@@ -1,0 +1,33 @@
+:Product: 19990418events.txt
+:Created: 1999 Apr 21 0302 UT
+:Date: 1999 04 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Apr 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6360       0840   0844      0849  G10  5   XRA  1-8A      B3.8    1.9E-04       
+
+6380       1133   1142      1147  G10  5   XRA  1-8A      B3.7    2.8E-04       
+
+6420       1245   1245      1246  SAG  G   RBR  245       100                   
+
+6430 +     1437   1441      1444  RAM  3   FLA  N17W79    SF                    
+
+6440       1723   1723      1725  SAG  G   RBR  245       71                    
+
+6450       2019   ////      2020  PAL  C   RSP  030-06    III/1                 
+
+6460 +     2041   2044      2047  GO8  5   XRA  1-8A      B3.7    1.1E-04       
+
+6470 +     2112   2119      2123  GO8  5   XRA  1-8A      B7.6    3.5E-04   8517
+6470 +     2115   2116      2121  HOL  3   FLA  N21W52    SF                8517
+
+6480 +     2251   2255      2308  GO8  5   XRA  1-8A      B3.1    2.8E-04       
+
+6490 +     2314   2317      2324  GO8  5   XRA  1-8A      B3.9    2.1E-04       

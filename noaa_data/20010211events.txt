@@ -1,0 +1,39 @@
+:Product: 20010211events.txt
+:Created: 2001 Feb 14 0302 UT
+:Date: 2001 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8200 +     0057   0123      0146  GO8  5   XRA  1-8A      C6.5    1.3E-02   9346
+8200       0059   0108      0205  LEA  3   FLA  N24W57    1F      ERU       9346
+8200 +     0105   ////      0110  CUL  C   RSP  40-75     II/2              9346
+8200 +     0107   ////      0114  LEA  C   RSP  025-135   III/3             9346
+
+8230       0107   0113      0151  LEA  3   FLA  N16W63    SF                9346
+
+8210 +     0339   ////      0340  LEA  C   RSP  025-106   III/2                 
+
+8240       0858   ////      0900  LEA  C   RSP  030-090   III/1                 
+
+8250      B0908   0912      0927  LEA  3   FLA  S17W23    SF      ERU       9338
+8250 +     0909   0915      0920  GO8  5   XRA  1-8A      C2.1    1.1E-03   9338
+
+8260 +     1026   1035      1035  SVI  G   RBR  606       48                    
+8260       1029   1029      1030  SVI  G   RBR  410       35                    
+8260       1029   1029      1030  SVI  G   RBR  1415      41                    
+8260       1029   1030      1030  SVI  G   RBR  2695      54                    
+8260       1029   1029      1030  SVI  G   RBR  4995      110                   
+8260       1029   1030      1030  SVI  G   RBR  8800      97                    
+8260       1029   1029      1030  SVI  G   RBR  15400     330                   
+
+8270 +     1317   1321      1326  GO8  5   XRA  1-8A      B7.8    3.5E-04   9338
+8270       1321   1321      1328  RAM  3   FLA  S18W25    SF      ERU       9338
+
+8280       1607   1614      1620  G10  5   XRA  1-8A      B6.5    4.6E-04       

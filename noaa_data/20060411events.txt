@@ -1,0 +1,33 @@
+:Product: 20060411events.txt
+:Created: 2006 Apr 14 0329 UT
+:Date: 2006 04 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2006 Apr 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3740 +     0145   0200      0204  G12  5   XRA  1-8A      C1.0    5.7E-04   0870
+3740       0149   0203      0203  G12  5   XFL  S07E20    9.0E+02 4.6E+03   0870
+3740 +     0157   ////      0157  CUL  C   RSP  18-100    III/2             0870
+
+3750 +     0433   0439      0443  G12  5   XRA  1-8A      C1.0    3.6E-04   0870
+3750 +     0437   0437      0438  LEA  G   RBR  606       220               0870
+3750       0437   0438      0441  LEA  3   FLA  S07E17    SF      ERU       0870
+3750       0437   0439      0439  G12  5   XFL  S07E18    7.8E+02 3.6E+03   0870
+3750 +     0438   0438      0438  LEA  G   RBR  1415      150               0870
+3750 +     0438   0438      0438  LEA  G   RBR  2695      69                0870
+
+3760 +     0742   0746      0748  G12  5   XRA  1-8A      B1.5    4.4E-05       
+
+3770 +     0912   ////      0915  SVI  C   RSP  025-081   III/2                 
+
+3780       1005   ////      1005  SVI  C   RSP  025-053   III/2                 
+
+3790 +     1808   1839      1858  G12  5   XRA  1-8A      C2.3    4.7E-03   0871
+3790      B1816   1820      1846  HOL  3   FLA  S08E40    1N      ERU       0871
+3790       1821   1845      1857  G12  5   XFL  S09E41    4.8E+03 1.5E+04   0871

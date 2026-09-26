@@ -1,0 +1,20 @@
+:Product: 20030726events.txt
+:Created: 2003 Jul 29 0302 UT
+:Date: 2003 07 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Jul 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 980       0035   ////      0036  LEA  C   RSP  025-180   III/1                 
+
+ 990       1115   ////      1115  SAG  C   RSP  030-055   III/2                 
+
+1000 +     1841   1846      1849  G12  5   XRA  1-8A      B7.1    2.6E-04   0421
+
+1010 +     2207   2211      2215  G12  5   XRA  1-8A      B4.4    1.8E-04   0414

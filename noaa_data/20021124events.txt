@@ -1,0 +1,84 @@
+:Product: 20021124events.txt
+:Created: 2002 Nov 27 0300 UT
+:Date: 2002 11 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Nov 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3870       0117   ////      0118  CUL  C   RSP  50-170    III/1                 
+
+3590       0208   0213      0217  G10  5   XRA  1-8A      C1.0    5.2E-04       
+
+3600 +     0219   0223      0226  GO8  5   XRA  1-8A      C3.7    9.7E-04       
+
+3610 +     0228   0231      0235  GO8  5   XRA  1-8A      C2.8    1.0E-03       
+
+3880       0246   ////      0246  CUL  C   RSP  100-160   III/1                 
+
+3620 +     0338   0347      0359  GO8  5   XRA  1-8A      C1.8    1.8E-03       
+
+3630 +     0445   0449      0453  GO8  5   XRA  1-8A      C1.2    5.1E-04       
+
+3640       0617   0619      0619  SVI  G   RBR  410       70                    
+
+3650       0653   0653      0653  SVI  G   RBR  245       330                   
+3650       0653   0653      0655  SVI  G   RBR  410       110                   
+
+3660       0710   0710      0712  SVI  G   RBR  245       190                   
+3660       0710   0710      0711  SVI  G   RBR  410       120                   
+
+3670       0732   0732      0732  SVI  G   RBR  245       100                   
+
+3890       0733   ////      0733  CUL  C   RSP  30-100    III/1                 
+
+3680       0744   0744      0746  SVI  G   RBR  245       130                   
+3680       0744   0744      0744  SVI  G   RBR  410       44                    
+
+3690 +     0815   0819      0822  GO8  5   XRA  1-8A      C4.8    1.2E-03       
+3690       0816   0822      0825  SVI  G   RBR  245       88                    
+
+3700       0832   0832      0833  SVI  G   RBR  245       190                   
+
+3710       0835   0836      0837  SVI  G   RBR  245       1000                  
+3710       0836   0836      0836  SVI  G   RBR  410       97                    
+3710       0836   ////      0836  SVI  C   RSP  025-180   III/2                 
+
+3720       0847   0847      0847  SVI  G   RBR  245       56                    
+
+3730       0855   0855      0855  SVI  G   RBR  245       150                   
+3730       0855   0855      0855  SVI  G   RBR  410       67                    
+
+3750      B1127  U1127      1145  RAM  3   FLA  N26W42    SF      ERU       0197
+
+3770       1332   1333      1333  SAG  G   RBR  245       92                    
+
+3780       1336   1336      1337  SAG  G   RBR  245       74                    
+
+3790 +     1338   1338      1338  SVI  G   RBR  245       92                    
+
+3800 +     1432   1432      1433  SAG  G   RBR  245       130               0000
+3800      B1432  U1432      1436  RAM  3   FLA  N14E75    SF      DSD       0202
+
+3760 +     1436   1528      1947  SAG  G   RNS  245       240                   
+
+3810       1536   ////      1537  HOL  C   RSP  025-173   III/1                 
+
+3820       1625   1625     A1630  RAM  3   FLA  N13E73    SF                0202
+
+3830 +     1723   1809      1840  GO8  5   XRA  1-8A      C1.8    6.2E-03   0198
+3830      B1728  U1728      1832  RAM  3   FLA  S19W37    SF      ERU       0198
+3830       1756   1756      1758  PAL  G   RBR  245       99                0198
+
+3850 +     1847   ////      1950  HOL  3   DSF  ////      33      B.0A      0000
+3850       2003   ////      2003  CUL  C   RSP  20-35     III/1             0000
+3850       2006   ////      2016  CUL  C   RSP  18-35     II/1    800       0000
+
+3840 +     2014   2029      2057  GO8  5   XRA  1-8A      C6.4    1.2E-02   0198
+3840       2034   ////      2036  CUL  C   RSP  23-75     III/1             0198
+3840      B2035  U2035     A2035  RAM  3   FLA  S17W37    SF      PRB       0198

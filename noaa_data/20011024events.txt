@@ -1,0 +1,118 @@
+:Product: 20011024events.txt
+:Created: 2001 Oct 27 0302 UT
+:Date: 2001 10 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Oct 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5970       0017   0021      0025  G10  5   XRA  1-8A      C1.7    7.4E-04       
+
+5980 +     0235   0238      0245  GO8  5   XRA  1-8A      C1.9    1.1E-03       
+5980       0237   ////      0244  LEA  C   RSP  025-180   III/1                 
+
+5990       0254   0254      0303  LEA  3   FLA  S18W06    SF      ERU       9672
+5990       0254   0255      0255  LEA  G   RBR  245       60                9672
+
+6000       0322   ////      0326  LEA  C   RSP  025-180   III/2                 
+
+6010       0356   ////      0357  LEA  C   RSP  039-130   III/1                 
+
+6030       0420   ////      0421  LEA  C   RSP  025-180   III/1                 
+
+6020 +     0420   0424      0430  GO8  5   XRA  1-8A      C2.0    1.1E-03       
+
+6030       0421   0422      0422  LEA  G   RBR  15400     130                   
+
+6370       0439   ////      0445  CUL  C   RSP  57-100    III/1                 
+
+6110       0541   0622      0659  GO8  5   XRA  1-8A      C2.6    5.0E-02       
+
+6040 +     0545   ////      0548  LEA  C   RSP  025-180   III/1                 
+
+6050       0602   0603      0610  LEA  3   FLA  S13E27    SF      ERU       9675
+
+6170       0609   0610      0614  LEA  3   FLA  N07E43    SF      ERU       9678
+
+6060 +     0759   ////      0804  LEA  C   RSP  025-180   V/3                   
+6060       0759   ////      0804  SVI  C   RSP  025-180   III/2                 
+
+6120       0814   0856      0927  GO8  5   XRA  1-8A      C4.02   1.4E-02       
+
+6070 +     0838   ////      0839  LEA  C   RSP  025-120   III/1                 
+
+6080      B0846  U0846      0855  SVI  3   FLA  N17W41    SF      ERU       9669
+
+6090 +     0939   ////      0944  SVI  C   RSP  025-180   III/2                 
+
+6130       1047   1058      1107  GO8  5   XRA  1-8A      C2.8    3.0E-03   9672
+6130       1052   1054      1119  SVI  3   FLA  S18W08    SF      ERU       9672
+
+6140       1131   1131      1132  SVI  G   RBR  8800      54                    
+
+6150       1145   1146      1146  SVI  G   RBR  245       160                   
+
+6180 +     1405   1418      1437  GO8  5   XRA  1-8A      C3.8    5.5E-03   9669
+6180 +     1410   1417      1432  SVI  3   FLA  N12W46    SF      ERU       9669
+
+6190 +     1442   1447      1459  HOL  3   FLA  N09E41    SF      ERU       9678
+
+6200       1519   1527      1544  HOL  3   FLA  N07E39    SF                9678
+
+6210       1639   1643      1648  HOL  3   FLA  N07E39    SF      ERU       9678
+
+6220 +     1706   1711      1719  GO8  5   XRA  1-8A      C2.0    1.4E-03   9672
+6220       1707   1708      1710  SAG  G   RBR  15400     450               9672
+6220       1708   1708      1710  SAG  G   RBR  8800      140               9672
+6220 +     1708   1709      1721  RAM  3   FLA  S18W09    SF      ERU       9672
+6220       1711   ////      1711  HOL  C   RSP  025-086   III/1             9672
+
+6230       1735   ////      1735  HOL  C   RSP  025-167   III/1                 
+
+6240 +     1754   1841      1907  GO8  5   XRA  1-8A      C6.3    1.8E-02   9678
+6240 +     1756   1758      1815  RAM  3   FLA  N09E36    SF      ERU       9678
+6240 +     1806   ////      1807  HOL  C   RSP  025-180   III/1             9678
+
+6270 +     1833   1854      1904  RAM  3   FLA  N09E38    SF      ERU       9678
+
+6250       1859   1859      1859  SAG  G   RBR  245       95                    
+
+6260 +     1907   1909      1913  HOL  3   FLA  N08E38    SF      PRB       9678
+6260 +     1912   ////      1914  HOL  C   RSP  025-126   III/1             9678
+
+6280 +     1923   1924      1937  HOL  3   FLA  N03W04    SF      ERU       9673
+
+6290 +     1931   1932      1938  HOL  3   FLA  N07E36    SF      PRB       9678
+
+6380       2100   ////      2102  CUL  C   RSP  57-90     III/1                 
+
+6390       2120   ////      2128  CUL  C   RSP  57-120    III/1                 
+
+6300       2207   2241      2257  GO8  5   XRA  1-8A      C3.4    7.4E-03   9680
+
+6330       2218   2224      2303  HOL  3   FLA  N07E34    SF      PRB       9678
+6330       2223   2224      2224  LEA  G   RBR  245       62                9678
+
+6300       2231   ////      2231  CUL  C   RSP  57-120    III/1             9680
+6300       2232   2232      2254  HOL  3   FLA  N21E49    SF      ERU       9680
+
+6620       2243   2322      0015  LEA  G   RNS  245       120                   
+
+6310       2307   2312      2344  HOL  3   FLA  N06E33    SF      PRB       9678
+6310 +     2310   2311      2311  PAL  G   RBR  15400     280               9678
+6310       2311   2311      2311  LEA  G   RBR  8800      80                9678
+
+6350       2320   2322      2322  PAL  G   RBR  245       100                   
+
+6360       2320   2320      2320  PAL  G   RBR  8800      54                    
+
+6340       2325   2325      2325  PAL  G   RBR  245       57                    
+
+6310       2325   ////      2326  CUL  C   RSP  57-140    III/1             9678
+
+6320 +     2359   0003      0006  GO8  5   XRA  1-8A      C5.3    1.7E-03   9672

@@ -1,0 +1,49 @@
+Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center
+0502 UT 25 Nov 1997
+
+EDITED EVENTS for 1997 Nov 22
+
+Event     Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+
+7900 +     0018   0021      0025  GO9  5   XRA  1-8A      B3.0    1.1E-04
+
+7910       0035   ////      0036  LEA  C   RSP  043-07    III/2
+
+7920       0054   ////      0101  LEA  C   RSP  030-08    III/2
+
+7930       0138   ////      0139  PAL  C   RSP  030-05    III/1
+
+7940       0214   ////      0217  LEA  C   RSP  030-06    III/2
+
+7950 +     0228   0232      0235  GO9  5   XRA  1-8A      B4.4    1.6E-04
+
+7960       0257   ////      0257  LEA  C   RSP  030-05    III/1
+
+7970       0341   ////      0342  LEA  C   RSP  030-08    III/2
+
+7980       0347   0350      0352  LEA  G   RBR  245       31
+7980       0348   0348      0348  LEA  G   RBR  410       59
+7980       0348   0349      0349  LEA  G   RBR  1415      26
+
+7990       0523   ////      0524  LEA  C   RSP  030-04    III/1
+
+8000 +     0613   0630      0654  GO9  5   XRA  1-8A      C1.0    2.2E-03
+8000       0623   ////      0623  LEA  C   RSP  030-05    III/1
+
+8010 +     1053   1057      1101  GO9  5   XRA  1-8A      B5.0    2.1E-04
+
+8020       1204   1204      1218  RAM  3   FLA  S17W12    SF      ERU       8109
+
+8030 +     1852   1900      1911  GO9  5   XRA  1-8A      C1.1    9.5E-04
+
+8040       1921   1922      1922  PAL  G   RBR  245       72
+8040       1921   ////      1922  PAL  C   RSP  025-04    III/1
+
+8270       2143   ////      2143  CUL  C   RSP  60-90     III/1
+
+8050       2243   2250      2256  HOL  3   FLA  N20W30    SF                8108
+8050       2246   ////      2246  CUL  C   RSP  60-90     III/1             8108
+
+8280       2306   ////      2306  CUL  C   RSP  60-90     III/1
+
+8060 +     2313   2313      2313  PAL  G   RBR  245       100

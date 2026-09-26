@@ -1,0 +1,88 @@
+:Product: 20020905events.txt
+:Created: 2002 Sep 08 0300 UT
+:Date: 2002 09 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Sep 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1250       0000   ////      0000  CUL  C   RSP  57-160    CTM/1                 
+
+1190       0006   0015      0022  GO8  5   XRA  1-8A      C1.2    1.0E-03   0095
+1190       0012   0012      0016  HOL  3   FLA  N07E00    SF                0095
+1190       0014   ////      0015  HOL  C   RSP  025-085   III/1             0095
+
+1200       0026   0028      0029  PAL  G   RBR  410       110                   
+1200       0026   0028      0029  PAL  G   RBR  606       150                   
+
+1210       0030   ////      0031  HOL  C   RSP  032-086   III/1                 
+
+1260       0112   ////      0114  CUL  C   RSP  57-840    III/1                 
+
+1220 +     0113   0113      0114  LEA  G   RBR  606       82                    
+
+1230 +     0225   0229      0236  GO8  5   XRA  1-8A      C1.6    8.1E-04       
+
+1270      B0456  U0456     A0506  SVI  1   FLA  S13E02    SF      DSD       0096
+
+1280       0547   0551      0606  G10  5   XRA  1-8A      C2.0    2.2E-03       
+
+1290 +     0728   0729      0729  LEA  G   RBR  245       130                   
+1290 +     0728   ////      0729  LEA  C   RSP  025-180   III/1                 
+
+1300 +     0802   ////      0802  LEA  C   RSP  025-180   III/1                 
+
+1310 +     0806   0810      0814  GO8  5   XRA  1-8A      C1.6    6.8E-04       
+
+1320       1117   1117      1117  SAG  G   RBR  245       67                    
+
+1330 +     1130   1134      1139  GO8  5   XRA  1-8A      C1.2    5.9E-04       
+
+1340 +     1234   1239      1250  GO8  5   XRA  1-8A      C5.1    3.5E-03   0096
+1340 +     1237   1240      1305  RAM  3   FLA  S15E07    SF      ERU       0096
+
+1350 +     1252   1252      1252  SAG  G   RBR  245       230                   
+1350       1252   ////      1252  SVI  C   RSP  044-180   III/2                 
+
+1360       1254   1254      1254  SAG  G   RBR  245       110                   
+
+1370 +     1314   ////      1315  HOL  C   RSP  043-180   III/1                 
+
+1380 +     1349   ////      1349  HOL  C   RSP  043-180   III/1                 
+
+1390       1618   1706      1735  GO8  5   XRA  1-8A      C5.2    1.6E-02   0102
+1390 +     1630   1634      1636  SAG  G   RBR  606       150               0102
+1390 +     1630   1634      1635  SAG  G   RBR  1415      55                0102
+1390 +     1631   1634      1636  SAG  G   RBR  410       140               0102
+1390 +     1631   1645      1733  HOL  3   FLA  N09E28    SF      PRB       0102
+1390      B1631   ////     B1734  HOL  3   DSF  ////      06      B.0A      0102
+1390 +     1632   1632      1632  SAG  G   RBR  2695      39                0102
+1390       1635   ////      1649  SVI  C   RSP  032-180   II/2    679       0102
+
+1410       1747   1748      1753  RAM  3   FLA  N13E26    SF      ERU       0102
+
+1420 +     1821   1821      1822  SAG  G   RBR  245       85                    
+
+1430 +     1947   ////      1948  HOL  C   RSP  025-063   III/1                 
+
+1400 +     2040   2045      2051  GO8  5   XRA  1-8A      C8.6    4.0E-03   0096
+1400 +     2042   2042      2043  PAL  G   RBR  2695      44                0096
+1400 +     2042   2042      2043  PAL  G   RBR  4995      59                0096
+1400       2042   2043     A2117  HOL  3   FLA  S16E03    SF      ERU       0096
+
+1440       2110   ////      2110  SAG  C   RSP  030-060   III/1                 
+
+1450       2140   ////      2140  SAG  C   RSP  030-060   III/1                 
+
+1460       2144   ////      2144  HOL  C   RSP  025-118   III/1                 
+
+1500       2247   ////      0958  LEA  C   RSP  025-180   CTM/1                 
+
+1480       2325   2325      2325  PAL  G   RBR  245       130                   
+
+1490       2339   2340      2340  PAL  G   RBR  245       180                   

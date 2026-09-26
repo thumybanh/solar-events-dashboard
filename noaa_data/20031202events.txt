@@ -1,0 +1,47 @@
+:Product: 20031202events.txt
+:Created: 2003 Dec 03 2102 UT
+:Date: 2003 12 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Dec 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2870       0000   ////      0002  CUL  C   RSP  35-200    III/1                 
+
+2880 +     0339   0343      0347  G12  5   XRA  1-8A      C1.0    4.4E-04       
+
+2970       0452   ////      0452  CUL  C   RSP  18-180    III/2                 
+
+2980       0453   ////      0502  CUL  C   RSP  30-180    III/1                 
+
+2990       0536   ////      0536  CUL  C   RSP  40-180    III/2                 
+
+3000       0550   ////      0550  CUL  C   RSP  30-270    III/1                 
+
+2890 +     0717   0720      0723  G12  5   XRA  1-8A      C1.3    4.2E-04       
+
+2900 +     0752   ////      0755  LEA  C   RSP  025-095   III/1                 
+
+2910 +     0757   0807      0817  G12  5   XRA  1-8A      C3.9    3.7E-03   0508
+2910       0800   0800      0801  SVI  G   RBR  2695      29                    
+2910       0800   0800      0801  SVI  G   RBR  4995      54                    
+2910       0800   0800      0800  SVI  G   RBR  8800      25                    
+
+2920 +     0940   0948      0954  G12  5   XRA  1-8A      C7.2    5.1E-03   0508
+2920       0943   0943      0943  SVI  G   RBR  245       86                    
+
+2930       1247   1308      1322  G12  5   XRA  1-8A      M1.4    2.4E-02   0508
+
+2940 +     1917   1921      1929  G12  5   XRA  1-8A      C2.0    1.3E-03   0511
+2940       1921   1922      1929  HOL  3   FLA  S13W63    SF                0511
+
+2950 +     2101   2109      2115  G12  5   XRA  1-8A      C5.0    2.9E-03       
+
+3010       2200   ////      2357  LEA  C   RSP  086-180   CTM/1                 
+
+2960 +     2250   2300      2307  G12  5   XRA  1-8A      M1.5    9.2E-03   0508

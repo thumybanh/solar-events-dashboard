@@ -1,0 +1,56 @@
+:Product: 19980715events.txt
+:Created: 1998 Jul 18 0302 UT
+:Date: 1998 07 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4430       0727   0728      0738  SVI  3   FLA  S21E10    SF      ERU       8270
+
+4600      A0928   ////      2333  LEA  3   DSF  S46E07    26      B.0A          
+
+4610      A0928   ////      2333  LEA  3   DSF  S26E21    17      B.0A          
+
+4620      A0928   ////      2333  LEA  3   DSF  N42W02    08      B.0A          
+
+4450 +     1031   1046      1052  GO9  5   XRA  1-8A      C5.7    3.3E-03       
+4450 +     1040   1042      1053  SVI  3   FLA  S31E65    SF      ERU           
+
+4460 +     1103   1111      1122  GO9  5   XRA  1-8A      C2.8    2.6E-03   8270
+4460      B1106  U1106     A1112  SVI  2   FLA  S23E08    SF      ERU       8270
+
+4470       1207   ////      1208  SVI  C   RSP  036-08    III/2                 
+
+4480       1335   1337      1342  HOL  3   FLA  S27E26    SF                    
+
+4500 +     1430   ////      1431  SVI  C   RSP  036-07    III/2                 
+
+4510 +     1511   1517      1528  GO9  5   XRA  1-8A      C1.6    1.1E-03   8270
+4510 +     1515   1516      1534  HOL  3   FLA  S21E03    SF                8270
+4510       1520   ////      1522  SAG  C   RSP  030-07    III/1             8270
+
+4520 +     1537   1540      1543  GO9  5   XRA  1-8A      B8.1    2.6E-04       
+
+4540 +     1546   1613      1624  GO9  5   XRA  1-8A      C3.7    6.9E-03   8270
+4540 +     1551   1553      1630  RAM  3   FLA  S21E06    SF                8270
+
+4530       1602   1603      1607  HOL  3   FLA  S27E25    SF                    
+
+4550 +     1914   1918      1921  GO9  5   XRA  1-8A      B4.3    1.6E-04       
+
+4560 +     1946   1953      1957  GO9  5   XRA  1-8A      C6.8    2.1E-03       
+4560       1950   1951      1953  PAL  G   RBR  2695      42                    
+4560 +     1950   1951      1953  PAL  G   RBR  4995      16                8270
+4560 +     1950   1951      1953  PAL  G   RBR  8800      37                8270
+4560 +     1950   1951      1953  PAL  G   RBR  15400     35                8270
+4560       1951   2010      2052  HOL  3   FLA  S20E03    SF      ERU       8270
+
+4570 +     2138   2145      2155  GO9  5   XRA  1-8A      C1.0    8.3E-04       
+
+4580       2348   2348      2354  HOL  3   FLA  S20E00    SF                8270

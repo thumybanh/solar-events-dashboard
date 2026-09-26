@@ -1,0 +1,94 @@
+:Product: 19990622events.txt
+:Created: 1999 Jun 25 0303 UT
+:Date: 1999 06 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Jun 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2240       0146   ////      0152  CUL  C   RSP  18-430    III/2                 
+
+2250       0224   ////      0224  CUL  C   RSP  35-180    III/1                 
+
+2260       0230   ////      0231  CUL  C   RSP  20-180    III/2                 
+
+2270       0251   ////      0255  CUL  C   RSP  20-150    III/1                 
+
+2230 +     0253   0257      0300  GO8  5   XRA  1-8A      C1.4    4.9E-04   8599
+2230       0257   0257      0301  LEA  3   FLA  S20E83    SF                8599
+
+2280       0331   ////      0331  CUL  C   RSP  23-90     III/1                 
+
+2290       0401   ////      0401  CUL  C   RSP  23-70     III/1                 
+
+2300 +     0518   0518      0518  SVI  G   RBR  245       120                   
+
+2520       0519   ////      0519  CUL  C   RSP  23-70     III/1                 
+
+2310 +     0526   ////      0534  SVI  C   RSP  035-08    III/2                 
+
+2530       0630   ////      0630  CUL  C   RSP  28-180    III/2                 
+
+2320       0708   0713      0812  LEA  4   FLA  S19E79    SF                8599
+2320       0725   0731      0746  GO8  5   XRA  1-8A      C1.6    1.9E-03   8599
+2320 +     0744   0747      0747  SVI  G   RBR  245       90                8599
+
+2330       0747   0747      0747  LEA  U   RBR  245       91                    
+
+2340 +     0757   0757      0800  SVI  G   RBR  245       230                   
+
+2390       0915   0916      0919       F   RBR  204       60                    
+
+2350       0948   ////      0958  SVI  C   RSP  035-07    III/2                 
+
+2370       1048   ////      1049  SVI  C   RSP  037-06    III/2                 
+
+2360       1049   ////      1049  SAG  C   RSP  030-06    III/1                 
+
+2380       1100   ////      1110  SVI  C   RSP  038-08    III/1                 
+
+2400       1150   1215      1237  GO8  5   XRA  1-8A      C2.6    5.7E-03       
+
+2410 +     1342   ////      1343  SVI  C   RSP  036-08    III/2                 
+
+2420       1419   1419      1428  HOL  3   FLA  S18E74    SF      DSD       8599
+2420 +     1423   ////      1423  SVI  C   RSP  035-08    III/2             8599
+
+2430 +     1519   ////      1519  SVI  C   RSP  035-08    III/2                 
+
+2440       1538   1544      1550  HOL  3   FLA  S18E72    SF                8599
+
+2450       1611   1618      1624  HOL  3   FLA  S18E71    SF                8599
+
+2460 +     1718   1718      1719  SAG  G   RBR  245       150                   
+
+2480 +     1737   1829      1854  GO8  5   XRA  1-8A      M1.7    3.0E-02       
+
+2470       1745   ////      1749  SAG  C   RSP  030-07    V/1               8598
+2470       1746   1746      1806  HOL  3   FLA  N26E55    SF                8598
+
+2480       1818   1857      1858  HOL  3   FLA  N22E37    1N                8592
+2480 +     1819   ////      1824  SAG  C   RSP  030-08    III/2                 
+2480       1820   1826      1832  SAG  G   RBR  410       150                   
+2480       1820   1827      1836  SAG  G   RBR  1415      550                   
+2480       1820   1827      1836  SAG  G   RBR  2695      760                   
+2480       1821   1823      1835  SAG  G   RBR  245       150                   
+2480       1821   1825      1833  SAG  G   RBR  606       290                   
+2480       1821   1822      1836  SAG  G   RBR  4995      67                    
+2480       1822   1822      1836  SAG  G   RBR  8800      35                    
+2480       1823   1835      1836  SAG  G   RBR  15400     19                    
+2480       1824   ////      1828  SAG  C   RSP  030-08    II/2    1400          
+2480 +     1828   ////      1949  SAG  C   RSP  030-08    IV/1              8592
+
+2490       1856   1901      1917  HOL  3   FLA  S18E71    SF                8599
+
+2540       2244   ////      2249  CUL  C   RSP  20-180    III/2                 
+
+2500 +     2246   ////      2247  PAL  C   RSP  025-07    III/2                 
+
+2510       2323   2323      2323  SAG  G   RBR  245       90                    

@@ -1,0 +1,27 @@
+:Product: 20030830events.txt
+:Created: 2003 Sep 02 0302 UT
+:Date: 2003 08 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Aug 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6060       0432   0514      0616  G12  5   XRA  1-8A      C1.4    6.8E-03   0442
+6060       0435   ////      0915  LEA  C   RSP  025-180   CTM/1             0442
+6060       0447   0450      0517  LEA  3   FLA  S12W27    SF      ERU       0442
+
+6110       0705   ////      1706  SVI  C   RSP  025-180   CTM/1                 
+
+6070       0954   0954      0954  SVI  G   RBR  410       160                   
+
+6080       0955   0955      0955  SVI  G   RBR  245       26                    
+
+6090 +     1206   1213      1224  G12  5   XRA  1-8A      B6.9    6.5E-04   0444
+
+6120 +     1755   1802      1807  G12  5   XRA  1-8A      C1.2    7.9E-04   0444
+6120       1756   1801      1809  HOL  3   FLA  N09W30    SF      ERU       0444

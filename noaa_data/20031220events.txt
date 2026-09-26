@@ -1,0 +1,30 @@
+:Product: 20031220events.txt
+:Created: 2003 Dec 21 2102 UT
+:Date: 2003 12 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Dec 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4710 +     0007   0016      0020  G12  5   XRA  1-8A      C2.6    1.4E-03   0525
+4710       0010   0011      0020  LEA  3   FLA  N08E32    SF      ERU       0525
+
+4730 +     0154   0158      0201  G12  5   XRA  1-8A      C1.5    5.4E-04   0525
+4730       0156   0157      0205  LEA  2   FLA  N08E31    SF      ERU       0525
+
+4740 +     0204   0222      0243  G12  5   XRA  1-8A      C1.8    3.6E-03   0525
+
+4750       0538   ////      0538  LEA  C   RSP  025-099   III/1                 
+
+4760 +     1419   1431      1438  G12  5   XRA  1-8A      C1.8    1.6E-03   0525
+
+4780       1711   1711      1711  SAG  G   RBR  245       130                   
+
+4790       1716   ////      1716  SAG  C   RSP  030-080   III/2                 
+
+4800 +     1726   1732      1740  G12  5   XRA  1-8A      B9.9    6.8E-04       

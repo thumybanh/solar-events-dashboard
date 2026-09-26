@@ -1,0 +1,89 @@
+:Product: 20000401events.txt
+:Created: 2000 Apr 04 0302 UT
+:Date: 2000 04 01
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Apr 01
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7650 +     0002   0002      0003  PAL  G   RBR  245       110                   
+
+7460       0003   0014      0024  HOL  3   FLA  S16E45    SF                8936
+
+7410 +     0030   0101      0119  LEA  3   FLA  S17W34    SF                8925
+
+7470 +    B0109   0154      0204  COM  3   FLA  S19E75    SF                8945
+
+7420       0127   ////      0127  LEA  C   RSP  030-05    III/1                 
+
+7430       0158   0202      0209  LEA  3   FLA  S17E41    SF                8936
+
+7480 +     0204   0207      0214  COM  3   FLA  S19E75    SF                8945
+
+7440       0212   0213      0215  LEA  3   FLA  N24E58    SF                8939
+
+7490 +     0246   0256      0309  COM  3   FLA  S19E84    SF                8945
+7490 +     0303   ////      0305  LEA  C   RSP  030-08    III/3             8945
+
+7500       0312   0315      0348  LEA  3   FLA  S17W35    SF                8925
+7500 +     0344   0349      0354  GO8  5   XRA  1-8A      C8.2    2.8E-03   8925
+
+7540       0350   ////      0000  LEA  3   LPS  S18E90    0.04    B.6A          
+
+7510       0402   0406      0419  LEA  3   FLA  N24E57    SF                8939
+
+7550       0405   0406      0410  LEA  3   FLA  S17E40    SF                8936
+
+7520 +     0432   0439      0510  COM  3   FLA  S19E74    SF                8945
+
+7530       0518   0526      0530  G10  5   XRA  1-8A      C2.5    1.5E-03   8936
+
+7660       0524   0524      0551  LEA  3   FLA  N10W47    SF                8924
+
+7530       0525   0528      0552  LEA  3   FLA  S16E42    SF                8936
+
+7570 +     0640   ////      0642  LEA  C   RSP  030-08    III/3                 
+7570       0640   0640      0641  SVI  G   RBR  245       50                    
+
+7580       0659   0700      0721  LEA  3   FLA  S16E41    SF                8936
+
+7590       0726   0742      0804  LEA  3   FLA  N10W48    1N      ERU       8924
+7590 +     0733   0744      0753  GO8  5   XRA  1-8A      C8.1    6.3E-03   8924
+7590       0741   0741      0742  SVI  G   RBR  4995      58                8924
+7590       0741   0741      0742  SVI  G   RBR  8800      73                8924
+7590       0741   0741      0742  SVI  G   RBR  15400     39                8924
+
+7600       1034   ////      1036  SVI  C   RSP  035-05    III/1                 
+
+7610 +     1040   1052      1058  GO8  5   XRA  1-8A      C2.2    2.2E-03       
+
+7620 +     1137   1151      1204  GO8  5   XRA  1-8A      C6.1    8.1E-03   8939
+7620       1140   1141      1217  RAM  3   FLA  N23E47    SF      ERU       8939
+
+7630 +     1226   1232      1238  GO8  5   XRA  1-8A      C3.0    1.8E-03       
+
+7640 +     1246   1246      1247  SAG  G   RBR  245       75                    
+7640 +     1247   ////      1247  SAG  C   RSP  030-08    III/2                 
+
+7670       1424   ////      1424  SAG  C   RSP  030-06    III/1                 
+
+7690      B1716  U1717      1727  HOL  3   FLA  N24E50    SF                8939
+
+7700 +     1743   1759      1813  GO8  5   XRA  1-8A      C8.3    1.1E-02   8939
+7700       1746   1748      1825  RAM  3   FLA  N24E45    SF                8939
+
+7710       1901   1903      1909  HOL  3   FLA  N14W30    SF                8933
+
+7720 +     1938   1942      1955  GO8  5   XRA  1-8A      C2.6    2.5E-03       
+7720 +     1940   1942      1957  COM  3   FLA  N26E30    SF                    
+
+7730       1943   1952      1956  HOL  3   FLA  N10W54    SF                8924
+
+7740 +     2339   ////      2339  PAL  C   RSP  028-05    III/1                 
+
+7750 +     2350   2350      2351  PAL  G   RBR  245       260                   

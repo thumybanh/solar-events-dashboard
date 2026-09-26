@@ -1,0 +1,59 @@
+:Product: 20000207events.txt
+:Created: 2000 Feb 10 0302 UT
+:Date: 2000 02 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1740       0133   0136      0140  LEA  3   FLA  N25E37    SF                8858
+
+1750       0416   0420      0459  LEA  4   FLA  N25E35    SF      ERU       8858
+1750       0450   ////      0722  LEA  C   RSP  030-08    CTM/1             8858
+
+1760       0633   0635      0639  LEA  4   FLA  N27E36    SF                8858
+
+1770       0854   ////      0855  LEA  C   RSP  030-05    III/1                 
+
+1780       0942   0950      0957  LEA  3   FLA  N27W54    SF                8851
+
+1790       1528   1529      1529  SVI  G   RBR  245       66                    
+1790       1528   ////      1529  SVI  C   RSP  036-05    III/2                 
+
+1800       1534   1542      1551  HOL  3   FLA  N05W38    SF                8861
+
+1810       1552   1554      1556  HOL  3   FLA  N06W37    SF                8861
+
+1820 +     1631   1654      1709  GO8  5   XRA  1-8A      C4.4    7.5E-03   8861
+1820       1633   1637      1728  HOL  3   FLA  N06W38    SF      ERU       8861
+
+1830       1719   1729      1745  HOL  3   FLA  N20W58    SF      ERU       8851
+
+1840       1814   1818      1820  G10  5   XRA  1-8A      C1.2    4.0E-04   8861
+
+1850       1814   1831      1842  HOL  3   FLA  N07W39    SF      ERU       8861
+1850 +     1825   1831      1838  GO8  5   XRA  1-8A      C2.5    1.4E-03   8861
+
+1860 +     2002   2006      2009  GO8  5   XRA  1-8A      C1.3    5.2E-04       
+
+1870       2046   2046      2046  SAG  G   RBR  245       57                    
+
+1880 +     2309   2309      2319  LEA  3   FLA  N27W61    SF                8851
+
+1890       2314   2317      2320  LEA  3   FLA  N25E25    SF                8858
+
+1910       2315   2315      2317  LEA  3   FLA  N07W40    SF                8861
+
+1920       2315   2316      2318  LEA  3   FLA  S34E12    SF                8854
+
+1900 +     2320   2330      0008  LEA  3   FLA  N07W40    1F                8861
+1900 +     2323   2328      2337  GO8  5   XRA  1-8A      C4.3    2.5E-03   8861
+
+1950       2324   2327      2328  LEA  3   FLA  S15E22    SF                8856
+
+1940       2325   2326      2328  LEA  3   FLA  S34E12    SF                8854

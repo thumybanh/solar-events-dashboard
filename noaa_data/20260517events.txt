@@ -1,0 +1,49 @@
+:Product: 20260517events.txt
+:Created: 2026 May 20 0357 UT
+:Date: 2026 05 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 May 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3720       0000   ////      0045  PAL  C   RSP  025-180   CTM/2                 
+
+3730 +     0329   0339      0342  G18  5   XRA  1-8A      M1.4    5.2E-03   4435
+
+3740 +     0436   0444      0452  G18  5   XRA  1-8A      C1.0    9.3E-04       
+
+3750 +     0521   0532      0537  G18  5   XRA  1-8A      C2.0    1.6E-03       
+3750       0527   ////      0623  SVI  C   RSP  025-170   VI/1                  
+
+3760       0559   0559      0559  LEA  G   RBR  245       150                   
+
+3770       0702   ////      0748  SVI  C   RSP  025-083   VI/1                  
+3770 +     0745   0757      0809  G18  5   XRA  1-8A      B9.0    1.2E-03       
+
+3780       0810   0818      0821  G19  5   XRA  1-8A      B7.1    5.4E-04       
+
+3790 +     1123   1132      1140  G18  5   XRA  1-8A      C1.1    1.1E-03   4436
+3790       1131  U1137      1143  SVI  3   FLA  N22W28    SF      ERU       4436
+
+3800 +     1201   1207      1210  G18  5   XRA  1-8A      C1.0    5.5E-04   4439
+
+3810 +     1225   1238      1257  G18  5   XRA  1-8A      C1.1    1.9E-03   4438
+
+3820       1450   1455      1459  HOL  3   FLA  N22W28    SF                4436
+
+3830 +     1616   ////      1616  SVI  C   RSP  025-082   III/1                 
+
+3840 +     1807   1816      1822  G18  5   XRA  1-8A      B8.0    7.0E-04       
+
+3850 +     2042   2053      2105  G18  5   XRA  1-8A      C9.7    7.2E-03   4436
+3850       2049   2050      2205  HOL  3   FLA  N19W33    2N      ERU       4436
+3850       2050   2051      2051  PAL  G   RBR  4995      310               4436
+3850       2050   2050      2050  SAG  G   RBR  245       150               4436
+3850       2050   2051      2051  PAL  G   RBR  2695      370               4436
+3850 +     2051   ////      2051  SAG  C   RSP  025-180   III/3             4436
+3850       2051   2051      2051  PAL  G   RBR  8800      100               4436

@@ -1,0 +1,63 @@
+:Product: 20020504events.txt
+:Created: 2002 May 07 0300 UT
+:Date: 2002 05 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5420       0041   0041      0042  PAL  G   RBR  245       220                   
+5420       0041   0041      0042  PAL  G   RBR  410       120                   
+
+5430       0052   ////      0055  HOL  C   RSP  025-111   III/1                 
+
+5440 +     0245   0252      0302  GO8  5   XRA  1-8A      C7.8    5.0E-03   9934
+5440 +     0250   0250      0250  LEA  G   RBR  8800      70                9934
+5440       0250   0251      0308  LEA  3   FLA  S16E46    SN      ERU       9934
+
+5450 +     0339   0345      0357  GO8  5   XRA  1-8A      C2.5    2.5E-03   9934
+5450       0341   0342      0353  LEA  3   FLA  S17E44    SF      ERU       9934
+
+5460       0412   ////      0412  LEA  C   RSP  025-098   III/1                 
+
+5470 +     1019   1022      1029  GO8  5   XRA  1-8A      C1.3    7.3E-04       
+
+5480 +     1042   ////      1044  SVI  C   RSP  025-146   III/2                 
+
+5490 +     1110   1115      1122  GO8  5   XRA  1-8A      C1.9    1.3E-03   9928
+5490       1110   1110      1117  SVI  3   FLA  N16E20    SF      ERU       9928
+
+5500 +     1309   1325      1338  GO8  5   XRA  1-8A      C9.3    1.0E-02   9937
+
+5510       1322   1324      1330  HOL  3   FLA  N21W37    SF                9929
+
+5500 +     1322   1325      1345  SVI  3   FLA  S12E63    SF      ERU       9937
+
+5520       1520   1520      1520  SAG  G   RBR  245       130                   
+5520       1520   1520      1520  SAG  G   RBR  410       23                    
+
+5530       1521   1521      1521  SVI  G   RBR  245       110                   
+
+5690      A1618   ////     B1201  SVI  3   DSF  S15W01    09      B.0A          
+
+5540 +     1655   ////      1656  SVI  C   RSP  029-172   III/1                 
+
+5550 +     1853   1901      1909  GO8  5   XRA  1-8A      C2.0    1.5E-03   9937
+5550      B1859  U1900     A1908  HOL  3   FLA  S10E63    SF                9937
+
+5560       2015   2015      2015  SAG  G   RBR  245       89                    
+
+5570 +     2124   2129      2132  GO8  5   XRA  1-8A      C1.4    6.0E-04       
+
+5580       2124   ////      2125  PAL  C   RSP  025-065   III/1                 
+
+5590 +     2143   2148      2153  GO8  5   XRA  1-8A      C2.7    1.2E-03       
+
+5600 +     2154   2158      2202  GO8  5   XRA  1-8A      C3.6    1.4E-03       
+
+5610 +     2206   ////      2206  PAL  C   RSP  025-087   III/1                 

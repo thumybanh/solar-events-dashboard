@@ -1,0 +1,74 @@
+:Product: 20020922events.txt
+:Created: 2002 Sep 25 0300 UT
+:Date: 2002 09 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Sep 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6660 +    B0000   1547      2021  COM  G   RNS  245       320                   
+
+6710      A0016   ////     B1345  HOL  3   DSF  ////      33      B.0A      0000
+
+6530       0235   0240      0245  LEA  3   FLA  S14E04    SF      ERU       0127
+
+6540       0428   0428      0428  LEA  G   RBR  245       400                   
+6540       0428   ////      0429  LEA  C   RSP  025-180   III/2                 
+
+6550       0511   0512      0515  SVI  G   RBR  606       86                    
+6550       0512   0512      0513  SVI  G   RBR  245       370                   
+6550       0512   0512      0513  SVI  G   RBR  410       210                   
+6550       0512   0512      0513  SVI  G   RBR  1415      51                    
+
+6560 +     0547   0554      0601  GO8  5   XRA  1-8A      C2.4    1.5E-03   0119
+6560 +     0550   0552      0603  LEA  3   FLA  S16W43    SF      ERU       0119
+
+6570       0656   ////      0657  LEA  C   RSP  025-180   III/3                 
+6570       0656   ////      0657  LEA  C   RSP  025-180   V/3                   
+
+6580       0917   0926      0931  GO8  5   XRA  1-8A      C1.7    1.0E-03   0119
+
+6680 +     0921   0921      0936  COM  3   FLA  N18E07    SF                0132
+
+6580 +     0924   0927      0935  LEA  2   FLA  S16W45    SF      ERU       0119
+
+6590       0948   0949      0949  SVI  G   RBR  245       110                   
+
+6600 +     1026   1030      1034  GO8  5   XRA  1-8A      B8.9    3.6E-04       
+
+6610 +     1053   1056      1058  GO8  5   XRA  1-8A      B7.9    2.1E-04       
+
+6620 +     1116   1117      1117  SVI  G   RBR  245       480                   
+6620       1116   1117      1117  SVI  G   RBR  410       53                    
+6620       1117   ////      1117  SAG  C   RSP  030-055   III/1                 
+
+6630       1132   1132      1133  SAG  G   RBR  245       74                    
+
+6640       1203   1203      1203  SAG  G   RBR  245       67                    
+
+6690 +     1300   1301      1301  SVI  G   RBR  245       180                   
+
+6800       1320   ////      0043  HOL  C   RSP  054-180   CTM/1                 
+
+6720       1600   1600      1605  RAM  3   FLA  S16W45    SF                0119
+
+6730       1735   1735      1740  RAM  3   FLA  S07E23    SF      ERU       0125
+
+6740 +     1917   1921      1928  GO8  5   XRA  1-8A      C1.0    6.0E-04       
+
+6750       2049   ////      2050  SAG  C   RSP  030-080   III/1                 
+
+6760       2103   2103      2103  SAG  G   RBR  245       64                    
+
+6770       2109   2109      2109  SAG  G   RBR  245       60                    
+
+6780       2131   ////      2131  HOL  C   RSP  025-085   III/1                 
+
+7060       2230   ////      1003  LEA  C   RSP  100-180   CTM/1                 
+
+6790       2311   2311      2311  PAL  G   RBR  245       470                   

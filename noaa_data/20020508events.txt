@@ -1,0 +1,77 @@
+:Product: 20020508events.txt
+:Created: 2002 May 11 0300 UT
+:Date: 2002 05 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 May 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6330       0010   ////      0010  CUL  C   RSP  57-90     III/1                 
+
+6320       0230   0230      0230  LEA  G   RBR  245       82                    
+
+6340       0231   ////      0231  CUL  C   RSP  200-360   III/1                 
+
+6350       0426   0429      0431  GO8  5   XRA  1-8A      B6.8    2.0E-04   9937
+6350      B0437  U0437     A0455  LEA  2   FLA  S11E16    SF                9937
+
+6450 +     0600   0000      1200  IZM  F   RNS  204       15                    
+
+6360       0624   0628      0633  GO8  5   XRA  1-8A      C1.0    5.2E-04   9940
+6360       0627  U0628      0635  LEA  1   FLA  N16E25    SF      ERU       9940
+
+6370       0803   ////      0804  SVI  U   RSP  037-081   III/1                 
+6370 +     0804   0804      0804  SVI  G   RBR  245       140                   
+
+6380       0824   ////      0825  SVI  U   RSP  034-083   III/1                 
+
+6390 +     0855   0855      0855  SVI  G   RBR  245       160                   
+
+6400 +     0908   0908      0909  SVI  G   RBR  245       52                    
+6400       0908   0908      0908  SVI  G   RBR  410       61                    
+
+6410 +     0937   0947      1001  GO8  5   XRA  1-8A      C1.6    1.9E-03       
+
+6420       1023   1023      1023  SVI  U   RBR  245       160                   
+
+6450 +     1051   1441      1944  SAG  G   RNS  245       600                   
+
+6430       1056   1107      1112  RAM  3   FLA  S16W14    SF                9934
+
+6440       1131   1132      1143  RAM  3   FLA  S16W14    SF                9934
+6440       1134   1134      1134  SVI  G   RBR  245       59                9934
+
+6460       1149   1149      1208  RAM  3   FLA  S17W11    SF                9934
+
+6450 +     1243   1243      1641  SAG  G   RNS  606       210                   
+
+6470 +     1253   ////      1634  SVI  C   RSP  025-180   CTM/2             9934
+6470      B1258  U1320      1456  HOL  3   FLA  S12W07    SF      ERU       9934
+6470 +     1258   1327      1359  GO8  5   XRA  1-8A      C4.2    1.2E-02   9934
+6470       1300   1311      1404  SAG  G   RBR  245       1300              9934
+6470       1300   1305      1404  SAG  G   RBR  410       430               9934
+6470       1300   1322      1404  SAG  G   RBR  606       380               9934
+6470       1301   1309      1325  SAG  G   RBR  1415      210               9934
+
+6480 +     1439   1445      1453  GO8  5   XRA  1-8A      C2.8    2.0E-03       
+
+6560       1546   1552      1556  GO8  5   XRA  1-8A      C2.3    1.3E-03       
+
+6490 +     1551   ////      1551  SVI  U   RSP  025-124   III/2                 
+
+6500       1704   1708      1711  GO8  5   XRA  1-8A      C1.1    4.8E-04   9934
+6500       1705   1707      1712  HOL  3   FLA  S19W17    SF                9934
+
+6510 +     1845   1846      1900  HOL  3   FLA  S09E01    SF      ERU       9937
+
+6520       1944   1944      1944  SAG  G   RBR  410       52                    
+
+6530 +     2030   2035      2042  GO8  5   XRA  1-8A      C1.9    1.1E-03       
+
+6540       2229   ////      2232  CUL  C   RSP  57-280    III/1                 
+6540       2230   2230      2231  SAG  G   RBR  245       130                   

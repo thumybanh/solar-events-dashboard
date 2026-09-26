@@ -1,0 +1,20 @@
+:Product: 20051224events.txt
+:Created: 2005 Dec 27 0329 UT
+:Date: 2005 12 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8460       0541   ////      0542  LEA  C   RSP  036-058   III/1                 
+
+8470 +     1050   1108      1127  G12  5   XRA  1-8A      B3.3    6.3E-04       
+8470       1054   1115      1126  G12  5   XFL  N12E85    8.6E+03 3.0E+04       
+
+8480 +     2052   2154      2208  G12  5   XRA  1-8A      B6.0    2.0E-03   0841
+8480       2055   2202      2207  G12  5   XFL  N12E85    1.2E+04 5.9E+04   0841

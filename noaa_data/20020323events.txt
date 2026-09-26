@@ -1,0 +1,58 @@
+:Product: 20020323events.txt
+:Created: 2002 Mar 26 0300 UT
+:Date: 2002 03 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Mar 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4140       0146   0149      0156  GO8  5   XRA  1-8A      C1.1    6.5E-04   9876
+4140       0147   0148      0155  LEA  3   FLA  S14E45    SF      ERU       9876
+
+4150       0313   0330      0428  GO8  5   XRA  1-8A      C2.1    7.2E-03   9878
+4150       0322   0330      0342  LEA  3   FLA  N08E55    SF      ERU       9878
+
+4160       0407   0408      0417  LEA  3   FLA  S13E43    SF      ERU       9876
+
+4170       0418   0426      0434  LEA  3   FLA  S18E30    SF      ERU       9876
+
+4180       0436   0442      0455  LEA  2   FLA  S16E45    SF      ERU       9876
+4180       0438   0444      0451  G10  5   XRA  1-8A      C3.2    2.2E-03   9876
+
+4190       0543   0546      0553  G10  5   XRA  1-8A      C1.0    5.7E-04       
+
+4270       0711   0723      0733  GO8  5   XRA  1-8A      C1.1    1.3E-03       
+
+4280       0800   0813      0826  GO8  5   XRA  1-8A      C1.1    1.6E-03       
+
+4200 +     0950   0957      1009  GO8  5   XRA  1-8A      C1.6    1.5E-03       
+4200 +     0953   0953      0953  SVI  G   RBR  245       99                    
+
+4210 +     1009   1012      1016  GO8  5   XRA  1-8A      C1.7    6.4E-04       
+
+4220       1202   1202      1202  SVI  G   RBR  245       100                   
+
+4290       1304   1313      1322  GO8  5   XRA  1-8A      C1.2    1.2E-03       
+
+4230       1421   1421      1421  SAG  G   RBR  410       62                    
+
+4240 +     1425   1436      1441  GO8  5   XRA  1-8A      C3.5    2.3E-03   9876
+4240 +     1430   1437      1449  RAM  3   FLA  S15E35    SF      ERU       9876
+
+4300       1538   1543      1545  GO8  5   XRA  1-8A      C1.5    5.1E-04       
+
+4250       1549   1551      1555  HOL  3   FLA  S13E36    SF      ERU       9876
+
+4260 +     1905   1918      1934  GO8  5   XRA  1-8A      C2.6    3.5E-03   9876
+4260       1916   1916      1931  HOL  3   FLA  S15E34    SF      ERU       9876
+
+4310       2112   2112      2112  PAL  G   RBR  410       62                    
+
+4320       2225   ////      2230  HOL  C   RSP  025-088   III/1                 
+
+4330       2244   ////      0000  LEA  U   RSP  054-180   CTM/1                 

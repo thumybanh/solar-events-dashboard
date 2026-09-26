@@ -1,0 +1,25 @@
+:Product: 20050208events.txt
+:Created: 2005 Feb 11 0302 UT
+:Date: 2005 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6040 +     0430   0439      0456  G12  5   XRA  1-8A      B3.8    5.1E-04   0732
+6040       0433   0435      0454  G12  5   XFL  N18E52    3.5E+02 6.9E+02   0732
+
+6050 +     1519   1527      1533  G12  5   XRA  1-8A      C1.9    1.0E-03   0733
+6050       1523   1529      1532  G12  5   XFL  S06E70    2.0E+03 6.9E+03   0733
+
+6060       1718   1718      1718  SAG  G   RBR  245       66                    
+
+6080       2057   ////      2057  CUL  C   RSP  20-90     III/1                 
+
+6070 +     2134   2144      2153  G12  5   XRA  1-8A      C1.2    9.8E-04   0732
+6070       2137   2149      2152  G12  5   XFL  N18E45    2.6E+03 6.9E+03   0732

@@ -1,0 +1,96 @@
+:Product: 19980903events.txt
+:Created: 1998 Sep 06 0303 UT
+:Date: 1998 09 03
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Sep 03
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6890 +     0027   0034      0040  GO8  5   XRA  1-8A      C1.8    1.2E-03       
+
+6900       0107   ////      0107  PAL  C   RSP  025-07    III/1                 
+
+6910 +     0111   0117      0124  GO8  5   XRA  1-8A      C3.5    2.0E-03       
+
+6920 +     0228   0233      0236  GO8  5   XRA  1-8A      C3.7    1.4E-03       
+
+6930 +     0345   0421      0440  GO8  5   XRA  1-8A      M1.3    2.8E-02       
+6930       0437   ////      1414  SVI  C   RSP  035-08    CTM/2                 
+
+6950       0542   0545      0549  G10  5   XRA  1-8A      C3.4    1.3E-03       
+
+6960       0558   0558      0559  SVI  U   RBR  245       470                   
+
+6970       0718   0718      0720  SVI  G   RBR  410       58                    
+
+6990       1035   1036      1036  SVI  U   RBR  245       740                   
+
+7000       1048   1049      1049  SVI  U   RBR  245       320                   
+
+6940 +     1109   1732      2242  SAG  G   RNS  245       340                   
+
+7150       1150   ////      2253  SAG  C   RSP  030-08    CTM/1                 
+
+7010      B1158  U1200     A1206  SVI  3   FLA  N16W90    SF                8319
+
+7020       1304   1304      1402  SVI  3   FLA  S20E08    SF                8323
+7020       1315   ////      1315  SVI  C   RSP  035-08    III/3             8323
+7020       1340   1341      1349  HOL  3   FLA  S21E10    SF      DSD       8323
+
+7050 +     1410   1430      1515  GO8  5   XRA  1-8A      C3.9    1.2E-02   8323
+
+7030       1414   1414      1418  SAG  G   RBR  1415      89                    
+7030       1414   1414      1418  SAG  G   RBR  4995      190                   
+7030       1414   1414      1418  SAG  G   RBR  8800      140                   
+7030       1414   1414      1418  SAG  G   RBR  15400     130                   
+7030       1414   1415      1418  SAG  G   RBR  245       940                   
+7030       1414   1414      1418  SAG  G   RBR  410       180                   
+7030       1414   ////      1417  SAG  C   RSP  030-08    III/3                 
+7030       1415   1415      1418  SAG  G   RBR  606       31                    
+7030 +     1417   ////      1437  SAG  C   RSP  030-08    II/3    1000          
+
+7040       1420   1422      1427  SVI  3   FLA  N21W90    SF                8315
+
+7050       1439   1440      1444  SVI  3   FLA  S21E08    SF                8323
+7050       1445   1451      1457  SVI  3   FLA  S21E14    SF                8323
+
+7060       1516   1517      1534  SVI  3   FLA  S20E06    SF      ERU       8323
+7060       1526   1608      1641  GO8  5   XRA  1-8A      M1.1    3.7E-02   8323
+
+7070       1538   1606      1747  HOL  3   FLA  S21E09    SF      DSD       8323
+7070       1541   1551      1646  HOL  3   FLA  N22E87    SF                8326
+
+7080       1713   1714      1715  SAG  G   RBR  245       430                   
+
+7110       1748   ////      1838  HOL  3   LPS  N20E90    0.07    B.4A      8326
+
+7090       1749   ////      1750  SAG  C   RSP  030-08    V/2                   
+7090       1749   ////      1750  PAL  C   RSP  027-05    III/2                 
+
+7100       1807   1807      1812  HOL  3   FLA  S20E06    SF                8323
+
+7110       1831   1831      1835  HOL  3   FLA  S21E05    SF                8323
+7110       1834   ////      1834  PAL  C   RSP  025-07    III/2             8323
+7110       1834   ////      1834  SAG  C   RSP  030-08    V/2               8323
+
+7120       1851   ////      1855  PAL  C   RSP  025-05    III/1                 
+
+7210       2015   ////      0430  PAL  C   RSP  025-05    CTM/1                 
+
+7130 +     2050   ////      2051  CUL  C   RSP  21-80     III/2                 
+
+7140       2100   ////      2101  SAG  C   RSP  030-08    V/2                   
+7140       2100   ////      2101  CUL  C   RSP  20-140    III/3                 
+
+7160 +     2238   ////      2239  CUL  C   RSP  18-140    III/2                 
+
+7170       2250   ////      2250  CUL  C   RSP  55-160    III/1                 
+
+7180 +     2303   2307      2310  GO8  5   XRA  1-8A      C1.3    5.0E-04       
+
+7190 +     2327   ////      2337  PAL  C   RSP  025-05    III/1                 

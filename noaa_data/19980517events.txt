@@ -1,0 +1,57 @@
+:Product: 19980517events.txt
+:Created: 1998 May 20 0302 UT
+:Date: 1998 05 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 May 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3730 +     0035   ////      0039  CUL  C   RSP  20-180    III/2                 
+
+3930       0054   ////      0055  CUL  C   RSP  30-120    III/1                 
+
+3940       0133   ////      0133  CUL  C   RSP  30-180    III/1                 
+
+3780       0203   ////      0809  LEA  C   RSP  030-04    CTM/1                 
+
+3740       0212   ////      0212  LEA  C   RSP  030-04    III/2                 
+
+3750 +     0240   0243      0246  GO9  5   XRA  1-8A      B6.4    2.0E-04       
+
+3760 +     0400   ////      0400  LEA  C   RSP  030-04    III/2                 
+
+3770 +     0438   0442      0444  GO9  5   XRA  1-8A      B5.7    1.7E-04       
+3770       0439   ////      0448  LEA  C   RSP  030-08    V/2                   
+3770 +     0439   ////      0450  CUL  C   RSP  18-250    III/3                 
+3770 +     0440   0440      0441  LEA  G   RBR  245       110                   
+
+3790       0449   ////      0449  CUL  C   RSP  18-90     III/1                 
+
+3950       0518   ////      0518  CUL  C   RSP  35-180    III/1                 
+
+3960       0549   ////      0551  CUL  C   RSP  30-160    III/1                 
+
+3970       0649   ////      0649  CUL  C   RSP  25-180    III/1                 
+
+3860       0859   0920      0941  GO9  5   XRA  1-8A      B9.5    1.9E-03       
+
+3800       1000   ////      1000  SVI  C   RSP  035-07    III/2                 
+
+3810       1006   1006      1007  SVI  G   RBR  245       76                    
+3810       1006   ////      1008  SVI  C   RSP  035-08    V/2                   
+
+3820       1043   ////      1043  SVI  C   RSP  035-06    III/2                 
+
+3830       1110   ////      1110  SAG  C   RSP  030-06    III/1                 
+
+3840       1130   ////      1131  SAG  C   RSP  030-08    III/1                 
+
+3850       1211   ////      1216  SVI  C   RSP  035-08    III/3                 
+3850       1211   ////      1216  SAG  C   RSP  030-08    V/2                   
+
+3980       2148   ////      2148  CUL  C   RSP  20-180    III/1                 

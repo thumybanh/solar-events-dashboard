@@ -1,0 +1,49 @@
+:Product: 20001025events.txt
+:Created: 2000 Oct 28 0302 UT
+:Date: 2000 10 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Oct 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8330       0300   0308      0319  GO8  5   XRA  1-8A      C1.2    1.3E-03       
+
+8340 +     0420   0426      0434  GO8  5   XRA  1-8A      C2.6    1.6E-03       
+
+8350 +     0546   0556      0609  GO8  5   XRA  1-8A      C2.1    2.4E-03       
+8350 +     0608   ////      0613  CUL  C   RSP  25-130    III/2                 
+
+8440       0645   ////      0647  CUL  C   RSP  60-100    III/1                 
+
+8370       0845   1125      1521  GO8  5   XRA  1-8A      C4.0    6.5E-02       
+8370       0931   ////      1532  SVI  U   RSP  025-138   CTM/1                 
+
+8360 +     1355   1359      1406  HOL  3   FLA  S20E46    SF                9207
+
+8380 +     1935   ////      1937  HOL  C   RSP  025-180   III/1                 
+
+8390       1947   1950      1955  HOL  3   FLA  S24E72    SF                9209
+
+8450       2007   ////      2007  CUL  C   RSP  20-90     III/1                 
+
+8400 +     2039   2044      2055  GO8  5   XRA  1-8A      C2.3    1.9E-03       
+8400       2040   2041      2045  SAG  U   RBR  410       81                    
+8400       2040   2041      2041  SAG  U   RBR  606       66                    
+
+8410       2105   2111      2113  HOL  3   FLA  S22E73    SF                9209
+
+8460       2156   ////      2159  CUL  C   RSP  25-80     III/1                 
+
+8420       2157   ////      2157  HOL  C   RSP  025-087   III/1                 
+
+8430       2253   2255      2302  HOL  3   FLA  S20E72    SF                9209
+8430 +     2255   2301      2306  GO8  5   XRA  1-8A      C1.8    1.0E-03   9209
+
+8500       2315   2315      2316  LEA  G   RBR  245       130                   
+
+8470       2331   ////      2331  CUL  C   RSP  25-75     III/1                 

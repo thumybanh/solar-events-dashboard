@@ -1,0 +1,56 @@
+:Product: 20000730events.txt
+:Created: 2000 Aug 02 0302 UT
+:Date: 2000 07 30
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jul 30
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8550       0023   0023      0029  LEA  3   FLA  N11W10    SF                9103
+
+8570       0214   ////      0216  LEA  C   RSP  025-136   III/1                 
+
+8560       0215   0216      0216  PAL  G   RBR  245       110                   
+8560       0215   0216      0216  PAL  G   RBR  410       85                    
+8560 +     0215   ////      0217  CUL  C   RSP  30-170    III/1                 
+
+8710       0445   ////      0445  CUL  C   RSP  25-120    III/1                 
+
+8580 +     0549   ////      0549  CUL  C   RSP  30-170    III/2                 
+
+8720       0556   ////      0556  CUL  C   RSP  28-180    III/2                 
+
+8730       0609   ////      0610  CUL  C   RSP  28-90     III/1                 
+
+8590 +     0708   ////      0708  CUL  C   RSP  28-180    III/3                 
+
+8600       0755   ////      0756  SVI  C   RSP  035-057   III/1                 
+
+8610 +     0930   0934      0942  GO8  5   XRA  1-8A      B8.3    5.4E-04       
+
+8620 +     1111   1115      1119  GO8  5   XRA  1-8A      C1.5    5.3E-04       
+
+8630 +     1159   1210      1222  GO8  5   XRA  1-8A      C7.8    7.6E-03       
+8630       1200   ////      1206  SVI  C   RSP  035-085   V/2                   
+
+8640 +     1304   1318      1333  GO8  5   XRA  1-8A      C4.2    5.4E-03   9105
+8640       1313   1314      1316  SVI  3   FLA  N15E53    SF      ERU       9105
+
+8650 +     1610   1611      1613  HOL  3   FLA  N10W19    SF                9103
+
+8660 +     1640   1641      1643  RAM  3   FLA  N11W19    SF                9103
+
+8670       1645   1650      1658  RAM  3   FLA  N11W19    SF                9103
+
+8680       1702   1703      1703  SVI  G   RBR  245       74                    
+
+8790      A1711   ////      1151  RAM  3   DSF  S26W11    09      B.0A      9102
+
+8690 +     1722   1725      1729  GO8  5   XRA  1-8A      B9.5    3.5E-04       
+
+8700       1733   1734      1734  SAG  G   RBR  245       58                    

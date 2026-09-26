@@ -1,0 +1,23 @@
+:Product: 20041121events.txt
+:Created: 2004 Nov 24 0302 UT
+:Date: 2004 11 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Nov 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6390 +     1022   1026      1031  G12  5   XRA  1-8A      B2.5    1.2E-04   0701
+6390       1025   1030      1030  G12  5   XFL  S16W53    7.5E+01 1.3E+02   0701
+
+6410       1624   1656      1739  G12  5   XRA  1-8A      B5.4    1.8E-03       
+
+6400 +     2016   2022      2031  G12  5   XRA  1-8A      B3.3    2.5E-04       
+6400       2019   2024      2030  G12  5   XFL  S16E49    4.0E+02 8.9E+02       
+
+6420 +     2147   2204      2209  G12  5   XRA  1-8A      B6.1    5.4E-04   0704
+6420       2151   2206      2208  G12  5   XFL  N10E41    9.0E+02 2.2E+03   0704

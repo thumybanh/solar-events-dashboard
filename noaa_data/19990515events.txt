@@ -1,0 +1,76 @@
+:Product: 19990515events.txt
+:Created: 1999 May 18 0303 UT
+:Date: 1999 05 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 May 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+960        0031   0031      0043  HOL  3   FLA  S19E63    SF                8544
+
+970        0056   0058      0102  HOL  3   FLA  S19E61    SF                8544
+
+980        0108   0112      0121  HOL  3   FLA  S19E61    SF                8544
+
+990        0419   0421      0426  SVI  G   RBR  245       83                    
+
+1000       0549   ////      0550  SVI  C   RSP  035-08    III/2                 
+
+1250       0600   0000      1200       F   RNS  204       10                    
+
+1010       0613   0614      0614  SVI  G   RBR  245       56                    
+
+1020       0626   0627      0627  SVI  G   RBR  245       96                    
+
+1080       0747   0756      0832  SVI  3   FLA  S19E59    SF                8544
+
+1030       0759   0807      0843  SVI  3   FLA  N21W09    SF                8541
+
+1040 +     0837   0837      0842  LEA  3   FLA  N21W11    SF                8541
+
+1100       0843   0843      0857  SVI  3   FLA  N21W09    SF                8541
+
+1050 +     0904   0905      0908  LEA  3   FLA  S19E56    SF                8544
+1050 +     0916   0921      0926  GO8  5   XRA  1-8A      B6.8    3.5E-04   8544
+
+1090       1108   1109      1109  SAG  G   RBR  245       64                    
+
+1110       1120   1121      1128  SVI  3   FLA  S19E56    SF                8544
+
+1120       1131   1134      1140  SVI  3   FLA  S20E56    SF                8544
+
+1130 +     1207   1210      1214  SVI  G   RBR  606       220                   
+1130 +     1209   1209      1213  SVI  G   RBR  410       55                    
+1130       1211   1211      1212  SAG  G   RBR  245       43                    
+
+1140 +     1218   1221      1222  SAG  G   RBR  245       27                    
+1140       1218   1218      1223  SAG  G   RBR  410       52                    
+
+1150       1225   1227      1230  SAG  G   RBR  410       50                    
+
+1160 +     1243   1244      1244  SVI  G   RBR  245       100                   
+
+1170 +     1500   ////      1502  SVI  C   RSP  035-06    III/2                 
+
+1180       1525   1525      1526  SAG  U   RBR  606       110                   
+
+1190       1635   1639      1643  RAM  3   FLA  S25W61    SF                8536
+
+1200       1645   1646      1648  SVI  3   FLA  S22E53    SF                8544
+
+1210 +     1738   1741      1745  GO8  5   XRA  1-8A      B6.1    2.3E-04   8536
+1210       1740   1743      1745  RAM  3   FLA  S25W61    SF                8536
+
+1220 +     1958   1959      1959  PAL  G   RBR  245       220                   
+
+1230       2029   ////      2031  PAL  C   RSP  025-06    III/3                 
+1230       2029   ////      2031  SAG  C   RSP  030-08    V/1                   
+
+1250       2042   2046      2052  SAG  G   RNS  245       57                    
+
+1240 +     2056   ////      2255  PAL  C   RSP  025-07    CTM/1                 

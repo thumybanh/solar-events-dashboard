@@ -1,0 +1,50 @@
+:Product: 19980625events.txt
+:Created: 1998 Jun 28 0302 UT
+:Date: 1998 06 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jun 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+900  +     0137   0140      0143  GO9  5   XRA  1-8A      B4.6    1.4E-04       
+
+1040       0231   0237      0240  GO9  5   XRA  1-8A      B5.8    2.5E-04       
+
+910  +     0318   0340      0354  GO9  5   XRA  1-8A      C1.6    2.3E-03       
+
+1050       0519   0522      0526  GO9  5   XRA  1-8A      B4.0    1.6E-04       
+
+920  +     0558   ////      0559  LEA  C   RSP  030-04    III/2                 
+
+930        0625   0630      0633  GO8  5   XRA  1-8A      B5.2    2.3E-04       
+
+940  +     0810   0817      0827  GO9  5   XRA  1-8A      C1.1    9.6E-04       
+
+950        0927   0927      0927  SVI  U   RBR  245       330                   
+
+960  +     1201   ////      1201  SVI  C   RSP  036-05    III/2                 
+
+970  +     1427   ////      1429  SVI  C   RSP  035-08    III/2                 
+
+980  +     1432   1435      1438  GO9  5   XRA  1-8A      B9.5    3.0E-04       
+
+1060       1517   1522      1533  GO9  5   XRA  1-8A      B7.2    6.3E-04       
+
+990        1834   1839      1855  HOL  3   FLA  N18E42    SF                8253
+990        1836   1839      1849  GO8  5   XRA  1-8A      C1.0    6.9E-04   8253
+
+1000 +     1953   1956      2000  GO9  5   XRA  1-8A      B6.8    2.5E-04       
+
+1020 +     2010   2107      2119  GO9  5   XRA  1-8A      C6.5    1.2E-02   8253
+1020       2038   2047      2221  HOL  3   FLA  N16E41    SF      ERU       8253
+
+1010       2046   2047      2050  SAG  U   RBR  4995      49                    
+1010       2047   2047      2048  SAG  U   RBR  8800      57                    
+1010       2047   2047      2048  SAG  U   RBR  15400     48                    
+
+1030 +     2145   2151      2209  GO9  5   XRA  1-8A      C2.0    2.6E-03       

@@ -1,0 +1,24 @@
+:Product: 19990328events.txt
+:Created: 1999 Mar 31 0302 UT
+:Date: 1999 03 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Mar 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3280       0020   0026      0037  GO8  5   XRA  1-8A      B2.3    2.0E-04       
+
+3290 +     0142   0145      0147  GO8  5   XRA  1-8A      B1.7    4.3E-05       
+
+3300       0258   ////      0300  PAL  C   RSP  025-07    III/2                 
+
+3310       1654   ////      1655  PAL  C   RSP  025-07    III/1                 
+
+3320 +     1833   1837      1843  GO8  5   XRA  1-8A      B2.3    1.1E-04       
+
+3330       2123   2148      2236  GO8  5   XRA  1-8A      B2.0    7.7E-04       

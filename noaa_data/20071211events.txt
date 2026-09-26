@@ -1,0 +1,48 @@
+:Product: 20071211events.txt
+:Created: 2007 Dec 15 2359 UT
+:Date: 2007 12 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center.
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2007 Dec 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7220       0050   0053      0057  G10  5   XRA  1-8A      B1.0    3.9E-05       
+
+7230       0248   0251      0256  LEA  3   FLA  S10E06    SF                0978
+
+7240       0324   ////      0324  LEA  C   RSP  025-053   III/1                 
+
+7250       0416   ////      0417  LEA  C   RSP  025-045   III/1                 
+
+7380       0541   ////      0541  CUL  C   RSP  20-60     III/1                 
+
+7260       0749   0750      0753  LEA  3   FLA  S08E09    SF                0978
+
+7270       0832   ////      0834  SVI  C   RSP  025-040   III/1                 
+
+7280       0910   0912      0915  LEA  3   FLA  S06E08    SF      BPT       0978
+
+7290       0927   0928      0934  LEA  4   FLA  S06E09    1F      ERU       0978
+
+7300       0941   0950      1005  LEA  3   FLA  S07E08    SF      ERU       0978
+
+7310       1052   1055      1101  G10  5   XRA  1-8A      B1.2    6.0E-05       
+
+7320 +     1320   1326      1331  G11  5   XRA  1-8A      B3.3    1.5E-04       
+
+7330 +     1949   1956      2000  G11  5   XRA  1-8A      B4.0    2.3E-04       
+
+7340 +     2056   2110      2115  G11  5   XRA  1-8A      B1.7    1.6E-04       
+
+7350 +     2152   2156      2208  G11  5   XRA  1-8A      B1.3    1.1E-04       
+
+7360 +     2329   2336      2341  G11  5   XRA  1-8A      B2.7    1.6E-04   0978
+7360       2335   2337      2340  LEA  3   FLA  S10E01    2F      BPT       0978
+
+7370 +     2343   2347      2350  G11  5   XRA  1-8A      B2.7    1.0E-04   0978
+7370       2345   2349      0003  LEA  3   FLA  S07E01    SF                0978

@@ -1,0 +1,112 @@
+:Product: 20000724events.txt
+:Created: 2000 Jul 27 0303 UT
+:Date: 2000 07 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jul 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6580       0045   0048      0054  LEA  3   FLA  S12W57    SF                9087
+
+6590 +     0147   0151      0202  GO8  5   XRA  1-8A      C3.6    2.8E-03   9097
+6590       0148   0159      0210  LEA  3   FLA  N06E04    1F      ERU       9097
+6590       0150   0150      0151  PAL  G   RBR  1415      52                9097
+6590       0150   0150      0151  PAL  G   RBR  4995      100               9097
+6590       0150   ////      0151  LEA  C   RSP  025-180   III/2             9097
+6590 +     0155   0159      0159  LEA  G   RBR  245       84                9097
+6590 +     0155   0158      0158  LEA  G   RBR  410       50                9097
+6590 +     0156   0156      0157  PAL  G   RBR  606       70                9097
+
+6600       0202   0208      0218  LEA  3   FLA  N23W72    SF                9095
+
+6610 +     0245   ////      0245  LEA  C   RSP  025-180   III/1                 
+
+6630       0402   0402      0441  LEA  3   FLA  N15W26    SF                9090
+
+6620       0430   0431      0431  LEA  G   RBR  410       88                    
+
+6640       0511   ////      0512  LEA  C   RSP  025-140   III/1                 
+
+6650       0531   0534      0541  LEA  4   FLA  N11W27    SF                9090
+
+6660       0545   0548      0550  G10  5   XRA  1-8A      C2.2    5.9E-04       
+
+6670       0614   0619      0639  LEA  4   FLA  N13W28    SF      ERU       9090
+
+6680 +     0815   0819      0826  GO8  5   XRA  1-8A      C2.2    1.3E-03   9090
+6680       0816   0823      0842  LEA  4   FLA  N12W30    SF      ERU       9090
+
+6690       0849   0850      0854  LEA  4   FLA  N22W76    SF                9095
+
+6700 +     0903   0903      0903  SVI  G   RBR  245       96                    
+6700 +     0903   ////      0903  LEA  C   RSP  075-180   III/1                 
+
+6710 +     0912   0912      0912  SVI  G   RBR  410       81                    
+
+6720       0915   ////      0915  LEA  C   RSP  082-109   III/1                 
+6720 +     0915   0915      0915  SVI  G   RBR  245       95                    
+
+6890       1141   1225      1317  GO8  5   XRA  1-8A      C4.4    1.8E-02       
+
+6730       1311   1311      1327  RAM  3   FLA  N13W34    SF                9090
+
+6910       1312   1313      1325  RAM  3   FLA  S22W18    SF                9094
+
+6740 +     1402   1403      1407  HOL  3   FLA  S14W61    SF                9087
+
+6750 +     1444   1445      1448  HOL  3   FLA  N14W31    SF      DSD       9090
+
+6760 +     1537   1544      1548  HOL  3   FLA  N12W35    SF      DSD       9090
+6760 +     1542   ////      1543  SAG  C   RSP  030-055   III/1             9090
+
+6770 +     1555   1600      1621  GO8  5   XRA  1-8A      C2.8    3.8E-03   9100
+6770 +     1558   1601      1618  HOL  3   FLA  S31E45    SF                9100
+
+7010       1631   1632      1648  RAM  3   FLA  N12W36    SF                9090
+
+6780 +     1635   ////      1714  COM  3   EPL  S29W90    0.19    B.5A          
+
+6800 +     1703   ////      1703  HOL  C   RSP  025-097   III/1                 
+
+6790       1712   1712      1721  HOL  3   FLA  S14E41    SF                9101
+
+6810 +     1734   ////      1734  SAG  C   RSP  030-075   III/1                 
+
+6820       1736   1740      1744  RAM  3   FLA  N23W81    SF                9088
+
+6920       1805   1805      1811  RAM  3   FLA  N24W81    SF                9088
+
+6830 +     1810   1815      1831  RAM  3   FLA  N07W04    SF      ERU       9097
+
+6840       1812   1816      1822  RAM  3   FLA  N24W82    SF                9088
+
+6850       1838   1846      1850  RAM  3   FLA  N24W81    SF                9088
+
+6930       1839   1844      1854  RAM  3   FLA  N08W05    SF      ERU       9097
+
+6940       1846   1846      1902  RAM  3   FLA  N13W32    SF                9090
+
+6950       1924   1937      1957  RAM  3   FLA  N07W05    SF                9097
+
+6860 +     1957   2002      2005  GO8  5   XRA  1-8A      C3.8    1.4E-03   9090
+6860 +     1959   2001      2006  HOL  3   FLA  N13W39    SF                9090
+
+6960       2000   2000      2008  RAM  3   FLA  S13W62    SF                9087
+
+6870       2019   2021      2027  RAM  3   FLA  S14W63    SF                9087
+
+6970       2022   2023      2026  RAM  3   FLA  N13W37    SF                9090
+
+6900       2109   2109      2114  RAM  3   FLA  N05W05    SF                9097
+
+6980       2110   2110      2115  RAM  3   FLA  N13W37    SF                9090
+
+6990 +     2228   2234      2237  GO8  5   XRA  1-8A      C5.2    1.8E-03   9087
+6990       2231   2246      2256  HOL  3   FLA  S17W63    SF                9087
+
+7020       2244   2249      2306  HOL  3   FLA  N08W08    SF                9097

@@ -1,0 +1,44 @@
+:Product: 20040121events.txt
+:Created: 2004 Jan 24 0300 UT
+:Date: 2004 01 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Jan 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 280       0007   ////      0008  CUL  C   RSP  23-180    III/1                 
+
+ 270 +     0020   0036      0102  G12  5   XRA  1-8A      C2.3    4.2E-03   0543
+ 270       0023   0046      0101  G12  5   XFL  S18W14    3.2E+03 7.4E+03   0543
+
+ 250       0024   0025      0025  LEA  G   RBR  1415      55                0543
+ 250       0025   0029      0059  LEA  3   FLA  S16W12    SF      ERU       0543
+
+ 260       0045   0046      0046  LEA  G   RBR  245       98                    
+ 260       0045   0046      0047  LEA  G   RBR  410       93                    
+
+ 290       0237   ////      0237  CUL  C   RSP  23-90     III/1                 
+
+ 320       0402   0511      0530  G12  5   XRA  1-8A      C1.2    4.8E-03       
+
+ 370       0758   ////      0758  CUL  C   RSP  23-90     III/1                 
+
+ 300 +     0903   0903      0904  SVI  G   RBR  245       140                   
+ 300 +     0903   ////      0904  LEA  C   RSP  025-180   III/1                 
+
+ 330       1031   1052      1112  G12  5   XRA  1-8A      B7.6    1.7E-03       
+
+ 340       1706   1720      1729  G12  5   XRA  1-8A      B8.6    8.7E-04       
+
+ 350       1908   1913      1916  G12  5   XRA  1-8A      B7.4    3.1E-04       
+
+ 310      A2330   ////     B1501  HOL  3   DSF  S48E85    28      B.0A          
+
+ 360 +     2340   2347      2357  G12  5   XRA  1-8A      B7.2    5.8E-04   0540
+ 360       2344   2346      2353  G12  5   XFL  S13W39    4.3E+02 8.1E+02   0540
+ 360       2345   ////      0101  LEA  3   EPL  ////      0.27    B.9A      0540

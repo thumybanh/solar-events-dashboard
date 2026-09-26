@@ -1,0 +1,51 @@
+:Product: 19981113events.txt
+:Created: 1998 Nov 16 0302 UT
+:Date: 1998 11 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3540 +     0008   ////      0009  CUL  C   RSP  30-80     III/1                 
+
+3590       0141   ////      0141  CUL  C   RSP  30-80     III/1                 
+
+3600       0147   ////      0147  CUL  C   RSP  30-80     III/1                 
+
+3610       0224   ////      0224  CUL  C   RSP  18-140    III/2                 
+
+3550 +     0235   ////      0236  LEA  C   RSP  030-08    III/3                 
+
+3560       0249   0249      0250  LEA  G   RBR  245       51                    
+
+3570 +     0309   0313      0320  GO8  5   XRA  1-8A      C1.9    1.2E-03   8383
+3570       0312   0312      0319  LEA  3   FLA  S16E27    SF                8383
+
+3580       0334   0334      0334  LEA  G   RBR  245       71                    
+
+3620       0404   ////      0631  LEA  C   RSP  030-08    CTM/1                 
+
+3630 +     0627   ////      0631  LEA  C   RSP  030-08    III/2                 
+
+3640       0641   ////      0649  LEA  C   RSP  030-08    III/2                 
+
+3650 +     0651   ////      0701  LEA  C   RSP  030-08    III/3                 
+
+3660       0812   0819      0826  LEA  3   FLA  N20W51    SF                8385
+3660       0823   ////      0823  LEA  C   RSP  045-06    III/1             8385
+
+3670 +     1256   ////      1256  SVI  C   RSP  035-08    III/1                 
+
+3680       2008   2008      2008  SAG  G   RBR  245       55                    
+
+3700       2042   ////      2042  PAL  C   RSP  028-04    III/1                 
+
+3690 +     2055   2059      2102  GO8  5   XRA  1-8A      C5.1    1.4E-03       
+3690       2058   2059      2128  HOL  3   FLA  N19W59    SF                8385
+
+3710       2113   ////      2114  PAL  C   RSP  025-04    III/1                 

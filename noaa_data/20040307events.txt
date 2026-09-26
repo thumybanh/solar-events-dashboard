@@ -1,0 +1,47 @@
+:Product: 20040307events.txt
+:Created: 2004 Mar 10 0300 UT
+:Date: 2004 03 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Mar 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7300 +     0029   ////      0029  CUL  C   RSP  18-100    III/3                 
+
+7310 +     0118   ////      0118  CUL  C   RSP  18-90     III/3                 
+
+7320       0213   0213      0213  LEA  G   RBR  606       52                    
+
+7330       0226   0226      0228  PAL  G   RBR  245       160                   
+7330 +     0228   0228      0228  LEA  G   RBR  606       78                    
+
+7340       0313   ////      0313  LEA  C   RSP  025-079   III/1                 
+
+7350       0320   0321      0321  PAL  G   RBR  245       80                    
+
+7360       0442   0448      0455  G10  5   XRA  1-8A      B5.5    3.6E-04       
+
+7370 +     0518   ////      0520  CUL  C   RSP  18-100    III/3                 
+
+7380 +     1231   1237      1244  G12  5   XRA  1-8A      B4.7    3.3E-04   0567
+7380       1234   1241      1243  G12  5   XFL  S12W67    1.1E+03 2.5E+03   0567
+
+7390       1326   ////      1327  SVI  C   RSP  025-044   III/1                 
+
+7400       1414   ////      1414  SVI  C   RSP  025-044   III/1                 
+
+7420       1927   ////      1927  HOL  C   RSP  025-055   III/1                 
+
+7430 +     1947   ////      1948  HOL  C   RSP  025-180   III/1                 
+
+7450       2117   ////      2117  CUL  C   RSP  23-180    III/1                 
+
+7460       2120   ////      2120  CUL  C   RSP  20-180    III/1                 
+
+7440 +     2246   2301      2323  G12  5   XRA  1-8A      B8.4    1.3E-03   0570
+7440       2249   2303      2322  G12  5   XFL  S14E62    1.4E+03 3.6E+03   0570

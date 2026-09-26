@@ -1,0 +1,59 @@
+:Product: 19981129events.txt
+:Created: 1998 Dec 02 0302 UT
+:Date: 1998 11 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Nov 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8060       0156   0207      0242  GO8  5   XRA  1-8A      C2.1    5.4E-03       
+
+7880 +     0626   0630      0633  GO8  5   XRA  1-8A      C2.8    8.4E-04       
+
+7890 +     0640   0645      0654  GO8  5   XRA  1-8A      C2.8    2.0E-03       
+
+7900       0832   ////      0832  LEA  C   RSP  030-08    III/1                 
+
+8050 +    A0958   ////      2218  LEA  3   DSF  N00W36    17      B.0A          
+
+7910 +     1040   1043      1046  GO8  5   XRA  1-8A      C1.6    5.1E-04       
+
+7920 +     1124   1131      1138  GO8  5   XRA  1-8A      C1.6    1.3E-03       
+
+7930 +     1408   ////      1411  SAG  C   RSP  030-08    III/1             8395
+7930       1410   1415      1442  RAM  3   FLA  N17E17    SF                8395
+
+7940       1417   1418      1427  RAM  3   FLA  N25E50    SF                8397
+
+8020       1425   1426      1430  RAM  3   FLA  N14E87    SF                8397
+
+7950       1434   1436      1440  SAG  G   RBR  245       57                    
+
+7960       1449   1453      1510  RAM  3   FLA  N17E17    SF                8395
+
+7970       1516   1518      1522  RAM  3   FLA  N26W72    SF                8396
+
+7980       1547   1547      1551  RAM  3   FLA  N28W73    SF                8396
+
+7990       1553   1555      1558  RAM  3   FLA  N28W74    SF                8396
+
+8000       1609   1609      1609  SAG  G   RBR  245       4100                  
+
+8010       1610   ////      1610  SAG  C   RSP  030-08    III/1                 
+
+8030 +     1845   1855      1905  HOL  3   FLA  N19E26    SF      ERU       8395
+
+8040 +     2045   2049      2053  GO8  5   XRA  1-8A      C2.1    9.1E-04       
+8040 +     2046   ////      2047  CUL  C   RSP  18-300    III/3             8395
+8040      B2051  U2051     A2116  RAM  2   FLA  N23E34    SF                8395
+
+8070 +     2253   ////      2255  CUL  C   RSP  20-130    III/1                 
+
+8180       2330   ////      0856  LEA  C   RSP  030-07    CTM/1                 
+
+8080       2346   ////      2349  CUL  C   RSP  25-120    III/1                 

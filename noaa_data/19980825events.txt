@@ -1,0 +1,22 @@
+:Product: 19980825events.txt
+:Created: 1998 Aug 28 0302 UT
+:Date: 1998 08 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Aug 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4390       0000   ////      0135  CUL  C   RSP  20-140    IV/1                  
+
+4430       0443   ////      0444  CUL  C   RSP  40-180    III/2                 
+
+4400 +     0906   ////      0907  SVI  C   RSP  035-08    III/3                 
+
+4410       0918   0919      0925  SVI  3   FLA  N16W44    SF                8309
+
+4420       1213   ////      1342  SVI  C   RSP  035-06    CTM/1                 

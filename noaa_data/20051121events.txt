@@ -1,0 +1,51 @@
+:Product: 20051121events.txt
+:Created: 2005 Nov 24 0329 UT
+:Date: 2005 11 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Nov 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4710 +     0024   0030      0038  G12  5   XRA  1-8A      B4.6    3.1E-04   0824
+4710       0027   0035      0036  G12  5   XFL  S13E69    5.7E+03 2.5E+04   0824
+
+4720 +     0128   ////      0129  LEA  C   RSP  025-162   III/1                 
+
+4730 +     0334   0338      0340  G12  5   XRA  1-8A      B2.1    6.5E-05   0822
+4730       0339   0339      0339  G12  5   XFL  S06W30    5.5E+03 1.5E+04   0822
+
+4740       0511   0511      0511  LEA  G   RBR  245       79                    
+
+4750 +     0611   ////      0611  CUL  C   RSP  20-90     III/3                 
+
+4760 +     0816   0847      0859  G12  5   XRA  1-8A      B2.6    6.0E-04   0822
+4760       0819   0839      0856  G12  5   XFL  S06W33    6.7E+03 1.9E+04   0822
+
+4770 +     0945   0956      1002  G12  5   XRA  1-8A      B8.2    6.0E-04   0824
+4770       0948   0959      1000  G12  5   XFL  S15E66    6.8E+03 3.8E+04   0824
+
+4780       1015   ////      1015  SVI  C   RSP  074-180   III/1                 
+
+4800 +     1159   1204      1207  G12  5   XRA  1-8A      B4.1    1.4E-04   0822
+4800       1203   1204      1204  G12  5   XFL  S06W35    6.2E+03 2.3E+04   0822
+
+4830 +     1218   1246      1320  SVI  G   RNS  245       160                   
+
+4810 +     1243   1250      1254  G12  5   XRA  1-8A      B4.0    1.9E-04   0824
+4810       1247   1251      1253  G12  5   XFL  S14E64    4.7E+03 2.0E+04   0824
+
+4820 +     1359   1359      1359  SAG  G   RBR  410       320                   
+
+4840 +     1602   1605      1609  G12  5   XRA  1-8A      B1.6    6.1E-05   0824
+4840       1604   1607      1608  G12  5   XFL  S13E62    3.6E+03 1.2E+04   0824
+
+4850       2227   2228      2228  PAL  G   RBR  410       320                   
+
+4860       2249   2249      2249  PAL  G   RBR  245       54                    
+
+4870       2321   2321      2321  PAL  G   RBR  245       81                    

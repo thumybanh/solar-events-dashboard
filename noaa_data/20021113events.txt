@@ -1,0 +1,52 @@
+:Product: 20021113events.txt
+:Created: 2002 Nov 16 0300 UT
+:Date: 2002 11 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2002 Nov 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 880       0037   ////      0037  LEA  C   RSP  025-098   III/1                 
+
+ 890       0212   ////      0212  LEA  C   RSP  025-057   III/1                 
+
+ 900       0341   0511      0552  GO8  5   XRA  1-8A      C3.2    1.8E-02       
+
+ 910 +     0627   0627      0630  COM  3   FLA  N07W66    SF      ERU       0188
+
+ 920 +     1002   1006      1013  GO8  5   XRA  1-8A      C1.9    1.1E-03       
+
+ 930       1154   1154      1154  SAG  G   RBR  245       60                    
+ 930       1154   ////      1204  SVI  U   RSP  033-161   III/1                 
+
+ 950       1435   1447      1504  G10  5   XRA  1-8A      C3.0    4.4E-03   0191
+ 950       1437   1437      1437  SAG  G   RBR  4995      68                0191
+ 950       1437   1437      1437  SAG  G   RBR  8800      55                0191
+ 950 +     1438   1442      1511  RAM  3   FLA  S19E14    SF      ERU       0191
+
+ 960       1648   1648      1649  SAG  G   RBR  245       100                   
+
+ 970       1653   1653      1653  SAG  G   RBR  245       79                    
+
+ 990       1656   1656      1656  SAG  G   RBR  245       58                    
+
+1000       1707   ////      1707  HOL  C   RSP  053-119   III/1                 
+
+1010       1710   1710      1710  SAG  G   RBR  245       72                    
+
+1020       1727   1803      1823  GO8  5   XRA  1-8A      C1.9    6.1E-03   0191
+1020       1728   1730      1827  RAM  3   FLA  S20E15    SF                0191
+
+1030       1828   1837      1840  RAM  3   FLA  S18E14    SF      ERU       0191
+1030       1838   1838      1838  SAG  G   RBR  245       58                0191
+
+1040       1844   1847      1850  RAM  3   FLA  S18E14    SF      ERU       0191
+
+1050       2303   0017      0052  GO8  5   XRA  1-8A      M1.0    4.8E-02       
+
+1200       2350   ////      1025  LEA  C   RSP  025-180   CTM/1                 

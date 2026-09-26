@@ -1,0 +1,24 @@
+:Product: 20051228events.txt
+:Created: 2005 Dec 31 0329 UT
+:Date: 2005 12 28
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Dec 28
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8820       0111   ////      0111  LEA  C   RSP  115-180   III/1                 
+
+8830       0325   ////      0326  LEA  C   RSP  025-107   III/2                 
+
+8840 +     1113   1125      1142  G12  5   XRA  1-8A      B9.2    1.1E-03   0843
+8840       1116   1139      1140  G12  5   XFL  N12E38    1.3E+04 5.2E+04   0843
+
+8850 +     2227   2238      2250  G12  5   XRA  1-8A      C1.2    1.1E-03   0843
+8850       2230   2234      2234  G12  5   XFL  N11E38    5.8E+03 2.9E+04   0843
+8850       2232   2232      2232  LEA  G   RBR  245       52                0843
+8850 +     2232   2238      2250  HOL  3   FLA  N10E40    SF      PRB       0843

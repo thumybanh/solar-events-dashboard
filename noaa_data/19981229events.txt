@@ -1,0 +1,80 @@
+:Product: 19981229events.txt
+:Created: 1999 Jan 01 0302 UT
+:Date: 1998 12 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4470       0044   0044      0048  LEA  3   FLA  N27E14    SF                8421
+
+4480       0059   0102      0105  LEA  3   FLA  N27E14    SF                8421
+
+4490       0120   0124      0133  LEA  3   FLA  N24E11    SF                8421
+
+4500       0218   0221      0223  LEA  3   FLA  N25W38    SF      ERU       8419
+
+4510       0231   0233      0236  LEA  3   FLA  N25E09    SF      ERU       8421
+
+4530 +     0549   0601      0624  GO8  5   XRA  1-8A      C2.2    4.0E-03   8421
+
+4520       0552   0552      0607  LEA  4   FLA  N27W42    SF                8419
+
+4530 +     0552   0605      0613  COM  3   FLA  N24E07    SF      BPT       8421
+
+4540 +     0739   0744      0750  GO8  5   XRA  1-8A      C2.6    1.4E-03   8421
+4540 +     0741   0743      0751  LEA  4   FLA  N26E10    SF      BPT       8421
+
+4550       0834   0838      0852  SVI  3   FLA  N26W43    SF                8419
+
+4670       0847   ////      0847  LEA  C   RSP  030-06    III/1                 
+
+4560       0855   0904      0911  SVI  3   FLA  N27W45    SF                8419
+
+4570 +     0923   0941      0953  GO8  5   XRA  1-8A      C5.1    6.7E-03   8421
+4570 +     0926   0939      1018  COM  3   FLA  N27E13    SF                8421
+
+4580 +     1010   1014      1018  SVI  3   FLA  N26W41    SF                8419
+4580 +     1011   1011      1011  SVI  G   RBR  1415      32                8419
+4580 +     1011   1011      1011  SVI  G   RBR  2695      39                8419
+4580       1011   1011      1011  SVI  G   RBR  4995      29                8419
+4580 +     1011   1011      1011  LEA  G   RBR  410       100               8419
+
+4610 +     1056   1109      1119  SVI  3   FLA  N24E04    SF                8421
+
+4680       1107  U1113     A1142  SVI  3   FLA  S20E17    SF      ERU       8422
+
+4620       1210   1216      1219  SVI  3   FLA  N24E07    SF                8421
+
+4640       1222   1231      1300  SVI  3   FLA  N24E06    SF                8421
+
+4650 +     1302   1306      1310  GO8  5   XRA  1-8A      C2.0    8.2E-04       
+4650      B1303   1305      1331  SVI  3   FLA  N24E06    SF                8421
+
+4690 +     1506   1510      1516  GO8  5   XRA  1-8A      C1.6    8.6E-04   8421
+4690       1509   1509      1515  HOL  2   FLA  N27E08    SF                8421
+
+4700 +     1516   1552      1556  GO8  5   XRA  1-8A      C2.4    9.1E-04       
+4700       1518   1552      1641  HOL  3   FLA  N27E06    SF                8421
+
+4710       1647   1719      1736  HOL  3   FLA  N25E01    SF                8421
+
+4720       1824   1824      1836  HOL  3   FLA  N27E05    SF                8421
+
+4730       1952   2028      2042  HOL  3   FLA  N25E01    SF                8421
+4730       2026   2030      2033  G10  5   XRA  1-8A      C2.0    8.0E-04       
+
+4740       2059   2118      2129  HOL  3   FLA  N27E02    SF                8421
+
+4750 +     2228   2233      2238  GO8  5   XRA  1-8A      C1.6    8.5E-04   8421
+4750       2231   2232      2237  HOL  3   FLA  N29E04    SF                8421
+
+4760       2255   2257      2304  HOL  3   FLA  N28E06    SF                8421
+
+4770 +     2326   2330      2333  GO8  5   XRA  1-8A      C2.0    7.5E-04   8421
+4770       2329   2331      2333  LEA  3   FLA  N26E00    SF                8421

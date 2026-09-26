@@ -1,0 +1,71 @@
+:Product: 20000225events.txt
+:Created: 2000 Feb 28 0302 UT
+:Date: 2000 02 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Feb 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5040       0041   0041      0041  LEA  G   RBR  245       65                    
+
+5050 +     0132   0132      0132  LEA  G   RBR  245       72                    
+
+5080 +     0242   1938      2152  COM  G   RNS  245       370                   
+
+5060       0250   ////      0251  LEA  C   RSP  030-05    III/1                 
+
+5070       0318   0322      0334  LEA  3   FLA  S17E30    SF                8882
+5070 +     0324   0332      0344  GO8  5   XRA  1-8A      C4.4    4.4E-03   8882
+
+5090 +     0414   0420      0423  GO8  5   XRA  1-8A      C4.6    1.6E-03   8889
+5090       0419   0420      0424  LEA  3   FLA  N20E69    SF                8889
+
+5100       0448   0448      0448  LEA  G   RBR  410       55                    
+
+5110 +     0452   0452      0454  LEA  G   RBR  245       330                   
+
+5190       0454   0501      0507  LEA  G   RBR  245       120               8879
+5190       0454   0501      0503  LEA  G   RBR  410       120               8879
+5190       0455   ////      0458  LEA  C   RSP  030-08    III/3             8879
+5190 +     0456   0503      0508  GO8  5   XRA  1-8A      C2.3    1.5E-03   8879
+5190       0456   0457      0457  LEA  G   RBR  606       140               8879
+5190       0456   0457      0458  LEA  G   RBR  4995      49                8879
+5190       0457   0501      0524  LEA  3   FLA  N23W22    SF                8879
+5190       0500   0500      0500  LEA  U   RBR  8800      22                8879
+
+5130       0607   0608      0612  LEA  3   FLA  N21E67    SF                8889
+
+5150       0642   0648      0653  LEA  3   FLA  N21E66    SF      DSD       8889
+
+5160 +     0755   0802      0809  GO8  5   XRA  1-8A      C2.2    1.5E-03       
+
+5170 +     0854   0919      0948  GO8  5   XRA  1-8A      C8.6    1.9E-02   8888
+5170 +     0858   ////      0858  LEA  C   RSP  037-08    III/2             8888
+5170       0901   0901      0901  LEA  G   RBR  245       93                8888
+5170      B0901   0916      0935  SVI  3   FLA  N35E52    SF      ERU       8888
+
+5200       1259   1259      1259  SAG  G   RBR  245       54                    
+
+5210 +     1316   ////      1318  SVI  C   RSP  035-08    III/1                 
+
+5220 +     1424   ////      1427  SVI  C   RSP  035-08    III/2                 
+
+5230       1601   1604      1609  GO8  5   XRA  1-8A      C2.6    1.1E-03   8889
+5230 +     1602   1604      1622  HOL  3   FLA  N22E62    SF                8889
+
+5240       1843   1844      1844  SAG  G   RBR  410       57                    
+
+5250       1847   1847      1854  HOL  3   FLA  S17E73    SF                8891
+
+5260       1901   1902      1902  PAL  G   RBR  245       60                    
+
+5080 +     1926   1935      2050  SAG  G   RNS  410       77                    
+
+5270       2037   2040      2045  HOL  3   FLA  S11E34    SF                8887
+
+5430 +    A2155   ////      1203  RAM  3   DSF  N19E37    05      B.0A          

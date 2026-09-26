@@ -1,0 +1,61 @@
+:Product: 20000111events.txt
+:Created: 2000 Jan 14 0302 UT
+:Date: 2000 01 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Jan 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+7480 +     0106   0116      0128  GO8  5   XRA  1-8A      C9.4    8.4E-03   8824
+7480      B0110  U0118     A0150  LEA  3   FLA  S12E58    SF      ERU       8824
+
+7490 +     0413   0424      0438  GO8  5   XRA  1-8A      M1.5    1.9E-02       
+
+7500       0708   0710      0715  LEA  3   FLA  N18W12    SF                    
+
+7510       0827   0827      0828  LEA  G   RBR  410       950                   
+7510 +     0827   0827      0828  SVI  G   RBR  245       73                    
+7510 +     0827   0827      0828  SVI  G   RBR  606       48                    
+
+7520       0836   0837      0838  LEA  G   RBR  410       240                   
+7520 +     0836   0836      0837  SVI  G   RBR  245       130                   
+
+7530       0914   0914      0914  LEA  G   RBR  410       2100                  
+7530       0914   0914      0914  LEA  G   RBR  606       48                    
+
+7540       0942   0954      1024  GO8  5   XRA  1-8A      C1.3    2.9E-03   8824
+7540 +     0945   0949      1005  LEA  3   FLA  S13E56    SF                8824
+
+7550 +     1404   ////      1404  SVI  U   RSP  035-08    III/2                 
+
+7560 +     1513   1517      1522  GO8  5   XRA  1-8A      C1.4    7.0E-04   8824
+7560       1515   1516      1535  HOL  3   FLA  S11E57    SF      ERU       8824
+
+7580       1642   1644      1648  HOL  3   FLA  S13E57    SF      ERU       8824
+
+7590       1654   1656      1659  HOL  3   FLA  S12E57    SF                8824
+
+7600 +     1812   1818      1826  GO8  5   XRA  1-8A      C1.5    1.1E-03   8824
+7600       1815   1819      1824  HOL  3   FLA  S12E55    SF      ERU       8824
+
+7610 +     1921   1931      1944  GO8  5   XRA  1-8A      C2.4    2.9E-03   8824
+7610       1923   1927      1941  HOL  3   FLA  S12E55    SF      ERU       8824
+
+7620       2040   2048      2054  GO8  5   XRA  1-8A      C2.8    1.9E-03   8824
+7620       2046   2047      2056  RAM  4   FLA  S15E53    SF      ERU       8824
+
+7640       2101   2105      2108  GO8  5   XRA  1-8A      C1.9    7.4E-04   8824
+7640       2102   2104      2124  RAM  4   FLA  S14E53    SF      ERU       8824
+
+7630       2143   2147      2149  PAL  G   RBR  4995      53                8829
+7630       2143   2144      2145  PAL  G   RBR  8800      79                8829
+7630       2143   2144      2144  PAL  G   RBR  15400     76                8829
+7630 +     2143   2150      2157  GO8  5   XRA  1-8A      C7.5    4.5E-03   8829
+7630       2144   2145      2146  PAL  G   RBR  245       780               8829
+7630       2146   2146      2146  PAL  G   RBR  1415      21                8829
+7630 +     2148   2148      2151  COM  3   FLA  N12E89    SF                8829

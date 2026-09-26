@@ -1,0 +1,62 @@
+:Product: 19990824events.txt
+:Created: 1999 Aug 27 0303 UT
+:Date: 1999 08 24
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 Aug 24
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2960       0008   ////      0008  CUL  C   RSP  30-130    III/1                 
+
+2970 +     0123   0141      0204  GO8  5   XRA  1-8A      C3.5    7.3E-03       
+
+2980 +     0333   ////      0339  CUL  C   RSP  30-70     III/1                 
+
+2990       0349   ////      0349  CUL  C   RSP  30-70     III/1                 
+
+3000       0421   ////      0421  CUL  C   RSP  130-26    III/2                 
+
+3010       0429   0430      0430  SVI  U   RBR  245       140                   
+
+3020       0459   ////      0500  SVI  C   RSP  035-07    III/1                 
+
+3030 +     0520   ////      0520  CUL  C   RSP  30-70     III/1                 
+
+3040 +     0606   0610      0612  LEA  G   RBR  1415      31                8674
+3040 +     0606   0610      0610  LEA  G   RBR  2695      61                8674
+3040 +     0606   0610      0610  LEA  G   RBR  4995      25                8674
+3040 +     0606   0623      0643  GO8  5   XRA  1-8A      C5.3    9.6E-03   8674
+3040       0607   0612      0640  SVI  3   FLA  S27E30    1F      ERU       8674
+3040 +     0608   0611      0612  LEA  G   RBR  245       110               8674
+
+3050       0823   0823      0823  SVI  G   RBR  245       120                   
+
+3060      B0909   ////      0942  SVI  3   BSL  N22E90    0.18    B.9A          
+
+3070       1116   1118      1139  SVI  3   FLA  N22W56    SF                8668
+
+3080       1449   1450      1454  SVI  3   FLA  N26E73    SF                    
+
+3090       1540   1558      1612  GO8  5   XRA  1-8A      C3.1    4.7E-03   8674
+3090       1552   1555      1628  SVI  3   FLA  S24E30    SF      ERU       8674
+
+3100 +     1650   1717      1815  GO8  5   XRA  1-8A      C4.4    1.6E-02   8674
+3100       1702   1720      1750  HOL  3   FLA  S26E25    1F      ERU       8674
+
+3110       1751   1755      1758  HOL  3   FLA  S28E25    SF                8674
+
+3120 +     1918   ////      1918  PAL  C   RSP  030-05    III/1                 
+
+3130       2238   2239      2243  HOL  3   FLA  S18E23    SF                8673
+3130       2243   ////      2243  CUL  C   RSP  60-100    III/1             8673
+
+3150       2252   2309      2358  HOL  3   FLA  S17E22    SF                8673
+
+3140 +     2345   2351      2352  PAL  G   RBR  245       98                    
+
+3150       2351   2351      2352  LEA  G   RBR  245       190               8673

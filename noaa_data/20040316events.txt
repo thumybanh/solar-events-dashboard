@@ -1,0 +1,59 @@
+:Product: 20040316events.txt
+:Created: 2004 Mar 19 0302 UT
+:Date: 2004 03 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2004 Mar 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9050       0006   ////      0009  CUL  C   RSP  23-90     III/1                 
+
+9060       0021   ////      0023  CUL  C   RSP  20-50     III/1                 
+
+9070       0315   ////      0317  CUL  C   RSP  23-90     III/1                 
+
+9080       0343   ////      0343  CUL  C   RSP  20-80     III/1                 
+
+9090       0346   0346      0346  PAL  G   RBR  245       100                   
+
+9100 +     0412   ////      0413  CUL  C   RSP  20-80     III/2                 
+
+9110       0420   ////      0423  CUL  C   RSP  23-80     III/1                 
+
+9190       0458   ////      0501  CUL  C   RSP  23-110    III/1                 
+
+9200       0640   ////      0640  CUL  C   RSP  25-80     III/1                 
+
+9210       0743   ////      0744  CUL  C   RSP  23-180    III/3                 
+
+9120       0941   ////      0942  SVI  C   RSP  030-142   III/1                 
+
+9130       1006   ////      1013  SVI  C   RSP  025-136   III/1                 
+
+9140       1132   ////      1133  SVI  C   RSP  077-180   III/1                 
+9140       1133   1133      1133  SAG  G   RBR  245       53                    
+
+9150 +     1550   1559      1606  G12  5   XRA  1-8A      B7.2    5.0E-04   0573
+9150       1554   1603      1605  G12  5   XFL  S14E27    1.3E+03 3.3E+03   0573
+
+9160       1715   ////      1716  HOL  C   RSP  025-098   III/1                 
+
+9170 +     2018   2018      2018  PAL  G   RBR  245       100                   
+9170 +     2018   ////      2018  PAL  C   RSP  025-180   III/1                 
+
+9220       2019   ////      2019  CUL  C   RSP  20-200    III/1                 
+
+9230       2127   ////      2127  CUL  C   RSP  20-70     III/1                 
+
+9240       2151   ////      2151  CUL  C   RSP  23-45     III/1                 
+
+9250       2211   ////      0002  HOL  3   EPL  ////      0.18    B.5A          
+
+9180 +     2217   ////      2217  CUL  C   RSP  18-180    III/2                 
+
+9250       2253   ////      2253  CUL  C   RSP  27-180    III/1                 

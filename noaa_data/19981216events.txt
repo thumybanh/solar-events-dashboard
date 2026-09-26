@@ -1,0 +1,45 @@
+:Product: 19981216events.txt
+:Created: 1998 Dec 19 0303 UT
+:Date: 1998 12 16
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Dec 16
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1490 +     0006   ////      0006  LEA  C   RSP  030-07    III/2                 
+
+1510       0123   0133      0144  G10  5   XRA  1-8A      C1.0    1.2E-03   8410
+1510       0133   0133      0141  LEA  3   FLA  N21E21    SF      ERU       8410
+
+1520 +     0203   0209      0213  GO8  5   XRA  1-8A      C1.5    6.7E-04       
+1520       0208   0209      0217  LEA  3   FLA  S19W40    SF                8408
+
+1600       0621   ////      0621  CUL  C   RSP  45-160    III/1                 
+
+1530 +     0944   1001      1012  GO8  5   XRA  1-8A      C1.8    2.5E-03       
+
+1540 +     1043   1047      1050  GO8  5   XRA  1-8A      C1.0    3.7E-04       
+1540       1045   1047      1057  SVI  3   FLA  S25W33    SF                8409
+
+1550 +     1158   1203      1206  GO8  5   XRA  1-8A      C1.2    5.2E-04   8409
+1550       1200   1203      1209  SVI  3   FLA  S28W28    SF                8409
+
+1560 +     1614   1614      1632  HOL  3   FLA  S17W50    SF                8408
+
+1570       1900   1904      1905  SAG  G   RBR  410       90                8409
+1570 +     1902   1909      1914  GO8  5   XRA  1-8A      C5.4    2.4E-03   8409
+1570 +     1905   1910      1925  RAM  4   FLA  S28W40    SN                8409
+1570       1908   1909      1910  SAG  G   RBR  8800      35                8409
+1570       1909   1909      1909  SAG  G   RBR  4995      28                8409
+
+1580 +     2012   2015      2019  GO8  5   XRA  1-8A      C1.0    3.7E-04       
+
+1590 +     2149   2200      2215  GO8  5   XRA  1-8A      C4.0    4.8E-03       
+1590       2153   2201      2227  HOL  3   FLA  S18W53    1F                8408
+
+1610       2310   ////      2310  CUL  C   RSP  30-90     III/1                 

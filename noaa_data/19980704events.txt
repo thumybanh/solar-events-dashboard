@@ -1,0 +1,74 @@
+:Product: 19980704events.txt
+:Created: 1998 Jul 07 0302 UT
+:Date: 1998 07 04
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1998 Jul 04
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2440 +     0028   ////      0028  PAL  C   RSP  035-05    III/1                 
+
+2450       0150   ////      0154  LEA  C   RSP  030-08    III/2                 
+
+2460       0443   ////      0443  SVI  C   RSP  035-07    III/2                 
+
+2470       0511   0519      0532  SVI  3   FLA  S22W38    SF                8256
+
+2480 +     0537   0545      0553  GO9  5   XRA  1-8A      C9.4    5.6E-03       
+2480       0540   0543      0614  SVI  3   FLA  S24W40    SN      ERU       8256
+
+2490       0617   ////      0620  SVI  C   RSP  069-08    III/3                 
+
+2520       0729   0739      0800  SVI  3   FLA  S22W04    SF      ERU       8260
+
+2570 +     0755   1442      1448  COM  G   RNS  245       220                   
+
+2520 +     0758   0758      0759  SVI  G   RBR  245       270               8260
+
+2530       0804   0804      0805  LEA  G   RBR  245       97                    
+
+2540 +     0815   0840      0915  GO9  5   XRA  1-8A      C1.2    3.6E-03   8256
+2540       0822   0825      0830  SVI  3   FLA  S23W42    SF                8256
+2540       0835   0835      0837  SVI  G   RBR  245       190               8256
+
+2550 +     1000   1010      1023  GO9  5   XRA  1-8A      C5.8    5.3E-03   8256
+2550       1006   1014      1029  SVI  3   FLA  S23W43    SF      ERU       8256
+
+2560       1053   1053      1101  SVI  3   FLA  S23W42    SF      ERU       8256
+
+2580 +     1200   1216      1233  GO9  5   XRA  1-8A      M1.2    1.7E-02       
+2580       1202   1204      1249  SVI  3   FLA  S23W44    SN      ERU       8256
+2580       1203   1204      1206  SVI  G   RBR  2695      38                    
+2580       1203   1204      1206  SVI  G   RBR  4995      59                    
+2580       1204   1204      1204  SVI  U   RBR  8800      26                    
+2580 +     1210   ////      1210  SVI  C   RSP  035-06    III/3             8256
+
+2590       1326   1327      1335  HOL  3   FLA  S26W40    SF                8256
+
+2610 +     1440   1453      1510  GO9  5   XRA  1-8A      C5.5    5.7E-03   8256
+2610 +     1442   1443      1443  SAG  G   RBR  245       370               8256
+2610       1442   1443      1443  SAG  G   RBR  410       32                8256
+2610       1446   1452      1514  SVI  3   FLA  S23W45    SF      ERU       8256
+
+2500 +     1517   ////      1721  SVI  C   RSP  035-08    CTM/2             8256
+
+2630 +     1632   1643      1653  GO9  5   XRA  1-8A      C9.7    7.5E-03   8256
+2630       1635   1639      1710  SVI  3   FLA  S23W46    1N      ERU       8256
+2630       1637   1638      1638  SVI  G   RBR  4995      25                8256
+
+2640 +     1838   1852      1900  GO9  5   XRA  1-8A      C2.3    2.3E-03   8256
+2640       1852   1856      1902  HOL  3   FLA  S23W44    SF                8256
+
+2650       1917   1925      1951  HOL  3   FLA  S24W47    SF                8256
+2650 +     1920   1925      1935  GO9  5   XRA  1-8A      C1.7    1.3E-03   8256
+
+2660 +     2224   2232      2238  GO9  5   XRA  1-8A      C2.2    1.2E-03       
+
+2670 +     2253   2259      2306  GO9  5   XRA  1-8A      C1.3    8.8E-04       
+
+2680 +     2307   2318      2324  GO9  5   XRA  1-8A      C3.4    2.7E-03       

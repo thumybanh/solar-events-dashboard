@@ -1,0 +1,27 @@
+:Product: 20030820events.txt
+:Created: 2003 Aug 23 0302 UT
+:Date: 2003 08 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Aug 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4770       0542   ////      0550  CUL  C   RSP  27-180    III/1                 
+
+4730 +     0609   ////      0611  CUL  C   RSP  20-270    III/3                 
+4730 +     0610   0610      0610  LEA  G   RBR  245       62                    
+
+4740 +     0836   ////      0836  SVI  C   RSP  025-125   III/1                 
+
+4750       1103   ////      1104  SVI  C   RSP  025-137   III/1                 
+
+4760       1946   1946      1947  PAL  G   RBR  245       95                    
+
+4780       2330   ////      2331  CUL  C   RSP  30-120    III/1                 
+
+4790       2350   ////      2350  CUL  C   RSP  20-180    III/2                 

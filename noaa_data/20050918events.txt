@@ -1,0 +1,31 @@
+:Product: 20050918events.txt
+:Created: 2005 Sep 21 0329 UT
+:Date: 2005 09 18
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Sep 18
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 720 +     0141   0144      0146  G12  5   XRA  1-8A      B7.2    1.9E-04   0808
+ 720       0143   0144      0147  LEA  3   FLA  S09W57    SF                0808
+
+ 730       0157   0201      0204  G10  5   XRA  1-8A      B5.3    2.0E-04       
+
+ 740       0424   0433      0438  G10  5   XRA  1-8A      C3.7    1.9E-03       
+ 740       0425   0425      0425  LEA  G   RBR  245       53                    
+
+ 750       0454   0503      0529  G10  5   XRA  1-8A      C1.8    3.2E-03       
+
+ 760 +     1109   1113      1117  G12  5   XRA  1-8A      B5.0    2.1E-04       
+
+ 770 +     1207   1214      1217  G12  5   XRA  1-8A      C1.1    5.2E-04       
+
+ 780 +     2038   2046      2059  G12  5   XRA  1-8A      B8.7    8.8E-04       
+
+ 790 +     2353   0003      0017  G12  5   XRA  1-8A      B8.5    1.0E-03   0808
+ 790 +     2358   ////      0006  LEA  3   FLA  S10W63    SF      ERU       0808

@@ -1,0 +1,70 @@
+:Product: 20000820events.txt
+:Created: 2000 Aug 23 0302 UT
+:Date: 2000 08 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2000 Aug 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3400 +     0016   0021      0029  HOL  3   FLA  S08E36    SF                    
+
+3410       0045   0048      0055  HOL  3   FLA  S08E36    SF                    
+
+3420       0102   0104      0106  HOL  3   FLA  N22W48    SF                9125
+
+3440       0111  U0111      0115  HOL  3   FLA  N22W48    SF                9125
+
+3430       0114   ////      0115  LEA  C   RSP  025-064   III/1                 
+
+3450       0313   ////      0320  LEA  C   RSP  026-056   III/1                 
+
+3460 +     0856   0902      0907  GO8  5   XRA  1-8A      C2.3    1.3E-03   9125
+3460       0858   0858      0916  LEA  4   FLA  N25W55    SF      ERU       9125
+
+3660      A1000   ////      2328  LEA  2   DSF  S17W11    07      B.0A          
+
+3470       1052   ////      1052  SVI  C   RSP  028-081   III/1                 
+
+3480 +     1323   1327      1330  GO8  5   XRA  1-8A      C1.6    6.3E-04   9125
+3480 +     1324   1324      1354  HOL  3   FLA  N25W58    SF                9125
+
+3490       1324   1426      1435  HOL  3   FLA  N20W58    1F                9125
+
+3500 +     1434   1435      1435  SAG  G   RBR  410       120                   
+
+3510       1436   1438      1451  HOL  3   FLA  N21W59    SF                9125
+
+3550       1451   1642      1657  HOL  3   FLA  N21W60    SF                9125
+
+3520       1521   1523      1525  HOL  3   FLA  N21W59    SF                9125
+
+3530       1542   1543      1548  HOL  3   FLA  N26W57    SF                9125
+
+3540       1600   1602      1622  HOL  3   FLA  N20W60    SF                9125
+
+3560       1723   ////      1728  HOL  C   RSP  025-079   III/1                 
+
+3570 +     1737   1743      1753  GO8  5   XRA  1-8A      C1.2    1.0E-03   9125
+3570       1741   1746      1750  HOL  3   FLA  N21W58    SF                9125
+3570       1748   ////      1751  HOL  C   RSP  025-057   III/1             9125
+
+3580       1801   ////      1802  HOL  C   RSP  025-126   III/1                 
+
+3590       1826   ////      1827  HOL  C   RSP  025-083   III/1                 
+
+3600       2000   2002      2009  HOL  3   FLA  N21W59    SF                9125
+
+3610       2131   2133      2145  HOL  3   FLA  S14W55    SF                9124
+
+3620       2216   2221      2229  HOL  3   FLA  N21W63    SF                9125
+
+3630       2232   2238      2245  HOL  3   FLA  N21W63    SF                9125
+
+3640       2252   2256      2300  HOL  3   FLA  N19W63    SF                9125
+
+3650 +     2316   2322      2345  HOL  3   FLA  N20W28    SF                9132

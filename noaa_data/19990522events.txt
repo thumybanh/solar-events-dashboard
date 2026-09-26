@@ -1,0 +1,41 @@
+:Product: 19990522events.txt
+:Created: 1999 May 25 0302 UT
+:Date: 1999 05 22
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to sec@sec.noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 1999 May 22
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3040       0318   0318      0322  LEA  3   FLA  S14E53    SF                8550
+
+3050       0632   ////      0634  SVI  C   RSP  035-08    III/2                 
+
+3060 +     0647   0652      0656  GO8  5   XRA  1-8A      C1.4    5.4E-04       
+
+3070       0704   ////      0704  SVI  C   RSP  067-08    III/2                 
+
+3180       0743   0744      0753  LEA  3   FLA  S19W40    SF                8544
+
+3080 +     1430   ////      1431  SVI  C   RSP  035-08    V/2                   
+
+3100 +     1510   ////      1511  SVI  C   RSP  036-05    III/2                 
+
+3110 +     1523   1524      1525  SAG  G   RBR  245       2200                  
+3110 +     1524   1524      1525  SAG  G   RBR  410       39                    
+
+3120       1900   1901      1908  PAL  U   RBR  245       57                    
+
+3130       1912   1912      1919  HOL  3   FLA  N40W19    SF                8545
+
+3140       1938   ////      1938  PAL  C   RSP  028-04    III/1                 
+
+3150 +     2108   2108      2110  SAG  G   RBR  245       56                    
+
+3160 +     2115   2115      2115  SAG  G   RBR  245       54                    
+
+3170 +     2159   ////      2159  SAG  C   RSP  030-08    III/2                 

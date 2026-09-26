@@ -1,0 +1,39 @@
+:Product: 20050129events.txt
+:Created: 2005 Feb 01 0302 UT
+:Date: 2005 01 29
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jan 29
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5190      A0001   ////     B1438  HOL  3   DSF  S53W34    08      B.0A          
+
+5110 +     0241   0245      0252  G12  5   XRA  1-8A      B1.4    7.5E-05   0727
+5110       0243   0243      0243  PAL  G   RBR  245       56                0727
+5110       0245   0248      0251  G12  5   XFL  S09W15    1.5E+02 2.9E+02   0727
+
+5120 +     0403   0406      0409  G12  5   XRA  1-8A      B2.7    6.7E-05   0727
+5120       0406   0408      0408  G12  5   XFL  S09W16    2.5E+02 6.2E+02   0727
+
+5130       0549   ////      0551  LEA  C   RSP  025-180   III/2                 
+
+5140 +     0600   0605      0608  G12  5   XRA  1-8A      B3.4    1.0E-04   0727
+5140       0603   0606      0607  G12  5   XFL  S09W18    5.0E+02 1.5E+03   0727
+
+5150 +     1223   1234      1242  G12  5   XRA  1-8A      B4.9    3.8E-04   0727
+5150       1229   1240      1241  G12  5   XFL  S10W21    7.3E+02 2.2E+03   0727
+
+5160       1332   1332      1332  SAG  G   RBR  245       71                    
+
+5170       1422   1422      1422  SAG  G   RBR  245       51                    
+
+5180 +     1518   1526      1533  G12  5   XRA  1-8A      B1.8    1.4E-04   0727
+5180       1521   1532      1532  G12  5   XFL  S10W23    1.3E+02 2.2E+02   0727
+
+5200       2220   ////      2221  LEA  C   RSP  036-075   III/1                 
+5200       2220   ////      1053  LEA  C   RSP  075-150   CTM/1                 

@@ -1,0 +1,102 @@
+:Product: 20011207events.txt
+:Created: 2005 Jul 27 2016 UT
+:Date: 2001 12 07
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2001 Dec 07
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9740 +     0039   ////      0040  CUL  C   RSP  57-180    III/1                 
+
+9750       0044   ////      0050  CUL  C   RSP  57-90     III/1                 
+
+9760       0140   0140      0140  LEA  G   RBR  245       56                    
+
+9770       0141   ////      0141  CUL  C   RSP  100-280   III/1                 
+
+9780       0233   0307      0347  LEA  2   FLA  N24W15    SF      ERU       9729
+9780       0238   0238      0238  LEA  G   RBR  245       52                9729
+9780 +     0239   ////      0239  CUL  C   RSP  100-260   III/1             9729
+9780       0250   ////      0255  LEA  C   RSP  025-045   II/1    490       9729
+
+9960 +     0256   ////      0256  CUL  C   RSP  57-180    III/1                 
+
+  90       0338   ////      0339  LEA  C   RSP  025-134   III/1                 
+
+9790       0339   ////      0339  CUL  C   RSP  57-180    III/1                 
+
+9800       0435   0439      0442  GO8  5   XRA  1-8A      C2.5    9.0E-04       
+9800       0437   0438      0439  LEA  G   RBR  245       5900                  
+9800       0438   ////      0441  LEA  C   RSP  025-180   III/1                 
+
+9810       0502   0503      0507  LEA  3   FLA  S06W77    SF                9716
+
+ 100       0509   ////      0509  LEA  C   RSP  044-142   III/1                 
+
+9820       0510   0528      0614  GO8  5   XRA  1-8A      C3.9    1.2E-02   9717
+9820       0514   0525      0613  LEA  3   FLA  N02W49    1F      ERU       9717
+9820       0534   ////      0535  LEA  C   RSP  025-148   III/2             9717
+
+9830 +     0727   0727      0728  LEA  G   RBR  245       120                   
+
+9840 +     0735   ////      0738  LEA  C   RSP  025-180   III/1                 
+
+9850 +     0804   0817      0823  GO8  5   XRA  1-8A      C8.2    7.2E-03   9727
+9850 +     0806   0808      0812  LEA  G   RBR  2695      220               9727
+9850 +     0806   0809      0904  LEA  3   FLA  S18E22    2F      ERU       9727
+9850 +     0807   0808      0812  SVI  G   RBR  4995      220               9727
+9850 +     0807   0808      0812  SVI  G   RBR  8800      92                9727
+9850       0808   0808      0809  SVI  G   RBR  15400     30                9727
+
+9860 +     0857   0858      0858  SVI  G   RBR  245       370               9727
+9860 +     0857   0858      0858  SVI  G   RBR  410       300               9727
+9860       0857   0857      0858  SVI  G   RBR  606       220               9727
+9860       0857   0858      0858  SVI  G   RBR  1415      69                9727
+9860 +     0857   ////      0901  SVI  C   RSP  025-180   III/2             9727
+
+9870 +     0946   ////      0946  LEA  C   RSP  025-155   III/1                 
+
+9880       1017   1019      1019  SVI  G   RBR  245       240                   
+9880       1017   1017      1019  SVI  G   RBR  410       130                   
+9880       1017   1017      1017  SVI  G   RBR  606       87                    
+
+9890      B1025   ////      1036  SVI  3   BSL  ////      0.2     B.9A          
+
+9900       1041   1041      1041  SVI  G   RBR  245       100                   
+
+9910       1143   1143      1144  SVI  G   RBR  245       97                    
+
+9920       1157   1159      1202  RAM  3   FLA  N11E00    SF                9724
+
+9930       1253   ////      1253  SVI  C   RSP  025-139   III/1                 
+
+9940       1334   ////      1339  SVI  C   RSP  025-143   III/2                 
+
+9950       1407   ////      1408  SVI  U   RSP  113-180   III/1                 
+
+9970       1511   1511      1511  SAG  G   RBR  245       54                    
+
+  70       1642   1705      1733  GO8  5   XRA  1-8A      C4.1    1.0E-02       
+
+9980       1700   ////      1701  HOL  C   RSP  025-116   III/1                 
+
+9990       1743   1743      1818  RAM  3   FLA  S16E24    SF      ERU       9730
+
+  10 +     1859   1901      1905  COM  3   FLA  N03E64    SF                9732
+
+  20       1906   ////      1906  PAL  C   RSP  025-134   III/1                 
+
+  30 +     1928   1928      1928  SAG  G   RBR  245       330                   
+
+  40 +     1932   1932      1933  SAG  G   RBR  245       310                   
+
+  50 +     2157   ////      2157  LEA  C   RSP  025-180   III/2                 
+
+  60       2247   ////      2249  LEA  C   RSP  025-180   III/1                 
+
+  80       2341   ////      2342  LEA  C   RSP  025-128   III/1                 

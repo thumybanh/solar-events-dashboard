@@ -1,0 +1,22 @@
+:Product: 20050105events.txt
+:Created: 2005 Jan 08 0302 UT
+:Date: 2005 01 05
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2005 Jan 05
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 780       0054   ////     A0413  LEA  3   DSF  S03W31    03      B.0A          
+
+ 770       0403   0522      0544  G12  5   XRA  1-8A      B8.2    3.2E-03   0715
+
+ 760       0452   0452      0452  LEA  G   RBR  606       64                    
+
+ 820       1307   ////      1422  SVI  3   DSF  N25E27    31      B.0A          
+
+ 810      A2133   ////     B1438  HOL  3   DSF  N01E14    34      B.0A          

@@ -1,0 +1,24 @@
+:Product: 20031017events.txt
+:Created: 2003 Oct 20 0302 UT
+:Date: 2003 10 17
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Environment Center.
+# Please send comments and suggestions to SEC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 30 minutes.
+#                            Edited Events for 2003 Oct 17
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1410 +     0152   0156      0200  G12  5   XRA  1-8A      B2.9    1.3E-04   0477
+
+1420 +     0423   0426      0429  G12  5   XRA  1-8A      B3.1    1.0E-04   0482
+
+1430 +     0655   0701      0708  G12  5   XRA  1-8A      B9.0    5.3E-04   0482
+
+1440 +     0859   0932      1006  G12  5   XRA  1-8A      B8.9    2.8E-03       
+
+1450       1553   ////      1553  HOL  C   RSP  025-085   III/1                 
+
+1460 +     1719   1723      1729  G12  5   XRA  1-8A      B2.2    1.1E-04   0482

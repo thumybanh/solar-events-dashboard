@@ -6,10 +6,11 @@ from datetime import date, timedelta
 
 # absolute paths so this works from any working directory (cron and CI runners)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-NOAA_DIR = os.path.join(BASE_DIR, 'noaa_data')
+DATA_DIR = os.path.join(os.path.dirname(BASE_DIR), 'data')
+NOAA_DIR = os.path.join(DATA_DIR, 'noaa_data')
 # dates NOAA has no report for, even in its yearly archive — kept so we don't re-download
 # a whole year's archive every run just to find the same day still missing
-UNAVAILABLE_PATH = os.path.join(BASE_DIR, 'noaa_unavailable.txt')
+UNAVAILABLE_PATH = os.path.join(DATA_DIR, 'noaa_unavailable.txt')
 
 FTP_HOST = 'ftp.swpc.noaa.gov'
 FTP_DIR = 'pub/indices/events'   # one file per day, but only from 2015-06-29 onward

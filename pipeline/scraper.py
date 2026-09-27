@@ -9,7 +9,8 @@ INDEX_URL = "https://www.lmsal.com/solarsoft/latest_events_archive.html"
 
 # absolute paths so the scripts work from any working directory (cron runs them from $HOME)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-EVENTS_PATH = os.path.join(BASE_DIR, 'events.json')
+DATA_DIR = os.path.join(os.path.dirname(BASE_DIR), 'data')
+EVENTS_PATH = os.path.join(DATA_DIR, 'events.json')
 
 ARCHIVE_START = '20020926' # first LMSAL event (gev_20020926_1140); oldest snapshot is 20021001
 

@@ -176,7 +176,7 @@ all totals now sum raw excess.
   so 23,360 = 23,360 holds by construction whether or not the model is right. Removed.
 
 Every window from 0 to 30 minutes gives 61.5%-63.0% HIGH, so the headline figure is robust to the
-choice. Reproduce with `python window_optimization.py` (read-only).
+choice. Reproduce with `python analysis/window_optimization.py` (read-only).
 
 ### 4c. Duplicate NOAA files
 

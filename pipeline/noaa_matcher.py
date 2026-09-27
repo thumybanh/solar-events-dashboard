@@ -5,6 +5,12 @@
 import json
 import os
 
+# absolute paths so this works from any working directory (cron and CI runners)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(os.path.dirname(BASE_DIR), 'data')
+EVENTS_PATH = os.path.join(DATA_DIR, 'events.json')
+NOAA_DIR = os.path.join(DATA_DIR, 'noaa_data')
+
 # An LMSAL event matches a NOAA event when they share a date and GOES class and their begin times
 # fall within this many minutes.
 #
@@ -104,8 +110,8 @@ def to_minutes(timestamp):
 
 def load_noaa_data():
     noaa_by_date = {} # group by date so each LMSAL event only compares against NOAA rows from its own day
-    for fileName in os.listdir('noaa_data'):
-        results = parse_noaa_file(os.path.join('noaa_data', fileName))
+    for fileName in os.listdir(NOAA_DIR):
+        results = parse_noaa_file(os.path.join(NOAA_DIR, fileName))
         noaa_list.extend(results) # use extend because 'extend' add each item individually -> flat list instead of adds whole list as one item like append
         for r in results:
             if r['date'] is not None:
@@ -115,7 +121,7 @@ def load_noaa_data():
 
 def match_events(noaa_by_date) :
      LMSAL_events = []
-     with open('events.json', 'r') as f:
+     with open(EVENTS_PATH, 'r') as f:
         events = json.load(f)
         for event in events:
                 LMSALdate = event['event_start'].split(' ')[0].replace('/','')
@@ -183,7 +189,7 @@ def convert_position(LMSAL_position):
 if __name__ == '__main__':
     LMSAL_list = match_events(load_noaa_data())
 
-    with open('events.json', 'w') as f:
+    with open(EVENTS_PATH, 'w') as f:
          json.dump(LMSAL_list, f, indent=2)
 
     print(f"matched {len(LMSAL_list)} events, HIGH: {sum(1 for e in LMSAL_list if e['quality_flag'] == 'HIGH')}")

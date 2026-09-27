@@ -1,10 +1,13 @@
 import json
 import os
+import sys
 from datetime import datetime, timezone
 
 from fastapi import FastAPI, BackgroundTasks, HTTPException, Query, Response
 from fastapi.middleware.cors import CORSMiddleware
 
+# the pipeline scripts live in pipeline/ and import each other by bare name, so put that folder on the path
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pipeline'))
 from daily_scraper import run_daily_scraper
 from scraper import EVENTS_PATH
 

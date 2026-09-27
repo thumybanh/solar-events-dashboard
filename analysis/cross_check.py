@@ -16,11 +16,12 @@ import re
 import sys
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, BASE_DIR)
+REPO_DIR = os.path.dirname(BASE_DIR)
+sys.path.insert(0, os.path.join(REPO_DIR, 'pipeline'))
 from noaa_matcher import parse_noaa_file, to_minutes
 
-EVENTS_PATH = os.path.join(BASE_DIR, 'events.json')
-NOAA_DIR = os.path.join(BASE_DIR, 'noaa_data')
+EVENTS_PATH = os.path.join(REPO_DIR, 'data', 'events.json')
+NOAA_DIR = os.path.join(REPO_DIR, 'data', 'noaa_data')
 CANONICAL = re.compile(r'^(\d{8})events\.txt$')
 
 PAIR_WINDOW = 2   # minutes on begin time, for forming pairs

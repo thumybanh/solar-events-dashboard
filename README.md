@@ -7,21 +7,46 @@ A full-stack web application for exploring, filtering, and visualizing solar fla
 ## Project Structure
  
 ```
-LMSAL/
-├── scraper.py            # One-time full scrape of all events from 2015 to present
-├── daily_scraper.py      # Resumes from the newest event in events.json (run daily)
-├── api.py                # FastAPI backend — serves event data
-├── noaa_downloader.py    # Downloads NOAA event txt files via FTP
-├── noaa_matcher.py       # Parses NOAA data + assigns quality flags
-├── coordinates.py        # Converts derived position to pixel coordinates
-├── events.json           # Scraped + processed event database
-├── noaa_data/            # Downloaded NOAA txt files
-├── requirements.txt      # Python dependencies
-└── frontend/
-    └── src/
-        ├── App.jsx       # React frontend dashboard
-        └── index.css     # Global styles
+solar-events-dashboard/
+├── api.py                      # FastAPI backend — serves event data
+├── requirements.txt            # Python dependencies
+├── procfile, railway.json      # Deployment: both start `uvicorn api:app`
+├── README.md
+├── NOTES.md                    # Working notes: findings and open questions
+│
+├── pipeline/                   # Builds and updates the dataset (run in this order)
+│   ├── scraper.py              # Full scrape of every LMSAL event since 2002-09-26
+│   ├── daily_scraper.py        # Resumes from the newest event in events.json (run daily)
+│   ├── noaa_downloader.py      # Downloads NOAA event txt files via FTP
+│   ├── noaa_matcher.py         # Parses NOAA data + assigns quality flags
+│   └── coordinates.py          # Converts derived position to pixel coordinates
+│
+├── data/                       # The dataset (written by pipeline/, read by api.py)
+│   ├── events.json             # Scraped + processed event database
+│   ├── noaa_data/              # Downloaded NOAA txt files, one per day (YYYYMMDDevents.txt)
+│   └── noaa_unavailable.txt    # Dates NOAA has no report for, so they aren't re-downloaded
+│
+├── analysis/                   # Research scripts — read data/, never modify it
+│   ├── compare_events.py       # Field-by-field LMSAL vs NOAA comparison
+│   ├── cross_check.py          # Class disagreements between matched events
+│   ├── timing_analysis.py      # Begin-time differences between the catalogues
+│   ├── window_optimization.py  # Derives the matching window
+│   ├── window_significance.py  # Significance test for each window width
+│   ├── flare_match_tolerance_sweep.py  # Match counts as each tolerance loosens
+│   └── results/                # CSV outputs of the scripts above
+│
+├── frontend/                   # React + Vite dashboard
+│   └── src/
+│       ├── App.jsx             # Dashboard UI
+│       └── index.css           # Global styles
+│
+└── .github/workflows/
+    └── daily-update.yml        # Runs pipeline/ daily and commits the new data
 ```
+
+Every script finds its files relative to its own location, so it can be run from any folder:
+`python pipeline/daily_scraper.py` from the repo root and
+`python ~/path/to/repo/pipeline/daily_scraper.py` from anywhere else do the same thing.
  
 ---
  
@@ -52,13 +77,13 @@ npm install
  
 **Terminal 1 — Start the FastAPI backend:**
 ```bash
-cd path/to/LMSAL
+cd path/to/solar-events-dashboard
 /opt/miniconda3/bin/python -m uvicorn api:app --reload
 ```
  
 **Terminal 2 — Start the React frontend:**
 ```bash
-cd path/to/LMSAL/frontend
+cd path/to/solar-events-dashboard/frontend
 npm run dev
 ```
  
@@ -67,16 +92,18 @@ npm run dev
 ---
  
 ## Scripts — Run in Order
+
+Run these from the repo root. They live in `pipeline/` and read and write `data/`.
  
 ### 1. Scrape All Historical LMSAL Events (run once)
 ```bash
-/opt/miniconda3/bin/python scraper.py
+/opt/miniconda3/bin/python pipeline/scraper.py
 ```
-Scrapes all solar flare events from the LMSAL archive starting from July 1, 2015 up to today. Merges with existing `events.json` without overwriting historical data. Only needs to be run once to build the initial database.
+Scrapes all solar flare events from the LMSAL archive starting from the first LMSAL event (2002-09-26) up to today. Merges with existing `data/events.json` without overwriting historical data. Only needs to be run once to build the initial database.
  
 ### 2. Update with New Events (run daily)
 ```bash
-/opt/miniconda3/bin/python daily_scraper.py
+/opt/miniconda3/bin/python pipeline/daily_scraper.py
 ```
 Resumes from the newest event already in `events.json` and scrapes every LMSAL snapshot from that date forward. Merges new events into the existing `events.json` without touching historical data.
 
@@ -90,18 +117,18 @@ To automate daily updates using macOS crontab:
 crontab -e
  
 # Add this line to run at midnight every day
-0 0 * * * /opt/miniconda3/bin/python /path/to/LMSAL/daily_scraper.py
+0 0 * * * /opt/miniconda3/bin/python /path/to/solar-events-dashboard/pipeline/daily_scraper.py
 ```
  
 ### 3. Download NOAA Data
 ```bash
-/opt/miniconda3/bin/python noaa_downloader.py
+/opt/miniconda3/bin/python pipeline/noaa_downloader.py
 ```
-Connects to the NOAA FTP server (`ftp.swpc.noaa.gov`) and downloads event txt files for each unique date present in `events.json`. Files saved to `noaa_data/`. Automatically skips dates where NOAA has no data.
+Connects to the NOAA FTP server (`ftp.swpc.noaa.gov`) and downloads event txt files for each unique date present in `events.json`. Files saved to `data/noaa_data/`. Automatically skips dates where NOAA has no data.
  
 ### 4. Match & Assign Quality Flags
 ```bash
-/opt/miniconda3/bin/python noaa_matcher.py
+/opt/miniconda3/bin/python pipeline/noaa_matcher.py
 ```
 Parses NOAA txt files and compares each LMSAL event against NOAA data. Assigns a `quality_flag` to each event based on time difference and GOES class matching:
  
@@ -116,7 +143,7 @@ for how the window was derived.
  
 ### 5. Calculate Pixel Coordinates
 ```bash
-/opt/miniconda3/bin/python coordinates.py
+/opt/miniconda3/bin/python pipeline/coordinates.py
 ```
 Converts each event's derived position (e.g. `S11W04`) to pixel coordinates (`pix_x`, `pix_y`) on a 512x512 solar image using heliographic coordinate transformation:
  
@@ -208,16 +235,16 @@ day's state of the data and reproduced later.
  
 ```
 First time setup:
-1. Run scraper.py          → builds full historical database (2015 to now)
-2. Run noaa_downloader.py  → downloads NOAA comparison files
-3. Run noaa_matcher.py     → assigns quality flags
-4. Run coordinates.py      → adds pixel coordinates
+1. python pipeline/scraper.py          → builds full historical database (2002 to now)
+2. python pipeline/noaa_downloader.py  → downloads NOAA comparison files
+3. python pipeline/noaa_matcher.py     → assigns quality flags
+4. python pipeline/coordinates.py      → adds pixel coordinates
  
 Daily maintenance:
-1. Run daily_scraper.py    → adds every event since the newest one on file
-2. Run noaa_downloader.py  → downloads any new NOAA files
-3. Run noaa_matcher.py     → updates quality flags
-4. Run coordinates.py      → updates pixel coordinates
+1. python pipeline/daily_scraper.py    → adds every event since the newest one on file
+2. python pipeline/noaa_downloader.py  → downloads any new NOAA files
+3. python pipeline/noaa_matcher.py     → updates quality flags
+4. python pipeline/coordinates.py      → updates pixel coordinates
 ```
  
 ---
@@ -425,7 +452,7 @@ than corroboration.
 None of this is load-bearing: HIGH is 61.8% at W=1, 62.0% at W=2, 62.1% at W=3, 62.2% at W=4, and
 62.4% at W=10. The window is not what determines the quality split.
  
-Reproduce with `python window_optimization.py` and `python timing_analysis.py`. Both are read-only.
+Reproduce with `python analysis/window_optimization.py` and `python analysis/timing_analysis.py`. Both are read-only.
  
 ### What drives the LOW population
  

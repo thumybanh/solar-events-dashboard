@@ -9,11 +9,12 @@ import re
 import statistics
 import sys
 
-sys.path.insert(0, '/Users/mybanh/Desktop/LMSAL')
+REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(REPO_DIR, 'pipeline'))
 from noaa_matcher import parse_noaa_file
 
-EVENTS = '/Users/mybanh/Desktop/LMSAL/events.json'
-NOAA_DIR = '/Users/mybanh/Desktop/LMSAL/noaa_data'
+EVENTS = os.path.join(REPO_DIR, 'data', 'events.json')
+NOAA_DIR = os.path.join(REPO_DIR, 'data', 'noaa_data')
 
 # noaa_data also holds duplicate copies named "...events 2.txt" / " 3" / " 4" whose dates
 # parse to garbage. Only the canonical filenames are read here.

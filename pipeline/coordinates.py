@@ -2,6 +2,8 @@ import math
 import noaa_matcher
 import json
 
+EVENTS_PATH = noaa_matcher.EVENTS_PATH
+
 CDELT = 0.600000023842
 HPCCENTER = 4096.0 / 2.0
 
@@ -61,7 +63,7 @@ def convertHCC_HPC(x, y):
     return hpcx, hpcy
 
 
-with open('events.json', 'r') as f: 
+with open(EVENTS_PATH, 'r') as f: 
     events = json.load(f)
 
     missing = 0
@@ -79,5 +81,5 @@ with open('events.json', 'r') as f:
         event['pix_y'] = pix_y
     print(f"converted {len(events) - missing} positions, {missing} skipped (blank position)")
     
-with open('events.json', 'w') as w: 
+with open(EVENTS_PATH, 'w') as w: 
     json.dump(events, w, indent = 2)

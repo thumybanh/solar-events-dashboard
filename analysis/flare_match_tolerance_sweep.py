@@ -26,12 +26,11 @@ finding new matches, the two catalogs genuinely disagree on that field.
  
 HOW TO RUN THIS
 ----------------
-1. Put this file in the SAME folder as events.json and the noaa_data/
-   folder (the repo root).
-2. In a terminal, in that folder, run:
-       python3 flare_match_tolerance_sweep.py
-3. It prints a short summary and writes flare_match_tolerance_sweep.csv
-   in the same folder.
+1. From the repo root, run:
+       python3 analysis/flare_match_tolerance_sweep.py
+   It reads data/events.json and data/noaa_data/, so it works from any folder.
+2. It prints a short summary and writes
+   analysis/results/flare_match_tolerance_sweep.csv.
  
 No installs needed -- everything used here is in Python's standard
 library (json, re, csv, os, datetime, bisect).
@@ -44,10 +43,11 @@ from datetime import datetime, timedelta
 """
 STEP 0: setings that can be modify 
 """
-REPO_DIR = os.path.dirname(os.path.abspath(__file__)) # folder this script is in
-EVENTS_JSON = os.path.join(REPO_DIR, "events.json")
-NOAA_DIR = os.path.join(REPO_DIR, "noaa_data")
-OUTPUT_CSV = os.path.join(REPO_DIR, "flare_match_tolerance_sweep.csv")
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__)) # analysis/
+REPO_DIR = os.path.dirname(SCRIPT_DIR)
+EVENTS_JSON = os.path.join(REPO_DIR, "data", "events.json")
+NOAA_DIR = os.path.join(REPO_DIR, "data", "noaa_data")
+OUTPUT_CSV = os.path.join(SCRIPT_DIR, "results", "flare_match_tolerance_sweep.csv")
 MAX_TOLERANCE_MINUTES = 100 # the sweep run from 0 to 100 minutes inclusive
 
 CLASS_RE = re.compile(r"[ABCMX]\d+(\.\d+)?")  # a GOES class like "M1.4" or "C9"

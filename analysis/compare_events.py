@@ -4,7 +4,7 @@ For every LMSAL event, finds its best NOAA counterpart on the same date (nearest
 ignored when choosing so that class agreement can be reported rather than assumed) and writes one
 CSV row with both sources' begin / peak / end times and the differences between them.
 
-Output: comparison.csv   Read-only with respect to events.json.
+Output: results/comparison.csv   Read-only with respect to events.json.
 """
 import collections
 import csv
@@ -14,12 +14,13 @@ import re
 import sys
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, BASE_DIR)
+REPO_DIR = os.path.dirname(BASE_DIR)
+sys.path.insert(0, os.path.join(REPO_DIR, 'pipeline'))
 from noaa_matcher import parse_noaa_file, to_minutes
 
-EVENTS_PATH = os.path.join(BASE_DIR, 'events.json')
-NOAA_DIR = os.path.join(BASE_DIR, 'noaa_data')
-OUT_PATH = os.path.join(BASE_DIR, 'comparison.csv')
+EVENTS_PATH = os.path.join(REPO_DIR, 'data', 'events.json')
+NOAA_DIR = os.path.join(REPO_DIR, 'data', 'noaa_data')
+OUT_PATH = os.path.join(BASE_DIR, 'results', 'comparison.csv')
 CANONICAL = re.compile(r'^(\d{8})events\.txt$')
 
 SEARCH_WINDOW = 30   # minutes; how far to look for a counterpart before calling it unmatched

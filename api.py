@@ -54,7 +54,12 @@ def filter_events(start_date, end_date, goes_class, quality_flag):
     if start_date:
         events = [e for e in events if e['event_start'] >= start_date.replace('-', '/')]
     if end_date:
-        events = [e for e in events if e['event_start'] <= end_date.replace('-', '/')]
+        # a bare date like "2024/05/15" sorts before "2024/05/15 08:13:00", so extend it to the end of that day
+        # or every event on the end date gets left out
+        end = end_date.replace('-', '/')
+        if len(end) == 10:
+            end += ' 23:59:59'
+        events = [e for e in events if e['event_start'] <= end]
     if goes_class:
         events = [e for e in events if e['event_GOES'].startswith(goes_class)]
     if quality_flag:

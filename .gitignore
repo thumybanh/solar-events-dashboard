@@ -1,5 +1,7 @@
-/.DS_Store__pycache__/
 .DS_Store
 __pycache__/
-node_modules
 node_modules/
+*.egg-info/
+.pytest_cache/
+venv/
+.zshrc

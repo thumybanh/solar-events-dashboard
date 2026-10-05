@@ -130,22 +130,39 @@ Connects to the NOAA FTP server (`ftp.swpc.noaa.gov`) and downloads event txt fi
 ```bash
 /opt/miniconda3/bin/python pipeline/noaa_matcher.py
 ```
-Parses NOAA txt files and compares each LMSAL event against NOAA data. Assigns a `quality_flag` to each event based on time difference and GOES class matching:
+Parses every NOAA `XRA` flare into `data/noaa_events.json` (via `pipeline/noaa_events.py`) and
+flags LMSAL events and NOAA flares against each other. Both catalogues get a `quality_flag`:
  
 | Flag | Condition |
 |------|-----------|
-| `HIGH` | NOAA event on the same date, same GOES class, begin times within `MATCH_WINDOW_MINUTES` |
-| `LOW` | No such match found |
+| `HIGH` | The other catalogue has a flare on the same date, same GOES class, begin times within `MATCH_WINDOW_MINUTES` (3) |
+| `LOW` | The other catalogue has a flare starting within the window, but of a different class |
+| `N/A` | The other catalogue has nothing starting within the window (or this flare has no begin time or class) |
+ 
+The closest same-class flare is recorded as `matched_noaa_id` / `matched_lmsal_id`. NOAA flares
+before 2002-09-26 are all `N/A`, since LMSAL's catalogue starts then.
  
 Only `XRA` (X-Ray Activity) type NOAA events are used since those are the only ones with GOES
-classifications. See **Quality Flag Logic** below for what the flag does and does not measure, and
+classifications. Every `XRA` line is kept; a field NOAA left blank (`////`) is stored as `null`
+and shown as `N/A`. A flare's location comes from the `FLA` (H-alpha) line with the same event
+number, when there is one. See **Quality Flag Logic** below for what the flag does and does not measure, and
 for how the window was derived.
  
-### 5. Calculate Pixel Coordinates
+### 5. Download the SciQuality Report
+```bash
+/opt/miniconda3/bin/python pipeline/sciquality_downloader.py
+/opt/miniconda3/bin/python pipeline/sciquality_events.py
+```
+Fetches the newest NCEI science-quality GOES XRS flare report into `data/goes_sciquality/` (it only
+replaces the current file if the new one has the same columns and no fewer flares) and converts it to
+`data/sciquality_events.json`. Fluxes are kept as published — unscaled, unlike SWPC/LMSAL before
+2019-12-09. SciQuality flares are not flagged against the other catalogues.
+
+### 6. Calculate Pixel Coordinates
 ```bash
 /opt/miniconda3/bin/python pipeline/coordinates.py
 ```
-Converts each event's derived position (e.g. `S11W04`) to pixel coordinates (`pix_x`, `pix_y`) on a 512x512 solar image using heliographic coordinate transformation:
+Converts each flare's position in all three catalogues (e.g. `S11W04`) to pixel coordinates (`pix_x`, `pix_y`) on a 512x512 solar image using heliographic coordinate transformation:
  
 ```
 HGS (lat/lon degrees)
@@ -169,19 +186,34 @@ Interactive documentation is served at `/docs` on any running instance.
 | `GET /events` | Filtered event list (paginated) |
 | `GET /events/{event_id}` | A single event, e.g. `gev_20260901_0054` |
 | `GET /events/download/` | Same filters, returned as a file attachment with no row limit |
+| `GET /noaa/events`, `/noaa/events/download`, `/noaa/events/{id}`, `/noaa/stats` | The same for NOAA/SWPC X-ray flares; ids look like `noaa_20240514_3040` |
+| `GET /sciquality/events`, `/sciquality/events/download`, `/sciquality/events/{id}`, `/sciquality/stats` | The same for the NCEI science-quality report; ids look like `sq_202405141646` |
+| `GET /compare` | Chart data for any of the three sources (see below) |
  
 ### Query parameters
  
-Accepted by `/events` and `/events/download/`:
+Accepted by every list and download endpoint:
  
 | Parameter | Example | Description |
 |-----------|---------|-------------|
-| `start_date` | `2026-04-01` | Events starting on or after this date |
-| `end_date` | `2026-04-30` | Events starting on or before this date |
-| `goes_class` | `M` or `C1` | GOES class prefix match |
-| `quality_flag` | `HIGH` | Filter by NOAA cross-check result |
-| `limit` | `500` | Rows per page — `/events` only, default 1000, max 30000 |
-| `offset` | `1000` | Row to start from — `/events` only |
+| `start_date` | `2026-04-01` | Flares starting on or after this date (a time, `2026-04-01 10:30`, also works) |
+| `end_date` | `2026-04-30` | Flares starting on or before this date (the whole day) |
+| `goes_class` | `M`, `X1`, `C2.5` | A family, a class bin (`X1` = X1.0 to X1.9, not X10+), or a class at the precision given |
+| `active_region` | `13664`, `3664`, `AR3664` | NOAA active region (stored as the 4-digit number) |
+| `quality_flag` | `HIGH`, `LOW`, `N/A` | LMSAL and NOAA only |
+| `limit` | `500` | Rows per page — list endpoints only, default 1000, max 30000 |
+| `offset` | `1000` | Row to start from — list endpoints only |
+ 
+A value the API can't use returns `400` with a message saying what it expected, e.g.
+`{"detail": "goes_class must look like X, X1 or X1.5, got 'Z9'"}`, rather than an empty list.
+A flare whose field is missing never matches a filter on that field; a NOAA flare without a begin
+time is still found by date, using its report's date.
+
+`/compare?sources=lmsal,noaa,sciquality` takes the same date, class and region filters. For ranges
+of 31 days or less it returns each flare (`mode: "flares"`: peak time, class, flux); for longer
+ranges it returns counts per day (up to a year), month (up to 10 years) or year (`mode: "counts"`),
+with every bin present. It also returns per-source `totals`, each source's `coverage` start date,
+and `notes` for the figure caption.
  
 `/events` returns a plain JSON array, ordered newest first — so page 1 is the most recent data.
 The total number of matching events, ignoring pagination, is returned in the `X-Total-Count`
@@ -222,9 +254,13 @@ CORS is open, so the API can be called directly from browser-based tools and not
 `.github/workflows/daily-update.yml` runs the full pipeline every day at 06:00 UTC and commits
 the refreshed data back to the repository. It can also be triggered by hand from the Actions tab.
  
-The workflow refuses to commit if the event count ever drops, since the pipeline only ever adds
-events — a decrease would mean something parsed wrong. A failed NOAA download does not fail the
-run, because the next run retries every date still missing.
+It also fetches the newest SciQuality report and rebuilds `data/noaa_events.json` and
+`data/sciquality_events.json`.
+
+The workflow refuses to commit if the flare count of any of the three files drops, since the
+pipeline only ever adds flares — a decrease would mean something parsed wrong. A failed NOAA or
+SciQuality download does not fail the run: NOAA retries every missing date next time, and SciQuality
+keeps yesterday's report.
  
 Because each update is a commit, the dataset is versioned: an analysis can be pinned to a specific
 day's state of the data and reproduced later.
@@ -237,14 +273,17 @@ day's state of the data and reproduced later.
 First time setup:
 1. python pipeline/scraper.py          → builds full historical database (2002 to now)
 2. python pipeline/noaa_downloader.py  → downloads NOAA comparison files
-3. python pipeline/noaa_matcher.py     → assigns quality flags
-4. python pipeline/coordinates.py      → adds pixel coordinates
- 
+3. python pipeline/sciquality_downloader.py → downloads the NCEI science-quality report
+4. python pipeline/sciquality_events.py    → builds sciquality_events.json
+5. python pipeline/noaa_matcher.py     → builds noaa_events.json, flags LMSAL and NOAA
+6. python pipeline/coordinates.py      → adds pixel coordinates to all three
+
 Daily maintenance:
 1. python pipeline/daily_scraper.py    → adds every event since the newest one on file
 2. python pipeline/noaa_downloader.py  → downloads any new NOAA files
-3. python pipeline/noaa_matcher.py     → updates quality flags
-4. python pipeline/coordinates.py      → updates pixel coordinates
+3. python pipeline/sciquality_downloader.py && python pipeline/sciquality_events.py
+4. python pipeline/noaa_matcher.py     → updates NOAA flares and quality flags
+5. python pipeline/coordinates.py      → updates pixel coordinates
 ```
  
 ---
@@ -259,7 +298,12 @@ Returns filtered list of solar events.
 |-----------|--------|---------|
 | `start_date` | YYYY-MM-DD | `2026-02-16` |
 | `end_date` | YYYY-MM-DD | `2026-02-19` |
-| `goes_class` | Letter prefix | `C` or `M` |
+| `goes_class` | Family, bin or class | `C`, `M1`, `X1.5` |
+| `active_region` | Region number | `13664` or `AR3664` |
+| `quality_flag` | `HIGH`, `LOW`, `N/A` | `N/A` |
+
+The same parameters work on `/noaa/events` and `/sciquality/events` (no `quality_flag` there);
+see **API Reference** above.
  
 **Examples:**
 ```
@@ -294,15 +338,23 @@ http://localhost:8000/scrape
  
 ## Frontend Features
  
-- **Filter by date range** — start and end date pickers
-- **Filter by GOES class** — search input (e.g. `C`, `M`, `X`)
-- **URL filtering** — filter by typing directly in the URL: `http://localhost:5173?goes_class=C`
-- **Download CSV** — downloads currently filtered events as CSV
-- **Download JSON** — downloads currently filtered events as JSON
-- **Quality flag column** — shows HIGH/LOW data quality for each event
-- **Solar image popup** — click any event name to view:
-  - SDO/HMI Magnetogram from ISWA closest to event time (rounded to nearest 15 minutes)
-  - Red dot plotted at the event's derived position on the solar disk
+- **Source tabs** — `LMSAL | NOAA | SciQuality | Compare`; each source has its own table and columns
+- **Filters** — date range, GOES class, active region, and quality flag (LMSAL and NOAA); the API's
+  error message shows next to the form when a value can't be used
+- **Missing values** — shown as `N/A`, so a flare is never hidden because one detail is missing
+- **Download CSV / JSON** — the full filtered set for the current source, not just the page on screen
+- **Solar image popup** — click a flare ID to see all its details, what its flag means, and the
+  SDO/HMI magnetogram from ISWA nearest its time (15-minute steps), with a red dot at its position
+  when one is recorded
+- **Compare page** — search once and chart the catalogues together: each flare by peak flux for up to
+  31 days, or flares per day/month/year for longer ranges. Paper-style figure (each source has a fixed
+  color, dash and marker, so it reads in black-and-white too), a caption with the data notes, and
+  "Download figure (SVG)" / "Download data (CSV)". "Compare these" on any table opens it with the
+  same filters.
+- **Shareable URLs** — the tab and filters live in the address bar (e.g.
+  `?view=compare&start=2024-05-01&end=2024-05-31`), so Back works and a search can be sent as a link
+- **API address** — set `VITE_API_BASE` when building to point at a deployed API (default
+  `http://localhost:8000`)
 ---
  
 ## Event Data Fields
@@ -318,11 +370,23 @@ Each event in `events.json` contains:
 | `event_GOES` | GOES classification | `C1.0` |
 | `event_position` | Derived heliographic position | `S18E10` |
 | `seen_in_dates` | LMSAL snapshot URLs where event appeared | `[...]` |
-| `quality_flag` | NOAA comparison result | `HIGH` or `LOW` |
+| `quality_flag` | NOAA comparison result | `HIGH`, `LOW` or `N/A` |
+| `matched_noaa_id` | The NOAA flare it matched (HIGH only) | `noaa_20260216_1520` |
 | `end_time_diff` | LMSAL stop minus NOAA end, in minutes; `null` when unavailable | `0` |
 | `pix_x` | X pixel coordinate on 512x512 image | `300.5` |
 | `pix_y` | Y pixel coordinate on 512x512 image | `210.3` |
  
+`data/noaa_events.json` holds one record per NOAA `XRA` flare: `event_id`, `date`, `begin`, `peak`,
+`end` (`YYYY-MM-DD HH:MM:00`), `goes_class`, `observatory`, `active_region`, `location`,
+`quality_flag`, `matched_lmsal_id`, `pix_x`, `pix_y`.
+
+`data/sciquality_events.json` holds one record per NCEI flare: `event_id`, `start`, `peak`, `end`,
+`goes_class`, `peak_flux` and `background_flux` (W m⁻², as published), `satellite`,
+`active_region`, `location` and `location_source` (`XRS`-derived from 2017, else `SWPC`), `pix_x`,
+`pix_y`.
+
+Any field the source left blank is `null`.
+
 ---
  
 ## Data Sources
@@ -331,6 +395,7 @@ Each event in `events.json` contains:
 |--------|-----|-------------|
 | LMSAL Archive | `https://www.lmsal.com/solarsoft/latest_events_archive.html` | Solar flare event snapshots |
 | NOAA FTP | `ftp://ftp.swpc.noaa.gov/pub/indices/events` | Daily solar event reports |
+| NCEI SciQuality | `https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/multi/l2/data/xrsf-l2-flrpt_science/csv/` | Science-quality GOES XRS flare report |
 | ISWA Images | `https://iswa.ccmc.gsfc.nasa.gov/iswa_data_tree/observation/solar/sdo/hmi-magnetogram_2048x2048/` | SDO/HMI magnetogram images |
  
 ---
@@ -354,14 +419,20 @@ Each event in `events.json` contains:
 >
 > Anyone using this dataset for that purpose should establish LMSAL's independence first.
  
-Each LMSAL event is compared against NOAA/GOES XRA events for the same date:
+Each LMSAL event is compared against NOAA/GOES XRA events for the same date, and each NOAA flare
+against LMSAL events, with the same rule:
  
 ```
-HIGH quality → same date + begin time within ±10 minutes + same GOES class
-LOW quality  → no match found, or missing GOES class or timestamps
+HIGH → the other catalogue has a flare with the same GOES class starting within ±3 minutes
+LOW  → the other catalogue has a flare starting within ±3 minutes, but of a different class
+N/A  → the other catalogue has nothing starting within ±3 minutes,
+       or this flare has no begin time or class to compare
 ```
  
-NOAA data only includes `XRA` (X-Ray Activity) type events since those are the only ones with GOES classifications. Events with `////` (missing data) are automatically assigned `LOW` quality.
+NOAA data only includes `XRA` (X-Ray Activity) type events since those are the only ones with GOES
+classifications. Until 2026-10-05, `LOW` covered both of today's `LOW` and `N/A`; splitting them
+left `HIGH` unchanged (the same 36,134 events) and showed that about three in four former `LOW`
+events have no NOAA flare at that time at all.
  
 ### Choosing the matching window
  

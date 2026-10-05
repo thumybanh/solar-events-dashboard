@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { getJSON, downloadURL } from './api.js'
 import { SOURCES, cell, flagHelp } from './sources.js'
+import { FIRST_HMI_IMAGE, imageFor } from './solarImage.js'
 
 const PAGE_SIZE = 100 // rendering all ~50k rows at once locks up the browser
 
@@ -29,22 +30,10 @@ function Pagination({page, total, onChange}){
   )
 }
 
-// ISWA keeps an HMI magnetogram every 15 minutes, so round the flare time to the nearest one.
-// Done with a UTC Date so 23:53 rounds to 00:00 the next day instead of an hour "24".
-const imageFor = (time) => {
-  const [date, clock = '00:00'] = time.replace(/\//g, '-').split(' ')
-  const [y, m, d] = date.split('-').map(Number)
-  const [h, min] = clock.split(':').map(Number)
-  const t = new Date(Date.UTC(y, m - 1, d, h, Math.round(min / 15) * 15))
-  const pad = (n) => String(n).padStart(2, '0')
-  const ymd = `${t.getUTCFullYear()}${pad(t.getUTCMonth() + 1)}${pad(t.getUTCDate())}`
-  return `https://iswa.ccmc.gsfc.nasa.gov/iswa_data_tree/observation/solar/sdo/hmi-magnetogram_2048x2048/` +
-    `${t.getUTCFullYear()}/${pad(t.getUTCMonth() + 1)}/${ymd}_${pad(t.getUTCHours())}${pad(t.getUTCMinutes())}00_2048_HMIB.jpg`
-}
-
 function FlarePopup({event, source, onClose}){
   const hasDot = event.pix_x !== null && event.pix_x !== undefined
   const time = source.imageTime(event)
+  const image = time && imageFor(time)
   return (
     <div className="overlay" onClick={onClose}>
       <div className="popup" onClick={e => e.stopPropagation()} role="dialog" aria-label={event.event_id}>
@@ -56,14 +45,14 @@ function FlarePopup({event, source, onClose}){
           ))}
           {source.hasFlag && event.quality_flag && <p className="flag-help">{flagHelp(event.quality_flag)}</p>}
         </dl>
-        {time ? (
+        {image ? (
           <div className="sun">
-            <img src={imageFor(time)} alt={`SDO/HMI magnetogram near ${time}`} />
+            <img src={image} alt={`SDO/HMI magnetogram near ${time}`} />
             {/* pix_x/pix_y are on a 512 px image, so place the dot by percentage and it scales with the picture */}
             {hasDot && <span className="dot" style={{left: `${event.pix_x / 512 * 100}%`, top: `${event.pix_y / 512 * 100}%`}} />}
           </div>
-        ) : <p className="muted">No time recorded, so no image.</p>}
-        {!hasDot && <p className="muted">No location recorded for this flare, so it isn't marked on the image.</p>}
+        ) : <p className="muted">{time ? `No SDO/HMI image: they start on ${FIRST_HMI_IMAGE}.` : 'No time recorded, so no image.'}</p>}
+        {image && !hasDot && <p className="muted">No location recorded for this flare, so it isn't marked on the image.</p>}
       </div>
     </div>
   )

@@ -253,14 +253,17 @@ def compare(sources, names, filters):
         start = start or (min(days) if days else '')
         end = end or (max(days) if days else '')
 
-    # first date each catalogue has anything, so the chart can show "no data yet" instead of zero
-    coverage = {s.label: s.stats()['first_event'] for s in chosen}
+    # first and last date each catalogue has anything, so the chart shows "no data" instead of zero
+    # before a catalogue starts and after its latest update
+    spans = {s.label: s.stats() for s in chosen}
+    coverage = {label: st['first_event'] for label, st in spans.items()}
+    coverage_end = {label: st['last_event'] for label, st in spans.items()}
     notes = []
     if any(coverage.values()):
         notes.append('Coverage: ' + ', '.join(f'{label} from {first}' for label, first in coverage.items() if first) + '.')
-    result = {'start': start or None, 'end': end or None, 'notes': notes, 'coverage': coverage,
+    result = {'start': start or None, 'end': end or None, 'notes': notes, 'coverage': coverage, 'coverage_end': coverage_end,
               'totals': {label: len(rows) for label, rows in dated.items()}}
-    if not start:
+    if not start or not end:  # nothing matched, so there is no span to derive a missing end from
         return {**result, 'mode': 'counts', 'bin': 'year', 'series': {label: [] for label in dated}}
 
     span = (datetime.strptime(end, '%Y-%m-%d') - datetime.strptime(start, '%Y-%m-%d')).days + 1

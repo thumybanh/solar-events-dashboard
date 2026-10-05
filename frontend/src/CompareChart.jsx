@@ -1,6 +1,7 @@
 import { forwardRef, useEffect, useRef } from 'react'
 import * as d3 from 'd3'
 import { SERIES, FONT } from './chartStyle.js'
+import { covered as inCoverage } from './compareData.js'
 
 // drawn in a fixed coordinate space and scaled by the browser, so the exported SVG matches the screen
 const WIDTH = 920
@@ -76,7 +77,7 @@ function drawCounts(svg, data, tooltip){
   plot.append('g').call(d3.axisLeft(y).ticks(6, ',d').tickSizeInner(-5).tickSizeOuter(0).tickPadding(7)).call(styleAxis)
   plot.append('rect').attr('width', plotW).attr('height', plotH).attr('fill', 'none').attr('stroke', INK).attr('stroke-width', 0.8)
 
-  const covered = (label, bin) => !data.coverage?.[label] || bin >= data.coverage[label].slice(0, bin.length)
+  const covered = (label, bin) => inCoverage(data, label, bin)
   const ends = []
   labels.forEach(label => {
     const style = SERIES[label]
@@ -117,7 +118,7 @@ function drawCounts(svg, data, tooltip){
       const i = d3.minIndex(dates, d => Math.abs(x(d) - mx))
       cross.attr('x1', x(dates[i])).attr('x2', x(dates[i])).attr('visibility', 'visible')
       tooltip.show(event, `<strong>${bins[i]}</strong>` + labels.map(l =>
-        `<div><span class="swatch" style="border-top:2px ${!SERIES[l].dash ? 'solid' : SERIES[l].dash.startsWith('1 ') ? 'dotted' : 'dashed'} ${SERIES[l].color}"></span>${SERIES[l].label}: ${covered(l, bins[i]) ? data.series[l][i][1].toLocaleString() : 'no data yet'}</div>`).join(''))
+        `<div><span class="swatch" style="border-top:2px ${!SERIES[l].dash ? 'solid' : SERIES[l].dash.startsWith('1 ') ? 'dotted' : 'dashed'} ${SERIES[l].color}"></span>${SERIES[l].label}: ${covered(l, bins[i]) ? data.series[l][i][1].toLocaleString() : 'no data'}</div>`).join(''))
     })
     .on('mouseleave', () => { cross.attr('visibility', 'hidden'); tooltip.hide() })
 }

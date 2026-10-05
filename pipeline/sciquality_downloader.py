@@ -51,6 +51,7 @@ def main():
     import httpx
 
     old = current_file()
+    target = None
     try:
         name = pick_newest(httpx.get(LISTING_URL, timeout=60, follow_redirects=True).text)
         if name is None:
@@ -66,6 +67,9 @@ def main():
                 for chunk in response.iter_bytes():
                     f.write(chunk)
     except Exception as e:  # network trouble must not fail the daily run
+        # a half-written .part would otherwise be committed by the daily bot
+        if target and os.path.exists(target + '.part'):
+            os.remove(target + '.part')
         print(f'SciQuality download failed ({e}); keeping the current file.')
         return
 

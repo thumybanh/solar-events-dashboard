@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import CompareChart from './CompareChart.jsx'
 import { getJSON } from './api.js'
 import { SERIES, SOURCE_KEYS } from './chartStyle.js'
+import { toCSV } from './compareData.js'
 
 const ALL_SOURCES = Object.values(SOURCE_KEYS)
 
@@ -12,16 +13,6 @@ const saveFile = (content, type, filename) => {
   link.download = filename
   link.click()
   URL.revokeObjectURL(url)
-}
-
-const toCSV = (data) => {
-  const labels = Object.keys(data.series)
-  if (data.mode === 'counts') {
-    const bins = (data.series[labels[0]] || []).map(([bin]) => bin)
-    return [[data.bin, ...labels].join(','), ...bins.map((bin, i) => [bin, ...labels.map(l => data.series[l][i][1])].join(','))].join('\n')
-  }
-  const rows = labels.flatMap(l => data.series[l].map(p => [l, p.id, p.time, p.goes_class ?? 'N/A', p.flux ?? 'N/A'].join(',')))
-  return ['source,id,peak_time,goes_class,peak_flux_w_m2', ...rows].join('\n')
 }
 
 // a range that doesn't start or end on a bin boundary has a partial first or last bin, which reads
@@ -45,7 +36,7 @@ const caption = (data, query) => {
   return `${what}, ${data.start} to ${data.end} (UTC)${filters.length ? ', ' + filters.join(', ') : ''}. ` +
     (data.mode === 'flares'
       ? 'Flares are selected by start time and plotted at peak time; open marks that coincide are the same flare in several catalogues. '
-      : 'Flares are counted by start time; each line begins where its catalogue starts. ' + partialBins(data)) +
+      : 'Flares are counted by start time; each line runs only between its catalogue\'s first and latest date. ' + partialBins(data)) +
     data.notes.join(' ')
 }
 

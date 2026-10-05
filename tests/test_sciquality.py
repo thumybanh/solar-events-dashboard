@@ -49,3 +49,27 @@ def test_repeated_flare_id_gets_suffix(tmp_path):
     doubled.write_text('\n'.join(lines + [lines[1]]) + '\n')
     ids = [r['event_id'] for r in load_sciquality(str(doubled))]
     assert ids.count('sq_199501030004') == 1 and 'sq_199501030004_2' in ids
+
+
+def test_failed_download_leaves_no_partial_file(tmp_path, monkeypatch):
+    import contextlib
+    import httpx
+    import sciquality_downloader as dl
+
+    old = tmp_path / 'sci_xrsf-l2-flrpt_geo_s19950103_e20260929_v1-0-1.csv'
+    old.write_text(FIXTURE.read_text())
+    monkeypatch.setattr(dl, 'SQ_DIR', str(tmp_path))
+    listing = type('Listing', (), {'text': '<a href="sci_xrsf-l2-flrpt_geo_s19950103_e20261004_v1-0-1.csv">x</a>'})()
+    monkeypatch.setattr(httpx, 'get', lambda *a, **k: listing)
+
+    class Broken:
+        def raise_for_status(self):
+            pass
+
+        def iter_bytes(self):
+            yield b'time,start_time\n'
+            raise httpx.ReadTimeout('connection dropped')
+
+    monkeypatch.setattr(httpx, 'stream', lambda *a, **k: contextlib.nullcontext(Broken()))
+    dl.main()
+    assert sorted(p.name for p in tmp_path.iterdir()) == [old.name]

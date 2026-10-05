@@ -124,3 +124,18 @@ def test_flux_from_class_has_no_float_noise():
 def test_coverage_start_per_source_so_the_chart_can_leave_a_gap_before_it(sources):
     out = run(sources, ['lmsal', 'noaa'], start_date='1996-01-01', end_date='2024-12-31')
     assert out['coverage'] == {'LMSAL': '2003-01-10', 'NOAA': '1996-08-01'}
+
+
+def test_start_only_with_no_matches_is_an_empty_result_not_a_crash(sources):
+    out = run(sources, ['lmsal'], start_date='2030-01-01')
+    assert out['totals'] == {'LMSAL': 0} and out['series'] == {'LMSAL': []}
+
+
+def test_coverage_end_per_source_so_lines_stop_at_the_latest_data(sources):
+    out = run(sources, ['lmsal', 'noaa'], start_date='1996-01-01', end_date='2024-12-31')
+    assert out['coverage_end'] == {'LMSAL': '2024-05-20', 'NOAA': '2024-05-20'}
+
+
+def test_compare_endpoint_start_only_no_matches(client):  # noqa: F811
+    r = client.get('/compare', params={'start_date': '2030-01-01'})
+    assert r.status_code == 200

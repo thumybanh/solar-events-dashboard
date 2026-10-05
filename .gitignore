@@ -5,3 +5,5 @@ node_modules/
 .pytest_cache/
 venv/
 .zshrc
+*.part
+*.tmp

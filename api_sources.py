@@ -253,21 +253,22 @@ def compare(sources, names, filters):
         start = start or (min(days) if days else '')
         end = end or (max(days) if days else '')
 
+    # first date each catalogue has anything, so the chart can show "no data yet" instead of zero
+    coverage = {s.label: s.stats()['first_event'] for s in chosen}
     notes = []
-    coverage = [f"{s.label} from {s.stats()['first_event']}" for s in chosen if s.all()]
-    if coverage:
-        notes.append('Coverage: ' + ', '.join(coverage) + '.')
-    if 'sciquality' in names and start and start < SCALING_CHANGE:
-        notes.append('Before 2019-12-09, LMSAL and NOAA fluxes follow the SWPC convention of scaling GOES '
-                     'fluxes by 0.7; SciQuality fluxes are unscaled, so the same flare reads about 1.4x '
-                     'higher in SciQuality. Values are shown as published.')
-
-    result = {'start': start or None, 'end': end or None, 'notes': notes,
+    if any(coverage.values()):
+        notes.append('Coverage: ' + ', '.join(f'{label} from {first}' for label, first in coverage.items() if first) + '.')
+    result = {'start': start or None, 'end': end or None, 'notes': notes, 'coverage': coverage,
               'totals': {label: len(rows) for label, rows in dated.items()}}
     if not start:
         return {**result, 'mode': 'counts', 'bin': 'year', 'series': {label: [] for label in dated}}
 
     span = (datetime.strptime(end, '%Y-%m-%d') - datetime.strptime(start, '%Y-%m-%d')).days + 1
+    # the 0.7 scaling only shows where flux is plotted or a class filter sorts flares by class
+    if 'sciquality' in names and start < SCALING_CHANGE and (span <= FLARES_MAX_DAYS or 'goes_class' in filters):
+        result['notes'].append('Before 2019-12-09, LMSAL and NOAA fluxes and classes follow the SWPC convention of '
+                               'scaling GOES fluxes by 0.7; SciQuality is unscaled, so the same flare reads about 1.4x '
+                               'higher (and can fall in a higher class) in SciQuality. Values are shown as published.')
     if span <= FLARES_MAX_DAYS:
         series = {}
         for s in chosen:

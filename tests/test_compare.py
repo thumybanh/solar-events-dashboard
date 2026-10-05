@@ -87,9 +87,17 @@ def test_filters_apply_before_counting(sources):
     assert out['totals'] == {'LMSAL': 1, 'NOAA': 1}
 
 
-def test_notes_explain_coverage_and_scaling(sources):
+def test_notes_explain_coverage(sources):
     notes = ' '.join(run(sources, ['lmsal', 'sciquality'], start_date='2010-01-01', end_date='2024-12-31')['notes'])
-    assert '2003-01-10' in notes and '0.7' in notes
+    assert '2003-01-10' in notes
+
+
+def test_scaling_note_only_where_flux_or_class_matters(sources):
+    note = lambda **q: '0.7' in ' '.join(run(sources, ['lmsal', 'sciquality'], **q)['notes'])
+    assert note(start_date='2010-05-01', end_date='2010-05-31')                     # flux on the y axis
+    assert note(start_date='2010-01-01', end_date='2024-12-31', goes_class='M')     # unscaled classes move flares between classes
+    assert not note(start_date='2010-01-01', end_date='2024-12-31')                 # plain counts
+    assert not note(start_date='2020-05-01', end_date='2020-05-31')                 # after the change
 
 
 def test_unknown_or_no_source_is_an_error(sources):
@@ -111,3 +119,8 @@ def test_flux_from_class_has_no_float_noise():
     from api_sources import class_to_flux
     assert repr(class_to_flux('C5.8')) == '5.8e-06'
     assert repr(class_to_flux('C1.23')) == '1.23e-06'
+
+
+def test_coverage_start_per_source_so_the_chart_can_leave_a_gap_before_it(sources):
+    out = run(sources, ['lmsal', 'noaa'], start_date='1996-01-01', end_date='2024-12-31')
+    assert out['coverage'] == {'LMSAL': '2003-01-10', 'NOAA': '1996-08-01'}

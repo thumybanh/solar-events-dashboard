@@ -9,17 +9,21 @@ from fastapi.middleware.cors import CORSMiddleware
 # the pipeline scripts live in pipeline/ and import each other by bare name, so put that folder on the path
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pipeline'))
 from daily_scraper import run_daily_scraper
-from scraper import EVENTS_PATH
+
+from api_sources import SOURCES, FilterError, parse_filters
 
 DEFAULT_LIMIT = 1000
 MAX_LIMIT = 30000
 
+LMSAL = SOURCES['lmsal']
+
 app = FastAPI(
     title="Solar Events API",
     description=(
-        "Solar flare events scraped from the LMSAL SolarSoft archive, cross-checked "
-        "against NOAA/GOES X-ray event reports and annotated with image pixel coordinates. "
-        "Free to use for research."
+        "Solar flare events from three catalogues: the LMSAL SolarSoft archive, NOAA/SWPC "
+        "X-ray event reports, and the NCEI science-quality GOES flare report. LMSAL and NOAA "
+        "are cross-checked against each other (quality_flag) and every flare with a position "
+        "has image pixel coordinates. Free to use for research."
     ),
     version="1.0.0",
 )
@@ -33,41 +37,28 @@ app.add_middleware(
     expose_headers=['X-Total-Count'],
 )
 
-# events.json is ~20MB, so keep it in memory and only re-read when the file on disk changes
-_cache = {"mtime": None, "events": []}
+def _filters(**query):
+    try:
+        return parse_filters(**query)
+    except FilterError as e:
+        # 400 with a message saying what was wrong, instead of quietly returning nothing
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+def _matching(source, query):
+    try:
+        return source.filter(_filters(**query))
+    except FilterError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+def _updated(source):
+    mtime = source.updated()
+    return datetime.fromtimestamp(mtime, tz=timezone.utc).isoformat() if mtime else None
 
 
 def get_events():
-    mtime = os.path.getmtime(EVENTS_PATH)
-    if _cache["mtime"] != mtime:
-        with open(EVENTS_PATH, 'r') as f:
-            events = json.load(f)
-        # newest first, so page 1 is the most recent data. sorted once here rather than per
-        # request, and it has to happen before pagination slices the list.
-        # event_start is "YYYY/MM/DD HH:MM:SS", so a plain string sort is chronological.
-        _cache["events"] = sorted(events, key=lambda e: e['event_start'], reverse=True)
-        _cache["mtime"] = mtime
-    return _cache["events"]
-
-
-def filter_events(start_date, end_date, goes_class, quality_flag):
-    events = get_events()
-
-    # the datepicker in the js is formatted with "-" but the json format is with "/" so we need to replace it
-    if start_date:
-        events = [e for e in events if e['event_start'] >= start_date.replace('-', '/')]
-    if end_date:
-        # a bare date like "2024/05/15" sorts before "2024/05/15 08:13:00", so extend it to the end of that day
-        # or every event on the end date gets left out
-        end = end_date.replace('-', '/')
-        if len(end) == 10:
-            end += ' 23:59:59'
-        events = [e for e in events if e['event_start'] <= end]
-    if goes_class:
-        events = [e for e in events if e['event_GOES'].startswith(goes_class)]
-    if quality_flag:
-        events = [e for e in events if e.get('quality_flag') == quality_flag.upper()]
-    return events
+    return LMSAL.all()
 
 
 @app.get('/')
@@ -77,72 +68,94 @@ def home():
         "docs": "/docs",
         "total_events": len(get_events()),
         "endpoints": {
-            "/events": "filtered event list (start_date, end_date, goes_class, quality_flag, limit, offset)",
-            "/events/{event_id}": "a single event by id, e.g. gev_20260901_0054",
+            "/events": "LMSAL event list (start_date, end_date, goes_class, active_region, quality_flag, limit, offset)",
+            "/events/{event_id}": "a single LMSAL event by id, e.g. gev_20260901_0054",
             "/events/download/": "same filters, returned as a file attachment (no limit)",
-            "/stats": "dataset summary",
+            "/stats": "LMSAL dataset summary",
+            "/noaa/events": "NOAA/SWPC X-ray flares; same filters, plus /noaa/events/{id}, /noaa/events/download, /noaa/stats",
+            "/sciquality/events": "NCEI science-quality GOES flares; same filters except quality_flag, plus /{id}, /download, /stats",
+            "/compare": "flare counts or individual flares per source, for the comparison chart",
+        },
+        "quality_flag": {
+            "HIGH": "the other catalogue (LMSAL vs NOAA) has a flare of the same class starting within 3 minutes",
+            "LOW": "the other catalogue has a flare starting within 3 minutes, but of a different class",
+            "N/A": "the other catalogue has nothing starting within 3 minutes (or this flare has no begin time/class)",
         },
     }
 
 
 @app.get('/stats')
 def stats():
-    events = get_events()
-    dates = sorted({e['event_start'][:10] for e in events})
+    summary = LMSAL.stats()
     return {
-        "total_events": len(events),
-        "first_event": dates[0] if dates else None,
-        "last_event": dates[-1] if dates else None,
-        "quality_high": sum(1 for e in events if e.get('quality_flag') == 'HIGH'),
-        "quality_low": sum(1 for e in events if e.get('quality_flag') == 'LOW'),
-        "with_coordinates": sum(1 for e in events if e.get('pix_x') is not None),
-        "data_updated": datetime.fromtimestamp(
-            os.path.getmtime(EVENTS_PATH), tz=timezone.utc
-        ).isoformat(),
+        "total_events": summary['total_events'],
+        "first_event": summary['first_event'] and summary['first_event'].replace('-', '/'),
+        "last_event": summary['last_event'] and summary['last_event'].replace('-', '/'),
+        "quality_high": summary['flags']['HIGH'],
+        "quality_low": summary['flags']['LOW'],
+        "quality_na": summary['flags']['N/A'],
+        "with_coordinates": summary['with_location'],
+        "data_updated": _updated(LMSAL),
     }
 
 
-@app.get('/events')
-def list_events(
-    response: Response,
-    start_date: str = None,
-    end_date: str = None,
-    goes_class: str = None,
-    quality_flag: str = None,
-    limit: int = Query(DEFAULT_LIMIT, ge=1, le=MAX_LIMIT),
-    offset: int = Query(0, ge=0),
-):
-    events = filter_events(start_date, end_date, goes_class, quality_flag)
+def add_source_routes(prefix, source):
+    """List, download, single-flare and stats routes for one source under `prefix`."""
 
-    # total count goes in a header so the response body stays a plain array
-    response.headers['X-Total-Count'] = str(len(events))
-    return events[offset:offset + limit]
+    def list_events(
+        response: Response,
+        start_date: str = None,
+        end_date: str = None,
+        goes_class: str = None,
+        active_region: str = None,
+        quality_flag: str = None,
+        limit: int = Query(DEFAULT_LIMIT, ge=1, le=MAX_LIMIT),
+        offset: int = Query(0, ge=0),
+    ):
+        events = _matching(source, dict(start_date=start_date, end_date=end_date, goes_class=goes_class,
+                                        active_region=active_region, quality_flag=quality_flag))
+        # total count goes in a header so the response body stays a plain array
+        response.headers['X-Total-Count'] = str(len(events))
+        return events[offset:offset + limit]
+
+    def download_events(
+        start_date: str = None,
+        end_date: str = None,
+        goes_class: str = None,
+        active_region: str = None,
+        quality_flag: str = None,
+    ):
+        events = _matching(source, dict(start_date=start_date, end_date=end_date, goes_class=goes_class,
+                                        active_region=active_region, quality_flag=quality_flag))
+        return Response(
+            content=json.dumps(events),
+            media_type="application/json",
+            headers={"Content-Disposition": f"attachment; filename={source.name}_events.json"},
+        )
+
+    def get_event(event_id: str):
+        event = source.find(event_id)
+        if event is None:
+            raise HTTPException(status_code=404, detail="Event not found")
+        return event
+
+    def source_stats():
+        return {**source.stats(), "data_updated": _updated(source)}
+
+    tag = [source.label]
+    app.get(f'{prefix}/events', tags=tag)(list_events)
+    # registered before /events/{event_id} so "download" isn't swallowed as an event id
+    # (both spellings registered, otherwise the version without the slash falls through to that route)
+    app.get(f'{prefix}/events/download/', tags=tag)(download_events)
+    app.get(f'{prefix}/events/download', tags=tag)(download_events)
+    app.get(f'{prefix}/events/{{event_id}}', tags=tag)(get_event)
+    if prefix:
+        app.get(f'{prefix}/stats', tags=tag)(source_stats)
 
 
-# defined before /events/{event_id} so "download" isn't swallowed as an event id
-# (both spellings registered, otherwise the version without the slash falls through to that route)
-@app.get('/events/download/')
-@app.get('/events/download')
-def download_events(
-    start_date: str = None,
-    end_date: str = None,
-    goes_class: str = None,
-    quality_flag: str = None,
-):
-    events = filter_events(start_date, end_date, goes_class, quality_flag)
-    return Response(
-        content=json.dumps(events),
-        media_type="application/json",
-        headers={"Content-Disposition": "attachment; filename=events.json"},
-    )
-
-
-@app.get('/events/{event_id}')
-def get_event(event_id: str):
-    for event in get_events():
-        if event["event_id"] == event_id:
-            return event
-    raise HTTPException(status_code=404, detail="Event not found")
+add_source_routes('', LMSAL)  # LMSAL keeps the original paths: /events, /events/download, /events/{id}
+add_source_routes('/noaa', SOURCES['noaa'])
+add_source_routes('/sciquality', SOURCES['sciquality'])
 
 
 @app.get('/scrape', include_in_schema=False)

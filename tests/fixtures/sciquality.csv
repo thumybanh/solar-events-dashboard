@@ -1,0 +1,5 @@
+time,start_time,end_time,flare_id,xrsb_irrad,flare_class,xrsb_irrad_source,background_irrad,integrated_irrad_peak,integrated_irrad_end,flare_loc_swpc_hgs_lon,flare_loc_swpc_hgs_lat,flare_loc_swpc_source,flare_loc_xrs_hgs_lon,flare_loc_xrs_hgs_lat,flare_loc_xrs_hpc_x,flare_loc_xrs_hpc_y,flare_loc_xrs_source,sequential_flare_num,event_id_swpc,peak_saturated,active_region
+1995-01-03 00:14:00,1995-01-03 00:04:00,1995-01-03 00:19:00,199501030004,8.629e-07,B8.6,GOES-8,1.786e-07,3.418e-04,4.293e-04,,,,,,,,,1,,0,
+1995-01-24 22:37:00,1995-01-24 22:29:00,,199501242229,1.183e-06,C1.1,GOES-8,4.854e-07,6.039e-04,,6.0,-12.0,,,,,,,1,,0,
+1995-01-31 19:26:00,1995-01-31 19:15:00,1995-01-31 19:29:00,199501311915,9.843e-07,B9.8,GOES-8,2.381e-07,4.365e-04,4.647e-04,-63.0,-14.0,,,,,,,1,,0,
+2017-02-09 01:51:00,2017-02-09 01:45:00,2017-02-09 01:55:00,201702090145,1.695e-06,C1.6,GOES-16,1.686e-07,5.417e-04,6.426e-04,,,,-24.414429,10.399515,-396.89154,274.7128,GOES-16_XRS,1,,0,

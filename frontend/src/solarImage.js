@@ -1,16 +1,40 @@
-const ISWA_HMI = 'https://iswa.ccmc.gsfc.nasa.gov/iswa_data_tree/observation/solar/sdo/hmi-magnetogram_2048x2048/'
-export const FIRST_HMI_IMAGE = '2010-06-21' // ISWA's HMI magnetograms start here (SDO launched 2010)
+// Solar images come from Helioviewer, which returns the image closest to any time we ask for.
+// The old version guessed ISWA file names on a 15-minute grid, which broke wherever ISWA's
+// files are off that grid (2010-2011) or missing (ISWA stopped updating at 2026-09-24).
+const HELIOVIEWER = 'https://api.helioviewer.org/v2'
 
-// ISWA keeps an HMI magnetogram every 15 minutes, so round the flare time to the nearest one.
-// Done with a UTC Date so 23:53 rounds to 00:00 the next day instead of an hour "24".
-// Returns null for flares before the first image, so the popup can say so instead of showing a broken one.
-export const imageFor = (time) => {
-  const [date, clock = '00:00'] = time.replace(/\//g, '-').split(' ')
-  if (date < FIRST_HMI_IMAGE) return null
-  const [y, m, d] = date.split('-').map(Number)
-  const [h, min] = clock.split(':').map(Number)
-  const t = new Date(Date.UTC(y, m - 1, d, h, Math.round(min / 15) * 15))
-  const pad = (n) => String(n).padStart(2, '0')
-  const ymd = `${t.getUTCFullYear()}${pad(t.getUTCMonth() + 1)}${pad(t.getUTCDate())}`
-  return `${ISWA_HMI}${t.getUTCFullYear()}/${pad(t.getUTCMonth() + 1)}/${ymd}_${pad(t.getUTCHours())}${pad(t.getUTCMinutes())}00_2048_HMIB.jpg`
+// Helioviewer source ids for full-disk magnetograms
+const HMI = {id: 19, label: 'SDO/HMI magnetogram'} // from 2010
+const MDI = {id: 6, label: 'SOHO/MDI magnetogram'} // 1996-2011
+const HMI_FROM = '2010-06-01'
+
+// Only show an image taken this close to the flare; SOHO had long outages (e.g. mid-1998),
+// and an image from weeks away would show the wrong Sun
+export const MAX_IMAGE_GAP_MINUTES = 60
+
+export const imageSourceFor = (time) => (time.replace(/\//g, '-') >= HMI_FROM ? HMI : MDI)
+
+// '2026/10/03 16:50:00', '2026-10-03 16:50:00' or '2026-10-03' -> '2026-10-03T16:50:00Z'
+export const helioDate = (time) => {
+  const [date, clock = '00:00:00'] = time.replace(/\//g, '-').split(' ')
+  return `${date}T${clock.length === 5 ? clock + ':00' : clock}Z`
 }
+
+export const minutesApart = (flareDate, imageDate) =>
+  Math.round(Math.abs(new Date(flareDate) - new Date(imageDate.replace(' ', 'T') + 'Z')) / 60000)
+
+// asks Helioviewer which image is closest, so the popup can say when there isn't one near the flare
+export const closestImage = async (time, signal) => {
+  const date = helioDate(time)
+  const source = imageSourceFor(time)
+  const res = await fetch(`${HELIOVIEWER}/getClosestImage/?date=${date}&sourceId=${source.id}`, {signal})
+  const body = await res.json()
+  if (!res.ok || !body.date) throw new Error(body.error || 'Helioviewer did not return an image')
+  return {date, source, imageDate: body.date, gap: minutesApart(date, body.date)}
+}
+
+// 512 px at 4.8 arcsec per px, centred on the Sun: the same frame pix_x/pix_y were computed in
+// (a 4096 px, 0.6 arcsec/px image scaled by 1/8), so the flare dot lands in the right place
+export const screenshotURL = (date, sourceId) => `${HELIOVIEWER}/takeScreenshot/?` + new URLSearchParams({
+  date, imageScale: '4.8', layers: `[${sourceId},1,100]`, x0: '0', y0: '0', width: '512', height: '512', display: 'true',
+})

@@ -344,8 +344,9 @@ http://localhost:8000/scrape
 - **Missing values** — shown as `N/A`, so a flare is never hidden because one detail is missing
 - **Download CSV / JSON** — the full filtered set for the current source, not just the page on screen
 - **Solar image popup** — click a flare ID to see all its details, what its flag means, and the
-  SDO/HMI magnetogram from ISWA nearest its time (15-minute steps), with a red dot at its position
-  when one is recorded
+  magnetogram nearest its time from Helioviewer (SDO/HMI from mid-2010, SOHO/MDI before), with a
+  red dot at its position when one is recorded. An image is shown only if one exists within an hour
+  of the flare; otherwise the popup says how far away the nearest one is
 - **Compare page** — search once and chart the catalogues together: each flare by peak flux for up to
   31 days, or flares per day/month/year for longer ranges. Paper-style figure (each source has a fixed
   color, dash and marker, so it reads in black-and-white too), a caption with the data notes, and
@@ -396,7 +397,7 @@ Any field the source left blank is `null`.
 | LMSAL Archive | `https://www.lmsal.com/solarsoft/latest_events_archive.html` | Solar flare event snapshots |
 | NOAA FTP | `ftp://ftp.swpc.noaa.gov/pub/indices/events` | Daily solar event reports |
 | NCEI SciQuality | `https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/multi/l2/data/xrsf-l2-flrpt_science/csv/` | Science-quality GOES XRS flare report |
-| ISWA Images | `https://iswa.ccmc.gsfc.nasa.gov/iswa_data_tree/observation/solar/sdo/hmi-magnetogram_2048x2048/` | SDO/HMI magnetogram images |
+| Helioviewer | `https://api.helioviewer.org/v2/` | SDO/HMI and SOHO/MDI magnetograms for the flare popup |
  
 ---
  

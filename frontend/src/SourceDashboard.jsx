@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { getJSON, downloadURL } from './api.js'
 import { SOURCES, cell, flagHelp } from './sources.js'
-import { FIRST_HMI_IMAGE, imageFor } from './solarImage.js'
+import { MAX_IMAGE_GAP_MINUTES, closestImage, screenshotURL } from './solarImage.js'
 
 const PAGE_SIZE = 100 // rendering all ~50k rows at once locks up the browser
 
@@ -30,10 +30,49 @@ function Pagination({page, total, onChange}){
   )
 }
 
-function FlarePopup({event, source, onClose}){
+const gapText = (minutes) => minutes < 60 * 48 ? `${Math.round(minutes / 60)} hours` : `${Math.round(minutes / 1440)} days`
+
+// The magnetogram nearest the flare, with the flare's position marked when one is recorded.
+// Helioviewer is asked first which image is closest, so a flare with no image near its time
+// says so instead of showing the Sun on some other day.
+function SolarImage({time, event}){
+  const [found, setFound] = useState(null) // {time, image} or {time, error}
+  const [broken, setBroken] = useState(null)
   const hasDot = event.pix_x !== null && event.pix_x !== undefined
+
+  useEffect(() => {
+    const controller = new AbortController()
+    closestImage(time, controller.signal)
+      .then(image => setFound({time, image}))
+      .catch(err => { if (err.name !== 'AbortError') setFound({time, error: err.message}) })
+    return () => controller.abort()
+  }, [time])
+
+  if (found?.time !== time) return <p className="muted">Finding the nearest solar image…</p>
+  if (found.error) return <p className="muted">Couldn't load a solar image ({found.error}).</p>
+  const {image} = found
+  if (image.gap > MAX_IMAGE_GAP_MINUTES) {
+    return <p className="muted">No {image.source.label} within an hour of this flare (the nearest is {image.imageDate} UTC, {gapText(image.gap)} away).</p>
+  }
+  const src = screenshotURL(image.date, image.source.id)
+  if (broken === src) return <p className="muted">Helioviewer couldn't draw the image right now. Try again in a moment.</p>
+  return (
+    <figure className="sun-figure">
+      <div className="sun">
+        <img src={src} alt={`${image.source.label} at ${image.imageDate} UTC`} onError={() => setBroken(src)} />
+        {/* pix_x/pix_y are on a 512 px image, so place the dot by percentage and it scales with the picture */}
+        {hasDot && <span className="dot" style={{left: `${event.pix_x / 512 * 100}%`, top: `${event.pix_y / 512 * 100}%`}} />}
+      </div>
+      <figcaption className="muted">
+        {image.source.label}, {image.imageDate} UTC, via Helioviewer.
+        {!hasDot && ' No location recorded for this flare, so it isn\'t marked.'}
+      </figcaption>
+    </figure>
+  )
+}
+
+function FlarePopup({event, source, onClose}){
   const time = source.imageTime(event)
-  const image = time && imageFor(time)
   return (
     <div className="overlay" onClick={onClose}>
       <div className="popup" onClick={e => e.stopPropagation()} role="dialog" aria-label={event.event_id}>
@@ -45,14 +84,7 @@ function FlarePopup({event, source, onClose}){
           ))}
           {source.hasFlag && event.quality_flag && <p className="flag-help">{flagHelp(event.quality_flag)}</p>}
         </dl>
-        {image ? (
-          <div className="sun">
-            <img src={image} alt={`SDO/HMI magnetogram near ${time}`} />
-            {/* pix_x/pix_y are on a 512 px image, so place the dot by percentage and it scales with the picture */}
-            {hasDot && <span className="dot" style={{left: `${event.pix_x / 512 * 100}%`, top: `${event.pix_y / 512 * 100}%`}} />}
-          </div>
-        ) : <p className="muted">{time ? `No SDO/HMI image: they start on ${FIRST_HMI_IMAGE}.` : 'No time recorded, so no image.'}</p>}
-        {image && !hasDot && <p className="muted">No location recorded for this flare, so it isn't marked on the image.</p>}
+        {time ? <SolarImage time={time} event={event} /> : <p className="muted">No time recorded, so no image.</p>}
       </div>
     </div>
   )

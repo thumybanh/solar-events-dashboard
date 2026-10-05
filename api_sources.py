@@ -7,7 +7,7 @@ field names, so a small field map tells Source where each one keeps its time, cl
 import json
 import os
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(REPO_DIR, 'data')
@@ -30,8 +30,23 @@ def _lmsal_region(e):
     return int(match.group(1)) % 10000 if match else None
 
 
+def _lmsal_peak(e):
+    # event_peak is a bare clock time; a peak earlier than the start ran past midnight
+    start = datetime.strptime(e['event_start'], '%Y/%m/%d %H:%M:%S')
+    try:
+        clock = datetime.strptime(e.get('event_peak') or '', '%H:%M:%S')
+    except ValueError:
+        return start.strftime('%Y-%m-%d %H:%M:%S')
+    peak = start.replace(hour=clock.hour, minute=clock.minute, second=clock.second)
+    if peak < start:
+        peak += timedelta(days=1)
+    return peak.strftime('%Y-%m-%d %H:%M:%S')
+
+
 LMSAL_FIELDS = {
     'label': 'LMSAL',
+    'peak': _lmsal_peak,
+    'flux': lambda e: class_to_flux(e.get('event_GOES')),
     'time': _lmsal_time,
     'goes_class': lambda e: e.get('event_GOES'),
     'region': _lmsal_region,
@@ -40,6 +55,8 @@ LMSAL_FIELDS = {
 }
 NOAA_FIELDS = {
     'label': 'NOAA',
+    'peak': lambda e: e.get('peak') or e.get('begin'),
+    'flux': lambda e: class_to_flux(e.get('goes_class')),
     # a flare NOAA left without a begin time is still on its report's date
     'time': lambda e: e.get('begin') or e['date'],
     'goes_class': lambda e: e.get('goes_class'),
@@ -49,6 +66,8 @@ NOAA_FIELDS = {
 }
 SCIQUALITY_FIELDS = {
     'label': 'SciQuality',
+    'peak': lambda e: e.get('peak') or e.get('start'),
+    'flux': lambda e: e.get('peak_flux'),  # as published: no 0.7 scaling before 2019-12-09
     'time': lambda e: e.get('start') or e.get('peak'),
     'goes_class': lambda e: e.get('goes_class'),
     'region': lambda e: e.get('active_region'),
@@ -71,7 +90,8 @@ def class_to_flux(text):
     parsed = parse_class(text)
     if not parsed or parsed[1] is None:
         return None
-    return parsed[1] * {'A': 1e-8, 'B': 1e-7, 'C': 1e-6, 'M': 1e-5, 'X': 1e-4}[parsed[0]]
+    # 10 significant digits drop the float noise (5.8 * 1e-6 = 5.7999999999999995e-06)
+    return float(f"{parsed[1] * {'A': 1e-8, 'B': 1e-7, 'C': 1e-6, 'M': 1e-5, 'X': 1e-4}[parsed[0]]:.10g}")
 
 
 def _date_bound(value, name, end):
@@ -196,6 +216,82 @@ class Source:
             'flags': {flag: sum(1 for r in rows if self.fields['flag'](r) == flag) for flag in FLAGS} if self.has_flag else None,
             'with_location': sum(1 for r in rows if self.fields['has_location'](r)),
         }
+
+
+FLARES_MAX_DAYS = 31     # up to a month, plot each flare; longer ranges are counted per bin
+DAY_BINS_MAX_DAYS = 366
+MONTH_BINS_MAX_DAYS = 3660
+SCALING_CHANGE = '2019-12-09'
+
+
+def _bins(start, end, size):
+    """Every bin label from start to end (dates 'YYYY-MM-DD'), zeros included."""
+    first, last = datetime.strptime(start, '%Y-%m-%d'), datetime.strptime(end, '%Y-%m-%d')
+    if size == 'day':
+        return [(first + timedelta(days=i)).strftime('%Y-%m-%d') for i in range((last - first).days + 1)]
+    if size == 'month':
+        months = (last.year - first.year) * 12 + last.month - first.month
+        return [f"{first.year + (first.month - 1 + i) // 12}-{(first.month - 1 + i) % 12 + 1:02d}" for i in range(months + 1)]
+    return [str(y) for y in range(first.year, last.year + 1)]
+
+
+def compare(sources, names, filters):
+    """Chart data for the selected sources: individual flares for short ranges, counts per bin otherwise."""
+    if not names:
+        raise FilterError("sources must name at least one of lmsal, noaa, sciquality")
+    unknown = [n for n in names if n not in sources]
+    if unknown:
+        raise FilterError(f"sources must be lmsal, noaa or sciquality, got {', '.join(unknown)}")
+
+    chosen = [sources[n] for n in names]
+    dated = {s.label: [r for r in s.filter(filters) if s.time(r)] for s in chosen}
+
+    start = filters.get('start', '')[:10]
+    end = filters.get('end', '')[:10]
+    if not start or not end:
+        days = [s.time(r)[:10] for s in chosen for r in dated[s.label]]
+        start = start or (min(days) if days else '')
+        end = end or (max(days) if days else '')
+
+    notes = []
+    coverage = [f"{s.label} from {s.stats()['first_event']}" for s in chosen if s.all()]
+    if coverage:
+        notes.append('Coverage: ' + ', '.join(coverage) + '.')
+    if 'sciquality' in names and start and start < SCALING_CHANGE:
+        notes.append('Before 2019-12-09, LMSAL and NOAA fluxes follow the SWPC convention of scaling GOES '
+                     'fluxes by 0.7; SciQuality fluxes are unscaled, so the same flare reads about 1.4x '
+                     'higher in SciQuality. Values are shown as published.')
+
+    result = {'start': start or None, 'end': end or None, 'notes': notes,
+              'totals': {label: len(rows) for label, rows in dated.items()}}
+    if not start:
+        return {**result, 'mode': 'counts', 'bin': 'year', 'series': {label: [] for label in dated}}
+
+    span = (datetime.strptime(end, '%Y-%m-%d') - datetime.strptime(start, '%Y-%m-%d')).days + 1
+    if span <= FLARES_MAX_DAYS:
+        series = {}
+        for s in chosen:
+            points = []
+            for r in dated[s.label]:
+                time = s.fields['peak'](r)
+                if time:
+                    points.append({'id': r['event_id'], 'time': time, 'goes_class': s.fields['goes_class'](r),
+                                   'flux': s.fields['flux'](r)})
+            series[s.label] = sorted(points, key=lambda p: p['time'])
+        return {**result, 'mode': 'flares', 'series': series}
+
+    size = 'day' if span <= DAY_BINS_MAX_DAYS else 'month' if span <= MONTH_BINS_MAX_DAYS else 'year'
+    width = {'day': 10, 'month': 7, 'year': 4}[size]
+    labels = _bins(start, end, size)
+    series = {}
+    for s in chosen:
+        counts = dict.fromkeys(labels, 0)
+        for r in dated[s.label]:
+            key = s.time(r)[:width]
+            if key in counts:
+                counts[key] += 1
+        series[s.label] = list(counts.items())
+    return {**result, 'mode': 'counts', 'bin': size, 'series': series}
 
 
 SOURCES = {

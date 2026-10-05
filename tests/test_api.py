@@ -1,4 +1,3 @@
-import importlib
 import json
 
 import pytest
@@ -34,15 +33,19 @@ def build_fixture_files(directory):
 
 @pytest.fixture(scope='module')
 def client(tmp_path_factory):
+    import api
+    import api_sources
+
     paths = build_fixture_files(tmp_path_factory.mktemp('api'))
-    with pytest.MonkeyPatch.context() as mp:
-        for name, path in paths.items():
-            mp.setenv(name, path)
-        import api_sources
-        import api
-        importlib.reload(api_sources)
-        importlib.reload(api)
-        yield TestClient(api.app)
+    env = {'LMSAL_EVENTS_PATH': 'lmsal', 'NOAA_EVENTS_PATH': 'noaa', 'SCIQUALITY_EVENTS_PATH': 'sciquality'}
+    saved = {}
+    for name, key in env.items():
+        source = api_sources.SOURCES[key]
+        saved[key] = source.path
+        source.path, source._mtime = paths[name], None  # point the live sources at the fixture files
+    yield TestClient(api.app)
+    for key, path in saved.items():
+        api_sources.SOURCES[key].path, api_sources.SOURCES[key]._mtime = path, None
 
 
 def ids(response):

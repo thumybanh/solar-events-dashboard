@@ -10,7 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pipeline'))
 from daily_scraper import run_daily_scraper
 
-from api_sources import SOURCES, FilterError, parse_filters
+from api_sources import SOURCES, FilterError, compare, parse_filters
 
 DEFAULT_LIMIT = 1000
 MAX_LIMIT = 30000
@@ -151,6 +151,23 @@ def add_source_routes(prefix, source):
     app.get(f'{prefix}/events/{{event_id}}', tags=tag)(get_event)
     if prefix:
         app.get(f'{prefix}/stats', tags=tag)(source_stats)
+
+
+@app.get('/compare', tags=['Compare'])
+def compare_sources(
+    sources: str = 'lmsal,noaa,sciquality',
+    start_date: str = None,
+    end_date: str = None,
+    goes_class: str = None,
+    active_region: str = None,
+):
+    """Flare counts per day/month/year (ranges over 31 days) or individual flares (31 days or less)."""
+    names = [n.strip().lower() for n in sources.split(',') if n.strip()]
+    filters = _filters(start_date=start_date, end_date=end_date, goes_class=goes_class, active_region=active_region)
+    try:
+        return compare(SOURCES, names, filters)
+    except FilterError as e:
+        raise HTTPException(status_code=400, detail=str(e))
 
 
 add_source_routes('', LMSAL)  # LMSAL keeps the original paths: /events, /events/download, /events/{id}

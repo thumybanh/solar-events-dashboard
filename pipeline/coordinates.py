@@ -1,6 +1,8 @@
-import math
-import noaa_matcher
 import json
+import math
+import os
+
+import noaa_matcher
 
 EVENTS_PATH = noaa_matcher.EVENTS_PATH
 
@@ -63,23 +65,36 @@ def convertHCC_HPC(x, y):
     return hpcx, hpcy
 
 
-with open(EVENTS_PATH, 'r') as f: 
-    events = json.load(f)
+def location_to_pix(text):
+    """'N09W89' or LMSAL's 'N09W89( 4534 )' -> (pix_x, pix_y) on the 512 px image, or (None, None)."""
+    try:
+        lat, lon = noaa_matcher.convert_position((text or '').strip())
+    except (IndexError, ValueError):
+        # blank or unreadable position (LMSAL leaves some blank; most NOAA flares have none)
+        return None, None
+    return convert_hgs_to_pix(lon, lat)
 
+
+def add_pixels(path, key):
+    """Writes pix_x/pix_y into every row of a JSON file from its `key` position. Returns how many had none."""
+    with open(path) as f:
+        rows = json.load(f)
     missing = 0
-    for event in events:
-        try:
-            lat, lon = noaa_matcher.convert_position(event['event_position'])
-        except (IndexError, ValueError):
-            # LMSAL sometimes leaves the derived position blank — no pixel coords for those
-            event['pix_x'] = None
-            event['pix_y'] = None
-            missing += 1
-            continue
-        pix_x, pix_y = convert_hgs_to_pix(lon, lat)
-        event['pix_x'] = pix_x
-        event['pix_y'] = pix_y
-    print(f"converted {len(events) - missing} positions, {missing} skipped (blank position)")
-    
-with open(EVENTS_PATH, 'w') as w: 
-    json.dump(events, w, indent = 2)
+    for row in rows:
+        row['pix_x'], row['pix_y'] = location_to_pix(row.get(key))
+        missing += row['pix_x'] is None
+    with open(path + '.tmp', 'w') as f:
+        json.dump(rows, f, indent=2)
+    os.replace(path + '.tmp', path)
+    return missing
+
+
+if __name__ == '__main__':
+    from noaa_events import NOAA_EVENTS_PATH
+    from sciquality_events import SCIQUALITY_EVENTS_PATH
+
+    for path, key in ((EVENTS_PATH, 'event_position'), (NOAA_EVENTS_PATH, 'location'),
+                      (SCIQUALITY_EVENTS_PATH, 'location')):
+        if os.path.exists(path):
+            missing = add_pixels(path, key)
+            print(f"{os.path.basename(path)}: {missing} without a position")

@@ -25,10 +25,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Record starting event count
+      - name: Record starting counts
         id: before
+        # the files don't exist before the first run that creates them, so a missing file counts as 0
         run: |
-          echo "count=$(python -c 'import json;print(len(json.load(open("data/events.json"))))')" >> "$GITHUB_OUTPUT"
+          for name in events noaa_events sciquality_events; do
+            echo "$name=$(python -c "import json,os,sys;p=sys.argv[1];print(len(json.load(open(p))) if os.path.exists(p) else 0)" "data/$name.json")" >> "$GITHUB_OUTPUT"
+          done
 
       - name: Scrape LMSAL events
         run: python pipeline/daily_scraper.py
@@ -39,7 +42,15 @@ jobs:
         continue-on-error: true
         run: python pipeline/noaa_downloader.py
 
-      - name: Assign quality flags
+      - name: Download SciQuality report
+        # NCEI republishes the whole report daily; a miss keeps yesterday's file, so don't fail over it
+        continue-on-error: true
+        run: python pipeline/sciquality_downloader.py
+
+      - name: Build SciQuality events
+        run: python pipeline/sciquality_events.py
+
+      - name: Assign quality flags (LMSAL and NOAA, against each other)
         run: python pipeline/noaa_matcher.py
 
       - name: Add pixel coordinates
@@ -49,19 +60,23 @@ jobs:
         # the pipeline only ever adds events, so a drop means something parsed wrong
         # (an LMSAL layout change, a truncated download) and must not be committed
         run: |
-          BEFORE=${{ steps.before.outputs.count }}
-          AFTER=$(python -c 'import json;print(len(json.load(open("data/events.json"))))')
-          echo "events: $BEFORE -> $AFTER"
-          if [ "$AFTER" -lt "$BEFORE" ]; then
-            echo "::error::Event count dropped from $BEFORE to $AFTER — refusing to commit."
-            exit 1
-          fi
+          check() {
+            AFTER=$(python -c "import json,sys;print(len(json.load(open(sys.argv[1]))))" "data/$1.json")
+            echo "$1: $2 -> $AFTER"
+            if [ "$AFTER" -lt "$2" ]; then
+              echo "::error::$1 count dropped from $2 to $AFTER — refusing to commit."
+              exit 1
+            fi
+          }
+          check events ${{ steps.before.outputs.events }}
+          check noaa_events ${{ steps.before.outputs.noaa_events }}
+          check sciquality_events ${{ steps.before.outputs.sciquality_events }}
 
       - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/events.json data/noaa_data data/noaa_unavailable.txt
+          git add -A data/events.json data/noaa_events.json data/sciquality_events.json data/goes_sciquality data/noaa_data data/noaa_unavailable.txt
           if git diff --staged --quiet; then
             echo "No new data today."
             exit 0

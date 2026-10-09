@@ -52,3 +52,8 @@ test('screenshot is 512 px at 4.8 arcsec/px centred on the Sun, matching pix_x/p
   for (const part of ['date=2026-10-03T16%3A50%3A00Z', 'imageScale=4.8', 'layers=%5B19%2C1%2C100%5D', 'x0=0', 'y0=0', 'width=512', 'height=512', 'display=true'])
     assert.ok(url.includes(part), part)
 })
+
+test('the closest-image lookup goes through our API, which Helioviewer allows from any site', async () => {
+  const { closestImageURL } = await import('../src/solarImage.js')
+  assert.equal(closestImageURL('2026-10-03T16:50:00Z', 19), 'http://localhost:8000/solar-image/closest?date=2026-10-03T16%3A50%3A00Z&source_id=19')
+})

@@ -1,6 +1,6 @@
 // one place for the API address, so a deployed build can point somewhere other than localhost
 // (set VITE_API_BASE at build time)
-export const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8000'
+export const API_BASE = import.meta.env?.VITE_API_BASE || 'http://localhost:8000'
 
 const queryString = (params) => {
   const query = new URLSearchParams()

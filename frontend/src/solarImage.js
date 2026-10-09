@@ -1,6 +1,8 @@
 // Solar images come from Helioviewer, which returns the image closest to any time we ask for.
 // The old version guessed ISWA file names on a 15-minute grid, which broke wherever ISWA's
 // files are off that grid (2010-2011) or missing (ISWA stopped updating at 2026-09-24).
+import { API_BASE } from './api.js'
+
 const HELIOVIEWER = 'https://api.helioviewer.org/v2'
 
 // Helioviewer source ids for full-disk magnetograms
@@ -23,13 +25,17 @@ export const helioDate = (time) => {
 export const minutesApart = (flareDate, imageDate) =>
   Math.round(Math.abs(new Date(flareDate) - new Date(imageDate.replace(' ', 'T') + 'Z')) / 60000)
 
-// asks Helioviewer which image is closest, so the popup can say when there isn't one near the flare
+// Helioviewer only answers this lookup from localhost in a browser, so it goes through our API
+export const closestImageURL = (date, sourceId) =>
+  `${API_BASE}/solar-image/closest?${new URLSearchParams({date, source_id: sourceId})}`
+
+// asks which image is closest, so the popup can say when there isn't one near the flare
 export const closestImage = async (time, signal) => {
   const date = helioDate(time)
   const source = imageSourceFor(time)
-  const res = await fetch(`${HELIOVIEWER}/getClosestImage/?date=${date}&sourceId=${source.id}`, {signal})
+  const res = await fetch(closestImageURL(date, source.id), {signal})
   const body = await res.json()
-  if (!res.ok || !body.date) throw new Error(body.error || 'Helioviewer did not return an image')
+  if (!res.ok || !body.date) throw new Error(body.detail || 'Helioviewer did not return an image')
   return {date, source, imageDate: body.date, gap: minutesApart(date, body.date)}
 }
 

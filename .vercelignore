@@ -2,3 +2,12 @@ analysis/
 frontend/
 data/noaa_data/
 NOTES.md
+venv/
+.venv/
+tests/
+docs/
+.superpowers/
+.claude/
+__pycache__/
+data/goes_sciquality/
+SESSION-*.md

@@ -125,3 +125,23 @@ def test_missing_data_file_gives_empty_source_not_a_crash(monkeypatch, tmp_path)
     import api_sources
     source = api_sources.Source('noaa', str(tmp_path / 'absent.json'), api_sources.NOAA_FIELDS)
     assert source.all() == []
+
+
+def test_closest_solar_image_is_fetched_by_the_api(client, monkeypatch):
+    import httpx
+    calls = []
+
+    class Reply:
+        status_code = 200
+        def json(self):
+            return {'id': '192675571', 'date': '2026-10-03 16:50:01', 'name': 'HMI Mag'}
+
+    monkeypatch.setattr(httpx, 'get', lambda url, **kw: calls.append((url, kw.get('params'))) or Reply())
+    r = client.get('/solar-image/closest', params={'date': '2026-10-03T16:50:00Z', 'source_id': 19})
+    assert r.status_code == 200 and r.json()['date'] == '2026-10-03 16:50:01'
+    assert calls[0][0].endswith('/getClosestImage/') and calls[0][1] == {'date': '2026-10-03T16:50:00Z', 'sourceId': 19}
+
+
+def test_closest_solar_image_rejects_bad_input(client):
+    assert client.get('/solar-image/closest', params={'date': 'yesterday', 'source_id': 19}).status_code == 400
+    assert client.get('/solar-image/closest', params={'date': '2026-10-03T16:50:00Z', 'source_id': 999}).status_code == 400

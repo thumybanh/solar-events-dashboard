@@ -7,3 +7,5 @@ venv/
 .zshrc
 *.part
 *.tmp
+.vercel
+.env*

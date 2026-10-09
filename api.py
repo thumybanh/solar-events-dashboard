@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 
@@ -168,6 +169,30 @@ def compare_sources(
         return compare(SOURCES, names, filters)
     except FilterError as e:
         raise HTTPException(status_code=400, detail=str(e))
+
+
+HELIOVIEWER_SOURCES = {19, 6}  # SDO/HMI and SOHO/MDI magnetograms
+
+
+@app.get('/solar-image/closest', tags=['Images'])
+def closest_solar_image(date: str, source_id: int):
+    """Helioviewer's closest magnetogram to a time. Helioviewer only allows this call from
+    localhost in a browser, so the deployed site asks it through here instead."""
+    import httpx
+
+    if not re.fullmatch(r'\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z', date):
+        raise HTTPException(status_code=400, detail=f"date must look like 2026-10-03T16:50:00Z, got {date!r}")
+    if source_id not in HELIOVIEWER_SOURCES:
+        raise HTTPException(status_code=400, detail=f"source_id must be 19 (SDO/HMI) or 6 (SOHO/MDI), got {source_id}")
+    try:
+        reply = httpx.get('https://api.helioviewer.org/v2/getClosestImage/',
+                          params={'date': date, 'sourceId': source_id}, timeout=20)
+        body = reply.json()
+    except (httpx.HTTPError, ValueError):
+        raise HTTPException(status_code=502, detail="Helioviewer didn't answer; try again in a moment")
+    if reply.status_code != 200 or 'date' not in body:
+        raise HTTPException(status_code=502, detail=body.get('error') or "Helioviewer returned no image")
+    return body
 
 
 add_source_routes('', LMSAL)  # LMSAL keeps the original paths: /events, /events/download, /events/{id}

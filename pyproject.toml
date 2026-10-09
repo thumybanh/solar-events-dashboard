@@ -1,2 +1,14 @@
+[project]
+name = "solar-events-dashboard"
+version = "1.0.0"
+requires-python = ">=3.9"
+dependencies = [
+    "httpx",
+    "beautifulsoup4",
+    "fastapi",
+    "uvicorn",
+    "python-multipart",
+]
+
 [tool.vercel]
 entrypoint = "api:app"

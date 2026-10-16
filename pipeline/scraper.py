@@ -1,5 +1,7 @@
 import httpx
 from bs4 import BeautifulSoup
+
+from lmsal_links import event_links
 import json
 import os
 
@@ -93,6 +95,9 @@ def scrape_range(cutoff):
             skipped += 1
             continue
 
+        # each event's own page, as this snapshot links it (provenance shown in the dashboard)
+        links = event_links(snapshot_response.text, snapshot_url)
+
         all_cells = events_table.find_all('td')
         all_texts = [cell.get_text(strip=True) for cell in all_cells]
 
@@ -110,12 +115,15 @@ def scrape_range(cutoff):
                 if all_texts[i] not in all_events:
                     # First time seeing this event — add it with seen_in_dates
                     event["seen_in_dates"] = [snapshot_url] #adding a new field into the event{}
+                    event["event_url"] = links.get(all_texts[i])
                     all_events[all_texts[i]] = event
 
                 else:
                     # Already seen — append this snapshot to seen_in_dates unless it's already listed
                     if snapshot_url not in all_events[all_texts[i]]["seen_in_dates"]:
                         all_events[all_texts[i]]["seen_in_dates"].append(snapshot_url)
+                    if not all_events[all_texts[i]].get("event_url"):
+                        all_events[all_texts[i]]["event_url"] = links.get(all_texts[i])
 
                 i += 6 #Jump forward to the next gev.
             else:

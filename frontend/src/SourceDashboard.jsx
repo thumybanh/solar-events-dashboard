@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { getJSON, downloadURL } from './api.js'
-import { SOURCES, cell, flagHelp } from './sources.js'
+import { SOURCES, cell, flagHelp, sourceLink } from './sources.js'
 import { MAX_IMAGE_GAP_MINUTES, closestImage, screenshotURL } from './solarImage.js'
 
 const PAGE_SIZE = 100 // rendering all ~50k rows at once locks up the browser
@@ -71,8 +71,9 @@ function SolarImage({time, event}){
   )
 }
 
-function FlarePopup({event, source, onClose}){
+function FlarePopup({event, sourceKey, source, onClose}){
   const time = source.imageTime(event)
+  const origin = sourceLink(sourceKey, event)
   return (
     <div className="overlay" onClick={onClose}>
       <div className="popup" onClick={e => e.stopPropagation()} role="dialog" aria-label={event.event_id}>
@@ -83,6 +84,12 @@ function FlarePopup({event, source, onClose}){
             <div key={c.key}><dt>{c.label}</dt><dd>{cell(event, c)}</dd></div>
           ))}
           {source.hasFlag && event.quality_flag && <p className="flag-help">{flagHelp(event.quality_flag)}</p>}
+          {origin.url && (
+            <p className="provenance">
+              Source: <a href={origin.url} target="_blank" rel="noopener noreferrer">{origin.label} ↗</a>
+              {origin.note && <span className="muted"> · {origin.note}</span>}
+            </p>
+          )}
         </dl>
         {time ? <SolarImage time={time} event={event} /> : <p className="muted">No time recorded, so no image.</p>}
       </div>
@@ -199,7 +206,7 @@ export default function SourceDashboard({sourceKey, filters, page, onApply, onPa
       </div>
 
       <Pagination page={page} total={total} onChange={onPage} />
-      {selected && <FlarePopup event={selected} source={source} onClose={() => setSelected(null)} />}
+      {selected && <FlarePopup event={selected} sourceKey={sourceKey} source={source} onClose={() => setSelected(null)} />}
     </section>
   )
 }

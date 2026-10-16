@@ -70,3 +70,28 @@ const FLAG_HELP = {
   'N/A': 'The other catalogue has nothing starting within 3 minutes.',
 }
 export const flagHelp = (flag) => FLAG_HELP[flag] || ''
+
+// Where each flare's record came from (provenance). LMSAL has a page per event; NOAA publishes one
+// report per day and NCEI one CSV per year, so for those the note names the line to look for.
+const NOAA_REPORTS = 'https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/solar_event_reports'
+const NCEI_REPORTS = 'https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/multi/l2/data/xrsf-l2-flrpt_science/csv'
+const ORDINAL = {2: 'second', 3: 'third', 4: 'fourth'}
+
+export const sourceLink = (sourceKey, event) => {
+  if (sourceKey === 'lmsal') {
+    // the link LMSAL's own snapshot gave; old events without one fall back to the snapshot itself
+    return event.event_url
+      ? {url: event.event_url, label: 'LMSAL event page', note: ''}
+      : {url: event.seen_in_dates?.[0], label: 'LMSAL latest-events page listing this event', note: ''}
+  }
+  if (sourceKey === 'noaa') {
+    const [, ymd, number, repeat] = event.event_id.split('_')
+    const which = repeat ? ` (${ORDINAL[repeat] || `#${repeat}`} entry with this number)` : ''
+    return {url: `${NOAA_REPORTS}/${ymd.slice(0, 4)}/${ymd.slice(4, 6)}/${ymd}events.txt`,
+      label: `NOAA/SWPC event report, ${event.date}`, note: `event #${number}${which}`}
+  }
+  const flareId = event.event_id.replace(/^sq_/, '').replace(/_\d+$/, '')
+  const year = flareId.slice(0, 4)
+  return {url: `${NCEI_REPORTS}/sci_xrsf-l2-flrpt_geo_y${year}_v1-0-1.csv`,
+    label: `NCEI science-quality flare report, ${year} (CSV)`, note: `flare_id ${flareId}`}
+}

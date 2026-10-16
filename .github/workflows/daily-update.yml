@@ -36,6 +36,10 @@ jobs:
       - name: Scrape LMSAL events
         run: python pipeline/daily_scraper.py
 
+      - name: Add LMSAL event links
+        # the scraper records each new event's own page; this fills in any it missed (only those are fetched)
+        run: python pipeline/lmsal_links.py
+
       - name: Download NOAA event files
         # NOAA's FTP server is occasionally unreachable. A miss is harmless — the next run
         # retries every date it is still missing — so don't fail the whole workflow over it.

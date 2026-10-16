@@ -175,3 +175,5 @@ button.link {
 .chart-tooltip .swatch { display: inline-block; width: 18px; height: 0; border-top-width: 2px; margin-right: 4px; vertical-align: middle; }
 .sun-figure { margin: 0; }
 .sun-figure figcaption { margin-top: 0.35rem; }
+.provenance { grid-column: 1 / -1; margin: 0; font-size: 0.9rem; }
+.provenance a { color: var(--link); }

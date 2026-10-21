@@ -1,29 +1,115 @@
 # Solar Events Dashboard
  
-A full-stack web application for exploring, filtering, and visualizing solar flare events from LMSAL (Lockheed Martin Solar and Astrophysics Laboratory) with quality comparison against NOAA/GOES data and solar image visualization.
+A full-stack web application for exploring, comparing and downloading solar flare records from three
+catalogues: **LMSAL** (Lockheed Martin Solar and Astrophysics Laboratory, SolarSoft latest events),
+**NOAA/SWPC** (daily X-ray event reports) and **NCEI SciQuality** (the science-quality GOES XRS flare
+report). LMSAL and NOAA flares are cross-checked against each other (HIGH / LOW / N/A), duplicate
+LMSAL entries are merged, every flare links back to its source record, and a Compare page charts the
+three catalogues side by side. A daily GitHub Action keeps the data current and Vercel serves the API
+and the website.
+
+- Website: https://solar-events-dashboard-web.vercel.app
+- API: https://solar-events-dashboard-tau.vercel.app (interactive docs at `/docs`)
  
+---
+
+## Architecture
+
+```mermaid
+flowchart TB
+  subgraph sources["External sources"]
+    LMSAL["LMSAL SolarSoft<br/>latest-events snapshots"]
+    NOAA["NOAA / SWPC<br/>daily event reports"]
+    NCEI["NCEI SciQuality<br/>GOES flare report CSV"]
+  end
+
+  subgraph bot["GitHub Action: daily-update.yml, 06:00 UTC"]
+    direction TB
+    S1["daily_scraper.py<br/>new LMSAL events"] --> S2["lmsal_links.py<br/>each event's LMSAL page"]
+    S2 --> S3["dedupe_lmsal.py<br/>merge duplicate entries"]
+    N1["noaa_downloader.py<br/>new NOAA reports"]
+    Q1["sciquality_downloader.py<br/>sciquality_events.py"]
+    S3 --> M["noaa_matcher.py + noaa_events.py<br/>parse NOAA, flag LMSAL and NOAA<br/>HIGH / LOW / N/A against each other"]
+    N1 --> M
+    M --> C["coordinates.py<br/>pixel positions for all three"]
+    Q1 --> C
+    C --> K["shrink check, then commit to main"]
+  end
+
+  LMSAL --> S1
+  NOAA --> N1
+  NCEI --> Q1
+
+  subgraph data["data/ in git"]
+    D1["events.json<br/>LMSAL"]
+    D2["noaa_events.json<br/>NOAA"]
+    D3["sciquality_events.json<br/>SciQuality"]
+  end
+  K --> data
+
+  subgraph vercel["Vercel"]
+    API["API project: solar-events-dashboard<br/>api.py + api_sources.py, FastAPI"]
+    WEB["Website project: solar-events-dashboard-web<br/>frontend/, React + Vite + D3"]
+  end
+  data -->|"each push to main rebuilds the API"| API
+  WEB -->|"fetch: /events, /noaa/..., /sciquality/..., /compare"| API
+  API -->|"closest image lookup"| HV["Helioviewer API"]
+  WEB -->|"magnetogram image"| HV
+  U(("Researcher")) --> WEB
+  U -->|"query URLs, /docs"| API
+```
+
+How the pieces fit:
+
+1. **Collect** (daily, GitHub Action). The scraper adds new LMSAL events and records each one's own
+   LMSAL page; duplicate LMSAL entries (same class, peak and position) are merged; new NOAA reports
+   and the newest SciQuality report are downloaded.
+2. **Process.** NOAA reports are parsed into one record per X-ray flare; LMSAL and NOAA are flagged
+   against each other (a merged flare is compared using every start time it was listed with);
+   positions are converted to pixel coordinates on a 512 px solar image.
+3. **Store.** Everything lands in three JSON files under `data/`, committed to `main`. The workflow
+   refuses to commit if any file loses entries.
+4. **Serve.** Vercel rebuilds the API on every push to `main`. `api_sources.py` gives the three
+   catalogues one shared interface: cached loading, validated filters (a bad value is a 400 with a
+   message), per-source lists, downloads, single records, stats, and `/compare` chart data.
+5. **Show.** The website calls the API, shows each catalogue in its own tab, draws the Compare chart
+   with D3, and links each flare to its source record. Solar images come from Helioviewer; the
+   "closest image" lookup goes through the API because Helioviewer only allows it from localhost
+   in a browser.
+
 ---
  
 ## Project Structure
  
 ```
 solar-events-dashboard/
-├── api.py                      # FastAPI backend — serves event data
+├── api.py                      # FastAPI app: routes for the three catalogues, /compare, /solar-image/closest
+├── api_sources.py              # Shared Source class: loading + cache, filters + validation, stats, compare()
+├── pyproject.toml              # Python project + Vercel entrypoint (api:app)
 ├── requirements.txt            # Python dependencies
-├── procfile, railway.json      # Deployment: both start `uvicorn api:app`
+├── .vercelignore               # What the API upload leaves out (venv, tests, raw NOAA files, analysis/, ...)
+├── procfile, railway.json      # Old Railway deployment (no longer used)
 ├── README.md
 ├── NOTES.md                    # Working notes: findings and open questions
 │
-├── pipeline/                   # Builds and updates the dataset (run in this order)
+├── pipeline/                   # Builds and updates the dataset (order: see Automated Daily Updates)
 │   ├── scraper.py              # Full scrape of every LMSAL event since 2002-09-26
 │   ├── daily_scraper.py        # Resumes from the newest event in events.json (run daily)
+│   ├── lmsal_links.py          # Records each LMSAL event's own page link (provenance); backfills missing ones
+│   ├── dedupe_lmsal.py         # Merges LMSAL entries that are the same flare (kept under merged_from)
 │   ├── noaa_downloader.py      # Downloads NOAA event txt files via FTP
-│   ├── noaa_matcher.py         # Parses NOAA data + assigns quality flags
-│   └── coordinates.py          # Converts derived position to pixel coordinates
+│   ├── noaa_events.py          # Parses every NOAA XRA flare (FLA line gives its location)
+│   ├── noaa_matcher.py         # Flags LMSAL and NOAA HIGH / LOW / N/A against each other; writes both files
+│   ├── sciquality_downloader.py # Fetches the newest NCEI science-quality flare report
+│   ├── sciquality_events.py    # Converts that CSV to sciquality_events.json
+│   └── coordinates.py          # Converts positions to pixel coordinates for all three catalogues
 │
-├── data/                       # The dataset (written by pipeline/, read by api.py)
-│   ├── events.json             # Scraped + processed event database
-│   ├── noaa_data/              # Downloaded NOAA txt files, one per day (YYYYMMDDevents.txt)
+├── data/                       # The dataset (written by pipeline/, read by the API)
+│   ├── events.json             # LMSAL flares: flags, matches, links, merged duplicates, pixels
+│   ├── noaa_events.json        # NOAA X-ray flares: flags, matches, locations, pixels
+│   ├── sciquality_events.json  # NCEI SciQuality flares: fluxes, satellite, locations, pixels
+│   ├── goes_sciquality/        # The raw NCEI report CSV + its metadata
+│   ├── noaa_data/              # Raw NOAA txt files, one per day (YYYYMMDDevents.txt)
 │   └── noaa_unavailable.txt    # Dates NOAA has no report for, so they aren't re-downloaded
 │
 ├── analysis/                   # Research scripts — read data/, never modify it
@@ -35,13 +121,25 @@ solar-events-dashboard/
 │   ├── flare_match_tolerance_sweep.py  # Match counts as each tolerance loosens
 │   └── results/                # CSV outputs of the scripts above
 │
-├── frontend/                   # React + Vite dashboard
-│   └── src/
-│       ├── App.jsx             # Dashboard UI
-│       └── index.css           # Global styles
+├── tests/                      # pytest: parser, matcher, merge, links, SciQuality, API, /compare
+│   └── fixtures/               # Small NOAA and SciQuality files in the real formats
+│
+├── frontend/                   # React + Vite website
+│   ├── src/
+│   │   ├── App.jsx             # Tabs (LMSAL / NOAA / SciQuality / Compare); state kept in the URL
+│   │   ├── SourceDashboard.jsx # One table + filters + downloads + flare popup, configured per source
+│   │   ├── sources.js          # Per-source columns, flag sentences, source links, merged-entry notes
+│   │   ├── ComparePage.jsx     # Compare search, totals, caption, SVG/CSV download
+│   │   ├── CompareChart.jsx    # D3 chart: counts per day/month/year, or each flare by peak flux
+│   │   ├── chartStyle.js       # Fixed color + dash + marker per catalogue
+│   │   ├── compareData.js      # Coverage gaps and CSV export shared by chart and download
+│   │   ├── solarImage.js       # Helioviewer image lookup and screenshot URL
+│   │   ├── api.js              # API address (VITE_API_BASE) and fetch helper
+│   │   └── urlState.js         # Reads/writes the tab and filters in the address bar
+│   └── tests/                  # node --test: chart data, source links, flag sentences, images
 │
 └── .github/workflows/
-    └── daily-update.yml        # Runs pipeline/ daily and commits the new data
+    └── daily-update.yml        # Runs pipeline/ daily and commits the new data to main
 ```
 
 Every script finds its files relative to its own location, so it can be run from any folder:
@@ -88,7 +186,35 @@ npm run dev
 ```
  
 - Backend runs at: `http://localhost:8000`
-- Frontend runs at: `http://localhost:5173`
+- Frontend runs at: `http://localhost:5173` (it calls `http://localhost:8000` unless `VITE_API_BASE` is set)
+
+**Tests:**
+```bash
+python -m pytest tests -q        # pipeline, matcher, merge, API (from the repo root)
+cd frontend && npm test          # website helpers (node's built-in test runner)
+```
+
+---
+
+## Deployment (Vercel)
+
+Two Vercel projects serve the app:
+
+| Project | What it builds | Address |
+|---|---|---|
+| `solar-events-dashboard` | The FastAPI app (`api:app`, see `pyproject.toml`), with the files in `data/` | https://solar-events-dashboard-tau.vercel.app |
+| `solar-events-dashboard-web` | The website in `frontend/`, built with `VITE_API_BASE` set to the API address | https://solar-events-dashboard-web.vercel.app |
+
+- The API project is connected to GitHub, so every push to `main`, including each daily bot commit,
+  rebuilds it with the new data. `.vercelignore` keeps the upload small (no `venv/`, `tests/`,
+  `analysis/`, raw NOAA files or the raw SciQuality CSV).
+- The website only needs rebuilding when its code changes. To deploy it by hand:
+  ```bash
+  cd frontend
+  vercel deploy --prod --build-env VITE_API_BASE=https://solar-events-dashboard-tau.vercel.app
+  ```
+- `/scrape` doesn't work on Vercel (its servers can't save files); the daily GitHub Action does that job.
+- A failed build never replaces a working deployment, so the site keeps running if a build breaks.
 ---
  
 ## Scripts — Run in Order

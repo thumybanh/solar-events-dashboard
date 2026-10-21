@@ -145,3 +145,16 @@ def test_closest_solar_image_is_fetched_by_the_api(client, monkeypatch):
 def test_closest_solar_image_rejects_bad_input(client):
     assert client.get('/solar-image/closest', params={'date': 'yesterday', 'source_id': 19}).status_code == 400
     assert client.get('/solar-image/closest', params={'date': '2026-10-03T16:50:00Z', 'source_id': 999}).status_code == 400
+
+
+def test_a_merged_duplicate_id_still_finds_its_flare(tmp_path):
+    import api_sources
+    path = tmp_path / 'events.json'
+    path.write_text(json.dumps([
+        {'event_id': 'gev_20261001_2120', 'event_start': '2026/10/01 21:20:00', 'event_GOES': 'C1.5',
+         'event_position': 'N22E64( 4545 )', 'merged_from': [{'event_id': 'gev_20261001_2121', 'event_start': '2026/10/01 21:21:00'}]},
+    ]))
+    source = api_sources.Source('lmsal', str(path), api_sources.LMSAL_FIELDS)
+    assert source.find('gev_20261001_2121')['event_id'] == 'gev_20261001_2120'
+    assert source.find('gev_20261001_2120')['event_id'] == 'gev_20261001_2120'
+    assert source.find('gev_19990101_0000') is None

@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { getJSON, downloadURL } from './api.js'
-import { SOURCES, cell, flagHelp, sourceLink } from './sources.js'
+import { SOURCES, cell, flagHelp, mergedNote, sourceLink } from './sources.js'
 import { MAX_IMAGE_GAP_MINUTES, closestImage, screenshotURL } from './solarImage.js'
 
 const PAGE_SIZE = 100 // rendering all ~50k rows at once locks up the browser
@@ -74,6 +74,7 @@ function SolarImage({time, event}){
 function FlarePopup({event, sourceKey, source, onClose}){
   const time = source.imageTime(event)
   const origin = sourceLink(sourceKey, event)
+  const merged = mergedNote(sourceKey, event)
   return (
     <div className="overlay" onClick={onClose}>
       <div className="popup" onClick={e => e.stopPropagation()} role="dialog" aria-label={event.event_id}>
@@ -83,11 +84,24 @@ function FlarePopup({event, sourceKey, source, onClose}){
           {source.columns.filter(c => c.key !== 'event_id').map(c => (
             <div key={c.key}><dt>{c.label}</dt><dd>{cell(event, c)}</dd></div>
           ))}
-          {source.hasFlag && event.quality_flag && <p className="flag-help">{flagHelp(event.quality_flag)}</p>}
+          {source.hasFlag && event.quality_flag && <p className="flag-help">{flagHelp(event.quality_flag, sourceKey)}</p>}
           {origin.url && (
             <p className="provenance">
               Source: <a href={origin.url} target="_blank" rel="noopener noreferrer">{origin.label} ↗</a>
               {origin.note && <span className="muted"> · {origin.note}</span>}
+            </p>
+          )}
+          {merged && (
+            <p className="provenance">
+              LMSAL also listed this flare as{' '}
+              {merged.entries.map((m, i) => (
+                <span key={m.id}>{i > 0 && ', '}
+                  {m.url ? <a href={m.url} target="_blank" rel="noopener noreferrer">{m.id} ↗</a> : m.id}
+                  <span className="muted"> (start {m.start.split(' ')[1]})</span>
+                </span>
+              ))}
+              ; these duplicate entries were merged into this one.
+              {merged.matchedVia && <span className="muted"> The NOAA match used the start time of {merged.matchedVia}.</span>}
             </p>
           )}
         </dl>
@@ -198,7 +212,7 @@ export default function SourceDashboard({sourceKey, filters, page, onApply, onPa
               <tr key={event.event_id}>
                 {source.columns.map(c => c.key === 'event_id'
                   ? <td key={c.key}><button className="link" onClick={() => setSelected(event)}>{event.event_id}</button></td>
-                  : <td key={c.key} className={cell(event, c) === 'N/A' ? 'na' : ''} title={c.key === 'quality_flag' ? flagHelp(event.quality_flag) : undefined}>{cell(event, c)}</td>)}
+                  : <td key={c.key} className={cell(event, c) === 'N/A' ? 'na' : ''} title={c.key === 'quality_flag' ? flagHelp(event.quality_flag, sourceKey) : undefined}>{cell(event, c)}</td>)}
               </tr>
             ))}
           </tbody>

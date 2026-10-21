@@ -204,7 +204,9 @@ class Source:
         return rows
 
     def find(self, event_id):
-        return next((r for r in self.all() if r['event_id'] == event_id), None)
+        # an ID that was merged into another flare as a duplicate still finds that flare
+        return next((r for r in self.all() if r['event_id'] == event_id
+                     or any(m['event_id'] == event_id for m in r.get('merged_from') or [])), None)
 
     def stats(self):
         rows = self.all()

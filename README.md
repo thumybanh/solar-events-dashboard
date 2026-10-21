@@ -126,6 +126,27 @@ crontab -e
 ```
 Connects to the NOAA FTP server (`ftp.swpc.noaa.gov`) and downloads event txt files for each unique date present in `events.json`. Files saved to `data/noaa_data/`. Automatically skips dates where NOAA has no data.
  
+### 3b. Merge Duplicate LMSAL Entries
+```bash
+/opt/miniconda3/bin/python pipeline/dedupe_lmsal.py
+```
+LMSAL builds an event's ID from its start time, so when it lists one flare twice with start times a
+few minutes apart (or corrects the start and lists it again), the flare ends up with two IDs. Two
+entries are treated as the same flare when they have the **same GOES class, same peak time and same
+position**, ignoring the `( AR )` part of the position (one entry often has the region number and the
+other doesn't). On the October 2026 data this merges 408 entries into 403 flares (50,444 → 50,036).
+
+- The merged record is LMSAL's latest version of the flare (the entry still on its most recent
+  snapshot); if LMSAL kept listing both to the end, the one with the earlier start. If only a dropped
+  entry has the AR number, it is copied over.
+- Every other entry is kept inside it under `merged_from` (ID, times, position, LMSAL link, snapshot
+  history), and the API still finds a flare by any of its old IDs.
+- The matcher compares NOAA against **every** start time a merged flare was listed with, so merging
+  never takes a match away: every NOAA flag is the same as before merging.
+- Once merged, the record that is kept stays the kept one, so re-running doesn't change a flare's ID.
+- Entries with the same class and position but a different peak time are left separate; they may be
+  two real flares.
+
 ### 4. Match & Assign Quality Flags
 ```bash
 /opt/miniconda3/bin/python pipeline/noaa_matcher.py
@@ -272,6 +293,7 @@ day's state of the data and reproduced later.
 ```
 First time setup:
 1. python pipeline/scraper.py          → builds full historical database (2002 to now)
+   python pipeline/dedupe_lmsal.py     → merges LMSAL entries that are the same flare
 2. python pipeline/noaa_downloader.py  → downloads NOAA comparison files
 3. python pipeline/sciquality_downloader.py → downloads the NCEI science-quality report
 4. python pipeline/sciquality_events.py    → builds sciquality_events.json
@@ -280,6 +302,7 @@ First time setup:
 
 Daily maintenance:
 1. python pipeline/daily_scraper.py    → adds every event since the newest one on file
+   python pipeline/lmsal_links.py && python pipeline/dedupe_lmsal.py
 2. python pipeline/noaa_downloader.py  → downloads any new NOAA files
 3. python pipeline/sciquality_downloader.py && python pipeline/sciquality_events.py
 4. python pipeline/noaa_matcher.py     → updates NOAA flares and quality flags
@@ -373,6 +396,8 @@ Each event in `events.json` contains:
 | `seen_in_dates` | LMSAL snapshot URLs where event appeared | `[...]` |
 | `quality_flag` | NOAA comparison result | `HIGH`, `LOW` or `N/A` |
 | `matched_noaa_id` | The NOAA flare it matched (HIGH only) | `noaa_20260216_1520` |
+| `matched_via` | Which LMSAL entry's start time made the match (its own ID, or a merged duplicate's) | `gev_20260216_1224` |
+| `merged_from` | Duplicate LMSAL entries merged into this flare, each with its ID, times, position, link and snapshots (only on merged flares) | `[{"event_id": "gev_20261001_2121", ...}]` |
 | `end_time_diff` | LMSAL stop minus NOAA end, in minutes; `null` when unavailable | `0` |
 | `pix_x` | X pixel coordinate on 512x512 image | `300.5` |
 | `pix_y` | Y pixel coordinate on 512x512 image | `210.3` |

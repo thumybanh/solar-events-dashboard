@@ -64,12 +64,17 @@ export const cell = (event, column) => {
   return column.format ? column.format(value) : String(value)
 }
 
+// LMSAL and NOAA are flagged against each other, so each one's "other catalogue" is the opposite one
+const OTHER_CATALOGUE = {lmsal: 'NOAA', noaa: 'LMSAL'}
 const FLAG_HELP = {
-  HIGH: 'The other catalogue has a flare of the same class starting within 3 minutes.',
-  LOW: 'The other catalogue has a flare starting within 3 minutes, but of a different class.',
-  'N/A': 'The other catalogue has nothing starting within 3 minutes.',
+  HIGH: (other) => `The ${other} catalogue has a flare of the same class starting within 3 minutes.`,
+  LOW: (other) => `The ${other} catalogue has a flare starting within 3 minutes, but of a different class.`,
+  'N/A': (other) => `The ${other} catalogue has nothing starting within 3 minutes.`,
 }
-export const flagHelp = (flag) => FLAG_HELP[flag] || ''
+export const flagHelp = (flag, sourceKey) => {
+  const other = OTHER_CATALOGUE[sourceKey]
+  return other && FLAG_HELP[flag] ? FLAG_HELP[flag](other) : ''
+}
 
 // Where each flare's record came from (provenance). LMSAL has a page per event; NOAA publishes one
 // report per day and NCEI one CSV per year, so for those the note names the line to look for.
@@ -94,4 +99,16 @@ export const sourceLink = (sourceKey, event) => {
   const year = flareId.slice(0, 4)
   return {url: `${NCEI_REPORTS}/sci_xrsf-l2-flrpt_geo_y${year}_v1-0-1.csv`,
     label: `NCEI science-quality flare report, ${year} (CSV)`, note: `flare_id ${flareId}`}
+}
+
+// LMSAL flares that were listed more than once are merged into one record (pipeline/dedupe_lmsal.py);
+// the popup lists the merged entries and, when a merged entry's start time is what matched NOAA, says so
+export const mergedNote = (sourceKey, event) => {
+  const merged = event.merged_from || []
+  if (sourceKey !== 'lmsal' || !merged.length) return null
+  const via = merged.find(m => m.event_id === event.matched_via)
+  return {
+    entries: merged.map(m => ({id: m.event_id, start: m.event_start, url: m.event_url})),
+    matchedVia: via ? `${via.event_id} (start ${via.event_start.split(' ')[1]})` : null,
+  }
 }

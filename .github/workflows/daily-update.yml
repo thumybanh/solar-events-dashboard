@@ -27,10 +27,11 @@ jobs:
 
       - name: Record starting counts
         id: before
-        # the files don't exist before the first run that creates them, so a missing file counts as 0
+        # the files don't exist before the first run that creates them, so a missing file counts as 0.
+        # LMSAL duplicates merged into one flare still count as entries, so merging never looks like a drop
         run: |
           for name in events noaa_events sciquality_events; do
-            echo "$name=$(python -c "import json,os,sys;p=sys.argv[1];print(len(json.load(open(p))) if os.path.exists(p) else 0)" "data/$name.json")" >> "$GITHUB_OUTPUT"
+            echo "$name=$(python -c "import json,os,sys;p=sys.argv[1];d=json.load(open(p)) if os.path.exists(p) else [];print(len(d)+sum(len(e.get('merged_from') or []) for e in d))" "data/$name.json")" >> "$GITHUB_OUTPUT"
           done
 
       - name: Scrape LMSAL events
@@ -39,6 +40,11 @@ jobs:
       - name: Add LMSAL event links
         # the scraper records each new event's own page; this fills in any it missed (only those are fetched)
         run: python pipeline/lmsal_links.py
+
+      - name: Merge duplicate LMSAL entries
+        # same GOES class, peak time and position = the same flare listed twice; the extra entries are
+        # kept inside the merged record (merged_from), and the matcher still uses all their start times
+        run: python pipeline/dedupe_lmsal.py
 
       - name: Download NOAA event files
         # NOAA's FTP server is occasionally unreachable. A miss is harmless — the next run
@@ -65,7 +71,7 @@ jobs:
         # (an LMSAL layout change, a truncated download) and must not be committed
         run: |
           check() {
-            AFTER=$(python -c "import json,sys;print(len(json.load(open(sys.argv[1]))))" "data/$1.json")
+            AFTER=$(python -c "import json,sys;d=json.load(open(sys.argv[1]));print(len(d)+sum(len(e.get('merged_from') or []) for e in d))" "data/$1.json")
             echo "$1: $2 -> $AFTER"
             if [ "$AFTER" -lt "$2" ]; then
               echo "::error::$1 count dropped from $2 to $AFTER — refusing to commit."

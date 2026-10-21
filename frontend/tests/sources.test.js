@@ -26,3 +26,26 @@ test('SciQuality links to that year\'s NCEI flare report and names the flare_id'
     url: 'https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/multi/l2/data/xrsf-l2-flrpt_science/csv/sci_xrsf-l2-flrpt_geo_y2026_v1-0-1.csv',
     label: 'NCEI science-quality flare report, 2026 (CSV)', note: 'flare_id 202607042029'})
 })
+
+test('the flag sentence names the other catalogue: NOAA for LMSAL flares, LMSAL for NOAA flares', async () => {
+  const { flagHelp } = await import('../src/sources.js')
+  assert.equal(flagHelp('HIGH', 'lmsal'), 'The NOAA catalogue has a flare of the same class starting within 3 minutes.')
+  assert.equal(flagHelp('LOW', 'lmsal'), 'The NOAA catalogue has a flare starting within 3 minutes, but of a different class.')
+  assert.equal(flagHelp('N/A', 'lmsal'), 'The NOAA catalogue has nothing starting within 3 minutes.')
+  assert.equal(flagHelp('HIGH', 'noaa'), 'The LMSAL catalogue has a flare of the same class starting within 3 minutes.')
+  assert.equal(flagHelp('N/A', 'noaa'), 'The LMSAL catalogue has nothing starting within 3 minutes.')
+  assert.equal(flagHelp('N/A', 'sciquality'), '') // SciQuality isn't flagged
+  assert.equal(flagHelp(undefined, 'noaa'), '')
+})
+
+test('a merged LMSAL flare lists the duplicate entries folded into it, and which start matched NOAA', async () => {
+  const { mergedNote } = await import('../src/sources.js')
+  const event = {event_id: 'gev_20120929_0750', matched_via: 'gev_20120929_0617', merged_from: [
+    {event_id: 'gev_20120929_0617', event_start: '2012/09/29 06:17:00', event_url: 'https://lmsal/0617'}]}
+  assert.deepEqual(mergedNote('lmsal', event), {
+    entries: [{id: 'gev_20120929_0617', start: '2012/09/29 06:17:00', url: 'https://lmsal/0617'}],
+    matchedVia: 'gev_20120929_0617 (start 06:17:00)'})
+  assert.equal(mergedNote('lmsal', {...event, matched_via: 'gev_20120929_0750'}).matchedVia, null) // matched with its own start
+  assert.equal(mergedNote('lmsal', {event_id: 'gev_1'}), null)
+  assert.equal(mergedNote('noaa', event), null)
+})

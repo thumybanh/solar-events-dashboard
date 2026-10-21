@@ -132,6 +132,14 @@ def _flag(found, best):
     return 'HIGH' if best is not None else 'LOW' if found else 'N/A'
 
 
+def _versions(event):
+    """(id, start, stop) for every start time LMSAL gave this flare: its own first, then the duplicate
+    entries merged into it (dedupe_lmsal.py), so merging never takes a match away from either side."""
+    yield event['event_id'], event['event_start'], event['event_stop']
+    for entry in event.get('merged_from') or []:
+        yield entry['event_id'], entry['event_start'], entry['event_stop']
+
+
 def match(lmsal_events, noaa_flares):
     """Flags both catalogues against each other, in place.
 
@@ -139,32 +147,43 @@ def match(lmsal_events, noaa_flares):
     (the closest such flare is recorded). LOW: it has a flare starting within the window, but of a
     different class. N/A: it has nothing starting within the window, or this flare's own begin time
     or class is missing, so there is nothing to compare.
+
+    A merged LMSAL flare is compared using every start time it was listed with; matched_via names
+    the entry whose start matched.
     """
     # same date is guaranteed by the lookup key, so only the time/class checks are left
     lmsal_by_date, noaa_by_date = {}, {}
     for event in lmsal_events:
-        date, _, clock = event['event_start'].partition(' ')
-        lmsal_by_date.setdefault(date.replace('/', ''), []).append((to_minutes(clock), event['event_GOES'], event))
+        for _, start_text, _ in _versions(event):
+            date, _, clock = start_text.partition(' ')
+            lmsal_by_date.setdefault(date.replace('/', ''), []).append((to_minutes(clock), event['event_GOES'], event))
     for flare in noaa_flares:
         noaa_by_date.setdefault(flare['date'].replace('-', ''), []).append((_clock(flare['begin']), flare['goes_class'], flare))
 
-    for date, rows in lmsal_by_date.items():
-        for start, cls, event in rows:
-            found, best = _candidates(start, cls, noaa_by_date.get(date, []))
-            event['quality_flag'] = _flag(found, best)
-            event['matched_noaa_id'] = best[1]['event_id'] if best else None
-            event['end_time_diff'] = None
-            if best:
-                # How well the two sources agree on where the flare ended. Recorded, not
-                # used to decide the match: onset is an objective threshold crossing, while
-                # the end depends on each pipeline's decay criteria, so end times scatter
-                # ~45x wider than begin times. Gating on it would exclude exactly the
-                # disagreements this dataset exists to measure.
-                noaa_flare = best[1]
-                n_end = resolve_end(_clock(noaa_flare['begin']), _clock(noaa_flare['end']))
-                l_end = resolve_end(start, to_minutes(event['event_stop']))
-                if n_end is not None and l_end is not None:
-                    event['end_time_diff'] = l_end - n_end
+    for event in lmsal_events:
+        found, best, via = False, None, None  # via = (entry id, start minutes, stop) that matched
+        for version_id, start_text, stop in _versions(event):
+            date, _, clock = start_text.partition(' ')
+            start = to_minutes(clock)
+            version_found, version_best = _candidates(start, event['event_GOES'], noaa_by_date.get(date.replace('/', ''), []))
+            found = found or version_found
+            if version_best and (best is None or version_best[0] < best[0]):  # ties keep the own entry
+                best, via = version_best, (version_id, start, stop)
+        event['quality_flag'] = _flag(found, best)
+        event['matched_noaa_id'] = best[1]['event_id'] if best else None
+        event['matched_via'] = via[0] if best else None
+        event['end_time_diff'] = None
+        if best:
+            # How well the two sources agree on where the flare ended. Recorded, not
+            # used to decide the match: onset is an objective threshold crossing, while
+            # the end depends on each pipeline's decay criteria, so end times scatter
+            # ~45x wider than begin times. Gating on it would exclude exactly the
+            # disagreements this dataset exists to measure.
+            noaa_flare = best[1]
+            n_end = resolve_end(_clock(noaa_flare['begin']), _clock(noaa_flare['end']))
+            l_end = resolve_end(via[1], to_minutes(via[2]))  # the matched entry's own start and stop
+            if n_end is not None and l_end is not None:
+                event['end_time_diff'] = l_end - n_end
 
     for date, rows in noaa_by_date.items():
         for start, cls, flare in rows:

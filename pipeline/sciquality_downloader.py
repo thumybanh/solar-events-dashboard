@@ -36,15 +36,31 @@ def _header_and_rows(path):
         return header, sum(1 for _ in reader)
 
 
+# columns the dashboard relies on; a new report must not quietly blank them
+# (NCEI's e20261019 report kept every row but dropped 13,690 X-ray locations to 77)
+WATCHED_COLUMNS = ('flare_loc_xrs_hgs_lat', 'flare_loc_swpc_hgs_lat', 'active_region')
+MAX_COLUMN_LOSS = 0.01
+
+
+def _filled(path):
+    with open(path, newline='') as f:
+        rows = list(csv.DictReader(f))
+    return {c: sum(1 for r in rows if (r.get(c) or '').strip()) for c in WATCHED_COLUMNS}
+
+
 def is_acceptable(new_path, old_path):
-    """A download replaces the old report only if it has the same columns and no fewer flares."""
+    """A download replaces the old report only if it has the same columns, no fewer flares,
+    and hasn't lost more than 1% of its locations or region numbers."""
     new_header, new_rows = _header_and_rows(new_path)
     if not new_header or new_rows == 0:
         return False
     if old_path is None:
         return True
     old_header, old_rows = _header_and_rows(old_path)
-    return new_header == old_header and new_rows >= old_rows
+    if new_header != old_header or new_rows < old_rows:
+        return False
+    new_filled, old_filled = _filled(new_path), _filled(old_path)
+    return all(new_filled[c] >= old_filled[c] * (1 - MAX_COLUMN_LOSS) for c in WATCHED_COLUMNS)
 
 
 def main():
@@ -75,7 +91,7 @@ def main():
 
     if not is_acceptable(target + '.part', old):
         os.remove(target + '.part')
-        print(f'{name} has a different header or fewer flares than {old}; keeping the current file.')
+        print(f'{name} has a different header, fewer flares, or lost locations/regions compared with {old}; keeping the current file.')
         return
     os.replace(target + '.part', target)
     if old and old != target:

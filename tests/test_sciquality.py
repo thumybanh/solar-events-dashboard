@@ -73,3 +73,17 @@ def test_failed_download_leaves_no_partial_file(tmp_path, monkeypatch):
     monkeypatch.setattr(httpx, 'stream', lambda *a, **k: contextlib.nullcontext(Broken()))
     dl.main()
     assert sorted(p.name for p in tmp_path.iterdir()) == [old.name]
+
+
+def test_new_report_that_drops_locations_is_rejected(tmp_path):
+    # NCEI's e20261019 report kept every row but blanked the X-ray-derived locations
+    import csv
+    rows = list(csv.DictReader(open(FIXTURE, newline='')))
+    blanked = tmp_path / 'blanked.csv'
+    with open(blanked, 'w', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=rows[0].keys())
+        writer.writeheader()
+        for r in rows:
+            writer.writerow({**r, 'flare_loc_xrs_hgs_lat': '', 'flare_loc_xrs_hgs_lon': ''})
+    assert not is_acceptable(str(blanked), str(FIXTURE))
+    assert is_acceptable(str(FIXTURE), str(FIXTURE))

@@ -1,0 +1,56 @@
+:Product: 20261020events.txt
+:Created: 2026 Oct 21 0927 UT
+:Date: 2026 10 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Oct 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2430       0033   0040      0051  G18  5   XRA  1-8A      B8.9    9.2E-04   4551
+
+2500 +     0051   0058      0106  G18  5   XRA  1-8A      C1.0    8.8E-04   4557
+
+2440 +     0213   0219      0235  G18  5   XRA  1-8A      C1.8    2.1E-03   4557
+2440       0222   0224      0224  LEA  3   FLA  N07W28    SF      ERU       4557
+
+2450 +     0236   0245      0250  G18  5   XRA  1-8A      C3.5    2.2E-03   4557
+2450       0242   0244      0248  LEA  3   FLA  N05W27    SF      ERU       4557
+
+2460 +     0258   0303      0308  G18  5   XRA  1-8A      C2.6    1.4E-03   4557
+
+2470 +     0624   0636      0642  G18  5   XRA  1-8A      C2.0    1.6E-03   4557
+2470       0633   0634      0649  SVI  3   FLA  N07W27    SF      ERU       4557
+
+2480 +     0743   0752      0756  G18  5   XRA  1-8A      C2.4    1.8E-03   4557
+
+2510 +     1208   1216      1221  G18  5   XRA  1-8A      B9.7    6.8E-04   4557
+
+2520 +     1255   1303      1329  G18  5   XRA  1-8A      B9.4    2.0E-03   4557
+
+2540 +     1329   1337      1342  G18  5   XRA  1-8A      B9.5    7.8E-04   4560
+
+2530 +     1346   1356      1402  G18  5   XRA  1-8A      C2.8    1.8E-03   4557
+2530       1353  U1356      1409  SVI  3   FLA  N06W34    1F      ERU       4557
+
+2550 +     1826   1836      1843  G18  5   XRA  1-8A      C1.4    1.1E-03   4551
+
+2560       2008   2008      2011  PAL  U   RBR  245       1400                  
+
+2570       2014   2015      2015  PAL  U   RBR  245       4800                  
+
+2580       2022   2022      2022  PAL  U   RBR  245       230                   
+
+2590       2025   2025      2027  PAL  U   RBR  245       1900                  
+
+2600       2105   2105      2105  PAL  U   RBR  245       130                   
+
+2630       2105   2150      2202  PAL  U   RNS  245       140                   
+
+2610       2208   2209      2209  PAL  U   RBR  8800      180                   
+
+2620       2214   2214      2214  PAL  U   RBR  8800      150                   

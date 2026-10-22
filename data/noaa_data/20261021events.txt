@@ -1,0 +1,46 @@
+:Product: 20261021events.txt
+:Created: 2026 Oct 22 0927 UT
+:Date: 2026 10 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Oct 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2640 +     0101   0110      0118  G18  5   XRA  1-8A      B7.5    7.5E-04   4551
+
+2650       0312   0319      0326  G18  5   XRA  1-8A      B7.5    7.4E-04   4551
+
+2690 +     0326   0333      0339  G18  5   XRA  1-8A      B7.0    6.1E-04   4557
+
+2660       0605   0609      0614  G19  5   XRA  1-8A      B7.6    4.5E-04   4557
+2660       0613   0614      0614  LEA  U   RBR  610       360                   
+
+2670       0737   0744      0754  G18  5   XRA  1-8A      B7.6    7.6E-04   4557
+2670       0741   0741      0741  SVI  U   RBR  245       190                   
+
+2680 +     0813   0820      0824  G18  5   XRA  1-8A      B8.1    5.6E-04   4557
+
+2700 +     1026   1030      1043  G19  5   XRA  1-8A      B8.9    9.7E-04   4557
+
+2770 +     1051   1058      1103  G18  5   XRA  1-8A      C1.3    1.0E-03   4551
+
+2710       1334   1334      1334  SAG  G   RBR  245       100                   
+
+2720       1749   1758      1806  G19  5   XRA  1-8A      B9.8    9.8E-04   4551
+
+2730       1806   ////      1807  SAG  C   RSP  025-044   III/2                 
+
+2740       2016   2016      2017  PAL  U   RBR  245       230                   
+
+2750 +     2108   2119      2131  G18  5   XRA  1-8A      C1.4    1.7E-03   4560
+2750       2113   2117      2122  HOL  2   FLA  N10W30    SF                4560
+
+2780       2117   2118      2135  HOL  3   FLA  N08W51    SN                4557
+
+2760 +     2244   2252      2256  G18  5   XRA  1-8A      C2.1    9.9E-04   4560
+2760       2250   2252      2311  HOL  2   FLA  N11W31    SN      DSD       4560

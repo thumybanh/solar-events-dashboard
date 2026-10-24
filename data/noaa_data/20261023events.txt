@@ -1,0 +1,64 @@
+:Product: 20261023events.txt
+:Created: 2026 Oct 24 0927 UT
+:Date: 2026 10 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Oct 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2960 +     0146   ////      0147  LEA  C   RSP  025-180   III/3                 
+
+2970       0204   0208      0214  G19  5   XRA  1-8A      B7.6    5.0E-04   4560
+
+2980       0245   0251      0253  G19  5   XRA  1-8A      B7.8    4.3E-04   4560
+
+2990 +     0343   0355      0410  G18  5   XRA  1-8A      C1.3    2.0E-03   4557
+
+3000 +     0441   0448      0454  G18  5   XRA  1-8A      C1.9    1.2E-03   4560
+
+3010 +     0533   0542      0544  G18  5   XRA  1-8A      C3.3    1.7E-03   4560
+3010       0537   0539      0545  LEA  3   FLA  N10W49    SF                4560
+
+3020       0629  U0631      0648  SVI  3   FLA  N10W33    SF                4560
+
+3030 +     0754   0801      0811  G18  5   XRA  1-8A      C1.1    1.2E-03   4557
+3030       0759   ////      0810  SVI  C   RSP  025-180   VI/2                  
+3030       0759   ////      0810  LEA  C   RSP  025-144   III/2                 
+
+3040 +     0934   0939      0945  G18  5   XRA  1-8A      C1.2    1.1E-03   4557
+3040       0942   ////      0955  SVI  C   RSP  025-130   VI/1                  
+
+3170 +     0945   1001      1016  G18  5   XRA  1-8A      C1.8    3.1E-03       
+
+3050       1031   ////      1031  SVI  C   RSP  025-083   III/2                 
+
+3060 +     1233   1239      1245  G18  5   XRA  1-8A      C1.2    7.3E-04   4557
+
+3070 +     1348   ////      1348  SAG  C   RSP  025-046   III/1                 
+
+3080 +     1401   1403      1406  G18  5   XRA  1-8A      B7.6    2.7E-04   4560
+
+3090       1433   1433      1433  SVI  G   RBR  410       110                   
+
+3100 +     1434   ////      1435  SVI  C   RSP  025-180   III/2                 
+3100 +     1435   1435      1435  SAG  G   RBR  245       250                   
+
+3110       1501   ////      1501  SAG  C   RSP  025-042   III/1                 
+
+3120       1530   1530      1536  HOL  3   FLA  N14W47    SF                4560
+
+3130       1622   1622      1626  HOL  2   FLA  N10W55    SF                4560
+
+3140       1638   1644      1804  HOL  3   FLA  N10W55    SF                4560
+
+3150 +     1853   1907      1918  G18  5   XRA  1-8A      C1.3    1.5E-03   4560
+3150       1859   1908      1944  HOL  3   FLA  N10W55    SF                4560
+
+3160       1945   1945      1955  HOL  3   FLA  N11W56    SF                4560
+
+3180       2028   2128      2139  HOL  1   FLA  N14W61    SF                4560

@@ -1,7 +1,8 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { getJSON, downloadURL } from './api.js'
 import { SOURCES, cell, flagHelp, mergedNote, sourceLink } from './sources.js'
 import { MAX_IMAGE_GAP_MINUTES, closestImage, screenshotURL } from './solarImage.js'
+import { parseFormat } from './urlState.js'
 
 const PAGE_SIZE = 100 // rendering all ~50k rows at once locks up the browser
 
@@ -132,7 +133,7 @@ const apiFilters = (filters) => ({
   active_region: filters.ar, quality_flag: filters.flag,
 })
 
-export default function SourceDashboard({sourceKey, filters, page, onApply, onPage, onCompare}){
+export default function SourceDashboard({sourceKey, filters, page, format, onApply, onPage, onCompare, onFormatHandled}){
   const source = SOURCES[sourceKey]
   const [draft, setDraft] = useState(filters) // what's typed; only applied when Filter is clicked
   const [result, setResult] = useState(null)  // {key, events, total} or {key, error}
@@ -156,8 +157,7 @@ export default function SourceDashboard({sourceKey, filters, page, onApply, onPa
   const apply = (e) => { e.preventDefault(); onApply(draft) }
 
   // downloads pull the full filtered set from the API, not just the page on screen
-  const download = (kind) => {
-    setDownloadError(null)
+  const saveAll = (kind) => {
     fetch(downloadURL(`${source.path}/events/download`, apiFilters(filters)))
       .then(res => res.ok ? res.json() : Promise.reject(new Error(`The API answered ${res.status}`)))
       .then(all => kind === 'csv'
@@ -165,9 +165,24 @@ export default function SourceDashboard({sourceKey, filters, page, onApply, onPa
         : saveFile(JSON.stringify(all), 'application/json', `${sourceKey}_events.json`))
       .catch(err => setDownloadError(err.message))
   }
+  const download = (kind) => {
+    setDownloadError(null)
+    saveAll(kind)
+  }
 
   const total = result?.total || 0
   const error = !loading && result?.error
+
+  // a link with ?format=csv|json downloads once its results are in; it needs flares to save and a valid format
+  const asked = parseFormat(format)
+  const autoDownloaded = useRef(false)
+  useEffect(() => {
+    if (!asked?.format || autoDownloaded.current || loading || result.error || !result.total) return
+    autoDownloaded.current = true
+    saveAll(asked.format)
+    onFormatHandled()
+  })
+  const formatNote = asked?.error || (asked && !loading && !error && !total ? 'Nothing to download: no flares match these filters.' : null)
 
   return (
     <section>
@@ -200,7 +215,7 @@ export default function SourceDashboard({sourceKey, filters, page, onApply, onPa
           <button onClick={() => download('json')} disabled={!total}>Download JSON</button>
         </span>
       </div>
-      {downloadError && <p className="error" role="alert">{downloadError}</p>}
+      {(downloadError || formatNote) && <p className="error" role="alert">{downloadError || formatNote}</p>}
 
       <div className="table-wrap">
         <table className={loading ? 'stale' : ''}>

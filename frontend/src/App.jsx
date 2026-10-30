@@ -63,6 +63,9 @@ function App(){
           onApply={(next) => go({view, ...pick(next, FILTER_KEYS)})}
           onPage={(n) => go({...query, view, page: n || undefined}, false)}
           onCompare={(current) => go({view: 'compare', ...pick(current, ['start', 'end', 'class', 'ar'])})}
+          format={query.format}
+          // the download has started: drop format so a reload or paging doesn't save the file again
+          onFormatHandled={() => go(Object.fromEntries(Object.entries(query).filter(([key]) => key !== 'format')), false)}
         />
       )}
     </div>

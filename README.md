@@ -503,6 +503,12 @@ http://localhost:8000/scrape
   same filters.
 - **Shareable URLs** — the tab and filters live in the address bar (e.g.
   `?view=compare&start=2024-05-01&end=2024-05-31`), so Back works and a search can be sent as a link
+- **Download from a link** — add `format=csv` or `format=json` to a source tab's link (e.g.
+  `?view=noaa&start=2024-05-01&end=2024-05-31&class=M&format=csv`) and the full filtered set downloads as
+  soon as the results load, the same file as the download buttons. `format` is then removed from the
+  address bar, so a reload doesn't download it again. It downloads nothing, and says why, when no flares
+  match, a filter is invalid or the format isn't `csv` or `json`. Browsers that block downloads which
+  weren't started by a click may ask first; the buttons always work
 - **API address** — set `VITE_API_BASE` when building to point at a deployed API (default
   `http://localhost:8000`)
 ---

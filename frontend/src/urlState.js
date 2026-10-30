@@ -1,5 +1,12 @@
 // the current tab and filters live in the address bar, so Back works and a search can be shared as a link
-const KEYS = ['view', 'start', 'end', 'class', 'ar', 'flag', 'sources', 'page']
+const KEYS = ['view', 'start', 'end', 'class', 'ar', 'flag', 'sources', 'page', 'format']
+
+// ?format=csv (or json) downloads the search as soon as it loads, like the download buttons
+export const parseFormat = (value) => {
+  if (!value) return null
+  const format = String(value).trim().toLowerCase()
+  return format === 'csv' || format === 'json' ? {format} : {error: `format must be csv or json, got "${value}".`}
+}
 
 export const readQuery = () => {
   const params = new URLSearchParams(window.location.search)

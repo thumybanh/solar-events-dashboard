@@ -1,0 +1,49 @@
+:Product: 20261111events.txt
+:Created: 2026 Nov 12 1227 UT
+:Date: 2026 11 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Nov 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5850       0306   0307      0307  PAL  U   RBR  245       350                   
+
+5860       0313   0313      0313  PAL  U   RBR  245       110                   
+
+5870       0325   0327      0327  PAL  U   RBR  245       290                   
+
+5890       0335   0335      0335  PAL  U   RBR  245       100                   
+5890 +     0336   0348      0401  G18  5   XRA  1-8A      C1.9    2.3E-03   4573
+
+5900 +     0416   0425      0441  G18  5   XRA  1-8A      C2.0    2.8E-03   4566
+
+5910 +     1006   1013      1021  G18  5   XRA  1-8A      B8.5    7.6E-04   4566
+
+5920 +     1324   1324      1324  SVI  G   RBR  245       100                   
+
+5940 +     1430   1439      1443  G18  5   XRA  1-8A      C1.1    8.3E-04   4566
+
+5950       1452   1453      1456  HOL  3   FLA  S08W26    SF                4568
+
+5960 +     1743   1751      1757  G18  5   XRA  1-8A      C3.3    1.7E-03   4566
+5960       1749   2117      2308  HOL  3   FLA  S10W48    1B                4566
+
+5970 +     1812   1825      1834  G18  5   XRA  1-8A      C2.1    2.4E-03   4566
+
+5980 +     1849   1853      1858  G18  5   XRA  1-8A      C1.6    9.7E-04   4566
+
+5990       2008   2008      2008  SAG  U   RBR  245       230                   
+
+6000 +     2012   2018      2028  G18  5   XRA  1-8A      C1.2    1.1E-03   4566
+
+6010 +     2036   2044      2054  G18  5   XRA  1-8A      C1.2    1.3E-03       
+6010       2039   2041      2058  HOL  3   FLA  S09E52    SF                    
+
+6020 +     2100   2104      2106  G18  5   XRA  1-8A      C1.4    1.5E-03   4566
+
+6030 +     2106   2121      2129  G18  5   XRA  1-8A      M1.7    1.4E-02   4566

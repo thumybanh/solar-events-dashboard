@@ -1,0 +1,49 @@
+:Product: 20261114events.txt
+:Created: 2026 Nov 15 1227 UT
+:Date: 2026 11 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Nov 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6440 +     0002   0010      0017  G18  5   XRA  1-8A      C1.4    1.3E-03   4578
+
+6450 +     0128   0141      0157  G18  5   XRA  1-8A      C1.7    2.6E-03   4578
+
+6460 +     0539   0546      0554  G18  5   XRA  1-8A      C1.3    1.0E-03   4576
+
+6470 +     0602   0606      0608  G18  5   XRA  1-8A      C4.4    1.2E-03   4568
+
+6480 +     0804   ////      0811  LEA  C   RSP  025-180   III/2                 
+
+6500       0848   ////      0852  LEA  C   RSP  025-108   III/2                 
+
+6490       0848   ////      0852  SVI  C   RSP  025-084   III/2                 
+
+6510 +     0928   ////      0931  SVI  C   RSP  025-180   III/2                 
+
+6520       1030   ////      1031  SVI  C   RSP  025-082   III/1                 
+
+6540       1712   1714      1747  HOL  3   FLA  S11W26    SF      DSD       4578
+
+6550 +     1834   1845      1850  G18  5   XRA  1-8A      C2.2    1.4E-03   4576
+
+6560       1908   1909      1912  HOL  3   FLA  S11W26    SF      DSD       4578
+
+6570       1935   1940      1945  HOL  3   FLA  S11W26    SF      DSD       4578
+
+6610       2050   ////      2149  PAL  C   RSP  025-073   III/2                 
+
+6580 +     2058   2107      2114  HOL  3   FLA  S11W26    SF      DSD       4579
+
+6590 +     2116   2127      2138  G18  5   XRA  1-8A      C2.8    2.9E-03   4579
+6590       2127   ////      2135  PAL  C   RSP  025-075   II/2    1972      4579
+6590       2131   2134      2156  HOL  3   FLA  N20E62    SF                4579
+6590       2132   ////      2308  PAL  C   RSP  025-053   IV/2              4579
+
+6600       2146   2151      2210  HOL  3   FLA  S15W46    SF                4570

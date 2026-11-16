@@ -1,0 +1,51 @@
+:Product: 20261115events.txt
+:Created: 2026 Nov 16 1227 UT
+:Date: 2026 11 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Nov 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6620       0024   ////      0046  LEA  C   RSP  025-092   VI/2                  
+
+6630 +     0115   0123      0127  G18  5   XRA  1-8A      C1.0    6.7E-04   4578
+
+6640       0434   ////      0435  LEA  C   RSP  025-108   III/3                 
+
+6650       0720   ////      0721  SVI  U   RSP  025-061   III/1                 
+
+6660 +     0909   0923      0940  G18  5   XRA  1-8A      C1.0    1.7E-03   4578
+
+6670 +     1155   1201      1204  G18  5   XRA  1-8A      B8.1    4.3E-04   4575
+
+6680 +     1307   1315      1331  G18  5   XRA  1-8A      B8.0    1.1E-03   4579
+
+6690       1621   1622      1625  HOL  3   FLA  S21W45    SF                4576
+
+6700 +     1714   1720      1723  G18  5   XRA  1-8A      B8.5    4.5E-04   4575
+
+6710 +     1759   1806      1809  G18  5   XRA  1-8A      B8.6    5.0E-04   4574
+
+6720 +     1814   1814      1814  SAG  G   RBR  245       100                   
+
+6730       1846   ////      1846  PAL  C   RSP  025-075   III/1                 
+
+6740       1926   ////      1932  PAL  C   RSP  025-075   III/2                 
+
+6760 +     2025   2032      2034  G18  5   XRA  1-8A      C1.0    5.2E-04   4575
+
+6750       2029   ////      2031  PAL  C   RSP  025-130   III/3             4575
+6750       2030   2030      2030  PAL  U   RBR  245       140               4575
+6750       2031   2031      2034  HOL  3   FLA  S10E15    SF                4575
+
+6770 +     2116   2127      2134  G18  5   XRA  1-8A      C1.5    1.5E-03   4579
+6770       2122   2129      2131  HOL  3   FLA  N15E64    SF                4579
+
+6780       2132   2133      2137  HOL  3   FLA  N14E64    SF                4579
+
+6790       2224   ////      2228  PAL  C   RSP  025-069   III/2                 

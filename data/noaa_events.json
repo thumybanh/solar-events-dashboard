@@ -235569,7 +235569,7 @@
     "observatory": "G12",
     "active_region": null,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
@@ -567879,8 +567879,8 @@
     "observatory": "G15",
     "active_region": null,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20190306_0514",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -570999,7 +570999,7 @@
     "observatory": "G16",
     "active_region": 2756,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
@@ -571089,7 +571089,7 @@
     "observatory": "G16",
     "active_region": 2757,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
@@ -571254,7 +571254,7 @@
     "observatory": "G16",
     "active_region": 2759,
     "location": "N28W14",
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": 298.87579295466827,
     "pix_y": 161.76535819291837
@@ -571524,8 +571524,8 @@
     "observatory": "G16",
     "active_region": null,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20200529_0432",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -571539,7 +571539,7 @@
     "observatory": "G16",
     "active_region": null,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
@@ -571689,8 +571689,8 @@
     "observatory": "G16",
     "active_region": null,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20200529_1639",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -571899,8 +571899,8 @@
     "observatory": "G16",
     "active_region": null,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20200617_0448",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -572484,7 +572484,7 @@
     "observatory": "G16",
     "active_region": null,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
@@ -586164,7 +586164,7 @@
     "observatory": "G16",
     "active_region": 2824,
     "location": "N17E37",
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": 140.5292685090824,
     "pix_y": 197.33931581085247
@@ -620334,8 +620334,8 @@
     "observatory": "G16",
     "active_region": 2978,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20220327_1037",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -622329,8 +622329,8 @@
     "observatory": "G17",
     "active_region": null,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20220412_0448",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -625149,7 +625149,7 @@
     "observatory": "G16",
     "active_region": null,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
@@ -648894,8 +648894,8 @@
     "observatory": "G17",
     "active_region": 3130,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20221029_1856",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -653634,7 +653634,7 @@
     "observatory": "G16",
     "active_region": 3163,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
@@ -685374,8 +685374,8 @@
     "observatory": "G16",
     "active_region": 3380,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20230724_0735",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -688749,8 +688749,8 @@
     "observatory": "G16",
     "active_region": 3403,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20230819_1800",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -693384,7 +693384,7 @@
     "observatory": "G16",
     "active_region": 3445,
     "location": "S16E01",
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": 252.63092258414258,
     "pix_y": 311.3543645340646
@@ -694254,8 +694254,8 @@
     "observatory": "G18",
     "active_region": 3450,
     "location": "S18E30",
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20231001_0508",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": 160.56433212726722,
     "pix_y": 318.01776238915465
   },
@@ -698964,7 +698964,7 @@
     "observatory": "G18",
     "active_region": null,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
@@ -699039,7 +699039,7 @@
     "observatory": "G18",
     "active_region": 3485,
     "location": "S17W75",
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": 440.8866326196503,
     "pix_y": 314.5193037671707
@@ -704094,8 +704094,8 @@
     "observatory": "G16",
     "active_region": 3521,
     "location": "N10E21",
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20231219_2339",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": 185.13862101840385,
     "pix_y": 221.1342576367552
   },
@@ -707709,8 +707709,8 @@
     "observatory": "G18",
     "active_region": 3539,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20240112_0817",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -720639,7 +720639,7 @@
     "observatory": "G18",
     "active_region": 3628,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
@@ -720654,7 +720654,7 @@
     "observatory": "G18",
     "active_region": 3638,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
@@ -720954,8 +720954,8 @@
     "observatory": "G16",
     "active_region": 3639,
     "location": "N28E56",
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20240415_1345",
+    "quality_flag": "LOW",
+    "matched_lmsal_id": null,
     "pix_x": 109.31897828022016,
     "pix_y": 161.92536547498025
   },
@@ -729189,7 +729189,7 @@
     "observatory": "G16",
     "active_region": 3697,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
@@ -777369,8 +777369,8 @@
     "observatory": "G19",
     "active_region": 4064,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20250424_1529",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -789549,8 +789549,8 @@
     "observatory": "G18",
     "active_region": 4153,
     "location": null,
-    "quality_flag": "HIGH",
-    "matched_lmsal_id": "gev_20250802_1209",
+    "quality_flag": "N/A",
+    "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null
   },
@@ -799104,7 +799104,7 @@
     "observatory": "G19",
     "active_region": 4246,
     "location": "N23W32",
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": 353.87751132545145,
     "pix_y": 177.59851620411808
@@ -820749,7 +820749,7 @@
     "observatory": "G19",
     "active_region": null,
     "location": null,
-    "quality_flag": "LOW",
+    "quality_flag": "N/A",
     "matched_lmsal_id": null,
     "pix_x": null,
     "pix_y": null

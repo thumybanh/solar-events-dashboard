@@ -16,6 +16,16 @@ NOAA_DIR = os.path.join(DATA_DIR, 'noaa_data')
 # The window exists to tolerate small timestamp disagreements between the two catalogues, so the same
 # flare is not flagged LOW over a difference of a minute or two.
 #
+# SET TO 1 ON 2026-11-16, from a re-run on the data through 2026-10-28 (50,352 LMSAL flares, 56,608 NOAA).
+# 99.5% of pairs within 3 minutes agree to the exact minute. Against the chance level (11.3 pairs per
+# signed lag from |lag| 10-60), lag 1 is clearly real (100 pairs against 22.6, ~77% real), lag 2 is
+# about even (47, ~52%) and lag 3 is mostly chance (37, ~39%; z = 3.0 with a Poisson error but 2.3
+# once the wider-than-Poisson scatter is allowed for). Among flares LMSAL listed only once, lags 2
+# and 3 show no excess at all. analysis/window_significance.py (a pair must be >50% likely real)
+# gives W = 1 under the whole confidence interval of the background. The choice moves HIGH by under
+# 0.25 percentage points between W = 0 and W = 4, so it is not load-bearing. The history below led to
+# W = 3 on the earlier, pre-merge data; it is kept because the reasoning about a false HIGH still holds.
+#
 # SET TO 3 ON 2026-09-14. Any value in 1-4 is defensible and the choice is nearly immaterial (HIGH
 # spans 61.8% to 62.2% across that range). 3 is the largest lag whose excess over chance stays
 # significant (z >= 3) under every background estimate tested (z 4.8-8.0 at lag 3, 2.1-4.6 at lag 4).
@@ -43,7 +53,7 @@ NOAA_DIR = os.path.join(DATA_DIR, 'noaa_data')
 #
 # See README and NOTES.md section 4b, including the earlier derivations that were wrong.
 # Reproduce: window_optimization.py.
-MATCH_WINDOW_MINUTES = 3
+MATCH_WINDOW_MINUTES = 1
 
 DAY = 1440  # minutes in a day, for end times that run past midnight
 

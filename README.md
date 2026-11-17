@@ -282,7 +282,7 @@ flags LMSAL events and NOAA flares against each other. Both catalogues get a `qu
  
 | Flag | Condition |
 |------|-----------|
-| `HIGH` | The other catalogue has a flare on the same date, same GOES class, begin times within `MATCH_WINDOW_MINUTES` (3) |
+| `HIGH` | The other catalogue has a flare on the same date, same GOES class, begin times within `MATCH_WINDOW_MINUTES` (1) |
 | `LOW` | The other catalogue has a flare starting within the window, but of a different class |
 | `N/A` | The other catalogue has nothing starting within the window (or this flare has no begin time or class) |
  
@@ -581,9 +581,9 @@ Each LMSAL event is compared against NOAA/GOES XRA events for the same date, and
 against LMSAL events, with the same rule:
  
 ```
-HIGH → the other catalogue has a flare with the same GOES class starting within ±3 minutes
-LOW  → the other catalogue has a flare starting within ±3 minutes, but of a different class
-N/A  → the other catalogue has nothing starting within ±3 minutes,
+HIGH → the other catalogue has a flare with the same GOES class starting within ±1 minute
+LOW  → the other catalogue has a flare starting within ±1 minute, but of a different class
+N/A  → the other catalogue has nothing starting within ±1 minute,
        or this flare has no begin time or class to compare
 ```
  
@@ -662,7 +662,21 @@ with the estimate:
 By this analysis W = 2 is the largest value that holds under *every* estimate including the most
 conservative, and any value in 1–4 is defensible.
 
-**Current setting: `MATCH_WINDOW_MINUTES = 3`** (2026-09-14). Lag 3 is the largest lag whose excess
+**Current setting: `MATCH_WINDOW_MINUTES = 1`** (2026-11-16), re-derived on the data through 2026-10-28
+(50,352 LMSAL flares, 56,608 NOAA flares, 46,084 same-date same-class pairs). 99.5% of pairs within 3
+minutes agree to the exact minute. The chance level is 11.3 pairs per signed lag (95% CI 10.5-12.2,
+from |lag| 10-60; variance/mean 1.65, so wider than Poisson). Lag 1 is clearly real (100 pairs against
+22.6 expected, about 77% real); lag 2 is about even (47, 52%); lag 3 is mostly chance (37, 39%; z = 3.0
+with a Poisson error, 2.3 once the extra scatter is allowed for); lags 4-8 show no excess. Among the
+49,949 flares LMSAL listed only once, lags 2 and 3 show no excess at all. `analysis/window_significance.py`
+(a lag is accepted only if a pair there is more than 50% likely real) gives W = 1 across the whole
+confidence interval of the background. The lag distribution is lopsided (LMSAL earlier than NOAA 139
+times against 45 later, at |lag| 1-3), so LMSAL sometimes gives an earlier start. HIGH is 71.57% (W = 0),
+71.67% (W = 1), 71.72% (W = 2), 71.76% (W = 3) and 71.79% (W = 4) of LMSAL flares: the choice moves it by
+less than 0.25 points. The precision/recall table printed by `window_optimization.py` is circular (its
+background comes from the same data) and is not reported.
+
+**Previous setting, `MATCH_WINDOW_MINUTES = 3`** (2026-09-14, on the earlier, pre-merge data). Lag 3 was the largest lag whose excess
 stays significant (z ≥ 3) under every background estimate above; lag 4 is marginal and lags 5–10 are
 indistinguishable from chance. A `HIGH` flag claims both catalogues saw the same flare, so a false
 `HIGH` is treated as costlier than a missed borderline match — which is why the original ±10 was
@@ -678,8 +692,8 @@ decays while that does not. And "marginal precision >50%" and "z ≥ 3" are not 
 both are (observed − background) against the same estimate, so their agreement is arithmetic rather
 than corroboration.
  
-None of this is load-bearing: HIGH is 61.8% at W=1, 62.0% at W=2, 62.1% at W=3, 62.2% at W=4, and
-62.4% at W=10. The window is not what determines the quality split.
+None of this is load-bearing: on the 2026-09 data HIGH was 61.8% at W=1, 62.0% at W=2, 62.1% at W=3, 62.2% at W=4, and
+62.4% at W=10; on the 2026-10 data it moves 0.22 points between W=0 and W=4. The window is not what determines the quality split.
  
 Reproduce with `python analysis/window_optimization.py` and `python analysis/timing_analysis.py`. Both are read-only.
  

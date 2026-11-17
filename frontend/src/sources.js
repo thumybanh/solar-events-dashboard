@@ -67,9 +67,9 @@ export const cell = (event, column) => {
 // LMSAL and NOAA are flagged against each other, so each one's "other catalogue" is the opposite one
 const OTHER_CATALOGUE = {lmsal: 'NOAA', noaa: 'LMSAL'}
 const FLAG_HELP = {
-  HIGH: (other) => `The ${other} catalogue has a flare of the same class starting within 3 minutes.`,
-  LOW: (other) => `The ${other} catalogue has a flare starting within 3 minutes, but of a different class.`,
-  'N/A': (other) => `The ${other} catalogue has nothing starting within 3 minutes.`,
+  HIGH: (other) => `The ${other} catalogue has a flare of the same class starting at about the same time.`,
+  LOW: (other) => `The ${other} catalogue has a flare starting at about the same time, but of a different class.`,
+  'N/A': (other) => `The ${other} catalogue has nothing starting at about the same time.`,
 }
 export const flagHelp = (flag, sourceKey) => {
   const other = OTHER_CATALOGUE[sourceKey]

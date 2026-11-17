@@ -78,9 +78,9 @@ def home():
             "/compare": "flare counts or individual flares per source, for the comparison chart",
         },
         "quality_flag": {
-            "HIGH": "the other catalogue (LMSAL vs NOAA) has a flare of the same class starting within 3 minutes",
-            "LOW": "the other catalogue has a flare starting within 3 minutes, but of a different class",
-            "N/A": "the other catalogue has nothing starting within 3 minutes (or this flare has no begin time/class)",
+            "HIGH": "the other catalogue (LMSAL vs NOAA) has a flare of the same class starting at about the same time",
+            "LOW": "the other catalogue has a flare starting at about the same time, but of a different class",
+            "N/A": "the other catalogue has nothing starting at about the same time (or this flare has no begin time/class)",
         },
     }
 

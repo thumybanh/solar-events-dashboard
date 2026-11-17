@@ -13,7 +13,7 @@ def N(id, begin, cls, end=None):
 
 def test_high_low_na_both_directions():
     lm = [L('a', '10:00:00', 'M1.0'), L('b', '11:00:00', 'M1.0'), L('c', '12:00:00', 'M1.0')]
-    no = [N('x', '10:02:00', 'M1.0'), N('y', '11:01:00', 'M1.1'), N('z', '13:00:00', 'C1.0')]
+    no = [N('x', '10:01:00', 'M1.0'), N('y', '11:01:00', 'M1.1'), N('z', '13:00:00', 'C1.0')]
     match(lm, no)
     assert [e['quality_flag'] for e in lm] == ['HIGH', 'LOW', 'N/A']
     assert [e['quality_flag'] for e in no] == ['HIGH', 'LOW', 'N/A']
@@ -23,9 +23,17 @@ def test_high_low_na_both_directions():
 
 def test_closest_same_class_wins():
     lm = [L('a', '10:00:00', 'M1.0')]
-    no = [N('far', '10:03:00', 'M1.0'), N('near', '10:01:00', 'M1.0')]
+    no = [N('far', '10:01:00', 'M1.0'), N('near', '10:00:00', 'M1.0')]
     match(lm, no)
     assert lm[0]['matched_noaa_id'] == 'near'
+
+
+def test_window_is_one_minute():
+    lm = [L('a', '10:00:00', 'M1.0')]
+    no = [N('one', '10:01:00', 'M1.0'), N('two', '10:02:00', 'M1.0')]
+    match(lm, no)
+    assert (lm[0]['quality_flag'], lm[0]['matched_noaa_id']) == ('HIGH', 'one')
+    assert no[1]['quality_flag'] == 'N/A'   # two minutes away: outside the window
 
 
 def test_missing_begin_or_class_is_na():
@@ -33,7 +41,7 @@ def test_missing_begin_or_class_is_na():
     no = [N('nob', None, 'M1.0'), N('noc', '10:00:00', None)]
     match(lm, no)
     assert [e['quality_flag'] for e in no] == ['N/A', 'N/A']
-    assert lm[0]['quality_flag'] == 'LOW'  # 'noc' starts within 3 min, but its class can't agree
+    assert lm[0]['quality_flag'] == 'LOW'  # 'noc' starts within the window, but its class can't agree
 
 
 def test_end_time_diff_only_for_high():

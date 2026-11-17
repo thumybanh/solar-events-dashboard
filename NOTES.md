@@ -131,6 +131,20 @@ z = (observed - background) / sqrt(background), under three defensible backgroun
 global average, breaking cleanly at lag 5 in all three. Signal coverage: 99.16% at lag 0, 99.65%
 within +/-1, 99.83% within +/-2, 99.94% within +/-3.
 
+**Update 2026-11-16: window set to W = 1** (supersedes the W = 3 below; figures from the data through
+2026-10-28, 50,352 LMSAL and 56,608 NOAA flares, 46,084 same-date same-class pairs). Signed lag
+(LMSAL - NOAA, minutes) at -3..+3: 31, 33, 75, **35,891**, 25, 14, 6. Background from |lag| 10-60 is
+11.32 per signed lag (95% CI 10.49-12.16; variance/mean 1.65), B = 22.65 per |lag|. Per |lag|: lag 1 has
+100 pairs (excess 77, 77% real, z 12.7 adjusted); lag 2 has 47 (52% real, z 4.0); lag 3 has 37 (39% real,
+z 3.0 Poisson / 2.3 adjusted); lags 4-8 have 15-20 (no excess). For the 49,949 flares listed once, lag 1
+is real (z 5.3) and lags 2 and 3 are not (z 0.7, 0.2). `window_significance.py` gives W = 1 at b-1.96se,
+b and b+1.96se. LMSAL HIGH is 71.57 / 71.67 / 71.72 / 71.76 / 71.79 % at W = 0..4, LOW 2,754 / 3,047 /
+3,161 / 3,238 / 3,297, so the choice is not load-bearing. Negative lags outnumber positive 139 to 45 at
+|lag| 1-3 (63 to 39 among never-merged flares), so the lag is asymmetric and LMSAL sometimes lists an
+earlier start. The precision/recall/F1 table in `window_optimization.py` (argmax W = 0) is circular and
+should not be reported. Only 1 LMSAL/NOAA pair within 3 minutes straddles midnight (same-date indexing),
+and it is already HIGH.
+
 **Update 2026-09-14: window set to W = 3.** Briefly set to 10 the same day (restoring the original
 ±10), then reverted: lags 5-10 are indistinguishable from chance, and a false HIGH is costlier than a
 missed borderline match. 3 is the largest lag significant (z >= 3) under every background estimate

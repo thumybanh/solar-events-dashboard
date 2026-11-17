@@ -29,11 +29,11 @@ test('SciQuality links to that year\'s NCEI flare report and names the flare_id'
 
 test('the flag sentence names the other catalogue: NOAA for LMSAL flares, LMSAL for NOAA flares', async () => {
   const { flagHelp } = await import('../src/sources.js')
-  assert.equal(flagHelp('HIGH', 'lmsal'), 'The NOAA catalogue has a flare of the same class starting within 3 minutes.')
-  assert.equal(flagHelp('LOW', 'lmsal'), 'The NOAA catalogue has a flare starting within 3 minutes, but of a different class.')
-  assert.equal(flagHelp('N/A', 'lmsal'), 'The NOAA catalogue has nothing starting within 3 minutes.')
-  assert.equal(flagHelp('HIGH', 'noaa'), 'The LMSAL catalogue has a flare of the same class starting within 3 minutes.')
-  assert.equal(flagHelp('N/A', 'noaa'), 'The LMSAL catalogue has nothing starting within 3 minutes.')
+  assert.equal(flagHelp('HIGH', 'lmsal'), 'The NOAA catalogue has a flare of the same class starting at about the same time.')
+  assert.equal(flagHelp('LOW', 'lmsal'), 'The NOAA catalogue has a flare starting at about the same time, but of a different class.')
+  assert.equal(flagHelp('N/A', 'lmsal'), 'The NOAA catalogue has nothing starting at about the same time.')
+  assert.equal(flagHelp('HIGH', 'noaa'), 'The LMSAL catalogue has a flare of the same class starting at about the same time.')
+  assert.equal(flagHelp('N/A', 'noaa'), 'The LMSAL catalogue has nothing starting at about the same time.')
   assert.equal(flagHelp('N/A', 'sciquality'), '') // SciQuality isn't flagged
   assert.equal(flagHelp(undefined, 'noaa'), '')
 })

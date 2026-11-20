@@ -1080604,7 +1080604,8 @@
     "event_GOES": "C1.6",
     "event_position": "S18W88( 4576 )",
     "seen_in_dates": [
-      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261118_2359/index.html"
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261118_2359/index.html",
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
     ],
     "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/18/gev_20261118_1925/index.html",
     "quality_flag": "HIGH",
@@ -1080622,7 +1080623,8 @@
     "event_GOES": "C2.3",
     "event_position": "S08E57( 4581 )",
     "seen_in_dates": [
-      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261118_2359/index.html"
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261118_2359/index.html",
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
     ],
     "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/18/gev_20261118_2010/index.html",
     "quality_flag": "HIGH",
@@ -1080640,7 +1080642,8 @@
     "event_GOES": "C1.3",
     "event_position": "S11W89( 4578 )",
     "seen_in_dates": [
-      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261118_2359/index.html"
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261118_2359/index.html",
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
     ],
     "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/18/gev_20261118_2112/index.html",
     "quality_flag": "HIGH",
@@ -1080649,5 +1080652,311 @@
     "end_time_diff": 0,
     "pix_x": 452.23647331119867,
     "pix_y": 294.15017420293646
+  },
+  {
+    "event_id": "gev_20261118_2224",
+    "event_start": "2026/11/18 22:24:00",
+    "event_stop": "22:56:00",
+    "event_peak": "22:41:00",
+    "event_GOES": "C1.6",
+    "event_position": "S19W88( 4576 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/18/gev_20261118_2224/index.html",
+    "quality_flag": "N/A",
+    "matched_noaa_id": null,
+    "matched_via": null,
+    "end_time_diff": null,
+    "pix_x": 444.9456991931022,
+    "pix_y": 321.0986185598296
+  },
+  {
+    "event_id": "gev_20261119_0040",
+    "event_start": "2026/11/19 00:40:00",
+    "event_stop": "01:06:15",
+    "event_peak": "00:49:00",
+    "event_GOES": "C4.9",
+    "event_position": "S19W88( 4576 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_0040/index.html",
+    "quality_flag": "HIGH",
+    "matched_noaa_id": "noaa_20261119_7880",
+    "matched_via": "gev_20261119_0040",
+    "end_time_diff": 6,
+    "pix_x": 444.9456991931022,
+    "pix_y": 321.0986185598296
+  },
+  {
+    "event_id": "gev_20261119_0303",
+    "event_start": "2026/11/19 03:03:00",
+    "event_stop": "03:19:00",
+    "event_peak": "03:12:00",
+    "event_GOES": "C1.1",
+    "event_position": "S08W51( 4577 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_0303/index.html",
+    "quality_flag": "HIGH",
+    "matched_noaa_id": "noaa_20261119_7910",
+    "matched_via": "gev_20261119_0303",
+    "end_time_diff": 0,
+    "pix_x": 410.3057936381721,
+    "pix_y": 283.9049450937722
+  },
+  {
+    "event_id": "gev_20261119_0326",
+    "event_start": "2026/11/19 03:26:00",
+    "event_stop": "03:33:00",
+    "event_peak": "03:31:00",
+    "event_GOES": "C2.1",
+    "event_position": "S08E53( 4581 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_0326/index.html",
+    "quality_flag": "HIGH",
+    "matched_noaa_id": "noaa_20261119_7930",
+    "matched_via": "gev_20261119_0326",
+    "end_time_diff": 0,
+    "pix_x": 97.44754936475363,
+    "pix_y": 283.9013890382304
+  },
+  {
+    "event_id": "gev_20261119_0550",
+    "event_start": "2026/11/19 05:50:00",
+    "event_stop": "06:18:00",
+    "event_peak": "06:06:00",
+    "event_GOES": "B9.3",
+    "event_position": "S11W89( 4578 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_0550/index.html",
+    "quality_flag": "N/A",
+    "matched_noaa_id": null,
+    "matched_via": null,
+    "end_time_diff": null,
+    "pix_x": 452.23647331119867,
+    "pix_y": 294.15017420293646
+  },
+  {
+    "event_id": "gev_20261119_0621",
+    "event_start": "2026/11/19 06:21:00",
+    "event_stop": "06:53:00",
+    "event_peak": "06:29:00",
+    "event_GOES": "C1.1",
+    "event_position": "S11W89( 4578 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_0621/index.html",
+    "quality_flag": "N/A",
+    "matched_noaa_id": null,
+    "matched_via": null,
+    "end_time_diff": null,
+    "pix_x": 452.23647331119867,
+    "pix_y": 294.15017420293646
+  },
+  {
+    "event_id": "gev_20261119_0707",
+    "event_start": "2026/11/19 07:07:00",
+    "event_stop": "07:24:00",
+    "event_peak": "07:20:00",
+    "event_GOES": "C1.7",
+    "event_position": "N13W54( 4572 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_0707/index.html",
+    "quality_flag": "LOW",
+    "matched_noaa_id": null,
+    "matched_via": null,
+    "end_time_diff": null,
+    "pix_x": 414.01782388700906,
+    "pix_y": 210.9067648614477
+  },
+  {
+    "event_id": "gev_20261119_0730",
+    "event_start": "2026/11/19 07:30:00",
+    "event_stop": "07:51:00",
+    "event_peak": "07:42:00",
+    "event_GOES": "C2.4",
+    "event_position": "S10W89( 4578 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_0730/index.html",
+    "quality_flag": "HIGH",
+    "matched_noaa_id": "noaa_20261119_7980",
+    "matched_via": "gev_20261119_0730",
+    "end_time_diff": 0,
+    "pix_x": 452.87234093729376,
+    "pix_y": 290.71906435296444
+  },
+  {
+    "event_id": "gev_20261119_0813",
+    "event_start": "2026/11/19 08:13:00",
+    "event_stop": "08:28:00",
+    "event_peak": "08:18:00",
+    "event_GOES": "C1.2",
+    "event_position": "S18W88( 4576 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_0813/index.html",
+    "quality_flag": "N/A",
+    "matched_noaa_id": null,
+    "matched_via": null,
+    "end_time_diff": null,
+    "pix_x": 446.0525183546978,
+    "pix_y": 317.78920297111875
+  },
+  {
+    "event_id": "gev_20261119_0838",
+    "event_start": "2026/11/19 08:38:00",
+    "event_stop": "09:14:11",
+    "event_peak": "08:58:00",
+    "event_GOES": "C3.2",
+    "event_position": "S18W88( 4576 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_0838/index.html",
+    "quality_flag": "HIGH",
+    "matched_noaa_id": "noaa_20261119_7990",
+    "matched_via": "gev_20261119_0838",
+    "end_time_diff": -3,
+    "pix_x": 446.0525183546978,
+    "pix_y": 317.78920297111875
+  },
+  {
+    "event_id": "gev_20261119_1059",
+    "event_start": "2026/11/19 10:59:00",
+    "event_stop": "11:08:00",
+    "event_peak": "11:05:00",
+    "event_GOES": "B9.6",
+    "event_position": "S08E51( 4581 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_1059/index.html",
+    "quality_flag": "LOW",
+    "matched_noaa_id": null,
+    "matched_via": null,
+    "end_time_diff": null,
+    "pix_x": 101.69420636182792,
+    "pix_y": 283.9049450937722
+  },
+  {
+    "event_id": "gev_20261119_1133",
+    "event_start": "2026/11/19 11:33:00",
+    "event_stop": "11:53:00",
+    "event_peak": "11:42:00",
+    "event_GOES": "B9.7",
+    "event_position": "S18W88( 4576 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_1133/index.html",
+    "quality_flag": "HIGH",
+    "matched_noaa_id": "noaa_20261119_8030",
+    "matched_via": "gev_20261119_1133",
+    "end_time_diff": 0,
+    "pix_x": 446.0525183546978,
+    "pix_y": 317.78920297111875
+  },
+  {
+    "event_id": "gev_20261119_1227",
+    "event_start": "2026/11/19 12:27:00",
+    "event_stop": "12:52:00",
+    "event_peak": "12:43:00",
+    "event_GOES": "C2.6",
+    "event_position": "N13W58( 4572 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_1227/index.html",
+    "quality_flag": "HIGH",
+    "matched_noaa_id": "noaa_20261119_8070",
+    "matched_via": "gev_20261119_1227",
+    "end_time_diff": 0,
+    "pix_x": 421.597779832382,
+    "pix_y": 210.91865213018994
+  },
+  {
+    "event_id": "gev_20261119_1314",
+    "event_start": "2026/11/19 13:14:00",
+    "event_stop": "13:30:00",
+    "event_peak": "13:24:00",
+    "event_GOES": "M2.4",
+    "event_position": "S19W88( 4576 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_1314/index.html",
+    "quality_flag": "HIGH",
+    "matched_noaa_id": "noaa_20261119_8100",
+    "matched_via": "gev_20261119_1314",
+    "end_time_diff": 0,
+    "pix_x": 444.9456991931022,
+    "pix_y": 321.0986185598296
+  },
+  {
+    "event_id": "gev_20261119_1356",
+    "event_start": "2026/11/19 13:56:00",
+    "event_stop": "14:03:00",
+    "event_peak": "13:59:00",
+    "event_GOES": "M1.1",
+    "event_position": "N13W58( 4572 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_1356/index.html",
+    "quality_flag": "HIGH",
+    "matched_noaa_id": "noaa_20261119_8110",
+    "matched_via": "gev_20261119_1356",
+    "end_time_diff": 0,
+    "pix_x": 421.597779832382,
+    "pix_y": 210.91865213018994
+  },
+  {
+    "event_id": "gev_20261119_1659",
+    "event_start": "2026/11/19 16:59:00",
+    "event_stop": "17:33:00",
+    "event_peak": "17:16:00",
+    "event_GOES": "C2.8",
+    "event_position": "S14W89( 4578 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_1659/index.html",
+    "quality_flag": "HIGH",
+    "matched_noaa_id": "noaa_20261119_8150",
+    "matched_via": "gev_20261119_1659",
+    "end_time_diff": 0,
+    "pix_x": 449.971061299222,
+    "pix_y": 304.36959958862644
+  },
+  {
+    "event_id": "gev_20261119_2246",
+    "event_start": "2026/11/19 22:46:00",
+    "event_stop": "23:12:16",
+    "event_peak": "22:55:00",
+    "event_GOES": "B7.0",
+    "event_position": "S06W60( 4577 )",
+    "seen_in_dates": [
+      "https://www.lmsal.com/solarsoft/ssw/last_events-2026/last_events_20261119_2359/index.html"
+    ],
+    "event_url": "https://www.lmsal.com/solarsoft/latest_events_archive/events_summary/2026/11/19/gev_20261119_2246/index.html",
+    "quality_flag": "HIGH",
+    "matched_noaa_id": "noaa_20261119_8220",
+    "matched_via": "gev_20261119_2246",
+    "end_time_diff": 1,
+    "pix_x": 428.59024801285557,
+    "pix_y": 276.94617056973425
   }
 ]

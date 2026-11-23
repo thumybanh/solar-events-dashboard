@@ -853408,5 +853408,50 @@
     "matched_lmsal_id": "gev_20261121_1919",
     "pix_x": null,
     "pix_y": null
+  },
+  {
+    "event_id": "noaa_20261122_8430",
+    "date": "2026-11-22",
+    "begin": "2026-11-22 16:25:00",
+    "peak": "2026-11-22 16:32:00",
+    "end": "2026-11-22 16:35:00",
+    "goes_class": "B3.3",
+    "observatory": "G19",
+    "active_region": 4581,
+    "location": null,
+    "quality_flag": "HIGH",
+    "matched_lmsal_id": "gev_20261122_1625",
+    "pix_x": null,
+    "pix_y": null
+  },
+  {
+    "event_id": "noaa_20261122_8440",
+    "date": "2026-11-22",
+    "begin": "2026-11-22 19:54:00",
+    "peak": "2026-11-22 19:58:00",
+    "end": "2026-11-22 20:05:00",
+    "goes_class": "B3.2",
+    "observatory": "G18",
+    "active_region": 4579,
+    "location": "N18W24",
+    "quality_flag": "HIGH",
+    "matched_lmsal_id": "gev_20261122_1954",
+    "pix_x": 333.6507995552159,
+    "pix_y": 193.96909283234234
+  },
+  {
+    "event_id": "noaa_20261122_8450",
+    "date": "2026-11-22",
+    "begin": "2026-11-22 20:33:00",
+    "peak": "2026-11-22 20:46:00",
+    "end": "2026-11-22 20:52:00",
+    "goes_class": "B4.2",
+    "observatory": "G18",
+    "active_region": 4574,
+    "location": null,
+    "quality_flag": "HIGH",
+    "matched_lmsal_id": "gev_20261122_2033",
+    "pix_x": null,
+    "pix_y": null
   }
 ]

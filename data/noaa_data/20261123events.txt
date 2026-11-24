@@ -1,0 +1,30 @@
+:Product: 20261123events.txt
+:Created: 2026 Nov 24 1527 UT
+:Date: 2026 11 23
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Nov 23
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8460       0007   0011      0016  G19  5   XRA  1-8A      B2.5    1.5E-04   4574
+
+8470 +     0623   0630      0639  G18  5   XRA  1-8A      B4.7    3.9E-04   4574
+
+8490 +     0950   0956      0958  G18  5   XRA  1-8A      B2.8    1.4E-04   4579
+
+8500 +     1240   1240      1240  SAG  G   RBR  245       100                   
+
+8510       1831   ////      1832  SAG  C   RSP  025-180   III/2                 
+
+8520 +     1918   1929      1936  G18  5   XRA  1-8A      B2.5    3.1E-04   4572
+
+8530 +     1936   1941      1945  G18  5   XRA  1-8A      B2.3    1.5E-04   4572
+
+8540       2209   ////      2209  PAL  C   RSP  025-066   III/2                 
+
+8550 +     2322   2330      2334  G18  5   XRA  1-8A      B3.6    2.4E-04   4572

@@ -853543,5 +853543,20 @@
     "matched_lmsal_id": "gev_20261123_2322",
     "pix_x": null,
     "pix_y": null
+  },
+  {
+    "event_id": "noaa_20261124_8560",
+    "date": "2026-11-24",
+    "begin": "2026-11-24 00:34:00",
+    "peak": "2026-11-24 00:41:00",
+    "end": "2026-11-24 00:45:00",
+    "goes_class": "B2.6",
+    "observatory": "G18",
+    "active_region": 4581,
+    "location": null,
+    "quality_flag": "HIGH",
+    "matched_lmsal_id": "gev_20261124_0034",
+    "pix_x": null,
+    "pix_y": null
   }
 ]

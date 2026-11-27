@@ -1,0 +1,47 @@
+:Product: 20261126events.txt
+:Created: 2026 Nov 27 1527 UT
+:Date: 2026 11 26
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Nov 26
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8680 +     0147   0158      0202  G18  5   XRA  1-8A      B5.3    3.8E-04       
+
+8690 +     0317   0322      0325  G18  5   XRA  1-8A      B4.3    1.8E-04       
+8690       0321   ////      0322  LEA  C   RSP  025-111   III/3                 
+
+8700 +     0458   0507      0510  G18  5   XRA  1-8A      B6.4    2.6E-04       
+8700       0504   ////      0508  LEA  C   RSP  025-103   III/3                 
+
+8720       0623   ////      0630  LEA  C   RSP  025-084   III/2                 
+
+8710       0626   ////      0635  SVI  U   RSP  025-074   III/1                 
+
+8730       0704   ////      0705  LEA  U   RSP  025-068   III/2                 
+
+8740 +     0735   0739      0741  G18  5   XRA  1-8A      B2.5    1.0E-04       
+
+8750       0757   ////      0805  SVI  U   RSP  025-125   III/1                 
+
+8780       0841   ////      1039  LEA  C   RSP  041-094   CTM/2                 
+
+8770       0949   ////      0950  SVI  C   RSP  025-083   III/1                 
+
+8760       0949   ////      1002  LEA  C   RSP  025-125   VI/2                  
+8760 +     0954   1002      1004  G18  5   XRA  1-8A      B2.7    1.5E-04       
+
+8790 +     1110   1113      1115  G18  5   XRA  1-8A      B2.3    9.4E-05       
+
+8800 +     1530   1546      1603  G18  5   XRA  1-8A      B3.3    6.2E-04       
+
+8810       1931   ////      1931  SAG  C   RSP  075-180   III/2                 
+
+8820       2004   ////      2101  SAG  C   RSP  074-180   VI/2                  
+
+8830 +     2304   2314      2336  G18  5   XRA  1-8A      B3.3    5.8E-04       
